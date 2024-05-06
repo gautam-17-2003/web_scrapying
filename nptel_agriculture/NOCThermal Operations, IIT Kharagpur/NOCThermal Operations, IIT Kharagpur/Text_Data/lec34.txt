@@ -1,0 +1,154 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 34
+Heat Transfer by Radiation
+After convection and conduction thoroughly done, now I would like to go for Heat
+Transfer under Radiation and this is lecture number 34. So, we are going to heat transfer
+by radiation, ‘right”. Now, let me tell beforehand that the importance, we have already
+said the importance of conductor a conduction, we have said importance of convection
+and the importance of radiation also we must say, ‘right”. It is that you if you have ever
+seen that a kitchen is also is one of the very important place to learn many things. 
+So, if you have ever seen that your mummy and others are making food and maybe doing
+some roti or bread or things like that and the plate on which it is being made, I do not
+know whether you have observed it or not that you do not have to touch the plate, but if
+you are nearby, then also you feel some heat, ‘right”. So, that heat you have not touched
+the thing, and there was no fan or nothing, you are very close to the plate and you
+observed or you faced or you felt that some heat is coming to you. How? Because this is
+possible when the temperature is very high that time the radiation takes place. 
+And when we go into the radiation in detail you will see that the normal our conduction
+convection we have seen that the deltas delta ts are all in terms of all in terms of normal
+Tc -Th -Tc things like that. But here it will be in the time thumbs up power to the power 4,
+Th4, Tc4, δT is that Th4-Tc4, ‘right”. So, because of; that means, the higher the temperature
+more is the radiation, ‘right”. However, without saying much more let us go into the
+subject and we first look at what is radiation, ‘right”. (Refer Slide Time: 03:37)
+So, radiation heat transfer is that how does earth get heat energy from the sun? ‘‘right”’.
+Sun is several lakhs kilometer away from earth. And yes, sun is so hot and this hot is
+coming to us we are getting in summer season you feel very hot, in the winter season you
+feel also cold, but still when there is a sun you feel a better. So, the sun is sending you
+that energy, ‘right”.
+How it is happening? ‘right”. There are no particles between the earth and the sun and
+hence it cannot travel by conduction or by convection because you have seen for either
+conduction or convection you need to have some medium, ‘right”. But since between the
+earth and sun there is no medium, ‘right”. So, how it is being transmitted or how it is
+being sent? ‘right”. It is only by radiation, ‘right” the energy which is coming there is
+only by radiation because there is no medium, so no convection, no conduction, so only
+by radiation it is being transmitted from sun to the earth, ‘right”.(Refer Slide Time: 05:26)
+So, for this the certain things are to remember for radiation heat transfer, that radiation
+travels in straight lines. Radiation can travel through a vacuum also because the space is
+that where there is nothing no medium, but still it is propagating. Radiation does not
+require particles to travel. Radiation travels at the speed of light. Thermal radiation is
+emission of energy as electromagnetic waves. Intensity depends on body temperature
+and surface characteristics. 
+Important  mode of heat transfer it is also an very important mode of heat transfer
+otherwise a had there been no radiation heat transfer, then earth would not have got so
+much  energy  from  the  sun,  ‘right”.  So,  important  mode  of  heat  transfer  at  high
+temperatures for example, combustion etcetera, there as we said that it is to the power of
+4,  T4,  that  temperature  to  the  power  4,  in  that  order  the  variations  are.  Radiation
+exchange is difficult to solve, it is not that easy that you can solve like conduction or like
+conviction also you can solve the problem so easily. It is more and more complicated. (Refer Slide Time: 07:24)
+However, we must do some basics and show that when a radiation is coming that is
+incident energy flux like this, ‘right”, q W/m2 that is the incident energy flux, and this is
+the surface which is a translucent slab. So, out of this when it is incident, then αq
+quantity is absorbed, Rq quantity is reflected, and τq quantity is transmitted, ‘right”. 
+That means, the total is 1 which is α total q, ‘right” is α+R+τ this time q, so it becomes 1
+plus 1 is α+R+τ out of which α is the absorptance, R is the reflectance, and τ is the
+transmittance, ‘right”. So, this is how the energy is getting transmitted out of which some
+are observed, some are reflected and some are also transmitted, ‘right”.(Refer Slide Time: 09:22)
+So, if we look at a black body. A black body is a model of a perfect radiator which
+absorbs all energy that reaches it and reflects nothing. So, in the black body α is equal to
+1, R is equal to τ is equal to 0. So, the previous slide which we had shown there this for a
+perfect black body, absorption is 1. So, α becomes equal to 1 because the reflectance is 0
+and also transmittance is 0, nil. So, it becomes 1, α is 1 which is the quantum for
+absorption, ‘right”. 
+So, we can say that the energy emitted by a black body is the theoretical maximum that
+is q is equal to σT4, ‘right”. So, q = σT4 and is governed by Stefan Boltzmann law, where
+sigma is the Stefan Boltzmann constant. 
+Generally, it is known as 5.67 not to this tune 5.6697, it is generally known as 5.67
+maybe 8, ‘right”, 5.67 8 or 5.67 generally, 2 digit into 10-8 W/m2.K4, ‘right”. So, this is
+Stefan Boltzmann constant, so where it is denoted as q = σT4. So, this is the theoretically
+maximum which can be emitted by a black body, ‘right”.(Refer Slide Time: 12:01)
+The wavelength at which the maximum amount of radiation occurs is given by another
+law which is called Wien’s law, ‘right”; which is called Wien’s law. And this is λ maxT
+=2.898×10-3 m.K, ‘right”, λmax is meter T is in Kelvin. So, λ max T is 2.898, 10-3 m.K. 
+Typical wave length are λ max is 10 µm this is true for infrared at room temperature or far
+infrared at room temperature and ok, this is that. So, at room temperature and δ max or λmax,
+sorry λmax is 0.5 µm that is called green at 6000 K, ‘right”. 
+For the sun which is at 5800 K λ max is about 0.5 µm whereas, for the earth which is
+roughly 288 K, λmax is approximately 10 µm, ‘right” is 0.5 µm for sun, whereas, for earth
+it is 10 µm, ‘right”. (Refer Slide Time: 14:44)
+So, with this some preamble of our blackbody, let us now go to the real bodies, ‘right”.
+So, real bodies are those which emit less variation than a blackbody where q is ɛσT4. So,
+the quantity of heat which is emitted is ɛσT4. ɛ is the emissivity which is a number
+between 0 and 1. Such a body would be called gray because the emissivity is the average
+over the spectrum, ‘right”. You see air from the T infinity q infinity is coming, ok, net is
+capital Q, q watt is being transmitted at T wall and area is A. 
+So, for this we have given that example, radiation from a small body to its surroundings
+like this is both the body and its surroundings emit thermal radiation, both the body and
+its surrounding. The net heat transfer will be from the hotter to the colder; obviously, if
+this is hot than the other then it will be from there or if it is hot than the other then it will
+be from there, ‘right”. 
+So, the net heat transfer is then )Tεσ(TQ44wallnet. From small or rather for small ΔT
+this termwT4wT,  4T can roughly be approximated as )(3TTTw. And in that
+case netQcan be related as ΔTAhr, where ΔT hr ×Δ T, where hr is an effective radiation
+heat  transfer  coefficient  and ΔT  is  the  temperature  difference,  ‘right”.  So, h r is  an
+effective radiation heat transfer coefficient. (Refer Slide Time: 18:26)
+So, if this is known then let us go for calculation of wall heat flux. So, if we want to find
+out the wall heat flux, then heat flux q is h f ×(Tw - Tf) + qradiation and for laminar flows h f is
+kf/Δy, for turbulent flows h f follows from correlations describing the thermal boundary
+layer profile. 
+External  wall  radiation  is  like  this  )Tσ(Tεq4w4externalrad,  where  Tw is  the  wall
+temperature, Tf is the fluid temperature, T infinity that user specified temperature or
+surrounding temperature. 
+externalε is the emissivity of external wall surface, σ is the Stefan Boltzmann constant, h f
+is fluid side local heat transfer coefficient, and Δx normal distance fluid cell center to the
+wall, fluid cell center from the fluid to the wall, ‘right”. The distance that is Δx or Δy, in
+this case we have used delta y, ‘right”. So, h f into = kf / Δy. (Refer Slide Time: 20:30)
+So, from these basic relations  we go to the optimization of heat transfer. Like, the
+following relations for heat transfers are optimized like, if it is conduction then it is
+/dTkAf, ‘right” that is for conduction. If it is convection, then  TAhand if it is
+radiation then TAhr, ‘right”. This is more or less optimization of the heat transfer for
+3 modes of heat transfer, /dTkAf, TAh and TAh TAhr, ‘right”. 
+So, as a result when equipment designers want to improve heat transfer rates they focus
+on either increasing the area A. For example, by profile pipes and ribbed surfaces which
+we have done by extension of area that is by fin, ‘right”, that fin heat transfer also we
+have done, ‘right”. Increasing ΔT which is not always controllable, it is not that when
+you are cooking suddenly your temperature is 100 °C, suddenly you thought it is taking
+time let me make it 200 °C not visible, ‘right”. So, this control is beyond you. 
+So, that is why increasing ΔT is not normally controllable, but increasing the surface area
+A, yes as and when you need you can do it, ‘right”. And we had said also in the fluid
+heat transfer that there is a parameter by which heat that is justified then only you can do,
+‘right”. For conduction increasing k f/d that value if you can increase. So, more the value
+up for a given d, more the value of k f you have more conduction conductive heat transfer.
+Increasing h by not relying on natural convection, but introducing forced convection we
+also saw that compared to natural convection or free convection forced convection hasmore heat transfer, ‘right”, the rate is a much much higher and increase h r by using black
+surfaces. So, this  is  how  we can optimize  the heat transfer in 3 modes that is the
+conduction, convection and radiation. 
+(Refer Slide Time: 23:57)
+Now, we have said earlier one term that epsilon or emissivity, ‘right”. So, that emissivity
+or emission how can we measure or to have some idea, let us look into this. Those 4
+containers were filled with warm water, which container would have the warmest water
+after 10 min? One, shiny metal container with shiny metal, container made of dull metal,
+container made of dull black and container made of shiny black. 
+The question is which container would have the warmest water after 10 min all other
+conditions remaining identical. You have a container which that is made of shiny metal
+or a container the same size everything same, container content everything same is dull
+metal, then container with dull black and container with shiny black, which one is the
+one that will have the maximum temperature or a warmest temperature or condition of
+water which one will have? ‘right”. 
+So, the answer is the shiny metal container would be the warmest after 10 min. The shiny
+metal container would be the warmest after 10 min because its shiny surface reflects heat
+radiation back into the container. So, less is lost, ‘right” and the container with dull black
+would be the coolest, with dull black will be the coolest because it is the best at emitting
+heat radiation, ‘right”.So, it is the best at emitting heat radiation. So, we have seen that we have taken if; that
+means, radiation is also a function of the material, ‘right” that we have given and once
+we have seen that some radiation is occurring or internal, ‘right”, so that is becoming the
+warmest, that is the shiny metal. That is why you will see in most of the cases; the walls
+are getting highly policed highly shining so that the reflection or radiation is taking place
+very well. That depends on the case to case how what you want to do the utilization,
+‘right”. 
+So, with this let us complete this initial class of the radiation, subsequently we will also
+go  into  a  little  detail  to  find  out  the  emissivity  etcetera.  Let  us  see  how  we  are
+proceeding.
+Thank you. 

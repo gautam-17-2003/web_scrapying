@@ -1,0 +1,182 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 19
+Finned Surfaces (Contd.)
+So, we are discussing about the finned heat transfer analysis. We have done for fin with
+long fin or we have also done for fin with negligible heat loss at the fin tip. And, these
+were the two situations which we said and we were left with the third that is fin with the
+convective boundary, ‘right’; obviously, that fin with the convective boundary will not
+be that easy. So, we have come to the 19th class lecture number 19 we are handling
+Finned Surface and this is being continued, ‘right’.
+(Refer Slide Time: 01:23)
+So,  we  are  now  going  to  that  fin  with  convective  boundary,  ‘right’.  So, fins  with
+convection at the tip. So, this is the most realistic boundary condition, why we are saying
+this is the most realistic boundary condition? Because, that most of the cases as we said
+that if this is that and if this is the fin tip, ‘right’, fin. 
+So, then when we are saying in one case we are saying it is a long fin and in other case
+we are saying that fin tip is attaining the boundary temperature. These two are more
+hypothetical than that the fin is under some convective boundary condition. So, that is
+why this is being said that this situation is more realistic than the other two.So, we also do solve this one and the mathematical formulation for this can be written,
+the generalized equation is     and the boundaries.
+The first boundary is 
+This we said conventionally this is assumed and which we are taken as one boundary.
+Second boundary that varied with long fin that varied with fin with negligible heat loss at
+the fin tip. So, this is the third that is the fin with convective boundary condition. So, that
+boundary condition we can write that conduction must be equal to convection, ‘right’ or
+some of the convection and conduction equal to 0 in the fin.
+So,  here,  we  write  that
+ .  And,  the  solution  of  heat
+transfer, we can write in the form as shown above. 
+So, this is a solution and we have to find out the values of C 1 and C2 with the help of the
+boundary conditions. A first boundary was theta x is equal to T 0 -Te at theta x is equal to
+0 which was equal to theta 0. And, the second solution was theta x is equal to cos;
+second boundary was k d theta x dx plus h e into theta x is equal to 0 at x is equal to L,
+‘right’. 
+So, if we look at the solution of it the solution came to be equal to that theta x is equal to
+We  take  both  this  for  long  with
+negligible heat loss at the fin tip and this convective boundary both the cases the solution
+in the form of hyperbolic, ‘right’.222( )( ) 0 0d xm x in x Ldx   (Refer Slide Time: 06:26)
+So, if we look at that application of boundary conditions to this lead to 
+So, from these two equations if we look at the solution we can find out the values of C 1
+and C2 ‘right’. So, determining the constants C 1 and C2 and replacing them into the
+solution the temperature distribution in the fin that becomes equal to; so, let us look into
+that what it is coming in. 0 1 2
+2 1
+1 2
+2cosh sinh
+, 0
+sin ,
+| sinh ( ) cosh ( )e
+x L x LC mL C mL
+and kC m h C
+ce
+dC m m L x C m m L xdx
+C m
+
+  
+  
+    
+ (Refer Slide Time: 08:08)
+Now, the limiting condition is appearing, ‘right’, what is that limiting condition which is
+coming in? So, what is coming?
+If ho, which corresponds to the no heat loss, if h is equal to 0, ‘right’, that is heat transfer
+coefficient at the fin surface fin tip, ‘right’, that is, if h e is becoming 0; that means, that,
+there is no heat loss from the fin tip, ‘right’. This leads to the solution obtained earlier h e
+is 0 meaning that this factor is becoming 0, meaning this whole thing is becoming 0,
+meaning this whole thing is again becoming 0, meaning it is becoming sin hyperbolic
+mL over cos hyperbolic mL; that means, it is becoming tan hyperbolic mL, ‘right’.
+And, this tan hyperbolic when it is becoming; that tan hyperbolic mL that with the value
+of L this is becoming close to 1. So, Q is becoming theta 0 under root PhkA, ‘right’. So,
+if it is theta 0 under root PhkA then we can say that the whole thing is now equivalent to
+that fin with negligible heat loss, if h e that is environmentally transfer coefficient is 0,0 0
+0( )( )
+cosh ( ) ( )sinh ( )
+cosh ( )sinh
+sinh ( )cosh
+cosh ( )sinhe
+e
+e
+e
+e
+eT x Tx
+T T
+m L x h mk m L x
+mL h mk mL
+and the heat flow rate through the fin is
+mL h mk mLQ PhkAmL h mk mL
+
+
+  
+   ‘right’. So, that is becoming equivalent to that heat loss with that heat loss with the
+negligible heat loss at the fin tip, ‘right’.
+(Refer Slide Time: 12:32)
+So, we can say now that one end of a steel with a problem, ‘right’, we said that we will
+try to do some problem if possible and if we do some problem; obviously, will be more
+clear with the things ‘right’. So, let us take that a one end of a steel rod of diameter D is
+equal to 2.5 centimeter, L = 25 centimeter, & thermal conductivity k is equal to 60 W /
+(m  oC)  is  maintained  at  a  temperature  of  100  oC.  And,  the  rod  is  exposed  to  an
+environmental air at T e is equal to 25 oC having a heat transfer coefficient h is equal to 50
+W / (m2oC).
+Now, calculate the heat loss from the rod, ‘right’. So, let us repeat a one end of steel rod
+of diameter 2.5 centimeter, L = 25 centimeter, & thermal conductivity k 60 W / (moC) is
+maintained at a temperature of 100oC. and the steel rod is exposed to an ambient air at Te
+is equal to 25 oC having a heat transfer coefficient h equal to 50 W/m2oC; then calculate
+the heat loss from the rod, ‘right’.
+So, here we have not been said whether the end of the fin is what under what condition
+whether it is a long fin or it is a fin with negligible heat loss at the tip nothing has been
+said, ‘right’. So, let us assume that the length of the diameter ratio and which is equal to
+almost 10 time which is 10 rather indicating that we can assume it to be a long fin, ‘right’because, we are given diameter is 2.5, length is 25. So, L by D that is becoming equal to
+10; that means, length is 10 times more than the diameter.
+So, if that be true we can assume that it to be a long fin and if we assume it to be a long
+fin then first thing which we need to know that let us find out what is the value of m,
+‘right’. So, 
+Now, you remember, we said earlier that tan mL, if mL value is 1 it was somewhere 0.7
+if it was 2 if it was 0.96 and if it was 3, it was almost 0.99, ‘right’. So, this value has
+come 2.88; now if that be true then let us find out what is the value of the solution.
+(Refer Slide Time: 18:19)
+So, Q is equal to then
+So, if we had used the equation for negligible heat loss the difference in the result would
+have been a factor of tan hyperbolic mL and that is equal to mL = tanh 2.88 = 0.9937.
+which is negligible because, this value is 25.5 and this 25.5 into 0.9937 almost would2
+24 4 50133.3360 0.025
+4
+11.54 , 11.54 0.25 2.88hP h D h XmAk kD XD k
+m and mL X
+       
+   
+
+20 0
+34
+100 25 0.025 60 50 25.52Q Pakh D D kh
+X X W  
+      
+  have been close to 25, ‘right’. So that means, in this case first we can assume since,
+nothing was given we had assumed this is to be a long fin. And, with the solution of the
+long fin we have found out the value of Q, and the value of Q came out to be 25.5 Watts,
+‘right’. Now, let us look into the other thing, what could be the other thing? That fin with
+negligible heat lost at the fin tip.
+If we would have taken the difference would have been that tan mL ‘right’. So, tan
+hyperbolic mL, that tanh mL the value of that when the value of mL became equal to
+2.88 means almost close to 3 the tanh mL almost came to be close to 1, because 0.99
+something.  So that means, the loss I mean that the difference would have been very
+negligible, ‘right’. So, this is one case where the fin condition was not specified, ‘right’,
+but we assumed one, that is we assumed first long fin and then we showed that, if we
+would have assumed the other one that is fin with negligible heat loss at the fin tip.
+Then also the difference between that solution that is the flow of heat that is Q would
+been negligible, ‘right’, because that was coming to the factor of 0.99 something, ‘right’.
+So, 0.99 something and the close one is almost same. So, we did not do anything wrong
+by assuming the first one and we proved then other one also would have lead to the same
+result or almost very close, ‘right’. 
+So now, let us look into some other situation, other problem that yeah, let us look into
+other problem which perhaps I missed it here. And, perhaps we will be doing that what is
+the situation, when we are an linked with different mL or rather we are different situation
+of the fin, ‘right’.
+So, that in some class maybe in the next or next to next classes we will be doing with
+that what are the different types of fins, ‘right’; some idea we should have what are the
+different types of fins are there. So, that we will do perhaps and different types of fin
+meaning that different types of fin meaning that as we said that, if you assume that this
+hand is a tube, ‘right’ and normally the people who make this fin. So, they say that this is
+an watch fine, but if you just remember, you just imagine that the ladies who are putting
+what we call fin, ‘right’, what do you are calling that they are putting some bangles and
+other things, ‘right’.
+So, they are pushing it and this fitting is a shrink fitting, this fitting is a shrink fitting and
+regarding shrink fitting, what it how can it be done? That by some means this say this isthe fin, ‘right’, this is the fin, ‘right’ and this diameter has to be actually a little closer or
+smaller than this one, ‘right’ then by some means this pipe is made contracted. So, that it
+becomes shorter in diameter at that situation where, you can put this fin, ‘right’ like a fin
+which this one has become shorter. And, you are putting this fin over it, ‘right’ and it
+then when it becomes normal then becomes expanded then it fits absolutely perfectly,
+‘right’.
+Now, you remember we said the thermal contact resistance, ‘right’, if the fin is not
+properly fixing on it then there will be thermal contact resistance and that will lead to the
+loss or temperature drop much more. So, which is not desirable that is why this is called
+shrink fitting; in many cases a round type of a fins are there then they are fitted like that,
+‘right’. There are that is, ‘right’ sometime we will also show that what are the different
+types of fins available and that we will show some day, maybe next class or next to next
+class depending on how we are doing, ‘right’.
+So, let us then since our time is over, let us now make it to be a thank you and thank you
+for your attention. And, but again and again I am saying that do some problem solutions
+unless you do the solutions of the problems you will not come across, you will not be
+able to do the solutions or understanding of the situation, ‘right’.
+Thank you very much. 

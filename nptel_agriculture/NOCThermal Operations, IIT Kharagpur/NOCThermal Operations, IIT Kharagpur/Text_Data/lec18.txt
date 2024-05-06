@@ -1,0 +1,190 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 18
+Finned Surfaces (Contd.)
+Good morning. So, we are dealing with that Finned Surface, ‘right’, the analysis of
+finned  surface heat  transfer.  So,  here we have  this  is  on 18th class  finned surface
+continuation, ‘right’. 
+(Refer Slide Time: 00:46)
+So, we go now, to that long fin we had said that the base temperature must be known,
+‘right’. So, that we had defined to be θ0 = T0 - Te and that is θ0, ‘right’ theta at x is equal
+to 0, ‘right’. So, we said that to find out these constants that is C 1 and C2 we need to
+know boundaries to out of which one conventionally or generally it is taken as the fin
+base temperature to be known. 
+And thus to find out the second case that second boundary there could be three cases
+appearing. One it can be a long fin or second it can be a; it can be negligible heat loss
+from the tip of the fin and third one is maybe the convective boundary at the fin tip,
+‘right’. So, these three cases may arise and let us look at one by one into them, ‘right’. So, long fin for that we can say that for a sufficiently long fin, sufficiently long fin means
+there are step like this, ‘right’. So, if this is that material through which it is flowing and
+if this is the fin which is attached to it, ‘right’. So, then this can be considered to be a
+sufficiently long fin, ‘right’. So, similar to that when the fin is sufficiently long then we
+can say it can be assumed that the temperature at the tip, the fin tip was this is the fin tip,
+‘right’. 
+So, this is the fin base where my this hand is holding it, this is the fin base and this is the
+fin tip, ‘right’. So, we can assume that the temperature at the fin tip of the fin approaches
+the temperature of the environment that is T e, ‘right’. So, this surrounding temperature T e
+is assumed by the fin tip because, it is a long fin why the mechanism how it can be? So,
+we have this and we are attaching this one, ‘right’ and the heat transfer is associated with
+this one only, ‘right’ and this is the environment which is at T infinity, ‘right’.  So,
+suppose for our main thing is this body where the heat is being transferred, ‘right’.
+We have added this fin so, that the heat transfer is enhanced, ‘right’, now environment is
+here. So, by the time any heat flowing through this and coming to the tip or the reverse
+this fin is going and making it. So, the temperature which is associated at the tip that will
+not be affected much by the base or by the basic where the fin is attached to, ‘right’. That
+is why it can be said that the fin tip may attain the temperature of the environment easily.
+So, that is the assumption for the long tip and this is how we have explained, ‘right’. 
+(Refer Slide Time: 05:15)
+So, the mathematical formulation for this one dimensional steady state heat transfer in a
+long fin this can be written as; 
+  This was our governing equation and
+valid  for x greater  than  0, ‘right’  and the boundary  condition  first which we have
+assumed that theta x is equal to T 0 -T∞  there or T is Te rather we should say infinity
+normally we denote. But, here it is give you we are giving T e that is environmental
+temperature, ‘right’. 
+In many cases you may see that the environmental temperature is denoted as T infinity
+also; however, since here we are precisely depending it to be T e let us stick to that this is
+Te. So, θx is T0 -Te at x is equal to 0 and is equal to θ0, ‘right’ and third one is θx, when it
+is approaching a 0 as x tends to infinity, ‘right’. Now, as theta x this was the first one x
+equal to 0, second is theta x tends to 0 as x tends to infinity because, if this x is tending to
+long fin that is infinity, ‘right’. So, in that case this becomes equal to theta x becomes
+equal to 0, ‘right’. So, T x also becomes equal to T 0 and this becomes equal it is also
+tending towards 0, ‘right’. So, this is the second boundary second condition, ‘right’. 
+Because, this is T infinity not Tx minus T0 Tx minus Te so, this also is approaching Te.
+So, Te minus Te so, that becomes equal to 0, ‘right’. So, that is how we are making the
+second boundary that theta x is tending towards 0 as x is tending towards infinity, ‘right’
+and m is or m square is Ph by Ak, ‘right’. So, this by definition we had given earlier Ph
+by Ak where we are said the unit of m is meter inverse, we have shown how it has come
+as meter inverse, ‘right’. 
+Now, we take the solution in the form that because we had said earlier that this can have
+several types of solutions. It can be exponential, it can be hyperbolic any kind, ‘right’
+though according to your suit, according to your requirement you can choose which type
+of solution you are asked looking for. So, here in this case let us take the solution in the
+form of exponential and then theta x becomes equal to C 1e-mx + C2emx. This is the
+solution where we have the constants C 1 and C2 to be found out, ‘right’. 
+So, we can apply this boundary that the second boundary, if we apply we get here that
+which said x tends to infinity theta x tends to 0, ‘right’. So, this theta x tends to 0 as x
+tends to infinity then C 2 becomes equal to 0, ‘right’. So, C 2 becomes equal to 0 andapplying the first boundary condition, first boundary was that theta x is equal to theta 0 at
+x is equal to 0. So, this becomes theta 0 as x becomes 0 so, this C 1 becomes equal to
+theta 0, ‘right’. 
+So, we got C1 to be theta 0 and C 2 to be 0. So, substituting this into the general solution
+which we got this that theta x is equal to C 1e-mx + C2emx. So, C1  has become equal to to
+θ0 and C2 has become 0. So, we can write theta x equal to θ0×e-mx +C2. So, the solution
+has become theta 0 theta x is equal to θ0×e-mx. 
+(Refer Slide Time: 11:46)
+Hence, the solution of the differential equation can be written in the form that the heat
+flow through the fin can be determined, 
+‘right’, this is one solution, ‘right’. So, second either by integrating the convective heat
+transfer over the entire fin surface as Q is equal to 
+evaluating heat transfer at the fin base that is  0 0
+0( )( )
+, ( )mxe
+e
+mxT x TxeT T
+or x e
+
+ 
+ 
+
+0( )L
+xQ h p x dx
+
+0( )|xd xQ Akdx
+ (Refer Slide Time: 13:38)
+And solving this the value of Q comes to equal to this that Q is equal to the result
+obtained from these two equations are identical since, heat flow through the internal
+surfaces by convection is equal to the heat flow at the fin base by conduction. Assuming
+the conduction equation and with the help of the temperature distribution obtained as
+theta x we can write the heat flow as Q is equal to 
+this Ak when is going inside then it is on the top Ak square k square. So, this Ak and this
+square goes out and then it becomes under root hP Ak, ‘right’ that is what we have
+written that instead of Ak m under root hP Ak. So, the Q has become equal to 
+This is the cube, ‘right’, since m was under root Ph/Ak. This is how we have found out
+that for a long fin the temperature distribution within the body, within the fin it was theta
+0 theta x is equal to θ0×e-mx,  that was one solution. 
+This was the temperature distribution within the fin and the heat flow we have taken that
+Q is becoming equal to theta 0 under root PhkA so much watt, ‘right’. So, this is for long
+fin, ‘right’, now let us look into the other one that is if the fin at the tip as negligible fin, I
+mean heat loss, ‘right’. 0 0
+sin ,Q Ak m PhkA W
+Phce mAk  
+(Refer Slide Time: 16:42)
+So, if we take the second thing that fins with negligible heat loss at the fin tip; here heat
+transfer area at the fin tip is generally small compared with the lateral area that is what
+we had shown repeatedly. So, this was our base and this was our fin. So, this lateral area,
+which we have compared to that of the fin tip area, is very small negligible, ‘right’. So,
+heat transfer area at the fin tip is generally small compared with the lateral area of the fin
+for heat transfer, ‘right’. So, under these situations the heat loss from the fin tip is
+negligible  compared  with  that  from  the  heat  loss  from  the  fin  tip  from  the  lateral
+surfaces, ‘right’. 
+And the boundary condition at the fin tip characterizing this situation this can be written
+as dθ/dx = 0 at x = L, ‘right’. The mathematical formulation of this fin problem this can
+be written as   , that is 0 less than equal to x less
+than equal to L. This is valid this governing equation is valid between 0 to L of x. So,
+is the governing equation. Now, we need the boundary conditions,
+‘right’. 222( )( ) 0 0d xm x in x Ldx   (Refer Slide Time: 19:01)
+So, to have the boundary we can write that the boundary conditions are that 
+And theta x what we had defined? Theta x we had defined as T x- Te, ‘right’. So that
+means, that at x goes to 0 change with x there is no change in the θ, ‘right’ dθ/dx = 0. 
+If  this  be  true  then  the  solution  we  can  take  for  this  is
+ And if we applied the second boundary condition, the what is the second boundary?
+That is at x is equal to L dθ(x)/dx is equal to 0 then we get C2 is equal to 0 from here,
+‘right’ this is the second boundary. And, putting the first boundary we get C1 is equal to
+θ0 /cosh mL that is at x goes to 0 theta x is theta 0 from that. So, by substituting into this
+equation we get C1 is equal to θ 0 /cosh mL, ‘right’. 0 0( ) 0
+( ), 0ex T T at x
+d xand at x Ldx 
+   
+ (Refer Slide Time: 21:20)
+Then the solution then comes to be equal to so, the solution can be written in the form.
+So, our solution for the case where it is fin at
+the tip negligible heat loss, for that we have taken the solution to be in the form of
+hyperbolic solution, ‘right’. So, from there the we have found out the constants with the
+boundary conditions boundary 1 and boundary 2, boundary 1 was theta is theta 0 at x is
+equal to 0. 
+And second boundary was d theta dx is equal to 0 at x is equal to L, ‘right’, from there
+we found out and got that C 2 became equal to 0 and C1 became equal to C 1 become equal
+to cos hyperbolic; let me check that C 1 became equal to θ0 /cosh mL, ‘right’. So, if this be
+true  then  we  can  write  that  the  solution  of  this  is  
+  this  is  equal  to the heat flow rate Q through the fin that can be written as to
+ 
+because, we have seen Ak times m, earlier we have seen Ak times m this is equal to tan
+hyperbolic Ph by a PhkA, ‘right’. So, that we have shown also how it has become that
+Ak times m is equal to under root PhkA. So, Q has become equal to theta 0 under root
+PhkA tan hyperbolic mL, ‘right’. Now, if this is the limiting condition because if it
+satisfies; that means, our solution is also correct. What is the limiting condition? If mL is
+sufficiently  large,  now  what  does  it mean if mL is  sufficiently  large?  That means,
+product of m and L, ‘right’ so, product of m and L. And then what is m? M was under
+root Ph over kA, ‘right’. 
+So, generally this Ph over kA is small; so, this means that if L is going large, ‘right’. So,
+if mL is sufficiently large; that means, tanh mL becomes equal to; that means, tanh mL
+that becomes very close to 1, ‘right’. So, tan hyperbolic mL this becomes very close to 1
+and this is meaning that the expression for Q which we have written here as theta 0 Ph
+under root PhkA tan hyperbolic mL this expression reduces to that for the long fin. 
+So, if you remember for long fin because tan hyperbolic m L that becomes a 1. So, theta
+0 so, Q has become theta 0 under root PhkA which was the solution for Q for long fin,
+‘right’. So, this means that for long fin whatever Q we are getting and if the m L value is
+sufficiently high large then the Q also for the fin with negligible heat loss at the fin tip
+that is also becoming same, ‘right’. And tan hyperbolic m L is equal to say 0.76, 0.96
+and 0.99 for m L is equal to 1 or 2 or 3. 
+So, if mL value is 0.76 then this tan hyperbolic mL this a tan hyperbolic mL equal to
+0.76 is the mL value is 1, it becomes tan hyperbolic mL becomes 0.96 if mL is 2 or tan
+hyperbolic mL becomes almost 0.99 or close to 1 if it is 3. So, beyond that it is always
+equal to 1, almost it can be taken like 0.9999 as many, ‘right’. So, this says that we have
+come to the solution where that the fin with long fin and the fin with negligible heat loss
+at the surface, so that a fin tip, sorry, at the fin tip that has the same Q, ‘right’. This is a limiting condition which since, it has become same it has become identical with
+the long fin we can say the solution which we have made is correct. And the solution has
+been cross checked with the value of Q for both long fin and fin with negligible heat loss
+at the fin tip. Because, if the value of mL is becoming high, or large, so that it is
+converting tanh mL, very close to 1, ‘right’. So, the value of Q that became equal to theta
+0 under root PhkA which was also true for the long fin, ‘right’. 
+So, with this let us stop today because our time is now over and we will have the third
+one that is the convective boundary, ‘right’, that convective boundary solution that will
+have still remaining for the fin or fin analysis, ‘right’. But, be sure that you are also
+doing some problem at home so, that you can come to know and you get solving the
+problems gives you some idea about the numerals. 
+So, that is very much required. So, I hope you will do it and if we can do it here fine
+otherwise if the time is also limited then we will ask you to do at home. And if there is
+any doubt anywhere you may contact us as in the portal we have said ok.
+Thank you.

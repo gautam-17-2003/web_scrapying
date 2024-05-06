@@ -1,0 +1,192 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 36
+Heat Transfer by Convection (Contd.)
+Good  morning.  You  remember  that  in  few  classes  before  when  we  were  doing
+convective heat transfer and we had been given, we have been given here that lot of non-
+dimensional parameters. So, those non-dimensional parameters on that basis I had given
+you a problem. And, I told that you try and may be after some time we will come back to
+that and solve so that you can also make it whether things are all, ‘‘right’’ or not
+according to your solution, ‘‘right’’.
+So, today also we will do that and again and again I repeat that once you are going
+through the class then obviously, the class material you have to go through thoroughly
+along with that try to solve as my problems other than those which are solved in the
+classes. If you can do that yourself then you can come to know that yes you have
+understood and you are able to solve unknown problems, ‘‘right’’. 
+So, these unknown unseen problems because we had given you lot many relations and it
+is not possible in classes to solve these problems differently. Otherwise that would itself,
+will become a tutorial of the whole semester or of the whole course which perhaps will
+not be permitted by the authority.
+So, and I fully agree with you that if such kind of courses are also plotted that becomes
+very helpful for you, but unfortunately it is not feasible. What we need to do is that we
+will definitely do this and in now in this class in the heat transfer by convection may
+continued class number or lecture number 36 will come back to that problem and solve,
+‘‘right’’, but again we are managing the time because solution I have been doing it in
+advance and not using the calculator over it. 
+So, that that calculation will take itself a whole class, but yes at times it may be required,
+but I am not sure where from I will get this calculator here. So, that is why I am not
+utilizing, ‘‘right’’.(Refer Slide Time: 03:50)
+So, let us go into that solution. We go to lecture number 36 and the problem is like this a
+hot fluid with a mass flow rate of it was given to you. A hot fluid with a mass flow rate a
+2,000 kg/h passes through. Let me yeah it is going off passes through a pipe having
+diameter of 25 mm and thickness of 2.5 mm, ‘‘right’’.
+So, hot fluid of mass flow rate of 2,000 kg/h passes through a pipe having diameter of 25
+mm  and  thickness  of  2.5  mm.  What  will  be  the  film  heat  transfer  co-efficient,  if
+properties of the fluids are as follows given. Conductivity is 0.5 W/m.°C viscosity  
+1×10-3  Ns/m2, density ρ 1000 per kg 1,000 kg/m3. If average temperature of the fluid is
+30 °C and the quantity of heat flow is 300 W/m, 300 Watt per unit length or per meter
+what is the average temperature of the pipe wall? ‘‘right’’.
+This is number1. Number 2 what will be the film heat transfer co-efficient if the flow
+rate decreases to 1,000 kg/h keeping all other conditions same. Third one what will be
+the film heat transfer co-efficient if the diameter of the tube is reduced to 12.5 mm
+keeping all other conditions same as that of the problem 1, ‘‘right’’. So, let us quickly
+look into a again a hot fluid with a mass flow rate of 2,000 kg/h passes through a pipe
+having diameter of 25 mm and thickness of 2.5 mm. 
+What will be the film heat transfer co-efficient, if property values of the fluid are given
+as thermal conductivity is 0.5 W/m.°C, viscosity µ 1×10-3 Ns/m2, ρ density 1,000 kg/m3.
+If average temperature of the fluid is 30 °C and the quantity of heat flow is 300 W/m.What is the average temperature of the pipe wall and second what will be the film heat
+transfer co-efficient if the flow rate decreases to 1,000 kg/h. It was 2,000 kg/h and now it
+is brought to brought down to 1,000 kg/h, ‘‘right’’. Keeping all other conditions same
+only the flow rate is changed.
+Another one; what will be the film heat transfer co-efficient if the diameter of the tube is
+reduced to 12.5 mm keeping all other conditions same as that of the problem one,
+‘‘right’’. So, if we look at the first problem we had this pipe whose diameter D is given
+as 25 mm, ‘‘right’’, 25 mm and the thickness of this tube is 2.5 mm, ‘‘right’’ and a flow
+rate which is flowing is 2,000 kg/h, ‘‘right’’ and all other fluid properties are given. 
+This is problem number 1. For problem number 2 again it is same that same d same
+thickness, but the flow rate is instead of 2,000 it has been brought down to 1,000 kg/h,
+‘‘right’’.
+(Refer Slide Time: 09:30)
+And in the third case it is said that instead of all other things now you reduce the pipe
+diameter, ‘‘right’’ and this new diameter is 12.5 mm, ‘‘right’’. So, what is the heat
+transfer  co-efficient?  So, you see in 3 different  situations  you are  finding  out heat
+transfer co-efficient and as you said in the earlier class that heat transfer co-efficient is
+function of many parameters many ways the heat transfer co-efficient will vary and that
+is why there is no general equation as for all the things, ‘‘right’’ because it is dependent
+on many parameters which we have already said, ‘‘right’’.Now, to solve it as we know that we have to find out the different property values, we
+have  to  find  out  different  non-dimensional  parameters  and  these  non-dimensional
+parameters; obviously, will be Reynolds number, Prandtl number, Nusselt number these
+numbers  and  by  this  time  we  have  more  or  less  memorized  the  non-dimensional
+numbers, ‘‘right’’. 
+So, if you have any doubt about the non-dimensional numbers. So, before solving it
+again have a brushing of these non-dimensional parameters which we had given and then
+come to the solution, then it will be easy for you to understand, ‘‘right’’.
+(Refer Slide Time: 11:28)
+So, let us look into that. First thing is that we have been given mass flow rate 2,000 kg/h,
+‘‘right’’  and  in  SI  units  mass  flow  rate  is  kg/s,  ‘‘right’’.  So,  kg  per  hour  to  be
+transformed into kg per second, ‘‘right’’ so, that we have done 2,000 kg/h, ‘‘right’’. So,
+2,000/3,600 is 0.56 kg/s. So, mass flow rate we have got in kg/s.(Refer Slide Time: 12:16)
+Next the diameter of the pipe was given 25 mm, ‘‘right’’ and mm is not the SI unit
+directly because all other units are in meter. So, that has to be converted into meter. So, it
+is 0.02 pipe meter 25 mm /1,000, ‘‘right’’ 25/1,000 it is nothing, but 0.025 mm, ‘‘right’’.
+(Refer Slide Time: 12:52)
+So, we got the diameter then we need to know the heat transfer area, ‘‘right’’. So, area of
+heat transfer is this is for pipe. It is π/4 D2, ‘‘right’’ D is given D is already 0.025. So, π/4
+D2 if we put the value of D as 0.0252 and multiply that with π/4 it comes to 3 not point 3not 49 or 0.00049 m2, ‘‘right’’. So, area also we got. Next comes flow rate has been
+given, ‘‘right’’ and area we have found out density we know.
+(Refer Slide Time: 13:48)
+So, what is the velocity because this pipe when you have a flow rate of Q, ‘‘right’’ or Q
+rather this is the flow rate when you have a flow rate of Qthrough a diameter D and the
+density of the material is known, then velocity through this you can find out by knowing
+the flow rate area and density, ‘‘right’’.
+(Refer Slide Time: 14:21)
+So, this is possible as ρAv
+m. mis the mass flow rate, ‘‘right’’. mis in the mass flow
+rate. So, you see it is mass flow rate. So, it is kg per second, density over density.
+Density is kg/m3 and area is m2, ‘‘right’’. So, this m2and m3 goes out 1 m remains and
+this kg, this kg goes out. So, the unit remains is meter per second that is the unit of the
+velocity, ‘‘right’’.
+(Refer Slide Time: 15:09)
+So, we can find out the velocity as m/ρA that is 0.5 either 55 or 56 rounded off ok. So,
+55 is written here by 1,000 into 0.0049 and this comes to 1.12 perhaps it will be 1.122
+like that. So, that is why if it is not rounded that 0.56 taken may be it is 1.122 like that it
+will come. However, so it does not matter whether it is 1.12 or 1.122 our objective is the
+method or procedure by which we are able to find out, ‘‘right’’.(Refer Slide Time: 16:02)
+So, we have obtained that velocity through the pipe. Next comes what is the Reynolds
+number Re. So, Re we know is Dvρ/µ all the values are given D given v we have found
+out ρ given µ also given. So, substituting them into this equation Dvρ/µ by substituting
+the value of ρ 1000, D as 1.12 and 1 point sorry v as 1.12 D as 0.025 and D sorry D as 1
+yeah 125 over 1 µ1 × 10-3, ‘‘right’’.
+So, this leads to 28,000. So, (Refer time: 17:06) is highly turbulent. Whether turbulent or
+not that is not our look out at this moment, but we have to find out the value and the
+value is 28,000, ‘‘right’’.(Refer Slide Time: 17:29)
+So, if that be true then we find out next the Prandtl number. Prandtl number we know is
+Cpµ/k, ‘‘right’’; so, the value of C p given value of mu given value of k given. So, Prandtl
+number once the fluid is fixed then the Prandtl number will remain unchanged, ‘‘right’’
+if the property values does not change then only, ‘‘right’’.
+So, we are finding out Prandtl number as C pµ/k Cp given is 4.18 ‘‘right’’; µ a 4.18
+perhaps kilojoules. So, into 1,000, ‘‘right’’ into 10-3 that is µ 1 ×10-3 1 I have not written
+over k k given is 0.05, ‘‘right’’. This comes to 8.36, ‘‘right’’. This comes to 8.36. For a
+check let us look that really this is 4.18 kJ, ‘‘right’’.(Refer Slide Time: 18:41)
+That is Cp specific heat which was given temperature fluid 30 °C, heat flow is 300. What
+is the fluid temperature, ‘‘right’’ yeah 4.18. Perhaps this was not given here. So, that is
+why suddenly it struck me that I did not read out the value of C p while telling the
+problem. So, the value of C p is 4.18 kJ/kg.°C.
+So, Cp value is equal to 4.18 kJ/kg.°C, ‘‘right’’ for that fluid, ‘‘right’’. So, that this value
+was not given. So, incorporate into it. So, while doing the problem perhaps we have seen
+that it was not given and perhaps we have taken it, ‘‘right’’. So, here that is what we
+have taken it 4.18 into 1,000.(Refer Slide Time: 20:00)
+So, that is in J/kg.°C µ is 1× 10-3 and k 0.5. So, this comes to 8.36. I repeat that the value
+of Cp we have assumed is 4.18 kJ/kg.K, ‘‘right’’ or per /kg.°C, ‘‘right’’. So, once we
+know C through a Prandtl number, once we know Reynolds number then we can use the
+earlier relations given, ‘‘right’’.
+(Refer Slide Time: 20:48)
+So, one of the relation was Nusselt number is equal to 0.023 Re0.8 × Pr0.3, ‘‘right’’. So,
+this Nusselt number is 0.023 × Pr0.3 or it was Pr1/3 that is that is equal to 0.33, but we have
+taken the parse decimal here, ‘‘right’’.(Refer Slide Time: 21:27)
+So, if that be true then from this value already Reynolds number is known Prandtl
+number is known. So, we can write Nu= hD/K hD/K is Nusselt number, ‘‘right’’ which
+we had said earlier also that Nusselt number is hl/k where l was the characteristic length,
+‘‘right’’. So, in this case we can write that the value of this is this D is of course, in terms
+of your 0.025 ‘‘right’’ and this value has come to h is not known, ‘‘right’’. So, from the
+given relation that 0.023 Re0.8 × Pr0.3. 
+So, if you put this and the value of Reynolds number is 28,000 value of Prandtl number
+is 8.36 to the power of this. So, this value comes to 157.04, ‘‘right’’. So, this value
+comes to 157.04 which is nothing, but equal to Reynolds number and that reynold
+number is we know hD/K, ‘‘right’’. So, from this we can say that Nusselt number being
+hD/k h is (k ×Nu)/D or is (0.5 × 157.04)/ 0.025, ‘‘right’’. So, that comes to 3140.8 W/
+m2.°C ‘‘right’’.
+So, here we have seen that the value of heat transfer co-efficient has come very high as
+to the tune of 3140.8 W/m2.°C.(Refer Slide Time: 24:04)
+Where if you just keep in mind the situation we had that π whose diameter was given
+0.025, ‘‘right’’ and whose another thing was given flow rate was given as a 2,000 kg/h.
+And, it was given that diameter was there and other property values were given that is C p
+that is we have introduced C p then µ then k then ρ this values were given.
+So, from those given values we found out Reynolds number Prandtl number use the
+relation  Nu=0.023 Re0.8 × Pr0.3. So, this is  not having any correction that  viscosity
+correction if you remember there was another equation, but this is a simpler equation. So,
+that would have been µ/µ w. So, you need to know µ w also µ is given here 1 ×10-3, but not
+given at the wall also.
+So, there we have found out what is the value of h ‘‘right’’ 3140.8, ‘‘right’’. So, the
+other equation other second one which we have to find out that average temperature was
+30 °C q/ L given was 300 W/m q then becomes equal to h A (T average - Tpipe) = h × 2 π r2 ×
+(Taverage  - Tpipe), ‘‘right’’.(Refer Slide Time: 26:19)
+From where we can write q over r into 2 π r h T average Tpipe ‘‘right’’ or (Tpipe – T) Tpipe =
+Taverage – [(q/r)/(2πrh)], ‘‘right’’ and this comes to equal to T pipe = 30 - [300/(π)] there is
+3.14 × D because 2 r so, D. So, 0.025 into this h 3140.8 and that came to be 28.78 °C.
+So, the pipe temperature  average  temperature  of the fluid was 30 degree. So, pipe
+temperature came to 28.78 °C, ‘‘right’’.
+(Refer Slide Time: 27:05)
+And, the pipe had a thickness of 2.5 mm, ‘‘right’’ this you keep in mind.(Refer Slide Time: 27:23)
+So, for the last solution for the last problem if we look at this was again we will find out
+first the Reynolds number. Now, what has been done now the diameter has been reduced,
+‘‘right’’ diameter has been reduced to from 25 mm to 12.5 mm, ‘‘right’’ keeping all
+other things at identical.
+(Refer Slide Time: 27:58)
+In the previous one what we did. It was if you remember it was given that yeah this is
+second this was given this was T average Tpipe we have found out that was to be found out. In
+this that m dot is 1,000 kg/h, ‘‘right’’ 1,000 kg/h is 0.277 kg/s. So, we found out theaverage velocity which is 0.56, ‘‘right’’ from this relation then from Nu = Re0.8 × Pr0.3 we
+found out that Nusselt number to be 90.21 then from the relation of Nusselt number is
+hD/K we found out the value of h which came to be 1804.2 W/m2.°C and that is the h
+which you were asked to find out.
+For number 3 problem we had been given diameter 12.5. So, area we got by π/4 d2,
+‘‘right’’. So, it was 0.0012 m2 velocity we found out is 4.66 and then we found out the
+heat transfer co-efficient from this, ‘‘right’’. So, Reynolds number was ρDv/µ which was
+58,250 from this relation and Nusselt number is 0.023× Re0.8 × Pr0.3. 
+So, these times this makes 282.24 as Nusselt number. So, if Nusselt number is 282.24
+from the relation Nusselt number is D / k h is found out to be 11,567.2 W/m2, ‘‘right’’.
+So, this way you try to solve problems and then get into the subject more and more, ok.
+So, next we will go back to what we were doing that radiation heat transfer, ok.
+Thank you.

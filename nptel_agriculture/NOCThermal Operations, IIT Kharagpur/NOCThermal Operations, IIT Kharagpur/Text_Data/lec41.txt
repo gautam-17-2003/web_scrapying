@@ -1,0 +1,183 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 41
+Condensation
+Good morning. We have done already boiling, ‘right’. Boiling is one of the very basic
+unit operations; and hopefully in many of places, it is used. I give you one more example
+which I already had given others. Like you have seen that in typically refrigeration units,
+‘right’ that in the evaporator coil, these liquids they come and then get boiled off, ‘right’.
+Because the boiling point of the liquids is minus maybe 30, maybe 40, maybe 50 or even
+more so that depends on the liquid which is being used. So, there once you are boiling, I
+mean once the refrigerant is going in and coming in contact with comparatively higher
+temperature that moment it boils up, ‘right’. So, that is one of the great example, ‘right’.
+Similarly, other examples we have already given.
+Now, I started with that you are making tea and for that you are boiling water, ‘right’.
+And I gave the example that you are also putting a lead on that, and on that lead these
+vapors are getting condensed, ‘right’. So, how that condensation is taking place, how we
+can do the heat transfer analysis that we will now look into. What we are now doing is
+that lecture number 41, and that is for Condensation, ‘right’.
+So, in this  condensation, we will try to tell, I give you one more example for the
+condensation other than that tea making, this is commercially done, ‘right’. So, you have
+a calandria, ‘right’ and this side you have cold fluid and this side there is a flow of the
+liquid  coming  in,  ‘right’.  And  this,  this  is  what  at  a  concentration  of  C A1 to  a
+concentration of C A2 is being concentrated, ‘right’. So, this is called evaporator. So, in
+the evaporator this kind of thick film they are moving in vertical desert called calandria.
+So, in the vertical calandria and heat transfer takes place in that. So, this is one example
+which is commercially applicable, ‘right’.(Refer Slide Time: 03:48)
+So, let us look into that how first we take picture that this is drawn with me of course that
+we are taking that the one which we said a vertical wall, ‘right’. So, this is the vertical
+wall and there is a flow of the fluid, and the flow is like a parabolic flow, ‘right’ that in
+pipe flow also you have seen that flow can be parabolic, ‘right’.
+So, we assume that from this point and we are taking that x, y at this point ‘right’; y is in
+this direction and x is in this direction, ‘right’. And we tell that in this point that τ is µ l dv
+dy, ‘right’. So, since it is there not visible τ is µ l ‘right’ µ liquid δv δy, ‘right’. So, this is
+τ that is the shear force which is acting, ‘right’. So, at this point, this is the 0, 0, or this is
+the  coordinate.  And  we  are  considering  this  flow  of  the  fluid  which  is  at  certain
+concentration, and during this process it becomes more and more concentrated, ‘right’.
+So, in that we have taken a volume element like this, ‘right’; a volume element we have
+taken and this volume element is having this also ‘right’ and that thickness is dx, ‘right’.
+And the condensate which is this entire thing is the condensate, ‘right’. This condensate
+is moving. And we take a thickness of δ, ‘right’ in the y-direction, ‘right’; in the y-
+direction, the thickness of the film is δ. And we take a small thickness, ‘right’ which is
+equivalent to dδ that is between this and this, ‘right’ that we have taken between this and
+that.
+And we magnified this part here, ‘right’; we magnified this part here as this is the unit
+thickness this other dimension, ‘right’, other dimension is the unique thickness as wehave seen that this is coming like this fine and we have taken that this got shifted a little
+bit, because this was arranged. So, this is the thickness which we are telling is δ-y, ‘right’
+δ-y and in this, this is the dx thickness, ‘right’. So, our volume element is that dx for this
+dimension, δ-y for this dimension, and unit thickness for this dimension.
+(Refer Slide Time: 07:46)
+So, that is the volume element, so that is dx (δ – y) × 1, this is the volume element,
+‘right’. Then one more thing we have to say in this is that we assume that outside this is
+the saturation temperature T saturation, ‘right’. Wall of this is at T w , ‘right’ and the element
+which we have taken is here, ‘right’ so, in this we can make this assumption that (ρ l -
+ρv)×( δ – y) ×g ×dx, ‘right’.(Refer Slide Time: 08:43)
+So, this is the volume element; volume is your ( δ – y) × dx × 1 that is the volume,
+‘right’, and (ρl - ρv) is the density difference that is in this, this is m3 and that is kg/ m3,
+‘right’, and g is m/s2, ‘right’. So, we get kg/ m3 that m/s2; this unit we will utilize a while
+and that is applicable at this point, ‘right’.
+So, let us then proceed to the solution, ‘right’. Again our this shear stress is τ µ l δv/δy,
+‘right’; obviously, that is - µ l δv/δy and the wall temperature is T w that is what we have
+said, and the volume element we have taken fine.
+(Refer Slide Time: 10:12)
+So, we know that this flow we will find out what is the temperature distribution, what is
+the heat transfer coefficient, etcetera we will find out. So, to do that, we keep this thing
+in mind that our volume element is this having (δ – y) in the y direction, in x direction dx
+and the third dimension is unity or unit thickness, ‘right’. 
+(Refer Slide Time: 10:35)
+So, as we said just now that physical situation if we elaborate that the physical situation
+is like that. We have a pure vapour that is without the presence of non condensable gas,
+‘right’, we have pure vapour without the presence of non-condensable gas is condensing
+on a flat plate by bringing it in contact with cold surface. When the liquid wets the
+surface, the condensation occurs in the form of a smooth film which flows down the
+surface under the action of gravity.
+The presence of the liquid film over the surface constitutes the thermal resistance to heat
+flow. The thickness of the film is zero at the top of the wall and increases its thickness as
+it flows downward because of condensation. Heat is transferred from the condensing
+vapour at Tsaturation, through the liquid film, and to the wall at the wall temperature of T w
+°C by conduction, ‘right’.(Refer Slide Time: 12:22)
+So, if this is known, then we can do the analysis like this with certain assumptions, and
+assumptions are valid assumptions like this. That the plate is maintained at uniform
+temperature Tw wall temperature that is less than the saturation temperature T sat of the
+vapor. This is first assumption that is the plate is maintained at a temperature T w which is
+less than the saturation temperature of the vapour or T sat, ‘right’.
+Then the vapour is stationary or has less velocity for which it exerts no drag on the
+motion of the condensate. I repeat, the vapour is stationary or has less velocity for which
+it exerts no drag force on the motion of the condensate. We will make the drag force,
+because this was the wall, ‘right’ on which this was our vapour condensing, ‘right’. And
+since the flow is very less, ‘right’, it can be assumed at pseudo study few things like that,
+‘right’. So, it has very less velocity for which it does not exert any drag force; otherwise
+drag force would give the opposite direction of the flow some force which we are
+neglecting.
+Then the downward flow of condensate under the action of gravity is laminar that is also
+a very vital point. That you have this vertical plate and you have this flow of the
+condensate, ‘right’, it can happen. That since if it is acting with gravity g, then it can
+happen there could be a mixing of the condensate, ‘right’, and that may cause maybe a
+little turbulence or maybe something like that. But we are assuming that this condensate is flowing in a laminar flow. So, the layers they
+are not mixing, there is no mixing of the layers, ‘right’, this is what we are assuming,
+‘right’. So, the downward flow of the condensate under the gravity is laminar. This is
+another assumption.
+Then the flow velocity associated with the condensate, the flow velocity associated with
+the  condensate  film  is  low  resulting  to  negligible  acceleration  in  the  concentrate  a
+condensate layer. The flow velocity associated with the condensate film is low resulting
+to negligible acceleration in the condensate layer, ‘right’. 
+So, there is no since velocity we are issuing to be very low, so acceleration due to the
+gravity that will not take place. In other word, this is also coming as per that the flow
+regime is laminar that is your, the fluid layers are laminar; there is no mixing of the fluid.
+So, with this let us go to the solution that we have assumed these things.
+(Refer Slide Time: 16:42)
+And now, one or one or two more are there that is fluid properties are constant. We have
+seen by this time a lot that the fluid properties is a function of temperature basically,
+‘right’, fluid properties is a function of temperature. So, obviously, since the condensate
+will come from there and this T is T w and which is constant we have said, and then it is
+likely that from here to there, there may be a temperature change during the flow of the
+fluid. And during this process, the property values are not changing that is under steady
+or constant those property values are constant.Heat transfer across the condensate layer is by purely by conduction; hence the liquid
+temperature distribution is also linear. Since it is a liquid or fluid, we are likely to have
+that this wall and the condensate is flowing like this. So, there could be a convection if at
+all in heat transfer, but since the flow is laminar, the velocity is very low all these
+assumptions we have made, we also can say that the heat which is being transferred like
+from here to this point, this is only by conduction through the fluid, ‘right’.
+(Refer Slide Time: 18:42)
+So, only conduction through the fluid, there is no convection or radiation it in this,
+‘right’, so that is another very basic assumption. (Refer Slide Time: 19:03)
+So, if these assumptions are made, and now if we look at then we can say that film heat
+transfer coefficient which we have to find out that can be determined like this. Equating
+the heat transferred by conduction to that from condensation of the vapour; basically,
+what is happening you had this T w or wall temperature, ‘right’, and the fluid is now
+moving like this, ‘right’. And, what is happening that because of this low temperature of
+the fluid of the wall, this is condensing at this point and gradually is dropping down,
+‘right’ gradually is dropping down. 
+Now, while it is doing it at any moment, we have a thickness like this, ‘right’. And this
+wall temperature has to be propagated to this upper layer or free end of the fluid, who
+will conduct we will transfer this, this is by conduction. So, how it is happening, at this
+point that fluid is giving away the latent heat of condensation, ‘right’ to the wall and
+thereby the conduction is taking place. 
+So, the equation will be in terms of the heat transfer by conduction to that from the
+condensation of the vapours, a final expression can be obtained for the average heat
+transfer coefficient over the whole surface, ‘right’.(Refer Slide Time: 21:05)
+And that is obvious that again and again we are showing that this is a T wall. So, the heat
+transfer coefficient whatever was seen here, ‘right’; whatever was here that can be said
+as local heat transfer coefficient h x, ‘right’. And this is corresponding to that x = x, but at
+x is = x + Δx, this h will be then h x + Δx at that point, ‘right’. So, if we look at like this,
+there will be different h s for different xx. So, we can make average of all these x, x =
+maybe 0 to x = x or something of that boundary we can put, and make an average h
+average, ‘right’ that is our goal.
+Now, to do that from the figure which we have already shown it is seen that the vapour at
+Tsaturated is condensing on the wall whose temperature is T w °C. The condensate is flowing
+downward in laminar flow, ‘right’. So, as it has been shown in the figure let us take as
+we have already shown in the figure that let us assume unit thickness which you have
+already shown.(Refer Slide Time: 22:53)
+If you remember that while we said this was Δx, this was δ-δ, ‘right’, this was y-δ, this
+was  Δx  and  the  third  dimension  which  we  said  that  was  unity,  ‘right’.  The  third
+dimension was unity. So, we are assuring that thickness of the film element, ‘right’, unit
+thickness of the film. The mass of the element with liquid density ρ 1  is (δ – ρ)×dx×1,
+‘right’. 
+(Refer Slide Time: 23:50)
+So, δ ρ y sorry not ρ δ - y because we had taken this one not y - δ δy, because y is at any
+point and δ is the total thickness which we had taken, ‘right’. So, this was δ and this is ata y. So, δ - and y was the entire, ‘right’ this was that y was for the entire thing, ‘right’ we
+so that we are assuming, that if it is so then the liquid density ρ l and the volume is (δ –
+y)dx ×l. So, in that density is ρ l, so that means, the element with liquid the mass of the
+element, because this is in m3, ρl is in kg/m3, so that comes to mass kg, ‘right’. 
+The downward force on this element is the gravitational force minus the buoyancy force,
+‘right’, because a gravitational force is acting on that and the layers which are like that
+that is the buoyancy force, ‘right’. So, this will be equilibrium of the downward force on
+this element is the gravitational force minus buoyancy force, ‘right’. This means that δy
+(δ-y) × dx × 1 × (ρl - ρv) × g, this is the thing which is acting, ‘right’.
+(Refer Slide Time: 25:47)
+So, because the gravitational force is that volume (δ – y) × dx × 1 that times ρ l × g that is
+the gravitational and minus that for the vapour it was equivalent (δ – y) × dx × 1 × ρ v,
+‘right’. So, we take (δ – y) × dx × 1 as common, then we get ρ l  × ρv and g common so
+that comes to (δ – y) × dx × (ρ l  - ρv) × g, where ρv is the density of this saturated vapour.
+So, we can say the viscous shear force at the plane y is µ l dv dy × dx × 1, ‘right’. So, dx
+× 1× dx was this, and 1 was that thickness, ‘right’, so that means, this 1 ok. So, this is µ l
+dv dy dx × 1. So, if we equate these forces, then we can write (δ – y) dx × (ρ l – ρv) × g,
+this is equal to µl dv/dy × dx into of course 1 which is not written, ‘right’. So, we get dv/dy is [g × (ρ l – ρv) / µl]× (δ – y),  ‘right’. So, we have that the gradient –
+velocity gradient as dv dy is [g × (ρ l – ρv) / µl] × (δ – y), ‘right’. So, subsequently this
+velocity gradient we shall utilize ‘right’, but obviously for this class it is for half an hour
+and our time is almost over. So, we cannot proceed further.
+And next class, we will start with this dv/dy, ‘right’ as g × (ρ l - ρv) / µl × (δ – y). This
+expression we shall start within the next class and today we make it a day.
+Thank you.

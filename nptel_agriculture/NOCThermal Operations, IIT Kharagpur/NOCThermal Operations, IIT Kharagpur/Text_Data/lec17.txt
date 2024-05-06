@@ -1,0 +1,165 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 17
+Finned Surfaces
+So, good afternoon. We were discussing about the Finned Surface heat transfer, ‘right’.
+So, why fin is required in the previous class we have discussed, ‘right’. And today we
+will do the analysis of the fin heat transfer, how the heat is being transferred through the
+fin surface. 
+The necessity of the fin addition we have discussed in the previous class along with that
+contact thermal resistance, ‘right’. So, thermal conductor resistance, so that we have
+discussed and also the drawing we had shown.
+Hopefully, if you remember we had given this drawing that this is the base where the fin
+is attached, this is the rectangular. And if it is a cylindrical then it would have been like
+this. We said the perimeter P, sectional area A, heat transfer coefficient surrounding h
+and a temperature of the surrounding T these are all known. And we have taken section
+where we have this delta x as the thickness or delta x as small volume element delta x
+and the thickness is T, ‘right’ this height is T. So, we can now do the analysis, ‘right’. (Refer Slide Time: 02:07)
+So, if you look at there are some basic assumptions over it during developing the heat
+transfer equations, there are some assumptions for this. First assumption is that one
+dimensional heat transfer is occurring then steady state heat transfer is occurring, and for
+fins of uniform cross section that is also another thing. Because fin can be uniform or
+non-uniform there, but the one drawing which we had shown was of uniform cross
+section. If it is not uniform then the solutions become very critical and may be very
+complex, ‘right’.
+So, to do that we have to do maybe, it may be required now different techniques have
+come up finite element, finite surface, all these analysis could be required, ‘right’. So, we
+are not going into that. But definitely we are assumptions are to be clear, that uniform
+cross section is there and the governing equations for these are that net rate of heat gain
+by conduction in the x direction into the volume element of delta x and that T, ‘right’
+delta x we have taken that volume element which we have given the shaded, ‘right’ is
+that net rate of heat gained by conduction plus net rate of heat gained by convection
+through lateral surfaces into the volume element delta x, ‘right’. 
+This must be equal to 0 because we have assumed steady state, ‘right’. So, there is no
+generation of heat or there is no accumulation of heat, ‘right’. So, it is steady and one
+dimensional and uniform cross section of the fin, ‘right’.So, this two governing equation is very much required that the net rate of heat gained by
+conduction in x direction into the volume element which we have taken as delta x and
+that shaded portion and this plus the net rate of heat gained by convection through the
+lateral surfaces into the volume element delta x and that shaded portion must be equal to
+0. So, let us show that shaded portion again that this is this, this delta x we have taken,
+‘right’ and this volume element we have taken, ‘right’. So, delta x is this and this is the
+T; this is T, ‘right’ and this is the width third dimension, ‘right’. So, whatever be the
+width, so that we have; obviously, taken in terms of sectional area as well as perimeter
+which will come afterwards, ‘right’.
+So, keeping in mind this very basic equation or basic governing equation let us now go.
+First one is this we have taken conduction equation as 1, convection as 2, so summing up
+of these two will result to us 0. 
+(Refer Slide Time: 06:23)
+So, the net heat gained by conduction as it is shown as I which is Roman one, we had
+shown. So, this is equal to  
+So, this is 
+ . The net heat gained by convection is again by two this is oh no,
+so this is not that, this is that distance, delta x is the distance, ‘right’. So, it is delta x
+only. Like here also the second part is two is h into that we know h∆TA, ‘right’. So, here
+h into A, A is the perimeter times delta x, ‘right’, perimeter times delta x that is why it2
+2( ) ( )d qA d T xI x kA x
+dx dx    struck because in many other cases we take this others you side to be unit, so that is why
+delta x into 1 in many cases. So, I made it compute. So, this is not this is a distance delta
+x, ok.
+So, P times delta x is the perimeter times delta x area, h is the transfer coefficient and T e
+minus Tx is the delta T. So, this is the net heat gained by convection 2, this is the net heat
+gained by conduction that is 1. So, we can write where we have explained what is what
+that the cross-sectional area is A, the perimeter is P, the heat transfer coefficient is h and
+the thermal conductivity of the material is k and k is also constant, ‘right’. So, it is
+independent of temperature. Normally, k as we said earlier also k may be a function of
+temperature or k may be related to temperature. But we are for all practical purposes we
+are assuming it to be constant, ‘right’. 
+So, if we put them into the governing equation then we can write the governing equation
+to be d2T(x)/dx2, ‘right’. And this one is h×(T e -Tx)×P×∆x, ‘right’. So, that we rewrite d 2
+x here you remember here we had written kA d2x/dx2 delta x it was that, ‘right’. 
+Now, if we this was 1, ‘right’ and now if we divide this on the both sides then this side
+which was d2T(x)/dx2 we had kA that we have divided here. It is no longer here, so we
+have here one P, one delta x was here, so we have divided both sides with kA delta x,
+‘right’,  kA  delta  x we have  divided  after adding  1 and 2, and rearranging  we get
+d2T(x)/dx2and this becomes minus because T x is now coming to first. So, then it becomes
+minus, minus hP over A k into T x-Te this is equal to 0, ‘right’. I repeat because this is
+first, we have found out what is the first; we have found out what is the I, ‘right’ this is
+coming red color which cannot be erased 
+However, this will be very also true for you, you can also make it that this is one where it
+is minus d qA by dx into delta x, ‘right’ d dx of qA into delta x, ‘right’, that is the one
+and this is equal to kA d2T(x)/dx2into delta x 1, and the P and the second term that is
+convective heat transfer was h into delta T into area P into delta x, ‘right’. So, if we add
+them then we get, you see I am writing here kA d 2 T, I am not writing again x dx
+square, ‘right’ into delta x plus h T e minus T say x, ‘right’. So, here also let me write
+down x, Tx is into P into delta x this is equal to 0 by adding 1 and 2 equal to 0 from the
+governing equation which we had earlier, ‘right’.Now, if we rearrange it then it becomes instead of minus plus this becomes minus and
+this Tx becomes plus and this T e becomes minus, ‘right’. And if we divide both sides
+with h is on the top, P delta x, ‘right’ and k no, hP is there, so if we divide both sides
+with kA and delta x, ‘right’. 
+So, if we divide that then we get this delta x goes out, ‘right’ this delta x goes out
+because we are dividing. So, it becomes d2T(x)/dx2, ‘right’ and here we had h and P. So,
+hP divided by kA, here also we have no kA that got cancelled out. So, hP by Ak this
+remains there and this one rearrangement we have written like this, ‘right’ T x-Te is equal
+to 0.
+(Refer Slide Time: 14:29)
+This  equation  we  can  rearrange  and  make  more  compact  in  the  form  of
+this we are writing, ‘right’ in terms of this where obviously, θx is Tx-
+Te. So, θx also has the same unit as the temperature as degree centigrade, ‘right’. And m
+square we are defining as hP over Ak, ‘right’, m2 we are defining hP over Ak. You see
+what will be the unit of m2, h is W/m2ºC, ‘right’, P is perimeter meter, A is m2, ‘right’
+and k is W/mºC, ‘right’. So, degree centigrade degree centigrade goes out, ‘right’. In terms of what? We can write
+it to be Joules per second, ‘right’. So, we have Joules per second, here 1 meter and 1
+meter, this meter scale goes out, ‘right’, ok. No need of joules per second because this
+Watt and this Watt also goes out, ‘right’. Then we have only 1 meter square. So, m
+square is inverse of meter square, ‘right’; so, m is inverse of meter, ‘right’. So, unit of m
+is inverse of meter, ‘right’. 
+So, we can then this is the equation where the basic equation which we had is it was like
+this, ‘right’ and this on substitution with θx is Tx-Te and
+m2 is equal to hP by Ak if we substitute then we can rewrite this equation in terms of
+‘right’. This equation A, is known as one dimensional fin equation
+for fins of uniform cross section and is a linear homogeneous second order ordinary
+differential equation with constant coefficients, ‘right’. 
+(Refer Slide Time: 17:51)
+So,  then  the  general  solution  of  that  equation  this  again  we  go  back  that
+, this is the general solution of it is like this, theta x is equal to2
+2( )( ) 0ed T x hPT x Tdx Ak  This is true for long cylinders, ‘right’, long fins cylinder, this is
+true for long fins or we can also write with the fins with a finite length; for fins with
+finite  length  we  can  also  write  the  solution  to  be  theta  x  is  equal  to
+So, anyone of these solutions can be utilized  provided we are able to find out the
+constants that is C 1 and C2; obviously, to find out these two constants we need to have
+minimum two boundaries. So, if we have two boundaries we can solve and get C 1 and
+C2, ‘right’. So, for determining the constants C 1 and C2, two boundary conditions, one at
+the fin base and the other one at the fin tip are required to be known. 
+Now, customarily this is generally done that is why customarily the temperature at the
+fin base that is x equal to 0 is considered to be known. So, it must be given that fin base,
+if you remember we had this kind of pictorial view, so we had the fin like this, ‘right’.
+So,  generally  this  was  our  x  is  equal  to  0  and  this  temperature  must  be  known
+customarily say it could be T 0 or something, ‘right’ or T base, T b whatever as you would
+like you can make it. So, it must be known that is the fundamental, that customarily or
+generally the fin base temperature that is at x is equal to 0 and this is our direction of x, x
+is equal to 0 the fin base is known, ‘right’. (Refer Slide Time: 22:01)
+If that be true then, fin based condition is like this that θ0 is T0 -Te where it is θ0, ‘right’, θ
+at 0, that is the base theta at 0 that is x is equal to 0 it should be T 0 -Te that is theta 0,
+‘right’ where T0 is the inverse temperature and several different conditions may arise for
+this solution. Such as, it may be a long fin, it may be negligible heat loss from the tip or
+it may be convection at the fin tip, ‘right’. 
+So, we can summarize that we have started with fin where the base is connected with the
+fin like this, if this is the base and if this is the fin this is connected like this, ‘right’ and
+this fin base customarily we are assuming that the temperature or the condition of the fin
+base is known, ‘right’. 
+We have seen that the general equation we as we have derived from conduction and
+convection summation of conduction and convection equations, and substituting them
+the temperatures in terms of theta and h b A k, h was heat transfer coefficient, P was
+parameter, k is conductivity and A is the area; sectional area. 
+If hP/Ak is taken as m and theta was taken as T x-Te, Te is the environmental temperature,
+then our general equation came to 
+  and we said solution of heat can be
+a many types. One was in the exponential form and the other two were maybe in terms oftan  hyperbolic  or  cos  hyperbolic  and  sin  hyperbolic  as  well  the  other  one  is  cos
+hyperbolic m rather L minus x and also the other one also m L minus x, ‘right’.
+Now, we had two constants C 1 and C2, and these two constants are to be determined.
+Now, to determine these two constants at least two boundary equations are known and in
+that we said one is conventionally or customarily taken as the fin based condition is
+known or the temperature of the fin base is known and that we have defined to be that
+theta at the fin base that is x equal to 0 is θx is equal to 0 or it can be written as theta
+within  bracket  0  is  equal  to  if  T 0 is  the  fin  base  temperature,  T 0-Te,  Te is  the
+environmental  temperature.  So, T 0 being the fin base temperature  and T e being the
+environment temperature; so, theta 0 becomes that at x is equal to 0 in terms of theta.
+We said that solution of this can be for different cases, ‘right’. One could be for long fin,
+another could be for fin with negligible heat loss from the tip and third one it can be a
+convection at the fin tip, ‘right’.
+So, let us after this summarization let us conclude today, and in the next class we will do
+for long fin, fin with negligible, it is at the fin tip or convective heat on their condition.
+All these three cases we will do in the next class, ok.
+Thank you.

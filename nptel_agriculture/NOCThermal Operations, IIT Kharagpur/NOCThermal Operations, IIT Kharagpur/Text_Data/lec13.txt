@@ -1,0 +1,178 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 13
+One Dimensional Heat Transfer Through Cylinders (Contd.)
+ Good afternoon. So, we have done on cylindrical coordinate both solid cylinder as well
+as hollow cylinder; how to do analytical solution that we have done, ‘right’. And today is
+the 13th class on that One Dimensional Heat Transfer Through Cylinders, this will do
+today also, ‘right’, ok.
+So, one dimensional heat transfer through cylinders, this will do today and we said that
+we will come to the solution of problems, ‘right’. So, with let us go to that we have done
+this problem earlier and this problem also. Now, let us do this one which we have not
+done.
+(Refer Slide Time: 01:29)
+A hollow  cylinder having constant thermal  conductivity k is maintained  at uniform
+temperature T1 and T2. This we have done. This solution of it we have done and we have
+seen that the area is coming Log mean area, ‘right’ and the solution it came to be like
+this, ‘right’.This was the solution for that. So, where R was t/kA m and Am was 
+So, now we will do another problem. A hollow cylinder with inner radius R is equal to A
+and outer radius R is equal to B is heated at the inner surface at a rate of E 0 W/m2 and
+dissipates heat by convection from the outer surface into a fluid at temperature T e with
+the  heat  transfer  coefficient  h.  There  is  no  energy  generation,  and  the  thermal
+conductivity of the solid is assumed to be constant.So, we have to derive the equations for the determination of temperature T 1 and T2 of the
+inner and outer surfaces of the cylinder. And then, we have to also quantify what will be
+the surface temperature T 1 and T2 for the given set of values; A is equal to 5 centimeter,
+B is equal to 7 centimeter, h is 500 W/m2ºC, Te is 100ºC, k conductivity to be 20 W/mºC
+and the heat flux q0 is 105 W/m2. Then, we have to solve it.
+Now, here again there is no internal energy generation, ‘right’. So that means, we can
+also use the thermal resistance concept. So, we read once again quickly a hollow cylinder
+with inner radius R is equal to A and outer radius R is equal to B is heated at the inner
+surface at a rate of E 0 Watt per meter square and dissipates heat by convection from the
+outer surface in to a fleet at temperature T e with a transfer coefficient H. There is no
+internal energy generation and the thermal conductivity of the solid is also assumed to be
+constant.
+Derive the equation for the determination of the temperature T 1 and T2 of the inner and
+outer surfaces of the cylinder. Also what will be the surface temperature T 1 and T2 for the
+given set of values A equal to 5 centimeter, B equal to 7 centimeter, h is 500 W/m2ºC, Te
+is 100ºC, k is W/mºC and q 0 heat flux to be 105 Watt per meter square.
+So, if we see this we can make this like that. As you see that we have taken a cylinder,
+this is a hollow cylinder, ‘right’. This white portion is saying to be hollow, ‘right’ and it
+has a radius of B and also a radius of A and this surface is T 1 at this inner radius andouter radius is T2, ‘right’ and the length of the cylinder is H. The environment is outside
+is fluid flow at temperature T e and the heat transfer coefficient of h, ‘right’.
+Then, we can do this with the thermal resistance concept, ‘right’. With the thermal
+resistance concept, we can do this solution of this problem, ‘right’. So, what we do? We
+do the analogous of the thermal resistance, ‘right’.
+So, heat flux is coming we are given q 0 equal to some value afterwards ok. Now, q 0 is
+coming; so, Q is equal to q 0 times area, ‘right’. So, area is here 2πrH ‘right’ or 2π yes, in
+this case it is A; instead of r, we are writing A, because our given is Q is equal to 2 π A
+into H; H is the length, ‘right’. So, our radius given is A. 
+So, inner radius is that; so, that is what we are supplying Q, ‘right’. The same Q is going
+out through the other side and the inner temperature is T 1, ‘right’. So, there is a resistance
+and this resistance is equivalent to ln(B/A)/2πkH which we have seen earlier and the
+outer surface is at the boundary. It is a fluid at temperature T e with a heat transfer
+coefficient of H, ‘right’. 
+So, this is the resistance which is equivalent to 1/Ah, where A is 2πBHh, ‘right’. So,
+2πBH is area here and h is a transfer coefficient. So, we have seen that this is equivalent
+to 1/Ah, ‘right’ and this 1/Ah is equal to 1/2πBH is the area and h is the heat transfer
+coefficient, ‘right’. So, this is what we have.
+And this through the body, we have seen that earlier it is t, ‘right’ that was t by B H, this
+was ln(B/A) that is the 2 areas over 2πkH, ‘right’.So, if these be true, then we can write that solution of T e to be equal to the solution of it
+we can write from the figure which we have given 2πAHq 0, ‘right’;
+ 
+So, this we got and now the solution of this we get equal to by equating the first and the
+last term, we get that first and last term if we equate; then, we get T 1 is 
+This is by equating first and third ‘right’; first and third means, let us go back to that,
+first and third means here, ‘right’. So, 
+Now, if we put the values by putting the numerical values, we get T 1 which is given
+‘right’ the value of A, value of B and A those are given like A is given 5 centimeter let
+us take that this black color. These goes up A is 5 centimeter; B is 7 centimeter; h is 500
+W/m2ºC. Te is 100ºC; k is 20 W/mºC and q 0 is 105, ‘right’. If that be true, then we can
+rewrite and say that T 1 is equal to 0.05 by 20 because our expression was like that. If we
+look at our expression was like that, it was 
+
+
+1 2 20
+121 ln /22
+n /1
+2 2e
+eT T T TAHqB ABHhkH
+T T
+l B A
+kH BHh
+
+   
+
+
+1 0lneA B AT q Tk A Bh     
+2 0eAT q TBh 
+1 0lneA B AT q Tk A Bh     So, by substituting the values,          
+I repeat again and again in all the classes, I am repeating that whenever you are doing
+this calculations, please also check whether the values are correctly calculated or not; if it
+is not, so please bring to our notice; so, that we also can rectify accordingly. Hopefully it
+is ok, but yes can be said. 
+Now, I cannot do this calculation here because that will take unnecessarily some more
+time and which may not allow us to do some new and new things, ‘right’. So, that is why
+it is already solved and you are requested to calculate it again and check and if there is
+anything wrong, then bring to our notice. If it is a let of course, nothing to be said. So, T 1
+came to be 327.98 ºC and T 2 and from the expression of T 2, if we see that whatever is T 2?
+So,  So that means, that the if you remember we
+had taken this, ‘right’, this was our A and according to this it is 5 centimeter and this was
+B which is according to this is 7 centimeter, ‘right’. And we have found out that the
+temperature at the inner one; so, here the temperature at the inner one T 1 is equal to
+327.98; whereas, the temperature at the outer one is 242.86.
+Whereas, our outside ambient temperature was hundred degree; that means, this heat if
+you if you plot, the thickness versus temperature; if it is thickness, ‘right’ thickness
+versus temperature. So, this is the 0; so, 0th your temperature was around 327 and from
+the temperature has come down to 242 not 48, 242, ‘right’. 242.86. So, it was 242.86 and
+from there the temperature went down to this, where it is it was 327. So, T 1 was 327
+sorry. 
+So, T1 was 327. So, if we plot this that 327.98and this came down to 242.86. So, 242.86;
+that  means,  the  inner  one  had  higher  temperature  than  the  outer  one  and  it  was
+dissipating heat to the ambient at 100ºC and heat transfer coefficient of 500W/m2ºC. So,
+this way we can solved the problems. 
+Now, if we look at some other problem, if we look at; so, this is how we are doing. So, if
+we recapitulate that what we have done on T 1, T2 of the thermal resistance concept as
+well  we  have  done  on  the  internal  energy  generation,  where  internal  energy  was510.05 0.07 0.05ln 10 10020 0.05 0.07 500
+327.98oT XX
+C     
+
+2 0eAT q TBh 
+520.0510 100 242.860.07 500oT X CX  generated,  ‘right’. So, there we have done and also the thermal  resistance  concept,
+‘right’.
+So, in that thermal resistance, here it was much more easier where it was general that T 1
+was C1ln a+ C2 and this was T2 was C1ln b+C2 and we found out C 1 to be
+ and we also found out C 2 to be 
+So, once we did this, then we also did that this that T(r) is
+equal to T1 minus and so, what I would like to highlight here. 
+In this is that here we had done based on this, ‘right’, this was based on this firmly did
+here by integrating this that, but when we came to the yes t was k by A m, fine A0 minus
+A0 by l; so, hollow cylinder when we came to this another hello we had done, ‘right’.
+This one no, I hope with a resistance concept we had done one only and with the internal
+energy generation we have done another one only.However, so in the internal energy generation, if there is no. So, in the energy concept,
+then you have to do like this that from here let us let us go to the other one, ‘right’.
+So, when we are doing internal energy concept, here it is only three there can be some
+port. So, in that case, so what do you need; so, these resistances whatever you have, you
+go on adding, ‘right’. So, and these resistances you have to know, ‘right’; so, these
+resistances you have to know as if that Q quantity of heat is coming and that Q quantity
+of heat is going out, ‘right’.
+So, this has to be kept in mind that Q quantity of heat is coming in and Q quantity of heat
+is going out and these resistances depending on whether it is heat flux or with that it is a
+temperature or it is a another temperature or it is a convective boundary. So, whatever wethe situation, you have to find out the resistances, ‘right’ and then, since you know that Q
+is flowing. So, Q is equal to like here it is 2πAHq 0; since it is a heat flux, ‘right’. So,
+2πAHq0 that is q0 into A that you know, ‘right’.
+Similarly, here you know the resistance, ‘right’ ln of B over A/2πkH or 2πkH ‘right’; so,
+this you know. So, similarly the convective boundary that is also known that is 1/2πBH,
+‘right’. So, had it been that one more resistance is there. So, that also you have to add,
+‘right’. So, then that he like here (T 1-Te) is the driving force or ∆T ‘right’; so, T 1-Te is the
+driving force or delta T.
+So, that by adding all or as we have said that adding 1 and 3 or are equating 1 and 3 or 1
+and 2 or 2 and 3 depending on how you are solving it what you need to solve, ‘right’,
+which we have done here. In this case also we have done here that, we have taken that
+this one this one this one and this one, ‘right’. So, we added them when we added them,
+we got T1 minus Te over ln(B/A), ‘right’.
+Over 2πkH +1/2πBHh. This is by adding everybody, ‘right’. So, that is q 0 into A, this is
+equal to all these, ‘right’. Then, from there may be equating this and that and maybe
+equating this and that you can get T 1, T2 all equations and then, by solving them means
+you it cannot be that it will be all the time very simple, ‘right’.
+So, it may not be all the time it is very simple equations, but it is also known that number
+of unknown and number of equations if they are same, then it can it is solvable. Yes, it
+may take some time, it may take some iterations or it may take some simplification. So,
+that may be required, but you may have to do that equating 1 and 2 or 1 and 3 or
+depending on what it is coming that you have to make and then you have to solve them,
+‘right’. And as earlier you have seen that in this problem itself it came that you are given
+some data and based on that the numerical values you have to find out, ‘right’. So, this is
+how you need to solve and you need to do the solutions and numerals also, ‘right’.
+So, this we have done T 1 from there equating this and we got the T 2 also and then, by
+substituting the values 0.05, 5 centimeter and 7 centimeter were the 2 radii given, ‘right’
+and we got it. Then, we can also find out if it is required what is the value of capital Q,
+‘right’.What is the value of capital Q that also we can find out because we know Q is equal to
+2πAHh, ‘right’. 
+So, that can be easily found out or this was 2πAH and not h q 0, ‘right’. 2πAHq0. So, that
+can be easily found out. q 0 if it is given; H is known, A is known, π is known. So, what is
+the value of Q that can be found out, ‘right’. 
+With  this,  we  come  to  the  end  of  this  one  dimensional  heat  transfer,  ‘right’;  one
+dimensional heat transfer on cylindrical coordinate, ‘right’. So, we will do next time the
+spherical coordinate, ‘right’ on the sphere, ok.
+Thank you.

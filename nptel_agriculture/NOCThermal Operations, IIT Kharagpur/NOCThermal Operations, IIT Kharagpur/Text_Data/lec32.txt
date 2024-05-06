@@ -1,0 +1,188 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 32
+Heat Transfer by Convection (Contd.)
+So, you are handling non-dimensional parameters which are useful, maybe mostly for
+heat transfer and some also could be for mass transfer, ‘right’. So, we come to that
+lecture number-32 with some more relations are under different situations, ‘right’.
+(Refer Slide Time: 00:43)
+For example, in this case if it is a annular passage in many cases you may need it, ‘right’,
+‘right’. Like, you have a double tube heat exchanger, ‘right’. So, in that case, a fluid
+which is flowing in through this, it is annular, ‘right’. So, there you need to know how
+the heat transfer to be calculated? So, here such situation we are bringing are that is
+called Stefen’s correlation based upon the results of Hausen that is where it is D h = Do -
+Di, hydraulic diameter is D o-Di.
+And Reynolds number is U or v whatever we call, this is U that is the UDh/μ ,‘right’,
+UDh/μ. And Nusselt number is  /KhDh ,‘right’. In that case, Nusselt number is afunction of like that a 467.08.0
+)/(117.01)/(19.0)/(Nu
+LDPeLDPeDDf
+hhoi , ‘right’. Where 0.1 <
+Pr < 103 and 0 < Di / Do < 1 and Re < 2300 this is valid. 
+But  other  relation,  where  this  Nu or  the  way  it  is  symbolized
+8.0)/(2.166.3Nu oiDD for  outer  wall  of  annulus  is  insulated.  If  inner  wall  of
+annulus is insulated, then this 5.0)/(2.166.3Nu oiDD , where it was 0.8, ‘right’.
+And third case is like this, none of the wall is insulated. So, this is simply one case it was
+outer one is insulated, second case it was inner wall is insulated and in third case none of
+them  are  insulated,  it  is  simply  annulus  this  as  it  is.  So,
+
+
+0.2)/D(D0.10243.66Nu
+oi ,‘right’,  this  is  if  none  of  the  walls  are  insulated,
+‘right’. 
+(Refer Slide Time: 05:02)
+So, similarly some more correlation if we look at, if it is a f(D i/Do), then there it is as
+follows for the three cases. 5.0/14.01/oioi DDDDf i.e., where the outer annulus
+was insulated, then outer wall; then case II, where the inner wall was insulated that is this
+one was insulated. So, where, 3/1/14.01oiDD. And  IIIrd  case  was  none  of  the  walls  were  insulated,  ‘right’,  then  it  is
+1.0/14.01oiDD. So, you see these only the power that is varying, ‘right’, all other
+things  are,  ‘right’.  So,  for  turbulent  flow  that  was  for  laminar  flow  Dittus-Boelter
+equation is utilized, ‘right’, in most of the cases this is very useful. And valid for fully
+developed turbulent flow and properties are evaluated at the bulk temperature; and the
+relation is nNuPrRe023.08.0 rather Prn, this is valid for Prandtl number between 0.6
+and 100. 
+For heating; for heating n is 0.4, for cooling n is 0.3 and Nusselt number is hD i/K,
+‘right’, as well that Reynolds number is μvρDi and Prandtl number is KμCP, ‘right’.
+So, it is very important, I were like to highlight once more, this side it is fully utilized
+that is, ‘right’ not visible. However, this for turbulent flow this Dittus-Boelter equation is
+very useful, valid for fully developed turbulent flow. 
+As a regarding this fully developed turbulent flow, let me also tell you that what we
+mean by fully developed turbulent flow? That when a flow is happening; for example, in
+your house you have put the; you have put that tap on, ‘right’, at least maybe in your
+lifetime once or twice it might happen that during your maybe you are taking bath and
+that time from the shower suddenly there was no water, no flow of water, ‘right’ that
+may happen. 
+And when the new water came, the waters when it was being coming to your shower; it
+was not a continuous, maybe a little and then again a little, then again a little, like that
+gradually it is flowing, ‘right’, this situation we called that this is not the fully developed,
+‘right’. This situation we call it is not fully developed that when if it is like this there is
+no development, but we take that this is fully developed and until the flow is fully
+developed or turbulent flow is there, this is not valid. 
+So,  it  is  valid  for  fully  developed  flow  and  properties  are  evaluated  at  the  bulk
+temperature. And the relation isnNuPrRe023.08.0. Of course, generally for gaseous
+Prandtl number or for cooling this 0.3 or if it is heating n is 0.4. And Prandtl number this
+is valid between 0.6 to 100 and Nusselt number is related as hD i/K and Reynolds numberis rho Di over  μvρDi and Prandtl number isKμCP. So, this is the Dittus-Boelter
+equation. 
+Similarly, this we had already said once Sider-Tate equation, the difference between as I
+said earlier that Dittus-Boelter equation and Sider-Tate equation is that here you are not
+taking care of that viscous effect on the wall, ‘right’, that viscous effect on the wall you
+are not considering. So, in Sider-Tate this is also taken care of and the variation of
+viscosity with temperature is included and there you are getting Nusselt number is here it
+was 0.023, it is 0.036; Re0.8; Prandtl number was with 0.3 for cooling, 0.4 for heating
+whereas, here Prandtl number is 0.33 one-third. 
+And the viscosity correction is 14.0/w, where w is the viscosity at the wall, ‘right’.
+So, this is the difference between the Sider-Tate and Dittus-Boelter equation both is valid
+for turbulent flow. 
+(Refer Slide Time: 12:35)
+But in one case it is valid, rather it is it utilized without the viscosity correction and the
+other case it is utilized with the viscosity correction factor, w/. Some other cases are
+also  very  important  for  example,  if  heat  transfer  coefficient  from  the  flow  over  a
+horizontal plate; if the flow is laminar, so we have a horizontal plate like this so and fluid
+is flowing over it, what is the heat transfer coefficient. If the flow is laminar, this relation is given as 3/15.0PrRe332.0xxNu  and valid for
+isothermal plate that means, this plate is isothermal at constant temperature, ‘right’, so
+this is one.
+Another 3/15.0PrRe332.0xxNu  and this is also valid for constant heat flux, ‘right’. So,
+heat  flux  earlier  we  have  said  in  many  cases  many  times,  so  I  am  not  repeating.
+Turbulent  flow,  if  it  is  then  Nusselt  number  L,   850Re037.0Pr8.03/1  L LkhLNu
+ ,‘right’. This is valid when the situation is isothermal for constant temperature. 
+Critical Reynolds number has been taken to be 500000. For constant heat flux, Nusselt
+number with respect with L, with respect to L is 4 percent more than that of isothermal
+condition. Free convection heat transfer coefficient, we are now shifting from the forced
+conviction  till  now,  because  turbulent  flow  was  there,  so  that  was  under  forced
+convection to free convection that is natural convection by buoyancy. 
+So,  if  it  is  isothermal  case,  then  vertical  flat  plate  and  cylinder.  In  that  case,  so
+1/4Gr.Pr0.55Nu;  valid  between  104<Re<109.  And  it’s  1/3Gr.Pr0.1valid  for
+Reynolds number between 109 to 1013. 
+For air, this 1/4t/L42.1Nu and valid before 104 to 109 Reynolds number. And is
+equal to 1/3t31.1is also valid for Reynolds number between 109 and 1013, hopefully.(Refer Slide Time: 16:41)
+A lot we have given some a little more are there. Like situation is like this if it is
+horizontal cylinder, then Nusselt number is 0.53, 1/4Gr.Pr0.53Nu, where Reynolds
+number is between 104 to 109. And is 1/3Gr.Pr0.13, again it is valid between 109 to
+1012 Reynolds number. 
+And if for air,  1/4t/d32.1Nu valid between Reynolds number is between 104 to
+109. And 1/3t24.1, this is valid between 109 to 1012 Reynolds number. 
+Another case where, upper surface of heated plate or lower surface of cooled plate. So,
+you have two plates; in that case this upper surface is heated or the lower surface is
+cooled. So, in that case the for plate 1/4Gr.Pr0.54Nu valid for 2 ×104 and 8 ×106
+Reynolds number is equal to 1/3Gr.Pr0.15, this is also valid between 8 × 106 to 1011
+Reynolds number. 
+For air, this 1/4t/L32.1Nu, this is valid for 2 ×104 < I mean, Reynolds number is
+between 2 ×104 and 8 ×106. And this is valid for or is equal to 1/3t52.1, where
+Reynolds number varies between 8 ×106 and 1011, rather 1011, ‘right’. 
+For lower surface of heated plate or upper surface cooled. So, earlier it was this upper
+was heated, lower was cooled; now the upper one is cooled and the lower one is heated,
+‘right’. So, for air 1/4Gr.Pr0.27Nu, valid between 105  to 1011 Nusselt  Reynoldsnumber and is related as 1/4t/L59.0, where Reynolds number varies between 105 to
+1011. 
+(Refer Slide Time: 20:06)
+Then a little perhaps this is the last that constant for constant heat flux under the vertical
+plate, 5/1Pr6.0GrNux, this is true for 105 Grashof number between 105 to 1011. 
+Horizontal  cylinder,  under  diameter  Nusselt  number  under  diameter  defined  under
+diameter rather 4/1Pr6.0Gr valid between 106 to 1013 Grashof numbers. And Grashof
+number is 
+24
+
+kxqgw,‘right’. (Refer Slide Time: 21:17)
+So, let us now at least look at some problems which can be solved, ‘right’ with this. For
+example, air at the thermal pressure of thermal pressure air at the sorry, air at the normal
+pressure passes through a pipe having an internal diameter of 25 mm and is heated from
+30 to 90 °C. What is the film heat transfer coefficient h i between air and the pipe wall; if
+the average velocity of air is 15 m/s? 
+And to solve the problem given properties of air at the this should be f said of given
+properties of air at the average temperature of 60 °C are like this density 10.5 kg/m3,
+viscosity equal to 0.02 centipoise, conductivity 0.03 W/m.°C and specific heat 1.0 kJ/kg.
+°C. 
+Here one thing at least we should explain, because for the long term we are saying air
+film  heat  transfer  coefficient  why not only heat  transfer coefficient  why, film  heat
+transfer coefficient what is that? It is like that we have said here that normal flow or
+pressure, blah blah this thing, so we have a pipe, ‘right’. I am not that confident that if I
+change the color whether that will be a permanent or not; however, this is good enough
+we can see. 
+So, this is a pipe, ‘right’ and air is flowing through this, ‘right’. Now, as we said earlier
+also that when this air or any fluid is flowing whether it is the air or water or any fluid is
+flowing; if this is the pipe, ‘right’; the layer which is close to the pipe, ‘right’, the layerwhich is close to the pipe that will not move, this is called clinging to the surface, ‘right’.
+So, it is clinging to the surface it is not moving, because the surface is stationary, ‘right’.
+So, the heat transfer coefficient at this and the heat transfer coefficient whether it is
+turbulent or natural does not matter; obviously, turbulent will have more value, natural
+will have less, but still the film heat transfer coefficient which is on this is much lower
+than that at this, ‘right’, because here you have some; here you have some turbulence or
+some movement. Here there is no such so, the film heat transfer coefficient has to be
+found out, because that is equivalent to giving the resistance, ‘right’, so this we have to
+keep in mind. 
+Many cases we may have to find out, this type of heat transfer coefficient and we will be
+finding out depending on the situation as we have given many relations, some are other
+relation may be very much effective or useful and will be utilized, ‘right’.
+So, let us solve this problem at least in this class that air at the normal pressure passes
+through a pipe having an internal diameter of 25 mm and is heated from 30 to 90 °C.
+What is the film heat transfer coefficient h i between the air and the pipe and here also
+one h is missing and the pipe here f is missing and the pipe wall if the average velocity of
+air is 15 m/s. So, hi between air and the pipe wall, so that is to be determined.
+Given, property values of air at the average temperature of so 30 and 90 average is 60, so
+at the average temperature of 60 °C as density equal to 10.5 kg/m3, viscosity is equal to
+0.02 centipoise, conductivity is equal to 0.03 W/m.°C, specific heat equal to 1.0 kJ/kg.
+°C. 
+So, if this is given, then first thing which we should do is to find out the Reynolds
+number, ‘right’. So, Reynolds number is dv, ‘right’, dvwhatever form we call
+it,  ‘right’.  And  Reynolds  number  must  be  over  the  tongue,  ‘right’,  dvis  the
+Reynolds number. If you are an engineering student and if you are not able to tell
+anywhere that Reynolds number is dv, and then obviously the other side will feel
+very bad. 
+So, whether it is in heat or mass or any heat transfer of any energy or in any normal class
+other, you must know at least Reynolds number as non-dimensional parameter, so that is
+dv. So, we find out dvas 10.5 × 15 × 25 × 103, ‘right’, this is what is given; 25our density is given 10.5 and dv is given, we have been given 15 m/s, ‘right’, so v is
+15, d is 10.5 and sorry, rho is 10.5, v is 15 and d is 25 × 10-3, 25 mm, ‘right’.
+So, 25 × 10-3/  given 0.02 centipoise, one centipoise is 10-3 Pa.s. So, 0.02 into 10 to the
+power minus 3, so that means it is 196895; 1 9 6 8 9 5 Reynolds number. So, it is under
+high turbulence. 
+Similarly, Prandtl number let us find out and that comes to be equal to ( ×10-3×1)/0.03,
+where this is Cp /k ,‘right’; Cp given is 10 kJ oh sorry, 1 kJ/kg.K or kJ/kg.°C that is 1,
+‘right’ and  is 0.02 centipoise, C p /k , k is 0.03. So, Prandtl number is this is not mu,
+this should be 0.02, ‘right’, 0.02 into 10 to the power minus 3 into 1 by 0.03 that comes
+0.00067.
+So, from the Sider-Tate equation we can find out or Dittus Dittus-Boelter equation we
+can find out that4.08.0Pr.Re.023.0Nu , because it is being heated. So, this comes to
+be equal to 21.25. So, from the definition of Nu=hd/k where h is can be found, k is
+known, Nusselt number is known 21.25 and d is known. 
+So, it comes to be 25.504, ‘right’, so much W/m.°C. So, this way try to do application of
+these formulae and solved as many problems as you can ok. So, time is up.
+Thank you.

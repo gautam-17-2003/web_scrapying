@@ -1,0 +1,202 @@
+ Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 53
+Heat Exchangers ( Contd. )
+So, we if you remember in some one two classes earlier, we had given a problem to you
+and said that you try and solve it; and if you can very good, if you cannot then we will do
+some other day where it may take the whole class, because the concept as well the
+problem itself was very lengthy, right. Obviously, this type of problem cannot come in
+the exam; in the exam means when you are giving either end of this course exam or
+normally any college exam also it is very difficult, because if it is taking half an hour for
+us in the class, then it may take even 45 minutes to you in the normal exam class.
+So, such a big problem may not come, but the advantage of doing it is that why you are
+then emphasizing. The advantage of doing it is that, many other associated things we will
+come across; and that will be one added learning from our side right. That is why I gave
+the problem and I wanted you to first solve; if you could have a were excellent, but if
+you could not then let us do it and that day itself I said that this problem, solution of the
+problem may need trial and error may be because the time may be over. 
+I did not do number of trials, but ultimately what would be the final or close to that I had
+given perhaps on this; and said that whatever has been asked for we have done that right.
+Perhaps you have been asked to find out the length, so for I remember, let us look into
+that right. So, this is the lecture number 53 for the continuation of the heat exchangers,
+right.  So,  lecture  number  53  we  are  doing  the  perhaps  the  last  class  for  the  Heat
+Exchangers right.(Refer Slide Time: 02:57)
+And in that case the problem which was given is like this; that determine the length of
+tubes  in  a  two  way  pass  10  ton  refrigeration  TR,  right.  This  TR  is  generally  in
+refrigeration used and that is called tonnage of refrigeration, 10 ton refrigeration TR or
+10 TR it is in short said, shell and tube water cooled condenser.
+Now, this I purposefully gave and I had given one more problem which we had solved, if
+you remember correctly; that we had given a wall. And we said the along the wall and if
+this is the x direction right and if say this is the 0th and this is the x direction right, for the
+thickness L or whatever right; there is a temperature distribution in the x direction and
+that temperature was a polynomial, distribution of temperature was a polynomial.
+So, a + b x + c x2 + dx things like that, right; so, that polynomial temperature that was
+solved and we found out different things in that right; and this is true in normal any cold
+store right. And in the cold store if it is the evaporator right, if there is a compressor here;
+then there is a condenser here and there is a expansion device here, and then this say
+from the expansion device it goes to the evaporator again. So, it is evaporator, this is
+compressor, this is condenser, and this is expansion device, right.
+ So, this is the cycle and, if we put arrows then they follow like this right. This is a
+normal vapor compression refrigeration unit; where this evaporator corresponds to 10
+way pass to two pass two way pass 10 ton TR shell and tube water cooled condenser, not
+the evaporator right. It is the condenser, this one; condenser is 10 ton refrigerationequivalent and that is water cooled. Now, again these condenser tubes are of several
+kilometers in normal cold storages; these are several kilometers length right, and this is a
+here it is said for that length of tubes in two way pass, right.
+So, this is one another, may be another way like that right. Things like that so many are
+there right. And over this they are spread of water that is what water cooled, right. And
+that in many cases this water is which is being spread is not a good water for which the
+problem is associated, there may be a scale farming which we have already said what is
+scale farming that is falling, right. So, falling is happening on the tubes and that is the
+damaging part, right. So, what we said two-way pass 10 TR shell and tube water cooled
+condenser with 48 tubes arranged in 12 columns and R 22 as refrigerant, right.
+So, the refrigerant which was getting through this condenser is R 22, right. So, that is
+going through this, because it is after as we said after the compressor the condenser is
+there. So, compressor is increasing the temperature and the vapor is being cooled through
+the  condenser;  then it  is  just cool  phase change  from the  vapor to the  liquid  it is
+happening there, and this condenser is cooled by water. The heat rejection ratio, this is
+also a new thing perhaps in the last class we had given you some idea, so that you can
+solve the problem; however, we will redo that. The condensing temperature is 40 °C,
+right.
+The water inlet and outlet temperatures are 23 and 30 °C. In this connection since we are
+also saying this, and as I said this may be some additional information to you; not only
+doing the problem, but also how the problem is being solved and associated things, that
+you can cool down the temperature only to the level of wet bulb. So, you must know
+psychometric and dry bulb DB and wet bulb WB temperatures must be known, right. So,
+from the dry bulb you can come up to wet bulb not below that, right.
+That is the reason why that in many cases you will see, in many cities during summer
+that typical what we call that there is a blow of fan over a piece of not cloth, a piece of
+some water absorbent  right or there is a trickle them. So, that is not being used in many
+cities, where the humidity is very high right; if the humidity is very high, this difference
+will not be very high. So, unless this difference is high the effectiveness of that will not
+be so good, or effectivity of that will not be so good that is called desert cooler, right. So,
+those desert coolers are not used in many cities where the your humidity is very high, okSo, this is 23 to 40 °C that is the temperature outlet of the water by which it is being
+cooled. The tube inner and outer diameters are 12 and 14 mm respectively. The average
+properties of the refrigerant and water are like this,  that for water viscosity of water is
+7.5 ×10-4 k g per meter second. Thermal conductivity of water is 0.7 W/m.K; density of
+water is 1000 kg/m3; Cpw of water that is it capacity or specific heat rather in this case
+not heat capacity; heat capacity is m c p right there is the heat capacity
+But here it is specific heat 4.2 kJ/kg.K or °C whatever you write; 1 / h s right surface heat
+transfer coefficient is 0.000176 m/m.K or m. °C / W right; that is 1 / h s, that is surface
+heat transfer coefficient is h s, o inverse of that is the resistance ok. So, µ w for R 22, that
+µw is the viscosity at 12. So, here also viscosity at 12 for R 22 it is 1.8×10-4 kg/m.s; k
+refrigerant is 0.08 W/m.K it was 0.7 for water, 0.08 for the refrigerant; ρ rf that is density
+of the refrigerant is 1100 kg/m3, so it is heavier than water.
+Then hfg or this is called latent heat or the phase change right; latent heat for phase
+change that is for either condensation or evaporation whatever of the refrigeration. Then
+refrigerant rather that is 165 kJ/kg. And conductivity of copper, because maybe the tubes
+are made of copper, so copper conductivity has to be known. So, that is 390 W/m.K  or
+°C, whatever you will write. Then we were also given that Nu = 0.023 Re0.8 Pr0.4 right.
+And ho or heat transfer coefficient outside is 0.725 k f3 ρf2 g hfg /N that is number of tubes
+row or column, right.
+So, N do or do µf or µ, yeah in this case µ f ΔT; not small generally temperature difference
+is denoted by ΔT and ΔT maybe time difference right. But time is independent, so
+generally that is why whenever it is used, you may not be misled; because here it is used
+as a variable right and time is independent. So, that cannot be, so it is point to the power
+0.25; of course, I do not say that it cannot be ΔT also, T also maybe in some expression
+depending on what you are ultimately finding out, ok.
+So, from this the outside heat transfer coefficient is this, inside heat transfer coefficient is
+not given and we have to find out determine the length of the tubes right. We have 48
+tubes arranged in 12 columns. So, N is 4, 48 tubes in 12 columns like this the tubes are
+there; and this column number is for 12. So, each column we have 4 tubes, right. So, N is
+then becoming 4, right.
+ (Refer Slide Time: 15:35)So, that is what we are doing. And before doing it, as we said that heat rejection ratio
+which was told that; what is that? It is the ratio of heat rejected to the heat absorbed
+right; whatever heat has been rejected by the condenser to the whatever heat has been
+absorbed by the condenser. So, that is the ratio or heat rejection ratio it is called. It is not
+tolerance that has to be condenser can be evaporator, because anything that will be
+accepting something and then giving up something, right.
+So,  the  ratio  of  whatever  absorbed  or  rejected  to  the  absorbed  right.  For  a  fixed
+evaporator temperature as the condenser temperature increases the COP decreases and
+the heat rejection ratio increases. For a fixed condenser temperature, as the evaporator
+temperature decreases the COP decreases and the heat rejection increases, right.
+So, we can write R = Q c / Qe. And since Qc from the first law of thermodynamics we can
+say, Qc is Qe + Wc; means that work of the compressor right over Q e.
+ So, this becomes 1. So, 1 + W c / Qe is nothing, but inverse of COP; or Q e / Wc right. We
+call that COP is coefficient of performance is that inverse of W c / Qe or it is Qe / Wc
+compressor. So, whatever we get the cooling or refrigeration and how much work the
+compressor  has  to  be  has  to  do  for  that,  this  ratio  is  the  COP  or  coefficient  of
+performance, right.
+So, if we do this then we can write, that heat rejection in the condenser for a 10 ton
+refrigerant plant is Q c = 1.3 × 10  ×  211 / 60, right. So, for a 10 ton refrigeration plant,
+the heat rejection in the condenser Q c is 1.3 ×10 ×211 / 60 that is 45.7 kW right. Thisheat is rejected to the water, because we said that we had this condenser like that and we
+have the sprays, right. So, water sprays were like this right, through the reverse. So,
+water sprays were like that, and condenser tubes were like that.
+So, this water is absorbing heat from the condenser and condenser is giving away the
+heat. So, the temperature of the water goes up by 7 °C. The specific heat of water is
+given and hence the mass flow rate of water can be found out. Water passes through 24
+tubes in a time with a mass flow rate say wmif.
+(Refer Slide Time: 19:59).
+Then  we  can  write.  if  wmis  the  mass  flow  rate  of  water  that;  then
+45.7kW23)(304.2mΔTCmQ w.
+wpwwc ; inlet temperature  was 23 and exit
+temperature of water was 30. So, this is 45.7 kW, right
+So, from both the Q c s, we can write wm= 45.7 / 4.2 × 7 which we have just said, right.
+So, this is equals to 1.55 kg/s. So, water flow rate is 1.55 kg/s; therefore, water per tube
+is there are 24 tubes, 1.55 / 24 that is 0.065 kg/s is the flow rate of water in one tube or
+every tubes. Reynolds number is Re = 4 wm/ π di w µw. So, that is 4 × 0.065/ 3.14 for π
+di is 0.012 m and µw given 7.5× 10-4 = 9200.3.Since Reynolds number is greater than 2300, 9200, hence the flow is turbulent and the
+heat, inside heat transfer coefficient h i may be found by the Dittus Boelter equation right;
+which we had already said earlier.
+(Refer Slide Time: 22:21)
+So, from that Dittus Boelter equation h i, If we find out, to do that what we need to know;
+first the Prandtl numberP prandtl number is C pw µw / kw = 4.2 × 1000 ×7.5×10-4 / kw is 0.7
+given. So, it is 4.5. Nusselt number we need to know is h i di / kw is this is the relation;
+Nusselt number is 0.023 into any Re0.8 that is 9200.30.8 and Pr0.4 that is 4.5 we have found
+out to the power 0.4. So, this comes to 62.24 Nusselt number Nu, which is h i di / kw
+So; that means, hi is equals to 62.24 this right, 6 × 0.7 that is k w / di that is 0.012 and this
+comes to 3630.67 W/m2 . K or °C right.(Refer Slide Time: 23:56)
+If this hi is known, then the refrigerant condenses outside the tubes right. The refrigerant
+condenses outside the tubes 48 tubes are in 12 columns. Hence there are 4 tubes 48 over
+12 in each column. So, N is equal to 4; 48 tubes 12 columns, so we have 48 by 12, there
+is 4 number of tubes in each column, right.
+So, we can write h o outside heat transfer coefficient as 0.725 times k refrigerant to the power
+3 ρrefrigerant2 g hfg /N Do µrf ΔT1/4 right. So, if we substitute the values and this is that we had
+corrected in the earlier one it was Δt. So, here we have corrected because ΔT is the
+temperature difference.
+So, we can rewrite it as 0.725 values of the property values, k rf  0.08, 0.725 right; 0.083
+and ρ is 11002, g is 9.81, hfg is 165 kJ/kg.s 165×1000, right joules divided by N is 3, D o is
+0.014, then µrf refrigerant is 1.8× 10-4 and ΔT which is not known yet.
+So, by solving this we get 0.725; this whole part of course, here we have one cube and
+here we have one square, which you have not written, but you have taken care hopefully.
+And that is 0.725 times this numerator becomes 1.4×  10-3 / ΔT0.25, right.
+So, we can write where ΔT is nothing, but T r - Tproduct outside o right T po; and ho that is
+heat transfer coefficient outside is 0.725 into this on simplification can be written as
+1938.85 and ΔT0.25, or these on simplification gives 1405.66 / ΔT0.25  right. Since we do
+not know ΔT, so it may be required that we do that delta by trial, right.(Refer Slide Time: 27:48)
+From the basic heat transfer equations we can write that what Q c = Ai hi (Tpi - Ts) = Ai hs
+(Ts - Tw); where and Qc that can be written as 2 π L k copper (Tpo - Tpi) right divided by ln
+(Do /Di) ; or Qc =Ao ho (Tr - Tpa) right. Again overall heat transfer coefficient that can be
+written as; Qc =Uo Ao or Uo Ao (Tr - Tw). 
+And therefore, we can write to 1/ U o = 1/ ho + do / de (1 /hs) + do / 2π kcopper (ln (do / di)) +
+do / di (1 /hi). Or 1/ ho = 1/ ho  + the substitution of the values which comes equals to
+0.000535 that is 1/ U o = 1/ ho plus this. Since we do not know ΔT, we are not able to find
+out what is the ho.
+So, for that let us first assume, first trial that ΔT = 5 °C that is (T refrigeration - Tpo), right. So,
+we can write that h o is, condensation heat transfer coefficient h o is 1405 / 0.66 which we
+found out to the power divided by 50.25 is 940.03 WW/m2. °C, right.
+ (Refer Slide Time: 30:23)Therefore, the overall heat transfer coefficient that we can find out, as 1 / U o = 1 / ho +
+0.000535 which we got expression earlier is equals to 1 / h o now we will found out
+940.03 + 0.000535. So, this is 0.0016, right. So, inverse of U that is U o = 625 W/m2.°C.
+And LMTD can be found out as (40 - 23 – 40) /30, because our outside temperature was
+constant; that is the temperature at least the condenser is getting the refrigerant fluid is at
+40 degree Centigrade which is having only a phase change. 
+So, there will not be any change of temperature of the refrigerant, that will be at 40° ; but
+the temperature of the inlet of the water and outlet of the water varying. So, (40 - 23 - 40
+- 23 30 / ln (40 – 23/ 40 – 30) that comes to 13.19; so, we know you, we know LMTD.
+So, Qc = Uo Ao LMTD; or from there we find out A o is Qc / LMTD × Uo = 45700 /625 ×
+13.19 = 5.54 m2, right, we assumed it.
+So, assumed ΔT has to be cross checked. How, ΔT is Q c / ho Ao. So, that is 45700
+/940.03 ×5.54. So, that becomes 8.77. So, this is higher than what we assumed 5°. So, we
+do a second trial and in that second trial same way we find out LMTD, we find out h o, we
+find out Uo everything; and by doing that we have seen that the second trail, if it is ΔT is
+7 °C instead of 5 and is correct assumption and there are 48 tubes of D o, right 0.014 m.
+Hence Ao new or corrected A o becomes 48 π do L right; where L is A o / 48 π do. Ao we
+have found out here 5.54 in the second trial, A o can be somewhere 5.1 or close to that,
+right. So, Ao is 5.1 48 π and do is 0.014 which becomes 2.42.So, the length of the heat exchanger or length of that, yeah heat exchanger is 2.42 m per
+tube, right. Length of the per tube that was our perhaps the problem which we had been
+asked to do that what is the, yeah determine the length of the tubes. So, length of the
+tubes is 2.52 m, right. So, with this we have solved the problem and you do the second
+trial, and hopefully you will get the same result. So, with this let us stop, the time is up.
+Thank you.

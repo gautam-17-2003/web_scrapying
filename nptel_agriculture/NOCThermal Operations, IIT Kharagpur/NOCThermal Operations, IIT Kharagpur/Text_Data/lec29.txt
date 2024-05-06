@@ -1,0 +1,154 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 29
+Heat Transfer by Convection (Contd.)
+Good afternoon. In the previous class, we had given you three problems. Out of which of
+course, all three were with respect to Heisler chart and earlier also we have done Heisler
+chart correctly that. Now we are coming to the lecture number 29 as a continuation of the
+Convection Heat Transfer and in this, we would like to first do the solutions which we
+have done earlier for the problem 1 given, ‘right’.
+(Refer Slide Time: 01:20)
+Now for problem 2 and 3; if we look at the solutions, ‘right’ for problem 2, ‘right’,
+which was let us also look at otherwise, you may lose the continuity.(Refer Slide Time: 01:27)
+That it was said that a long cylinder having diameter of 10 centimeter and initially at 30
+ºC is placed in an oven at 200 ºC, ‘right’.
+So, having a locally transfer coefficient of 150 W/m2ºC and we were ask that calculate
+the time required for the temperature to for the calculate time required for the axis
+temperature, ‘right’; axis temperature meaning center temperature, ‘right’. To do that
+axis temperature to reach 100ºC also calculate the corresponding temperature at radius 5
+centimeter given, α= 5.0 × 10−6 m2/s and k conductivity to be 30 W/m oC, ‘right’.
+So, this solution if we do, we can do this like this given things are given that are like this
+diameter of the cylinder d 0 was 0.1 meter. Initial temperature T i 30ºC, oven temperature
+T infinity 200 degree centigrade, local heat transfer coefficient h is 150 W/m2ºC, thermal
+diffusivity α= 5.0 × 10−6 m2/s and thermal conductivity k=30 W/m oC. This was given,
+‘right’. We have to find out the time required T for the axis temperature T 0 to reach
+100ºC, ‘right’.
+And corresponding temperature T at a radius r is equal 0.05 meter, ‘right’. This is what
+we have to do, that what is the corresponding temperature at radius 0.05 ‘right’. Now if
+you solve it that first you have to find out as visual that what is the Biot number. So, Biot
+number is hro/k, ‘right’. So, do was given 0.1 meter. So, r o is then 0.05 meter. 
+So, lumped system analysis cannot be done, ‘right’. So, this to apply, we have to if you
+apply lumped system then also you have to show that what is the value of Biot number.
+If you do not apply lumped system, then also you have to show that Biot number is
+greater than 0.1, ‘right’. 
+Otherwise if you are doing otherwise, then yeah even I will not fall, but; obviously, that
+will not be justifiable that you are using that graphical method that is why Heisler chart
+is not as easy as that for the lumped system, ‘right’; lumped system is very easy. So, you
+have to justify, why you are using lumped system or why you are not using lumped
+system for unsteady state. So, here we have shown that Biot number is coming equal to
+0.25.
+So, if it is 0.25; that means, 1/Biot number that also we can find out. So, 15 Biot number
+is 4, ‘right’; 1/Biot number is 4. So, with 1 by Biot number 4 and we have to now find
+out the Fourier number, ‘right’. Fourier number is Fo is 
+ , ‘right’. We have been
+given α =5×10-6 time t, we have to find out, ‘right’ time T we have to find out. And we
+have also to find out l square we would not also to find out; we have been given l square;
+l square is 0.05 square, ‘right’. So, since t is not known, Fourier number is not known as
+of now, but what is known to us? We have been given T ∞, we have been given T i, ‘right’.
+So, since this two are given and also we have been given T i and T∞.
+So, we can say that time required for the axis temperature T 0 to 100 ºC,‘right’ so; that
+means, initial temperature and the center temperature is also given. So, if that is given,
+then we can find out theta  is equal to T 0 minus T infinity  over T i- T∞ that is So,
+. if 0.5882 is θ that is one dimensional θ; then from the
+chart for cylinder infinite cylinder and for the center temperature, we can look into the
+graph where Fo verses theta is plotted against 1 by beta, 1 by Biot numberm ‘right’. 
+So, now, 1 by Biot number is known for say, this 1 and corresponding θ value is 0.5882;
+so, 0.5882 we know. So, from there we can draw that what is the value of Fo. So, thatvalue of Fo from the graph came out to be 0.25. So, if it is 0.25, then we can write that;
+Fo is 1.2, ‘right’; Bi is 0.25.
+So, we can write F o is 1.2. If Fo that is Fourier number is 1.2, then we can, ‘right’ 
+that is equal to α given 5.0 × 10−6 m2/s ‘right’ into t over l square that is 0.05 square,
+‘right’. So, from there the value of t that can be found out by t is equal to how much, t is
+equal to 0.05 square, ‘right’; into 1.2 divided by 5.0 × 10−6.
+So, if you solve it, then it comes that t becomes equal to 600 seconds; so, t becomes
+equal  to  600  seconds,  ‘right’.  So,  this  is  what  we  have  shown  here  that
+, ‘right’. So, 
+from there we found out the value of t that is the
+time required to bring the center temperature or axis temperature 100 ºC, ‘right’.
+If this is true, then the second thing which you are asked we have to find out what is that
+time required and corresponding temperature T at radius r is equal to 0.05, ‘right’. So,
+this we have to do now that what is the temperature T for r is equal to 0.5, ‘right’.
+(Refer Slide Time: 14:14)
+So, again we refer to that lot of Heisler chart where it was theta and this is theta and we
+have been asked to find out r by r o. This is equal to 𝑟/𝑟0; this is equal to after 5, ‘right’,
+that this was let us look at that this was 0.05 meter ‘right’ at a radius of 0.05 meter. So,
+we have to find out. Then we can say that for 𝑟/𝑟0 that is equal to 0.05/0.05 this is equal
+to 1, ‘right’. So, value of 1, then from the plot up here; you remember that for 𝑟/𝑟0 is
+equal to 1 and this side we have theta and this side we had 2Bi; if it is cylinder, ‘right’.
+So, for this if we look at the value upto Bi and this theta then for r o by ri is equal to 1,
+‘right’. We find out the value of theta corresponding to given Bi, ‘right’. So, that comes
+to be equal to 0.85 from the chart. So, if it is 0.85, then we know that theta is equal to.
+ 
+So, we could find out what is the value of temperature at r is equal to 0.05 meter, ‘right’.
+ (Refer Slide Time: 18:08)
+Now let us look into the 3rd problem. The 3rd problem if you will see that what it was, it
+was like this that a metallic sphere of radius r of radius 10 millimeter is initially at
+uniform temperature of 200ºC. It is then quenched in water bath at 10 ºC having h heat
+transfer coefficient to be 5000 W/m2 oC until the center temperature of the sphere cools to
+30ºC.We  have  to  find  out  the  time  required  for  cooling  this  sphere  that  is  the  center
+temperature to come 30ºC from initial temperature of 200ºC, ‘right’. And it is dipped
+into the water bath that is environmental temperature t infinity 10 degree centigrade, and
+given properties are alpha kC p and rho all the values are known, ‘right’. So, we can find
+out for this that given data r given data r radius of this sphere r o is equal to 0.01m, ‘right’.
+So, if it is 10 millimeter suddenly, it struck to my mind that if it is 10 millimeter, then
+and that was radius of diameter radius 10 millimeter. Yes radius of 10 millimeter, then r o
+becomes equal to 0.01 meter ‘right’. 10 millimeter by 1000. So; that means, 0.01, ‘right’,
+it is correct. 
+So, 0.01 meter ro initial temperature T i given is
+200ºC water temperature T ∞ is 10ºC, heat transfer coefficient h to be 5000W/m2 oC, final
+temperature at the center of the sphere T 0 to be 30ºC and thermal diffusivity α = 7.00 ×
+10−6 m2/s. Thermal conductivity k to be 30 W/m oC and specific heat C p to be 800 kJ/kg
+oC. And density to be 15000 kg/m3. These are given, we have to find out what is the time
+required to cool the center temperature of this sphere to 30ºC, ‘right’. This is what we
+have to find out. 
+Now hopefully you might have also done or you might have also tried to solve it, ‘right’,
+but let us also look at whether your solution and the solution which we are doing; they
+are matching or not, ‘right’. So, time and again I say that the problem which we do here
+you also do calculate. So, that yes, if there is any mistake that case that is found out and
+corrected, ‘right’ as we are doing online as and when some I do not say mistake that
+typographical is of course, mistake typographical mistake if there be any. 
+So, I tried to clear it up or I tried to replace it with the right thing. So, similarly when you
+already were doing; if you are doing and if that is coming correct, then if it is matching
+with ours, then it is very good. And if there is not then obviously, you will come in our
+contract in our notice. So, that and that portal again and again we are saying that you
+have a portal and in that portal y we can communicate with us, ‘right’ 
+So, we have to find out the time required for the center temperature of the sphere to
+come to 30 degree centigrade, ‘right’. And each time you see that it appears that if by
+chance it could be done with the lumped system because that is very easy, ‘right’. By thistime lumped system has come to your mind; not only to your mind by this time, you
+have come to almost memorize the solution that solution came to be that  is equal to
+0e-mt ‘right’. So, if it is so then we can easily find out what is if 0 is known,  value we
+can find out and if mt are known, then very easily we can solve with the lumped system,
+‘right’.
+But if it is only possible; if Bi is point less than 0.1, then; obviously, every place we have
+to find out first what is the value of Bi, ‘right’. So, first here also we have to find out the
+value of Biot number or Bi, ‘right’. So, to do that let us see that whatever things are
+given; given things are for Bi we have r o that is ro is given 0.01 meter h is given 5000 W/
+m2 oC and k is given 30 W/m oC, ‘right’. So, we can find out from this the value of Bi.
+(Refer Slide Time: 26:01)
+.  So,  lumped  system  analysis,  we  cannot  do,
+‘right’ is not valid and from this Bi value, we can find out the inverse of bi that is equal
+to 0.6, ‘right’.
+If inverse of Bi is 0.6, then from the Heisler chart for a sphere for a given Bi and given
+theta value, theta is also known because we have been asked that how much time it will
+take to reach 30 degree centigrade center temperature, ‘right’. So, So, theta 0 is 0.105, Bi is 1.67, inverse of Bi is
+0.6, ‘right’. So, we can find out from the plot of  0 verses or   rather verses Fourier
+number for 1/Bi corresponding to the value of 0.6.
+So, the  value was 0.105 say here, it is 0.105 and the value of 1/Bi is there. So, the point
+located on the Heisler chart is there; so, corresponding to this we come to the value of Fo
+and the value of Fo from this chart came up to be 0.7. This is not 0 by this is 0.7, ‘right’.
+Let us correct it otherwise it will remain here.
+So, it is 0.7 and that value we should correct otherwise, it will remain this is a real typo
+mistake,  ‘right’.  This  is  this  cannot  be  done  here  because  this  is  done  by  some
+mathematical formulation and that this kind of so, it cannot be done. So, we let us make
+it, this is 0.7, ‘right’. So, if Fo is 0.7, then 
+  is Fo from there the value of t, here we
+have written correctly Fo that is fine. So, when Fourier number is 0.7. 
+So, it becomes  
+ ; that means, that the temperature from 200ºC;
+when it is dipped into 10ºC, the time required for the sphere to come to the center
+temperature equal to 30ºC.
+The time required was only 10 seconds, ‘right’; only 10 seconds. So, this way we can
+find out that either the time required or the temperature from the Heisler chart which is a
+great application of convective heat transfer, ok.
+Thank you.

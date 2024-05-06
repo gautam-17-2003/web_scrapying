@@ -1,0 +1,223 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 25
+Heisler Chart
+Good Morning. We said in the previous class, this is of course lecture number 25, ‘right’;
+lecture number 25 and we will do here that Heisler Chart, ‘right’. So, this we said in the
+previous class if you remember, that we have done some non-dimensional parameters
+like theta, like capital X, like alpha, like, like Fourier number, like Biot number. These
+things we had said in the previous class. So, today we shall or in this class we shall use
+those for the transient heat transfer, ‘right’. 
+(Refer Slide Time: 01:07)
+So, here we see that the transient conduction heat transfer with spatial variations, are that
+is limitations of the lumped capacity analysis, ‘right’. So, if this was the solid and if all
+along this solid, the temperature is uniform then this can be under lump system; but if in
+this temperature here is T 1, here is T2, here is T3, here is T4, like that, then; that means, it
+is spatial variations, ‘right’, so that is not handled by the lumped system analysis. 
+So, in that transit heat conduction problems for small bodies can be solved using lumped
+system analysis; where it is generally accepted that the lumped system analysis is done ifBiot number is less than 1, ‘right’. So, that less than symbol has not come here or it has
+gone out of here, so it should be that less than 0.1. 
+So, the variation of temperature with location within the body and this can be, and can
+and reasonably be approximated as being uniform and small bodies of highly conducting
+material approximate this behaviour, when geometries are large and spatial variations
+can be, can spatial variations cannot be ignored lumped heat capacity analysis approach
+solution cannot be employed, ‘right’. So, that cannot be employed when your system is
+big or where Biot number is not .1, ‘right’. 
+(Refer Slide Time: 03:19)
+So, here we see that we have taken a lumped system, where you can have a uniformity in
+the like the temperature is like this, ‘right’. So, analytical solution of one dimensional
+generalized  condition  involves  the  governing  equations  along  with  the  necessary
+boundary conditions, ‘right’, and these are 
+ that is the governing equation
+boundary condition is 
+         ,‘right’.( , )( , )T L tand k h T L t T
+x  
+So, lumped system analysis cannot do this for that we need the analytical solution of
+these situations, involving infinite series and implicit equations which are very difficult
+to  evaluate.  One  term  approximation  or  solutions  of  above  equation  are  presented
+graphically and these graphics are known as the transient temperature charts or simply
+Heisler charts, ‘right’.
+So, this we have given an example for that. So, where lumped system cannot be applied
+there, analytical solution becomes very clumsy or very tricky or very difficult to handle.
+So, in those cases graphical solution was proposed by great scientist called Heisler,
+‘right’ and according to him the charts are named as Heisler chart, ‘right’.
+So,  there  in  earlier  if  you  remember  we  had  given  geometry,  say  that  this  is  one
+dimensional. So, this is the other two dimensions are become much larger compared to
+this that is why we can say it to be one dimensional. So, its axis is at the centre, ‘right’. 
+So, heat is being transferred in the x direction this is 0 to L ‘right’. So, if it is 0 to L it is 0
+to minus L which we had shown earlier, ‘right’; that means, that whatever is happening
+in this half it is the mirror image of this half ‘right’ this is identical, ‘right’. So, that is
+what is reflected through this at different time t 3 t2 t1 the width and t0 this is at T0 it was
+the initial condition 
+So, after this is at t infinity environmental condition with heat transfer coefficient of h,
+‘right’ the same is true at this side also because it being cylindrical. So, initial condition
+was T is Ti, ‘right’ and we have solution where this can be that after t infinity this
+temperature inside can also be T ∞
+So, from Ti to how it went to t infinity was like this, ‘right’. So, this is and you see that
+this up is nothing, but the mirror image of this up, ‘right’. So, that is what explicitly will
+utilize and this was done by the Heisler and that is why the charts are known as Heisler
+chart, ‘right’. (Refer Slide Time: 08:00)
+The transient temperature charts for large plane wall, long cylinder and sphere were
+presented by Heisler in 1947 and are called Heisler charts, ‘right’. Then these charts
+were supplemented in 1961 by Grober with three charts associated with each of them
+each geometry rather. The first chart is to determine the temperature T 0 at the centre of
+the geometry at a given time t. Then the second chart is to determine the temperature at
+other locations at the same time, ‘right’ and the third chart is to determine the total
+amount of heat transfer up to the time t, ‘right’. 
+So, let me go back a little that the first chart is to determine the temperature T 0 at the
+centre of the geometry at a given time t. The second chart is to determine the temperature
+at other locations at the same time and the third chart is to determine the total amount of
+heat transferred up to the time t, ‘right’.
+This just now we had shown that picture that this we can say that here, ‘right’. So, the
+things which we have just said that at any time t what is the center temperature say this
+one, ‘right’ at any time t what is the center temperature say this one, ‘right’ this is at x is
+equal to 0, ‘right’. 
+Then we also said that at the same time that is at time t is equal to t what is the
+temperature at other location, ‘right’ that also can be found out and what is the heat being
+transferred Q, ‘right’. These three though you are getting this solution or not solution this
+pictorial  view  showing  that  how  the  temperatures  are  being  distributed  if  it  be  acylindrical  solid  or  if  it  be  a  cylindrical  substance,  then  how  the  temperature  is
+distributed that you have shown. 
+So, Heisler charts does that. So, at x=0 what is the temperature at time t at x is equal to
+any x what is the temperature at time t and total Q that can be found out from the Heisler
+chart, ‘right’ and this along with the other along with the other researcher Heisler made it
+and subsequently he was supplemented by Grover, ‘right’ and we have said what are the
+three charts, ok.
+(Refer Slide Time: 12:10)
+Now, Heisler charts which are graphical analysis tool for the evolution of unsteady state
+heat transfer or HT. Two charts per geometry, rectangular, cylindrical or spherical are
+available. Central temperature for transient heat conduction through an infinite long
+plane wall of thickness 2L and infinitely long cylinder of radius r o and a sphere of radius
+ro are evaluated by that those charts. Much faster than analytical solutions. Of course, the
+solutions are much quicker than analytical. 
+Limitations are what number one the heat transfer body must be at uniform temperature
+initially that is the first limitation. Say then, the temperature of the surroundings our
+surroundings  and  the  convective  heat  transfer  coefficient  must  remain  constant  and
+uniform and third one that there must be there must be no heat generation from the body
+itself. So, these are the three, these are the three defects or limitations of the Heisler chart.
+Number one that the initial temperature must be uniform all along this is really an
+approximation because in much geometry or many materials this may not be true. Then
+the  second  is  the  temperature  of  the  surroundings  and  the  convective  heat  transfer
+coefficient  must  be  constant  and  uniform  and  third  is  that  there  must  not  be  any
+generation of internal heat which we have seen earlier, ‘right’. So, these three are the
+limitations of the Heisler chart, ‘right’.
+ (Refer Slide Time: 14:53)
+So, now we come for the infinitely long plane, ‘right’. There are three charts in which the
+first term of the exact solution of the Fourier series for an infinite plane wall is used,
+‘right’. So, that solution says like this that 
+So, this is an analytical solution, ‘right’. Of course, the terms are like this T i is the initial
+temperature of this body T infinity is the constant temperature imposed at the boundary,
+x is the location in the plane any location in the plane wall and lambda n is pi times n
+plus 1 by 2 and alpha is the thermal diffusivity.
+The position x is equal to 0 represents the center, ‘right’ of the slab, ‘right’; the center of
+the slab is the position x is equal to 0, ‘right’. So, if this is a solution by analyticalmethod you see solving such an equation is how much time consuming and how much
+energy as well what devotions you have to do. Whereas, the same thing or a similar one
+you know, because here you have already said that this is true for infinitely long plane
+wall; so that means, this is the plane and the other two other three sides like this and that
+these sides are infinite, ‘right’.
+So, but we are only concerned with this side, ‘right’. If that be true we can find out what
+is  the  temperature  distribution  or  from  the  non-dimensional  theta  x  which  is
+(Refer Slide Time: 18:30)
+Then we can say that the first chart for the plane wall is plotted using the three different
+variables. Plotted along the vertical axis of the chart; along the vertical axis of the chart
+and the chart is dimensionless temperature at the mid plane that is theta 0 is T 0 t minus Ti
+minus T infinity, ‘right’. Plotted along the horizontal x axis horizontal axis is the Fourier
+number ‘right’ which we call this y and x axis. 
+This number is Fourier number, ‘right’ and this is theta, ‘right’ and where this theta was
+equal to 
+  and Fourier number is 
+ , ‘right’. So, this is known. So, the curves within the graph are a selection of values for the inverse
+of the Biot number, ‘right’. So, 1/Bi; Bi was, hl/k, ‘right’. So, inverse of Bi is the
+selection of the curves say this is one curve, this is another curve, this is another curve.
+So, this is for 1/Bi, this is for another one by Bi like that, ‘right’.
+So, selection of the curves within the graph are selection of the values for the inverse of
+Biot number where Bi is hl/k and k is the thermal conductivity of the material and h is
+the heat transfer coefficient. So, we have explained how the Heisler charts are being
+prepared or were prepared, ‘right’. 
+ (Refer Slide Time: 21:11)
+Now, if we look at one of them that temperature distribution plane wall at mid plane,
+‘right’. So, this is saying temperature distribution in plane wall at mid-plane that is we
+have  a  plane  wall  like  this,  at  the  mid  plane  like  this,  what  is  the  temperature
+distribution? So, that with time is shown, ‘right’; where it is Fourier number is alpha t by
+L square, ‘right’. Fourier number is 
+  and
+ ,‘right’ and this is a
+log plot, ‘right’ 0 to 1 for theta, ‘right’ and Fourier number ranging 0, 100, 700 like that. 
+So, these are 1/Bi that is k/hL; these are 1/Bi that is k/hL, ‘right’. So, if 1/Bi is known
+and if Fourier number is known, then you can select that graph and find out from herewhat  the  value  of  theta  is  and  in  that  your  initial  temperature  is  known,  your
+environmental temperature is known and you can find out what is the value of T 0, ‘right’.
+This is a graphical. Only other than those assumptions which we have made, rather other
+than those limitations which we have shown or talked about there is also one more thing
+which has to be said explicitly, that the prime defect is that those are inherent defective
+cannot do anything, ‘right’. That the body having uniform initial temperature that you
+cannot make any deals, any change, ‘right’.
+So, we in most of the cases this is not true, ‘right’. The reason being that there will be
+always a temperature gradient in the body that is true, but we are assuming for this that
+the body has uniform initial temperature fine. Then we also said that the environmental
+temperature T infinity and h they are constant and uniform fine and the third thing we
+said that that assumption, the third thing which is said was that, if I remember correctly
+that the third thing which we said was this, ‘right’; there must not be any sorry I forgot
+that there must not be any internal heat generation, ‘right’.
+Internal energy generation there must not be; you remember in one dimensional heat
+transfer in conduction rather; we had shown the lot many cases where internal generation
+of heat was there. So, this is not valid where you can apply this kind of Heisler chart,
+‘right’. 
+ (Refer Slide Time: 25:38)
+So, what other these are inherent; other thing which is very much that is you have found
+out Bi, sorry you have found out Bi fine. Your 1/Bi is how much you know? So,
+whatever value say 3, ‘right’. So, you can find out corresponding to that 3 this curve,
+‘right’. 
+Now, you also found out
+ . Say that value you have found out to be, say, 18,
+‘right’. So, from there if you can come to this point and see this point then you get the
+value of theta 0. 
+Here is the possibility of error, that what you can see that this line and this line they are
+coming the value of theta which you have taken say 0.085 or something that you may say
+0.085, your friend may say 0.086 or your may say 0.084, ‘right’. So, that error is
+unavoidable. This is a human error or personal error, ‘right’, but not the system error this
+is human error or personal error, ‘right’.
+So, there can be this and this charge normally, which are available in the book difference
+Heisler charts in big, big posters perhaps they are not. The reason being nowadays many,
+many software have come up which may help you to solve such kind of solution, such
+kind of situations, much quicker and in a much errorless way. 
+So, that is why people have not taken or given that much consideration to enlarge those
+Heisler charts. Yes, if Heisler chart should have been enlarged like that you can also with
+minimum error, you can also find out. The same is true I hope you have done not in this
+class in some other classes that humidity chart or simply we called psychrometric chart,
+‘right’ that psychometry also is another human error involved situation, ‘right’. 
+So, what we can find out that  θ0 at;  θ0 at any time t, ‘right’ that  θ0 at any time t
+corresponding to Fourier number Fo, ‘right’ and also 1/Bi. So, you have to know the Biot
+number, ‘right’. So, if that is known then other charts which are available are like this.
+The second chart is used to determine the variation of temperature within the plane wall
+of different Biot numbers, ‘right’. The vertical axis is the ratio of the given temperature
+to that at the center temperature. So, that is  
+ and x/L is the curve is the position at which T is taken,
+‘right’ and horizontal axis is the value of 1/Bi, ‘right’. So, Bi inverse is the horizontal
+value the y axis is theta over θ0, ‘right’. This is also non-dimensional and that is {T(x t) -
+T∞/T(0 t)-T∞} and you have already found out the Biot number. 
+So, inverse of Biot numbers is there and you are finding out x /L for different x/ L;
+obviously, this will x will be maximum at 1 and x will be minimum at x /L is 0, ‘right’. 
+(Refer Slide Time: 31:00)
+So, this is the second curve. Let us look into that. The temperature distribution for the
+wall and there it appears, you see that 1 by B i is there and theta t by θ0 that it {T(x t) -
+T∞/T(0 t)-T∞} is there and Bi is 1/hL/k and x/L is that 0.02 0.03 0.456 like that up to 1,
+‘right’. 
+So, from this curve knowing 1 by Bi you know where you are, then you know you are
+you also know x/L. So, from there you know this point and you can get that θt over θ0,
+‘right’ theta t over θ0 that you can find out easily, ‘right’. 
+(Refer Slide Time: 32:08)So, let us look into the third very quickly because time is almost over. So, the third one is
+the third chart in each said was supplemented by Grober in 1961 where you are plotting
+Q by Q0; the ratio of actual heat transfer to the amount of total possible heat transfer; for
+T is T∞ on the horizontal axis is the plot Bi2/ Fo a dimensionless time is also being
+plotted or is plotted.
+ (Refer Slide Time: 32:47)
+Then, that if we look at it appears like this. So, here it is this is like that (h s2α×t) k2 that is
+Bi2/Fo on the x axis this is Q/Q 0 on the y axis; and this is Bi =hL/k. So, these lines will tell us for different Bi what is the value of corresponding Bi into F o
+square versus this Bi we can get the value of Q/Q 0, ‘right’. So, hopefully this is what we
+can look at that, ‘right’. 
+(Refer Slide Time: 33:31)
+So, afterwards perhaps this class is over subsequently we will do again maybe some
+numerals, some numerical solutions, numerical means which number we will try to find
+out, ok.
+Thank you.

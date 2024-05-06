@@ -1,0 +1,205 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 22
+Transient Heat Transfer (Contd.)
+So, in our 22nd class we were covering Transient Heat Transfer in the previous class,
+‘right’. And we said what is the meaning of transient heat transfer that is unsteady state
+heat transfer; if you remember we gave the example that you are putting in a pot hot
+water and then you dip some spherical ball and the temperature in the ball should be
+uniform; then only the heat transfer in the form of lumped system can be analyzed and
+we began with that, ‘right’. So, we are continuing that transient heat transfer in the class
+22nd.
+(Refer Slide Time: 01:21)
+ (Refer Slide Time: 01:25)
+We had taken this we had analyzed and we came to the solution that θt is equal to Ce-mt
+where m was supposed to n m was made equivalent to by ρCp V, ‘right’.
+(Refer Slide Time: 01:43)
+And this we then converted into the non dimensional temperature like theta t over theta 0
+that was defined to be T t -Te over T0- Te and this was made equivalent to e to the power
+minus mt, ‘right’.
+And we said that this is dependent on non-dimensional parameter called Biot number or
+Bi which is where Ls = V/A, or it is known as characteristic length or length ors
+shLBikcharacteristic dimensional parameter. And h is the heat transfer coefficient and k s is the
+conductivity of the solid, ‘right’; we give the example  of your that ball, so that is
+conductivity of the solid, ‘right’.
+(Refer Slide Time: 02:53)
+So, if these we true then we said that Bi and the k s the thermal conductivity of the solid
+irrespective of the shape of the solid, temperature distribution during transient condition
+within a solid at any instant is uniform with an error less than 5 percent if we said Biot
+number is equal to   and is less than 0.1. 
+Hence, let us assume that the lamped system analysis is applicable for Biot number less
+than 0.1. And the physical significance we get like that h meaning that this is
+the ratio of heat transfer coefficient for convection at the surface of the solid to the
+specific conductance of the solid. Hence assumption is valid if the specific conductance
+of the solid is ks over Ls much larger than that of h, ‘right’. s
+shLBik
+s shBik L(Refer Slide Time: 04:15)
+So, now we started we can go for a solution of a problem, ‘right’. And the problem is
+like this in a well stirred liquid maintained at constant temperature T e is equal to 25
+degree centigrade a copper plate having conductivity k s equal to 386 W/moC; specific
+heat  Cp equal  to 383.1 J/kgoC, density   = 8954 kg/m3, thickness  L is  equal  to  5
+centimeter and at the uniform temperature of T 0 equal to 250 oC is suddenly immersed at
+time t is equal to 0. 
+The heat transfer coefficient between the plate and the fluid is h and this is equal to 350
+W/m2oC. What will be the time required for the center temperature of the plate to reach
+60 degree centigrade, ‘right’. (Refer Slide Time: 05:59)
+And this can be solved very easily like; solution of this problem can be written. But
+before we go to the solution we read out the problem once more that in a well stirred
+liquid maintained at a constant temperature T e to be 25 oC, a copper plate, ‘right’. 
+So, a well stirred liquid as we said earlier; so there you are putting a copper plate. So,
+that copper plate is under this new condition that is suddenly it is immersed into that
+liquid,  ‘right’.  So,  if  that  be  true  that  is  the  liquid  is  maintained  at  the  constant
+temperature of Te equal to 25 degree centigrade, a copper plate having conductivity k =
+386 W/moC specific heat Cp = 383 J/kgoC.
+And specific heat C p to be 383.1 J/kgoC having a density of 8954 kg/m3, thickness L = 5
+centimeter and uniform temperature of T 0 250 oC is suddenly immersed at time t is equal
+to 0; that copper plate is suddenly immersed into this liquid at 25 oC, ‘right’. 
+Now, this immersion is done in the liquid where the heat transfer coefficient between the
+plate and fluid is or h is 350; 350 W/m2oC; what will be the time required for the center
+temperature of the plate to reach 60 degree centigrade? So, from that 250 oC to 60 oC
+how much time is required, ‘right’? Now to solve it if we do it with the help of lamped
+system, then first we must look into what is the value of Biot number. Because for
+application of lamped system Biot number or Bi that is  that  number  should
+be less than 0.1, ‘right’.s
+shLBikSo, let us look into what is that first let us find out that what is the characteristic length
+dimension, ‘right’. So, that L s of that is solid length or characteristic length because to
+volume of the solid over the area of the solid that is LA over 2A; since it is a plate, so
+normally it is taken both the side the plate. 
+So, 2 is the area and L is the volume; so we can say it is 
+So, the characteristic length we got to be 2.5 centimeter, ‘right’. 
+(Refer Slide Time: 09:37)
+Now, before therefore, we can find out the Biot number and that Biot number is equal to
+Bi equal to     so this is less than 0.1.
+So, we can use the lamped system analysis and in that lamped system analysis we have
+we remember that our solution was
+ 
+So, we have seen that a hotplate when suddenly immersed into a liquid with a heat
+transfer coefficient and the characteristic length and all other parameters are known; then52.52 2 2sVolume LA LL cmArea A    
+2350 2.5 100.023386shL X XBik
+  
+0
+2
+1 0.00408( ) 60 25,250 25
+350,8954 383.1 2.5 10
+0.00408 0.155
+, 0.00408 1.864
+, 456.94 7.62 minmt mte
+e
+p p s
+tT t Te or eT T
+hA hwhere mC V C L X X X
+s e
+or t
+or t s  
+
+     
+  
+  
+
+ how much time it will take from one initial temperature to a final temperature say 250 to
+60  degree.  So,  what  will  be  the  time  required  to  do  this  change  under  the  given
+condition; this is what is transient heat transfer and this is what is the beauty of the
+lamped system. 
+So, easily you can solve the situation, ‘right’, but we have to check whether the Biot
+number was less than 0.5 or not, ‘right’. Sorry, Biot number has to be less than 0.1; then
+only this is applicable, ‘right’.
+(Refer Slide Time: 14:27)
+So, let us look into another problem which is like this that the junction of a thermocouple
+which  is  approximated  to  be  a  sphere  of  a  diameter;  of  diameter  D  equal  to  0.8
+millimeter having k conductivity to be 30 W/moC. Density  8000 kg/m3 or specific heat
+500 J/kg oC is being used to measure the temperature of a gas. 
+The heat transfer coefficient between the junction and the gas is h equal to 600 W/m2oC.
+Determine the time required to for the thermocouple to record 98 percent of the applied
+temperature difference, ‘right’.
+So, here you have to be careful because while reading some things are given which are
+very useful and very thoughtful also, ‘right’. So, quickly if we look at the junction of a
+thermocouple which is approximated to be a sphere of diameter D 0.8 millimeter; having
+conductivity cap 30 W/moC, density 8000 kg/m3.And specific heat C p 500 J/kg oC; it is being used to measure the temperature of a gas,
+‘right’ thermocouple you know. So, this is what junction one metal another metal; so
+make the junction and this point is used as the thermocouple and the other end of these
+two points are given to the measuring device, ‘right’. 
+So, the heat transfer coefficient between the junction and the gas is h is equal to 600 W/
+m2oC.  Determine  realized  that  importance;  determine  the  time  required  for  the
+thermocouple to record 98 percent of the applied temperature difference. That means,
+you have already measured 98 percent that is accomplished 98 percent; unaccomplished
+2 percent, ‘right’. So, that is the crux of the problem; that is the key point of the problem
+‘right’. 
+So, again we have to first find out the Biot number to; find out the Biot number first we
+have to find out the characteristic length. So, characteristic length of this is a sphere, so it
+is 
+ (Refer Slide Time: 18:09)
+If that be true then the Biot number we can determine that is 
+it is that is 0.00266; that means, it is less than 0.1 ‘right’. So, since it is less than 0.1, so
+we can apply the lumped system analysis; so applying the lumped system analysis we
+can write that 3
+240.83
+4 3 6 6srV r DLA rmm
+    
+33 600 0.8 102.66 1030 6shL X XBi Xk X  
+0( )mte
+eT t TeT TAnd θt/θ0 was equal to 
+  T temperature at any time T minus temperature of the
+environment or of the fluid where the it is getting transferred; over the initial temperature
+minus the environmental temperature, that is what the medium is getting heat transferred.
+So, 
+.
+3.475 second was the time. So, the crux of the problem was how to make; how to make
+the use of that 98 percent factor, ‘right’. So, that 98 percent factor we have used that 98
+percent has been already accomplished; we have remaining 2 percent; so these 2 percent
+has to be measured. So, that is why it became 2 percent equivalent to 2 by 100, ‘right’.
+So, we found out m and from there from the relation theta t by theta 0; e to the power
+minus mt, we have found out what is the time required.
+It can be the other way around that in some problem, you may have been given all the 4
+temperatures and you know you might not have been given all the 4 temperature you
+have been given on 3 temperatures. And you are asked that within this time how much
+will be the temperature drop or how much will be the temperature gain or what will be
+the environmental temperature etcetera; that combination you have to do with different
+problems, ‘right’.0( )mte
+eT t TeT T
+132 100; , 50 , 3.91100 2
+,
+600 61.1258000 500 0.8 103.475mt mt
+p p se or e or mt
+hA hNow mC V C L
+Xs tXsX X 
+   
+ 
+   (Refer Slide Time: 25:17)
+So, let us look into that to solve this kind of problem boundary conditions are very much
+necessary; boundary conditions of any slab that is fundamental to be looked into, ‘right’.
+So, here we have given one boundary that you have a slab of thickness L and heat is
+being supplied q quantity. So, much Watt per meter square in one side and another side,
+a convection to a fluid that is T the heat transfer at the coefficient of h the slab has a
+thickness of L. 
+So, it is a slab of thickness L at an initial temperature of T 0 is considered heat is supplied
+at one of its boundary, surface at a constant rate of q W/m2; when time is greater than 0.
+Heat is dissipated by convection from the other boundary surface into a medium at a
+uniform temperature T e; with a heat transfer coefficient h, ‘right’; if that be true that this
+is a problem which is to be solved. So, q is given that is heat flux in one side, other side
+is convective heat transfer at time T is a greater than 0 constant rate of it flux is given
+another side is an the boundary, ‘right’.(Refer Slide Time: 27:09)
+And let us define a new temperature theta t; as theta t is T t-Te, ‘right’. So, if this be true
+then we can find out that the solution of it, ‘right’. So, next class we will do this solution
+because today now we are running out of time. So, we will solve it in the next class. So,
+next class before solving we will first have this problem again and then solve it ok.
+Thank you.0( )( )
+( ). ( ) 0
+( ) 0
+( )
+( ) ( )e p
+e p
+edT TAq Ah T T t C ALdt
+dT tor q h T T t C L for tdt
+and the initial condition is
+T t T for t
+Let us define a new temperature t as
+t T t T
+
+
+  
+    
+   
+ 
+ 

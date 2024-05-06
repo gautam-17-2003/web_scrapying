@@ -1,0 +1,177 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 49
+Heat Exchangers (Contd.)
+So, we are coming now to the Heat Exchangers more or less to the end part, it is not
+maybe some few more classes will be required because if you are able to handle heat
+exchangers and problems associated with that, then I hope you can handle heat transfer
+very efficiently, ‘right’.
+So, now we are coming to that lecture number 49, that is heat exchanger continuation,
+‘right’.
+(Refer Slide Time: 01:10)
+So, here also let us do a problem, this is a different problem than what you normally
+come across that is why I thought let me share with you also. The problem is like this.
+The temperature distribution across a large concrete slab just now we gave definition in
+the previous class. We gave that cold store or R22 things like that we had given.
+So, that is why that if you see a cold store so, that is having a concrete, ‘right’ and then
+some insulation ‘right’ and then some barrier that is vapour barrier etcetera, ‘right’. So,
+their concrete is also one of the vital thing. So, that is why I thought let it be also betaken care of or let it also be tried with. That the temperature distribution across a large
+concrete slab of 500 mm thick. So, that slab is 500 mm thick that is 50 cm, ‘right’, 500
+mm means 50 cm means 0.5 m, ‘right’. So, half of a meter is thick. So, really it has to be
+because they are normally equal storages are 4-5 story.
+So, if it is not well constructed then there may be a chance of collapse that is why they
+are well. I mean you know from the civil engineering point of view well done; however,
+our problem is not civil engineering our problem is heat transfer. So, let us look into that.
+The  temperature  distribution  across  a  large  concrete  slab  of  500  mm  thick  of  a
+commercial  cold  store  is  subjected  to  high  outside  temperature  from  one  side  as
+measured by thermocouples approximating to the following relation. That is T = 120 -
+100x + 24x2 + 40x3 - 30x4, ‘right’.
+(Refer Slide Time: 04:06)
+I repeat, at the end will repeat where T is in °C and x is in m, ‘right’. So, this was the
+concrete which was this length as thickness is 50 cm, ‘right’ or 0.5 m, ‘right’ and in this
+that the temperature distribution is like this, 120 - 100x + 24x2 + 40x3 - 30x4, where T is
+in centigrade and x that x is this as you are progressing this is having a temperature
+outside and this is a temperature inside. So, that this temperature distribution which we
+have said is a function of x where x is the distance from the end, ‘right’.(Refer Slide Time: 05:15)
+So, if these be true, then considering an area of 5 m2, calculate the heat number i: the heat
+entering and leaving the slab, ‘right’. So, this was the slab number i, find out the Q
+entering and Q leaving the slab ‘right’. So, this is if it is entering and this is exiting or
+this can be simply written Q i and this is Qo that is much better, ‘right’ Q inlet and Q
+outlet, ‘right’, the heat entering and leaving the slab in unit time per unit time or second,
+‘right’.
+(Refer Slide Time: 06:05)
+So, that is i. Number ii: the heat energy stored in unit time again what is the Q that has
+been stored that is Q i - Qo should be, ‘right’ how much Q has been stored should be
+whatever has come and whatever has left the difference should be the stored amount per
+unit time since the earlier one was also per unit time and this one is also per unit time.
+Third the rate of temperature change at both sides of the slab.
+(Refer Slide Time: 06:46)
+Again we have that 50 or 0.5 m slab, ‘right’, the rate of temperature change at both side
+of the slab. So, what is the rate of temperature change at this end and what is the rate of
+temperature change at this end of the slab that is also to be determined. And number iv:
+the point where the rate of heating or cooling is maximum, ‘right’. So, this is both
+heating  or  cooling  is  maximum,  ‘right’.  So  that  means,  here  also  that  maximum
+minimum concept will come into, ‘right’.
+So, some derivative is equal to 0 that is for the maximum or minimum. So, fourth one is
+that. Given the properties of the concrete like this k, conductivity of the concrete material
+is 1.2 W/m.°C, alpha that is thermal diffusivity is 1.77×10-3 m2/h this is m2/h, ‘right’.(Refer Slide Time: 08:10)
+Normally α is in m2/s or thermal diffusivity is m2/s, when the moment it is like that the
+value will be somewhere high. So, that is why it is m2/h; 1.77 × 10-3 m2/h, ‘right’. So, to
+do the problem as we normally do that we repeat the problem so that understanding
+becomes clear.
+The  temperature  distribution  across  a  large  concrete  slab  of  500  mm  thick  of  a
+commercial  cold  store  is  subjected  to  high  outside  temperature  from  one  side  as
+measured by thermo couples approximating to the following relation, T = 120 - 100x +
+24x2 + 40x3 - 30x4, where T is in centigrade and x is in meter.
+Considering an area of 5 m2 area, calculate an area of 5 m2 calculate number i, the heat
+entering and leaving the slab in unit time, number ii, the heat energy stored in unit time,
+number iii, the rate of temperature change at both sides of this slab and number iv, the
+point where the rate of heating or cooling is maximum given the properties of concrete as
+follows  that  k  conductivity  of  the  concrete  material  is  1.2  per  m/°C  and  thermal
+diffusivity of the concrete material is 1.77 × 10-3 m2/h, ‘right’. So, this we have to do.(Refer Slide Time: 10:16)
+Now, to do that, first let us see we have been given this unit that T = 120 minus dot dot
+dot dot this thing, ‘right’. So, write first this one. Now the moment you write it, so, T is
+we can write T is a function of x, ‘right’.
+(Refer Slide Time: 10:38)
+If T is a function of x then we can easily differentiate it as dT dx ‘right’. So, that is what
+we have done. What is the dT/dx of this? dT/dx of this is this one is constant. So, not
+there, so, this is minus 100 x. So, minus 100, this is +24 x2. So, 2 × 24x, this is on
+differentiation, this is 40x3 so, plus 3 x3. So, 3 × 40 x2, ‘right’ - 30 x4; so, -4 ×30 × x3. So, dT/dx is this -100 + 2 × 24 x  +  3 ×  40 x2 - 4 ×  30 x3 which on simplification can be
+written as -100 + 48 x + 120 x2 - 120 x3 this is dT dx. So, dT dx is this first derivative,
+‘right’. So, what will be the second derivative? That is d2T/dx2.
+(Refer Slide Time: 12:04)
+Second derivative will be again d dx(dT/dx), ‘right’ ddx of dT/dx is your d2T/dx2 or
+second derivative. So, if we again differentiate with respect to x the dT/dx, then we get
+that. So, this is to be again differentiated. Again if we differentiate first this term goes
+off, ‘right’. So, here it is 2 × 24 that comes directly, here it is 3 × 40 or 120 × 2 2 × 120
+x, ‘right’ and this term it is 3 × 120 that is this.(Refer Slide Time: 13:00)
+So, we can write d2T/dx2 is 48 + 2 × 120 x - 3 × 120 x2 that can be written which is not
+visible here, but that can be written simply as 48 plus this is 120 × 2 that is 240 x, ‘right’
+minus this is -3 ×120; that means, 360 x2 is the simplification form of this ‘right’. 48 +
+240 x - 360 x which is written here, ‘right’ which is not visible for some reason beyond
+me, ok.
+(Refer Slide Time: 14:00)
+So, I repeat that we have d2T/dx2 on simplification is equal to 48 + 120 x - 360 x2, ‘right’
+that is the second derivative, ‘right’.(Refer Slide Time: 14:26)
+Now, if we have this, then we can write heating heat entering the slab, ‘right’ heat
+entering the slab that was our first question. So, heat entering the slab that can be written.
+So, qo  if it is -kA dT/dx at x = 0 instead of 0.5, it should be written x is equal to because
+both the sense, ‘right’. So, one end x = 0 and other end x = 0.5, ‘right’ that is logical,
+‘right’.
+(Refer Slide Time: 15:08)
+So, at x = 0 they should be x = 0 we write our expression was -1.2, ‘right’ into the again
+we again we made that mistake, that mistake is here you see it is α is one point not 2,1.77 oh k is 1.2, ‘right’ k is 1.2 and α is 1.77 10 to the minus 3. So, when you are doing it
+with your calculator, please look into the corrections that this is x = 0 and our dT/dx -
+kA. So, we have -1.2 that is k, A was 5, ‘right’ and dT/dx first thing which came up is
+this which came up was minus 100 + 2 × 24 that is plus 48 x + and 120 x2 - 120 x3,
+‘right’.
+So, this was our this thing dT/dx.
+(Refer Slide Time: 16:46)
+So, dT/dx at x = 0, this was that this is –kA, ‘right’. So, if we take this should have been
+this actually should have been -100 into this is 0 this is 0 this is 0, ‘right’. So, 1.2 × 5,
+‘right’ 1.2 × 5 is how much? 60, ‘right’, 1.2 × 5 is 6, ‘right’ and this minus and this
+minus made it 100. So, it is 600. So, 600 watt actually q at x = 0; the same both the
+things are this and that are identical, somehow it got over overwritten, ‘right’.(Refer Slide Time: 17:51)
+So, q at x = 0 you put all in this expression everywhere 0 x is 0 x is 0 then only minus
+100 remains.
+So, -1.2 × 5 is 6 times 100 = 600 W, ‘right’. So, q is 0 is 600 W ‘right’ similarly q o  at x
+= -0.5, x equal 0.5 is -kA dT dx. So, now, here we are writing that here we are writing -
+1.2 × 5, ‘right’ into -100 + 48 × 0.5 + 120×0.52 -120 × 0.53, ‘right’. So, this if we
+calculate then it comes this side is - 6 and this side after simplification becomes - 61.
+So, total is this minus and this minus goes off. So, 6 × 61 is 366, what happen? When we
+have I have we have done I have done it. So, perhaps these also got super imposed
+unfortunately, ‘right’. So, please correct it. This is x = 0 you put in all the x as 0, ‘right’.
+Then you have only 100 ×6. So, it becomes 600 W at x = 0 and this should be q 0.5,
+‘right’, q0.5 and -k A x = 0.5 that comes 366 W, ‘right’. So, second part is over, third part
+is the heat energy stored in unit time, ‘right’ heat energy stored in unit time.(Refer Slide Time: 20:15)
+So, all where this watt means Joules per second ‘right’ this watt means J/s, ‘right’. So, if
+we have qo – q0.5 then that is what is or this could have been written which I said q in and
+this could have been written q out, ‘right’. So, q in - qout is the total heat which is going
+out. So, it is 600 was in 366 was out. So, it is 234 W, ‘right’ so; that means, 234 J/s per
+unit time, ‘right’.
+(Refer Slide Time: 21:11)
+Actually it should have been written 234 J because we are already asked per unit time.So, 234 J, ‘right’ per unit time. So, that is the net or the energy heat energy stored in unit
+time, ‘right’. Now the fourth one which is left this was the second, now the third one that
+is the rate of temperature change at both sides of this slab, ‘right’.
+(Refer Slide Time: 21:48)
+So, rate of temperature change at both sides of this slab, this was our slab, what is the
+rate of temperature change T that is d rate; that means, with respect to time.
+So, dT/dt what is the value of dT/dt at x = 0 and dT/dt at x = 0.5, ‘right’.
+(Refer Slide Time: 22:22)
+So, if this is to be done then we are finding out dT/dt at x = 0 and dT/dt at x = 0.5. So,
+how much is the value that we have to find out.
+(Refer Slide Time: 22:41)
+So, let us look into that and we see that dT dt is nothing but α d2T/dx2, ‘right’ dT/dt that
+is d temperature with α time is α d2T/dx2.
+So, that you can write α 1.77×10-3, already we have found out d2T dx2 = 48 + 240 x – 360
+x2 this is the general expression. So, we can write dT/ dt that is d with of temperature
+with time that is the differential of temperature with time at x = 0 is 1.77 × 10-3 and since
+x = 0 here you have done so, correctly and x = 0. So, it comes only 48.
+So, 48 × 177 1.77 × 10-3 is 0.085 °C/h. So, that is dT/dt at x = 0. Similarly dT/dt at x =
+0.5, we can write it is 1.77 × 10-3 times now instead of x you write 0.5; so, 48 + 240× 0.5
+- 360 × 0.52. So, this on simplification comes to 0.14 °C/h, ‘right’.
+So, it was 0.085 °C/h and this is 0.14 °C/h.(Refer Slide Time: 24:38)
+Now, we have still one more to do and that is the point where the rate of heating or
+cooling is maximum and that is what is the value of x you have to find out which means
+that ddx of dT/dt that should be 0, where it is either that it is maximum to become
+maximum the change of dT/dt that is the change of rate of change of temperature with
+respect to x that must be equal to 0, then only this can become maximum, ‘right’. 
+So, we can write that ddx of α d2T/dx2 because dT/dt we have seen it is nothing but α
+d2T/ dx2. So, that is equal to 0, ‘right’. So, this we can rewrite, ‘right’, we can rewrite that
+d3T this is, ‘right’ this we can write d3T/dx3 because α goes out, ‘right’.
+d3T dx3 is 0, ‘right’ and this value we have already seen that was 240 - 2 × 360 x that was
+equal to 0, ‘right’. So, we can write x = 240 / 720 that is 0.33 m. I hope you have
+understood that how we have done, ‘right’ because we are asked that where is the value
+where it will be maximum to become maximum, the change of temperature with respect
+to time if it is further differentiated with respect to x, then it becomes d dx / dT dt and
+when it becomes ddx of dT/dt, dT/dt value we know is α a d2T dx2, ‘right’ since we are
+again making it with respect to x.
+So, it becomes d2T/d3T d3T/dx3 because α goes out because we are differentiating that is
+why and then d3T/dx3 is 0 and now we are substituting that value that is 240 - 2 × 360 x
+that from that earlier expression is 0 and that is how we got x = 240/ 720 or 0.33, ‘right’.
+This is how this problem can be done and it is a problem which is not normally we comeacross that is why I like to put this problem before you. So, that a new type of thing
+which obviously, this is based on mathematics nothing more and mathematics which we
+have done, ‘right’.
+Thank you.

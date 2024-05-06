@@ -1,0 +1,186 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 38
+Heat Transfer by Radiation (Contd.)
+Good morning. So, you were continuing addition heat transfer. Now we are in the lecture
+number 38. So, it should be Radiation Heat Transfer continued, ’right’. So, we have seen
+that when there are 2 parallel plates and there was a shield in between then what is the
+radiation due to that shield whether that shield is really reducing the heat transfer rate or
+not that we have seen and with problem also we have found out that the reduction is
+substantial around 10 to 12 times or even more depending on the values of emissivities,
+’right’.
+We have also seen that if that was for parallel plate, but we also have seen for cylindrical
+or spherical shaped objects or surfaces where the surface area was varying that was A 1,
+A2 and A3, ’right’ 2 surfaces A 1 and A2. So, in between the shield was given A 3 and with
+that the expression for the heat transfer rate that we have determined, ’right’. Now, again
+look a let us look into some problem. So, that we are confident about the development,
+’right’.
+(Refer Slide Time: 02:18)
+So, problem is like this that 2 parallel plates at temperatures T 1 and T2, at temperatures T 1
+and T2 and have emissivities ɛ 1 and ɛ2 where ɛ1 is 0.9 and ɛ2 is 0.4. A radiation shield
+having the same emissivity has epsilon 3 on both sides is placed between the plates. So,
+ɛ3 is not given, ’right’. Calculate the emissivity ɛ 3 of the shield if the reduction in
+radiation loss from the system is aimed at 10% of the same without the shield, ’right’.
+So, now what we are saying that yes we have 2 parallel plates and we have put one shield
+in between and the emissivities of these 2 parallel plates are known. And the emissivity
+of the shield is not known, but it is said that the emissivity on both the sides are same of
+the shield that is the assumption.
+That the shield has on the both the sides the same emissivities and the parallel plates
+emissivities are given. Now, it is required that by putting that shield you want to reduce
+the heat loss by 10%, ’right’ heat loss to 10% not by 10% heat loss to 10% you want to
+bring down, ’right’ and if that then what should be the value of emissivity of the shield,
+’right’ this is the problem.
+(Refer Slide Time: 04:55)
+So, the solution of it if you want to see that this means the ratio Q 1 is to Qo that is with
+and without shield that should be 110, ’right’ that is what we have been said that the ratio
+of  Q1 to  Qo should  be  10%  or  110,  ’right’.  So,  the  ratio  if  we  put
+
+
+
+111111
+2,31,3214
+24
+1
+TTA
+ this is with shield and without shield is
+111
+214
+24
+1
+
+TTA
+.
+Here only one thing we are achieving that the area of the parallel plates and that of the
+shield are same, ’right’.
+Area of the parallel plates and that of the shield are same this is what we are assuming,
+’right’. Then this ratio comes down to because your this part goes up with this part,
+’right’ and then only we have this denominator goes on the top 1/ɛ 1 + 1/ɛ2 - 1. 
+And , the new that this denominator that remains that is 1/ɛ 1 + 1/ɛ2 - 1 + 1/ɛ3 + 1/ɛ3 - 1 this
+should be 1/ɛ1,3 and 1/ɛ3,2, ’right’. Typically it should be 1/ɛ 3,1 and 1/ɛ1,3 the typical should
+be 1, 3 and that is 3, 2. So, that ɛ 3 is not known we have to find out.
+(Refer Slide Time: 07:43) 
+ (Refer Slide Time: 07:55)
+And, this ratio is 1/10, ’right’. If this be true then let us solve it and find out that this is
+nothing, but 1/10 is [1/Ɛ 1 + 1/Ɛ2 – 1] / [1/Ɛ1 +(1/Ɛ2 – 1)+( 1/Ɛ3 + 1/Ɛ3 -1)] if we simplify
+that as 1/Ɛ3 -1 that is the values are given of Ɛ 1 and 2 (1/0.9 + 1/0.4 – 1) here also 1/0.9 +
+1/0.4 – 1 and this is nothing, but (2 - Ɛ 1) / Ɛ3 sorry (2 – Ɛ3) / Ɛ3, ’right’.
+So, this on simplification we can write that 2.61 because this value has become 26.1,
+’right’. This value has become 26.1 so, 26.1 because that is here, no this value has
+become 2.61 not 26 2.61. So, 2.61 × 10 ,’right’ so, this into this 2.61 × 10 that is 26.1.
+(Refer Slide Time: 09:39)
+And, this side when we are taken here this is 2.61. So, 2.61 Ɛ 3 2.61 Ɛ3 and this is not
+minus this should be plus. So, plus 2 2 - Ɛ 3, ’right’ is 26.1, ’right’. So, we can write 26.1
+this is over Ɛ3 26.1 Ɛ3, ’right’ and 26.1 Ɛ 3 yeah 26.1 Ɛ3 -  2.61 this 2.61 Ɛ3 and this is plus
+Ɛ3. So, minus Ɛ3 this is equals to 2. 
+So, it is plus not minus, ’right’. So, this becomes the equal to 26 minus 2.6 minus 1 26
+minus 2.61 minus 1. So, 2 by that is Ɛ 3 and that is coming 0.088. So, the values of Ɛ 3 is
+0.088, ’right’. If this emissivity value is so low then you can bring down the lost or by
+addition to it is without the shield whatever is the loss, you can bring down it to 1/10th of
+that, ’right’.
+(Refer Slide Time: 11:42)
+So, that means, in other words if we had these two shields which has one emissivity of
+0.9 and the other emissivity of 0.4 if this is there then whatever heat loss Q was there
+without the shield the value of that we do not know. But, now you are asked that 2 tear
+shield of the same area all 3 have the same area A ,’right’ and put a shield or bring the
+same area where the Q shield normally we are expressing is at Q 1 ,’right’
+So, this Q shield over Q o  that must be equals to 1/10. So, these two values are known
+what is the value of this Ɛ 3 this is the problem which we have emphasized and we have
+solved  it  that  the  value  comes  to  0.088  Ɛ,’right’.  So  that  means,  you  see  that  the
+reduction in radiation by putting the shield can be so, drastic,’right’.(Refer Slide Time: 13:20)
+Next let us  look into  another problem. This  is  a really  handy problem that a cryo
+container. Now in this regard let me also give a little I do not say it is preamble a little
+information more that cryo containers are like that which are normally double walled,
+’right’, like this they are double walled they have a neck here actually should have been
+like this much more. Sorry. 
+So, actually it should have been like this, ’right’. So, there is 11 1 1 stopper cork here,
+’right’. There is 1 stopper cork here and this double wall is may be under vacuum or
+some inserting material. So, inside there are cryogen. Now cryogen means say liquid air,
+liquid  helium,  liquid  nitrogen,  liquid  oxygen  all  these  are  called  cryogen,  ’right’,
+temperature of who which are may be 150 °C - 170, 180, 190, 200 or helium temperature
+is 4 K helium temperature is 4 K.
+So, they are kept under this kind of double wall system like the thermo plus you have a
+similar one, but with much much better insulation ,’right’. So, these things are to be kept
+inside. This is the solution of that kind of problem ,’right’. So, you have a double wall
+container and you want to put a shield in between such that the radiation heat loss is
+minimum such that the because of the heat loss heat which is coming in the liquid is boil
+off and then that comes out of this ,’right’. 
+So, that comes of this and this is what if you keep may be normally we handle say 26
+litre container or 55 litre container. So, say if it is a 26 litre container by 3 4 days or even1 week if we keep this liquid unused with that cork on the top there is a movable and if
+you are keeping it like that. So, by 7 days this boils off and it becomes empty, ’right’.
+That means a continuous heat is being flown, ’right’. So, this is the similar problem I get
+the little preamble of that. So, that understanding becomes more and easier.
+(Refer Slide Time: 16:44)
+So, a cryo container having diameter D i 50 cm and Do 70 cm continuing a cryogenic
+liquid such as liquid nitrogen at temperature 77 K, ’right’ 77 K means somewhere minus
+196 °C  ,’right’. So, you think such a low boiling liquid is inside. Outside temperature of
+the container that is atmospheric temperature T 2 is 300 K, ’right’ normal 300 K means
+somewhat 27 °C that is a room temperature, ’right’. 
+The emissivities of the inner and outer tanks Ɛ 1 is 0.1 and Ɛ2 is 0.2 respectively, ’right’.
+So, this is the similar problem as we had given you like this ,’right’; so, similar problem.
+So, now, what do you need? You are now a spherical radiation shield having a diameter
+D3 is equals to 60 cm with an emissivity of Ɛ 3 equals to 0.05 on both the surfaces. So,
+new this one is put which has emissivity Ɛ 3 on both sides this phase also that phase also,
+’right’.(Refer Slide Time: 18:36)
+So, if that is put that the 0.05 on both the surfaces is placed between the 2 cylindrical
+walls. Calculate the rate of heat loss from the system by radiation and also calculate the
+rate of evaporation of the cryogen that is liquid nitrogen if h fg that is latent heat of
+vaporization is for say liquid nitrogen is 2 × 105 W.s/K W.s/K means watt is J/s and there
+is another second per not Kelvin this is kg sorry that g is missing, ’right’ g is missing
+somewhat type of mistake.
+(Refer Slide Time: 19:42)
+So, it should be kg not k W.s/kg means what are joules per second and you have a
+second. So, it is J/kg normally that is the thing J/kg, ’right’. So, 200 kJ, ’right’ 200 kJ/ kg
+is the latent heat of vaporization of liquid nitrogen, ’right’.
+(Refer Slide Time: 20:23)
+So, what we need to do we what do we need to find out. We have to find out that the heat
+loss from the system by radiation after giving the shield and we have to find out even
+after giving the shield what is the; this is called boil off, ’right’ this is called boil off. So,
+what is the boil off of the cryogen that is liquid nitrogen, ’right’. So, rapidly we go
+through  the  problem  once  again  a  cryo container  having  D i 50  cm  and  Do 70  cm
+continuing a cryogenic liquid that is liquid nitrogen at temperature T 1 77 K outside
+temperature of the container is at T 2 equal to 300 K.
+The emissivities of the inner and outer tanks are Ɛ 1  = 0.1 and Ɛ2  = 0.2 respectively.
+Spherical radiation shield having a diameter D 3 = 6 cm with an emissivity of Ɛ 3 = 0.05 on
+both the sides or both the surfaces is placed between the 2 cylindrical walls.
+Calculate the rate of heat loss from the system by radiation and also calculate that
+calculate is not written also calculate the rate of evaporation of liquid nitrogen if h fg that
+is latent heat of vaporization of liquid nitrogen given is 2 ×105 W.s/kg, ’right’. So, to
+solve it let us take that radiation heat loss with shield and that is Q 1 equals to A1 σ (T14 -
+T24) because diameters are different D i is 50 Do is 70 and D3 is 60, ’right’ 3 diameters are
+there. So, the areas are also different A 1, A2 and A3 they are all different, ’right’.So, we are we need to find out areas and the expression for Q is Q 1 equals to A1 σ (T14-
+T24) / 1/ σ 1 / Ɛ1 + (A1 / A2) × (1 / Ɛ2 – 1) + (A1 / A3) × (1 / Ɛ3,1 +1 / Ɛ3,2 – 1)+ 1 / Ɛ3,2 – 1 so,
+much Watt, ’right’.
+(Refer Slide Time: 23:27)
+So, if we now find out the solution that Q 1 is nothing, but the areas first A 1 and A2. We
+have to find out, ’right’. So, diameters are given. So, area is A 1 = πD2, ’right’. So, πD2 if
+that is there then we find out A 1  to be π × 0.52 ,’right’ and σ is 5.67 × 10-8 Stefan
+Boltzmann constant and T 1 is 77 K. So, 774 and T2 is atmospheric temperature that is 300
+K so, 3004.(Refer Slide Time: 24:28)
+Divided by Ɛ1 given is 1/0.1 Ɛ1 is 0.1, ’right’ and + 5/72 5/72 that is A1/A2 A1/A2 since it is
+πD2. So, we have π going out. So, it was A 1 was 5 and A2 was 7. So, 5/ 7 square or A 1
+was whatever 50 and 70, ’right’ 50 and 70. So, 0 goes out π (5/7)2, ’right’ and into 1/ Ɛ 2,
+i.e., 0.2 – 1  that is this part.
+(Refer Slide Time: 25:24)
+This part is A1/A3, ’right’ A1 is 50 and A3 was 60 cm. So, that becomes 5 by 6 ratio
+square ,’right’ and this times 1/0.005 that is the Ɛ 3 + 1 by point 0 0 0.05 not point 00
+1/0.05 + 1/0.05 – 1, ’right’. So, this comes equals to minus 359.14 / 29.12, ’right’. So,this is minus 12.33 Watt, ’right’. So, that Q is minus 12.33 watt; that means, heat is not
+going out heat is coming in, ’right’. So, we have this. This is called dewar. These are
+called dewar d e w a r. So, in the dewar the heat is not going out Q 1 is not going out Q 1 is
+coming in, ’right’ that is why it is the negative 12.33 Watt, ’right’ so.
+We have 12.33 watts of the Q which is penetrating into the dewar. So, what is the
+evaporation rate then we know h fg and hfg was 2 × 105 W.s/kg here we have corrected
+per kg there it was if you remember only small k was there g did not come in. So, Q 1 /
+hfg is this is 12.33 and the h fg is 2 2 × 105.  
+So, that is 6.2 × 10-5; so, much kg/s, ’right’. This Watt, this Watt goes out this second
+remains and this kg goes on the numerator. So, kg per second 6.2 × 10-5 kg/s; so, you
+convert it into per day we will see it is also some kg.
+(Refer Slide Time: 28:18)
+So, that becomes 6.2 × 10-5, ’right’ into 3,600 is hour into 24. So, that becomes so much
+kg/day, ’right’ and you will see that per day it will be losing some 8 to 10 kg or even
+more or 7 to 8 kg or even more. So, that is the loss of from the dewar. This is a great
+example which is a online example or practical example we are giving, ’right’.
+So, with this we come to the end of the topic perhaps radiation, ’right’. So, we come to
+the end of the topic radiation. So, you do problems and solution and wish you all the
+best.Thank you.

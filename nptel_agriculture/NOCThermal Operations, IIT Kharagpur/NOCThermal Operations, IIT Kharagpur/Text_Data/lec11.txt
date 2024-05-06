@@ -1,0 +1,191 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 11
+One Dimensional Heat Transfer through Cylinders
+Good  afternoon.  We  have  done  the  one-dimensional  heat  transfer  in  a  Cartesian
+coordinate  x,  y,  z.  So,  today  we  will  do  One-Dimensional  Heat  Transfer  through
+Cylinders. You remember that we had said earlier that whenever we started with the
+generalized equation which was independent of the dimensions, ‘right’ x, y, z or r theta
+q, r theta z or r pi theta whatever it be means with a cylindrical or spherical or Cartesian
+whatever  be  the  coordinate  system  we  had  developed  the  generalized  equation
+remember. 
+So, will also utilize that generalized equation as and when it is required, ‘right’. So, here
+we are saying that let us take cylindrical coordinate where for energy generation in the
+solid at a rate of say E at any r in W/m3 with a constant thermal conductivity k we have
+to find out the temperature distribution T within any r at any r, T r in the solid by
+conduction and this we can start with from the generalized equation that 
+Why it is 0? Because we have said that this is the steady state
+conduction since, it is a steady state conduction we can say that, the right side is 0,
+‘right’. 
+And, the left side so far I recall that it was 
+ and in the right side
+we had 
+ means temperature and time, numerator temperature, denominator time,
+‘right’. So,  
+ at any (r,t) it was o, general equation or from there since it is given
+steady state and, there is internal energy generation as well the conductivity is constant. 1 1( ) 0d dTr E rr dr dr k    So, if it would have been r is equal to x is equal to 0, then it would have been in the x
+Cartesian coordinate for cylindrical coordinate if you remember you said r to the power n
+that n is equal to 1, then it is cylindrical coordinate. So, that corresponds to 1 by r delete r
+of rdT/dr +Er/k =0, ‘right’.
+Now, the radial heat that is heat flux the radial heat flux is what that we can say. So, if it
+is the cylinder. So, whatever heat flux is going heat is being transferred in this, ‘right’.
+The other two-dimensions this and the third dimension this are infinite, ‘right’. So, these
+two dimensions are infinite or much larger than this. So, we can say that one dimensional
+heat transfer is occurring. So, the radial heat flux which is occurring is anywhere in the
+solid or in this cylindrical coordinate, ‘right’ in the cylinder anywhere in this cylinder we
+can write that .               This is square watt per meter square; ‘right’ that
+is qr or flux.
+So, heat flux radial heat flux we can write that q(r) anywhere in the solid that can be
+written, ‘right’ from the definition of the heat flux called q is equal to minus k dT da
+‘right’. So, dT/dx it was for Cartesian coordinates, so, in cylindrical coordinate is dT/dr.
+So, -k dT/dr at any position r so much watt per meter square, ‘right’. So, let us write
+again watt per meter square. So, this was by mistake cube means perhaps here it yes this
+is watt per meter cube. So, perhaps that cut and paste made that mistake. However, so,
+we have corrected watt per meter square. 
+Now, this is the general equation for conduction in radial coordinate or in cylindrical
+coordinate there should be the, ‘right’ term to use and when we have this equation we
+now need to solve it, ‘right’. So, solution of this can be obviously done, from differential
+equations. So, on two successive integrations, it will give a solution, ‘right’. 3( )( ) /dT rq r k W mdr (Refer Slide Time: 07:55)
+So, let us look into that. So, let us consider a case where energy generation is constant,
+‘right’.  Energy  generation  is  constant  at  a  rate  of  say  E 0 with  a  constant  thermal
+conductivity, k then this generalized equation we can write 
+ this  is  equal  to
+minus  
+.  Now,  if  you  remember  that  in  the  previous  slide  here  it  was
+. Now, we said this E, we are taking as E 0 and this r is then going
+and this conductivity is constant and this is also constant E 0.
+So, if we take that then we come to this that dT/dr, ‘right’. So, we can write that k dT/dr
+are dT/dr is a is equal to E 0/k. You remember that it was 
+ . So, this
+was the thing. So, now, we have taken to that side r, so, we are writing with the thermal
+constant thermal conductivity. So, 
+ is equal to E0/k ×r this 1/r which we hadearlier 1 by r. So, this 1 by r is changed to this position, ‘right’. So, this r has gone to that
+position number 1.
+Number 2, here perhaps one minus sign negative sign is missing because in that from the
+left side we have taken it to the ‘right’. So, this should be taken off, ‘right’. Now, if we
+integrate it on successive integrations we can write that dT(r)/ dr this is equal to dT(r)/dr
+is equal to this is that negative we have again made it, ‘right’, here, ok. So, dT(r)/ dr is
+equal.
+  ,‘right’.
+So, we have taken this r has now come back to that C 1/r and on second integration we
+can write   
+the new constant that is there. Now, we have two equations say this is equation a ‘right’
+if we say like that and this is if it is B, then we can we integrate equation A and equation
+B, ‘right’. For integration of equation A and I sorry we have only integrated equation A
+and B we get C1 and C2 this got to constant we have to find out. 
+Now, as we earlier in the Cartesian coordinate also we have seen that whenever we are
+after integration we had to get two boundaries, ‘right’. So, two boundary conditions
+defined boundary conditions  we have to have. So, to determine the two integration
+constants, two boundary conditions are required. So, two types of cylinders may be there
+one is hollow and the other is solid, ‘right’; that means, if it is solid like this then that
+will have one type and if this is a hollow. So, for the hollow we need; so, this is a hollow
+cylinder.
+So, what we need? This will come to this here also it is there and it will come out from
+here or it will come out from there, ‘right’ this is the hollow and the other one is the
+solid. So, let us look into that what could be the boundary condition and to do that let us
+see.(Refer Slide Time: 14:05)
+So, that this is the solid, ‘right’. So, this is the solid and cylinder where we have taken
+this solid with 0 to r is the radius I mean this in one direction heat has been transferred
+and radius we have assumed to be b, ‘right’ for solid cylinder. For hollow cylinder, again
+we have 0 to r this is the axis and we have inner radius a and the outer radius b, say inner
+radius is this and the outer radius is this, ‘right’. So, if that we true then we have these
+two conditions these two cylinders one is solid and other is hollow.
+(Refer Slide Time: 15:15)
+So, if that is the case then we can now, write that the boundary condition at this inner and
+outer surfaces of the hollow cylinder can be one either prescribed temperature boundary
+condition;  or  a  prescribed  heat  flux  boundary  condition;  or  a  convective  boundary
+condition, ‘right’. Either of this any of two of these three, I in combination or singly that
+can be the typical case, ‘right’. 
+But, for the case of the solid cylinder which we had shown earlier; so, solid cylinder we
+had this, ‘right’. So, there we have seen; so, here this is one boundary and this is another
+boundary. So, this boundary can be either prescribed heat flux or prescribed temperature
+or  prescribed  convective  boundary,  this  side  also  either  prescribed  temperature  or
+prescribed heat flux or convective boundary. Any one of these two can be the boundary
+and we can solve it. 
+But, what about the solid? Solid we will have one at this boundary. So, this boundary and
+this boundary is same because this is the central axis and we can say that this side is the
+mirror image of this side. So, this is at the center, ‘right’. So, here whatever be the
+boundary, the same boundary is also pre building here. So, physically we get only one
+boundary. So, what to do with the others? So, other boundary we can say since you we
+said that at the center it is there, ‘right’ and it is the mirror image. So, the you see
+whatever temperature was there the same temperature is supposed to be here because it is
+the mirror image; whatever temperature is here the same temperature has to be here at
+this other end.
+So, that means, that we can write del del t, ‘right’ we can write that r is equal to 0 ok. For
+the case of solid cylinder only one boundary condition which we have said can be
+specified for the outer surface. Another condition can be specified from the physical
+consideration  of  the  physical  consideration  of  the  temperature  distribution  in  the
+cylinder, ‘right’. A meaningful solution can be that the temperature does not become
+equal to infinite at r is equal to 0. So, this is true if T of at any r t at any r is finite at r is
+equal to 0, ‘right’.(Refer Slide Time: 18:39)
+So, an alternative can be that an alternative boundary which can we think out that dT/dr
+is 0 at r is equal to 0; that means, rate of change of temperature with respect to r at r is
+equal to 0 is 0. That is true because if we go back to that here, ‘right’ rate of change of
+temperature with respect to r; so, r is this way or this way with respect to r is 0 at r is
+equal to 0. r is equal to 0 is here because at this point from this side also whatever
+temperature has come from this side also the same temperature has come. So, there is no
+change at that point at the center position yes there will be a change if we go at delta r
+from this axis then there will be a change if we go even more then there may be a
+change, but at this center there is no change, ‘right’.
+Since from the symmetry of the cylinder we can say that at the alternative boundary
+condition can be that since there is a symmetry and the distribution of temperature about
+the center of the cylinder when one dimensional radial heat transfer is considered the this
+can be written as dT/dr is equal to 0 at r is equal to 0, ‘right’. Hope you have understood
+why this we are taking. This is almost equivalent this is not almost this is equivalent to
+that we can assume that at r is equal to 0, this phase at r is equal to 0 there is insulation
+no heat is neither going higher or coming in from this side. So, this is equivalent to that
+this r is equal to 0 is under full insulation.
+And, this  insulation  means  it is  adiabatic  absolutely;  no heat is  getting transferred,
+‘right’. So, in that case this dT/dr is 0 at r is equal to 0, ‘right’. Now, we have twoboundaries both the boundary conditions at the center of this solid cylinder can be used
+yielding the same result. So, one we have said that since T is not infinite at r is equal to 0
+it is finite so, ‘right’. So, that is one solution which we have said earlier. So, here we
+have said that the temperature does not become equal to infinite at r is equal to 0. So, if
+this is only true if T at any r is finite at r is equal to 0. This is one boundary and the
+second boundary as we are saying that there is no change of temperature at this center
+that is at r is equal to 0, dT/dr is equal to 0, ‘right’.
+So,  now  we  have  both  for  the  solid  cylinder  as  well  as  the  hollow  cylinder  two
+boundaries and we can solve any with any given boundary the analytical solution, ‘right’.
+(Refer Slide Time: 22:49)
+So, let us take first with the problem that the problem is like this: energy is generated at a
+constant rate E0 watt per meter cube in a solid cylinder with a radius r is equal to that
+maintains a constant temperature T 1. Derive an expression for one dimensional radial
+steady state temperature distribution T(r) and the heat flux q(r), ‘right’. So, once you
+have developed this temperature distribution as well as the heat flux equation, then from
+that determine also calculate the center temperature T 0 and the heat flux and the heat flux
+at the boundary surface r is equal to a, ‘right’.
+And, for ‘a’ is equal to 2 cm, E 0 =1×107 W/m3, k is equal to 16 W/mºC and T 1 is equal to
+150ºC, ‘right’. So, if we draw this solution that energy is generated at; so, we have a
+cylinder, ‘right’ at a constant energy. So, a constant energy source is getting generated E 0W/m3 in a solid cylinder with a radius. So, if the solid cylinder means we have. So, this is
+at r is equal to ‘a’, ‘right’ derive an expression for one dimensional radial heat transfer.
+So, we have to find out what is the T(r), ‘right’ this expression as well as we have to find
+out q(r), ‘right’.
+So, this is the temperature distribution T(r) ‘right’ and we can write from this two and
+given boundary applying, the boundary condition we can write 0
+1
+0 1
+2021 ( )0 0
+( )0 0
+( )
+( )
+2
+, ( ) ln4d dT r Er in r br dr dr k
+dT rat rdr
+T r T at r a
+Integrating twice the governing equation
+dT r E Crdr k r
+Eand T r r C r Ck      
+ 
+ 
+  
+   
+0 0dTat rdr If that be true from the previous equation you see we have from the previous equation
+what we have that dT/dr is 0, ‘right’ dT/dr is 0 and if this is 0 at r is equal to 0, so both
+this is becoming 0 this is also becoming 0. So, C 1 is becoming 0, ‘right’. So, this is the
+case which is happening. So, if we go to the next then we see that since we have 
+this one dT/dr is 0 at r is equal to 0, C 1 is 0 and applying the second boundary we get T(r)
+= 0 at r = a. So, this is the second boundary and we can write C 2 is  
+Perhaps for this class we are running out of time and in the next class we will solve it and
+do some more problems, ‘right’. So, let us stop it here because time is out or time is over.
+Thank you.

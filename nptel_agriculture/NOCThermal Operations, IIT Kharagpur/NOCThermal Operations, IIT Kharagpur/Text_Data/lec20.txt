@@ -1,0 +1,183 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 20
+Heat Transfer in Finned Surfaces
+Good morning. We had been talking about the finned surfaces Heat Transfer in Finned
+Surface and perhaps we said that and the finned last class today we would like to also
+correlate the fin efficiency and some other vital parameter on which the different graphs
+have been plotted against fin efficiency and how those parameters came up today would
+like to also highlight on that. And, as we are saying repeatedly as I am saying repeatedly
+that please also look into your problems and solutions.
+It is not that whatever problems we are solving here you only concentrate on that, but
+also try to solve some many other problems associated with the topics we were covering.
+That will help you in understanding the subject in a better way because solving problems
+gives you confidence, ‘right’. So, we come back to heat transfer in finned surface in
+lecture number 20, ‘right’.
+(Refer Slide Time: 02:15)
+So, this was our finned surface, ‘right’ and as we said that there are different there are
+this was the fin base, ‘right’ and this was the fin, ‘right’ and this is on rectangular
+coordinate and this was on cylindrical coordinate, ‘right’.So, we know the sectional area A; we know the perimeter P; we know delta X or X; we
+know  heat  transfer  a  coefficient  and  we  know  the  ambient  heat  transfer  ambient
+temperature, ‘right’. So, it can be T ∞ or T0 as I said earlier that in many cases people do
+nominate to people do nomenclature in such a way that T ∞  is also equivalent to T en
+environment, ‘right’. So, this is the thing on which we are working, ‘right’.
+(Refer Slide Time: 03:53)
+So now, let us define another important very much parameter; very much important
+parameter that is fin efficiency, ‘right’. So, fin efficiency is defined as the actual heat
+transfer through fin divided by ideal heat transfer through fin if the entire fin surface
+were at the fin base temperature T 0, ‘right’. So, entire fin surface is at the fin base
+temperature T0, if that is there then the heat transfer through the fin can be assumed to be
+the ideal heat transfer, ‘right’. So, actual by ideal that we have to find out and that is
+equivalent to the fin eta that is the fin efficiency.
+Now, then what is then actual heat transfer and ideal heat transfer? Ideal heat transfer
+will be equivalent to a f×h×θ0, ‘right’ to where θ0 is the T0-Te or T∞, whatever we call. T 0 -
+Te that is the environmental temperature ‘right’ that is theta 0; a f is the surface area of the
+fin and h is the heat  transfer coefficient.  Now, all  are in SI units. So, we are not
+separately letting you know what is the SI unit of h? So, it is, we know, W/(m2ºC),
+‘right’, and surface area is in m2n ‘right’. And like this delta I mean θ0 is in ºC, ‘right’.Now, this fin efficiency is obviously, that you are referring as Q fin over Q ideal, ‘right’.
+So, whatever fin has actually transferred heat through the fin that is actual heat transfer
+through the fin over the ideal heat transfer through the fin if the entire fin would have
+been at the fin based temperature of T 0, ‘right’. So, if this is there then and we said that Q
+ideal is equivalent to a f×h×θ0.
+(Refer Slide Time: 07:07)
+So, then what is the fin real that is actual? What is the fin actual? Fin actual will be like
+this  that  the  heat  transfer  through  the  fin  is  Q=  ηQideal,  ‘right’;  η×Qideal that  is  fin
+efficiency into Qideal that is what it is because here we said that Q fin here we said that Q fin
+this is equal to eta times Q ideal, ‘right’. That is the Q fin  actual. So, if we can make Q ideal
+then we can also frame what is the Q actual or real heat transfer ‘right’. So, this eta Q ideal
+is η×af×h×θ0, ‘right’.
+So, if we have a plot of fin efficiency η versus L√(2h/kt), L times under root 2h by kt. If
+we have a plot  of this, ‘right’  for typical  geometries,  ‘right’ this  is  also geometry
+dependent like we will show it in a figure say 1, that shows the fin efficiency of actual
+fins where the fin thickness y may vary with the distance x from the fin base when the
+thickness is T, ‘right’.
+Similarly, another figure that will show the fin efficiency for the circular disk fins of
+constant thickness, ‘right’. So, this, if we look at the first one is eta versus L√(2h/kt) for
+different fins, ‘right’.(Refer Slide Time: 09:33)
+That you see in this figure we are plotting L√(2h/kt), ‘right’ we have said that t is the
+thickness, ‘right’, t is the thickness; h is heat transfer coefficient; k is the conductivity of
+the fin material, ‘right’ and L obviously, that is the length of the fin, ‘right’. So, here this
+versus fin efficiency that Q ideal which we have said is equal to a f×h×θ0. Af is the surface
+area of the fin; h is the heat transfer coefficient and θ0 is T0-T∞, ‘right’ or Te whatever we
+name it, ‘right’. It can be θ0 equal to T0 -Te or T∞ whatever, ‘right’.
+So, for different geometries we said there. So, here y is equal to t, ‘right’ this is the t,
+‘right’ and this y is equal to t. Here y is a function of t as t into x by L to the power half,
+‘right’. For this is ‘A’ geometry; this is ‘B’ geometry; for ‘C’ geometry you see it is
+more sharp at the end (Pl. refer to the above figure). This is y is a function of t, but it is
+equal to t x by L ‘right’ and for the ‘D’ this is another type of fin where it is y is equal to
+t into x by L to the power 3 by 2. And for ‘E’, ‘E’ is another type of where you see it is
+absolutely a long portion is very much sharpened, ‘right’ or pointed ‘right’. So, where y
+is equal to t x L x by L to the power 2, ‘right’.
+If these are different fin types then we have plotted this fin efficiency versus L under root
+2h / kt ‘right’ where efficiency of axial fins where the fin thickness y varies with the
+distance x from the root of the fin where y is equal to t, ‘right’. So, this y is equal to t,
+that is this thickness, ‘right’ and if we see the next one this figure says like that.(Refer Slide Time: 13:24)
+If we look at the next figure that is figure 2 which we referred to earlier this is that for
+the circular fins, ‘right’. Here also you see that the L under root 2h / kt, ‘right’ this is
+plotted against the fin efficiency, ‘right’. For different r o/ ri ‘right’. So, this first one is r o/
+ri 1 and this last one is r o/ri is 4 in between 1.4, 1.6, 1.8, 2.0, 3.0 etcetera are also there,
+but the thing is that what we need to know that what are the different parameters like L,
+like t and here ro and ri, ‘right’.
+This to understand these things we need to see this picture, ‘right’ where you see r o is the
+outer radius, this is the r o, ‘right’ and ri is the inner radius that is this one, ‘right’. So, r o
+and ri are known and L is this, ‘right’, L is this that is this is the L, ‘right’. So, if L is this,
+‘right’ ri is this one and ro is this one, ‘right’ L is this and t is the thickness which one is
+this one, ‘right’. So, r o, ri is known, t here is known, k is already k and h are different k is
+the conductivity of the material h is the transfer coefficient and L that we have shown
+this to be like this, ‘right’ L to be like this.
+So, once you know then you can find out by knowing this parameter for different r o over
+ri you can find out the fin efficiency for circular fins which is like this, ‘right’. You
+remember the other day, I said that putting something like that on which we call 2 d per
+hour. So, that kind of thing when you are making a shrink fitting and that shrink fitting is
+happening here for circular fins like that. Whereas, the other one which we showed thereit is not so much where the contact resistance thermal contact resistance could be factor
+if not properly done like this one, ‘right’.
+Here you see on this base you have put the fin in such a way that this is the thickness this
+is the thickness and this all are t, ‘right’ this all are t’s and this is the L, ‘right’ from this
+to that; from this to that; from this to that; from this to that and from this to that.
+(Refer Slide Time: 17:22)
+So, you know t, you know L and h and k are given. So, you can find out fin efficiency
+and if you know the fin efficiency then if you know the Q ideal which is a f h theta 0
+then you can find out Q real or Qactual as Qactual is equal to η×Qideal, ‘right’. So, this way you
+can find out what is the Q for the actual already you have found out Q for ideal cases,
+‘right’.
+So, let us look into that where we where we left. So, there if we go that fin we were here,
+‘right’. So, for from the plots of  η versusand for different geometries we can
+find out the values of eta for different geometries or for the for the circular fins also,
+‘right’; circular this type fins also where the thickness was constant, ‘right’.
+For all practical purposes the fin heat transfer surface is composed of the fin surfaces and
+the un finned portion, ‘right’. So, obviously, if we if you remember the previous graph
+which we had shown that fin surfaces where this was like this let us say in one case this
+was like this. So, and if this is the fin then the surface area of this plus un-finned portion.2hLktSo, un-finned plus fin portion is the total surface area and the total heat transfer Q total
+from such a surface is obtained by summing the heat transfer through the fins and the on
+fin portions, ‘right’ and this can be done by summing finned and un finned portion as it
+is shown like this.
+(Refer Slide Time: 19:57)
+Qtotal = Qfin + Qunfinned  = η af h θ0 + (a – af) h θ0 ; obviously, af is the finned area where, fin
+is there and ‘a’ is the total heat transfer area that is fin plus un finned, ‘right’. So, from
+the total heat transfer area finned and un-finned if we subtract the finned area then we get
+the un-finned area which is there, ‘right’. So, if we know that total surface area where the
+finned or un-finned together then.
+So, as a practical guide ratio of Pk by should be much larger to justify the use of fins that
+is Pk / ah, you also see that for a given area and for a given material, k is known and for
+the given system, h is known. So, if area times h, ‘right’ if that product is X and the
+perimeter times conductivity, if that is Y then Y has to be much greater than X then only
+you can justify adding fin.
+Otherwise, if you are adding finned for no reason then the additional cost involved in it
+that will not be justified with respect to heat transfer. If heat transfer is not improved then'0 0
+'1
+, 1
+,total
+fQ ah ah
+where area weighted fin efficiency
+aanda    
+  
+      
+    
+what is the point of what is the point of extending the surface area because that is also
+cost involved.
+(Refer Slide Time: 23:52)
+So, in that way if we look at that Pk / ah, this value should be much larger and to become
+it much larger for a given P, for a given ‘a’ or Pk / ah, ‘right’ P is the perimeter, ‘a’ is the
+area for a given P and for a given h, if k is becoming higher, the higher the value of k the
+more is the value of Pk / ah, ‘right’. So, more it will be justified or fine you can you can
+say that now adding fin is helpful for the heat transfer, ‘right’.
+So, for plate fins P/A is nothing, but 2/t that is there.(Refer Slide Time: 24:48)
+So, if the fins are like that plate then it is that thickness if there this is the thickness then
+P/a that is perimeter work the area that is becomes equal to 2/t,‘right’.
+(Refer Slide Time: 25:20)
+So, this if it is so, then we can find out the value of Pk by as 2k over t over h, ‘right’. So,
+because P by A has been equivalent to 2 by t; so, Pk is ‘right’ which implies
+that  internal  conductance  of  the  fin  should  be  much  greater  than  the  heat  transfer
+coefficient for the fins to improve heat transfer rate. Internal conductance of the fin2k t
+h 
+  should be much greater than that is this internal conductance of the fin through you
+should be much greater than the external heat transfer coefficient, ‘right’.
+So, with this let us solve a very simple form problem that what is the expression for the
+efficiency  of  fin  of  uniform  cross  section  when  the  heat  loss  from  the  fin  tip  is
+considered negligible? ‘right’, we have already seen that                 that
+was total Q to the fin. And, and this can be solved that heat transfer area for fin of length
+L and perimeter P is a f equal to PL and Q ideal that can be said to be equal to 
+(Refer Slide Time: 27:34)
+where, P/A = 2/t, t being the fin thickness. This is why fin efficiency is plotted against
+the parameter                 .
+So, this we said in the beginning that why this L under root 2h by k or 2h by kt or Ph by
+Ak. So, ultimately to it was 2h by kt. Why it is plotted against efficiency is because of
+this, ‘right’ that efficiency can be ultimately termed in terms of tan hyperbolic mL over
+mL where mL is nothing, but L times P and L times √(Ph/Ak) that is0tanhfinQ PhAk mL
+0idealQ PLh
+0
+0tanh tanh
+2,PhkA mL mL
+PLh mL
+Ph hwhere mL L L
+Ak kt
+  
+ 
+2hLkt
+2hLktSo, this is why we have plotted subsequently this which we have shown you, ‘right’ this
+one that        and this is fin efficiency and the next one was also           that the
+against fin efficiency, ‘right’. So, with this let us conclude the heat transfer through fins,
+‘right’ and please do some problems as and when you can.
+Thank you.2hLkt2hLkt

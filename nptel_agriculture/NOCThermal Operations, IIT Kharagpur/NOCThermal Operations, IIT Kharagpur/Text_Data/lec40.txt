@@ -1,0 +1,198 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 40
+Boiling (Contd.)
+Good Morning. So, we were discussing about the Boiling mechanism, ‘right’. We had
+shown you that now in this 40th class, we will continue with that boiling. Maybe some
+problems we will solve that will give us more idea about the boiling mechanism, ‘right’.
+We have seen that there were 4 zones; a, b, c and d. So, first one was natural convection,
+‘right’ and then that nucleation nucleate boiling, ‘right’ and in the third zone it was film
+boiling and fourth was no, fourth was film boiling and third zone that came down,
+‘right’. So, with this let us go to that class 40th and let us now look at some problem,
+‘right’ and empirical relations. 
+(Refer Slide Time: 01:28)
+So, some empirical relations are there for estimating the boiling heat transfer coefficient.
+So,  for water  boiling  on the  outside  of  the  submerged  surfaces  at  one  atmosphere
+pressure  absolute  and  have  been  and  this  have  been  developed  by  some  of  the
+researchers, ‘right’. For a horizontal surface that h is 1043 ΔT1/3, when q/A less than that
+is flux is < 16, ‘right’. So, again q/A means this is W/m2, ‘right’. In some cases this is
+used capital Q, ‘right’ or q/A is small q normally, ‘right’ that is flux ok.(Refer Slide Time: 02:40)
+However, here we are using q/A that is Q and this is 16, not q this is q/A that is flux W/
+m2 ok. So, that empirical relation is in the horizontal surface. It is 1043 ΔT1/3 when it is <
+16 and h is 5.56 ΔT3 where q/A is between 16 and 240. For vertical surfaces h is 537
+ΔT1/7 when q/A < 3, whereas, h is 7.95 ΔT3, when q/A is between 3 and 63, ‘right’. 
+So, q/A is the in the kW/m2. It can be Watt or kW that does not matter, ‘right’. So, kW/
+m2. And ΔT is Tw - Tsaturated, ‘right’, Tw - Tsaturated means you have that if this is the water,
+so you have the vapor and liquid there at the same temperature. So, that is the saturation,
+‘right’. 
+So, there is a equilibrium between the vapor and the liquid, ‘right’ and that temperature
+is known as T saturation ok. And this is in Kelvin and h is in W/m2°C, ‘right’. So, this is
+these are some of the relations which we will use afterwards. (Refer Slide Time: 04:51)
+For pressure correction, if they are we because all were said in terms of 1 atmosphere
+pressure. So, if there is relation or requirement for pressure to be corrected, so that
+pressure correction is the values of h at wall atmosphere is multiplied by (p/1)0.4. So,
+whatever value of h you are obtaining at atmospheric pressure if the pressure ratio that is
+p/1 atmosphere that is that value of h which you are giving getting that (p/1)0.4 is taken as
+the pressure connection, p is the new pressure and 1 is the atmospheric pressure, ‘right’. 
+For forced convection, boiling inside the tubes h is 2.55 ΔT3, ep/1551  W/m2°C that is the
+value of h for forced convection boiling, where p is in kilo Pascal kPa, ‘right’. This is not
+in atmosphere, this is in kilo Pascal. So, it is e power p/1551 W/m2°C that is the forced
+convection, heat transfer coefficient, ‘right’.
+In the case of film boiling heat transfer rate is low in view of the large temperature drop
+is used which is not utilized effectively, ‘right’. So, one empirical equation for horizontal
+tube is like this h is equal to1/4
+vpvfgvlv3v
+ΔTDμΔT)0.4Cg(hρρρk0.62
+
+
+
+ .
+So, this is for horizontal tube, ‘right’ the value of h. obviously, all v’s are for vapor and
+‘ls  are  for  liquids,  ‘right’.  So,  the  relation  is  like  that  h  is1/4
+vpvfgvlv3v
+ΔTDμΔT)0.4Cg(hρρρk0.62
+
+
+
+ , ‘right’ or that is this can be said to the power
+0.25, ‘right’. So, if we look at the values I mean where we said b n l are for vapor and
+liquid, ‘right’.
+(Refer Slide Time: 08:47)
+So, that is what is k v is the thermal conductivity of the vapor in W/m°C, ρ v is the density
+of the vapor in kg/m3, ρl is the density of the liquid in kg per meter cube, h f g is the latent
+heat of vaporization in J/kg, D is the outside diameter of the tube in meter, a µ v is the
+viscosity of the vapor in Pascal seconds, this is in Pascal seconds mind it. 
+Mu has different units for different places earlier we had use C p or p that is price or we
+have used Newton. So, wherever it is required accordingly you use it. Here it is Pascal’s
+second, g is acceleration of gravity in m/s2 and ΔT is Tw - Tsaturated where Tsaturated is the
+temperature of the saturated vapor, ‘right’. 
+And  the  property  values  all  these  property  values  are  calculated  at  the  average
+temperature  of  (T w +  Tsaturated)/  2,  i.e.,  saturation  temperature  and  wall  temperature
+average this is the temperature where the property values are evaluated, ‘right’. (Refer Slide Time: 10:30)
+So, once we know this type of problem then we can solve once we know this type of
+relations that is how to find out the heat transfer coefficient though these are empirical
+relations, but very handful and very handy and we can utilize them effectively, ‘right’.
+For example, in this problem this is a typical boiling problem that water is being boiled
+at 1 atmosphere absolute pressure in a steam jacketed kettle with steam condensing in the
+jacket at 120 °C. The inside diameter of the kettle is 0.762 m and the height is 0.9 m. 
+This type of kettle is used in food industries for making jam jelly marmalade. In many
+small scale industries you will see there were steam jacketed kettle in which the steam is
+outside the jacket and outside the kettle in the jacket and inside there is that I mean that
+jam or jelly the mixer or the content of that jam jelly, ‘right’. So, normally jam jelly is
+made from either say fruit or maybe from artificial sources whatever it be. So, it is water
+sugar pectin and acid all these four mixture; however, that is beyond us at this moment,
+‘right’. So, 0.762 m and height is 0.9 m.
+The bottom is slightly carved, but is assumed to be flat. Both the bottom and the sides up
+to height of 0.762 m are jacketed, ‘right’. So, heat is transferred through a 3 mm thick
+stainless steel with a heat transfer with thermal conductivity of 20 W/m.°C mounted on
+the kettle surface. Inside the jacket the heat transfer coefficient h i, it should be h subscript
+i, hi of the condensing steam is 10000 W/m2.°C. Now, what do you need? Predict the
+boiling heat transfer coefficient h o for the bottom surface of the kettle, ‘right’. So, we repeat. Water is being boiled at 1 atmosphere absolute pressure. Now, again since
+it has come, so absolute pressure and gauge pressure there is a difference, ‘right’. If you
+have a gauge by which the pressures are measured, ‘right’. So, fluid is coming here, this
+is like what we call to be like watch or similar kind of thing, ‘right’, dial rather. So, that
+there is an indicator, ‘right’. 
+So, this indicator moves as the pressure goes up and up, ‘right’ and this is at 0. So, when
+it is at 0 that is called absolute pressure equivalent to gauge pressure. So, that one
+absolute 1 atmosphere absolute is equivalent to 0 gauge pressure, ‘right’, that you mind
+it. So, this since it has come we have also explain this.
+So, water is being boiled at 1 atmosphere absolute pressure in esteem jacketed kettle with
+steam condensing in the jacket at 120 °C. The inside diameter of the kettle is 0.762 m
+and the height of the height is 0.9 m. The bottom is slightly curved, slightly curved
+means like this there is a reason also for that. Since, it is not part of this and time is also
+very valuable, so this curvature is made because that material which is being used they
+are food material, ‘right’. 
+And if it is not properly cleaned then there may be had it been square like this there
+could have been that corner. This corner may contain some food material which if it is
+not cleaned after the process is over, if some leftover is there, so there is a chance that
+the microbes can invade and may contaminate. So, that is why purposefully from the
+engineering point of view this is made a little curvature, ‘right’. Why it is that I have
+explained ok. So, both the bottom and the sides up to height 0.762 m are jacketed,
+‘right’. 
+We will show that in diagram. Heat is transferred through a 3 m thick stainless steel with
+a k or thermal conductivity to be 20 W/m°C, ‘right’ mounted on the kettle surface. Inside
+the jacket the heat transfer coefficient h i of the condensing steam is 10000 W/m°C.
+Predict the boiling heat transfer coefficient h o for the bottom surface; this of course ho
+has to be that o has to be suffix or subscript, ‘right’.(Refer Slide Time: 17:28)
+Now, if we look at the problem which has been given that looks like this, ‘right’. So, this
+is a steam jacketed kettle, ‘right’. This is how it is jacketed, ‘right’ and height is given
+and this thickness is given and water at saturation is 100 °C. Steam at 1 atmospheric
+pressure is there and we have to find out and this is the T wall. T wall is not this outside;
+Twall is this which is in contact with the liquid, ‘right’. So, T wall is that and ΔT is equal to
+Twall - Tsaturation, ‘right’. 
+(Refer Slide Time: 18:37)
+So, with this let us solve our problem let us solve our problem. And we then come to this
+solution like this that inside metal surface temperature is unknown, ‘right’. It has not
+been said what is the wall temperature, ‘right’. This is T wall and what is the temperature
+there this has not been said. 
+So,  inside  metal  surface  temperature  is  unknown.  So,  let  us  assume  that  the  wall
+temperature is 105 degrees centigrade. So, ΔT is T w - Tsaturation that is 105 - 100, so 5 °C or
+5 Kelvin, ‘right’. As we said that the difference in centigrade and Kelvin is same. So, h o
+we can use a ration of 5.56 Δ T3 or 5.56, 53 or is equal to 695 W/m2.°C. So, q/A that is it
+flux is h ×ΔT since we know Q is equal to h A ΔT. So, that we can write q/A is equal to
+h ×ΔT, ‘right’. So, that becomes equal to 695 is h o we have found and ΔT is 5 is 3475 W/
+m2 , ‘right’.
+(Refer Slide Time: 20:19)
+So, let us now well we have assumed T w whether the assumption is correct or not you
+have  to  justify.  Let  us  now  check  validity  of  our  assumption  by  calculating  the
+resistances of the condensing steam, R i of the metal wall T w and of the boiling liquid R o. 
+Assuming equal areas of the resistances for 1 m2 because if we go on changing that area
+meter square that A 1 then A2 or A3 for different cases then it will be more complicated.
+So, we are assuming that area of heat transfer has sin for all and that is 1 m2, ‘right’. We
+have to find out the resistances, ‘right’.(Refer Slide Time: 21:14)
+So, Ri is 1/hiA, Ri is 1/hiA that is 1/(1000×1), ‘right’, h i has been given 1000; 10000. So,
+1/(1000×1); that means, 1 × 1 ×10-4 that is Ri, ‘right’. What are these R i? Ri is if you
+remember we had this and then we had this, then we had a jacket inside which that steam
+is condensing, ‘right’. So, we have one resistance here with h i, ‘right’ that we have
+found out Ri . So, this is the film resistance or the wall.
+Then we have to find out R w that is this resistance that is to the wall, this is the wall,
+‘right’ through the wall what is the resistance. So, that becomes equal to Δ x / kA,
+‘right’. And Δx we have been given 3 mm, so (3/1000) / k is given 20 W/m2°C and area
+we have assumed to be 1, ‘right’. So, this has this is coming 1.5×10-4. So, Ri and Rw are
+more or less very close, ‘right’. 
+Then Ro and then what is that R o? This was our material and now outside that is our
+condensing. So, Ro we have found out in this resistance that is film resistance we have
+found out this metal resistance. So, this is the R o, that is the steam which is coming and
+giving heat here, ‘right’. So, R o is 1/(ho×A). R o has already we have already found out h
+o with that relation. So, it is 1/(695×1) that is 1.44 ×10-3, ‘right’. 
+So, some of these resistances are ∑R that is some of the resistances is equal to R i + Rw
++Ro, ‘right’. So, this becomes equal to 1×10-4 + 1.5×10-4 + 1.44×10-3, ‘right’. So, that
+comes to be 1.69 ×10-3 that is the total R, ‘right’.(Refer Slide Time: 24:34)
+Now, if we find out again q, q becomes the temperature drop actress the boiling film is
+ΔT is equal to (Ro/ΔR) × ΔT that is (120 – 100) . So, R o is 1.44×10-3, summation of R is
+1.69×10-3 and this ΔT is 20, so 17.04. So, the wall temperature becomes 100 +17.04 is
+117.04 which is much above the assumed which was 105, ‘right’. So, this is higher than
+that assumed value of 105 °C. So, first assumption it did not leak. 
+So,  you know  this  is  called  trial  and  error  method.  When  you  are  more  than  one
+unknown is there and you have less number of equations, then you do solve with the trial
+and error means you assumed one and then find out that with the assume value and if it is
+matching very good, if it is not matching you have to reassume, ‘right’.(Refer Slide Time: 26:16)
+Now, reassumption will be there, 105, let us assume that 110 °C is the wall temperature,
+‘right’. Then delta T is 110 – 100 or 10 °C, ‘right’ and h o why that equation we got 5560,
+‘right’, 5560 W/m2 the same equation which we have used 105 °C. And by the same way
+you found out Ri, Ro and Rw, ‘right’. So, you can find out all of them. And new R o is now
+17.98×10-5 by the same process we have found out, ‘right’.
+(Refer Slide Time: 27:17)
+If Ro is found out like that as 17.98×10-5 then we can say that ∑R or all the resistances is
+2.948×10-5 again. By the same way we have found out earlier R i, the same way now R ihas been found out, the way R o has found out the same way now R o has been found out
+and Rw of course, Rw also by the same way, but R w will remain same because you are not
+changing the material, ‘right’. 
+(Refer Slide Time: 27:58)
+If that is not, so ΔR that is ∑R is 2.948×10-4, ‘right’. This is °C/W, ‘right’ resistance. So,
+ΔT, then again is R o/ΔR, ∑R, ∑R ×(120 – 100) °C which was given which means we
+have already found out this is 2.948, ‘right’. 
+Ro has been found out in the previous slide 17.98×10-5, ‘right’. ∑R is 2 point which we
+have found out here 2.948×10-5 and this ΔT is 20. So, this comes to 10 for 12.198 °C.(Refer Slide Time: 29:03)
+So, the Tw is 100 + 12.198 °C is 112 point, this should be 100 + 12.198. So, this is a
+mistake. So, it should be 112.198. So, our assumed value was 110, we got 112.198. So,
+next value if you take assumed value as 112.198, I hope you will get very close to 112 or
+113 °C that you will be the final answer, ‘right’. So, this way by trial and error you could
+find out, by a trial and error you could find out the value of the assumed T w which was
+not given, ‘right’.
+Hope  we  have  solved  this  and  we  have  come  to  T w as  12.198.  So,  the  boiling
+expressions, boiling heat transfer coefficients and the problem solution we have done.
+So, we can now the time is up. So, we can close it and then we will next class we will go
+for the condensation ok.
+Thank you very much.

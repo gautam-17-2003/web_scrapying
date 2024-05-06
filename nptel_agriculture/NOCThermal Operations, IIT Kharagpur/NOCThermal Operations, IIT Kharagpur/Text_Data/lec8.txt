@@ -1,0 +1,237 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 08
+One Dimensional Conduction Heat Transfer in Cartesian Coordinate ( Contd. )
+So, we come  back again  to One Dimensional  Conduction Heat  Transfer. We  were
+developing the generalized equation. And we have made generalized equation in the
+form of    that was equal to 1 by alpha in this equation. So,
+now  we  go  to  that  lecture  8  and  that  one  dimensional  conduction  heat  transfer
+continuation.
+(Refer Slide Time: 01:21)
+So, we were in this special cases ‘right’. So, for constant thermal conductivity when we
+have taken k constant see this is 1 by alpha
+not alpha, because k by rho Cp is alpha.
+So, it is 1 by alpha del del T of t, ‘right’ where alpha is that thermal diffusivity in terms
+of . So, thermal diffusivity of the material in the unit of meter square per
+second; so, from here we can see that had it been not constant thermal conductivity, then
+the equation generalized equation would have been      
+this would have been the generalized equation. And if we have taken conductivity to be
+constant that is k is constant then it has come to this form, ‘right’.1 1 1 pnnCT T Tr gr r r k k t t
+           
+pk
+C
+1 1 1 pnnCT T Tr gr r r k k t t
+           1np nT Tr k g Cr r r t        For steady state conduction with energy sources within the medium, then we can write it
+is a steady state. So, del T del r this goes up since this del T del r the rather del T del t
+this goes off, because it is steady state; that means, it is independent of time ‘right’ is no
+longer time dependent this was unsteady till this point this was unsteady, ‘right’ because
+it is time dependent. But, now if it is a steady state conduction heat transfer within the
+material there is a energy generation then we can write that equation 
+So, this is for steady state without constant thermal conductivity.
+Now, for steady state conduction heat transfer with the energy generation within the
+body, but thermal conductivity is constant if that be true then 
+this is a another special case.
+(Refer Slide Time: 04:41)
+Third special case could be for steady state heat conduction with no energy generation
+that is g is 0 and steady state. So, ‘right’ side is also 0. So,         and for
+steady state heat conduction with no energy generation within the medium, with constant
+thermal conductivity then you can write         . In most of the cases you deal
+with this equation where if n is 0, then it becomes d/dx instead of r d/dx and this
+becomes  
+ that is in turn we can write  
+  and that is where no energy
+generation constant his thermal conductivity and steady state and geometry is rectangular
+coordinate system, ‘right’, then it becomes like that, but if it is n is equal to 1. 10nnd dTr k gr dr dr    
+1 10nnd dTr gr dr dr k    
+0nd dTr kdr dr   
+0nd dTrdr dr   Then it becomes d/dr of rdT/dr is equal to 0 again there is no heat generation and the
+steady state and constant conductivity and the geometry is rectangular coordinate system.
+If it is spherical coordinate system then your n becomes 2 then it is d d r of r square d T d
+r  is  equal  to  0,  where  there  is  no  internal  energy  generation  steady  state  thermal
+conductivity is constant and the body is spherical in system spherical coordinate system,
+‘right’.
+(Refer Slide Time: 06:57)
+So,  this  if  this  be  true  then  if  we go  into  this  three  dimensional  one,  we are  not
+developing it, but three dimensional equations we can write for rectangular system where
+the coordinate is x y z and T is a function of x y z, then 
+You remember in the previous slide we had written wrongly by typographical mistake it
+was alpha del T del t, but it is 1 by alpha del T del t, I said it to be corrected. So, you
+please note it.
+For cylindrical system where r theta z, ‘right’ and T is a function of r theta z and also
+time T, then  And for spherical system where the
+coordinate is r theta phi or r phi theta and T is a function of r phi theta and time t, then it
+is2 2 2
+2 2 21 1T T T Tgx y z k t          
+2 2
+2 2 21 1 1T T T g Trr r r r z k t               
+222 2 2 2 21 1 1 1T T T g Tr Sinr r r r Sin r Sin k t                           (Refer Slide Time: 09:07)
+So, we have seen that one dimensional conduction heat transfer basic equation how we
+can develop it? And from there we have come to the three dimensional what is the 3
+coordinate  system equations, ‘right’. Three  dimensional  equations  also we have not
+derived, but we have shown how the equations look like, ‘right’.
+Then comes when you are solving it, ‘right’, it is a differential equation. So, when you
+are solving it you need to have boundary condition, if it is ∂2T/∂x2; that means, you can
+or you can get T on double integration, ‘right’ on double integration you can get T. So, to
+get T you need to have boundary condition. 
+And this boundary conditions are to be also understood and they are to be, rightly
+specified, ‘right’. So, boundary conditions there are three types, ‘right’; one is called
+prescribed  boundary  condition  or  boundary  condition  of  first  kind,  then  prescribed
+boundary condition of second type and condition that is boundary condition of second
+kind and the third one is boundary condition or prescribed boundary condition of third
+type or boundary condition of the third type, ‘right’. 
+So, if that be true then, let us take a body as it is shown here in the picture, ‘right’ we
+have drawn it that we have two this is two sides. So, our x direction is this. So, other two
+dimensions are much bigger than this dimension. So, that is why it is one dimensional,
+‘right’. So, bound this is called boundary condition of the first kind or prescribed temperature
+boundary  condition,  ‘right’,  prescribed  temperature  boundary condition;  that  means,
+boundary condition is defined in terms of temperature, ‘right’. If it is that if the both
+boundary means both the sides of the body, if the body is like this. 
+So, this side of the body is one temperature boundary condition and this side of the body
+is another boundary condition and the body is like this, ‘right’. If this be true which we
+have drawn here we can say that T(x,t)| x=0=T1, that is one boundary and the body is two
+sides, other two sides infinite or very large compared to the one through which heat is
+being conducted and that is the x direction, ‘right’. And this is 0 to L the two sides, one
+side x is 0 and the other side x is L, ‘right’. 
+So, one boundary can be T(x,t)| x=0 ≡ T(o,t) = T1 and the other side is T 2 is equal to T(x,t)|
+x=L  ≡ T(L,t) = T2  . So, this is called prescribed boundary condition of first kind or the
+prescribed temperature boundary condition.
+The plate is subjected to a prescribed boundary condition at both surfaces and can be
+written as T(x,t)|x=0 ≡ T(o,t) = T1,  ‘right’. And this is equation number 1 and T(x,t)| x=L ≡
+T(L,t) = T2
+(Refer Slide Time: 13:45)
+This is these are the two boundary equations we got in terms of temperature T 1 and T2,
+‘right’. So, second type is boundary condition of second kind or called proscribed heatflux boundary, ‘right’, prescribed heat flux boundary. So, heat flux is what watt per
+meter square, ‘right’, or any flux is that thing per unit time unit area per unit area is that
+thing or here it is watt per meter square. So, any flux is that thing it is energy so, Joules
+per meter square per second per unit time is the flux.
+So, watt that is joules per second per meter square, ‘right’. So, that is the flux. So, here
+we are providing prescribed boundary condition of the second kind or prescribed heat
+flux boundary condition, ‘right’. If, it is heat flux it is q 0 that is watt per meter square or
+Joules per second per meter square, ‘right’. Similarly, for the other energy terms maybe
+for fluid flow or for mass transfer so, you will see that everywhere flux is there and this
+flux is that thing per unit area per unit time is the flux ok. 
+So, here it is q0 or watt per meter square that is the heat flux which you are using. And by
+the definition of q we have we are we can write that0 0|xTk qx , this is the L and at the
+other surface at x equal to L, if it is minus flux and the other side has to be plus flux. It
+cannot be the both side is having this side is minus 0 0|xTk qx and this day side also
+minus 0 0|xTk qx , then what will happen it will transfer from both the sides and the
+temperature will go on increasing and it is unsolvable, ‘right’. Whereas, if heat flux is
+coming from one side, it has to disappear to the other side with whatever be the flux,
+‘right’. 
+So, one is positive if it is positive, then the other side has to be negative or if it is
+negative the other side has to be positive. So, that the heat can enter and also exit
+otherwise there will be accumulation and if the accumulation is there; that means, inside
+temperature will go on increasing, which is beyond solution or unsolvable by normal this
+way yes it can be, but in all other different techniques. So, we can write 0 0|xTk qx at
+the surface x equal to 0 and at the surface x equal to L, we can write |x L LTk qx , which
+we have written here, ‘right’. So, heat supplied by conduction or by flux is (Refer Time:17:31) 0 0|xTk qx and conditions this is called conduction heat flux. Another one heat
+supply where it is watt per meter square |x L LTk qx , it is between 0 to L and in the x
+direction, ‘right’.
+So, when the heat flux is prescribed at a boundary surface, the boundary condition is said
+to be of the second kind, ‘right’ the boundary condition is said to be of the second kind.
+So, here we have 0 0|xTk qx and  |x L LTk qx  ,‘right’.
+(Refer Slide Time: 18:29)
+Then the boundary condition of the third kind, i.e., called convective boundary condition,
+‘right’. Here also you see we have taken one object which has two boundaries defined
+and the other two sides are much bigger compared to this one. So, that is why we can
+consider it to be one dimensional, ‘right’. 
+So, here there is a convective fluid in one side flowing at the temperature T 1 with a heat
+transfer  coefficient  of  h 1.  So,  this  is  under  convective  condition,  ‘right’.  So,  this
+convection is coming to the surface and then this surface is attending your temperature
+corresponding to this fluid flow and fluid properties, ‘right’ and which is equivalent to.
+1 1 0 0| |x xTh T T kx    equal to 0, ‘right’And this convection heat is then conducted through the body, ‘right’ which is |x L LTk q
+x 
+ at x
+equal to 0 or 0 0|xTk q
+x 
+ ,‘right’. So, this convection or whatever has come is conducted
+and here also this conducted |x L LTk q
+x 
+at x is equal to 0 is being going out through the fluid,
+which is at T1 or rather which is at T 2 here it is of course, it should be T 2, this was T1 h1
+this should be T2 h2, because it would be because of cut and paste that error was there.
+So, it should be T2 h2, ‘right’ fluid flow we need fluids flowing on the other side T 2 h2,
+which we have corrected here of course, 2 2| |x L x LTk h T Tx   
+So, this is called boundary condition of the second third kind or convective boundary
+condition. Now, the situation is that you may have that all these three are different,
+‘right’; one is prescribed temperature boundary condition, second is prescribed heat flux
+boundary condition, and third one is prescribed convective boundary condition. And all
+these three we have shown in both the sides, ‘right’, but it may happen that you have in
+one  side  prescribed  temperature  boundary  condition  and  another  side  it  could  be
+prescribed heat flux boundary condition or prescribed convective boundary condition,
+that may be one situation, two situations or you may also have one side prescribed heat
+flux boundary condition and the other side prescribed convective boundary condition.
+So, any combination can happen and but these are the generalized boundary conditions.
+So,  when  you  will  face  the  actual  problem,  it  may  be  a  combination,  it  may  be
+individually like that or a combination of any three, any two of the three, ‘right’. So, that
+is further we will look at, ‘right’.(Refer Slide Time: 22:23)
+So, this is what at the surface x equal to L which we have written here at the surface x is
+equal to L, we have written that it is equal to     2 2| |x L x LTk h T T
+x   
+ .
+(Refer Slide Time: 22:47)
+So, one dimensional steady state heat conduction, ‘right’. So, we were discussing we are
+taking a typical case for slab, ‘right’. So, if it is for slab, then we have taken this one
+dimension, other two dimensions are infinite or much bigger and this is a slab, where oneside is subjected to a prescribed temperature boundary at T 1, other side is also at the
+prescribed temperature boundary condition of T 2, ‘right’ and we have inside T x, ‘right’. 
+So, this inside these a function of T is a function of x and it is 0 to L, ‘right’. This we can
+write in 2 ways, one in the one which we have written in terms of methodics or it is at
+one dimensional heat conduction or theoretically we can write it this way 
+          This is that is equal to 0 this is one equation which we have
+seen earlier and the other equation is k x is equal to        So, we
+can rewrite this one in the form of Here, we also can write in the form
+of this Q heat is coming to this surface where the temperature is T 1 and because of this
+body there is a resistance equivalent to R equal to L, that is the length over k A where k
+is the conductivity of the material and A is the area through which the heat is getting
+transferred and it is coming to the other surface at temperature T  2 and the same Q is
+going out, ‘right’.
+Because, Q cannot be this cannot be created there or when it is a steady state because it is
+a  steady  state.  So,  same  Q  will  come  in  and  go  out  of  the  body  ‘right’.  So,  the
+temperature was here T 1 and the other face the temperature is T 2 ‘right’. So, we are
+taking this solution of this equation that ,‘right’  it  is  not
+saying E0 it is E at any x. So, it is 0 and then q x can be written as minus 
+             
+(Refer Slide Time: 26:45)
+2
+2( ) 1( ) 0d T xE x
+dx k 
+2( )( ) /dT xq x k W m
+dx 202( )d T x E
+dx k 
+2
+2( ) 1( ) 0d T xE x
+dx k 
+2( )( ) /dT xq x k W m
+dx 202( )d T x E
+dx k Then first and second integration of this can be written as   this
+is the first integration constant. And on second integration we get 
+So, to solve it we need two boundaries, ‘right’, two boundary conditions we need one at
+x is equal to 0 and the other at x equal to L this is to be provided. And obviously, these
+boundary  conditions  can  be  prescribed  temperature,  of  prescribed  heat  flux  or  a
+prescribed convective boundary condition, ‘right’.
+So, this is one example we have shown, how we can solve this kind of problem that if
+you have a slab and if in the slab that q quantity of heat is coming in where the surface is
+becoming T u surface temperature is T 1. And then the heat is getting conducted through
+the material going to the other side at T 2 and you are then getting it dissipated that q to
+the other side. Corresponding to the resistance of the material, it is R which is equivalent
+to L over k and A. So, k is the conductivity of the material and A is the area through
+which it is getting transferred, ‘right’. 
+So, we started with you look at  we started with that  generalized  equation,  but the
+conditions are a steady state and constant conductivity. So, if it is steady state, ‘right’
+side is 0 and internal energy generation is E. So, if conductivity is constant k then our
+governing equation becomes that is equal to
+            So, we integrated it and our we reformulated that       and if it is
+a constant E, then E 0 over k and we solved it by integrating first integration we got  
+ and in the second integration you got 
+So, we need two boundaries to solve it and that can be boundary condition of first kind,
+or boundary condition of second kind or boundary condition of third kind, ‘right’. So,
+next we will solve it or similar problems, ok.
+Thank you.01( )dT x Ex Cdx k  
+201 2( )2ET x x C x Ck   
+2( )( ) /dT xq x k W m
+dx 2
+2( ) 1( ) 0d T xE xdx k 
+201 2( )2ET x x C x Ck    01( )dT x Ex Cdx k  202( )d T x E
+dx k 

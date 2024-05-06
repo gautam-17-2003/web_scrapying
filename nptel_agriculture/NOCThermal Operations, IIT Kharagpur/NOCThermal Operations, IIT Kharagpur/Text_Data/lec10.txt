@@ -1,0 +1,210 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 10
+One Dimensional Steady State Heat Conduction (Contd.)
+Hello. So, good morning today again we are continuing that One Dimensional Steady
+State Heat Conduction equation. We were solving problems and through h the solution
+of the problems we are coming across more and more how to solve different problems
+with different boundary conditions, ‘right’. So, now, let us go to another. So, this again
+one dimensional steady state heat conduction continuation lecture number 10.
+(Refer Slide Time: 00:59)
+ 
+So, we come to this that problem. Let us know how consider a case where energy is
+generated at constant rate of E 0 W/m3 in a slab of thickness L having constant thermal
+conductivity k.
+The boundary surface at x is equal to 0 is insulated that is under adiabatic condition.
+And, that at x is equal to L dissipates heat by convection with a heat transfer coefficient
+h into a fluid at a temperature T e. Derive expressions for the temperature distribution
+T(x) and heat flux q(x) in the slab.Calculate the temperature at the surface x is equal to 0 and x is equal to L under the
+following conditions; L is 8 millimeter, k is 15 W/mºC, E 0 is 10×107 W/m3, h is 5000 W/
+m2ºC and Te is 120ºC.
+So, if we can solve this one also, but since here you see that internal energy generation is
+present. Since, internal energy generation is present we cannot use thermal resistance
+concept, ‘right’. Had there been no internal resistance generation, we could definitely
+solve it with the thermal resistance concept, but it cannot be now, ‘right’. So, we have to
+do analytical solution.
+So, to understand you should read the problem number of times at least once or twice so,
+that you understand the problem mentally. The problem again is saying like this let us
+consider now a case where energy is generated at a constant rate of E 0 W/m3. So, energy
+generation is present.
+In a slab of thickness L having constant thermal conductivity k. The boundary surface
+now the boundary condition at x is equal to 0 is insulated; that means, you have some
+insulation that is that can be said equivalent to be under adiabatic condition ‘right’ no
+heat flow. And, that at x is equal to L dissipates heat so, other side is dissipating heat to
+the boundary by convection with a heat transfer coefficient h into fluid at a temperature
+Te, ‘right’. The derive expression for temperature distribution T(x) and heat flux q(x) in
+the slab and, also we have to calculate the values of T es perhaps values of calculate the
+temperature at the surface x is equal to 0 and x is equal to L.
+So, x is equal to 0 and L we have to find out the temperatures and we are given thermal
+conductivity heat transfer coefficient length of the slab that is thickness or L 0 to L. So,
+thickness of the slab and internal energy and environmental temperature everything are
+given. So, we can solve it, ‘right’.(Refer Slide Time: 05:17)
+So, in this  case the  thermal  resistance  concept  cannot  be utilized,  because  there  is
+internal energy generation. The condition or the conduction equation for the constant
+heat flux, or the constant not heat flux, for the constant heat generation, and constant
+thermal conductivity has to be utilized. And, now we start with that where we ended with
+you remember we said that the here it is steady state.
+So, the moment it is steady state, so the right side becomes equal to 0. So, our equation
+becomes equal to          and this is to be used for the
+solution. And, boundary condition given one side it is given you remember one side it is
+given that it is insulated. The moment the boundary condition is insulated we can say
+that  
+( ) ( )0 0; , ( ) 0 edT x dT xat x and k h T x T at x L
+dx dx        So, conduction equal to
+convection  that  is  the  second  boundary.  First  boundary  was  insulation  and  second
+boundary is conduction equivalent to convection.
+So, our governing equation was if we  integrate
+first integration give  
+01
+1( )1 ,
+0dT x Ex C and applying the BC we getdx k
+C  
+. And, now if we apply the first boundary
+condition that is dT(x)/d x is equal to 0 at x is equal to 0 we get C 1 is equal to 0.2
+02( )0 0d T x Ein x L
+dx k   
+2
+02( )0 0d T x Ein x L
+dx k   Because, this x is 0 so, this is 0 and dT(x)/dx is 0 from here. So, we get C 1 is equal to 0.
+(Refer Slide Time: 08:37)
+So, on second integration we get C 1 is equal to 0, ‘right’. Then
+ 202
+20 02
+20 02
+220 0( )2
+2
+2
+( ) 12e
+e
+eET x x C and applying BC at x L gives usk
+E L E LT Ch K
+E L E LC Tk k
+temperature distribution in the slab becomes
+E L x E LT x Tk L h   
+   
+  
+
+           (Refer Slide Time: 11:47)
+So, this is for energy generation and this is for the heat transfer coefficient. So, we can
+write that    . So, we have the solution we have found out the
+temperature distribution T(x) and also you have found out the q(x) at any x which is E 0x,
+‘right’. Now, we can solve easily and find out the temperatures at x equal to 0 and that x
+as to L 
+Then, if we plot that the temperature distribution, then it comes like this you will see we
+can show that here one and here another, ok.
+So, our temperature distribution that can be written that can be shown that this is equal to
+let us take this. So, here it was ok before that let us have the slab, this is the one part of
+this slab and this is the other part of this slab, ‘right’. So, our boundaries are like that. So,
+the temperature then becomes equal to some temperature here, ‘right’ and then it became
+like this and then it became like that.
+So, this is the temperature distribution which we are we have found out, ‘right’. So, this
+is the solution which we have shown yeah this is the solution there this is 280 oh this was
+this was constant. So, this started from here itself, ‘right’ E 0, T0 was 493 here and then it0( )( )dT xq x k E xdx  
+7 3 2 7 3
+7 310 10 (8 10 ) 10 10 (8 10 )(0)2 15 5000
+120 493.3
+10 10 (8 10 )( ) 120 2805000o
+oX X X X X XTX
+C
+X X XT L C 
+ 
+ 
+  dropped to this 280 and outside was 120, ‘right’. So, this way we can resolve the
+problems ok.
+(Refer Slide Time: 15:35)
+So, we let us take another problem a constant uniform heat flux q 0 is introduced at the
+boundary  surface  at  x  is  equal  to  0  of  an  iron  plate  of  thickness  L  with  thermal
+conductivity k. From the other boundary surface at x is equal to L, heat is dissipated by
+convection into a fluid at temperature T e with the heat transfer coefficient h.
+Derive expressions for the surface temperatures T 1 and T2 at the surfaces x is equal to 0
+and x is equal to L respectively. What will be the surface temperature T 1 and T2 if L is
+2.5 centimeter k is 16 W/mºC, q 05×105 W/m2, Te 40 degree centigrade and h 600 W/mºC.
+ Say, here also you see that the since there is internal energy generation we cannot
+assume the thermal resistance concept, ‘right’. So, again we need to solve it analytically.
+And again as you said to solve we have to read the problem and understand mentally and
+then follow it accordingly.
+So, I am reading the problem or reading out the problem once again a constant uniform
+heat flux q 0 is introduced at the boundary surface at x equal to 0 of an iron plate of
+thickness L with thermal conductivity k. From the other boundary surface at x is equal to
+L heat is dissipated by convection into a fluid at temperature T e with a heat transfercoefficient  h. Derive  the expressions  for the  surface  temperatures  T 1 and  T2 at  the
+surfaces x is equal to L and x is equal to L 0 and x is equal to L respectively, ‘right’.
+So, this means that our problem is saying that you have a plate iron plate and one side is
+subjected to the boundary condition of second kind that is prescribed heat flux boundary
+condition. And the other side is boundary condition of the third kind that is prescribed
+convective boundary condition as well internal heat generation is there. So, you have to
+do first the analytical solution and if you then you have the temperature distribution
+equation, you can easily find out what is the two phases temperatures that is T 0 and TL,
+‘right’.
+(Refer Slide Time: 18:57)
+Here is that pictorially we can you can write it this is the iron slab and one side is heat
+supply by q we what so, much watt per meter square this is that, ‘right’.
+Internal heat one thing, internal heat generation that is why we have to read it, ‘right’.
+So, here there is no internal generation is saying, but what did it saying that the flux. So,
+though looking at the q; I mean that the internal generation of heat was mentioned? no it
+is  not  mentioned  here.  So,  here  one  boundary  is  heat  flux,  another  boundary  is
+convective boundary condition and the plate is there, ‘right’.So, since there is no internal generation of heat as well since it is a steady state though it
+is not said, but it is understood that there is a steady state. So, here we can use thermal
+resistance concept, ‘right’.
+So, that is what we are using W watt per meter square that is T 1 and T2 and a boundary
+with convective boundary. So, with a fluid flow at T e temperature h as the heat transfer
+coefficient 0 to L and it is in the X direction. So, A q that is capital q quantity of heat is
+coming all, ‘right’, q is heat flux, A is the area. So, A q, q quantity of capital q quantity of
+heat is coming and at the face this is T 1 and within that resistance of the material, it is
+coming to T2 and then getting dissipated to T e as the other side of the boundary. So, we
+have two resistances, one is internal and another is this and this is supplied by the heat
+flux.
+(Refer Slide Time: 21:21)
+So, solution of heat can be that q is equal to capital Q that is
+Now, to know the surface temperature say T 1, let us equate the first and last expressions
+then we get     . And, then by equating the first and the third
+expression T2 can be found out and this can be written as T 2 is equal to q0 over h plus Te,
+‘right’.1 2 2 101 1e eT T T T T TAqL L
+Ak Ah Ak Ah    
+
+1 01
+eLT q T
+k h      (Refer Slide Time: 22:33)
+So, if we have already found out T 1 and T2 we can easily now calculate the numerical
+values, because all others are given. So,
+The material offers resistance of heat transfer. So, that you have to keep in mind that
+material is offering resistance and depending on how much may resistance it is offering
+the drop in temperature will be accordingly, ‘right’. So, let us see whether any other
+problem we have or not; we can say that we observed all types of problems. 
+Once with the constant temperature boundary condition at left side, there is one side an
+another constant temperature boundary condition on the other side, we have made the
+analytical solution and we have also made the thermal resistance solution. So, the where
+internal energy was not present, internal energy generation was not present they are
+thermal energy also we have solved.
+In another case we have also seen both the sides are convective, this side convective, this
+side also convective through boundaries and the material is getting conducted. So, we35
+1
+5
+22.5 10 15 10 40
+16 600
+951.45
+5 1040 873
+600o
+oXT X X
+C
+XT C      
+
+   have solved that analytically in both the cases once when there was internal energy
+generation and in another case when there was no internal energy generation, ‘right’.
+If internal energy generation is there we cannot solve it analytically, we cannot solve it
+by thermal resistance concept, but we have to solve it by analytical solution. So, we did it
+by analytical solution and then we also solved when internal energy was not there
+through the thermal resistance concept.
+And, third one we have done when a constant heat flux was supplied that one boundary
+and the other boundary was by convective boundary condition and the in material is
+offering resistance. So, the temperature is dropping from one high one temperature to
+another. So, whether it is how high or low all will depend on what kind of values you are
+getting, what kind of values you are assuming for the different parameters like, heat
+transfer coefficient like, heat flux like, you know conductivity like, your thickness of the
+material or if there is internal energy generation.
+So, depending on the  values  which  you are choosing, your this  thing will  also be
+accordingly,  ‘right’.  So,  with  this  let  us  conclude  with  thermal  concept  with  one
+dimensional heat transfer coefficient. So, we thank you and thank you for the next class,
+ok, we will meet in the next class.
+Thank you.

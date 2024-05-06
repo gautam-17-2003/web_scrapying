@@ -1,0 +1,215 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 07
+One Dimensional Conduction Heat Transfer in Cartesian Coordinate
+Good morning. So, let us now start the real One Dimensional Heat Transfer, ‘right’. So,
+in  this  Thermal  Operations  in Food Process  Engineering:  Theory  and Applications,
+‘right’. Here we are now starting with the real course what were outline has been given
+that  is  one  dimensional  heat  conduction  or it  conduction  heat  transfer  in  Cartesian
+coordinate, ‘right’. 
+As you know that you can have that object may be like a slab or like rectangle or may be
+a square or any say those are called under Cartesian coordinate where, you have x y z
+this coordinate. But if you have say round, but this is called cylinder so, it be have a
+cylindrical, then your coordinates are different cylindrical coordinate or if you have a
+spherical object then it is under the sphere, ‘right’, these are objects which have definite
+shape and size, ‘right’.
+So, here we are taking one dimensional conduction heat why one dimension? Because
+out of the three dimensions one dimension is the smallest compared to the other two
+dimensions, ‘right’, other two dimensions are much larger than this smallest dimension
+and the conduction heat transfer will take place through that smallest one, ‘right’. Again
+here I give you an example at home which you can also see that mummy is having so,
+those spheres and other things or you take a piece of iron and put it on the flame, now the
+movement you are putting on the flame the other side you can also hold it, ‘right’, say if
+this one is that one, ‘right’.(Refer Slide Time: 02:41)
+So, if you are heating here; if you are heating here then if even if it is a metal then you
+can hold it for some time, but definitely you cannot hold here at this end because, this is
+the smallest dimension. This is the cylindrical body smallest dimension that is the radius
+or that diameter compared to the length, ‘right’. 
+(Refer Slide Time: 03:15)
+Similar things could be say this one so, ‘right’. So, this is the mouse and here you see
+this is the smallest dimension compared to other this dimension and this dimension,‘right’. So, heat should transfer primarily through this and mostly affected by that, i.e.,
+why we are first taking that one dimensional heat conduction, ‘right’. 
+(Refer Slide Time: 03:45)
+For that let us take; let us take one arbitrary shape as it is here, ‘right’, here we have
+taken you see an object which does not have any defined boundary as it is in the slab or
+in the square or things like that. So, it is arbitrary shape and where the thickness is delta
+x, ‘right’. So, thickness is only delta x and one dimensional heat conduction we are
+proceeding. Governing equations are though net rate of heat gain by the conduction, this
+plus rate of energy generation, ‘right’ and this two together is equal to rate of increase of
+internal energy, ‘right’.
+Rate of increase of internal energy so, these we have given so, notation like I and this is
+II, all roman and this is III, ‘right’. So, if that be, this is the governing equation for the
+one dimensional heat conduction. Then in this body where we have a thickness of delta x
+and heat is being transferred in the x direction so, heat flow is taking place like this
+coming to the surface and from the other side of this surface it is going out heat flow out.
+So, heat flow in at Aq|x, ‘right’, this is the face x, at the face x and heat flow out is Aq|x+Δx
+because the thickness is delta x and this is the x direction. If this is in our mind, ‘right’, if
+this body is in our mind and if we know that governing equation, which is saying that in
+the net rate of heat gain by conduction plus rate of energy generation if there be any this
+must be equal to rate of increase in the internal energy which you we have denoted I, IIand III roman, ‘right’. For the body which we have shown which has the surface area of
+A, ‘right’, this surface as an area of A and the other side is also having the area A. So,
+area is not a changing parameter, ‘right’, area is fixed here as we have seen as of now
+subsequently will see how it is proceeding, ‘right’.
+(Refer Slide Time: 06:53)
+So, let q be the heat flux at the location x in the positive direction of x, at the surface A
+of the volume element that A and ∆x, the volume element is the product of A and ∆x. So,
+A ∆x is the volume element, A being the meter square and delta x is the thickness that is
+in same meter, ‘right’, if it is in SI. 
+The rate of heat flow into the volume element by conduction through the surface A at the
+location x is Aq|x, ‘right’. Similarly, the rate of heat flow into the volume element by
+conduction through the surface A at the location of x+∆x so, here it is A and here it is
+A+∆x. So, it comes  Aq|x+Δx.
+And net rate of heat gain by the volume element by conduction then is 1 equal to Aq| x – 
+Aq|x+Δx this is the net rate of heat gain by the volume element by conduction, ‘right’. Now
+assume that there is an internal energy generation of g meter cube, ‘right’, g, rather 
+Joules per meter cube, in that case rate of energy generation having a volume element of 
+A delta x is that second term II is equivalent to A Δx g, ‘right’. (Refer Slide Time: 09:03)
+So, if this is true then the rate of increase of internal energy of the volume element
+resulting from the change of the temperature with time is 
+ . A∆x is
+the volume, ρ is the density, Cp is the specific heat of the substance or material through
+which the heat is being transferred, this times 
+  
+If this is true where we know that C p is the specific heat of the material in Joules per
+degree centigrade if in many books it can be also Joules per kg per Kelvin, ‘right’,
+because when it is Kelvin and degree centigrade per unit then they are same, ‘right’.
+But because the difference is that and J/kgºC is the C p and then g is the energy generation
+rate per unit volume it is in watt, Joules per second. So, watt per meter cube and we have
+q that is the conduction heat flux in the x direction that is in watt per meter square and t
+is the time in second ρ the density of the material in kg per meter cube, ‘right’, then we
+can rewrite this governing equation, (Refer Slide Time: 11:19)
+A q at the position x or at the face x minus A q at the face x plus delta x plus that internal
+energy generation is A∆xg, ‘right’; so, I think subsequently this g will be replacing with
+e  because  g  does  not  sound good  because  g normally  we know  the  notation  of  g
+corresponds to the gravitational force ‘right’. So, that is why maybe subsequently we will
+change it to e, ‘right’, here we are not changing because already it is there we will
+change it subsequently.
+This is from the definition of q, ‘right’ 
+ , t that we know, ‘right’ from
+the definition of q that is the heat, it is proportional to the temperature and inversely
+proportional  to  the  distance,  ‘right’  and  that  corresponds  to  equal  to  k  that  is  the
+proportionality constant which is known as thermal conductivity. So, minus sign, why is
+
+
+
+,| |
+, 1 | |,
+, 1,
+,,
+, 1x x x p
+x x xp
+p
+pT x tAq Aq A xg A x Ct
+T x t Aq Aqor g CA x t
+T x tor Aq g CA x t
+T x twe can write from q kx
+T x tTAk g CA x x t
+
+
+
+    
+   
+   
+ 
+        it there? Because this minus sign was there as the x is increasing T is decreasing, ‘right’
+so, that is what it why minus is there. So, 
+ this is by the definition of heat,
+‘right’. 
+ (Refer Slide Time: 17:31)
+Now, for a rectangular coordinate system where the area A does not vary with x, let us
+also understand this, ‘right’. Our body was like that this is neither a rectangular shape or
+cylindrical shape nor a spherical shape this is a just a body, ‘right’ without any shape,
+undefined shape, ‘right’. 
+So, now, you are assuming if the heat transfer occurs in the rectangular body, ‘right’,
+rectangular body means you have x and y, ‘right’ of course, you will also may have z,
+but since you have this defined x and y which is not varying. If it is symmetrical, if it is
+not it gradually increasing or tapering things like that if it is symmetrical, then you have
+a body whose area is not changing with the distance x, ‘right’. So, that is what here we
+are assuming, ‘right’. 
+So, for rectangular coordinate system where the area A does not vary with x, in that case
+we can write in here it was A is not changing with x. So, A can be made constant, ‘right’.
+,
+pT x tTk g Cx x t                                                                        So, this is for rectangular coordinate system,
+where A is not a function of x or A does not change with x; A, we can assume to be
+constant all over the x, x is the distance through which the heat is propagated, ‘right’. So,
+heat is getting transferred through the distance x and area is not changing with A, ‘right’.
+Then if we take a cylindrical body so, if this body would have been a cylinder, if this
+body would have been a cylindrical, ‘right’ where A is varying with r for a cylindrical
+coordinate system where the area A varies with r that this the radial variable, ‘right’. So,
+I do not know how to write on it, but let me tell you that see if we come out of it and if
+we make a cylinder like this is one, ‘right’, this is another. So, this is the this is another,
+this is if this be a cylinder and if this is the axis say if this is the axis, ‘right’, hopefully
+this we have to take a little this side, ‘right’ if this is the axis. 
+So, r is this one, ‘right’ this is the r; this is the r, ‘right’, if r is this one then this r and if
+we copy and paste there and now if we separate them a little like this became copy and
+paste here, ‘right’. So, this is the r. So, now, you see as the area which it was 2πrl you
+know this area was 2 pi r l. So, as r is increasing your area is also increasing, ‘right’, that
+is what we have said and we would like to say here also.
+So, we can save it and so, that it is with you and go back to that original. So, where we
+are saying that as for a cylindrical coordinate system, where the area A varies, ‘right’
+with  r  the  radial  variable  that  r  is  the  radial  variable  we  can  write  since  to  the
+here also we can write del T we within bracket r and t that is at any r and
+time t, then this plus that g that is the energy generation is equal to 
+ , this is
+for cylindrical coordinate system, ‘right’. 
+For rectangular coordinate system we have seen this, ‘right’ we have divided with A
+because A is not a function of x. So, we divided that and we got the
+ ,
+pT x tTk g Cx x t        whereas, for cylindrical coordinate we got it 
+(Refer Slide Time: 24:01)
+And if it is for spherical coordinate system, then for sphere this area is a function of r
+square means as r is increasing area is increased in terms of square of it, ‘right’. So, area
+is function of r square and we can say that 
+Hence  a  compact  generalized  equation  can  be  written  as  we  can  write  a  compact
+generalized is equation as 
+So, this is the generalized conduction one dimensional conduction heat transfer equation,
+Now, if we put n is equal to 0 which corresponds to rectangular coordinate, then 1 by r to
+the power 0 that becomes 1, ‘right’. So, 1 by r to the power 0 is 1. So, 
+                                                                  ,
+‘right’ so, this is for rectangular coordinate. For n is equal to 1 which is for spherical
+coordinate, we can write 
+So, this is for the cylindrical coordinate which is true with this one ‘right’ which is true
+with this one. Now for the r is equal to 2 we can write , 1
+pT r tTrk g Cr r r t        
+ 22, 1
+pT r tTr k g Cr r r t        
+1np nT Tr k g Cr r r t        
+,
+pT x tTk g Cx x t        
+, 1
+pT r tTrk g Cr r r t        
+ 22, 1
+pT r tTr k g Cr r r t        this is for spherical coordinate, ‘right’.
+(Refer Slide Time: 27:45)
+Special cases quickly let us say for constant thermal conductivity where k is constant, 
+So, ρCp/k is 1 by α, this is not α; 1/α this is for generalized condition, where alpha is k by
+rho Cp or thermal diffusivity in meter square per second, ‘right’.
+And next special case is if it is a steady state conduction with energy generate sources in
+the medium, then we can write 
+And if it is a steady state without any heat generation as well as constant conductivity,
+then we can write 1 1 pnnCT T Tr gr r r k k t t           
+10nnd dTr k gr dr dr    
+1 10nnd dTr gr dr dr k     (Refer Slide Time: 29:15)
+So, for steady state with no generation within the medium I think our time is over will do
+it in the next class will start from here, ‘right’ or we will we have ended up here and will
+do that.  
+Then for steady state heat conduction in the where no energy generation then we can
+write    and for steady state heat conduction with no generation of heat
+within the medium with constant thermal conductivity we can write 
+where, n is 0 for rectangular coordinate, n is 1 for cylindrical coordinate and n is equal to
+2 for spherical coordinate.0nd dTr kdr dr   
+0nd dTrdr dr   (Refer Slide Time: 30:15)
+Similarly, we can write for three dimensional equations that 
+And for cylindrical that is (r,θ,z), coordinate, where, T ≡ T(r,θ,z,t), where T is the function
+T=f(  r, theta, z) or you can write 
+And for spherical system we can write (r, ,θ), where, T ≡ T(r,,θ,t)
+and,                                                                                                             ,
+So, with this let us stop it here, next will come to the boundary conditions or maybe we
+give a recapitulate a little and then we will come to the boundary conditions, ‘right’
+Thank you.2 2 2
+2 2 21 1T T T Tgx y z k t          
+2 2
+2 2 21 1 1T T T g Trr r r r z k t               
+222 2 2 2 21 1 1 1T T T g Tr Sinr r r r Sin r Sin k t                           

@@ -1,0 +1,247 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 35
+Heat Transfer by Radiation (Contd.)
+ So, we are in the process of Radiation Heat Transfer, ‘right’. We have done a little on
+preamble. I do not say preamble some understanding of the radiation. If we look at more
+in a little detail and we have seen that a Stefan Boltzmann constant is one of the primary.
+So, this is lecture number 35 under radiation heat transfer. 
+(Refer Slide Time: 00:55)
+So, if you look at the electromagnetic spectrum, this is explicitly for a for understanding
+a real thing this is that this is under visible, ‘right’ visible wave length that this lambda is
+micrometer you see 10-5, to 10-4, -3, -2, -1 10, 0, there is 1, 10, 102, 103, 104. 
+So, -5 to -4 and here we are saying that electromagnetic radiation covers a wide range of
+wavelength from 10-10 µm for cosmic rays to 1010 µm for electrical power waves, ‘right’.
+Out of which you see gamma rays are within this range, -4 to -5. Then X-rays are
+between -2 to -4 in µm ultra violet rays are somewhere between say 1 to 10-2 within that
+range and between 0.1 to 1 is our visible range, ‘right’ 0.1 to 1 is our visible range out of
+which the lowest is violet and the highest is red, ‘right’.So, violet, blue, green, yellow, red, red, vibgyor, ‘right’ so, indigo is in between; so, this
+is the visible range and the thermal radiation range is within that that is 0.1 to 102 that is
+under thermal radiation. Whereas, infrared is between somewhere say 1 or a little bit low
+less than 1 to 102 or 100 and micro wave is between 102 to 103 and half, ‘right’ between
+less than 104. 
+So, this is how the electromagnetic spectrum that is looked into ‘right’. This is more than
+radiation for information so that you have the idea of the spectra of the electromagnetic
+radiation or spectrum, ‘right’. 
+(Refer Slide Time: 04:09)
+Now, let us look into a problem that a mass of gas at 600 K, ‘right’ and at 600 K, ‘right’
+this is ɛgas corrected which will come afterwards is 0.19 10 to the power one 0.19 ×1.35
+that is 0.256 which will come at the end. 
+A mass of gas at 600 K and the total pressure of 1.5 atmosphere contains 10% water
+vapor over a path length of 0.8 m. Calculate the emissivity of the gas given from a graph
+of emissivity that is E gas E g of water vapor at a total pressure of one atmosphere for the
+gas temperature of 600 K and p wL of 0.12 to be 0.19, ‘right’. So, p w is water vapor
+pressure times L, so, p wL that it is meter atmosphere which will see afterwards, ‘right’. 
+So, from a  graph of the  emissivity  so, epsilon  g versus  this  p wL we find that  the
+emissivity is 0.19, ‘right’. So, we have to find out that the emissivity of the gas becausethis Eg water vapor at total pressure of 1 atmosphere has been found out has been given
+as 0.19. So, what will be when our pressure and a total pressure of 1.5 atmosphere
+having 10% water vapor, ‘right’. 
+(Refer Slide Time: 06:30)
+So, the value which we have gotten epsilon g from the graph, ɛ g as 0.19, that is not the
+actual one because, we need a pressure correction, ‘right’. So, the partial pressure of
+water vapor in the gas mass is p w equal to 0.1×1.5 because 10 point 10% water vapor is
+equal to 0.15 atmosphere because total pressure is 1.5 out of which 10 % is water vapor.
+So, it is 0.1×1.5 is 0.15. 
+Then, the factor pwL for water vapor that becomes equal to pwL=0.15; the distance was
+0.8, ‘right’ path length was 0.8 m. So, 0.15 × 0.8 is 0.12 m atmosphere, ‘right’. Given
+emissivity is at a total pressure of 1 atmosphere. Hence a correction for pressure is to be
+done incorporated from the graph of the average of partial pressure of water and a total
+pressure of 0.825 atmosphere versus a correction factor for a value of pwL equal to 0.12
+atmosphere which is about 1.35. 
+Once we know this correction factor from the graph we can correct it as ɛ g correction =
+0.19 which is the value we obtain for 1 atmosphere and the corrected to the pressure is
+1.35. So, 0.19 ×1.35 is 0.256. So, the ɛ has become 0.256.(Refer Slide Time: 08:51)
+If you remember we had said that the value emissivity value that varies between 0 to 1,
+earlier in the last class we had said. So, it is never more than 1, ‘right’ and cannot also be
+equivalent to negative. 
+(Refer Slide Time: 09:08)
+So, after this problem let us look into this. This is also another very good example which
+in many cases we come across, ‘right’. Here we have taken a plate 1 and 2. So, this is
+plate 1, this is plate 2. Plate 1 is at a temperature of T 1 with emissivity of ɛ 1 and a area ofA; plate 2 is temperature T 2 emissivity a ɛ2 and area A and we have kept a shield, this is
+called radiation shield, ‘right’. 
+So, we have kept a shield radiating shield where both the phases they are at temperature
+T3, but emissivity’s are different at one phase it is 3, 1 and another phase it is 3, 2 this is
+this phasing 2, this is phasing 1. But, all are having the same area A because this same
+plate we are putting in all three, ‘right’. 
+So, in this case the general governing equation is 
+111
+214
+24
+1
+
+
+TTA
+Qo so much Watt and
+there been no shield, ‘right’, without shield it would have appeared like this. Now, let us
+define one factor called J or normally known as radiosity or that is the radiation emitted
+by a surface plus radiation reflected by a surface. So, emission plus reflection together is
+the J or radiosity, ‘right’. So, that J once we so, that is what here we are making J and J
+this is J1, so, J3,2; J2; J3,1, ‘right’.
+And Eb let us define that to be a black body emissive power E b. So, it is plate 1 that is E b1
+it is plate 2, Eb2 and this is the shield E b3, ‘right’. So, ɛ is the emissivity and F which
+comes here also F which is nothing, but view factor means how much is visible a view
+factor that is also very much important. That we have a plane like this out of which some
+portion is this portion is may be visible, but back side some are not visible. So, in that
+case the view factor comes in. 
+So, view factor is F 1,3 that is this F1,3 between this and F 3,2 between this, ‘right’ is assume
+to be one for large parallel plates, ‘right’. If these be true then this situation can easily be
+related as that Q quantity of heat is coming ‘right’ Q quantity of heat is coming and first
+is coming to this plate number 1. So, that we are denoting it to be this E b1 that is causing
+a resistance. So, this we can easily relate like the electrical resistance analogy or thermal
+resistance analogy, ‘right’. 
+So, a resistance equivalent to  
+111
+
+A;  
+111
+
+A ,‘right’ coming to this point J b1 then J1
+rather than another resistance or 3,11
+AF then J31 or 1,31,31
+
+A
+ then Eb3,1 that is 2,32,31
+
+A
+. Then Eb31 was this; then J1 was this; J31 was this; Eb3 was this; J32 is this one and J2 is
+2,31
+AF and Eb2 equivalent to 
+221
+
+A. So, all these distances are there and if we this is
+the electrical resistance analogy or thermal resistance analogy as we have done earlier in
+conduction, ‘right’.
+(Refer Slide Time: 15:02)
+So, if we look at the solution of it the heat transfer rate Q across the system with one
+shield because we had given only one shield this was plate 1; this was plate 2 and this is
+the shied that 
+22,32,3
+1,31,3
+14
+24
+11
+1111)(
+
+
+
+TTAQ so much of wattage.
+I  repeat  that  Q 1 that  is  that  one  surface  which  is  getting  the  heat
+
+22,32,3
+1,31,3
+14
+24
+11
+1111)(
+
+
+
+TTAQso much Watt.Which  on  simplification  can  be  written  as  
+  111111 2,31,3214241
+
+TTA, this
+happened how? 
+(Refer Slide Time: 17:12)
+If we if we simplify this one then it becomes ɛ 3,1 - ɛ3 ɛ3,1-1/ɛ3,1. So, it becomes 1/ɛ 3,1 – 1,
+‘right’. Similarly, from here this can be that 1 - ɛ 3,2, ‘right’. So, this way 1/ɛ 3,2, no the
+other way it will be; it will be like this. 
+(Refer Slide Time: 17:54)
+1/ɛ3,2 - 1; this is from here and this one also 1/ɛ 3,1 – 1, ‘right’. So, if this two minus is a
+taken care of that is how it is 1/ ɛ 1 + 1/ ɛ2 - 1and 1/ɛ3,1 from here and 1/ɛ 3,2  from here
+minus that another 1, ‘right’ this is how it came up. 
+(Refer Slide Time: 18:32)
+So, this can be now equated that Q 1 is nothing, but if there are if emissivity of all
+surfaces are equal, ‘right’ that is all surfaces emissivitys are equal that is ɛ 1 = ɛ2 = ɛ3,1
+everything all are coming equal. Then we can write if there are n number of shields
+having equal surface emissivity that will come, but if there equal then it comes to be
+equal to Q1 equal to a 
+
+224
+24
+1TTA
+ because we said all if emissivity of all surfaces are
+equal, ‘right’. So, that equal if that be equivalent to epsilon, ‘right’.
+Then this is 1/ɛ + this is 1/ɛ, ‘right’ -1 this is also 1/ɛ this is 1/ɛ 1. So, -1 - 1, 2, so, here
+we have taken 2 common here also we got 1/ɛ 1/ɛ that is 2/ɛ. Here also we got 1/ɛ 1/ɛ
+2/ɛ.
+So, 2 if we take common then 2/ɛ - 1 is the Q 1, if all have the same emissivity epsilon,
+‘right’. That is for a single emission shield, ‘right’ we had two plates in between singleemission sheet, then if they all have the same emissivity then we can write simplified for
+a of the heat transfer rate as 
+1224
+24
+1
+1
+
+
+TTA
+Q so much Watt, ‘right’.
+(Refer Slide Time: 21:04)
+Then it comes it was for a single plate emission shield, ‘right’. But, if we have N number
+of emission shields having equal surface emissivity then we can write this to be equal to
+you see for a single it was 2, 1 plus 1, ‘right’. So, then we can write for N number of that
+this is 
+1214
+24
+1
+
+
+NTTA
+, ‘right’.(Refer Slide Time: 21:53)
+So, I hope it is understandable that this 2 came to be equal to this was for 1 shield. So,
+that 1 shield can be written as 1 shield plus 1 if and there been 2 shields then it would
+have been 2 shield plus 1. So, it would have been 3, if it would have been 3 shields then
+it would have been 3 shield plus 1; that means, it would have been 4. Like that if we have
+N number of shields then it is N + 1 and this of 2. 
+So, it was (N+1) × (2/ɛ - 1) that is what is the Q N, ‘right’. So, we found out Q 1 or we
+found out QN had there been same emissivity for all the surfaces equal to ɛ, ‘right’. 
+(Refer Slide Time: 23:02)
+Now, let us look into hence the ratio of heat transfer rates for parallel plate system
+having N shields and no shield when all emissivitys are equal are like this Q N/Q is
+nothing, but 1/(N +1), ‘right’. Why it is so?
+(Refer Slide Time: 23:44)
+Because, we saw that; we saw that here it was this factor; it was this factor which is
+common in both the cases, ‘right’. It was this factor which was common for both the
+cases, ‘right’. So, this goes out, cancels out when there is a ratio. So, Q N/Q1, ‘right’ this
+was like this 1/(N +1), ‘right’. So, that is what exactly we have shown in the next page
+that is QN/Q is 1/(N + 1), ‘right’. 
+For two concentric sphere or long cylinders with for two concentric sphere or long
+cylinders with opaque surfaces having A 1 and A2 surface areas, T1 and T2 temperatures,
+ɛ1  and ɛ2 emissivity of the inner and outer surfaces respectively and assuming F 12 = 1, we
+can write, for A1 = A2 = A we can write that 
+
+
+
+
+
+
+111
+221
+14
+24
+11
+
+AATTA
+Qo, ‘right’. (Refer Slide Time: 25:29)
+So, for A1 = A2 = A, this equation reduces to the same for parallel plates, ‘right’. A 1 = A2
+= A so, this becomes 1 and this becomes A. So, it was same as for parallel plate A × ΔA
+× σ × (T14 - T24) /((1/σ1+ 1/σ2)-1), ‘right’. 
+But, if it is we said two opaque surfaces having areas A 1 and A2 surface areas. So, areas
+changed from A1 to A1 and A2 temperatures where T 1 and T2, fine, but emissivity also,
+we have ɛ1 and ɛ2 only the areas we got changed. So, our Q that became equal to A 1σ (T14
+– T24) / (1/ɛ1 + 1/A2) times (1 - ɛ2) -1, ‘right’. 
+And in earlier also we had shown that if the limiting condition is valid then that means,
+the expression is correct, ‘right’. Here what is the limiting condition? That we have
+written on the red ink red line or red ink that for A 1 = A2 = A this relation should now be
+equal to two parallel plates which we have done earlier, ‘right’. 
+So, if that be true then it becomes A 1 is A and this A1/A2  since they are same so, that
+becomes equal to 1. So, this expression e becomes the expression for the parallel plates,
+‘right’. If a radiation shield is placed between the two surfaces and ɛ 3,1 and ɛ3,2 be the
+emissivity  of  the  shield  at  the  surfaces  facing  the  inner  and  outer  surfaces  of  the
+assembly respectively; then the situation will which will come up is quite different and
+that we will find out, ‘right’. Hopefully, today whatever we have said we could have got it and since our time is now
+limited so, we will stop it here. But, in the next class we will do that if there is a radiation
+shield between them then what will be the Q and how it will be varying and maybe we
+will do some problem, so that our understanding becomes more confident, ok.
+So, thank you. 

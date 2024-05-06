@@ -1,0 +1,180 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 24
+Transient Heat Transfer (Contd.)
+So, good morning, we are on the process of continuing that transient heat conduction and
+this is the 24th class, we are attending lecture number 24 and hopefully, we will we will
+be also doing some more problems.
+(Refer Slide Time: 00:56)
+Before that let us also explain because I got from the students that in Biot number we
+said it is  𝐵𝑖 =  ℎ𝑙/𝑘 and we said that l is the characteristic length, ‘right’. If l is the
+characteristic length then for different geometries what will be the different l s, ‘right’. So,
+that  is  that  was  the question  from the  students  that  they  would  like to  have some
+explanations  or  some  elaborations  on  this  ‘right’.  So,  though  we  have  done  some
+problems earlier, but still I would like to characterize them specifically with respect to
+given geometry, ‘right’.
+So, how we can arrive at the characteristic length? So, if we would look at this the Biot
+number  which  we  have  said  is  the  ratio  between  the  conductive  and  convective
+resistance, ‘right’ and we had written Biot number Bi equivalent to 𝐵𝑖 = ℎ𝑙/k, ‘right’. So,Bi in other word can also be written as conduction resistance to convection resistance,
+‘right’, which we can write as 𝑥 / 𝑘𝐴 / 1 / ℎ𝐴 This x/ kA is the conduction resistance
+and one by hA is the convective resistance which on simplification we can write 𝑥 / 𝑘𝐴 /
+1 / ℎ𝐴 = 𝑥 / 𝑘𝐴 × ℎ𝐴 / 1So, which means this A and this A goes off and it becomes
+= ℎ𝑥 / .𝑘 
+Now, we will; obviously, say that you had said here ℎ𝑙/𝑘, but here you are saying ℎ𝑥 /
+𝑘. So, that is why we are defining that x is the characteristic linear dimension and this
+can be written as l, ‘right’ and h is the heat transfer coefficient by convection and k is the
+thermal conductivity ‘right’. So, when 𝐵𝑖 ≪ 0.1, then this the system which we have
+said earlier as lumped system is applicable, ‘right’.
+Now, let us take first case the rectangular system where the dimensions are like this. The
+2 dimensions are a and b very large compared to the third dimension t. So, through
+which, so heat will be transferred through this third dimension, ‘right’. So, heat will be
+transferred  through  this  third  dimension.  So,  this  t  what  is  the  value  that  for  the
+rectangular system that we will find out, ‘right’.
+(Refer Slide Time: 05:03).
+So, characteristic linear dimensions of different geometries, ‘right’. So, first we come the
+characteristic linear dimension of a body where L is V/A s, V is the volume and A s is the
+surface area of the body, ‘right’. V is the volume of the box which we just shown youpreviously, ‘right’. It was like this, ‘right’. It was like this and we said this is the a and
+this is the b and this was the t, ‘right’. 
+So, the characteristic linear dimension of the body or it can be said as a box as the
+volume over the surface area that is V over A s, we are writing and this is simply
+characteristic linear dimension of the plane surface like this is L is equal to t/2, ‘right’.
+This l is equal to t/2 characteristic linear dimension. Characteristic linear dimension of a
+cylinder is l is equal to r/2 and characteristic linear dimension of a sphere or ball is r/3.
+Characteristic linear dimension of a cube is l equal to a/6, ‘right’.
+So, where the; obviously, we will have subsequently show how this dimensions are
+coming, ‘right’. So, in this the t is the plate thickness which we just shown, ‘right’, r is
+the radius of the cylinder or sphere, and a is the length of the side of the cube, ‘right’,
+length or side of the cube. So, the derivations of the above characteristic lengths that can
+be given as the characteristic length for plane surface we had said to be L is equal to t/2,
+‘right’, L is equal to t/2. Now, how it is coming L is equal to t/2? Let us look into that,
+ok.
+(Refer Slide Time: 07:58).
+Here, we have taken V volume is a×b×t ok. Let us redraw it hear let us redraw it here it
+was like this if you remember, ‘right’. We said it to be a, we said it to be b, and we said it
+to be t, ‘right’. So, the volume becomes equal to a into b into t the three sides, ‘right’ and
+the surface area As that are 2at because here this side this side one this side another. So,2at, similarly this side one this side another. So, this is your 2at are these two sides of
+course, this side and that side and 2bt at this side and that side and 2ab are this top and
+this bottom, ‘right’. So, the total surface area is 2at+2bt+2ab, ‘right’.
+Since t is very small compared to a and b we can neglect t with respect to a and b, ‘right’.
+So, this 2at since t is very small compared to a and b here also. So, we can neglect these
+two terms then we get surface area A s is twice ab. So, L is volume by A s and volume was
+abt by 2ab, ‘right’. Volume was abt and surface areas 2ab volume was abt and surface
+area is 2ab. 
+So, it is equal to t/2, ‘right’. So, for a plane whose thickness is very low like this then the
+compared to this other two sides if the thickness is very small? So, we have shown how
+all the sides, all these surfaces are making total surface area and total volume. So, from
+there we have calculated the characteristic length L as t/2, ‘right’.
+Same is true for the cylinder. The characteristic length of the cylinder that can be written
+as L is equal to V over A s or this is equal to r/2. How it came 𝜋𝑟2 into L that is the area
+𝜋𝑟2  is the sectional area and L is the height or length, ‘right’. So, it was this sectional
+area and L is the length, ‘right’. So, that came to be equal to 𝜋𝑟2 into L over if this A s
+that is 2𝜋𝑟L this total surface of this is 2 𝜋𝑟L, ‘right’.
+So, we can write, we can write that L is V over A s, ‘right’. V over As, this is 𝑉 = 𝜋𝑟2𝐿,
+𝐴𝑠 = 2𝜋𝑟𝐿; ∴ 𝐿 = 𝑉 / 𝐴𝑠 = 𝜋𝑟2𝐿 / 2𝜋𝑟𝐿 = 𝑟 / 2. So, again that this will remain. So, let
+me correct that fine. So, that is how we have found out that what is the characteristic
+length dimension for the cylindrical material?
+Now, similarly for the characteristic length of the sphere we can write that  𝐿 = 𝑟 / 3, V
+= 4  𝜋𝑟3 / 3;  𝐴𝑠 = 4𝜋𝑟2;  ∴ 𝐿 =  𝑉 /  𝐴𝑠 = 4  𝜋𝑟3 / 3 / 4𝜋𝑟2 =  /3𝑟. So, the
+characteristic length of a cube like this, ‘right’, where if all the sides are a, this is a. 
+So, in that case L becomes equivalent to a by 6 how.  𝐿 = 𝑎 / 6; 𝑉 = 𝑎3; 𝐴𝑠 = 6𝑎2; 𝐿 = 𝑉 /
+𝐴𝑠 = 𝑎3 / 6𝑎2 = 𝑎 / 6. So, this is how we have shown different characteristic length for
+different geometries, ‘right’.(Refer Slide Time: 14:45).
+Now, again we go back to where we were though in the transient heat transfer where we
+have taken at the center this is the center line axis, ‘right’ between minus L to plus L is
+the thickness and heat is flowing in the x direction and both sides have convective
+boundary condition. So, on the left side it is eTk h T Tx and on the right side minus
+eTk h T Tx  remember that this side being positive, this side is negative, ‘right’.
+This is one then initial condition is T is equal to T i at time T is equal to 0 T is equal to T i
+at time T is equal to 0, ‘right’. 
+So, that is also there. Another situation can be that this center which is there this center is
+in can be acting as insulation because you see if we look at this side is nothing, but the
+mirror image of this side, ‘right’ and that is the central line. So, if that be true then we
+can also say that along this center       ‘right’ and this side is             . So,
+this is another situation.0T
+xeTk h T Tx  (Refer Slide Time: 16:48).
+Third  situation  could  be  make  mathematical  formulation  of  this,  ‘right’.  So,  that
+whatever we have written there in the boundaries we can write that in the form of 
+(Refer Slide Time: 18:12).2
+210 , 0
+0 0, 0
+0 , 0
+, 0, 0e
+iT Tin x L for tx t
+Tat x for tx
+Tk h T T at x L for tx
+and T T for t in x L     
+  
+    
+   If that be true then we can say that dimensional equation dimensionless equation we can
+say that 
+Dimensionless coordinate is X is equal to 
+You should remember that we said this is the x direction; obviously, and we said that this
+is the center line. So, 0 to L it was if it is taken 1 and if it is taken the other side then it
+was minus L, ‘right’, so minus L to plus L, but if it is 0 to L. So, at any x here at any x,
+‘right’, the capital X is small x over L, ‘right’.
+So, this is called non dimensional non dimensional length ‘right’. This capital X is
+called. Then we also have seen earlier that Biot number this was      and
+dimensionless time there is called non dimensional time that is Fourier number F o that is 
+   alpha is the thermal diffusivity in meter square per second, t is the time,
+and L is the characteristic length. 
+So, that becomes non dimensional, ‘right’ meter square per second, this is second by
+meter square. So, it is non dimensional, ‘right’. So, these non dimensional numbers will
+be very much helpful. Subsequently you will see will come across there, ‘right’.( , )e
+i eT x t T
+T T
+xXL
+hLBik
+2tFoL(Refer Slide Time: 20:35).
+Some  physical  significance  of  this  non-dimensionals  it  may  come  afterwards  also
+because the most of the time students do make mistakes where I will tell during that
+time, but since here also you are saying you see Biot number, here is hL/k. A similar
+expression is there for another number, but only the nomenclature is same, but meaning
+is different, ‘right’, nomenclature is same, but the meaning and the values are different
+what different system. So, in that case we will say there, ok.
+So, physical significance of the non-dimensional numbers are, Biot number is
+that is heat transfer coefficient at the surface of solid over internal conductance of solid
+across the length L. Non-dimensional Fourier number is Fo that is        that can
+be rearranged, hL hBikkL 
+2
+2 31
+pk L LtFoL C L t
+ 2tFoL(Refer Slide Time: 21:54).
+Here we have added here also here added 1 by L ‘right’ L square we have added so here
+we have added 1 L square in the thing ‘right’. So, here also we have added k alpha
+meaning k by rho C p, ‘right’.
+So, if we simplify alpha t by L square as alpha equal to k by rho C p, ‘right’, and if we
+make here L square here 1 by L, here L cube, ‘right’ by t this rearrangement who gives
+us that k alpha t by L square, which in other words can be said that rate of conduction
+across L in the volume L cube, ‘right’, in the volume L cube, rate of heat storage in
+volume L cube. This is the heat storage, ‘right’. So, the rate of heat storage in the volume
+L cube and this is the rate of conduction across L in the volume L cube, ‘right’. So, this
+is what is Fourier number.
+Then we can make it more dimensionless in approach that heat conduction problem can
+be written 
+2
+20 1, 0
+0 0, 0
+0 1, 0
+, 1 0, 0 1in X for Fo
+X Fo
+at X for Fo
+X
+Bi at X for Fo
+X
+and for Fo in X 
+
+
+    
+ 
+  
+
+   
+
+   So, these non-dimensional parameters we can make and accordingly we can utilize them
+subsequently, ‘right’. So, I hope that, this non-dimensional parameters, we will be using
+in subsequent classes and there you will see that unlike these analytical solutions there
+are some graphical solutions also done by somebody which we will say in the next class.
+So, today our time is over. So, thank you I think we should thank you all.
+Thank you.

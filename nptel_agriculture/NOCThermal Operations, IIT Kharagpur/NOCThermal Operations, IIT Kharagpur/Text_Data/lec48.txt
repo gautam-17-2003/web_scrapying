@@ -1,0 +1,195 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 48
+Heat Exchangers (Contd.)
+Good morning we have been doing Heat Exchangers and obviously, we have come a
+little ahead and now we shall go on to in the previous class we said that heat exchangers
+with your baffles. So, that baffles and other things when they are coming then you need
+to get the temperature difference in the right way, ‘right’.
+(Refer Slide Time: 01:07)
+So, that can be done if we are doing with log mean temperature difference, ‘right’.
+Perhaps, I am not recalling whether we started it or not; however, if we had started then
+let us recapitulate or go through it very quickly that log mean temperature difference for
+parallel flow, this is for counter flow, ‘right’.
+So, when it is for parallel and counter flow, so, what do we need that, let us take this is
+for the parallel flow and this is for the counter flow and this is for ΔT 2 this is for ΔT1.
+Similarly this is for ΔT 2 and this is for ΔT1, ‘right’ and the basic equation is dq = U(T h -
+Tc) dA, ‘right’.(Refer Slide Time: 02:21)
+So, if that be true then, let us look at how it was done, again I am not sure whether you
+did it or also not. So, quickly you are doing d q = -m h Ch dh = mc Cc dTc where h stands
+for hot and c stands for cold, ‘right’.
+So, if this is true then dT h = -dq / mh Ch and dTc = dq / mc Cc, yes I remember that this
+negative we had explained why. So, if one is minus mc b dT the other is plus m c b dT,
+‘right’. So, dTh - dTc that came to be d (T h - Tc) and that is equal to -dq ×(1/m h Ch and +
+1/ mc Cc). So, we can write d(T h - Tc) / (Th - Tc) of course, with respect to inlet and outlet
+is minus U (1/mhCh + 1/ mcCc) dA, ‘right’.(Refer Slide Time: 03:47)
+So, if this is true then, let us see integrating it we get ln ((T h2 - Tc2)/(Th1 - Tc1)) is -UA (1/
+mhCh + 1/ mcCc).
+Again assuming total heat to be transferred or total heat transferred to be q then of
+course, this q is W/m2, ‘right’ that is what we are writing here no a. So, q = m hCh × (Th1 –
+Th2) that is equal to mc Cc (Tc2 - Tc1). So, we can write m h Ch = q/ (Th1 – Th2) and mc Cc = q/
+(Tc2 - Tc1), ‘right’. So, taking the log, we can write  ln (Th2 - Tc2) this time or this one that
+we can write, this is equal to ln {(T h2 - Tc2) /(Th1 - Tc1)} this is equal to -UA which we
+got.
+Now, substituting  these with this  m c mh  Ch and mc  Cc in this equation  we get and
+rearranging (Th1 – Th2) / q + (Tc2 - Tc1) /q, ‘right’. So, ln of that is this.(Refer Slide Time: 05:33)
+So, this we can write is equal to UA (T h1 – Th2) / q minus because that minus which we
+had earlier that we have taken into inside and this is what we would like to this minus,
+‘right’ that we have taken inside. So, that is why this has become minus. So, (T h2 - Th1)/q
+– (Tc2 -Tc1)/q, ‘right’ that minus which was here has been taken inside.
+So, we can write, q u q is equal to UA × [(T h2 – Tc2) - (Th1 -Tc1)] / ln ( (Th2 – Tc2)/( Th1 -
+Tc1)), ‘right’. So, the log mean temperature difference that we can write, ΔT lm = [(Th2 –
+Tc2) – (Th1 -Tc1)] / ln ( (Th2 – Tc2)/( Th1 -Tc1)), ‘right’.
+So, this is called log mean temperature difference which is nothing, but can be written as
+we can write this is (ΔT 2 - ΔT1) / ln (ΔT2/ΔT1) normally in this for ln lmtd or ΔTlm a is
+written. So, this can also be told LMTD or log mean log mean temperature difference,
+‘right’ LMTD.(Refer Slide Time: 07:57)
+So, once we have this log mean temperature difference then we can write one more
+thing, this LMTD was what we had shown you was with respect to if this is this was the
+temperature with respect to this was for co-current and this was for counter current,
+‘right’.
+(Refer Slide Time: 08:25)
+So, if this is true then the third one which one was perpendicular to the flow, ‘right’. So,
+this was perpendicular to the flow or this was told cross flow, ‘right’. So, for cross flow
+that LMTD is not so simple. For that, it is it is seen that both plate shell and tube, plateshell and tube and cross flow heat exchangers that the flow directions may change from
+parallel to counter current flow over the whole length of the heat exchangers, ‘right’.
+(Refer Slide Time: 09:07)
+In the plate we have already said so many plates are there depending on whether this is
+co-current or counter current that will detect how much co currency counter currency is
+there in plate heat exchanger. Similarly in shell and tube will also depending on how the
+weapons have been put. So, it can be, ‘right’. So, it may change from parallel to counter
+current flow over the whole length of the heat exchanger. For this reason the log mean
+temperature has to be used with a correction factor.
+For a shell and tube heat exchangers, two dimensionless parameters or temperature ratios
+influence the correction factor F as, this one is P that is (T c2 - Tc1) / (Th1 - Tc1). Another is
+Q, ‘right’ of course; this Q is not that heat transfer. So, you can also write R in many
+cases may be this is written as R, ‘right’. So, if you are not comfortable with Q you may
+write with R, ‘right’.(Refer Slide Time: 10:27)
+Similarly, if it is not then you can write P and R, ‘right’ ok. So, if R = (T h1 - Th2)/(Tc2 -
+Tc1) and product of PR is (T h1 - Th2)/(Th1 - Tc1).
+ (Refer Slide Time: 10:59)
+So, with this correction factors for the output of the heat exchanger, we can now try with
+a problem whether this is coming or not. Very quickly, moist air is heated from 30 to 70
+°C by hot water which temperature changes  from 90 to 80 °C. Determine  the true
+temperature difference, if the heat exchanger is the following type one is pure parallelflow another is pure counter flow third is average temperature difference and fourth is
+pure cross flow, ‘right’.
+So, from the LMTD definition we know (ΔT 2 – ΔT1) / ln(ΔT2/ ΔT1) and we have been
+given Th1 90, Th2 80, Tc1 30 and Tc2 70, ‘right’. So, in that case we can find out for
+parallel flow; obviously, parallel flow that ΔT 1 and ΔT2 will not be identical with the
+counter current, ‘right’.
+So, for parallel flow we find out T h1 is 90 Tc1 is 30. So, ΔT1 is 60 and Th2 is 80 Tc2 is 70.
+So, ΔT2  is 10°. So, by putting in the formula we get ΔT m = (10 – 60) / ln(10/60) that is
+27.9 °C, ‘right’.
+(Refer Slide Time: 12:43)
+So, if it is 27.9 °C then, for counter flow again that T h1 is 90, Tc2 is 70. So, ΔT1 is 20 and
+Th2 is 80 like this, ‘right’ and T c1 is 30. So, ΔT2is 50 °C. So, ΔTmean from that we get (50 –
+20)/ ln(50/20) is 32.7 °C for counter flow, ‘right’.
+An average  hot  temperature  is  (90  +  80) /  2  that  is  85  °C.  An average  moist  air
+temperature or cold temperature is (30 + 70)/2 that is 50 °C. So, average difference is (85
+– 50) that is 35 °C, ‘right’. So, this is very close to the counter flow because 35 °C and
+this was 32.7 °C, ‘right’.(Refer Slide Time: 13:53)
+So, if we look at the third one this is the third of course, the forth one that is cross flow
+then we need the correction factor. Correction factor for pure cross flow F = ΔT mean/
+ΔTmean,cf that is counter flow. So, we get ln ((1- P) / (1 – QP)) or Q is replaced by R,
+‘right’ and this Q is replaced by R that is (R – 1) ln of ln (R/ R + ln (RP)), ‘right’.
+(Refer Slide Time: 14:39)
+So, we can rewrite in place of Q, we are writing R, here also R, here also R, and here R
+and here also R, ‘right’. So, this is the correction factor, where this P= c 2 (Tc2 - Tc1) / (Th1- Tc1), ‘right’ and this Q is replaced by R so that is (T h1 - Th2) / (Tc2 - Tc1) and RP or PR is
+(Th1 - Th2) / (Th1 - Tc1).
+(Refer Slide Time: 15:23)
+So, if this is known then let us put the values and if we put the values we get, P is equal
+to we get P = (70 – 30) / (90 – 30) that is 0.67 and Q = (90 – 80) / (70 – 30) is 0.25. So,
+for the Q or R sorry this is r, ‘right’ so instead of Q this was R.
+So, we can write F = ln {(1 - 0.67) / (1 - 0.1675)}, ‘right’ that is P × R = 0.1675 and this
+divided by (0.25 – 1) ln (0.25/(0.25 + ln(1- 0.167)). So, this comes equal to -0.925/ -
+0.991. So, that is 0.933, ‘right’. So, the mean temperature difference is Δt mean is F × Δtm,cf,
+‘right’. So, that is 0.933 this one times 32.74 is 30.7 or 30.54.(Refer Slide Time: 17:07)
+So, we see that counter current is the most realistic and it is coming almost closer to the
+normal average, ‘right’.
+(Refer Slide Time: 17:27)
+So, like this if you do problems with other temperature sources or other temperature
+distributions that will be very good for you. Now I give you a problem, but this problem
+cannot be solved very easily, ‘right’. This can only be solved if there are trial and error
+methods involved, ‘right’. So, it is like this determines the length of tubes of a two-way
+pass 10 tons of refrigeration, ‘right’.So, single pass is like that and this is the inlet and this is the outlet and another fluid
+flowing like that. So, in that case this would have been a single pass, ‘right’. So, two
+way-pass means it will have two pass. So, two way-pass 10 ton of refrigeration TR
+means tunnels of refrigeration shell and tube water cooled condenser. 
+Now, these condensers are used in different cold stores and many other cold units,
+‘right’. So, there the other day we had said that you are vapour which is getting that the
+there are some the some heat exchangers which we said as vapour is coming out, ‘right’
+and evaporative condenser that which said and this is another condenser.
+(Refer Slide Time: 19:31)
+So, where it is with respect to the water or cooling medium or and heating medium both
+are liquid medium, ‘right’. So, by two-way partial and their 10 TR shell and tube water
+cooled condenser with 48 tubes arranged in 12 columns and R22 as refrigerant. The heat
+rejection ratio which I will tell afterwards after this that heat rejection ratio is 1.3, ‘right’.
+The condensing temperature is 40 °C. The water inlet and outlet temperatures are 23 and
+30 °C respectively.
+The  tube  inner  and  outer  diameters  are  12  and  14  mm  respectively.  The  average
+properties of the refrigerant and water which are taken for this problem are. For water,
+mu w is 7.5 µ at the wall is 7.5 × 10-4 kg/m.s, kw that is thermal conductivity is 0.7
+W/m.K or °C, ρw density of water is 1000 kg/m3, cpw or specific heat of water is 4.2
+Kh/kg. °C or Kelvin, 1/h s is 0.000176 m2.K/W or m2. °C/W.And Knudsen number = 0.023 Re0.8 Pr0.4, ho outside heat transfer coefficient is 0.725 [k f3
+ρf2 g hf g / (N do µf Δt)] this t can be written as this ΔT capital.
+(Refer Slide Time: 21:53)
+So, that temperature is probably set to the power point 0.25. So, other properties values
+for R22, these are the relations µ w or viscosity of the of the refrigerant at the wall is 1.8
+×10-4 kg/ms, krf refrigeration refrigerant thermal conductivity is 0.08 W/m.°C or Kelvin
+ρrf that is the density of the refrigerant is 1100 kg/m3 and hf g is 165 kJ/kg that is this is
+heat of this is latent heat of either condensation or vaporization, ‘right’.
+So, hf g and k of copper is 390 W/m.K because, the this is made of copper, ‘right’ this is
+made  of copper  I  do did  we write  anywhere,  outer  average  refrigerant  condensing
+temperature no it is not written but normally the coils are made of copper if it is inside
+and we have taken R22.(Refer Slide Time: 23:27)
+So, it can be easily copper, if it is if it would have been not R22 say ammonia then you
+cannot use copper because ammonia is very corrosive. So, there you cannot use copper,
+there you have to use mild steel or some other, but since R22 or refrigerant 22 that is
+chlorofluorocarbon is used.
+(Refer Slide Time: 24:01)
+So, you can use copper as the as the element or metal for the evaporators or condensers
+to be build up, ‘right’. So, that is why the conductivity of copper is given as so high 390
+W/m.K. So, this problem I wish you do and to do this, you will see some things somedelta t may be may be refrigerant temperature and the difference of TPO, ‘right’ these
+are not given.
+(Refer Slide Time: 24:29)
+So, maybe you have to use it has trial and; that means, you have to assume and then do
+the calculation. So, that type of thing it may require, but as I said I have to say one thing
+that is the heat rejection ratio of 1.3, what is that? 
+So, if we say that heat rejection ratio then you try yourself to solve because some of the
+relations  we  have  already  said  and  Knudsen  number  you  may  need.  Outside  heat
+transferred coefficient some inside it surface heat transferred coefficient has already been
+told. So, we can use this and we can now go to see what is the heat rejection ratio?
+‘right’.(Refer Slide Time: 24:47)
+So, heat rejection ratio is like that that heat rejection ratio is like that it is the ratio of heat
+rejected to that of heat absorbed, ‘right’. It is the ratio of heat rejected to the heat
+absorbed, ‘right’ how much it has given how much it has absorbed.
+So, this ratio is the heat rejection ratio, ‘right’ very useful in condenser, evaporators there
+because that unless you know the heat rejection ratio, you will not be able to find out
+many parameters. So, the heat rejection ratio is nothing, but ratio of heat rejected to the
+heat absorbed for a fixed evaporator temperature, ‘right’.
+That is t evaporator is fixed, ‘right’ is equal to constant, ‘right’ if that be true as the
+condenser temperature increases the COP decreases, ‘right’. This we can see more if we
+are looking at some other course that is more related to your cooling technology for food
+materials. So, there it is said in detail, ‘right’ so; however, that the COP decreases
+keeping  the  evaporator  temperature  condense  constant  if  the  condenser  temperature
+increases, the COP decreases and the heat rejection ratio increases whereas, for a fixed
+condenser  temperature  as  the  evaporator  temperature  decreases  the  cop  decreases,
+‘right’.
+And the heat rejection ratio increases, ‘right’. So, in that case we can say that heat
+rejection ratio are can be said as Q c / Qe where Qc is the quantity of heat rejected by the
+condenser and Qe is the quantity of heat absorbed by the evaporator because in the cold
+store what is happening evaporator is absorbing heat and condenser is rejecting heat,‘right’ this is how the this works evaporator is rejecting absorbing heat and condenser is
+rejecting heat.
+(Refer Slide Time: 28:31)
+So, that is why this ratio came Q c over Qe and we know from the first law that Q e is Qc =
+Qe + Wc how much work the compressor has done that is W c.
+So, Qe + Wc. So, Qc is replaced by Qe + Wc and denominator is Q c Qe so, ‘right’. So, it
+comes to that Qe Qe is 1 + Wc / Qe. Now, Wc / Qe is nothing, but inverse of COP. COP is
+nothing but Qe / Wc. So, it is inverse of COP that is W c / Qe, ‘right’.
+(Refer Slide Time: 29:37)
+So, rejection ratio R is 1 +1 + 1 / COP. So, this if you keep in mind and progress
+accordingly and may be if you are not able to, in some other class I will try and solve it,
+but may be this solution itself will take one whole class, ok.
+Thank you.

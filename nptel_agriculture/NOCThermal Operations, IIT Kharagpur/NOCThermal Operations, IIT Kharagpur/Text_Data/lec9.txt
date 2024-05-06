@@ -1,0 +1,221 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 09
+One Dimensional Steady State Heat Conduction
+ 
+So, good morning in the earlier class last class we had finished it up to that conduction
+heat transfer through a slab One Dimensional Steady State with say constant energy
+generation and constant conductivity. So, we came to the solution after integration of
+both the of the differential equation by integrating twice we got two constants C 1 and C2
+and we were supposed to solved for C 1 and C2, ‘right’. 
+But, we also said to solve the two bound, two constants, C 1 and C2 we need to have 2
+boundary conditions, which can be any one of prescribed heat flux boundary, prescribe
+temperature  boundary,  or  prescribed  convective  boundary.  Any  one  of  these  or  in
+combination we need two boundaries to solve them, ‘right’. So, now, let us do a problem
+and solve that ok. So, it is like that in this is one dimensional steady state heat conduction
+continuation in lecture number 9, we come to this that the problem is defined like this.
+(Refer Slide Time: 01:57)
+A  solid  slab  having  constant  thermal  conductivity  of  thickness  L  is  maintained  at
+constant, but different temperatures T 1 and T2, at the boundary surfaces at x =0 and x=L
+respectively. There is no heat generation in the slab. What is the expression for thetemperature distribution T(x) in the slab? And, develop an expression for heat flow Q
+through an area A of the slab. 
+I repeat, the problem is like this a solid slab having constant thermal conductivity of
+thickness L is maintained at constant, but different temperatures T 1 and T2; that means,
+both the sides one side T 1 and another side T 2 at the boundary surfaces at x =0 and x= L
+respectively. There is no heat generation in the slab. What is the expression for the
+temperature distribution T(x)? You remember we came to the solution that T(x) is equal
+to this plus C1 and C2 this was our solution. 
+So, C1 and C2 was not evaluated, because boundaries were not given, but now our two
+boundaries  are  given  one  is  prescribed  temperature  boundary  and  another  is  also
+prescribed temperature boundary, that is boundary surfaces is at T 1 at x =0 and TL at
+x=L, ‘right’. As, then we have we have to find out that temperature distribution T(x) in
+the slab as well we have to also find out the expression for the heat flow Q through an
+area A of the slab, ‘right’. So, we start with that now here what do we have? We have the
+our situation is steady state; that means, the, ‘right’ side is 0, then we have no internal
+energy generation, because it is not specified unless it is specified, we can assume that no
+internal at energy generation. Because at there been internal energy generation or internal
+heat generation, then it would have been specified since it is not specified we can assume
+that there is no generation of heat number 2 and number 3 is that conductivity k is
+constant, ‘right’.
+In that case if all these three are true, then we can write the generalized equation from
+that for the slab 
+The reason being it is a steady state, there is no energy generation and the conductivity is
+constant, then we have written like this, ‘right’. Now, we let us go into it is solution.2
+2
+1
+2( )0 0
+( ) 0
+, ( )d T xx L
+dx
+T x T at x
+and T x T at x L  
+ 
+ (Refer Slide Time: 06:21)
+The solution of it can be written that on integration we can write, first integration T(x) is
+equal to something this is, ‘right’ and this is C 1x and then T(x) is equal to C 1x + C2,
+‘right’. So, if that be true, then we can because first one came as the integration of
+d2T(x)/dx2, it became dt/dx is equal to constant C 1 and next integration it came T(x) is
+equal to C1x plus C2, ‘right’.
+And, we are given at x is equal to 0 that is the boundary at x =0, T(x) =T 1, ‘right’. If, that
+be true at x =0 T(x) =T 1, then we can easily write that x =0, ‘right’ that you takes x =0,
+T0 is T1, ‘right’. And, then we can write that this x is to 0 means this is 0 and this is T 1.
+So, C2 is T1 not 0, it should be C 2 is T1, ‘right’.
+And, at x =L, T(x) =T(2), ‘right’. So, we can write this is C 1 is we have now we are
+substituting. So, it is C 1 we have to find out, so T is T x is T2; T2 is this equal to this one
+becomes C1, C1 L, ‘right’ and this is becoming T 1, ‘right’. So, we can write C 1 is equal to
+this is (T2 -T1)/L is C1, ‘right’ because this is not C 2 is equal to 0 this was by mistake it
+was written. So, in many cases this may be purposefully made the mistake.
+So, that you can identify, because it should it should click you that there is something
+wrong in it, ‘right’. So, here I that is why I am explaining that on integration we got T(x)
+is C1x + C2 how you got it? We got it from here that d2T(x)/dx2 is 0, on first integration
+we got dT(x)/dx equal to C1, ‘right’. And, on second integration T(x) is equal to C 1x + C2,
+which we wrote in once in one shot, ‘right’.So, this is on the integration and to solve this two C constant C 1 and C2, we need 2
+boundaries. 2 boundaries already given T(x) is T 1 at x =0 and T(x) is T 2 at x =L. So, if
+that be true in the first case at x equal to 0, T(x) is T 1, so; that means, here it is T 1 and x is
+0. So, this goes off zone; that means, C 2 is T1 not 0, ‘right’ this is T 1.
+And, at x equal to L, T(x) is T 2 that is the boundary given. So, we can write and
+substituting at x is equal to L, so this is C 1 L, C2 is T1 and this T(x) has become T 2,
+‘right’. So, we can write C 1 is equal to this (T 2 -T1)/L. So, we can substitute C 1 and C2
+here we get T(x) is equal to (T 2 -T1)x/L+C1, ‘right’. 
+So, this x by L came because this C 1 is (T2 -T1)/L. So, (T2 -T1)x/L+T1 is T(x). So, as you
+were said in the problem find out the temperature distribution T(x) in the slab, ‘right’.
+So, which we have found out that the C at T(x) that is temperature distribution in the slab
+is (T2 -T1)x/L+T1, ‘right’.
+(Refer Slide Time: 12:01)
+Now, we need to find out q to find out q we need to first differentiate that was on first
+differentiation integration we get 
+2 1 1 2( ); ,dT x T T q T Tor q k
+dx L k L    1 2T TAk
+L
+1 2 1 2
+1 2, ,RT T T T TQ AkLLAk
+where T T T anL
+AkdR     
+   Now, let us see another problem, ‘right’. A fluid at a temperature of T e1 with a heat
+transfer coefficient h 1 flows over the surface at x =0 of a slab of thickness L. Another
+fluid at a temperature of T e2 with a heat transfer coefficient h 2 flows over the surface of
+the slab at x =L. Derive an expression for the heat flow capital Q through an area of A of
+the slab. 
+And, also calculate the heat flow transfer rate through A is equal to 1 m2 of the slab for
+Te1 = 150ºC, Te2=25 ºC, h1=300 W/m2ºC, h2=600 W/m2ºC and L is 5 centimeter and k of
+the material is 16 W/mºC, ‘right’.
+So, this tells that we have a slab and one side is a convective boundary condition and
+another side of this slab is the another convective boundary condition where it is a T 1 Te1
+or Te1 and this is Te2 with a transfer coefficient of h 1 and h2, then we have to find the
+solution and the accordingly was the solution is over obtained the problem numeral can
+also be solved, ‘right’.
+So, a fluid at the temperature of T e1 with a heat transfer coefficient of h 1 close over the
+surface at x equal to 0 of a slab of thickness L. Another fluid at a temperature T e2 with
+the heat transfer coefficient h e2 flows over the surface of this slab at x equal to L. Derive
+and expression for the heat flow Q through an area A of this slab, also calculate the heat
+flow transfer rate through A is equal to 1 meter square of the slab for T e1 is equal to 150degree centigrade, T e2 is equal to 25 degree centigrade, h 1= 300 W/m2ºC, h2= 600 W/
+m2ºC, L is equal to 5 centimeter, k is 16 W/mºC. 
+So, if you remember in the previous class, we had shown that let me also draw this a
+little rate, that we had say this one and we also had say this one and we said that Q is
+flowing through this and a resistance over it was there, ‘right’, this was the resistance R,
+‘right’. So, and that resistance was equal to L/ Ak, ‘right’. So, now, if we do this solution
+on  the  basis  of  thermal  resistance  concept,  if  we  solve  it  on  the  basis  of  thermal
+resistance concept, then the solution becomes much easier it is not analytical solution
+earlier equation we have done analytical solution.
+But, here we can use analytical definitely and that can be having the same answer, but
+much more easier because if there is no internal energy generation number 1, number 2
+the conductivity is constant, number 3 it is a steady state. So, if all these three are
+prevailing, then the electrical resistance concept or thermal resistance concept we can do,
+‘right’.
+So, the solution is like that, we shall we use thermal resistance concept, because in this
+case there is no internal energy generation. As it appears from the figure that the heat Q
+is flown by convection from the fluid to the surface of the slab at x=0, by conduction
+through the slab and by convection from the surface at x =L to the fluid 2 for example,
+this, ‘right’.
+(Refer Slide Time: 21:09)
+So, one side this fluid is flowing with a heat transfer coefficient of T e1 and at heat
+transfer coefficient of h 1, with a temperature T e1 of the fluid coming to this surface.
+Surface temperature is T 1 and then it is getting conducted through the material to the
+temperature T2 and then getting dissipated through a fluid with heat transfer coefficient
+of  h2 at  a  temperature  of  T e2,  ‘right’.  Which  if  we  draw  according  to  the  thermal
+resistance, then Q quantity of heat is coming to this place that is here, ‘right’ up to this it
+is coming outside. 
+And then we have a heat resistance according to the fluid properties that is 1/Ah 1 coming
+to the point T1 where it is having a metal thermal or material thermal resistance there is
+L/kA. So, like this coming to the point this, where another fluid with their resistance
+according to the temperature and environment condition that is that is your h that heat
+transfer coefficient, it is 1/Ah 2. So, this resistance coming to this outer side and the same
+Q is going out, ‘right’.
+So,  this  is  called  thermal  resistance  concept.  One  resistance  is  here,  ‘right’,  one
+resistance is here, another resistance is through this, another resistance is through this
+these are the three resistances corresponding to 1/h 1, L /kA and 1/Ah2, ‘right’.
+(Refer Slide Time: 23:25)
+Then, we can solve we can write  1 2 21 21 2 2e e eT TQ Ah T T Ak Ah T T
+L    These are the three resistances flowing through the whole system where Q quantity of
+heat is flowing, ‘right’.
+Now, these three terms if we add by adding the numerators and denominators we get Q is
+So, we can get capital Q where, but here we are not finding temperature, because all the
+temperatures  are already  given. That ambient  temperature  or outside temperature or
+environmental temperature is given, then we are also given that ambient temperature
+both side and the surface temperatures are also given.
+So, if the temperatures are given then we have to find out the quantity of heat Q flowing
+through them, ‘right’. And, we have found out an expression based on the thermal
+resistance concept Q has become 
+(Refer Slide Time: 26:47)
+So, from and this quantification which we have seen that quantification can be written as,
+if area of the slab is A, the heat transfer rate through the A can be written as the Q is 2 1 211 2
+1 21 1e eT T T TT TQL
+Ah Ak Ah   
+1 2
+1 21 1e eT T
+QL
+Ah Ak Ah
+
+ 
+1 2
+1 21 1e eT T
+QL
+Ah Ak Ah
+
+ 
+1 2
+1 21 1,e e
+tot
+totT T
+q
+R
+Lwhere R
+Ah Ak Ah
+
+  So, which if we substitute the numeral values where this A was given as 1, h 1 was given
+as 300, h2 was given as 600, and k was given 16 and length was given 0.05, ‘right’. So, 5
+centimeter so, 0.05 meter, so we can rewrite that as 1 by 1 into 300 plus 0.05 by 1 into 16
+plus 1 by 1 into 600, ‘right’. 
+So, these on simplification or calculation comes to be 8.125 into 10 to the power minus 3
+watt per degree centigrade per watt, it is not watt per degree centigrade it is degree
+centigrade per watt since it is the resistance, ‘right’ degree centigrade per watt. You
+remember we had said that this resistance equal to that q is equal to delta T by R, ‘right’,
+delta T is in centigrade q is watt and this resistance is the delta T is degree centigrade.
+So, resistance becomes equal to delta T that is degree centigrade by q that is watt. So,
+degree centigrade by watt is the resistance; so, which we have come across as 8.125, 10
+to the power minus 3 degree centigrade per watt.
+you will also you should also make yourself this solution or calculations, so, that you can
+check whether the number is correct or not because I may also do some calculative
+mistake, but through calculation.
+So, you do also yourself this will type your problem and see it is solution, ‘right’. With
+this we conclude to this class, next we will go may be a continuation of this slab and
+another solution some problem solution also to be done. So, that if you solve more and
+more problems, you are much better off or you really understand the principles lying
+over it, ‘right’.
+Thank you.1 2
+3
+31 1 1 0.05 1
+1 300 1 16 1 600
+8.125 10 /
+150 25, 15.384
+8.125 10tot
+oLR
+Ah Ak Ah X X X
+X C W
+and Q kW
+X
+     
+
+ 

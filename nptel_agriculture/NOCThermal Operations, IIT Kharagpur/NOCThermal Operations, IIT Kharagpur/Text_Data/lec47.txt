@@ -1,0 +1,172 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 47
+Log Mean Temperature Difference
+So, good morning. We were discussing about the Log Mean Temperature Difference. So,
+we were in the beginning of that derivation of how the log mean temperature difference
+for co-current, counter current are to be determined, how the expression is developed
+based on the heat transfer equation s. So, that we are continuing here, ‘right’. So, this is in
+lecture number 47, we are doing log mean temperature difference, ‘right’.
+ (Refer Slide Time: 01:10)
+So,  let  us  quickly  look  at  where  we  were   that  is  we  started  here  that  log  mean
+temperature difference I am not going to emphasize again on this. This was for counter
+current and this was for co-current and this is the general equation; general equation for
+heat transfer, ‘right’.
+(Refer Slide Time: 01:30)So, that we had taken to dq is m -mh Ch dTh, from there we came to the point that dT h of,
+we came to the point that dT h of rather d(Th - Tc) / dTh - Tc  we said that this cannot be;
+this cannot be taken of the reason being one is that is 1 and other is 2, that is why that
+either 1 and 2, depending on whether it is 1 and 2, this cannot be taken up. That was
+made equal to -U because that dq was in terms of U, -U (1/mhCh + 1/mcCc) dA. This is
+where perhaps in the last class we had stopped, ‘right’.
+(Refer Slide Time: 02:39)
+Now, if you look at this expression we can say that integrating this that dT h - dTc - Tc
+over dTh over Th - Tc, ‘right’. If we integrate and put the limits and limits where 1 and 2,that is inlet and outlet, ‘right’. So, inlet and the outlet, if we do that, we can say that ln of
+that sorry ln of that that ln ((Th2 - Tc2) / (Th1 - Tc1)) is that expression, ‘right’.
+So, this is equal to minus UA (1/mhCh + 1/mcCc), ‘right’. Now, assuming that total heat
+transferred be q, assuming total heat transferred be q, then q = mhCh × (Th1 - Th2) that is
+mass mc ΔT, ‘right’. From this, we can write this for the hot fluid and for the cold fluid
+we can write mcCc (Tc1 – Tc2). Here also that at m c Δc same thing we are writing, ‘right’.
+So, in both the cases here you see you can say earlier we had written minus, but here it is
+there is no minus because we have taken care of the due minus T hot to 1.
+(Refer Slide Time: 04:33)
+If 1 is inlet and 1 is inlet and 2 is outlet if that from is implemented here, then this (Th1 -
+Th2) = ΔT and this is the + ΔT; that means, h1 to h2 it is decreasing. Whereas, this is T c2 -
+Tc1, cold fluid 1 which was entering is less than cold fluid 2 which is exiting is higher,
+‘right’. So, Tc2 - Tc1 is also a positive one. That is why there is no negative sign. So, m h Ch
+we can write this to equal to q / (Th1 - Th2) and mc Cc can be written as q / (Tc2 - Tc1) from
+this relation, ‘right’.
+Therefore, if we take the log we can write this equation ln (Th2 - Tc2) / (Th1 - Tc1) which
+was equal to minus UA that 1 /mcCc and mh Tm h Ch that we are now replacing, ‘right’,.
+So, that is equal to  (Th1 - Th2)/q  + Th (Tc2 - Tc1)/q, ‘right’. So, this is that. So, we are
+replacing this with that 1 /mhCh + 1/mcCc with this, ‘right’.(Refer Slide Time: 06:40)
+Then, we can further simplify it and already we have this side ln, so we can further
+simplify and write that is equal to UA sorry that is equal to UA {(Th2 - Tc2)/q - (Tc2 - Tc1)/
+q}. The reason being you see that earlier in the earlier slide we had shown that this U
+was written negative, ‘right’ So, that negative we are taken care of by introducing it
+inside and this is now minus, ‘right’. So, we can write q = UA {(Th2 - Tc2) - (Th1 - Tc1)},
+over all ln {(Th2 - Tc2) / (Th1 - Tc1)}, ‘right’. So, q is equal to this we can write.
+Hence, log mean temperature difference that can be written as ΔT lm is nothing, but this
+part, ‘right’ and this part is (Th2 - Tc2) – (Th1 - Tc1) / ln {(Th2 - Tc2) / (Th1 - Tc1)} that is the
+log mean temperature difference, ‘right’. Then, we can rewrite and say that this is the log
+mean temperature difference, where it is T h2 - Tc2 sorry, it is Th2 - Tc2; and Th2 - Tc2 ok.
+(Refer Slide Time: 08:46)Let us look into really this is one, this is another, ‘right’, so T h1 and this is Th2 and this is
+Tc2 and this is Tc1, ‘right’. And this T h1 - Tc1 is this one and Th2 - Tc2 is this one, ‘right’. So,
+this is what? Say we say ΔT 2 and say this is ΔT1 ln (ΔT) it is 2 - Tc2 / Tc, Th1 - Tc1.
+ (Refer Slide Time: 09:39)
+Now, this can be simplified and written as T, that ΔT lm or let us write here ΔT lm  is equal
+to this we can write ΔT 2 and this we can write ΔT 1 over 1n of this we can write ΔT 2 and
+this we can write ΔT 1.
+So, if properly they are written or the nomenclature is given, rightly then we can say that
+LMTD is (ΔT2 - ΔT1) / ln (ΔT2/ΔT1) or the vice versa that ΔT lm can be written as (ΔT1 -ΔT2) / (ΔT1  - ΔT2) sorry, over ln  (ΔT1/ΔT2), ‘right’. So, this can be properly written,
+‘right’. 
+You see, if ΔT2 is low or less then ΔT 1, so there will be negative, but here that will also
+be taken care off. So, here also you have ΔT 2  < ΔT1, the value which will come of ln
+which you will have all negative so this negative and that negative will go off, ‘right’.
+So, this is how ΔTlm we can write.
+(Refer Slide Time: 11:32)
+Now, again it comes another important thing is that LMTD correction factor. The earlier
+which we have shown that LMTD, that LMTD was ΔT lm and whatever we had written
+that was true for counter current or co-current, ‘right’. But if it is a cross flow like this,
+‘right’, if it is a cross flow then it is not that is easy to find out for that there is a
+correction factor for LMTD which has to be introduced. And what is that? So, it was
+shown in plate shell and tube and cross flow heat exchangers that, the flow directions
+may change from parallel to counter flow over the whole length of the heat exchangers.
+For this reason, the log mean temperature has to be used with the correction factor, for
+shell  and  tube  heat  exchangers  two  dimensionless  temperatures  ratios  influence  the
+correction factor F as P = (Tc2 - Tc1) / (Th1 - Tc1) and Q = (Th1 -Th2) / (Tc2/Tc - Tc1) and a
+product of QP is (Th1 -Th2) / (Th1 - Tc1) where all these T’s are in Kelvin, ‘right’ So, if youlook at how it is proceeding that the correction factors F, how it is proceeding we can get
+it from solving problem, ‘right’.
+ (Refer Slide Time: 13:46)
+It  is  like  this  that,  moist  air  is  heated  from  30  ° C  to  70  °C by  hot  water  whose
+temperature changes from 90 to 80 ° C. Determine the true temperature difference if the
+heat exchanger is of the following type. Number 1, pure parallel flow, number 2, pure
+counter flow, number 3, average temperature difference and number 4 pure cross flow
+with one row of tubes. So, there is no multiples, nothing, nothing single, ‘right’.
+So, I repeat moist air is heated from 30 to 70 ° C by hot water whose temperature changes
+from 90 to 80 °C. Determine the true temperature difference if the heat exchanger is of
+the following type, a pure parallel flow, or pure counter flow or average temperature
+difference and pure cross flow with one row, ‘right’. So, first let us try with the parallel
+flow, ‘right’.
+So, if the parallel flow means as we have shown this is the axis, this is the length axis,
+this is the temperature, ‘right’. Then the flow direction is like this, ‘right’. And we had
+taken a volume element from where why extension we have done this equation, ‘right’.
+So, we got LMTD was equal to delta T m or normally mean or log mean it is written lm.
+So, it is (ΔT2 – ΔT1) / ln (ΔT2/ ΔT1). And in this given problem, we have been given T h1 is90 °C, Th2 is 80 °C for hot fluid and T c1 is 30 °C and Tc2 is 70 °C for moist air or we can
+write cold fluid, ‘right’.
+(Refer Slide Time: 16:42)
+So, if this is true, then we can write for parallel flow T h1 = 90°, Tc1 = 30°, so ΔT1 = 60°.
+So, Th1 = 90°, Tc1 = 30°, so this is the ΔT 1, ‘right’. And Th2  is 80°, so this one is 80° and
+Tc2 = 70°, so this one is 72°. So, their difference is ΔT 2 = 10 °C. So, that ΔT1 came to be
+60 and this ΔT2 came to be 10°.
+(Refer Slide Time: 17:51)
+Then ΔTmean or log mean we can write is 10 that T 2 ΔT2 – ΔT1. So, 10 - 60, ‘right’. Let us
+erase. (10 – 60) / ln (10 / 60), ‘right’. So, (10 – 60) is -50 and if you take 10 / 60 that is 1
+/ 6 ln (1/6) that will have some value with negative. 
+So, this two negative will go off and ΔT lm as come up to be 27.9 ° C. This you can also
+check with your calculator, ‘right’. Since, we have cannot do it here with the calculator
+were perhaps we can also do, but yes let me check whether we have, yes, we have a
+calculator here.
+(Refer Slide Time: 18:42)
+So, if we have a calculator here. So, we can write view scientific, yes. So, if that be true
+then if we see this, ‘right’, we can say that this was 10 minus this will go. So, 10 - 60 that
+was minus 50 over again 10 / 60. So, you see this has become 0.2166. And if we take its
+ln then it is -1.0. So, earlier we had -50 on the numerator, so dividing this becomes 27.9°,
+‘right’. So that means, we have, ‘right’ly are correctly done which you also have seen it
+we have checked it, ‘right’. So, 27.9  °C is the ΔT log mean for parallel flow. 
+(Refer Slide Time: 20:05)For counter flow we can write here. So, this is the flow direction, this is the flow
+direction, ‘right’ and this is T h1, this is Th2, this is Tc1, this is Tc2, a T vs L plot we have,
+‘right’. So, in that since T h1 is 90, Tc2 is 70. So, Th1 is 90, Tc2 is 70 and ΔT1 we can write to
+be 90 - 70. So, this was 90 and outlet of c told was 70, so ΔT if we say one that ΔT 1 is 20,
+‘right’. Similarly, T h2 is 80, that is Th2 is 80 and Tc1 is 30. 
+So, Tc1 is 30, so ΔT2 that is this one is 80 - 30 that is 50, ‘right’ that is 50. So, 50 and 20 is
+correct. Now, we can write ΔT log mean ΔT lm = (50 – 20) / ln (50/20). That is, if we
+again see that with the help of a calculator, if we again see then we can see that 50 - 20 is
+equal to 30, ‘right’ divided by, so we have 50 /20, ‘right’. This will be taken ln, so that is
+this one. So, if we divide, so that is 32.7, ‘right’.(Refer Slide Time: 21:57)
+So, we got 32.7 as the ΔT log mean for counter current, ‘right’. So, for counter count we
+got 32.7 °C as the log mean temperature difference, ‘right’. Now, third one was available
+temperature. So, average temperature of the hot fluid is what? So, this was T h1 and this
+was Th2. So, Th1 was 90 and Th2 was 80. So, average of that is 85 ° C. So, average
+temperature of the inlet or fluid is 85 ° C.
+(Refer Slide Time: 23:29)
+Similarly, average of the cold fluid is this was exit 30° inlet was sorry inlet was 30, exit
+was 70. So, 70 + 30, 100 / 2 is 50 °C, ‘right’. So, we have inlet 85 exit 50. So, (85 - +50)/
+2 that is or we can say simply already we have done that average.
+(Refer Slide Time: 24:05)
+So,  this  can  be  the  average  temperature  is  average  delta  T,  average  temperature
+difference is ΔT 85 - 50 that is 35 °C, ‘right’. 35 °C is the average temperature difference
+because we have taken the average of the in hot fluid, we also have taken the average of
+cold fluid. So, the difference is the average of the hot and cold fluid, ‘right’. So, that is
+what average temperature we have seen.(Refer Slide Time: 24:56)
+Then it is remaining that is 4th. Fourth one was that what is the temperature for LMTD.
+For the cross flow cross now for flow we have F = ΔTlm or mean over ΔTm cross flow or
+mean temperature log mean temperature for cross flow that is the F. 
+So, if that be true we can write ln ((1 – P)/(1-QP)) for this and ΔTm cf is (Q – 1) ln ( Q /
+(Q + ln (1 – QP))), ‘right’, where P = (Tc2 - Tc1) / (Th1 - Tc1) and Q = (Th1 – Th2) / (Tc2 -
+Tc1), ‘right’ and QP is (Th1 – Th2) / (Th1 - Tc1).
+(Refer Slide Time: 26:18)
+So, with all this parameters let us substitute the values and we get that P = (70 – 30)/(90
+– 30) that is 0.67. Q = (90 – 80) / (70 – 30) that is 0.25. And then F = ln ((1- 0.67)/(1 -
+0.1675)) / (0.25 - 0.1) × ln (0.25 / (0.25 + ln(1-0.167))) which comes on simplification as
+minus on the numerator -0.925 and on the denominator -0.991. So, this ratio comes to be
+0.933, ‘right’.
+So, the mean temperature difference that can be written as ΔT lm, ‘right’ equal to F× ΔTm,cf
+= ΔTlm cross flow. So, ΔT lm cross flow that is then it is 32.7 4, ‘right’, 32.7 4 ×  0.933
+that is 30.54 °C, ‘right’. So, ΔTm has become 30.54, ‘right’.
+(Refer Slide Time: 28:08)
+So, out of this 4 we see that ΔT counter current, ‘right’, that gave a value which is very
+very good, but that was very close to the average, ΔT average. Since, the temperature
+differences were small, so Δ Tlm values were not that significantly different. But if the
+ΔTm is or rather if the difference of temperatures are very high then definitely the on the
+ΔTlm or LMTD that will be highly appreciated. 
+So, that is why when the difference is high Δ Tlm is taken and if the difference is less, then
+the average temperature (T1 + T2) / 2 or ΔT of hot - ΔT of cold is taken as the average
+temperature, ‘right’. (Refer Slide Time: 29:03)
+So, with this for the log mean temperature difference finding out, since the time is over.
+So, let us call it a day that LMTD for counter current, co-current and for the cross flow
+we have found out with a numerical value, ‘right’. And we have also shown with the
+calculator on the screen that the things which we have collected corrected or which we
+have done were correct, ‘right’. So, with this let us end this class. Stop this class here.
+Thank you.

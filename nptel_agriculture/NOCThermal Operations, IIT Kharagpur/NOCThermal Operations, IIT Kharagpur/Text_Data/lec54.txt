@@ -1,0 +1,199 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 54
+Thermal Death Reaction Kinetics
+Good morning. We have done a lot of heat transfer, heat transfer analysis from various
+angles right from the basic to a very complicated of NTU for heat exchangers we have
+done right. Now let us look into because we are coming to the end of the course, only
+few lectures are left. So, we should also look into some of the applications right. There
+are many major applications for food and other in all industries because heat transfer is
+one of the basic in most of the industries; I do not see in all industries, but in most of the
+industries thermal is a part, a non-thermal is any industry oriented work non thermal it
+may not be so much, but thermal is always associated.
+And of course, in such a short course around say 30 in 60 lectures, it is just not possible
+to cover everything in detail right from the basic. So, that is why I decided that if the
+basic is strong, then you can handle any situation anything which you will come across
+right.
+(Refer Slide Time: 02:11)
+So, let us do today on this that lecture number 54 this Thermal Death Reaction Kinetics
+or thermal death time things like that right so; obviously, the word thermal and death is
+associated with microbes right.
+(Refer Slide Time: 02:39)
+So, microbes whose death kinetics; obviously, we are not going to do the kinetics of the
+death, but definitely we shall handle something related to the thermal where temperature
+at least is associated right. So, if temperature is associated we have come across by this
+time how to handle different temperatures or transfer of heat through those these we have
+come across. So, to look into that; let us look some think like that sterilization right. The
+word itself sterilization tells that the product is absent from the microbes sterile right.
+Obviously the word sterile and sterilization they are not identical; had it been identical
+then there would not have been two words, but sterile usually is associated with the non-
+vegetative  earlier  vegetative  cells  are  all  destroyed  whether  it  is  pathogenic  or
+nonpathogenic whatever there all destroyed, but in sterilization it is all the organisms
+which are destroyed. But common concept is that all the organisms are destroyed means
+there is no organism right, but mathematically it is not possible to bring it to 0. It is never
+possible to bring it to 0 why and how that is what is our point of concern right.
+So, let us look into that. Sterilization which is a first order reaction; obviously, if you ask
+me again need to go into the detail of the reaction orders; first order kinetics, secondorder kinetics, 0th order kinetics those I am third order kinetics I am we are not going to
+do that the first order is the very simple one right.
+So, the rate of the reaction in each moment is proportional to the amount of the microbes
+still to be degraded. If N be the if N is to indicate the number of microorganism present
+in the system at any given moment the variation of this number as the function of chosen
+time t of exposure to the selected sterilization temperature that can be written as dN dt
+right dN dt = -k N where N denotes the number of organisms present in the system at any
+given moment  and t is the time  of exposure how much time  it is  exposed to that
+environment right.
+So, this  dN  =  -k N, why minus  because  as  the  time  is  progressing  the number  is
+decreasing that is why it is negative that everywhere we have seen in heat transfer also
+we have seen that minus k dt dx right. So, they are also we have seen as the x is a
+progressing temperature is decreasing right. So, that is the same thing here also number
+is decreasing as the time is progressing that is why negative and k is a proportionality
+constant right for k is a constant which is typical of the species and conditions of the
+chosen microorganisms. 
+Obviously, this k is not fixed or a constant it depends on the species organism which you
+have taken as well the environmental conditions all put together that k is a constant right.
+This seems to be obvious for dry sterilization because dry sterilization means you are by
+some means you are heating where there is no moisture; it is all dry heat which we called
+dry heat right, but less rigorous for steam sterilization. 
+So, if you are using steam as the medium for sterilization this may not all good right in
+which is a water vapor molecules also seem to take part in the reaction like reaction
+means in this the this is in degradation of the numbers. Actually this bimolecular reaction
+is of the first order since the steam is present in high excess, all the reaction long and its
+concentration may be regarded as constant. The above expression can be developed as
+dN / N that dN / N = - k dt this is rearranged and rewritten as dN /N = - k dt.(Refer Slide Time: 09:21)
+By converting from base e or this is dN /dt right. So, by converting base e or that is
+called Naperian logarithms which are less practical in this specific case to the base 10
+logarithms, the following is obtained that is log N = - k t where - k t plus of course,
+constant log N = - k t plus the constant where k is that this k = K / 2.303 right 2.303. Due
+to the shift from the base e logarithm to the base 10 with this change of k to k / 2.303 is
+required this is small k. 
+If you remember earlier it was capital K. So, that capital K is impressed by small k with
+K /2.303 because we shifted from l N to this log 10 base right this is 2. At some 0, the
+following is also true at time t = 0 N is N 0 and log N0  is equal to constant right.
+Therefore, log N = - k t + log N 0  that is that N0  or constant value right. So, this can be
+rearranged that log N /N 0 = - k t or we can again rewrite it as N / N 0 = 10-kt where again k
+small is equals to capital K / 2.303 where capital K was related to that N right.
+So, N0  is the initial number of microorganism, N is the number of microorganism after
+the exposure time, t t is the elapsed exposure period or which can be told as the elapsed
+time for sterilization time and k is small k is the reaction rate constant which depends on
+the space species and conditions of the microorganism taken or chosen.
+Hence, it can be calculated that the required it can be calculated that the time required to
+reduce the microorganism concentration to any preset value is the function of its initial
+concentration that is what we see that the time required this. That is this the time requiredto reduce the microorganism concentrations from a preset value preset value is N 0 is the
+function of its initial you know preset value means whatever you want to do that is N not
+N0 is a function of the initial concentration right initial concentration is this. This is the
+preset one right. So, this N which you want to and this is a function of which was
+originally present right. 
+(Refer Slide Time: 13:47)
+So, from these we can now look at the sterilization reaction is therefore, either and all or
+nothing process nor a potential barrier process as we used to think off right because, we
+said that N / N0 right. So, this is the set value which you want to correct and it can never
+be 0 is a function of N 0 that is whatever was the initial. For that a new term has been
+introduced as called D-value or decimal reduction time.(Refer Slide Time: 14:48)
+The D-value is defined as the decimal or decadal decimal or decades from that decadal
+one decade is 10 right. So, decadal or decimal reduction or decay whatever we call time
+that is it is the time required at the specified temperature t to reduce the microbial
+population being considered by one logarithmic cycle or value. That is from 100% to
+10% of the initial value right. This is that 100% to 10 % of the initial value right.
+So, it is 0.9 z value or temperature coefficient another terminology is that the z value is
+defined as the temperature coefficient of microbial destruction that is as the number of
+degrees of temperature which causes a tenfold variation of D or more generally of this
+sterilization rate.(Refer Slide Time: 16:21)
+So, we defined two terminologies. One is D and other is z value and if we look at for
+different value of z and F for typical microorganisms for different microorganisms, we
+see that if it is the microorganism that is clostridium, botulinum is one whose D 121 is 10°
+right. Whereas, Giobacillus stereo stearothermophilus right that value is 2 D 121  and z
+value is 6 bacillus subtilis whose D 121  value is 0.5 in minutes whereas, z value is 10 °C
+bacillus megaterium D value is 0.04. 
+Whereas, z value is 7 and clostridium sporogenes is 0.8 to 1.5 whereas, z value is 13 °C
+and clostridium histolyticum is 0.01 d value whereas, z value is 10 °C(Refer Slide Time: 17:56)
+So, with all these it is apparent that depending on the microorganisms the value of d or z
+are varying right both D and z are functions of the microorganisms and the environment
+because here we have said it is D 121 it could have been any other right. So, D 110 that would
+have different z value or D 131 that would have another z value which says that as we said
+in the beginning that depending on the species  that is which one we are taking or
+depending on the environment dictates by this that this 121 corresponds to what pressure
+and what pressure of steam etcetera that will dictate this and then the z value also
+changes right. So, this is a unique thing which you have learnt.
+Now so, f0 or equivalent exposure time another parameter we are bringing in where D
+value is a function of the exposure time, T in saturated that is condensing why because if
+this is a steam heat transfer we have already done.(Refer Slide Time: 19:41)
+So, if this is this is steam so, when it is giving away its latent heat of condensation. So,
+from the steam vapor it becomes liquid water at the same temperature 100 °C.
+And this is what we have we know is condensation. We have found out what is the
+condensation  heat  transfer  coefficient  etcetera  right  condensing  vapor  heat  transfer
+coefficient etcetera. Steam conditions for each different microorganisms are different.
+So, that is why D is a function of D T. So, on the basis on the basis of the definition of
+coefficient z it has also to be D is function of D T - z = DT × 10. 
+(Refer Slide Time: 20:47)
+So, we can say that the obvious condition that D = D 0. If T becomes T 0 then the
+mathematical function which satisfies this relationship is D = D 0 × 10(T0 – T)/z right. So, if
+D = D0 when T is T0, this situation mathematically satisfied from the is satisfied from the
+relation that D = D 0 × 10(T0 – T)/z right. D0 is the D value at the temperature T 0 for a given
+microorganism.
+So,  now  let  us  now  calculate  the  time  interval  required  to  obtain  at  a  constant
+temperature T0, the same reduction of a microbial population obtained at the actual
+exposure time T right; obtained at the actual time exposure not time sorry temperature T
+right. Just by looking at this T then I thought that I mispronounced and it should be
+pronunciation  should be t, but  temperature  what  temperature  continuously  which  is
+continuously variable over a certain time interval of small T. 
+It has; obviously, to be like this that integration between 0 to T 0 D N at T0 / N t= 0 to T D
+N T/ N value right. So, D N T 0 over N between 0 to T 0 value integration is equals to 0 to
+T D N T / N value right. So, this means that 0 to T 0 D T0 right 0 to T0 D T0 / D0 = 0 to T
+D T / D right. So, this is rewritten in this form that D of T 0 over D0 between 0 to T0  and 0
+to T D T / D which we have already seen earlier right.
+(Refer Slide Time: 23:58)
+So,  from  this  we  can  say  that  D  value  is  variable  with  the  actual  exposure  time
+temperature  and  is  given  by  the  expression  say  a  which  was  earlier  shown  thattemperature a expression was shown earlier right. This we can say here. So, this was here
+that b = D0 ×10(T0 – T)/z  that is true for this temperature for this expression right.
+So, we can write that D value is a variable with the actual with the actual exposure
+temperature and is given by the expression a, but D 0 e is as T0 = 0 to T D 10(T - T0)/z to dT
+right. So, this is for relation B and D 0 is a constant. So, we can write that it is we can
+write that T0 is 0 to T 10(T - T0)/z to dT. So, it is thus possible to calculate the lethal effect of
+the exposure of microbial population to a variable temperature T by relating it to a
+hypothetical sterilization performed at a constant temperature T 0 for the time small T 0.
+(Refer Slide Time: 26:08)
+If the constant reference temperature is assumed equal to 121.11 °C corresponding to say
+250 Fahrenheit. This 250 Fahrenheit converted to 121.11 °C because conversion of
+degree Fahrenheit to degree centigrade is that decimal association right. And, the z value
+equal to 10, the equivalent time is given by this expression B right and this is named as F
+0. So, F0 is equals to 0 to T 10(T- 121.11) /10  times dT here only that T 0, we have taken as
+121.11 correct for the F 0.(Refer Slide Time: 27:21)
+So, F0 is the equivalent exposure time at 121.11 °C of the actual exposure time at a
+variable temperature calculated for an ideal mechanism with a temperature coefficient of
+destruction equal to 10 °C. F 0 means the equivalent amount of time in minutes at 121 °C
+or 2 250 Fahrenheit which has been delivered to a product by the sterilization process. If
+we assume that if we assume a sterilization lasting 15 minutes constantly at 121 °C, we
+then obtain F0 = 15 × 10(121 – 121)/10. So, this becomes 1. 
+So, it is 15. So, 15 minutes which is according to the definition of F 0 right. So, and that is
+if that then from there we can also say that there is a lethal rate there is a term called
+lethal rate. Due to the exponential expression of the calculation of F 0 so, calculation of F 0
+is not immediate tables have. Therefore, been developed which list the so, called lethal
+rates  that  is  the  equivalence  coefficient  allowing  to  compare  the  exposure  at  the
+temperature T to the exposure of for this same time at 121 °C. Lethal rates may also be
+regarded the F0 values for single unit time right.(Refer Slide Time: 29:30)
+So, we can see it from this that this is the table where we can say that the lethal rates are
+like that for different temperatures right. It is assumed that at z = 10 °C. Therefore, F 0
+values are calculated by its rigorous definition at 121.11 °C corresponding to 250 °C
+right and these are those values. So, here we see ninety then plus 0 is this when a 0.1, 0.2
+like that up to 0.9 the values are there. So, rigorous 90 to 130° the lethal rate values are
+given right.
+(Refer Slide Time: 30:33)
+So, if that be true, then we can say that in condition of saturated steam for reference
+temperature of 121.11 °C, z is 20 °C and for the temperature values between 90 to 130
+°C with intervals of 0.1 °C is like this right. 
+So, we have seen what is the z value and similarly another one; z values are assumed and
+12 as z values are assumed as variable between 7 and 12 and different equivalent times at
+121 °C are calculated on such a basis it is in interesting to notice how much the variation
+of z value considerably influences the lethal rates when T varies T varies. Now sterile
+which is free from viable microorganisms  which I said earlier and sterilization any
+physical  or  chemical  process  which  destroys  all  life  forms  with  special  regard  to
+microorganisms including bacteria and sportiness forms right.
+(Refer Slide Time: 32:01)
+So, with this perhaps we come to the close of the thermal death time or death rate
+whatever we call. We have not shown you specifically the different rates right or the
+temperatures,  only  we  have  said  about  the  temperatures  and  time  right.  So,  that
+temperature you can bring yeah with the pressures like add to 1 atmosphere pressure g it
+is 121.11 degree centigrade ok.
+Thank you.

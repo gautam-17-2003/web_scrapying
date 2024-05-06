@@ -1,0 +1,165 @@
+Thermal Operation in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 14
+One Dimensional Heat Transfer
+Good morning. So, we have done on cylindrical coordinate, also earlier on Cartesian
+coordinate  One  Dimensional  Heat  Transfer,  ‘right’.  Now,  we  will  do  that  one
+dimensional heat transfer in spherical coordinate, ‘right’. So, this is the lecture number
+14 and we are now moving towards the sphere, ‘right’.
+(Refer Slide Time: 00:49)
+So,  in  this  case  the  temperature  distribution  in  one  dimensional,  steady  state,  heat
+conduction in sphere with energy generation at the rate of E(r) Watt per meter cube this
+can be written as      So, this again I am saying so, it is a
+repeat, but still our general equation was if  conductivity  is  constant,
+energy generation is 0,. And, it is steady state condition.
+And, here when we were with Cartesian coordinate that time n was equal to 0, n was
+equal to 0 and we also took that r to be equal to x, ‘right’, but when into a cylinder we
+had taken n is equal to 1 and r of course, equal to 1. But, when it is now in the spherical
+coordinate then; obviously, r is equal to r, but n is equal to now 2. And, that is why these221 ( )0d dT E rrr dr dr k    
+0nd dTrdr dr   terms had come , and  this  is  the  basic  governing
+equation, ‘right’. 
+So,  with  the  help  of  boundary  conditions,  it  is  possible  to  know  the  temperature
+distribution T(r) in the sphere and the heat flux q r is to be determined from the relation, q
+r is equal to minus k dT /dr of at any r; so, much of W/m2. So, if we want to solve it then
+we need to do the integration and then put the boundary conditions, ‘right’.
+So, if we want to solve it then on integration, we get, first integration, we get 
+So, these are the two solutions these are the two integration constants and after two
+integrations we get it, ‘right’.
+Now, it is very earlier as you have seen that when it was a solid cylinder, then we had
+taken  at  the  center  to  be  we  had  taken  the  center  to  be  under  constant  boundary
+condition. That was the dT/dr is equal to 0, ‘right’, dT/dr is equal to 0; that means, this
+was assumed to be insulated. Similarly, for sphere also if it is a solid sphere then at the
+center there also, we can assume the same boundary that is if it is a solid dT/dr at r is
+equal to 0.221 ( )0d dT E rrr dr dr k    
+0 12
+20 12( )
+3
+, ( )
+6dT r E Cr
+dr k r
+E Cand T r r C
+k r  
+   But, if it is a hollow sphere, ‘right’, then two dimensional picture will appear like this
+only if it is a hollow sphere, ‘right’. So, the else it will have 1 a and it will have 1 a area
+in one radius another radius, ‘right’. So, we have to get the boundaries also accordingly
+‘right’.  So,  for  the  cases  of  hollow  cylinder  one  of  the  three  types  of  boundary
+conditions, that is boundary condition of first kind, or boundary condition of second
+kind, or boundary condition of third kind, that is boundary condition under constant
+temperature  condition,  or  boundary  condition  under  constant  heat  flux  boundary
+condition, or the boundary condition under convective boundary condition.
+Any one of them or in combination can be the two boundaries on the hollow sphere
+‘right’. So, that will help in determining the two constants. But for solid spheres, like the
+solid cylinder just now as I said, one boundary is specified at the outer surface and
+another boundary at the center of the sphere.
+And this can be given like this can be given like this that at r is equal to T(r) is equal to
+finite at r is equal to 0, that is one boundary, or it can be said in other way that dT/dr is
+equal to 0 at r is equal to 0, ‘right’. Where your boundary though it is given, it is like that
+you have this and this is the direction of the heat flow and this is the radius solid, ‘right’.
+So, that is one and if it is for hollow then; obviously, you have a radius here a you have a
+radius here b, ‘right’ sorry a radius b and the direction of the flow is this, then we can
+depending on what are the boundaries you are given accordingly you can solve them,‘right’. So, it is easy as earlier also we have done for Cartesian, we have done for
+cylinder and now we are doing for the sphere, ‘right’.
+So, let us now do for the sphere that with a problem. Problem is like this uniform
+temperatures T1 and T2 of a hollow sphere is maintained at it is inner and outer surfaces
+at r=A and at r= B respectively. The thermal conductivity k of the solid is constant.
+Derive an expression for the one dimensional steady state temperature distribution T(r)
+in the sphere; also derive an expression for the radial heat flow rate Q through the hollow
+sphere. And thought, what is the expression for the thermal resistance of the sphere? 
+So, I repeat uniform temperatures, T 1 and T2 of a hollow cylinder hollow sphere is
+maintained at it is inner and outer surfaces, at r is equal to A and r is equal to B
+respectively. The thermal conductivity k of the solid is constant. Derive an expression for
+the one dimensional steady state temperature distribution T(r) in the sphere. Derive an
+expression for the radial heat flow rate Q through the hollow sphere. And, third what is
+the resistor, what is the expression for the thermal resistance of the sphere? So, these three we can do easily from the experience what you have again, in case of
+rectangular coordinate or cylindrical coordinate, ‘right’. Now for this, but the thing is
+similar that according to the given problem we can write d/dr, because here we are said
+that you have a hollow sphere, but steady state no internal energy generation. So, these
+conditions if it is applied and conductivity is constant, if these are applied then from the
+governing equation straightway we can write 
+2
+1
+2
+12
+12( )0
+( )
+, ( )
+int ,
+( )
+, ( )d dT rr in A r B
+dr dr
+T r T at r A
+and T r T at r B
+On egrations we get
+dT r C
+dr r
+Cand T r C
+r     
+ 
+ 
+
+  Now, a hollow sphere of radius r is equal to A and outside radius r is equal to B is
+electrically heated at the inner surface at a constant rate of q 0 W/m2. At the outer surface
+it  dissipates  heat  by  convection  into  a  fluid  at  temperature  T e with  a heat  transfer
+coefficient h. The thermal conductivity k of the solid is constant.
+Derive expressions for the determination of the inner and outer surface temperatures T 1
+and T2 of the sphere. Calculate the inner and outer surface temperatures for A is equal to
+4 centimeter and B is equal to 6 centimeter, h is 500W/m2ºC, T outside or ambient our
+environment Te is equal to 90 ºC, conductivity of the material is 20 W/mºC and the heat
+flux q is equal to q0 is equal to 105 W/m2, ‘right’.
+So, we repeat quickly hollow sphere of inside radius r is equal to A and outside radius r
+is equal to B is electrically heated at the inner surface at a constant rate of q 0 W/m2. At
+the outer surface it dissipates heat by convection in to a fluid at temperature T e with high
+heat transfer coefficient h. The thermal conductivity k of the solid is constant. Derive
+expressions for the determination of the inner and outer surface temperatures T 1 and T2
+of the sphere.
+Calculate the inner and outer surface temperatures for A is equal to 4 centimeter B is 6
+centimeter h is 500 W/m2ºC, Te is 90 ºC, k 20 W/mºC and q 0, 105 W/m2.Then from the thermal analogy concept, or thermal  resistance concept, or electrical
+analogy concept whatever we call, we can solve it like this, ‘right’. (B-A) by that your
+first thing is your first thing is that this is the heat flux, which is getting in to the area. So,
+area is 4πA2 is the area or 4πA2 square is given here into q 0 the first. Then this Q is
+flowing through this resistance or metal resistance that is    ,  then  it  is  also
+flowing through the other resistance that is ,  ‘right’,  that  is  the  convective
+boundary, ‘right’.
+So, if this is true then by applying thermal resistance network, we can write
+So, like the previous one we can here also say previous means I mean in the in the
+cylindrical coordinate where we did it similar.4B A
+kAB
+21
+4B h
+
+21 2 202
+1
+24144
+1
+44e
+eT T T TA qB AkABB h
+T T
+B A
+kABB h
+
+  
+178.8 degrees centigrade is the T 2. So, that whether it is coming correct or not 178.8
+degrees centigrade or 245.5 degrees centigrade, please you check and then let us know
+whether there is any mistake or not, hopefully there should not be any mistake, ‘right’,
+but you can never tell because the calculator when you are using, ‘right’ there could be
+some.
+So, you please check it and let us let me know with that the values are correct or not, but
+again on the thermal resistance concept that when we are using you have to keep in mind
+irrespective  of  the  irrespective  of  the  coordinate  system,  whether  it  is  Cartesian
+coordinate,  or cylindrical  coordinate,  or spherical  coordinate  means, whether it is  a
+rectangle or slab or a cylinder or a sphere, wherever it is if there is no internal energy
+generation.And, generally the conductivity is also constant, because if conductivity is not constant
+what  it  can  be  conductivity  can  be  a  function  of  temperature,  ‘right’.  Generally
+conductivity is a function of temperature, but for the given range of temperature many
+materials may not have any change in the conductivity or if they are really change that is
+so, in appreciable that it may not be considered. So, that is why conductivity constant
+taken is easier.
+So, if it is taken then whenever you are doing it the there should not be any internal
+energy generation. So, once there is no internal energy generation, then you can do the
+thermal resistance concept and solve it, ‘right’. So, our today’s time is over. So, we will
+do in the next class subsequent problems and maybe this resistance because here we are
+doing all in series. So, there could be some resistances where it is not all series so, that
+we will try to do in the next class, ok.
+Thank you.

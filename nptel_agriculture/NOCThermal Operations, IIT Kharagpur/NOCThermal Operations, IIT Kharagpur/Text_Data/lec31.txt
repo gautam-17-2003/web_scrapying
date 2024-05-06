@@ -1,0 +1,169 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 31
+Heat Transfer by Convection (Contd.)
+Good morning. We have been dealing with Convection Heat Transfer if you remember
+and we have given some of the very important non-dimensional parameters which are
+very  useful.  Your  heat  transfer  typically  convectional  many  empirical  as  well  as
+experimental both relations are available because as you have seen that the Newton’s law
+of cooling their Q was equal to (h A ΔT), ‘right’.
+Now, the problem is this h that is the function of many parameters. So, it cannot be
+identical for any and every purpose for conduction heat transfer that Fourier law when
+you are using that minus Q is minus k dt dx a.  So, that time you are knowing that if area
+is fixed if material is fixed and conductivity does not change then here you know the Q,
+but here in convection if your area is also fixed, if your delta t is also fixed, but for
+different system of transfer of heat h will be different for which that q also is different.
+That is why very straightforward relation with h is very difficult, ‘right’.
+So, today we will try to give you some ideas, not only ideas some relations which are
+very helpful and to determine the h, heat transfer coefficient some problems also we will
+try to solve. Only the problem could be that the solution I could not check beforehand
+because when I was doing these slides  because I did it first in the word and then
+converted into that. So, I could not make the systematic way. However, we will do that
+and many such correlations we will try to bring about, ‘right’.(Refer Slide Time: 03:34)
+So, in our 31st class of Heat Transfer by Convection it is a continued one. We have
+already given many numbers of non-dimensional numbers and these numbers are very
+very helpful. Some of them we have said Reynolds number, Prandtl number, then earlier
+we have also perhaps given the Nusselt number, ‘right’ and we have Biot number.
+So, there also we said if you remember that the Biot number or Biot number and Nusselt
+number both are having the same expression hl/K; l is the characteristic length, h is the
+heat transfer coefficient, convective heat transfer coefficient and k for Biot number it is
+the conductivity of the material through which it is being conducted whereas, in Nusselt
+number it is the conductivity of the fluid through which heat is being conveyed, ‘right’.
+So, this is the major difference between Nusselt number and Biot number and most of
+these students make this mistake. That is why emphatically I am highlighting on this that
+take care of this fine. Some more numbers which are very useful like Schmidt number it
+is not necessarily that all of them are for only heat transfer some could also be utilized in
+mass transfer. And, heat and mass transfer analogy if you go into there you will see these
+non-dimensional parameters are very helpful, ‘right’.
+So,  Schmidt  number  is  Sc  that  is  defined  as  υ/Dthat  is  the  ratio  of  momentum
+diffusivity or viscous diffusivity to the mass diffusivity, ‘right’; υ/D. This D is not the
+diameter, this D is the division coefficient, ‘right’ or mass diffusivity. That is why in the
+definition we are saying it. Sherwood number this is also mass transfer related non-dimensional  parameter,  ‘right’.  Sherwood  number  is  DLhρShDa that  is  ratio  of
+convective to diffusive mass transport, ‘right’; ratio of convective to diffusive mass
+transport.
+Similarly, Lewis number this is useful for heat transfer also heat transfer rather this is
+D again this is ratio of mass diffusivity and thermal diffusivity, ‘right’ D;  is the
+thermal diffusivity or diffusion coefficient, D is the mass transfer diffusion coefficient.
+So, it is ratio of mass diffusivity and thermal diffusivity. 
+Stanton number or it is written as St, it is also related with non-dimensional numbers
+other and there  PrReNu
+ that is Nusselt number over product of Prandtl number and
+Reynolds number and significance is it is the ratio of heat transferred into a fluid to the
+thermal capacity of the fluid. I repeat ratio of heat transferred into a fluid to the thermal
+capacity of the fluid, ‘right’.
+(Refer Slide Time: 08:51)
+Similarly, some other numbers could be Peclet number, ‘right’. This is also very useful
+in both; in this is majorly in heat transfer and that is Pe, Peclet number is product of
+Reynolds number and Prandtl number, ‘right’ or N Pr and NRe; NRe times NPr. So, this can
+be defined as ratio of the rate of advection of a physical quantity by the flow to the rateof diffusion of the same quantity driven by an appropriate gradient. I repeat ratio of the
+rate of advection of a physical quantity by the flow to the rate of diffusion of the same
+quantity driven by an appropriate gradient, ‘right’.
+And, perhaps the last number which we are telling you there are some more also, ‘right’
+there are some more also, but I do not like to bring all to you because may or may not be
+you will be utilizing all of them at least many of them will be utilized or are being
+utilized in this heat transfer course. But, some of them may not be in the heat transfer
+course or may be required for mass transfer if it is not in this class in other classes, but
+should be known also, ‘right’.
+Like  this  one  we  have  already  used  Fourier  number  Fo  that  is2αt/l.  I  hope  you
+remember that when we were using Heisler chart, that Heisler chart we had typically
+used  this  Fourier  number  in  the  x-axis,  ‘right’  this  is  called  non  dimensional  time
+parameter, ‘right’. 
+Fourier number is a non-dimensional time parameter 2αt/l ‘right’ which is the ratio of
+the heat conduction rate to the rate of thermal energy storage. Repeat, ratio the heat
+conduction rate to the thermal energy storage. This time that is alpha t perhaps till now,
+whatever you have seen in none of them directly we had time as one of the parameter,
+‘right’.
+So, far we have seen in non-dimensional units or non-dimensional numbers in none of
+the numbers you have used time as one of the variable, but in Fourier number only it is
+2αt/l and that is why this is also known as non-dimensional time, ‘right’. So, non-
+dimensional time because time is second minute or hour whatever be the unit, but here in
+Fourier number you do not have any unit it is also non-dimensional  2αt/l,‘right’. So,
+like that you have many numbers which we have say said. Now, let us utilize them,
+‘right’, ok.(Refer Slide Time: 13:12)
+Some  of  them  are  utilized  in  this  way  as  I  said  that  there  are  many  relations  or
+correlations available for heat transfer typically convective heat transfer, ‘right’. And that
+is valid for different regime different conditions; flow either flow conditions or boundary
+conditions etcetera. So, heat transfer coefficient inside tube, ‘right’.
+So, we would like to find out the heat transfer coefficient inside tube. What condition?
+Condition is laminar flow ‘right’ and this is called Nusselt-Graetz correlation. Nusselt
+Graetz correlation, ‘right’ that is valid for thermal entrance length with parabolic velocity
+profile and constant wall temperature, ‘right’. This is valid for thermal entrance length
+with parabolic velocity profile and constant wall temperature.
+So, Nux is given like that 1/3i/x)D1.007(Pe ,‘right’ and this is valid that is why I said
+that regime; the word regime I utilized that it is valid between 2i10/xDPe, ‘right’.
+So, this is valid for that whereas, this Nusselt number x; x means at any position because
+Nusselt  number  is  hl/K,  ‘right’.  So,  this  is  x  at  any  position  that  is  3.66  when
+2i10/xDPe, ‘right’.
+Similar, other relations average Nusselt number this is localized Nu x. So, this is average
+Nusselt number x is anyway x rather  1/3i/L)D1.61(Pe valid for  2i10/LDPe
+where as it is 3.66 when Pi into Di sorry 2i10/LDPe where of course, Peclet numberPe is the Peclet number as we have already defined equal to Reynolds number times
+Prandtl number which is again nothing, but 
+
+
+
+
+
+KμC
+μρVDPi, ‘right’.
+(Refer Slide Time: 17:34)
+So, like this some more correlations we look into like Hausen’s correlations. Hausen’s
+correlation is valid for developing hydrodynamic and thermal boundary layer and for
+constant wall temperature. So, again it is a /L)Pe0.0668(D3.66 Nu i d . Of course,
+these nomenclatures are normal like D i meaning internal diameter; L meaning length. 
+So, these are implicit, ‘right’, over 3/2i/L)Pe(D0.041 . This is with respect to Nu d,
+‘right’  in  terms  of  diameter  whereas,  average  Nu  this  is  a
+0.467
+i0.8i
+Pe/LD0.1171/L)D0.19(Pe3.66 Nu
+ , ‘right’.(Refer Slide Time: 19:23)
+So, let us look into some other relations. This is very useful particularly when you are
+doing food handling and or liquid food or liquid fluid handling through pipes, ‘right’.
+Obviously, flow in conduit and open flow they are quite different. That is the difference
+between that maybe your land and water and food and chemical. So, where mostly it is
+under bounded condition whereas, in land and water it is open, ‘right’.
+However, but many basic things are common it has to be. So, they do not use this one
+Sider Tate because normally this is for the conduit. So, Sider Tate equation is this is
+valid for constant wall temperature mu w is the viscosity at the wall temperature, ‘right’.
+In many cases you will see there is I do not know whether it is with me or not that is
+called Detus Voltars equation, ‘right’. 
+In one case that this is called viscosity correction factor that is mu over mu w this is
+called viscosity correction factor. How it is coming, ‘right’. Maybe in all the cases it will
+not be possible for us to explain because of the time constraint, but when it has come let
+us say that you have a pipe, ‘right’ and this is the central axis, ‘right’ and a fluid is
+flowing, ‘right’.(Refer Slide Time: 21:48)
+And your pipe it has say outside temperature is Twhereas, this fluid as a temperature
+of say Ti and obviously,  Tis may be much greater than T i or less than how does it
+matter? It does not matter, Twill be much less than T i, ‘right’. In one case one it will
+have a have one type in other case it will be just inverse or reverse, ‘right’. So, when it is
+coming as we know that viscosity mu is a function of temperature, ‘right’.
+In most of the cases without exception, in most of the cases the viscosity is a function of
+temperature that is true, but as the temperature increases viscosity decreases, ‘right’, this
+is by enlarge happening. As the temperature is increasing viscosity is decreasing or that
+vice versa as the temperature is decreasing viscosity is increasing it is becoming more
+and more viscous; viscosity increasing when more and more viscous, ‘right’.(Refer Slide Time: 23:25)
+So, when we had this flow. So, the viscosity at the wall which was  Taround and
+viscosity at the center which is say T i around, ‘right’ are quite different. So, unless you
+take care of this viscosity correction then you will have some error. So, that is what the
+Sider Tate correlation has incorporated that. 
+So, valid for constant wall temperature and mu w is the viscosity at the wall temperature.
+Then Nusselt number in terms of diameter is   14.03/13/1//86.1 wiLDPe . This is in
+many cases through pipe flow are utilized, ‘right’.
+(Refer Slide Time: 25:05)
+Similarly,  some  other  like  Schlunder’s  correlation  it  is  valid  for  constant  wall
+temperature and the average Nu is 3.66; Nu is Nusselt number. Again h l / k do not forget
+that  this  k  is  the  conductivity  of  the  fluid  or  the  medium.  So,
+3/133)]/.(61.1)66.3[( LDPei , ‘right’.
+(Refer Slide Time: 25:47)
+So, if this is true then for constant heat flux, again under different conditions for constant
+heat  flux  3/1/.302.1xDPeNuix ,  where  410/.xDPei.  Whereas,  NuD is  means
+Nusselt number in terms of diameter is 4.36. This is also valid for P i into Di sorry
+310/.xDPei. Average Nusselt number is 3/1/.953.1xDPei that is 210/.xDPei.
+Similarly, for average Nusselt number is 4.36 if 310/.xDPei‘right’. So, this type of
+many correlations are there, perhaps some more will also bring in because as and when
+you will have different situations of your system, that time you may need to utilize it,
+‘right’. And, these are collections from different resources that is why I preferred that I
+should share with you so that in future when you are doing your either master or post doc
+or doc that time you may be required, ‘right’. So, with this let us stop today here and. 
+Thank you.

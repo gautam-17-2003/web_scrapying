@@ -1,0 +1,161 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 52
+Heat Exchangers ( Contd. )
+So,  good  morning,  we  have  been  doing  epsilon  that  is  effectiveness  of  the  Heat
+Exchanger  and  perhaps  we  have  completed  up  to  the  parallel  flow.  What  is  the
+expression for effectiveness whether C min or Cmax is hot fluid or cold fluid depending on
+that, we had developed the expressions. Now we will do the same for counter flow. So, it
+is the lecture number 52 on Heat Exchangers, this is continued.
+(Refer Slide Time: 01:26)
+And if we look at for parallel flow I support counter flow, counter current flow then we
+can write this ɛ = T c; obviously, here missing is that T c1 and this is Tc2, right.
+Because we could come to know from here, because we multiplied these thing with this
+and this thing we kept intact. So, we get that T c, oh no we took these thing there and
+these thing here rather this way, we brought it here and we took it there; so we can come
+to know that this was T c1 and this was Tc2, by some mistake we could not make it, right.
+So, here it is Tc1  and here it is Tc2. So, (Th1 -Tc2) = 1 / ɛ (Tc1 - Tc2); or this Th1  if you
+separate, then we get T c2  plus this, so 1 / ɛ (T c1 - Tc2). So, again on rearranging we canwrite (Th1 -Tc1) = (Tc2 - Tc1); because we have added one T c1 here, we have also added one
+Tc1 here.
+So, that is why it is going up. So, plus 1 / ɛ whichever was here (T c1 - Tc2). So, this can
+further be rearranged as (T h1 -Tc1) right; this is equals to (T c1 - Tc2), if we take  (Tc1 - Tc2)
+common, right. So, 1 / ɛ comes first minus 1 because here it is (T c1 - Tc2), one negative
+will come right.
+(Refer Slide Time: 03:58)
+So, if that be true, then we can rewrite that no heat loss why you are saying; that
+normally any heat exchanger though there is if this is a heat exchanger; obviously,
+depending on the fluids right and this is in this particularly it is counter flow.
+So, depending on that whether it is co or counter whatever it be, there will be some heat
+loss with the surrounding right. So, that cannot be avoided, but for all practical purposes
+if we assume that surrounding heat loss is negligible and that is what we are assuming
+that there is no heat loss, then only we can easily do it; otherwise taking account those
+heat loss will make it more complicated, right.
+So, it can be done, I am not saying it cannot be; but that will make it more complicated
+the whole system. So, we can write C max (Th1 - Th2) = Cmin (Tc1 - Tc2), right. And Cmax and
+Cmin we had said in the previous day, in the previous class rather; then (T h2 - Th1) is -
+Cmin / Cmax (Tc1 - Tc2), because it was (T h1 - Th2).Now we have made T h2 = Th1 minus right; so we have kept this on that side and brought it
+to this side, so that is why T h1 minus. Then (Th2 - Tc2) that can be written as (T h1 - Tc2)  -
+Cmin / Cmax because we have added here 1 - T c2 we have also added on right side - T c2. So,
+Cmin / Cmax times (Tc1 - Tc2).
+So, this can be again rewritten (T h2 - Tc2) = 1 /ɛ right; which we have seen earlier 1 /ɛ (T c1
+- Tc2), right -Cmin / Cmax as usual into (Tc1 - Tc2).
+(Refer Slide Time: 06:48)
+So, this on further simplification, we can write that (T h2 - Tc2) = (Th2 - Tc2) = (1 /ɛ - Cmin /
+Cmax) (Tc1 - Tc2) right. This is done by subtracting values of (T h2 - Tc2) and (Th1 - Tc1) right.
+And from the relation, what we know q = U A ΔT lm; we can write that C min (Tc1 - Tc2) = U
+A ΔTlm instead of that we write (T h2 - Tc2) - (Th1 - Tc1) / ln (Th2 - Tc2) / (Th1 - Tc1), right.
+So, here all the time mind it that this difference minus this difference should be always
+on the numerator, this difference and denominator this difference, right. So, then at least
+this part will not be wrong; but in actual when you are having, then you have to take care
+that flow direction right and which one is parallel or which one is counter that you have
+to take care, ok.
+So, we write Cmin (Tc1 - Tc2) is this; then we can rewrite this as C min (Tc1 - Tc2) = UA right
+times, instead of this we write (1 /ɛ -  C min/Cmax) (Tc1 - Tc2) – (1/ɛ -  1) (Tc1 - Tc2) /ln (1/ɛ -
+Cmin /Cmax) / (1/ɛ - 1). (Refer Slide Time: 09:21)
+So, this we can further simplify, writing that ln (1/ɛ - C min / Cmax) / (1/ɛ - 1) = U A / C min
+(1 - Cmin / Cmax) right. Or ln of this that (1/ɛ-1) / (1/ɛ - C min / Cmax) this we just inverse is
+equals to UA / Cmin that is why we have brought to a negative here, we have inversed it
+times 1- Cmin / Cmax right.
+So, this means (1/ɛ - 1) / (1/ɛ - C min / Cmax) is equals to, this we can write exp[- UA/ C min
+(1 - Cmin / Cmax) right.
+(Refer Slide Time: 10:36)
+So, this we can further write in this form, that 1/ɛ - 1 = 1/ɛ exp[- UA/C min (1 - Cmin/Cmax)]
+- Cmin /Cmax exp[- UA/Cmin (1 - Cmin/Cmax)] right. Or we can rewrite that, 1/ɛ (1 - exp[- UA/
+Cmin (1 - Cmin/Cmax)] right this = (1 - C min/Cmax) exp[- UA/Cmin (1 - Cmin/Cmax)] right. Or ɛ
+we can write in the form 1 - exp[- UA/C min (1 - Cmin/Cmax)]  / (1 - Cmin/Cmax) exp [- U A /
+Cmin (1 - Cmin/Cmax).
+ (Refer Slide Time: 12:16)
+Now, this we can further rewrite this way, that you we define a term that is called UA/
+Cmin; we define a term that is called UA/C min. And this we can term as Number of
+Transfer Units or NTU Number of Transfer Units NTU, right. If we define UA/C min as
+NTU and explain it from the equation that here, q = C min (Tc1  - Tc2) that we know which
+is equals to UA ΔT lm, right.
+So, we can write UA/C min = (Tc1  - Tc2) / ΔTlm. So, our NTU which we are calling as UA/
+Cmin right, this is nothing but ΔT that is (T c1  - Tc2) right sorry, there is (T c1  - Tc2)  right
+over ΔTlm, right. So, if that be true, then we apply it that UA / C min as NTU.(Refer Slide Time: 13:49)
+And we can write that UA / C min, UA / Cmin is the ratio of rise or drop of the fluid,
+temperature of the fluid with minimum heat capacity and the log mean temperature
+difference that is what we had shown in the previous slide also. That, in the previous
+slide this was our thing, that UA / C min sorry, UA / Cmin was ΔTc right or (Tc1  - Tc2)  right,
+(Tc1  - Tc2) that is why we are saying rise or drop; because we do not know whether that is
+(Tc1  - Tc2) is positive or (Tc1  - Tc2) this is negative right. This we do not know. Since we
+do not know we are saying that rise or drop ratio of the rise or drop of the temperature
+this is the ratio to the log logarithmic temperature, right.
+So, because ΔTlm is nothing, but not a temperature but a ratio right; because that was also
+ΔT by some ΔT. So, it is dimensionless, right. So, we can say that U A / C min is the ratio
+of rise or drop of temperature of the fluid with minimum heat capacity and this is the and
+the log mean temperature difference that is the ratio. Now if C H = CC = Cmin, right. So,
+that is C hot is equals to or heat capacity of hot fluid is equals to heat capacity of cold
+fluid is the minimum heat capacity.
+If that be the case, which may be the case in regenerative heat exchangers; regenerative
+heat exchanger are those where your extra fluid or extra heat which is not utilized or the
+unutilized heat can be regenerated or utilized by sprinkling or preheating, whatever be
+the case right. So, that is called regenerative heat exchanger.So, if that is used, the hot fluid may be used to preheat incoming cold fluid or the reverse
+we can say the cold fluid can be reused to preheator to or cold fluid can be use to reduce
+the temperature of the outcome of the hot fluid; whatever be the case depending on that
+your regeneration of the heat will be there and then depending on the flow direction for
+parallel flow from the equation already we had, epsilon is equals to 1 minus exponential
+minus U A / Cmin (1 + Cmin / Cmax) / (1 + Cmin / Cmax), right
+So, in that substituting C min / Cmax = 1, because here we had taken it to be that; then if we
+substitute that then we get.
+(Refer Slide Time: 17:59)
+Then we get ɛ = 1 – exp [-2UA/C min / 2], right. And for counter flow that was for parallel
+flow Cmin is, if Cmin = Cmax; then (Th1 - Tc1) = (Th2 - Tc2) = ΔTlm; and (Th1 – Th2) = (Tc1 - Tc2)
+and of course, this (T h1 – Th2) = (Tc2 - Tc1) this is this is (Th1 - Tc1) is (Th2 - Tc2) = ΔTlm ok,
+and (Th1 – Th2) = (Tc2 - Tc1) = ΔTlm.
+So, if that be the case, then UA/ C min = ΔT / ΔTlm = yeah this is (Tc1 - Tc2) / (Th1 - Tc1)
+right, this one right. So, this is (T c1 - Tc2), so (Tc1 - Tc2) / (Th1 - Tc1), right. So, we can write
+that substituting this value of (T h1 - Tc1) from this (Th1 - Tc1) = (Tc1 - Tc2) / 1/ɛ - 1. We can
+rewrite UA/Cmin = (Tc1 - Tc2)/ (Tc1 - Tc2) (1/ ɛ -1); that is equals to 1/ ɛ -1 or 1/ ɛ -1 = 1/U
+A /Cmin.
+So, this we can then write in this form.(Refer Slide Time: 20:29)
+That 1/ ɛ = 1+ 1 / UA / C min = U A /Cmin + 1/UA / Cmin, right. So, ɛ = U A / C min /1 + U A /
+Cmin, this we can write in the form of NTU, right.
+So, where UA / Cmin is was nothing but, that NTU right. So, this is NTU / 1+ NTU right.
+So, that is what we are expressing in terms of number of transfer units and that is related
+with the epsilon that is effectiveness right.
+(Refer Slide Time: 20:58)
+Now if we look at the effectiveness versus NTU, if we look at effectiveness of parallel
+flow heat exchanger is always less than that of the counter flow heat exchanger. How,you see for comparison we are writing NTU; if it is NTU, NTU you we said U A / C min
+right, that was the NTU.
+So, if that is equals to 1 right, then for parallel flow you that effectiveness ɛ = 0.43;
+whereas, for counter flow it is 0.5. So, this is less than, right. So, this is less than this.
+Similarly if it is for NTU = 3, right; effectiveness for parallel flow is if it is 0.5 then that
+for counter flow it is 0.75, again parallel flow is less than counter flow, right.
+Similarly, if it is 5 NTU = 5, then it is for parallel flow 0.5; then for counter flow it is
+0.83. So, all the time counter flow is higher value for effectiveness than that of the
+parallel flow and if NTU = 10 and then for counter flow effectiveness is 0.5 whereas, for
+a sorry for parallel flow effectiveness is 0.5; whereas, for counter flow it is 0.9, right.
+So, we can say that, this counter flow heat exchanger has always higher effectiveness
+than that of the parallel flow, right. So, this means that counter current heat exchangers
+are more effective right.
+(Refer Slide Time: 24:15)
+That we can also see from here, that this table says that effectiveness relations for heat
+exchangers is like that NTU is equals to U A s/ C min and C = Cmin / Cmax = m Cpmin /m dot
+Cpmax, right.
+So, if heat exchanger type is like that double pipe and if the flow is parallel, then the
+NTU relationship is like this: ɛ =1 – exp[- NTU ( 1 +c / 1+ 1+ c)]; where c = C min / Cmaxright. Similarly for counter flow, the same ɛ is 1- exp[- NTU ( 1 - c / 1 – exp[-NTU (1-
+c)]. For shell and tube one shell pass 2, 4 etcetera tube pass, right shell pass one; that is
+the external fluid which is going out is having one pass whereas, the other one has 2
+passes or 2, 4, 6 whatever passes, right. So, here we can have baffle and do the passes.
+Then there ɛ is 2 (1+ c+ 21c) (1- exp[ - NTU 21c/ 1 – exp[-NTU 21c] right.
+For cross flow where single pass both fluids unmixed right; if C max is mixed then oh for
+both fluid unmixed ɛ = 1 - exp[ - NTU 0.22 / c] (exp[ - c NTU0.78 – 11]. Or if Cmax is mixed
+or Cmin is unmixed; then ɛ =1/ c (1 exp[ - c (1 – exp[- NTU]. Or if C min is mixed and Cmax
+is unmixed just the reverse, then ɛ =1 – exp[- 1/c (1- exp[-c NTU].
+If all four heat exchangers with c is equals to or if all heat exchangers with c = 0; then c
+= 0 means Cmin is 0, right. So, epsilon is 1 – exp(NTU), 1 – exp[ - NTU] right.
+(Refer Slide Time: 27:41)
+So, we can write, that NTU relations for different double tubes, different heat exchangers
+type are also like this right. When all the inlet and outlet temperatures are specified, the
+size  of  the  heat  exchanger  can  easily  be  determined  using  the  LMTD  method.
+Alternatively,  it  can  be  determined  from  the  effectiveness  NTU  method  by  first
+evaluating  the  effectiveness  and  from  it  is  definition  and  then  the  NTU  from  the
+appropriate NTU relations, right.(Refer Slide Time: 28:23)
+ (Refer Slide Time: 28:26)
+So, this is how we have done the summary and that is where we are coming to the end of
+this class particularly; where we have done for NTU Number of Transfer Units in terms
+of effectiveness, right. So, with this let us stop, the time is up so.
+Thank you.

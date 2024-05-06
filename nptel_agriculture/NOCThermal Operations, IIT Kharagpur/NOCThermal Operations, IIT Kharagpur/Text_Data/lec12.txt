@@ -1,0 +1,231 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 12
+One Dimensional Heat Transfer Through Cylinders (Contd.)
+ 
+Good morning, so we were discussing about the steady state One Dimensional Heat
+Transfer in your cylindrical coordinate, ‘right’. So, it is lecture 12, ‘right’, so it was by
+mistake it was written lecture 11, so now, it is 12, ‘right’. So, we now go to that
+straightaway, where we were solving the problem. You remember, we were given a
+problem, so let us go directly to that.
+(Refer Slide Time: 01:02)
+That this problem was given energy is generated at a constant rate of E 0 W/m3 in a solid
+cylinder with a radius r is equal to ‘a’ maintains a constant temperature T 1. Derive an
+expression for one dimensional, radial, steady state temperature distribution T(r) and the
+heat flux q(r), ‘right’.
+So, this is to be done and also we are suppose to calculate for different E 0, r and T1 what
+is the center temperature, ‘right’. So, we had come to the level that we had integrated,
+‘right’ and then, we had found out the two integration constant C 1 and C2 by utilizing the
+boundary conditions; two boundary conditions; one boundary was dT/dr is equal to 0 at r
+is equal to 0, that is the it is similar to that there is no heat transfer at r is equal to 0,‘right’ and the second boundary was at r is equal to a T(r) is equal to T 1, ‘right’. So, with
+these two boundaries, we found out C 1 to be 0 and then the second boundary, where our
+time was over, second boundary, we found out C 2.
+(Refer Slide Time: 02:51)
+In the previous classes also I said whenever we are doing problems and you also please
+check that the whether the values coming like this or not. There may be some mistake
+calculation mistake or by as you have seen somewhere in some places by cut and paste
+there are some mistake. 
+So, mistakes can happen, so please do cross check and if it is different, then please bring
+to our notice that it is not, ‘right’. Hopefully, it will not be, but still we cannot say that it202 1
+2201
+0
+7 2;4
+( ) 1 ; ( ) det min4
+( )( )2
+1 10 (0.02), (0) 150 212.54 16oE aC T Thetemperaturedistributioninthecylinde rbecomesk
+E a rT r T and theheat fluxq r is er ed fromitssefiniti onk a
+dT r E rq r kdr
+X XNow T CX
+and 
+         
+  
+  
+75 2 01 10 0.02, ( ) 1 10 /2 2E a X Xq a X W m  will not be. So, please check, then if it is all right no problem, but if it is different, then
+bring to our notice we shall definitely do the correction again and then tell you, ‘right’.
+there is an internal energy generation, your question may come in mind that you said that
+this is the axis and this is ‘a’, ‘right’; this is ‘a’, ‘right’ and this side is T 1 and this side is
+also T1. sorry, this side is also T 1. 
+So, if this is true then and this T 1 value is 150 oC, then how come this T 0 is 212.5, ‘right’?
+So, that may be a question arising in your mind, but the thing is that here we have said
+there is an internal energy generation. So, that is equivalent to 1×107 W / m3, ‘right’. So,
+that is why the temperature distribution has become like this that here 150 sorry; here it
+was 150; rest to 212 and the other side is same because this is the mirror image, ‘right’.
+So, this can happen because there is internal energy generation. So, this way if there is
+internal  energy generation,  we can solve the  problem  by analytical  method  and by
+integrating and then, putting the boundaries, we can solve it, ‘right’, so this is one way.
+Now, let us look into the next.
+A hollow  cylinder having constant thermal  conductivity k is maintained  at uniform
+temperature T1 and T2 at the inner surface r at r is equal to ‘a’ and at the outer surface at r
+is equal to ‘b’ respectively. Derive an expression for the one dimensional steady state
+temperature distribution T(r) in the cylinder. Also derive an expression for the radial
+flow radial heat flow rate capital Q through the cylinder over a length H. Derive an
+expression for the thermal resistance of a hollow cylinder of length H, ‘right’ and youremember that in the some previous class, we said also that to solve any problem please
+read at least twice, so that you first time you whenever you are reading.
+So,  that  time  only  you  can  make  what  we  what  is  given  and  what  we  done,  but
+subsequently on the second time be sure that this is given and this is to be done, so that is
+fundamental. So, it here also it is like that a hollow cylinder having constant thermal
+conductivity k is maintained at uniform temperatures T 1and T2, at the inner surface at r is
+equal to ‘a’ and the outer surface at r is equal to ‘b’ respectively.
+Derive an expression for the one dimensional steady state temperature distribution T r in
+the cylinder as well. Derive an expression for the radial heat flow rate capital Q through
+the cylinder over a length H and also derive an expression for the thermal resistance,
+‘right’; for the thermal resistance of the hollow cylinder of length H, ‘right’. Now, if we
+remember, we had said earlier that if you have; if you have a hollow cylinder like this,
+‘right’ that is what is said. So, this is the axis; that means, if we take this side that is good
+enough to say the other side. 
+So, if we; that means, here the one radius is given that is at ‘a’ and the other radius is
+given at ‘b’. The same is true on this two sides also, this is ‘a’ and that is ‘b’, ‘right’. So,
+this means if we take only this one side, then this side has can be eliminated ‘right’. So,
+to do that what we can do? Here, we draw it again perhaps we have drawn that it appears
+to be like this and this is b and this is sorry rewritten, this is b and this was a, ‘right’; this
+is a and this is b. So, the net this one is b minus a, ‘right’. So, b minus a is the thickness
+through which the heat is flowing, either this way or this way depending on what is the
+temperature.
+Now, the temperature given is also here it is say T 1 at r is equal to a. So, here it is T 1 and
+here  it is  T2, ‘right’,  then  and there  is  no internal  energy  generation.  Now, if  you
+remember in Cartesian coordinate, we said if there is no a internal energy generation,
+then the solution becomes easier because then you can utilize the electrical resistance
+concept also or equivalent to thermal resistance concept, ‘right’. So, from the resistance concept, we can write we can solve it like this; we can solve it
+like this that this is the probable solution is 
+T(r) is equal to T2 not T1, So, if these
+be true, then we can say that integrating between that integrating the two integrations 
+1
+1( )0
+( )
+, ( )d dT rr ina r bdr dr
+T r T atr a
+and T r T atr b     
+ 
+ 
+1
+1 2( )
+, ( ) lndT r C
+dr r
+and T r C r C
+ Then if this  be true, we have 2 boundaries and we can solve it like the boundary
+conditions given are 
+So, by I mean what we did we subtracted equation 2 from equation 1, ‘right’. So, we are
+equation  1  which  subtracted  from  equation  2  that  is  why  it  became
+ .
+Therefore, C1 is known now we can substitute anywhere either in 1 or 2, this value of C 1
+and we can get the value of 
+  So, C2 ln becomes this becomes,
+‘right’ like that and we can we can say that C 2 has become like this.
+1 1 2
+2 1 2
+2 11
+2 1 2 1ln
+ln
+ln
+ln,
+lnT C a C
+T C b C
+T TCb
+a
+aand C T T Tb
+a 
+ 
+    
+      
+So, this on rearrangement again, it is coming
+1
+2 1
+2 1
+1
+1 2ln( ),
+ln
+( )( ) 2
+ln
+2 2
+2
+lnr
+T r TaHencebT T
+a
+dT rQ q r Xarea k X rH
+dr
+T T
+b
+C ak X rH X k rH
+r r
+kHT Tb
+a
+ 
+   
+   
+   
+
+      
+ 
+   
+
+ 
+1 2
+ln
+2
+ln
+,
+2
+ln (2 ) /(2 )
+2T TTQ
+bR
+a
+kH
+b
+aNow R
+kH
+b a bH aH
+b a kH
+
+ 
+ 
+ 
+  
+ 
+  
+
+
+So, we have multiplied by 2 π a H both in the numerator with b and a, so it goes up. This
+is what we have explicitly made according to our future goal that we want to bring it to
+the tune, as we have shown delta T by R is Q and delta T, we have said T 1 - T2, but are
+we  as  now  coming  to  this  that  this  is  equal  to  that  R  is  T/kA m,  ‘right’.
+Am called log mean area, ‘right’; A m is the log mean area. So, R is 
+Am is the log logarithmic area or mean area, thickness is t; small t. Though, small t is
+generally denoted for time, but in many cases where time is not t because here it is time
+independent. So, that is why t is taken as the thickness, in many cases t is also taken as
+thickness and not only the time. Either time or thickness normally this is these are the
+two connotations used.
+So, t is the thickness which is b minus a, that is thickness of the cylinder. So, we can
+write R= T/ kAm and Am we have already written, ‘right’. So, again we have come to the
+end of the class. So, here we have seen today that we are able to do both for this solid
+cylinder  analytical  solution  and for the  hollow  cylinder,  we have  done the  not the
+analytical solution, again it is of course, I cannot say it is analytical solution, but not like
+that it is with respect to the thermal resistance concept.0
+0
+0, ; ,
+ln( / )
+,
+2
+2
+logim
+m i
+i
+mt A Aor R where A
+kA A A
+where
+A aH areaof innersurfaceof cylinder
+A bH areaof outersurfaceof cylinder
+A arithmicmeanarea
+t b a thicknessof cylinder
+ 
+ 
+ 
+
+  And with the thermal resistance concept, we have found out and shown that you know
+anything is equal to delta T/R or driving force this is called driving force by resistance,
+‘right’. Any parameter which can be written as driving force by resistance; driving force
+in this case is temperature this is delta T and resistance R that also you have shown,
+‘right’. Hopefully, you will go through and in the next class we will do some problem
+solutions, ok.
+Thank you.

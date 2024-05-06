@@ -1,0 +1,142 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 51
+Heat Exchangers (Contd.)
+So, good morning. We had been doing overall heat transfer coefficient and also we did
+falling heat transfer right. Now we would like to show for different geometries this is in
+lecture class number 51 right Heat Exchanger continuation. So, in that for different
+geometries, let us look at like here.
+(Refer Slide Time: 00:55)
+So, there empirical  relations,  empirical  correlations  for average  Nusselt  number  for
+forced convection over circular and noncircular cylinders in cross flow right. Mind it that
+empirical correlations for average Nusselt number for forced convection over circular
+and noncircular cylinders in cross flow right.
+So, here we have drawn that cross section of the cylinder this is fluid used, this is the
+range of the Reynolds number as we said earlier also, Re is denoted Reynolds number, in
+many  cases  it  is  also denoted  as  N Re whatever  be and  this  is  the  Nusselt  number,
+normally it is designated as a Nu but in many cases it can also be used as N Nu right,
+whatever be.(Refer Slide Time: 02:11)
+So, this is a Nu this is Re which we have already written right, fluid and sectional area of
+the cylinder if it is circular if it is a circle like this right. So, which has a diameter like
+this right and the fluid is gas or liquid the range of Reynolds number if it is between 0.4
+to 4, then the relation is Nusselt number = 0.989 Re0.33  Pr1/3 again it is 0.33 1/3 means
+0.33 right.
+(Refer Slide Time: 02:53)
+So, Re0.33 Pr0.33  if it is between 4 to 40 it was 0.4 to 4 between 4 to. So, that is a function
+of Reynolds number because Re = vDρ / µ right.(Refer Slide Time: 03:11)
+So, you keeping all other factors same for circular. So, D remains same. So, what could
+vary for the fluid ρ and µ that is same. So, only v can vary so if v is varying Re is also
+changing that is how it is getting change right. For 4 to 40 Nusselt number is 0.911
+Re0.385 Pr1/3. Within 40 to 4000 Reynolds number it is Nu = 0.683 Re0.466 Pr0.33.
+If it is 40000 to 400000 then it is Nu = 0.027, oh 40 to 4000 we have done. So, 4000 to
+40000 it is 0.193 Re0.618 and Pr1/3 and between 40000 to 400000 it is 0.027 Re0.805 Pr1/3  for
+circular cross sectionals of the cylinder, cross section of the cylinder with the diameter D
+if it is a square right.
+If the sectional area is a square, where D is the side of the square and the fluid is gas, if
+Reynolds  number varies  between 5000 to  100000 then 100000 rather  it  is  the cell
+number is equals to 0.102 Re0.675 Pr1/3 if it is a square but tilted right.(Refer Slide Time: 05:27)
+So, a square can be like this right, a square can be like this or if it is tilted means rotated
+then this can go there. So, that can be like a diamond right. So, that is what it is here. So,
+a square tilted 45°, again this height is D right that is the here it was side, but here it is
+the diagonal, diagonal is the D and the gas is the fluid. Again if the Reynolds number
+between 5000 to 500000 Nusselt number is related as 0.246 Re0.588 Pr1/3.
+(Refer Slide Time: 06:37)
+Then  for  some  other  geometry  we  can  write,  for  hexagon  if  the  cross  section  is
+hexagonal where the D is like this from one end to the other end right or like this becauseif it is hexagon all the this side distance should be same. Then if gas is the medium and
+again 5000 to 100000 is the Reynolds number range then Prandtl Nu = 0.153 Re0.638 Pr1/3.
+If it is hexagon tilted around 45°. So, this has become this right. So, a little tilted. So,
+then from this, this and this the D is that right. So, D is this so gas if it is again the fluid.
+So, between 5000 to 19500 Nu = 0.160 Re0.638 Pr1/3. So, generally this constant is varying
+right and if it is 19500 to 100000 then Nu = 0.0385 Re0.782 Pr1/3 and if it is vertical plate
+like this is a plate, if it is a vertical plate then that vertical distance is this D right.
+Then this is the gas which is the medium, between 4000 to 15000 Nu = 0.228 Re0.731 Pr1/3,
+if it is elliptical or ellipse right like this, if it is ellipse then this is the major axis this is
+the minor axis.
+So, minor axis is D, then if it is a again gas as the medium between 2500 to 15000 Nu =
+0.248 Re0.612  Pr1/3. So, these are some of the cases which are associated with different
+configuration of the geometry right.
+(Refer Slide Time: 09:33)
+Now, we come to a very important last part of the heat exchangers that is the heat
+exchanger effectiveness right. We have a heat exchanger that may be very good or very
+effective with a situation or that may be very non effective with that situation. Who will
+dictate? Right, who will dictate, how we will judge it?So, to judge that let us look into that heat exchanger effectiveness right, the performance
+of various heat exchangers can be compared by a term known as effectiveness. So, we
+have earlier seen that q = m h Ch (Th1 - Th2) that is for the hot fluid and is equals to m c Cc
+(Tc2 - Tc1) that was for the cold fluid right C for cold, and h for hot right.
+So, for the hot fluid m C v dT for the cold fluid m C p dT right. So, that here we are not
+saying C be Ch dull heat capacity. So, it is C H (Th - Th2) = CC (Tc1 - Tc2), assuming if we
+assume CH is much > or CH > CC, that is hot fluid heat capacity is greater than cold fluid
+heat capacity and for no heat loss that is also another very important assumption that
+there is no heat loss otherwise right. In that case (T c2 - Tc1) > (Th1 - Th2) because this
+product has to be equals to this product right and if C H > CC so value of this is more.
+So, this has to be less and this has to be more then only it is possible right, to be equated.
+So, that is why (Tc2 - Tc1) = (Th1 - Th2) right.
+(Refer Slide Time: 12:29)
+Or this can be written as if C C > CH and for no heat loss again (T h1 - Th2) > (Tc1 - Tc2). So,
+it can be again (Tc1 - Tc2) right.
+So, that is what we are writing, that is what is in practice if h 1 - h2, h1 is higher h2 is
+lower, then c1 has to be lower and c 2 has to be higher. So, to have then it should be c 2 - c1;
+however, to have this we are saying say mod of this the difference. So, here also thatmod of this the difference right. So, that is that case (T h1 - Th2) must be > (Tc1 - Tc2).
+when CC > CH right.
+(Refer Slide Time: 13:35)
+If that be true then let us look at for counter flow we can write, for counter flow you can
+write for CH > CC ɛ or the effectiveness = (T c1 - Tc2) / (Th1 – Tc2) and for CC > CH, if the
+cold fluids heat capacity is greater than hot fluid heat capacity then ɛ = (T h1 - Th2) / (Th1 –
+Tc2)  right.
+Now, using that equation ln ((T h1 - Tc2) / (Th1 - Tc1)) which you have used earlier = - UA
+((1/mhCh) + (1/mcCc)), if we use that which can be written as - UA / m cCc if we divide
+both side with the m cCc minus of UA, this can be written as - UA / m cCc times 1 by
+because this has become 1. So, 1 + (m cCc / mhCh) right. So, this we you can write that ln
+((Th2 - Tc2) / (Th1 - Tc1)) if CC > CH is this right –UA / m cCc (1+ mcCc / mhCh ) right.(Refer Slide Time: 15:47)
+Then we can also write for parallel flow, we can also write for parallel flow (T h2 - Tc2) /
+(Th1 – Tc1) = exp[ - UA/mcCc (1 + mcCc / mhCh) right. This we can write, this we can
+write that q = mhCh (Th1 – Th2) = mcCc (Tc2 – Tc1) right. Or mhCh (Th2 - Th1) is mcCc (Tc1 –
+Tc2) right, this we can write or T h2 = Th1 + ((mcCc / mhCh) (Tc1 -Tc2)).
+So, we have again made it m cCc / mhCh right. So, this if we write we can then T h we have
+written in this form. So, we are we were in this that C C if CC > CH right then (Th1 - Th2) >
+(Tc1 – Tc2). Why it is so that we have said earlier, I am not repeating.
+(Refer Slide Time: 17:53)
+Now, that we can say these heat capacities or C’s will be either same or different if they
+are different then let us turn one of them as C max, one of them as C max and the other as
+Cmin; right.
+So, let us define effectiveness epsilon of a heat exchanger as the ratio of temperature rise
+or drop of C min over the maximum temperature rise or drop possible in the heat
+exchanger, if the length of the heat exchanger were infinite right. Now, for parallel flow
+CH; if CH > CC then ɛ = (Tc2 – Tc1) / (Th1 – Tc1) and for CC > Ch ɛ =(Th1 – Th2) / (Th1 – Tc1)
+right.
+(Refer Slide Time: 19:13)
+Then for counter flow this epsilon is like that, for C H > CC ɛ = (Tc1 – Tc2) / (Th1 – Tc2) and
+for CC > CH ɛ = (Th1 – Th2) / (Th1 – Tc2). So, all the epsilons whether C H > CC or CC > CH
+depending on the situations and for counter current for co current we have defined all
+epsilon values right.
+Now, using them we have already use this equation, that ln = - UA of this equals to - UA
+/ mcCc ; mcCc ( 1 + mcCc / mhCh) right this we have done earlier also before the break.(Refer Slide Time: 20:29)
+Now, for parallel flow this where we got stuck that (T h2 - Tc2) / (Th1 - Tc1) = exp [-UA/
+mcCc (1 + mcCc / mhCh) right and q = mhCh  (Th1 – Th2) = mcCc (Tc2 - Tc1) right and mhCh
+(Th2 - Th1) =  mcCc (Tc1 - Tc2). So, Th2  = Th1  + mcCc; mcCc / mhCh  (Tc1 - Tc2) that is Th2
+right.
+(Refer Slide Time: 21:33)
+So, if the cold fluid is minimum. So, we said one will be max, C max and another will be
+Cmin and now we are assuming if the cold fluid is minimum right then C H > CC, then only
+CC can be minimum then ɛ = (T c2 - Tc1) / (Th1 - Tc1) and this are rearrangement we canwrite Th2 = (Th1 + mcCc / mhCh ) (Tc1 -Tc2) right. So, we can rewrite that is (T h2 - Tc2) / (Th1 -
+Tc1) = (Th1 + Cmin/Cmax (Tc1 -Tc2) - Tc2 )/ (Th1 - Tc1) right.
+(Refer Slide Time: 22:45)
+So, this we can also say that, this can also be written that this is equals to (T h1 - Tc1) + Cmin
+/Cmax  (Tc1 - Tc2) + (Tc1 - Tc2) / (Th1  - Tc1). So, this can be written as 1 + C min /Cmax (Tc1 -
+Tc2) / (Th1 - Tc1) + (Tc1 - Tc2) / (Th1 - Tc1) right. So, this can also be rewritten as 1 -  ɛ C min /
+Cmax - ɛ or this can be rewritten as (T h2 - Tc2) / (Th1 - Tc1) = 1 - ɛ (1 +Cmin / Cmax) right.
+(Refer Slide Time: 24:13)
+So, this we can rewrite as 1 - ɛ; (1 - ɛ) (1+ C min / Cmax) = exp[ - UA / Cmin (1 + Cmin / Cmax)
+right or ɛ = 1 - exp[ - UA / C min (1 + Cmin / Cmax) / 1+ Cmin / Cmax right. So, this is for where
+Cmin is the CC right.
+So, the same expression epsilon will result if C H is Cmin and CC > Cmin right, the same
+expression can be obtained. So, this is how we can find out for epsilon that is the heat
+exchangers  effectiveness  can  be  found  out  depending  on  the  minimum  capacity  or
+maximum capacity of the exchanger, whether it is hot fluid or whether it is a cold fluid
+that does not matter but the expression will become same and we can express that in
+terms of Cmin or Cmax as the effectiveness right. 
+So, now, our time is over. So, next class we will continue and complete it in terms of net
+transfer unit NTU right ok.
+Thank you.

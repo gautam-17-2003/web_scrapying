@@ -1,0 +1,190 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 50
+Heat Exchangers (Contd.)
+Good morning. So, we have come to the 50th class today, ‘right’, this is 50th class where
+we are continuing with the problems and solutions of Heat Exchangers and different
+items with different things of heat exchangers, ‘right’.
+(Refer Slide Time: 00:44)
+Now, one thing which we have not yet said that overall heat transfer coefficient which
+you have not we have not said yet. So, let us tell about that, overall heat transfer
+coefficient which is because this is associated with heat exchangers typically very much,
+because in many cases as we see that if it is the wall of heat exchanger, ‘right’ and if it is
+the outside, so outside heat transfer coefficient and inside heat transfer coefficient and
+that x/k that thing, with the wall these together makes that heat overall heat transfer
+coefficient. And; obviously, this is a function of many parameters which we would like
+to discuss.(Refer Slide Time: 01:49)
+So, that is a heat exchanger typically involves two flowing fluids separated by a solid
+wall. Heat is first transferred from the hot fluid to the wall by convection, through the
+wall  by  conduction  and  from  the  wall  to  the  cold  fluid  again  by  convection.  So,
+convection, then conduction, then again convection we have in the heat transfer or in the
+heat exchanger, ‘right’.
+(Refer Slide Time: 02:30)
+Any radiation effects are usually included in the convective heat transfer only, ‘right’. If
+there is any radiation like this is again the wall, ‘right’ h o and hi; if radiation hr isassociated outside that comes under this h o overall. And if here inside any radiation is
+there, then that also comes into h i as a collective one, ‘right’.
+So, separately radiative heat transfer coefficient is not normally taken into separately,
+that i in the convective heat transfer h i or ho this is taken in two, ‘right’. And R wall that
+is the resistance at the wall is normally ln (D o/Di), if Do and Di are the diameters of the
+outside and inside of the wall, ‘right’. So, that is taken D o and Di, so ln of do over D i /2
+πkL is the R wall where A i is πDiL and Ao is πDoL. If that be true, then we can rewrite it
+R total is R is equal to R total = Ri, + Rwall, plus Ro, ‘right’.
+(Refer Slide Time: 04:09)
+As we said if this is the wall, then the resistance at this outside the resistance at this
+inside, ‘right’ and the resistance within the material this three is R i then Rwall then Ro,
+‘right’. So, if that be true then we can substitute them with R i = 1 / hi, Ai + Rwall is ln (Do/
+Di) / 2 πkL, ‘right’, plus 1 / h o Ao is the total R, ‘right’.(Refer Slide Time: 05:14)
+If these be true, then we can write like this like the picture which we had we have shown
+that here it is more clear ok. So, here it is you see this is the D i this is the Do, ‘right’ and
+this is outer fluid, this is inner fluid, ‘right’ heat is being transferred, ‘right’ and this is A i
+= π D L and this is A o = π Do L.
+So, this is for i this is for o, ‘right’ and here it is the inner tube and here it is the outer
+tube, ‘right’ that has a length of L, ‘right’. This we have shown in more detail that is cold
+fluid and hot fluid, ‘right’, with separate coloring. And a section of it showing like that
+ok, where you see the heat is being transferred T i then it is through this wall, then
+through the outside, ‘right’. So, there it is the hot fluid, ‘right’ and here it is the cold fluid
+and here it is the wall. 
+So, heat is getting transferred from here to there and then there, ‘right’. And we have as
+the resistance analogy we have T i here Ri = 1/hi, Ai R wall. And Ro = 1/ho and this is
+outlet  To temperature,  ‘right’.  So,  thermal  resistance  network  associated  with  heat
+transfer in at the double pipe heat exchanger and this is the that double pipe or double
+tube whatever we call is that, ‘right’.
+So, here we are writing the two heat transfer areas associated with a double pipe heat
+exchanger for thin tubes D i is roughly is Do. And in that case A i is roughly Ao if the
+thickness of the wall is very small, ‘right’, then they are same.(Refer Slide Time: 08:11)
+However, if we look at these, then further analysis of this we can write further analysis
+of this we can write Q dot = ΔT / R = U A ΔT = U i Ai ΔT = Uo Ao ΔT, ‘right’, where U is
+the overall heat transfer coefficient in W/m2.°C. So, we can write, 1/UA s, ‘right’, 1/UA
+s = 1/UAi, is equal to 1/Uo Ao = R = 1/hi Ai + Rwall + 1 / ho Ao, ‘right’.
+And also you can write U i Ai = Uo Ao, ‘right’, but Ui = Uo unless Ai = Ao, ‘right’.
+Obviously, if Ai becomes equal to A o then only Ui will become Uo; else it is not if A i is
+not equal to Ao, then Ui = Uo. And R wall is roughly equal to 0 A i is roughly equal to A o
+= As, ‘right’ A solid or A total, ‘right’ s step ray of the system. So, in that case we can
+write 1/U = 1/hi + 1/ho if Rwall is roughly equal to 0, ‘right’. And in that case we can write
+U is roughly equal to 1/U i is roughly equal to 1/U o U is roughly equal to U i is roughly
+equal to Uo,, ‘right’.(Refer Slide Time: 10:52)
+So, if this  is true, then we can write that the overall  heat transfer coefficient  U is
+determined by the smaller convection coefficient, ‘right’. When one of the convection
+coefficients is much smaller than the other say, h 1 is much less than h o, then we have 1/hi
+is much greater than 1/h o. And in that case U is roughly equal to h i hi is dominating,
+‘right’ if  hi is much less than h o then 1/hi is much greater than 1/h o. Then you can write
+U is roughly equal to U h i.
+This situation arises frequently when one of the fluids is gas and the other is liquid
+because, gas has much less heat transferred coefficient compared to that of the liquid. In
+such cases fins are commonly used on the gas side to enhance the product UA and thus
+the heat transfer on that side. If h of that gas side is much low to increase it the fins are
+normally associated so that the heat transfer is increased that is UA is increased. 
+The overall heat transfer coefficient ranges from about 10 W/m2°C for gas to gas heat
+exchangers to about 10,000 W/m2°C for heat exchangers that involve phase changes,
+‘right’.(Refer Slide Time: 13:09)
+Now, phase changes mean we have a liquid which is flowing as you said say refrigerant
+22, ‘right’. So, what will happen outside temperature is some T outside, ‘right’ and since
+T outside is much greater than T of the refrigerant, ‘right’. So, the refrigerant when it
+will come in contact with the wall, where outside is the hot fluid then this refrigerant in
+the liquid form will come in contact with the wall and evaporate instantly giving away
+the latent heat or lambda. 
+And this lambda value is very high so that is why here it is said that the heat transfer
+coefficient ranges between, 10 W/m2°C to that of 10,000 W/m2°C which normally is
+associated with phase changes.
+When the tube is finned, on one side, to enhance the heat transfer the total heat transfer
+surface area on the finned side is A total surface is A total = Afin + Aunfinned this we have also
+seen while we did finned transfer, ‘right’.(Refer Slide Time: 14:58)
+We did absolutely total heat transfer analysis for fin, ‘right’. For short fins of high
+thermal conductivity, we can use this total area in the convection resistance relations as
+R convection is 1/hA s, ‘right’. To account for the fin efficiency we can write A s is
+equal to Aunfinned + ƞfin Afin, ‘right’. 
+This table says that the representative values of overall heat transfer coefficients in heat
+exchangers some values, ‘right’; where we have said the type of heat exchangers and the
+value of the overall heat transfer coefficient in W/m2°C ‘right’, so W/m2°C.
+So, the type of heat exchanger is what water to water; if the heat exchanges then water
+heat transfer coefficient is around 850 to 1700. If water to oil there are many cases,
+where it is 100 to 350, so water to water is much higher. If water to gasoline or kerosene
+it is 300 to 1000. Between feed water heaters it is 1000 to 8500, steam to light fuel oil
+200 to 400, steam to heavy fuel oil 50 to 200. 
+Steam condenser since it is condensing, so there is a change of phase so that is why it is
+1000 to 6000 change of phase. Freon condenser water cooled it is around 300 to 1000,
+ammonia condenser again it is water cooled it is between 800 to 1400 alcohol condensers
+again it is water cooled it is 250 to 700. Gas to gas very low it is 10 to 40, water to air in
+fin tubes where water is in the tube side it is 30 to 60.Then and 30 to 60 in one case and also it could be 400 to 850 depending on which side is
+water which side is fin. Steam to air in fin tubes where steam is in tubes it is 30 to 300
+again and between 400 to 4000 again depending on which side is steamed and which side
+is finned, ‘right’.
+(Refer Slide Time: 18:18)
+So, like that we have some idea about the overall heat transfer coefficient values for
+different  type  of  heat  exchangers.  The  performance  of  heat  exchangers  usually
+deteriorates with time as a result of accumulation of deposits on heat transfer surfaces.
+The layer of deposits represents additional resistance to heat transfer this is represented
+by a term called fouling, ‘right’. So, we have we have a pipe through which say milk is
+flowing and you are heating milk, ‘right’.
+So, after some time or few days you will see some quantity of deposit is occurring on
+this wall of the fin, on this wall of the heat exchanger or pipe, ‘right’. Since this is a solid
+having deposited on the inner side of the tube, this will exert resistance to heat transfer,
+either from outside to inside or from inside to outside depending on which one you are
+doing; if it is for heating then from outside to inside or if it is for cooling then from
+inside to outside whatever with the case there will be a great resistance.(Refer Slide Time: 20:14)
+And this great resistance is called fouling of the heat exchanger, ‘right’. And this to
+account for this fouling there is a term which comes up is called fouling factor or R f.
+So, this Rf can be written as say 1 by a 1/UA s = 1/U i Ai, = 1/Uo Ao which was equal to R
+resistance and this resistance is equal to 1/h iAi + Rfi that is that fouling resistance over A i,
+‘right’ inside fouling resistance plus ln(D o/ Di)/2πkL, + Rfo/Ao if there is also outside
+resistance. 
+So, we have inside resistance as well outside resistance, if it is so then, this comes R fi / Ai
+and Rfo/Ao, ‘right’. And; obviously, obviously this since it is R i and Ro. So, there are two
+tubes associated, ‘right’ ok, then plus 1 / h o Ao there is the total resistances associated,
+‘right’.(Refer Slide Time: 21:56)
+The fouling factor increases with the operating temperature; obviously, if milk is flowing
+through this if you were heating it say 63 °C that is the temperature for pasteurization,
+‘right’.
+So, at this temperature whatever be the fouling, if you are heating the same milk at 72 °C
+then; obviously, that the deposition of the solid or fouling will be higher in this compared
+to that at this.
+(Refer Slide Time: 22:41)
+Because fouling increases with the operating temperature and also the length of service
+how long it has been used. So, if you are using this for heating and milk is going through
+this may be in the new when you bought it in the new condition, this fouling resistance
+will be much lower. 
+But maybe after 1 year or 2 year depending on the use again depending on the use it is
+not necessarily a 1 year 2 year or 3 are depending on the use how many times you have
+used and how many times you have not cleaned etcetera this resistance will go up that
+deposition will go up, so that is also you have to keep in mind, ‘right’.
+(Refer Slide Time: 23:37)
+So, the length of the service and decreases with the velocity of the fluids; again you have
+this where milk is flowing with a velocity of say 10 m/s this is arbitrary, ‘right’ may not
+be realistic 10 m/s. Now if this milk is made 100 m/s; obviously, whatever the resistance
+was there that lightly slightly will be overcome by the velocity of the milk or milk I am
+giving example it can be any fluid, ‘right’. 
+So, that if the velocity can counteract with the fouling and this fouling decreases as the
+velocity increases, because they will not get that much of time to get deposited if the
+velocity is very high, ‘right’.(Refer Slide Time: 24:48)
+So, with this we come to the overall heat transfer coefficient and fouling also that from
+there here this is a pictorial view of the what you call it to be microscopic view fouling
+precipitation of particles in a tube, ‘right’. And this tells that the representative fouling
+factors representative fouling factors that is thermal resistance due to fouling for unit
+surface area, ‘right’. 
+And there fluid and the resistance is meter square kelvin per watt. So, distilled water sea
+water river water boiler feed water and if they are below 50 °C it is 0.0001, if it is above
+50 °C then it is 0.0002, 0.0002 and this was 0.0001, ‘right’, three naught 1. Fuel oil is
+0.0009 steam oil steam oil free if it is with oil then that will also add the resistance.
+So, if steam without oil or with the oil free it is 0.0001 refrigerants only liquid it is
+0.0002, refrigerants vapor it is 0.0004 alcohol vapors it is 0.0001 and air it is 0.0004,
+‘right’.(Refer Slide Time: 26:52)
+So, with this let us look into that other situations, ‘right’, perhaps we are coming to the
+end of the class, so it will not be possible to complete. But at least we can summarize
+that we have used overall heat transfer coefficient and also we have seen fouling factor
+why? Fouling factor overall heat transfer coefficient is coming because the inside outside
+of  the  pipe  and  the  pipe  itself  or  wall  itself  these  three  together  is  exhibiting  the
+resistances. As some of these resistances put together is coming to the overall heat
+transfer coefficient, ‘right’.
+And when there is a deposit in the in the pipe, that comes out to be the heat fouling
+factor, ‘right’. The fouling means that is fouling the fouling the heat flow fouling means
+obstructing that is obstructing the heat flow, ‘right’. So, this obstruction is taken care of
+by a term called fouling factor, ‘right’. And we have seen also fouling factor and what
+different fluids the normal flow fouling factors are in the range of 0.0001 to 0.0004 like
+that, ‘right’, 0.0001 to 0.0004 things like that. 
+So, this we keep in mind and perhaps we have come to the end of the class hour or time.
+So, we thank you and we join in the next class for other, ‘right’ for different shapes and
+sizes as you have we have shown, but we could not complete we will do that in the next
+class, ok.
+Thank you. 

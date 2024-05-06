@@ -1,0 +1,206 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 23
+Transient Heat Transfer (Contd.)
+In the previous class we have seen that lumped system analysis how it can be done,
+‘right’. And, today we will do another that is where the boundary conditions are given,
+‘right’. Boundary conditions if are given, then we can solve it analytically. We will do
+that today and in the previous class we were discussing about the problem, that a slab is
+bounded in the two sides; one with a convective boundary condition and the other with
+the constant heat flux boundary condition, ‘right’. 
+So, under that  situation  if  the slab  is  having a thickness  L, then  what will  be the
+temperature distribution in the body that we can find out by solving it, ‘right’.
+(Refer Slide Time: 01:39)
+So, we come to this that if the boundary conditions are given, that we have a heat flux of
+q watt per meter square, in a slab of thickness L and the other boundary is a convective
+boundary with the heat transfer coefficient of h and the temperature is T e. 
+Then  a  slab  of  constant  with  the  thickness  of L at  an initial  temperature  of T 0 is
+considered and heat is supplied at one end of it is boundary surface at the constant rate ofheat flux that is q watt per meter square, when time is greater than 0 or t is greater than 0.
+Heat is dissipated by convection into the other boundary surface into your medium at
+uniform temperature of T e with a heat transfer coefficient of h, ‘right’. 
+(Refer Slide Time: 02:36)
+Perhaps a similar problem we have done earlier also, ‘right’;. If the area for heat transfer
+on both the sides of this plate is assumed to be equal to A and applying the energy
+balance equation we can write, that
+0( )( )
+( ). ( ) 0
+( ) 0
+( )
+( ) ( )e p
+e p
+edT TAq Ah T T t C ALdt
+dT tor q h T T t C L fortdt
+and theinitialconditionis
+T t T fort
+Letusdefineanewtemperature t as
+t T t T
+
+
+  
+    
+   
+ 
+ (Refer Slide Time: 03:47)
+ (Refer Slide Time: 04:51)
+0 0( )( ) 0
+, ( ) 0
+, ,
+( ) ,e
+p p
+mtppand thegoverningequationcanbewrittenas
+d tm t Q fortdt
+and t T T fort
+h qwhere m and QC L C L
+ThesolutionisQt Ce wherem
+ 
+ 
+    
+   
+   And, this is the steady state temperature in the slab that is where theta tends to infinity is
+the steady state temperature.
+(Refer Slide Time: 05:53)
+An electric iron has a steel base having density  = 7800 kg/m3, Cp that is specific heat
+Cp = 400 J / kg oC, conductivity = 80 W / m2 oC, weight M is 1.2 kg, ironing surface area
+A is 0.03 meter square, perhaps this problem we have not done. A similar solution might
+have been, but this problem we have not done, 0.03 meter square is heated from the other
+surface with a 300 watt per watt heating element.
+The initial temperature of the iron is T i = 25oC and the heating starts suddenly. The iron
+starts dissipating heat by convection from the ironing surface into an ambient at T e is
+equal to 25oC with a heat transfer coefficient h equal to 60 W / m2 oC. What is the
+temperature of the iron when t is 5 minute after the start of the heating? What would be
+the equilibrium temperature of the iron if the control did not switch off the current? 
+
+0
+0
+0( ) 1
+, ( ) 1mt mt
+mt mtQCm
+Thetemperaturedistributionbecomesequalto
+Qt e em
+qor t e eh
+Q qIf t
+Thisisthesteadystatetemperatureintheslabm h
+ 
+ 
+ 
+  
+
+  
+  
+    How it is coming into this unsteady, because you see after time 0 suddenly you have put
+one iron, which is starting heating, ‘right’. That you everybody you or every one of us do
+that while ironing you put the switch on, ‘right’. So, you in that iron down below, there
+will be some electrical resistance through which this electricity process and by which
+that i square r is that is that element is heated, ‘right’.
+So, you were heating and then doing the ironing and after doing you forgot to switch it
+off, ‘right’. So, what will be the effect? is it that if that iron will go on increasing the
+temperature? Perhaps not i.e., what is the problem, that is why it is that a little unsteady
+and the solution we have to find out through the analytical solution. Because, in this type
+of thing Biot number will not come into, because hl/ k is that if you see it will be very
+high, it is not less than 0.1. Though here we have not shown typically in this problem,
+but the solution itself says that it is almost equal to that solution of unsteady and the iron
+is the example for that, ‘right’.
+So, if we look at the problem once more then it becomes easier, more clear to you that an
+electrical iron has a steel base having density of 7800 kg/m3, specific heat of 400 J / kg
+oC. So, conductivity k is 80 W/moC weight of the material is 1.2 kg, ironing surface area
+through which we are ironing you see most of the iron is like that, this end is little cons-
+equated and gradually it is expanding, ‘right’ one end is narrow or pointed so, ‘right’.
+So, the total area of iron is 0.03 m2, heated from the out other surface with a 300 watt
+heating element. Initial temperature of the iron is 25 oC and the heating starts suddenly,
+because you switched off suddenly or switched on suddenly so, that you can iron it,
+‘right’.
+The iron starts dissipating heat by convection from the ironing surface into an ambient
+where the temperature is 25  oC with a transfer coefficient of 60 W/m2oC. What is the
+temperature of the iron when t is 5 minutes you have been ironing you have been put on
+the switch for 5 minutes your system is on, what will be the temperature? 
+That is number 1, after the start of the heating, ok. What it would be the equilibrium
+temperature of the iron, if the control did not switch off the current? If the problem we
+have defined in a different way actually it is like that.So, you were doing that ironing  sometime  after doing that few you have suddenly
+forgotten to switch off and you left the place, ‘right’, that is what equivalent to that, what
+will be the equilibrium temperature of the iron if the control did not switch off the
+current? That means, you have not switched off the current. If that be the condition what
+will be the maximum and that is what we call it to be the steady state temperature,
+because that iron will not go on increasing the temperature, rather then it will become red
+hot and then suddenly burst like that it does not happen, ‘right’. So, that is a real example
+or real problem which we are solving, ‘right’.
+(Refer Slide Time: 12:08)
+So, we have understood the problem and the solution of heat we can say, that here also
+we are finding out first 
+So, Biot number is 0.003. So, if it is 0.003 similar to that earlier we can use the lamp
+system, ‘right’.
+So, here that lamp system was the solution 314.3 100.03 7800sV ML X mA A X   
+33 60 4.3 103.2 1080hL X XBi Xk  
+0
+0
+2( ) 1
+, 25 25 0
+30010000 /0.03mt mt
+i eqt e eh
+where T T
+q W m 
+   
+    
+ If that be true initial and the temperature which was there let me see where is the where
+is the pen with this side I have kept, ok. So, if we see that so, initial temperature was
+given 25 and environmental temperature is also 25, ‘right’. And, the earlier that area was
+0.03, conductivity was 80, this we have changed to m and the other things remaining
+same.
+So, we have found out Bi and then now we are finding out the solution this solution we
+have already found out earlier and Bi we have found out to be equal to 0.3 0.2 10 to the
+power minus 3 that is 0.003, ‘right’. So, 0.003 say applying the lumped system analysis,
+we found out theta T is theta 0, e to the power minus mt plus 1 minus e to the power
+minus mt into q by h, this we have just solved it with the boundary, ‘right’. Where theta
+0 is Ti minus Te that is 25 minus 25 that is equal to 0, ‘right’.
+So, theta 0 is 0 and q the value of q which was not given which was given 300 watt that
+much of supply heat being supplied 300 watt, but q is a flux. So, that is watt per meter
+square, ‘right’ so, to get the q what we need to do we have to divide with the area. So,
+that is what we have done q is 300 by 0.03 that becomes equal to 10000, that is 10,000
+watt per meter square, that we have found out. Because we were given that heat is
+supplied equivalent to 300 watt, ‘right’.
+So, that 300 watt we are now converting it to the heat flux, which is watt per meter
+square. So, by dividing that with the area of the heat transfer that is 0.03. So, 300 by 0.3
+is nothing, but 10,000, ‘right’, so that we have found out.  (Refer Slide Time: 18:44)
+Now, we have to find out the temperature distribution ‘right’. 
+So, value of q was watt per unit of q was watt per meter square and unit of h is watt per
+meter square degree centigrade. So, this goes out; so degree centigrade is the unit. So,
+that becomes 166.66 degree centigrade. So, the equilibrium temperature; that means, if
+you have not put the power supply off, then the temperature will rise from 148 to 166
+and it will be at that temperature only, ‘right’.
+Because, why you are not changing the 300 that 3 you remember that, you are not
+changing the heat source that is 300 watt; that means, that it is i square r, there is i you
+are not changing, v you are not changing, r you are not changing, so that is fixed. So,
+correspondingly your watt supply is also 300.
+2
+33
+3
+1.34160 /
+604.47 107800 400 4.3 10
+4.47 10 5 60 1.341
+100001 12360
+, ( ) ( ) 123 25 148
+10000166.6660o
+p
+o
+oe
+oh W m C
+hm XC L X X X
+mt X X X
+t e C
+SoT t t T C
+and theequilibr mesequa iumtemperature ltobeco
+qCh
+
+
+
+
+
+  
+ 
+   
+    
+   So, it will come to your steady that is 166.66 and where it will remain, if we do not put it
+up it will not go beyond that temperature, ‘right’. So, hopefully we could have explained
+the situation and we have come to the end of the class for this. So, let us call it a day.
+Thank you.

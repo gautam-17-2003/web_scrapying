@@ -1,0 +1,231 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agriculture and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 37
+Heat Transfer by Radiation (Contd.)
+So, good morning; we have been doing that radiation heat transfer ‘right’. So, in the
+previous classes we have given some idea of radiation heat transfer, how radiation is
+taking place, what is the role of these particles or like in convection in conduction we
+need to have always some medium, but radiation does not need any medium even in
+vacuum also it can radiate.
+So, from those initial idea we let us now look into some problem. We also said that
+emissivity ‘right’ and the Stefan Boltzmann constant that we have said and we now
+utilize those thing into this class. So, this is the plus number lecture number 37 where we
+are continuing with heat transfer by radiation ‘right’. This is a continued class ‘right’. So,
+that if we know then we can directly go into a problem where this can be solved ‘right’. 
+(Refer Slide Time: 01:52)
+There is a mass of gas at 600 K perhaps this one we have done. Yes this solution we are
+done do because this is reminding me that this solution we have done where the epsilon
+came out to be this ok. If we have already done, so, we are not going to repeat.(Refer Slide Time: 02:17)
+So, next we go to this. This is a very important one that is radiation shield ‘right’. From
+this figure we see that there are 3 or 2 parallel plates ‘right’ in between there is a
+radiation shield and the properties of these parallel plates a properties values which are
+given that this plate is at T 1 with an Ɛ1 emissivity and A as the area ‘right’. This plate has
+a temperature T2 emissivity Ɛ2, but same area A and the radiation shield which you have
+that is giving that T 3 at one end one side facing the plate 1 and the emissivity is Ɛ 3,1, but
+having the same area A.
+Whereas the other side facing the plate 2 that is having temperature T 3  emissivity a Ɛ3,2
+and area A ‘right’. This is a very very important one. So, that if we understand one we
+can do whether it is having single radiation shield or multiple radiation shields ‘right’.
+Now, we go into that the Q o that is without any radiation shield the value of this would
+have been as we have seen earlier is Aσ(T 14 – T24)/(1/ɛ1 + 1/ɛ2 – 1) that is had there been
+no radiation shield ‘right’. This is between the 2 parallel plates how much whose who
+which having epsilon 1/ ɛ 2 as the emissivities.
+So, how much would have been the Q or the rate of heat transfer ‘right’ that simply like
+this we can find out ‘right’. So, here we define another parameter called J or radiosity
+which means radiation emitted by surface plus radiation reflected by the surface both
+emitted as well as reflected this two summation is the radiosity ‘right’.We also define Eb or black body emissive power ‘right’ that is one black body emissive
+power and epsilon emissivity and another one is F that is view factor like this is parallel
+‘right’. So, had it been inclined like this the view factor would have been different. What
+we affected is having now between them that view factor is had it been inclined like this
+cannot be the same ‘right’. So, that is why this view factor has come in that a view factor
+and we achieve since we are taking parallel plate. So, F 13 that is between this two and F 32
+between these two are having view factor equal to 1 for large parallel plates ‘right’.
+So, once we have all these then we can apply that electrical analogy or thermal resistance
+concept thermal resistance already we have done many times in thermal that conduction
+problems ‘right’. So, that same thing if we apply that a Q is flowing where first coming
+to this surface. So, this is having a resistance equivalent to E b1 ‘right’ or rather at this
+point you have a resistance of J 1 that is both radiation plus reflection together and this is
+1 minus that resistance is (1 - ɛ 1)/ɛ1 ‘right’.
+Second when it is coming to this surface is 1/A F 13 facing this that is along with the view
+factor then the other side ‘right’. So, this is a this is for the view factor and another for
+the emissivity there 1 minus that second resistance is (1 - ɛ 31)/Aɛ31 then the this side
+emissivity that is (1 - ɛ 32)/Aɛ32 ‘right’ and the view factor that is 1/AF 32 and lastly the
+resistance due to the due to this plate that is (1 - ɛ 32)/Aɛ2 ‘right’.
+So, all these resistances we have ‘right’ and with this we can find out by change this
+without the plate ‘right’ without the radiation shield that was this. So, this we can rewrite
+with the shield.(Refer Slide Time: 09:12)
+And we can see that now we can write with the help of radiation shield that the heat
+transfer rate Q across this system with one shield that can be written as with one shield
+that can be written as Q 1 = A σ (T14 - T24) ‘right’.
+Over 
+22323
+1313
+11111
+
+
+
+
+  ‘right’. So, if this is known we can simplify it
+as 
+1
+ε1
+ε1
+ε1
+ε1TTAσ
+3,213214
+24
+1
+
+. This minus came from here ‘right’.
+This minus came from here ‘right’. This is like that 1/ɛ 31 that minus this ɛ31/ ɛ31 that is 1
+‘right’. So, this ɛ31 this ɛ32 we have taken it is here 1/ɛ 31 or 1/ɛ32. So, one more - 1 we get
+it here. So, those 2 minuses are duly taken care of ‘right’.(Refer Slide Time: 11:07)
+So, that is the Q ‘right’ and if emissivity of all surfaces are equal then we can write that
+Q1 = A σ (T14 - T24)/[2(2/ɛ-1)]. So, many words ‘right’ and under this if there are n
+number of shielding having equal surface emissivity then we can write Q n similar to this
+is equal to A σ (T1 - T2) to the power (T14 - T24)/(N+1) this was 2 for a single shield so;
+that means, 1 shield plus 1. So, n shield plus 1 is N + 1 ‘right’. 
+So, A σ (T14 - T24)/ [(N+1)(2/ɛ - 1)] is the Q n ‘right’.
+(Refer Slide Time: 12:32)
+So, if this is known then we can write hence the ratio of heat transfer rates for parallel
+plate systems having N shields and no shield having N shields and no shield when all
+emissivities are equal then we can write Q n and by Qn/Q  is equal to 1/[N+1] ‘right’.
+For two concentric spheres or long cylinders with opaque surfaces having A 1 and A2
+surface areas and T 1 and T2 temperatures and ɛ 1 and ɛ2 emissivities of the inner and outer
+surfaces respectively and assuming that the view factor F 12 and 2 1 are whatever is all the
+factors are equal to 1 then we can write that for A 1 is equal to we can write Q o equal to
+A1 σ (T14 - T24)/ [(1/ ɛ1)+(A1 / A2)( (1/ ɛ2)- 1)]   that is for opaque surfaces having surface
+areas A1 and A2. So, earlier we had same on the vertical plates we had same area ‘right’ if
+you remember.
+(Refer Slide Time: 14:15)
+Now, here the areas are different one is A 1 and another is A2. So, and obviously, earlier
+also we had ɛ1 ɛ2 they were different.(Refer Slide Time: 14:28)
+Temperatures were also different it was at T 1 it was at T2. So, those things were ‘right’,
+but now we have changed the area and if the area is changed then the for two such
+system where two opaque surfaces are there and they are we said the either concentric
+spheres or concentric cylinders whatever it be ‘right’ like this. So, this is one and another
+is this. So, center is this Tt is not properly actually when you are drying in this you have
+to be a little careful. So, like this ‘right’.
+So, this area is different this area is different, but they are concentric ok. So, A 1 σ (T14 -
+T24)/ [(1/ ɛ1)+(A1 / A2)( (1/ ɛ2)- 1)].(Refer Slide Time: 15:42)
+Now, had if it is like that that these two areas are same then it becomes that parallel plate
+having same area ‘right’. So, if A 1 = A2 = A then it becomes this is unity 1 and this
+becomes A so; that means, it is reducing to that parallel plate. So, this is the limiting
+situation and since it is satisfying means this expression is correct ‘right’.
+Now, if radiation  shield  is  placed  between the two surfaces  and ɛ 31 and ɛ32 be the
+emissivities of the shield add the surfaces facing the inner and outer surfaces of the
+assembly respectively ‘right’. Now we say that we had this ‘right’ and this was the
+centre. So, we are putting another radiation shield in between where this ɛ 31  and ɛ32 are
+the emissivities of the shield ‘right’.(Refer Slide Time: 17:03)
+So, if that be true then we can write like this that the rate of heat transfer across the one
+which we I drew there it is neatly drawn ‘right’ of course, with the help of the facilities
+having. So, the rate of heat transfer across considering F 13 and F32 is equal to 1 F13 means
+that first and this is the second radiation this is the third ‘right’ like this.
+ So, we are putting one layer we have put we are putting one like this ‘right’. So, that is
+the shield ‘right’. So, this shield is having F 13 and F32 equal to 1 and we can write Q 1 = A1
+σ (T14 - T24)/ [(1/ ɛ1)+(A1 / A2)( (1/ ɛ2)- 1)+ (A1 / A2)( 1/ɛ3,1+1/ɛ3,2-1)] ‘right’.
+Similar as we have seen without the shield ‘right’ here only we have added that shield.
+So,  if  this  is  true  then  our  Q  has  become
+
+
+
+
+
+
+
+
+
+
+
+111111
+2,31,331
+221
+14
+24
+11
+ 
+AA
+AATTA
+.  So,  this  is  similar  to  earlier  one
+earlier shield one that whatever parallel shield or parallel plates we had the shield the
+similar expression except the area ratios because the areas are different A 1 A2 and A3
+because this area this area and the shield area they are all different ‘right’. 
+Now, the limiting situation is that if all areas are same that A 1 = A2 = A3 if that be true is
+equal to A then we can substitute this as A ‘right’ this becomes 1 this becomes 1 ‘right’
+then for A1 = A2 = A3 this equation reduces to the same for the parallel plates ‘right’.(Refer Slide Time: 20:23)
+Then it becomes epsilon it becomes epsilon sorry A σ T 14 - T24 (1/ ɛ1) + (1/ ɛ1) + (1/ ɛ2) (1/
+ɛ1) + (1/ ɛ2) - 1 this is number 1 then plus this becomes 1; 1 by this 1/ɛ 3,1 + 1/ɛ3,2 - 1 that is
+nothing, but the same equation as we did it for the parallel plates ‘right’. 
+We can solve a problem like this 2 large parallel plates at T 1 = 900 K and T2 = 600 K
+have emissivities ɛ 1 0.4 and ɛ2 0.8 respectively. A radiation shield having an emissivity
+ɛ3,1  is 0.05 on one side and an emissivity of ɛ 3,2 is equal to 0.1 on the other side is placed
+between the plates. Calculate the heat transfer rate by radiation per square meter with and
+this is  with and without the radiation shield ‘right’.
+So that means, you have to find out that heat transfer rate by radiation per square meter
+with and without the radiation shield ‘right’. This solution is also not so tricky because
+we have already found out what is the expression.(Refer Slide Time: 22:17)
+So, if we solve it comes to like this that the heat transfer rate without the shield is
+determined as 
+111
+214
+24
+1
+
+
+TTA
+Qo ‘right’ and 
+111
+214
+24
+1
+
+
+TT
+AQo
+ so much watt.
+So, by substituting the values we get σ is 6.57× 10-8. This is what you have to remember
+throughout  life  that  the  sigma  Stefan  Boltzmann  constant  is  6.57×  10-8  in  many
+interviews or many such kind of; such kind of exams things are or that oral exams these
+things may be asked ‘right’.
+So, (9004 - 6004) ‘right’ over (1/0.4 + 1/0.8 – 1) ‘right’ this is Q o/A this has come 12,578
+W ‘right’ 12,578 means 12.578 kW ‘right’. Then we also need to find out this was
+without. So, we also need to find out width. So, the heat transfer rate with shield that can
+be written as 
+
+
+
+111111
+2,31,3214
+24
+1 1
+TT
+AQ
+ ‘right’.
+So, for the surfaces that is this surface and this surface and this is for the shield for both
+the faces facing this and facing that ‘right’. So, if that is known then by substituting the
+values sigma value 5.67× 10-8 ‘right’ and 9004  T24  - 6004 these are the 2 temperaturesgiven T1 and T2 over ɛ1 is given 1/0.4 ɛ2 is given 1/0.8 1 ‘right’ - 1 and ɛ 3,1 is given 0.05 is
+1/0.05 ɛ3,2 given 1/0.1 or point given 0.1. So, it is 1/0.1 - 1 ‘right’.
+(Refer Slide Time: 26:19)
+So, this on simplification gives the numerator to be 29,852.6 because that is how it such
+big numbers can be handled. So, we write first the numerator do not do all at the time it
+there may be a mistake ‘right’. So, or if the mistake is not there at the numerator if it is at
+the denominator then the entire thing goes out. 
+So, that is why first do that numerator. So, it is 29,852.6 and then the denominator that is
+31.75 ‘right’. So, here having the same area otherwise if it would have been different
+areas like A1 and A2 they are A3 then it would have been a little different than this ‘right’
+this is for the same area of all.(Refer Slide Time: 27:23)
+So, this has become 29,852.6 by 31.75 is 940.2 watt per meter square. So, without shield
+the heat transfer rate was 12.5 kW whereas, this is 940; that means, almost 1 kW ‘right’.
+So, 10 to 10 times the heat transfer has been reduced by putting the shield. So, this is
+how and why the shield is being put and people do prefer for big things or for valuable
+things to protect by from the radiation by putting radiation shields ‘right’.
+(Refer Slide Time: 28:33)
+So, do us do similar problems here we have shown that it is almost one tenth or one
+twelfth ‘right’ the without shield and with shield it is one tenth or one twelfth of thewithout with shield is one tenth or one twelfth of the with shield ‘right’ sorry without
+shield I mean with shield the value is one tenth or one twelfth ‘right’ one tenth to one
+twelfth of the with this is with shield without shield ‘right’. 
+So, you can reduce the heat transfer rate by 10 times from the with shield by giving a
+shield ‘right’ to the from the without shield by giving a shield ok.
+Thank you. 

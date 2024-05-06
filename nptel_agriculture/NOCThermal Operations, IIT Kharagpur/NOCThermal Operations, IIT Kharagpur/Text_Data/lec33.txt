@@ -1,0 +1,174 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 33
+Heat Transfer by Convection (Contd.)
+Good morning. So, we are doing some problems on the application of the relations which
+we have given, ‘right’ and this is lecture number 33.
+(Refer Slide Time: 00:41)
+Yeah we are doing it; I think this one will give you the problem and I wish that you solve
+it. And if you are not able to solve then only on the next maybe next to next class or
+some other classes, we will come back to this solution and then you can and that time we
+will of course, do hurriedly. May not be directly with the convection by that time if it is
+over; then because I will show give you some time so that you can do it ok.
+So, the problem is that it is a also similar to the relations which we have handled; that hot
+fluid with the mass flow rate of 2000 kg/h, passes through a pipe having diameter of 25
+mm and thickness of 2.5 mm. What will be the film heat transfer coefficient if properties
+of the fluid are as follows; k is equal to 0.5 W/m.°C, viscosity mu is 1× 10-3 N.s/m2 ρ=
+1000 kg/m3; if average temperature of the fluid is 30 °C and the quantity of heat flow is
+300 W/m; what is the average temperature of the pipe wall? Second, what will be the film heat transfer coefficient if the flow rate decreases to 1000
+kg/h; it was 2000 kg/h, now it is 1000 kg/h keeping all other conditions identical or
+same. Third what will be the film heat transfer coefficient if the diameter of the tube is
+reduced to 12.5 mm keeping again all other condition same, ‘right’. So, this solution you
+do and if you are not able to then we will come back to a solution after some time,
+‘right’.
+(Refer Slide Time: 03:39)
+So, now let us go to free convection ok; free or natural convection till now we have
+handled with forced convection, ‘right’. And free or natural convection by definition it is
+due to the buoyancy or density difference; the flow is happening and there is a heat
+exchange, ‘right’. 
+So, generally the simple correlations are like this that there is a number called Rayleigh
+number which is Ra; may be in terms of del, i.e., thickness is equal to Grashof number;
+in  terms  of  again  del  thickness  into  Prandtl  number.  So,  this  comes  to  be
+23chδδv)δTgββ(PrGrRa .
+And Nu in terms of , Nu that is not Nu; Nu that is, Nusselt number in terms of is
+mnHRacNuwhere H and m deviously these are the two constants which are tobe determined, ‘right’.  is the thickness of the fluid, ‘right’; so this Nusselt number is
+
+HRan, where Ra is Grashof number into Prandtl number as we said,   is the
+thickness of the fluid layers in annulus; it is D o/Di thickness is (Do-Di)/ 2, H is the height
+of the fluid layer.
+Once  the  Nusselt  number  is  computed;  the  mean  heat  transfer  coefficient  h m is
+determined from its definition as δkNuhδm ‘right’. Nusselt number is equal to h / k
+or hm / k; hm / k. Total transfer of heat Q rate across the fluid layer for a given h m is;
+)T(ThAQchmm, where the mean area A m depends on the geometry like plane layer
+Am is Aw or wall area.
+Cylindrical  annulus,
+ioiomAAlnAAA;  outside  area  over  in  inner  area.  For  spherical
+annulus it is iomAAA. For fluid continue contained in a horizontal enclosed space
+where  the  viscous  forces  overcome  the  buoyancy  forces.  And  the  fluid  remained
+motionless as a result the heat transfer across the fluid layer is by pure conduction.
+(Refer Slide Time: 07:50)
+And the Nusselt number can be defined as; Nusselt number can be defined as this that
+chchTThδTTk or  1khδNuδ, ‘right’, where  is the thickness; it should be
+I S is the thickness of the fluid layer and the temperature difference is sufficiently small. 
+For more accurate empirical correlations, for free natural convection in enclosures are
+like this. What we have? Here is that system; system is this we have an enclosure which
+has a height equal to H, thickness equal to . And with the plane this is 90°; phi is 90°,
+hot surface is at Th this is the hot surface; at T h and the cold surface is at T c; this is the
+cold surface, ‘right’. 
+So, under this condition; if it is a vertical layer that like this if it is a vertical layer, let
+aspect ratio is H / is equal to a, ‘right’ H/  is the aspect ratio is a; where H is the
+height of the fluid and is the thickness of the fluid. Experimentally for air; a is equal to
+5 to 110 and72δ102 to10Ra. 
+So, there natural or free convective heat transfer was determined or were determined.
+And correlations proposed are like this  max32190Nu,Nu,NuNuo  means any one of Nu 1,
+Nu2 or Nu3 maximum of that is the Nusselt number. So that means, you need to know
+Nu1, Nu2 and Nu3, ‘right’. So, from there you select one maxNu or Nusselt number max
+where, 3/11065.0RaNu. 
+3/13
+36.1293.0
+2/63101104.01
+
+
+
+
+RaRaNu .
+And  0.272
+3aRa0.024Nu ,‘right’;  a  is  the  aspect  ratio,  H/ ;
+Pr
+vδTTgβPrGrRa23chδ , ‘right’.(Refer Slide Time: 12:33)
+So, knowing this; this is a relation for free convection or natural convection. The Nusselt
+number is defined as   4.3073.0δHRa0.073Nu1/91/3900 
+ perhaps this we have
+done as the solution, ‘right’. 
+Two square vertical parallel plates of dimension 0.5 m by 0.5 m; separated by a distance
+is equal to 5 cm contains air. One plate is at 400 and the other plate is at 300 K;
+calculate the rate of heat transfer by the free convection across the airspace and compare
+this Nusselt number and the one obtained with approximation, ‘right’.
+So,  given  the  properties  of  air  at  350  K  is.  s v /m 10076.225 ,
+/sm 102.983α25 .  -13K 1086.2350/1 . And k = 0.03 W/m.°C, ‘right’.
+Now, H/; H is 0.5 m,  is 5 cm, ‘right’. So, 0.5/0.05, ‘right’ is equal to 10 ‘right’. So,
+from this relation; if Rayleigh number can be found out I think this was found out. So, it
+came out to be Nusselt number to be 3.79 simply. (Refer Slide Time: 15:32)
+But if we want to see that Nu 1, Nu2 which we have done if we want to see that, then we
+have  to  find  out  like  this  that  the /Prv,
+   )10983.2)(10076.2/()05.0)(300400)(1086.28.9(/553 3 2    vTTgRach
+. So, it comes to5104.3.
+Aspect ratio or a found to be; a=H/  ‘right’. So, H/ was the aspect ratio equal to 0.5/
+0.005  so;  that  means,  it  is  10.  So,  from  1;
+4.22103.40.06050.0605RaNu0.335 1/31  ,  ‘right’.  So,  Rayleigh  number  we
+have found out5104.3; so this came to be 4.22. Now, Nu 2 that is in the second these
+are more accurate ‘right’; we said Nusselt number you find out either in terms of Nusselt
+number 1 or 2 or 3 in any three expressions and whatever is the max that you take,
+‘right’.
+So, Nusselt number 2 was more complicated was 1 plus by substituting the values,
+expression  already  we  had  shown  earlier;  I  am  not  repeating  here.  So,1/33
+1.360.293
+6310/Ra10.104Ra1
+
+
+
+ .  So,  this  on  simplification  gives
+
+1/33
+1.3650.2935
+103.41103.40.1041
+
+
+
+
+
+
+  ,‘right’. 
+So, this on simplification gives 4.36, ‘right’ and the third one which would like to do is
+Nusselt number equal to  272.0
+024.0
+aRa and this is equal to  272.05
+10104.3024.0
+and the aspect ratio we found out to be 10; so by 10; so this is equal to 4.13. So, out of
+these three; 4.22, 4.36 and 4.13; we see that Nu 2 is equal to 4.36 is the max; so Nu max is
+equal to 4.36, ‘right’.
+Now, once we have the Nu max; we use Nu90 that is because you are set the vertical. So,
+4.36)Tk(TqδNu
+ch90 .  So,  Nusselt  number  we  are  taking  4.36  and
+4.36)Tk(TqδNu
+ch90 . From there 
+δkTT4.36qch,‘right’. 
+And this is equal to 
+0.0503.00030044.36q  is 261.6 W/m2. So, q the flux heat flux
+we got 261.6 W/m2. So, to know the total Q; we must know q × A, ‘right’. So, this is the
+flux and if area is multiplied; then we know the total heat flow or heat rate flow rate.
+So, total transfer rate across the gap is capital Q = q × area and that becomes equal to this
+we have got 261.6 times;  area  we had a plate,  ‘right’. So, plate  means  it has  two
+dimensions given 0.5 and 0.5,‘right’. So, the area becomes 0.5 into 0.5; so 0.52.(Refer Slide Time: 23:36)
+So, that becomes equal to 65.4 W; so Q we found out to be 65.4 W. So, this is according
+to the best relation we have, ‘right’; we used Nu is equal to Nu 1, Nu2, Nu3; out of which
+the maximum we have taken we saw Nu 2 was the maximum, ‘right’. And this is the
+accurate way of determining the heat transfer or rate or heat transfer coefficient or
+Nusselt number whatever we call.
+Now, we had seen in the beginning; there is a very simple correlation for Nusselt,
+number  for  vertical  plate  like  that.  So,  it  is
+ 51/91/390 104.3073.0δHRa0.073Nu0 
+, ‘right’; 1/9
+δH
+. And this becomes
+0.073 Rayleigh number; 3.4; 105. We have already found out 1 by 3 means 0.33 times H
+by δ; that is 10 to the power – 1/9 is -0.11; which came out to be 3.79. So, 3.79 in this
+case and in this case we got 4.36, ‘right’; so the difference is less than 15%.
+So, the accurate one which we have done is more than 15% of the approximate one;
+whereas, in the approximate one you can do it and remember also the relation very easily
+as  /)(073.03/1HRa; that is aspect H by a or h by  δ that is aspect ratio to the
+power -1/9 ‘right’, that came to be 3.79, ‘right’.
+So, this is less than 15% from the accurate one, ‘right’ and I; I think we had also seen in
+the previous slide something like this yeah. So, this was the more simple, ‘right’ the9/13/1/)(073.0HRa . So, when we saw that we thought that what suddenly to us;
+so this was the solution of this problem. So, 0.073 × 3.4 that was found out after was in
+the next slide we got it that Rayleigh number is 3.4×105, to the power 0.33 and H/ δthat
+is aspect ratio to the power -0.11 or -1/ 9. So, it came out to be 3.79, ‘right’.
+So, this is how if we look at that this was for free convection; we can utilize the relations
+to find out free convection and the solution of the free convection, ‘right’. So, I hope we
+have come across the convection more or less and conduction more or less very much
+thoroughly. And since we are also going very fast; I mean fast in the sense what time is
+also going out, so we have other things to cover. So, next class we will try to go into the
+radiation, ‘right’.
+Thank you.

@@ -1,0 +1,202 @@
+Thermal Operations In Food Process Engineering: Theory And Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 57
+Distillation
+Good morning. We are now coming to another a very important Thermal Operation,
+Distillation. Of course, this is lecture number 57 right.
+(Refer Slide Time: 00:51)
+So, distillation when we are talking about obviously we would like to go a little detail,
+but since our number of classes remaining are very very less so, we will try to finish up
+quickly if possible right. But, it is such a thing which normally in an undergraduate level
+in most of the colleges are not being taught or in post graduate also since it involves both
+heat and mass transfer right and the process is also so complicated that it is not that easy
+a subject or a topic ok.
+Let us look into in detail that when we are talking about distillation, distillation is the
+most common separation technique. When two immiscible liquids are there you can
+easily separate them, but when there are two miscible liquids then this is obviously, a
+liquid-liquid  separation  this  comes  under  the  unit  operation  called  liquid-liquid
+separation. So, two liquids are having are together. So, they have formed a solution or
+whatever, now they are to be separated right.And, one of the best method is this distillation right because if you do evaporation then
+what will happen both along with both the fluids means which are miscible A and B if it
+is a binary liquid A and liquid B if it is binary then they can also come out. So, when you
+are condensing again they are mixing, it is not desirable. That is why distillation is the
+most common separation technique. It consumes enormous amount of energy both in
+terms of cooling and heating requirements because both heating and cooling are done
+simultaneously. It is not only heating it is also cooling required.
+Hopefully,  in  most  of  the  colleges  in  the  laboratories  you  might  have  seen  steam
+distillation unit that is very small apparatus a glass apparatus right, but when the there
+you  are  not  separating  many  things  steam  distillation  you  are  doing  an  early  one
+component can be separated out and that is taken into that right. But, it can contribute to
+more than 50% of the total operating cost of the plants. So, it is also cost involved. 
+The  best  way  to reduce  operating  cost  is  of the  existing  units  is  to  improve  their
+efficiency  and  operation  via  process  optimization  and  control.  To  achieve  this
+improvement, a thorough understanding of the distillation principles and how distillation
+systems  are  designed  is  very  much  required  or essential.  There  are  many  types  of
+distillation  columns, each  designed to  perform specific  separations  and each  design
+differs in terms of the complexity. As we said that distillation process is really a complex
+one. So, we must understand it thoroughly.
+(Refer Slide Time: 05:08)
+One way of classifying distillation this is done by columns right. So, number of things
+are there so, we will also look into in detail that. So, that is why it is called column. So,
+one of the classifying way of classification of distillation column type is to look into at
+how they are operated. So, we have batch type, as I said there steam distillation and
+continuous columns both.
+So, for batch type problems are very less, but for if it is a continuous one then continuous
+columns can be further classified according to whether it is if it is for binary column that
+if it contains only two components that is why binary; multi component columns whether
+the feed contains more than two components then it is multi component; multi-product
+column multi component was there from A, B, C you may have to separate A a multi
+component, but multi product. So, you have A B C D out of which you want A and B to
+be separated. So, it is multi product column also there where column has more than two
+product streams out. 
+Extractive distillation where the extra feed appears in the bottom product stream if there
+is any extra feed you will see there is a bottom. So, in that bottom there is the product
+being stored. So, along with that the extra feed is also coming to that. Azeotropic that is
+one of the worst of the distillation separation if the mixture becomes azeotrope meaning
+where the extra feed appears at the top of the product stream that was on the bottom this
+is at the top right. Obviously, we have to also look into in a little detail when we are
+coming to azeotrope will come. (Refer Slide Time: 07:51)
+Tray: tray column is where the trays of various designs are used to hold up the liquid to
+provide  better  contact  between  vapour  and  liquid,  hence  better  separation  etcetera.
+Packed columns – where instead of trays, packings are used to enhance contact between
+vapour and liquid. The main components of the column are a vertical shell where the
+separation of liquid components is carried out. 
+Column internals such as trays or plates and or packages or packings which are used to
+enhance  the  component  of  the  separations.  A  reboiler  to  provide  the  necessary
+vaporization for the distillation process, that is called reboiler where the vaporization is
+initiated. (Refer Slide Time: 09:13)
+A condenser to cool and condense a condenser to cool and condense the vapour leaving
+the top of the column. A reflux drum right reflux means some product which has come
+and again being fed that is called reflux. So, a reflux drum to hold the condensed vapour
+from the top of the column so that liquid reflux can be recycled back to the column right.
+So, this is a typical diagram of distillation apparatus or system right. As we said it has a
+reboiler where the boiling or separation of the vapour or vaporization is initiated right.
+So, this is by which the heating device is there. So, that is coming through this and going
+out, reboiler is here. From there it is going from this tank it is coming here, then going
+again getting vapors getting fed. So, liquid is this is the feed and the feed is normally in
+the liquid phase. 
+So, not normally it is in the liquid phase. So, that liquid comes to the reboiler and then it
+is vaporized and these vapors are then fed into that column right. So, this is called
+stripping section. Below the feed that is called stripping section, this one is stripping
+section; above the feed it is called rectification section right. This is called enriching or
+rectification  section,  below  is  stripping  section  right.  So,  that  vapour  is  condensed
+through a condenser and that condenser is accumulated here or called reflux drum from
+where a part is reflux through the valve or fed back and a part is taken away as the
+distillate right.So, that these things we have said in words quickly we go through. The vertical shell
+houses the column internals and together with the condenser and reboiler constitute a
+distillation column. A schematic of a typical distillation you need to with a single feed
+and two product streams right one was coming out from there and the other from there
+two product streams shown this in this right. 
+So, this is what is a very simple way of describing the distillation column right. So, this
+is what is called that the one which comes out is the bottoms right. So, this is what that is
+why it was not coming. So, this is what is called the bottom ok. So, this is bottoms the
+which we said that two streams, one is that this let and other comes out from the bottoms
+ok.
+(Refer Slide Time: 13:24)
+So,  then  we  come  to  this  from  the  earlier  figure  which  we  have  just  shown  the
+terminologies which you are used are like this feed that is the liquid mixture that is to be
+processed  it  is  mixture  of  the  separating  liquids.  Feed  tray  through  which  feed  is
+introduced usually somewhere near the middle of the column right which we have shown
+just it was at the somewhere middle of the column; it was the column, it was the feed
+somewhere middle right.
+The feed tray divides the column into a top that is the enriching section and the bottom
+that is stripping section right. And, there is also a reboiler that is the feed flows down the
+column and is collected at the bottom. Heat is supplied to the reboiler to generate vapourthe source of heat input can be any suitable fluid, although in most chemical plants this is
+normally steam.
+In refineries, the heating source may be the output streams of other columns. The vapour
+raised in the reboiler is reintroduced into the unit at the bottom of the column. The liquid
+removed from the reboiler is known as the bottom product or simply could be bottoms
+which  we  are  shown  right.  So,  we  have  described  the  column  in  detail  and  their
+terminologies.
+(Refer Slide Time: 15:24)
+The vapour moves up if we look at even in the previous one also here also that the liquid
+is this right coming down and the vapour through this reboiler is going through this up
+right. So, liquid with the blue color it is coming down and the vapour is going up. So,
+like that it is coming to the reboiler, from the reboiler vapours are coming and then going
+through the column this is how it is.
+Then, if we look even the upper part then we see that a part of this is the column and
+where there is a condenser, there is a reflux drum as a whole we had shown. So, it is
+going out as the product, and as part of it is being fed as the reflux. Again, the liquid is
+up to when it is refluxed this liquid is coming down coming in across with the vapour
+that red right coming across with the vapour and then there is the heat exchange ok.The vapour moves up the column and as it exists as it exits the top of the unit, it is cooled
+by a condenser. The condensed liquid is stored in a holding result known as the reflux
+drum which is this one right. Some of this liquid is recycled back to the top of the
+column  and  this  is  called  reflux.  This  is  the  reflux  which  is  being  fed  back.  The
+condensed liquid that is removed from this system is known as the distillate or top
+product. So, this is the distillate or the top product not the bottoms; bottoms we have said
+which came from the lower part right.
+(Refer Slide Time: 17:47)
+Thus there are inlet flows of vapour and liquid within the column as well as external
+flows, internal flows external flows of feeds and product streams into and out of the
+column. The term trays or plates are used interchangeably. Many times plates are used as
+trays or trays are being used as plates by default. 
+A bubble cap tray has riser fitted over each hole, right riser fitted over each hole and a
+cap that covers and a cap that covers the riser. The cap is mounted so that there is a space
+between riser and cap to allow the passage of paper which rises through the chimney or
+that process right and is directed downward by the cap, discharging through slots in the
+cap and finally, bubbling through the liquid on the tray in which it is staying right.(Refer Slide Time: 19:24)
+In valve trays, that was for bubble cap, this was for bubble cap these are bubble cap and
+this is called bubble cap arrangement in the tray. For valve trays per perforations are
+covered by liftable caps, which can be physically lifted. Vapour flows, lifts the caps, thus
+creating a flow area for the passage of the vapour. The lifting cap directs the vapour to
+flow horizontally into the liquid, thus providing better mixing than is possible in sieve
+trays.
+Then it introduces another new term called sieve trays. What is that? Sieve trays are
+simply metal plates with holes in them. I hope you have seen sieve shakers for separation
+of the particles. So, like that there are some holes in the blade. So, it is simply metal
+plates with holes in them. Vapour passes straight upward through the liquid on the plate.
+The arrangement number and size of the holes are some design parameters how they are
+being arranged how many numbers etcetera are design parameters. (Refer Slide Time: 21:11)
+Because of their efficiency, wide operating range, ease of maintenance at cost factor,
+sieve and valve trays have replaced the once highly thought of bubble capped trays.
+Earlier, bubble cap I think I also did during my undergraduate that time bubble cap or
+design was meant, but because of this simplicity, because of the cost, because of the
+maintenance  operation  everything  all  benefit  sieve  and  valve  trays  they  are  almost
+replacing the bubble cap trays in many replications or many applications right.
+So, this figure tells that the direction of vapour and liquid flow and across a column
+right. So, that if we look at then we can say that from this figure right from this figure.
+So, this is how this is being flown right and if the column is there. So, this is another
+view for that ok. So, this is bubble cap tray and how the flow is taking place through this
+is shown.
+So, if we look at so, vapours are moving from this tray right and this is another right. So,
+vapour liquid vapour is coming like this, like this going out and liquids are coming like
+this, like this they are coming out right going down rather right. So, this is called down
+comer this column right, this is called outer weir, this is collective tray area and this is
+the liquid this was down comer right and this is the liquid which is coming out and
+vapours are going in. This is how the vapour and liquid movement can be shown in the
+column.(Refer Slide Time: 23:41)
+Each tray has 2 conduits, one on each side, called down comers that is what we have
+shown. Liquid falls through the down comers by gravity from one tray to the other below
+it. The flow across each plate is shown in the above diagram as we have shown earlier
+right and here it is on the right we are showing that how this is being flown right. These
+are the different trails and gaps are there. So, we can say this is the down comer and like
+that this is coming in ok. This is liquid also and vapors also going out.
+A weir on the tray ensures there is always liquid or holdup on the tray and is designed in
+such a way that the holdup is at a suitable height, for example, such that bubble caps are
+covered by liquid. Being lighter, vapour flows up the column and is forced to pass
+through the liquid, via the openings of the each tray. The area allowed for the passage of
+vapour on each tray is called the act tree active tray.(Refer Slide Time: 25:30)
+As the hotter vapour passes through the liquid on the tray above, it transfers heat to the
+liquid, so, there is a vapour and liquid heat exchange. In doing so, some of the vapour
+condenses adding to the liquid; so, while it was going so, this was the vapour, this was
+the  liquid.  So,  some  liquid  and  vapour  got  the  exchanged  and  a  little  vapour  got
+condensed it came out and a little liquid way we came vapour it went up like that right.
+So, condenses adding to the liquid on the tray. 
+The condensate, however, is richer in the less volatile component than is in the vapour.
+Additionally, because of the heat input from the vapour the liquid on the tray boils
+generating more vapour. This vapour, which moves up to the next tray in the column, is
+richer in the more volatile components. This continuous contacting between vapour and
+liquid occurs on each tray in the column and brings about the separation between low
+boiling point components and those with higher boiling point. 
+So, it is said we are saying that when the vapour is going up and the liquid is coming
+down so, there is a mixing of them and there is a heat exchange. So, because of the heat
+exchange, some vapour is being formed from the liquid and some vapour is getting
+condensed and that is coming up with the liquid. So, obviously, the vapour which is now
+coming up is rich in less a high volatile components and the liquid which is now coming
+out coming down is also rich in less volatile component right because that is enrichingwith the less volatile with the liquid and high volatile that is going up with the vapour.
+So, this way the separation is being done.
+And since again the period or the time of this class is almost over so, we come to the end
+of this class and we tell it to be a day right.
+Thank you.

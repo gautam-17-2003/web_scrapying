@@ -1,0 +1,187 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 42
+Condensation (Contd.)
+Good morning. So, in that Condensation class, the last class we had come to the point
+that dv dy was (ρl - ρv) / (δ – y) and that expression, ‘right’. And we will start from there
+ok. So, this is our condensation continued class and lecture number 42, this is sorry
+lecture number 42, ‘right’, which we can underline like this, ok.
+(Refer Slide Time: 01:04)
+So, in lecture number 42, we will start with that the expression which we had given
+earlier as this, ‘right’ which we had given earlier as this that dv dy is g × (ρ l - ρv) /µl × (δ-
+y).(Refer Slide Time: 01:30)
+Start from there of course, the individual terms we know new term came up with that is
+the δ is the thickness of the condensate layer at the position x at any position if you
+remember we said that this was wall and this was the flow of the condensate, ‘right’ at
+any position x, ‘right’, this is the x and y direction, this is y, this is x. So, at any position
+x, ‘right’, the thickness is δ that is what we are saying the thickness is δ. And µ is the
+viscosity  of  the  liquid  and  subscripts  l  and  v  refers  to  liquid  and  vapor  phase
+respectively, ‘right’.
+So, and we are assuming in the case of zero shear stress, ‘right’ that is τ = 0, in the case
+of zero shear stress at the liquid vapor interface, what is the liquid vapor interface?
+Liquid vapor interface is this, ‘right’, this is that because this side it is vapor, this is
+liquid which is coming in contact with this cold surface, ‘right’. So, this is vapor. 
+So, at this liquid vapor interface say at x, so we can take it here, ‘right’. So, at the liquid
+vapor interface like if we take that shear stress is zero, ‘right’ and this is assumed to be a
+stationary. So, we are assuming in this case that zero shear stress at the liquid vapor
+interface because vapor is assumed to be stationary at that point or as such. At the wall
+surface liquid velocity is zero, so, v is 0 again this is the wall, ‘right’ this was our fluid or
+the condensate.(Refer Slide Time: 04:10)
+So, the liquid which is at the wall so we normally say that it is clinging to the surface
+clinging it is clinging to the surface, ‘right’ attached fully, ‘right’. It is now allowing to
+move, so that is what we call clinging to the surface, ‘right’. So, if that be true, then the
+velocity v is 0 at y is 0, which one is y? 
+Again the wall so this was the fluid or condensate and we said this was x-direction this
+was y-direction. So, y is 0 is this, ‘right’. So, v is 0 at y is 0, then that equation which just
+now we had shown that equation which just now we had shown, ‘right’ like this one that
+dv/dy g (ρl -  ρv) / µl × (δ – y).  
+So, if we look at this equation, if we integrate that equation/ ‘right’ with the boundary
+condition that boundary condition is what v = 0 at y = 0, then the velocity distribution in
+the condensate that can be written as v(y) = g (ρ l -  ρv) / µl ×(δy – (y2 / 2)), ‘right’.(Refer Slide Time: 06:02)
+From there we can say that the equation which we had, it was dv dy and it was (ρ l -  ρv),
+‘right’ over µl, ‘right’ into δ × g, ‘right’ times (δ – y), ‘right’, (δ – y), this was our
+expression, ‘right’. So, when we integrated this, ‘right’, when we integrated this we have
+integration constant c, ‘right’ and the value of the integration constant and subsequently
+using that we get the velocity distribution v(y) is g (ρ l -  ρv)/ µl ×(δy – (y2 / 2)), ‘right’,
+because it was dv/dy.
+(Refer Slide Time: 07:04)
+So, dy was integrated. So, this side it would have been y2 / 2 that is what is coming,
+‘right’. And this is nothing, but; this is nothing but expression for a parabolic flow of the
+fluid. So, v (y) is a parabolic in nature and that is how it is coming like this, ‘right’. So;
+the mass flow rate of the condensate m(x) through any axial position x per unit depth of
+the plate that can be written as. 
+(Refer Slide Time: 07:54)
+This can be written as m (x) = 0 to δ m (x) = 0 to δ ρ l v dy ‘right’ 0 to δ ρ l v dy, ‘right’,
+which we can rewrite is equal to 0 to δ ρ l v already got in this form g × (ρ l – ρv) / µl into
+(δ y – (y2/2)) × dy, ‘right’. So, dy was there, v we substituted, ρ l we take took and this is
+between 0 to l integration, ‘right’. 
+So, it is a definite integral and we get m(x) = g ρ l × (ρl – ρv) × δ3 / 3 µl which we turn to
+with the equation m, ‘right’. So, we got the expression m (x) for in terms of δ and rho’s
+in terms of del rho’s and g we got the expression for m (x).(Refer Slide Time: 09:23)
+At the wall for area dx times  1 at the wall for the area dx times 1 m2, the linear
+temperature distribution is assumed and the heat transfer becomes, because we have said
+that dx times 1 that is the wall area, ‘right’. So, this was wall and this is x and the other
+side this side is taken unity, ‘right’. So, that means we can say that this unit is like that. 
+And here we say that in this area, the linear temperature distribution is assumed and the
+heat transfer then we can write q x = -k dx × 1 that is the area dT dy at the position y = 0,
+‘right’. So, this we can rewrite that this is k l kl dx × (Tsaturation - Tw) / δ this dT dy is T saturation
+at the point y = 0. I repeat where the point y = 0 is this point, ‘right’. 
+So, there we are saying that this is T saturation dT means (Tsaturation - Tw) since y is 0. So, we
+can write here it is equal to δ, ‘right’. And since it would have been T w - Tsaturation, but with
+the negative, so (Tsaturation - Tw), ‘right’, so it is kl dx (Tsaturation - Tw) / δ.
+In a dx distance that is vertical this was our x direction so in a dx distance the rate of heat
+transferred is qx. Also, in this dx distance the increase in mass from the condensation is
+dm, ‘right’, because we saw that this curve was like that. So, whatever mass was here
+mass is more at this place and mass is more at this place, so it is gradually changing,
+‘right’. So, we are saying in a dx distance, the rate of heat transfer q x. Also, in this dx
+distance, the increase in mass from the condensation is dm, ‘right’.So, earlier equation which we wrote as m we can rewrite that dm is equal to d of m; m is
+g × ρl × (ρl - ρv) × δ3 / 3 µl, ‘right’. So, this we can write that g (ρ l - ρv) into since it is d of
+that d dm of this, then this becomes δ2 d δ / µl, ‘right’, differentiating d with δ is a δ if we
+differentiate it becomes δ2 d δ, on integration this gives δ3 ‘right’. So, this is δ2 d δ is dm,
+‘right’. So, again we got equation which we need to integrate, ‘right’.
+(Refer Slide Time: 13:33)
+Where, dm is the representation of the rate of condensation over the distance dx per unit
+depth  of  the  plate,  ‘right’,  again  unit  depth  is  that  third  dimension  which  you are
+referring to. So, this is y and this is that third dimension is unit, this is x, ‘right’, so that
+we are referring to. 
+Since  the  condensate  b  thickness  since  the  condensate  thickness  not  b,  since  the
+condensate thickness increases by d δ over the differential length of dx, the rate of heat
+released dQ associated with the rate of condensation dm is dQ equal to h f  g into dm,
+‘right’. This we write with the equation H. Of course, h f g has to be said where h f g is the
+latent heat of condensation, ‘right’ this we have we also used in the previous class h f g for
+latent heat of condensation or vaporization whatever we call. 
+The amount of heat released dQ over the area dx times 1 must be transferred across the
+condensate layer of delta thickness by conduction which we have assumed, ‘right’ in the
+assumption number 6, ‘right’. So, therefore, we can write that dQ is k l (Tsaturation - Tw) / δ
+times the area that is dx × 1, ‘right’. So, we got also dQ in terms of dx, ‘right’. (Refer Slide Time: 15:53)
+So, we can say of course, the new term which has come up in this is the k that is the k l is
+the thermal conductivity of the liquid, T sat and Tw we have said earlier also are the vapor
+saturation and walls surface temperature respectively, ‘right’. So, introducing the term
+dQ and dm into the equation earlier we have defined as H we can write that k l (Tsaturation -
+Tw) /δ times the area dx × 1 that is equal to g ρ l × (ρl – ρv) × δ2 δ / 4 µl, this equation we
+wrote as equation H, ‘right’.
+So, we can rewrite this equation as d δ dx because we have here δ and we have dx. So,
+we can rewrite that d dx d δ dx is equal to µ l ql × (Tsat - Tw)/ g × ρl × (ρl – ρv) × hf g, ‘right’
+times 1/δ3, ‘right’. And the boundary form because this is if we want to integrate we need
+a boundary. 
+So, that boundary condition that satisfies is δ = 0 at x = 0, ‘right’, δ = 0 x at x = 0 which
+is what this was our wall and this was our that fluid which is condensing we said our y is
+in this direction, our x is in this direction.(Refer Slide Time: 18:14)
+So, and since y is it that this direction, we are taken that element, ‘right’ of thickness l
+and that was y δ – y, ‘right’, this our thing. However, here since it is in the y direction, so
+at δ = 0 is x = 0, here it is δ is 0 at x = 0 that is the origin, ‘right’. So, if we take that, then
+we can say the boundary condition that satisfies is this δ is 0 at x = 0 and integrating this
+equation and applying the boundary condition, we can write.
+(Refer Slide Time: 19:11)
+So, if we apply boundary and integrate, we can write that the thickness δ that we can
+write in this form in this way that the thickness of the condensate layer is a function ofthe position x along the plate that is also true. We have shown that this is the T wall T w,
+and this was the; this was the fluid which was condensing or liquidity is condensing,
+‘right’. So, if this is the x direction, so whatever thickness is here is not the same
+thickness here is not the same thickness here. So, this thickness is a function of x, ‘right’,
+so, that is what we are saying.
+That δx = [4 × µl kl × (Tsaturated - Twall) × x] / [g × (ρl – ρv) × ρl × hf g]1/4, ‘right’, because it
+came that your δ was cube and so when it make you it was integrated so it became 4 and
+that 4 δ 4 has now become 1/4 in this power, ‘right’. So, the thickness at any position x
+in that film is [4 µl kl (Tsaturated - Twall) × x] / [g × (ρl – ρv) × ρl × hf g]1/4.
+Now, since we have established a relation for the thickness of the condensate layer, the
+local heat transfer coefficient h x or condensation is determined from the heat balance as
+hx × dx × 1 × (Tsaturated - Twall) is kl × dx × 1 × (Tsaturated - Twall)  / δx, ‘right’.
+(Refer Slide Time: 22:09)
+So, if this be true, then by changing the value of δ we can write that h x = kl × a kl over δx,
+‘right’.  So,  this  we  can  rewrite  that  now  introducing  the  value  of  del  x  into  this
+expression, we get h x is kl / [[(4/g) µl kl (Tsat - Twall) × x] / (g × (ρl – ρv) × ρl × hf g)]1/4 that
+is the hx that is the heat transfer coefficient or at a localized heat transfer coefficient h x at
+any position x. We had again reminded you that this was the direction of x.So, h at position any position x is the localized heat transfer coefficient which can be
+rewritten kl taking inside as {[g × ρ l × (ρl – ρv) × hf g kl3] / [4 µl (Tsat - Tw) x]}1/4, ‘right’
+this to the power 1/4 is the rewritten of this ‘right’. This goes up, so 4 µ l (Tsat - Tw),
+‘right’ 4 µl this was g × (ρl – ρv) × hf g ×  ρl hf g of course ρl has been taken into that h f g
+into this kl that kl has come down. 
+So, it is kl, earlier we had 1 k l here to the power 1/4. So, when this k l is going inside, so it
+has to be kl3/4 µl (Tsat - Tw) and times k because k has been taken inside k l, ‘right’. So,
+this is the hx the local heat transfer coefficient.
+(Refer Slide Time: 24:52)
+Now, if we have the local heat transfer coefficient we can have an average heat transfer
+coefficient like this. The local heat transfer coefficient h x varies with the distance x as 
+x-1/4. The average heat transfer coefficient h average over the length 0 to l is in the plate
+rather is h average is 1/l 0 to l h x dx or it is 4/3 hx at any x = l and that can be rewritten as
+0.943 into [g×ρl×(ρl – ρv) hf g×kl3] / [4 µl (Tsat - Tw)×l] so much W/m2.°C. (Refer Slide Time: 26:13)
+For laminar flow, experimental data show that this result is around 20% less than the
+experimental data for which a new proposal has come up from the researcher saying that
+Nusselt number can be related as this. Hence, the recommendation expression for the
+vertical surface in laminar flow is like this N Nu = hL/kl =1.13 [g ρl×(ρl – ρv) hf g×L3] / [µl
+(Tsat - Tw)× kl]1/4.
+So, h now is average, ‘right’, h is the average heat transfer coefficient not the local and
+that is related to Nusselt number as hL/k l this is again not the in the wide number, it
+would have been the solid, but here it is the fluid k l liquid. So, hL/kl is the Nusselt
+number expressed like this, where obviously, ρ l density of liquid in kg/m3 ρv density of
+the vapor in kg/m3, g in 9.8066 m/s2.
+L length of the surface in meter; µ l viscosity of liquid in Pa.s; k l thermal conductivity of
+the liquid in W/m.°C; h f g latent heat of condensation in J/kg.°C at T sat. All physical
+properties of the liquid and h f except hf g are evaluated at the film temperature T f is  
+(Tsat + Tw) / 2 that is the average temperature of the saturated temperature of the vapor
+and the wall temperature, ‘right’.(Refer Slide Time: 28:05)
+So, we can now say the condensation on inclined surface that can be written as h average is
+0.943 {[g ρl (ρl – ρv) hf g kl3] sin θ / [µl (Tsat - Tw) L]} depending on whether what is the
+inclination to the power 1/4 in W/m2, where θ is the angle of vertical surface with the
+horizontal condensation on a horizontal tube, and condensation of course, horizontal
+surface that is the angle. 
+Now, condensation on the horizontal T will be h a average is 0.725 {[g ρ l (ρl – ρv) hf g
+kl3] sin θ / [µl (Tsat - Tw) D]}1/4 so much W/m2, where D is the outside diameter of the tube
+in meter.(Refer Slide Time: 29:15)
+And since our time is very low we can say that h average over h av vertical / hav horizontal
+is 1.3 (D/L)1/4. So, this means, that ΔT that is T saturation - Twall there is the average heat
+transfer coefficient for vertical tube of length L and horizontal  tube of diameter D
+become equal only when L = 2.7 time 2.8 times D. 
+So, when L = 100 D theoretically h av hav horizontal would be 2.44 times greater than that
+of vertical edge. So, this is y horizontal tube arrangements are generally preferred over
+vertical in the condensers, ‘right’. 
+(Refer Slide Time: 30:21)
+So, hopefully we have come to the end of the class. And we say some more here also a
+little just for few seconds that is N Re = 4m / (π D µl), for vertical tube with diameter D.
+NRe is 4m / (W µl) for vertical plate with width W. And m is the total kg mass / s of the
+condensate active or plate bottom. For laminar flow N Re < 1800; for turbulent flow N Re >
+1800. So, Nusselt number we can write 0.0077 (g ρ l2 L3 / µl2 )1/3 and NRe0.4. So, with this
+we come to the end of the condensation.
+And we thank you.

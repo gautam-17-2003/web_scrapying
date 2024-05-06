@@ -1,0 +1,222 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 30
+Heat Transfer by Convection (Contd.)
+So, good evening again, we are now on the class lecture number 30, where we are doing
+convection heat transfer. And we have done already with a lot with the help of Heisler
+chart also and subsequently now we will do the convective heat transfer for the normal
+other things also.
+Like we have already said what we mean by convection, how many types of convections
+are also there in what way etcetera. We have also shown that, how we can find out center
+temperature, how we can find out surface or any other temperature, how we can find out
+the time required to reach the center or surface temperature etcetera from Heisler chart,
+but there are cases where it is not so, easy that this can directly be put into Heisler charts
+or into the lumped system. So there it may be required that some other solutions or some
+other equations which may be useful, ‘right’. So, now let us go some a little deep into the
+convection, ‘right’. 
+(Refer Slide Time: 02:05)
+So, whatever we have already done we can skip them and perhaps now, we have come to
+this that there are two types of convections, ‘right’; one is natural which you have saidand the other one is forced convection, ‘right’. So, fluid in the natural convection it can
+be said that the fluid moves due to density differences caused by how caused by heat
+transfer between solid and the liquid or liquid and liquid or gas and gas, ‘right’. So, in
+that way heat is getting transferred or it can be forced where fluid motion is imparted by
+external means that is by pump or by fan or by some gravitational slope etcetera, ‘right’.
+So, the mechanism of first convection is like this; convection heat transfer is complicated
+since  it  involves  fluid  motion  and  heat  conduction  both,  ‘right’.  The  fluid  motion
+enhances heat transfer the rate of conviction heat transfer is governed by; obviously, we
+have said earlier also that Newton’s law of cooling and that Newton’s law of cooling can
+be written in this form.
+(Refer Slide Time: 03:39)
+That 
+ ; ‘right’ or it can also be written that Q convection
+capital Q convection in any case small q refers to per unit m2, ‘right’; that is flux that
+heat flux is 
+ and Q capital is 
+The convective heat transfer coefficient h strongly depends on the fluid properties and
+roughness of the solid surface. And also the type of the fluid which is flowing, ‘right’
+that is the type of the fluid flow not the fluid properties only, but the flow of the fluidthat also will all dictate the value of h, ‘right’. So, h is very important in convective heat
+transfer because that will dictate how good or how bad the heat transfer will take place,
+‘right’. 
+And from where the earlier we have done that fin so whether you need the fin in addition
+or not that is also dependent on this value of h. So, h is a very important parameter in
+convective  heat transfer and this heat transfer coefficient may be required to either
+calculate or predict or determine whatever.
+So, it is having a very significant role on the heat transfer, ‘right’. So, we can say that
+qconvective is equal to qconductive it is under; obviously, under steady state that whatever q is
+coming through convection. So, if this is a body; if this is a body. So, whatever q is
+coming due to h and T ∞ at this place is conducted by the body, ‘right’. 
+So, that is only possible and the same Q is; same Q is coming into this and going out
+from there, ‘right’, this is only possible under steady state. So,
+And this is true because 
+ , ‘right’. So, this conductive by this thing;
+we have divided so much Watt per meter square h, theoretically we are able to find out,
+‘right’. So, let us look into some other aspects of this convection, ‘right’.(Refer Slide Time: 07:47)
+So, solid if we have a hot solid, ‘right’ we if we have a hot solid surface like that this is
+the  hot  solid  surface.  So,  this  is  through  conduction  coming  to  this  and  then  by
+convection it is going and this is the V velocity of the surrounding medium, ‘right’. So,
+zero velocity at this surface; we know that the fluid which is in contact with the solid, so
+that is it is called clinging to the surface, ‘right’.
+It is clinging to the surface that fluid clinging to the surface; that means, the velocity at
+that surface is zero that is what is shown, ‘right’. We have a velocity profile like this is
+called  parabolic  velocity  profile,  ‘right’.  So,  velocity  profile  is  whatever  be;  so
+environmental for velocity of the fluid is like that and this is what is the reality of the
+convective heat transfer, ‘right’. (Refer Slide Time: 09:13)
+Now if we look at; it is the assumed that the velocity of the fluid is zero at the wall and
+this is assumption and this assumption is known as no slip condition, ‘right’. No slip
+condition means clinging there is not slipping no slip condition, ‘right’; it is assumed that
+the velocity of the fluid is zero at the wall and this assumption is known as no slip
+condition.
+As a result of the heat transfer from the solid surface to the fluid layer adjacent to the
+surface is by pure conduction since the fluid is motion less there. Thus h in general varies
+along the flow direction; this means that the mean or average convection heat transfer
+coefficient for the surface is determined by averaging; properly averaging the local heat
+transfer coefficient over the entire surface, ‘right’ this is called velocity boundary layer,
+‘right’ this is called velocity boundary layer. 
+So, this is also in the previous or thing we had shown that we have velocity profile which
+is like this called parabolic, ‘right’. So, we have this is x is 0s; that is the viscous sub
+layer  here  ok,  then  laminar  region  is  here,  then  transition  region  is  here  and  then
+turbulent region is here depending on the flow pattern of the fluid; the boundary layer is
+becoming different, ‘right’. (Refer Slide Time: 11:43)
+So, let us look into that laminar flow; this flow in boundary layer starts at smooth and
+streamlined, ‘right’. So, boundary layer in the laminar flow it is; obviously, that is
+streamlined like that all the layers are parallel; there is no mingling intermingling of the
+layers, ‘right’; so that mixing of the layers are not possible in laminar. Turbulent flow at
+some distance from the leading edge flowed turns chaotic, ‘right’.
+(Refer Slide Time: 12:29)
+So, this was the surface; so here it was laminar. So, after some time heat started making
+turbulent, ‘right’ the flow became mix the, ‘right’ or the layers became mixable and thisis called the turbulent flow. Then the transition region where it is neither mixing, nor it is
+this fully under in under full mixing that situation is not there; in between this region is
+called transition region, ‘right’ at some distance from there ok.
+Transition occurs from laminar to turbulent flow and over some region. Now velocity
+profile if we look at in the laminar region; approximately parabolic, in the turbulent flow
+heat  it  becomes  flatter,  ‘right’.  Because  in  the  laminar  region  it  is  approximately
+parabolic like this, but in the turbulent region; it becomes more or less flatter.
+And in the turbulent region laminar sub layer viscous effects are also dominant laminar
+sub layer is possible there, but viscous effects are also dominant, ‘right’. Now buffer
+layer is also there were both laminar and turbulent effects exist in the turbulent layer,
+‘right’.
+(Refer Slide Time: 14:21)
+So, now after understanding all these; let us define some of the dimensionless parameters
+which has very important in convective heat transfer. And this dimensionless parameters
+as we have seen in the earlier even in the graphical method; that is Heisler chart that
+dimensionless  parameters  are  important,  here  also  for  finding  out  the  heat  transfer
+coefficient basically there are different correlations with this dimensionless parameters
+and some are empirical, some are experimental. So, different very pronounced or effective here relations are there for convective heat
+transfer with the help of dimensionless numbers; so, these numbers also are important.
+So, let us know some of them that the Nusselt number first is that Nusselt number or
+normally  called  N Nu, ‘right’. As  we said earlier  that  numbers  are  said with N like
+Reynolds number N Re, similarly the Nusselt number is said N Nu, ‘right’.
+So, there it is said that a dimensionless number also known as dimensionless convective
+heat transfer coefficient representing the enhancement of heat transfer due to bulk fluid
+motion; over a surface with respect to the heat transfer by conduction. 
+(Refer Slide Time: 16:17)
+So, NNu is 
+  You remember
+when  we  were  discussing  Biot  number;  I  said  that  this  is  also  very  important  to
+remember that hl by k this; the same terminology or the same notations are used for other
+case, only the difference the property values, ‘right’. So, in the Nusselt number; it is also
+the number wise or the representation wise same as Biot number hl/k, but h is written
+coefficient.
+It was also there in Biot number heat transfer coefficient, l or characteristic length where
+whatever nomenclature you use l, lc whatever you use that is characteristic dimension
+parameter and divided by k; now in that Biot number this k was the conductivity of thissolid through each it is being conducted and here it is the conductivity of the fluid by
+which heat is being convective, ‘right’. 
+So, this is the difference primarily or most of these cases this is ignored or the mistakes
+are made. So, this k is the conductivity of the fluid; not the material, conductivity of the
+fluid that is what is Nusselt number. Reynolds number we know by this time many of us
+because Nusselt number being in heat transfer could be new, but necessary Reynolds
+number; since we know the fluid flow hopefully we know Reynolds numbers.
+But still it is a dimensionless number which is the ratio of inertia forces to the viscous
+forces in flowing fluid the value of N re indicates that the flow is laminar or turbulent.
+Critical Reynolds number is the value above which the flow is turbulent; that is called
+critical Reynolds number. The Reynolds number; the value of which above which is the
+flow is turbulent that is called critical Reynolds number, ‘right’; so, some more non
+dimensional parameters.
+(Refer Slide Time: 19:21)
+The geometry of the body and the flow conditions determine the value of the critical
+Reynolds  number. For example  value is 5×105 over a flat plate, ‘right’. So, N Re is
+ or it can also be written as 
+ ; where 
+ is the kinematic viscosity ofthe fluid. And 
+ is 
+/ρ where, c
+ is the dynamic viscosity or shear viscosity of the
+fluid, ‘right’.
+Then Prandtle number; N Pr, ‘right’, Prandtle number normally denoted as N Pr, this is a
+dimensionless number which is the ratio of momentum diffusivity; kinematic viscosity to
+thermal diffusivity. And it is the relative thickness of velocity and thermal boundary
+layers; it is the relative thickness of velocity and thermal boundary layers. So, N Pr is can
+be written as nu by alpha which can be simplified as C p mu over k; normally not in this
+form,  but  in  this  form  N Re or  NPs or  rather  NPr is  known  that  Prandtle  number  is
+, ‘right’.
+Obviously, Cp is the medium specific heat,  
+  is the medium viscosity, k is also the
+medium conductivity..
+(Refer Slide Time: 21:49)
+Then we see typical values of N Pr are 0.01 for liquid metals; 0.7 for most gases and
+Prandtle number is 6 for water at room temperature. That means, you have different
+situations and Prandtle numbers are quite different; in liquid metals Prandtle number is
+very low 0.01 whereas, Prandtle number is 0.7 for most of the gaseous.Like air oxygen or most of the gases Prandtle number is 0.7; whereas, Prandtle number is
+very high 6, for water at room temperature, ‘right’. And you use as I said that N Pr is equal
+to 
+. So, all these property values are for that medium, ‘right’. So, when it was 7 or 6
+for water; the all the values C p, 
+, k are for water only, ‘right’.
+Similarly, when it was 0.7 for gases; say air then C p, 
+, k all are for air only, ‘right’ for
+liquid materials it is 0.01; again that C p, 
+, k were all for the liquid metal only, ‘right’. 
+(Refer Slide Time: 24:03)
+So, unlike that Nusselt number which was hL/k and this L characteristic dimension, h is
+heat transfer coefficient, but this k for Nusselt number was for the medium or fluid,
+‘right’. Because this Nusselt number means this surface we have; over it there is a flow
+of fluid and that fluid has heat transfer coefficient of h. And the characteristic length
+through which heat is being transferred is L; then this k was for this medium. 
+But the same is not true for the Biot number, where h is same, but L was as we were
+saying that characteristic  length, but this k was the conductivity through which the
+material is being conducted; the heat is being conducted through the material, ‘right’. So,the property values are very important and it should be also known that which property is
+being used, ‘right’. 
+So, for which dimensionless parameter which property is being used that should be very
+much known, ‘right’. So, again and again we are; I am highlighting that do not confuse
+with the; with the Biot number and the Nusselt number, ‘right’. Because in a convective
+heat transfer Nusselt number is very commonly used and perhaps is one of the; one of
+the non dimensional parameters which is correlated with some other non dimensional
+parameters, in most of the relations subsequently when we will come across we will see,
+‘right’.
+So, be careful that you must differentiate between Nusselt number and Prandtle number;
+Nusselt number and Biot number. In both the cases the expression is same hL/k; h you
+cannot make any mistake because that is a convective heat coefficient. L you cannot
+make any mistake because that is also the characteristic dimension; like maybe length or
+whatever you say one dimension that is characteristic dimension of heat transfer. 
+And k for Nusselt number this k is for the medium through which heat is being convicted
+and for Biot number this k is the; this k is the conductivity of the material through which
+heat is being conducted, ‘right’. So, these two differences are very fundamental and most
+of the cases students do mistake; may not be the today it is being read; so we will be
+remembered. But in most of the cases, we have seen during viva we see this mistake is
+being occurred by majority of the students.
+So, that is why I am highlighting repeatedly that you do not make this mistake, ‘right’.
+So, another and as also you see that Prandtle number; we have shown given some typical
+numbers typical values for different cases that for liquid it is 0.01, for liquid metals of
+course, for most of the gases it is 0.7 and for water at room temperature it is 6; so wide.
+Then another non dimensional number is Grashof number which is normally used for
+natural convection, ‘right’. It is the ratio between buoyancy forces and viscous forces,
+‘right’; this is the ratio between buoyancy forces and this viscous forces. And can be
+expressed in other form also it can be expressed maybe today time is going up. So, you
+may not be able to in some other day; we will also show that it can be expressed in some
+other way also. So, here we are writing that it is expressed as L cube g; delta rho over nu
+square into rho w, ‘right’ or rho w, ‘right’ at the wall. So, Grashof number is  
+ . So, for the last for today it is Reynolds
+Rayleigh  number;  Rayleigh  number  is  the  number  that  governs  natural  convection
+phenomena, ‘right’. Both Grashof number and Rayleigh number are associated with
+natural  convection  whereas,  Nusselt  number  is  normally  with  force  convection  by
+enlarge, ‘right’. 
+So, Grashof number and Rayleigh  number are  for natural  convection  and  Rayleigh
+number is nothing, but a product of Grashof number and Prandtle number. So, Grashof
+number into Prandtle number is the Rayleigh number and Rayleigh number is designated
+as Ra. So, that is equal to. . So, some of the non
+dimensional parameters we have come across. There are few many more and there are
+many relations between them for different cases for different situations. So, in the next
+class, we will do that, ‘right’, today time is over. So, let us now stop it and.
+Thank you. //323TgLkTcgLp

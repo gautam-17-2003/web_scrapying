@@ -1,0 +1,169 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 28
+Heat Transfer by Convection (Contd.)
+Good afternoon, my dear students. So, we were discussing about the Convective Heat
+Transfer, ‘right’. So, when we are discussing about convective heat transfer we have
+seen in convection there are two types: one is that where it is by nature or by the
+buoyancy force and there it is due to the density difference of the medium of the fluid
+rather and fluid we have said that it is either liquid or gas, ‘right’. 
+So, that density difference causes the natural convection or it can be by the application of
+some forced air or forcing that medium to move and that is called forced convection by
+explicitly by application of fan, ‘right’ and we were to the point where the convective
+heat transfer is meaningful and that we have to determine, ‘right’.
+So, now we are in the lecture number 28 that is Heat Transfer by Convection and this is
+continued, ‘right’. These we have already done.
+(Refer Slide Time: 01:57)
+So, now we are coming to this point that a way to determine the heat transfer coefficient
+h, ‘right’, a way to determine the heat transfer coefficient h is by applying the lumpedcapacity formula, ‘right’. If the Biot number that is hl /k is less than 0.1, ‘right’ which we
+have already shown earlier also that if the Biot number; this is Bi or in cases it may be
+also written as NBi like many that dimensionless numbers are written as n of that number,
+‘right’ Reynolds number you have come across by this time that is N RE, ‘right’ similarly
+in Biot or NBi can be many numbers will come across afterwards, ‘right’.
+So, this is applicable when Biot number is less than 0.1 and the conductivity k of the
+material is or of the object is very high, ‘right’ and this L that is characteristic length is
+obtained as V/A or volume of the object over the surface area available of the object for
+heat  transfer  is  the  and  this  was  this  is  what  we  have  said  earlier  also  as  that
+characteristic dimension of the object, ‘right’, and N Bi we have said to be the Biot
+number which signifies the ratio of internal conductance or in the internal conduction
+resistance to surface convective resistance, ‘right’. 
+This  means  that  if  Biot  number  is  greater  than  0.1,  ‘right’,  there  is  large  surface
+convective resistance that is large surface heat transfer coefficient. Solution of it can be
+more complex method such as Heisler charts and analytical solutions.
+So, by applying so, by applying that lumped system analysis that N Bi is equal to hl/k if
+we know the Biot number we can find if it is less than 0.1 that solution if you remember
+θt is equal to θ0e-mt that solution we can utilize and from there we can find out the heat
+transfer coefficient, ‘right’. This is one and another could be from the Heisler chart
+which also we have done already, ‘right’. So, heat transfer coefficient h can be found out.(Refer Slide Time: 05:37)
+Now,  if  the  object  is  cylindrical  the  dimensionless  parameters  used  to  determine
+unknown variables  are  as  follows  that  Fo we have  already  said is  Fourier number
+ dimensionless temperatures θ that is 
+ , Bi we have already said
+inverse of Biot number is there and that that in some cases is written instead of 1/Bi in
+some cases it is written as m in some of the books some of the places in place of 1/Bi it is
+written as m and which is k/ hl. 
+And, in another case which we had said earlier with capital X if you remember, so, that
+can be represented as n again that is x/l where x at any distance position and l is the
+characteristic length, ‘right’.
+So, these things are already said, but there may be though it is the recapitulation it is like
+that how at different books and different sources things are also presented. See, in some
+case if you find that instead of Biot number this is m and n that time you may feel cold
+that this was not told. So, this is like that ok.
+So, Fourier number is plotted in the X-axis and theta in the Y-axis, ‘right’; m is used for
+determining the slope, and n is used to determine the increment of the slope, ‘right’.
+Variables introduced in the dimensionless numbers are alpha that is thermal diffusivityof the object, X is the one dimensional position in the object and this way we can say that
+this is close to the plotting Heisler chart which we have done like this that you have in
+the X-axis Fourier number there is 
+  and in the Y-axis you have theta that is (T t -Te)/
+(T0 - Te), ‘right’ and we had a plot of this m and n, ‘right’ these are for Biot number or 1
+by Biot number equal to m and these are for different x or the for x by l, ‘right’.
+So, depending on whether it was for Fourier number or center temperature or inside
+temperature that will dictate how you are plotting, ‘right’.
+(Refer Slide Time: 09:20)
+So, if you solve a problem like 10 centimetre thick slab initially at 160ºC is data is
+immersed  in liquid  at  60ºC  resulting  in  heat  transfer coefficient  of 1200 W/m2  oC.
+Determine  the  temperature  at  this  center  line  and  at  this  surface  100  second  after
+immersion. Properties for this slab are alpha is equal to point α is equal to 1.0 × 10−5
+m2/s; k is 210 W/m oC; Cp is 0.9 kJ/kg oC; ρ is 1600 kg/m3, ‘right’.
+I repeat the problem a 10 centimeter thick slab initially at 160ºC is immersed in liquid at
+60ºC  resulting  in  heat  transfer  coefficient  of  1200  W/m2  oC  ‘right’  determine  the
+temperature at the center line and at the surface 100 second after immersion. Properties
+for slab are alpha is equal to 1.0 × 10−5 m2/s; k 210 210 W/m oC; Cp is 0.9 kJ/kg oC ρ is
+1600 kg/m3 this is one problem.Second problem you try a long steel cylinder having diameter of 10 centimeter and
+initially at 30ºC is placed into an oven at 200ºC having local heat transfer coefficient of
+150  W/m2  oC  ‘right’.  So,  it  is  150  W/m2  oC.  Calculate  the  time  required  for  the
+temperature to reach 100ºC. Also calculate the corresponding temperature at radius 5
+centimeter. Given α = 5.0 × 10−6 m2/s; k 30 W/m oC, ‘right’.
+You repeat that a long steel cylinder having diameter of 10 centimeter and initially at
+30ºC is placed into an oven at 200ºC having a local heat transfer coefficient of 150 W/m2
+oC. Calculate the time required for the temperature to reach 100ºC. 
+Also  calculate  the  corresponding  temperature  at  radius  5  centimeter.  Given,  alpha
+thermal diffusivity thermal diffusivity to be α = 5.0 × 10−6 m2/s and thermal conductivity
+equal to 30 W/m oC, ‘right’.
+(Refer Slide Time: 13:37)
+So, these are the two problems and let us and I say that you try a third problem is also
+given that a metallic sphere of 10 mm is initially at uniform temperature a metallic
+sphere; that means, we are giving that three types of problems one is slab, another is
+cylinder and the third is sphere, ‘right’.
+So, a metallic sphere of radius 10mmis initially at uniform temperature of 200ºC. It is
+then quenched in water bath at 10ºC having h of 5000 W/m2 oC until the center of sphere
+cools to 30ºC. Calculate the time required for cooling this sphere properties of sphere are given α = 7.00
+× 10−6 m2/s; k conductivity with 30 W/m oC; specific heat Cp = 800 kJ/kg oC and density
+of this sphere material is ρ = 1500 kg/m3, ‘right’.
+You repeat, a metallic sphere of radius 10 mm is initially at uniform temperature 200ºC.
+It is then quenched to quenched means suddenly it is it is cooled, ‘right’, quenched in
+water bath at 10 ºC having h or heat transfer coefficient of 5000 W/m2 oC until the center
+temperature of the sphere equal to 30 ºC. 
+Calculate the time required for cooling this sphere properties of the sphere are α = 7.00 ×
+10−6 m2/s; k conductivity to 30 W/m oC; Cp specific heat to be 800 kJ/kg oC and density is
+1500 kg/m3, ‘right’.
+(Refer Slide Time: 16:35)
+So, this three problem I hope we can solve it here like this: that Slab thickness = 0.1 m ;
+Initial  temperature  ‘T i’  =  160  0C;  Liquid  temperature  ‘T ∞’  =  600C;  Heat  transfer
+coefficient ‘h’ = 1200 W/m2 0C;  Time of immersion ‘t’ = 100 s; Thermal diffusivity ‘ α’
+= 1.46 x 10-04 m2/s; Thermal conductivity ‘k’ = 210 W/m 0C; Specific heat ‘Cp’ = 0.9 kJ/
+kg 0C; Density ‘ρ’ = 1600 kg/m3
+So, what we have to do? We have to find out the centre temperature T 0 and the surface
+temperature TL, ‘right’. These two we have to find out, ‘right’.(Refer Slide Time: 17:56)
+To do that let us solve it that first we find out the Biot number, ‘right’. Biot number is,
+hl/k from the given properties and given values we see that hl/k is 0.286. Why? Let us go
+back that how the properties were given that slab thickness is 0.1 meter, ‘right’ sorry slab
+thickness is 0.1 meter, ‘right’ h has been given 1200. So, hl /1200 this is 0.1. So, that
+means, 0.1 by 2 is the characteristic length.
+So, 1200 into 1/2 is the hl and k conductivity here was is given 210 W/m 0C. So, 2×210.
+If you solve it will come to that point to something like that, ‘right’. So, 210 one 0 goes
+out. So, it is 120 by 42 hl/k, ‘right’. Oh this l is half 0.01 slab thickness of 0.1 this is
+centimetre, not meter, ‘right’ that C has gone out; so, 0.1 centimeter. So, that is this into
+10 to the power minus 2, ‘right’.
+So, that is how it will come that 120×10-2; that means, it will become 1.2 and this 2 into
+21 is 42. So, 1.2 by 42, this will come to somewhere the value which we have said,
+‘right’. So, that means, it is coming somewhere closer to 0.2, ‘right’ or 0.3 rather.
+So, that if we see that how much we have obtained we have obtained 0.286, ‘right’ that
+this implies that when it is 0.286 that is the Biot number being high. So, lumped system
+analysis cannot be done, ‘right’. So, that the lumped system analysis is not valid and 1/Bi
+= 3.5 inverse of 0.286 is 3.5.And, finding the Fourier number from the Heisler chart we if we find out the Fourier
+number then from Bi is equal to 0.286 and 1/Bi is 3.5. If we see that and Fourier number
+if that is  
+alpha is given, t is also given, l is also known. So, we know the Fourier
+number and Fourier number comes to equal to 5.84, ‘right’ and the value of theta is from
+the plot of Fourier number versus theta for 1 by Bi equal to 3.5 then from that graph we
+can find out that what is the value of theta and this value of theta came to be 0.27, ‘right’
+this came up to be 0.27, ‘right’. Here we have shown Fourier number is  
+ that is
+. So, only the thing which is asking me that here we have
+taken 0.1 by 2 that is it is 0.1 meter, but here what we have done we said that was to be
+0.1 centimeter, but it is not true it is 0.1.
+So, Bi which we have done to be equal to hl/k; h was 1200, ‘right’, l is 0.1 if it is and k is
+210 ‘right’. So, h is 1200.1. So, 120/210. Yes, it is 0.1 centimeter yes it is 0.1 centimeter
+and if it is 0.1 centimeter then only it is coming this. So, what we said earlier it was 0.1
+meter, ‘right’.(Refer Slide Time: 24:25)
+So, that is what that hl/k was 1200 into 0.1/2 into 210, ‘right’. So, that 0.1 became this in
+went to up. So, to a 120/210×2. So, 420. So, 120 by 420 or this point goes out, so, 12 by
+42 somewhere it is 0.286, ‘right’. So, 0.1 meter true. So, Fourier number came to be 5.84
+and if Fourier number is 5.24 if 1 by Bi is 3.5 then from the Heisler chart we can find out
+that the value of theta which is 0.27, ‘right’. If the value of theta is 0.27 then T 0 from
+here of course, this is that 0 means that center temperature, ‘right’; T 0 is the center
+temperature.
+So, center temperature we have to find out that is what we have been asked to do. So,
+. So, we found out the center
+temperature to be 87.
+Now, we are asked that find out the surface temperature, ‘right’. From Heisler chart
+again we can do for a plane wall for the given Bi and given X/L is equal to 1. Why X/L
+is equal to 1? Because that if it is a cylinder it was for cylinder I hope it was 0.1, ‘right’ if
+we h l by k; l was 0.1 if we remember that. So, oh the thickness was 0.1 (Refer Slide Time: 27:37)
+Then you can say that for X/L ‘right’ for X/L is equal to 1. When L a X is on the surface,
+‘right’ when this is if this is the material if this is the center then when X is the surface
+that time we can say that this X is nothing, but equal to L. So, it is XL/L that is equal to
+1, ‘right’. That is why we have taken X/L is equal to 1 and from the Heisler chart we can
+find out the theta 0 is 0.83 corresponding to X/L is point X/L is equal to 1, ‘right’. This is
+from the second chart where we had done it earlier, ‘right’.
+(Refer Slide Time: 28:32)
+So, we can say that So, this way from Heisler chart we can also find out the temperatures at the center as
+well as at the surface, ‘right’. So, today we have come to the end of this class. We have
+given you three problems out of which one we have already done here and others two
+you try. Maybe next class we will solve those two problems and you will also be able to
+check up, ‘right’ and I will also be able to counter check whether we have done it
+correctly or not, ‘right’, ok.
+Thank you.

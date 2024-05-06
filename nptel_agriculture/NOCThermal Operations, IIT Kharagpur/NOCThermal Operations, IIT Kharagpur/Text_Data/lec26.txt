@@ -1,0 +1,218 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 26 
+Heisler Chart (Contd.)
+Good morning. So, we were dealing with that Heisler chart and we have shown for
+infinite long slab; infinitely long slab what is the Heisler chart, how it looks like; how we
+can determine the temperature distribution at the centre as well as any location. Given we
+have to find out that we have to know that thing. So, it is lecture number 26.
+(Refer Slide Time: 01:15)
+So, in lecture number 26 we now go to that Heisler chart this was done, ‘right’ for long
+cylinder. And now we are finding for infinitely long cylinder that was for long slab
+infinitely long slab, this is for infinitely long cylinder, ‘right’.
+So, for infinitely long cylinder Heisler chart is based on the first term in an exact solution
+to a Bessel function. Each chart plots similar curves to the previous examples and on
+each axis is plotted a similar variable like this, ‘right’.(Refer Slide Time: 01:52)
+So, this is the Heisler chart for long cylinders, ‘right’ where 
+ /Lr02 square instead of L
+it is ro, ‘right’,
+is the your x-axis. So, this is Fourier number and this is θ, i.e., θ0, θt/θ0
+is that which is T infinity minus rather T.
+(Refer Slide Time: 02:38)
+T at any place t at any place minus T ∞/Ti -T∞, ‘right’. So, this is for the long cylinder,
+‘right’ and here also if we know Fourier number there is alpha T by instead of L it is L
+for slab it is ro square, ‘right’, that if we know r value of r then you know the value of
+Fourier number, then from that Fourier number here also you have inverse of Biot
+number there is 1/Bi that is hL/k. So, k/hL that value if you know, then you can point
+that where it is on the graph. 
+So, from there the value of theta you can find out and then you can find out this either
+this temperature or that temperature or this temperature accordingly if whatever is given,
+‘right’. So, this is for the temperature distribution at the centre.
+(Refer Slide Time: 03:57)
+Then we get that temperature distribution and the special temperature distribution means
+in the cylinder body where we know Biot number is h ro/2k, ‘right’ in earlier graph also it
+was hro/2k, ‘right’. Here also it is k/h ro, ‘right’ 1 by inverse of Biot number. So, here it is
+Biot number is hro/2k and we can find out from the value of this is plotted 1/2Bi,
+‘right’;that 1/2Bi is plotted against that θ, ‘right’ and knowing the value of Bi r/r o that is
+the position.
+So, if this  is  the cylinder, if this  is  the axis then  what is  this  if this  is  the initial
+temperature distribution uniform then after time t is equal to t, if it is heated then what is
+the temperature here that we have seen from the previous cylinder graph and what is the
+temperature after time t is equal to t at this location or at this location or at this locationdepending on what is the value of r/r o, ‘right’. Then you find out the value of θ and then
+you get either T(r t) or T(0 t) or T ∞  minus T whatever value you want you can find out,
+‘right’. This is the second graph.
+Third one as earlier we have seen is the heat which is being transferred, ‘right’.
+(Refer Slide Time: 06:04)
+Heat which is being transferred this is again plotted Bi square was in times Fo versus Bi
+that is for different Bi h ro/k this is Bi2 ,Fo×Bi2. So, that is how that for different Bi you
+get the value of Q/Q 0, ‘right’ and if Q0 is known you can find out the value of Q, ‘right’.
+So, this is another. So, quickly we are going through this and next one is this is for
+cylinder.(Refer Slide Time: 06:55)
+So, similarly for the sphere also we can get it, ‘right’. For sphere of radius r o, the Heisler
+chart for a sphere is based on the first term in the exact Fourier series solution, and these
+charts can be similar to the first two sets of the plots of similar variables. Like here it is
+Fo, here it is theta and here it is inverse of Bi that is h by or rather k/h ro, ‘right’. So,
+inverse of Bi is k/h ro, ‘right’ and this is Fourier number that Fourier number is 
+ / ro2,
+‘right’ and this is for θ.
+So, once we know that again if we know the value of Fourier number, if you know value
+of 1 by Bi then you can know the value of theta and from there you can find out the
+temperature, ‘right’. This is second way of this sphere and similarly internal distribution
+of temperature you can find out. This is 1/3Bi instead of 1/2Bi for sphere it is 1/3Bi and
+this is Bi =hro/3k Bi is equal to each other by 3k.
+Once we plot that then for a given value of 1/3 Bi versus this r o/ri also rather r/ro that is
+for different values of that we can get this and from there we get the value of θ as it is
+given here T(r t)-T ∞/T(0 t)-T∞. So, that from there you find out the value of theta, ‘right’.
+Similarly, the other one is for the heat flow that is Q. So, the value of Q you have here
+similarly Bi2Fo for the sphere and for different Bi value is equivalent to h ro/k you get the
+value; get the Bi value and get the value of Q/Q 0 and Q0 if you know earlier so, you can
+find out the value of Q, ‘right’. This is how the different charts are to be read, ‘right’.(Refer Slide Time: 10:01)
+Now, we have to utilize these charts. So, for that I think it is the best thing to know by
+solving problems, ‘right’. So, we solved the problems maybe 1, 2 or 3 or as many you
+can subsequently you can you do yourself we are giving some example. So, based on that
+example you can do subsequently and may do very; I mean, you can experience as well
+you can learn.
+So, problem is like this 10 centimetre thick slab centimetre initially at 500oC is immersed
+in a liquid at 100oC having heat transfer coefficient of 1200 W (m2 oC)-1, ‘right’. This we
+have written in this work.
+Determine the temperature at the centre one minute after immersion, ‘right’. Here also
+you see what do you have a 10 centimetre thick slab initially at 500oC is the immersed in
+a liquid at 100oC. So, you have a liquid you have immersed a slab in that liquid. Initially
+it was at uniform temperature of 500oC, suddenly it is immersed. So, it appears that you
+can use the lumped system, but again for lumped system we have said that Bi has to be
+less than 0.1. So, if Bi is less than 0.1 then only you can apply lumped system.
+So, the first thing you have to check whether Bi is less than 1.1 or not, ‘right’. So, from
+the given properties that given properties are like this the slab has.  = 8.4 X 10-5 m2 s-1;
+conductivity of 215 W (m oC)-1; specific heat Cp = 0.9 kJ (kg oC)-1, and density of ρ =
+2700 kg m-3, ‘right’.(Refer Slide Time: 12:47)
+So, for the solution what do you need? First you look into that what is the value of Bi.
+So, Bi is hl/k; this is for slab. So, it is given 10 centimetre. So, 10 centimetre is the
+thickness. So, t/2 is the characteristic Length; so, L s being t/2. So, it is 10 centimetre
+thick. So, it becomes 10/2 that is 5 centimetre.  
+which means Bi is greater than 0.1. So, you cannot you cannot employ this lumped
+system. 
+(Refer Slide Time: 13:49)
+So, if you cannot employ lumped system what other it could have been? It could have
+been an analytical solution, ‘right’, but analytical solution you have seen, we have shown
+you also earlier that it needs lot of calculation or analysis.
+Now, is to avoid that just we have said that the Heisler charts they are very handy,
+‘right’. So, we can utilize the Heisler chart here also. So, Bi you have found out 1 by Bi
+is 3.57. Now, from 
+ ; alpha is given, t has been given, t is after 1 minute, ‘right’;
+so,  60  second  t  is  given.  Alpha  t  by  l  square;  l  already  0.05  we  have  seen.  So,
+So, Fourier number is 2.016. 
+(Refer Slide Time: 15:04)
+Then again what we need to do? We need to go to that theta versus Fourier number that
+plot, ‘right’ which was like this for different 1 by Bi. So, for a given Fourier number that
+is 2.06 for a given 3.57 that is this. So, we look at the point and then find out the value of
+θ, ‘right’. 
+ . So, this value of theta from the plot we get 0.63. So, if we get from the plot this value equal to 0.63 then we can find out the value of T c or
+centre  temperature  that  is  T ∞ is  already  given;  T ∞ is  outside,
+ So, after 1 minute which you emerged into
+the solution that solution this from 500 degree centigrade, if it is 100 degree centigrade
+the after 60 seconds the temperature has come down to 352 degree centigrade, centre
+temperature, ‘right’.
+So, similarly if this is centre temperature similarly at any position if it would have been
+asked, you would have found out that what is the positional temperature using the second
+curve, ‘right’. So, this is one example where what we have done? We have first checked
+what is the value of Biot number? That value is less than 0.1 or not that we have checked
+because if it is less than 0.1 then directly we can use the easy solution as lumped
+solution. But, since it is we saw that it is not point less than 0.1 it is more than 0.1. So,
+we are not able to use lumped system directly.
+So,  if  we  are  not  using  lumped  system  directly  another  solution  could  have  been
+analytical solution based on the boundary conditions given from the basic governing
+equation. But, that may take some time or some analysis or some block complication
+depending on the situation. That is why we are trying to find out the centre temperature
+from the Heisler chart.
+For the Heisler chart to find out the centre temperature what we need? We have to find
+out what is the Fourier number that is 
+ ; the values are given, t is given for 1
+minute that is 60 seconds, alpha is given and the l characteristic length dimension also
+given 10 centimetre thick. So, t/2 is that; so, it is 0.05 centimetre 0.05 meter, ‘right’ 5
+centimetre 0.05 meter.
+So, from there we found out Fourier number, you have found out already Biot number.
+So, inverse of the Biot number you know; so, these are the two points from where you
+can point out on the graph of Heisler chart Fourier number versus non-dimensional
+temperature against 1 by Bi. That point from there you find out what is the value of θ and
+from that θ value you now expand that θ in non-dimensional temperature into that intothe form of T that is 
+ . So, other two are given, T centre you find out and it
+became to be in this problem 352 degree centigrade, ‘right’. Similarly, other problems
+also can be solved.
+(Refer Slide Time: 19:57)
+Let us go into that this is the second problem; that was with the slab, this is with the
+cylinder. A long cylinder 12 centimetre in diameter and initially at 20oC is placed into a
+furnace at 820oC with local heat transfer coefficient of 140 W(m2 oC)-1 Calculate the time
+required for the access temperature to reach 800 degree centigrade. Also calculate the
+corresponding temperature at radius of 0.5 centimetre.
+Given alpha 6.11 X 10-6 m2s-1; conductivity 21 W (m oC)-1. So, if this is known then we
+can find out, again I will read long steel cylinder 12 centimetre in diameter and initially
+at 20oC, placed into a furnace at 820oC with local heat transfer coefficient of 140W(m2
+oC)-1.
+Calculate the time required for the access temperature to reach 800oC also calculate
+corresponding temperature at radius of 5.4 centimetre. Given alpha is equal to 6.11 X 10-
+6 m2s-1; conductivity k 21 W (m oC)-1, ‘right’.
+So, it is also again coming that first we have to find out Biot number. So, Biot number is 
+140 0.06 10.2; 2.52 2 21 2ohr XBik X Bi   So, if Bi is greater than 0.1 we cannot use lumped system.
+(Refer Slide Time: 22:35)
+So, we have found out what is the value of 1 by 2 Bi which is 2.5. So, we have found out
+this; so, theta c by theta i. Now again we go to that plot where we have to find out 1/2Bi,
+‘right’; so, 1/2Bi versus r o/ri so, that here it is centre temperature. So, centre temperature
+is 1 by Bi so, from there we get this value and get the value of theta, ‘right’. So, the c /
+I that has come to be 0.025, ‘right’.(Refer Slide Time: 23:28)
+So, 0.025 we have found out and from there we have this centre temperature we can find
+out there is from the graph of this, this is 0.025, ‘right’ and this why we have made 800
+minus  820 this  is  the  environmental  temperature,  initial  temperature,  environmental
+temperature, ‘right’. So, here we should first find out because 800 degree centigrade we
+have not shown.
+So, however, this is like that that 0.025 was that from the graph and we can find out T c
+and that Tc comes to equal to 800, ‘right’ T c comes to 800, because calculate the time
+required for the access temperature to become 800 I made mistake I thought that time is
+given.(Refer Slide Time: 24:41)
+Since time was not given so, we have found out theta c over theta i and that has become
+0.025, Fo is not given. So, from this value and from 1/2 this value we find out F o value.
+So, Fo value came out to be 5, ‘right’; F o value Fourier number came out to be 5. So, if it
+is 5 then we know it is 
+  and this is ro2, ‘right’; 
+ /ro2 Fo value 5 we can find out value
+of t. So, which we have done subsequently. Let us see that subsequently we have done
+this.(Refer Slide Time: 25:36)
+Fo is 5, ‘right’ and 
+ , ‘right’. So,
+you remember that the value of r was given the value of r or 12 centimetre, ‘right’. So,
+12/2 that is r is 6 centimetre, ‘right’.
+Now,  we  are  asked  that  what  is  the  value  of  theta  or  temperature  when  r  is  5.4
+centimetre, ‘right’. So, When r = 5.4 cm = 0.054m, ‘right’ again Bi is
+So, if 1/2Bi is known then from the chart we can find out what is the value of theta
+‘right’. So, theta becomes equal to from the chart of what? In this case our chart will be
+again 1/2Bi versus Bi. So, that Bi we have found out what is the 1/Bi what is the value of
+θ, ‘right’. So, that θ we have found out to be 0.84, ‘right’.
+So, we have found out T r from the graph there is at a location 5.4 centimetre at the as the
+radius, ‘right’. So, we have with this we can find out which was 803.2 degree centigrade,
+‘right’.140 0.054 10.18; 2.772 2 21 2ohr XBik X Bi   
+00.84; 0.84 (800 820) 8 0 .22803rro T TT XT TC
+     (Refer Slide Time: 29:03)
+Now, you also see, your concept wise your radius was like this it was put at some 820
+degree centigrade that is the your oven temperature and it came to be after some time
+whatever time was given after time t whatever it came centre temperature came to be
+800, ‘right’. You were know you were asked to find out what is the time required. So,
+time  we had shown some almost close to 3000 seconds, ‘right’. So, close to 3000
+seconds we have shown.
+Now, from there what we did? We now found out that at the different location, ‘right’;
+so, at the different location to find it out as we have taken the 
+ that value, ‘right’
+and this came to be 0.84, how? This was with that 1/2Bi, ‘right’ versus different Bi
+whatever. So, this value we got from there, ‘right’. So, this was 0.84; so, from this 0.84
+value we then calculated the value of T r that is the value of temperature at r is equal to
+5.4 centimetre, ‘right’ and we got it to be 820.
+So, what I would like to say if the centre is 800 and if the outside is 820 then this was at r
+is equal to 6, ‘right’. So, at r is equal to 5.4 it will be away from 6 so, somewhere here.
+So, not the centre, but closer to the surface than the centre, this point is closer to the
+surface than the centre. So, it is likely that if the centre was 800 and if the outside was 820 this temperature will
+be higher than 800 that is what we got it to be 803.2 degree centigrade, ‘right’. This is
+how we expect that you will also do some problems perhaps the next class we will do a
+some problem with the sphere and then we will complete this and some more sphere or
+some other similar so that this Heisler chart becomes handy to you and you can easily
+determine the temperatures, ‘right’. So, with this let us stop to this class. 
+Thank you.

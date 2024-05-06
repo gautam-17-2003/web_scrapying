@@ -1,0 +1,184 @@
+Thermal Operations in Food Process Engineering: Theory and Applications
+Prof. Tridib Kumar Goswami
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 21
+Transient Heat Transfer
+So, good afternoon; again, we are coming we have finished more or less conduction heat
+transferred, but on the steady state condition ‘right’. So, now, let us go into Heat Transfer
+for Transient condition that is this is called time dependent heat transfer ‘right’. Earlier it
+was time independent; that means, under steady state, but when there is unsteady state,
+then there is all altogether different heat transfer and the solutions are also different.
+And I let us give an example an example is that say you have a boiled water boiling
+water, ‘right’. And you have a ball say maybe; maybe; maybe made of say iron ball of
+this kind of or the playing that duce ball by which cricket is being played, ‘right’, that is
+made of say iron and you dip it into that boiling water. The moment you have dipped
+into that boiling water initially towards under room temperature now you have given it
+under boiling condition. So, the inside of this ball the temperature will be going on
+increasing till it is attaining a steady state temperature, ‘right’.
+So, under this situation the heat transfer is known as transient heat transfer, ‘right’ or
+heat transfer during transient condition or also known as unsteady state heat transfer,
+‘right’. (Refer Slide Time: 02:27)
+So, if we look at that for the solution of heat, ‘right’ for it is solution let us look into that
+this is called a lumped system heat transfer conduction, ‘right’ lumped system analysis
+that is as I said that it being cricket ball or kind of thing say it being a ball. So, you are
+dipping it into hot water or boiling water the temperature inside will go on changing. So,
+that while it is giving on changing till it is attaining a steady temperature. So, that period
+is known as transient heat transfer or the heat transfer during this process is called
+unsteady state heat transfer, ‘right’.
+So, we are taking in that case as I said you have taken on ball of iron. So, that is a
+spherical, but to do the analysis let us not take any specific geometry, ‘right’. So, let us
+take an arbitrary geometry where there is no shape and size, ‘right’ as we have shown in
+this that this is the; this is the shape of I mean a non specific shape of solid having
+volume V, specific heat C p, density rho and temperature at any time T (t) and initial
+temperature T0 with a heat transfer area A and ambient condition is that ambient is at a
+temperature Te with a heat transfer coefficient of h, ‘right’.
+This is similar to that we said that in a pot we have boiling heat water and you have
+dipped one ball into it, ‘right’ who is this conditions are known that is its volume is
+known; its specific heat is known; its density is known and its initial temperature is
+known we have to find out at definite time what is the temperature. If that be true this we
+are going to do it here, ‘right’. Here instead of taking this spherical shape let us take onegeometry which is not a specific this like this one and also here we would like to say that
+this environment that is the water boiling has a temperature known as T e with a heat
+transfer coefficient of h, ‘right’.
+If that be true then the fluid with heat transfer coefficient of h and the temperature T e, if
+that is surrounded by and the body is having a volume as we said with an area A, then
+the governing equation which will govern the heat transfer we can say that the rate of
+heat flow into the volume into the solid of volume V through the boundary surface A, if
+we take that to be equal to capital I or roman I and that must be equal to rate of increase
+of internal energy of the solid of volume V, ‘right’.
+So, we are equating  the rate  of heat  flow  into  the solid of volume  V  through the
+boundary A or surface A that should equal to the rate of increase of internal energy of the
+solid of volume V, ‘right’.
+(Refer Slide Time: 07:50)
+So,  this  is  the  governing  equation  and  by  writing  the  appropriate  mathematical
+expression for each of this termed we can say that the heat which is being transferred is
+by convection from this medium ‘right’ which is equal to
+  Te in this
+case if it is a boiling water then it is higher T e than the temperature of the body, ‘right’.
+So, heat is being transferred from the environment to the body, ‘right’ with the area Aand the heat transfer coefficient being h, ‘right’. So, this must be equal to 
+we know Q is equal to mC p∆T, ‘right’.
+(Refer Slide Time: 08:48)
+So, Q is equal to mC p∆T that we know. So, to have the m we are making ρ times V,
+‘right’; ρ is in kg per meter cube and V is in meter cube, so, it is kg-m, ‘right’.
+(Refer Slide Time: 09:12)
+So, mCp∆T and this ∆T, is a function of time, ‘right’ that is why we write dT/dt that is
+del del T of t, that is, rate of change of temperature with respect to time. So, this equation
+we can solve that the governing equation which we have said rate of heat flow into the
+solid of volume V through the boundary surface A must be equal to the rate of increase
+of internal energy.
+(Refer Slide Time: 09:53)
+And this internal energy we have calculated as mC p∆T, where m corresponded to ρ times
+V and this is m and C p and ∆T and this ∆T is a function of time. So, that is why it is
+dT/dt that is rate of change of temperature with respect to time, ‘right’.(Refer Slide Time: 10:38)
+So,  once  we  have  this  the  solution  of  heat  can  be  written  as
+This is the same as the previous one which we had said that 
+ at any t,
+this is the body temperature, this was equal to ρ times Cp times V times dT/dt, ‘right’.
+So,  this  we  are  rearranging  and  writing  like  this  and.
+ (Refer Slide Time: 12:05)
+Not at time t is equal to 0 because time t is equal to 0 is the initial condition. So, this is
+valid for time t greater than 0. And initial condition is like this that T at any time t is
+equal to T0 for t is greater is equal to 0, ‘right’ this is the initial condition, ‘right’ and new
+temperature definition we let us define θt, ‘right’ θt let us define as a new temperature
+and that is to be defined as T t -Te, ‘right’.
+So,  this  we  are  depending  as  T t  -Te like  this  temperature  is  also having  a  unit  of
+temperature that is either degree centigrade or any equivalent temperature unit, ‘right’.
+(Refer Slide Time: 13:26)
+Now, if these be true then we can write that this equation we can rewrite as in terms of
+theta as 
+A is the surface area, h is the heat transfer coefficient ρ is the density Cp is the specific
+heat and V is the volume of the body through which that is being transferred ‘right’. 
+(Refer Slide Time: 14:46)
+So, if this be true the we can write that as we have said the initial condition is θt is equal
+to Tt  -Te which is equal to θ0 and this is valid for t time is equal to 0; that is why it is
+called initial condition at time t is equal to 0, ‘right’. So, at time t is equal to 0, θt is equal
+to θ0 and defined as Tt -Te, ‘right’.(Refer Slide Time: 15:24)
+And solution of this differential equation gives in the form θt, ‘right’, θt is equal to Ce-mx 
+(Refer Slide Time: 15:45)
+So, it is like that; θt is equal to Ce-mx. Now, things are all clear and you can see. So, this is
+the solution.(Refer Slide Time: 15:59)
+Then we can write that applying the initial condition applying the initial condition and
+integration of this gives that C is equal to θ0, ‘right’; C is equal to θ0, ‘right’ because we
+had theta t is equal to Ce-mx, ‘right’, and we said at time rather at time t is equal to 0 at
+time t is equal to 0, we said theta t is equal to θ0, ‘right’. So, that if we put at time t is
+equal to 0. So, here it was sorry not mx it was m t if we remember correctly, ‘right’ it
+was mt not mx
+(Refer Slide Time: 17:26)
+So, if it is mt then at time t is equal to 0, we can write that theta 0 theta 0 is equal to or
+theta t was now theta 0 and that is equal to that e to the power minus mt. So, c became
+equal to θ0, ‘right’ because time t is equal to 0 and is θ0. So, C became equal to it was Ce-
+mt. So, time t is equal to 0. So, it became t theta 0 and C became equal to θ0, ‘right’.
+(Refer Slide Time: 18:16)
+So, if that be true then the temperature distribution is 
+ (Refer Slide Time: 19:28)
+0 0( ) ( ) mte
+et T t TeT T
+ So, if this be true this is dependent on here this is valid only if that a number Biot
+number Bi is equal to , where h is the transfer coefficient of the environment; L s
+is the characteristic length and this is defined as equal to V over A, where V is the
+volume of the body, A is the surface area. So, L s is V over A and that is in meter, ‘right’.
+So, this is called characteristics length or L s.
+So, this term that is called Biot number shortly denoted as Bi is ,  Ls is  the
+characteristic length or characteristic dia dimension of the body and k s is the thermal
+conductivity of the material, ‘right’. So, if this    this is less than equal to
+0.1, then only this solution is true means it is valid. So, unless that 
+  this value is less
+than 0.1, we cannot go for this lumped system analysis.
+(Refer Slide Time: 21:21)
+This is the very fundamental that the Biot number has to be very high which in other
+word is saying that is take again I gave the same example that we had bath of water
+under boiling condition, ‘right’, and we had put spherical ball in it this environmental
+temperature was equal to 100 degree centigrade and this initial temperature was say 25
+degree centigrade. 
+Now, suddenly when we dipped into this solution the temperature of this ball will go on
+increasing and we said that it will go on increasing till the outside and inside temperatures
+shLBik
+s
+shLBik
+s
+shLBikare under equilibrium or it is called under steady state. Till that we will go on and the
+time required for this we can find out from this equation.  But, this is when the Biot
+number is less than 0.1 that is 
+ is 0.1. Physically what it means that this we are of the
+metal if the temperature is here 100 degree that should immediately be conducted into
+the body. So, the body resistance is negligible. Body resistance for the thermal energy to
+be transported is negligible if that is happening then only it is this solution can be valid
+or you can apply this solution, ‘right’.
+So, the moment this is coming to the contact of the environmental temperature this will
+be conducted immediately inside, ‘right’. Otherwise normally what is happening assume
+that your this as we are repeatedly saying this is the solution of the water boiling water
+100 degree centigrade. And suppose you have one bowl of food material normally food
+material is not having high conductivity very low poorly conducting any food material, is
+generally poorly conducting. So, what will happen? This temperature we will come to
+the surface and there will be resistance and inside it will take long time to go into this,
+immediately this will not be going inside. So, if this is not happening then you cannot
+apply this situation. That is why as we have defined that      that has to be less
+than 0.1 which in subsequent thing we are saying.
+(Refer Slide Time: 24:33)
+s
+shLBikNow, where ks is the thermal conductivity of the solid irrespective of the shape of the
+solid the temperature distribution during transient condition within a solid at any instant
+is uniform with an error less than 5 percent; if less than 0.1, ‘right’; here it
+is Biot number, if Biot number is  
+ less than 0.1. Hence let us assume the lumped
+system analysis  is applicable  for Bi less than 0.1 only, ‘right’, and physically it is
+meaning that Bi is 
+ . This means h is the convective heat transfer and k s/Ls is the
+conductive heat transfer, ‘right’.
+So, if you still remember that we had given this analysis or this analogy for this example
+that this is water and we had this one, ‘right’. So, h came from the water, ‘right’, and k s/
+Ls is that conductive. So, this is a convective heat transfer and this is the conductive heat
+transfer, the ratio of these two, ‘right’. So, h has to be much lower than compared to k s/
+Ls, then only it will be less than 0.1, ‘right’. So, that means, this is the ratio of heat
+transfer coefficient for convection at the surface of the solid to the specific conductance
+of this solid.
+Hence assumption is valid if the specific conductance of the solid k s/Ls is much larger
+than 0.1, ‘right’, is valid if the specific conductance of the solid that is k s/Ls is much
+larger than h not 0.1 h, ‘right’. So, then only this is valid, h has come here. s
+shLBik(Refer Slide Time: 27:24)
+So, with this let us say that we have initiated the unsteady state heat transfer and we have
+seen Biot number is h over k s/Ls and the value of it has to be less than 0.1, then only we
+can make the lumped system analysis, ‘right’.
+So, today time is over. We will continue in the next class solving different problems and
+solutions of heat ok.
+Thank you. 
