@@ -1,0 +1,296 @@
+Advanced Aquaculture Technology  
+Professor Gaurav Dhar Bhowmick  
+Department of Agriculture and Food Engineering  
+Indian  Institute  of Technology , Kharagpur  
+Lecture 28  
+Feed Formulation  – Linear Programming  
+Hello everyone , welcome to the third lecture of the mod ules aquafeed  technology . So my 
+name is Professor Gourav Dhar Bhowmick, I am from the Agriculture and Food Engineering 
+department of Indian Institute of Technology,  Kharagpur .  
+(Refer Slide Time 00:36)  
+ 
+In this lecture module will be discussing about the concepts like introduction to the linear 
+programming as you already remember in the last lecture we discussed about different feed 
+formulation methods . The first one we discussed already pearson box method , so in this 
+lecture method will be discussing abou t the linear programming method .  
+How linear programming based least cost formulation is calculated and what are the 
+components of this LP based feed formulation software . And what are the available 
+commercial LP based  software for feed formulation process  and what is the advantages and 
+disadvantages of them .  (Refer Slide Time: 1:14)  
+ 
+ 
+So in general, linear programming was developed by the R ussian mathematician Leonid 
+Kantorovichto,  so he first formulated or developed this linear programming method dur ing 
+the seco nd world war and which  primarily to provide the military logistics solutions and 
+frankly speaking this world war  in this crisis situation only the the maximum of the scientific 
+development takes place in human history , this is one of the exampl es.  
+This linear  programming it was introduced in the first time during the mid 1950s for the 
+animal compound field industry as well and this technique now involves the allocation , 
+selection and evolution of the limited resources to achieve an optimal solu tion. So linear 
+programming has extensive application in the industrial process like mixing , blending machin e tooling along with the business activities like planning , bidding , purchasing , 
+transportation and a distribution network and all these things deve loped.   
+Recentl y a least cost food formulation procedure was introduced in the aqua feed industry 
+based on the principles of linear programming . In the context of feed formulation like the 
+limited resource that can be the nutrients and the ingredients and u ltimate objecti ve is to find 
+out the lowest cost at which the available ingredients can be combined to develop the 
+product .  
+So first one let us  discuss about the least cost formulation , from the name itself  you can 
+understand that what we are targeting he re; we are ta rgeting the nutrients which are essential 
+for development of your product , however , you are  searching for the least cost method by 
+which you just optimize the ample amount of supplements that is the nutrients that is required 
+by getting it don e by using th e raw materials which are cheap in cost .  
+It can be costly raw materials  as well but you have to optimize , use it very optimally so that is 
+what we are doing here . For that you have to use the linear programming method otherwise it 
+is very dif ficult for no rmal human calculation process . So linear program ming  is the process 
+by which we can easily calculate , we can formulate the required feed for our reared aquatic 
+species .  
+It involves with the calculation of several food ingredients in definite  proportions to pro vide 
+the targeted aquatic species , a well -balanced nutritional food at a lowest possible cost as we 
+discussed . So required consideration of factors like first nutrient requirements o f the targeted 
+species that you need to remember that y ou need to jot it d own first , second competency of 
+the species to digest and assimilate the nutrients from various available ingredients .  
+So suppose as we discussed in the last lecture about the pearson box method remember we 
+use rice brans and ground nut  oils and also , we use this ingredient which already has the 
+nutrients which is required but at which percentage we need to use them ; that is  the matter of 
+concern.  That is  where  the linear programming comes into the picture and then we start doing 
+the least cost formulation  methods .  (Refer Slide Time 04:36)  
+ 
+  
+ 
+So what are the components that is required when we do the linear programming based  feed 
+formulation we use these softwares and all , mainly it use three database . First one is the 
+nutrient , second is the ingredi ent and third is the products . So what is the nutrient definitely 
+you need to understand , what is the percentage of nutrient or what is the role of it in your 
+target reared species  and all , you have to remember all the values .  
+So that i s why nutrient plays a si gnificant role in the formulation system as they link both the 
+ingredients and the product you understand , ingredient here is the raw material , nutrient is the 
+expected outcome or  I would say like not outcome better say th at expect ed proportion of 
+nutrient  that it requires . Third thing is the product , so raw material process product ; so 
+ingredients , nutrient , product .  Nutrient is the major link between the ingredients and the product and it also give the 
+database with the informati on about the correspondin g units and may also have some 
+additional information like the aquatic species to which the nutrients may be available 
+applicable . So what are the list of commonly used nutrients which are available for a 
+aquafeed  formulat ion, what  are the information this  is given in this table if you see .  
+What are the information we need to provide ; moisture content , crude protein , crude  fat, fiber 
+level , ash content , ma cro minerals like calcium , phosphorus , sodium , etc. Phosphorus is 
+usually expressed in available basis , why I said my macro minerals these are the most 
+essential mineral materials .  
+It has a higher value , higher amount of macronutrients are required for aqua feed 
+formulations , whereas the trace minerals like zinc , manganese , iron, copper , selenium it 
+needs in a very smaller percentage . Then there comes this amino acids , what type of amino 
+acids you are  providing like say it is arginine , histidine , lysine,  methionine  and like it has to 
+be provided that with the number or the percentag e and it is normally expr essed in digestible 
+basis.   
+It is not the amino acid that is available but digestible , you cannot just say like it has this 
+percentage of  amino acid,  this percentage of  lysine is available for that and suppose this 
+lysine  is like it is bounded in nature an d it is not actually digestible for the purpose of feed 
+formulation , purpose of your larvae or purpose of your target rearing species , so it does not  
+make sense .  
+So this amino acids are normally expressed in the form of d igestible  bases , fatty acids and 
+other lipid contents like linoleic acid , linolenic acid,  EPA,  DHA,  cholesterol , phospholipids , 
+etc. Starch and non -starch polysaccharides , energy usually expressed in a digestible energy 
+for aquafeeds,  in general it is like  kilo cal orie per kg or mega joule  per kg and vitamins like 
+vitamin A,  thiamine , and riboflavin  like this is the form of vitamin D and it is normally in the 
+milligram per l kg or microgram per kg something like that .  
+So these are these different forms of nutrients  that we normally require  and what are the 
+components of software assisted feed formulation , if you see the formulator , he or she needs 
+information regarding the ingredient availability , what will be the nutrient composition that 
+we require , what is the in gredient price from which the nutrient will be available , what is the limitation of ingredient or is it really available in your  near vicinity like your near market or 
+not and whether it has to be transported from outside .  
+All these factors nutri ent requi rement of the species all these  factors are very important for 
+the formulator to put the values in the linear programming method and any kind of method 
+can be used and any kind of software is used in using this linear programming method and 
+that w ill give you the exact feed formulation values .  
+The physical parameters like  smell,  density and color and functional parameters like 
+palatability or attractability  are also treated as nutrients in formulation systems , apart from the 
+actual nutrients as in nutritio nal science.  Because these are s omething which is very 
+important you just cannot deny the factor that you prepare a best optimal solution , optimal 
+feed formulation for your system and which smells very bad .  
+No one going to use it which has a  very high int ensity , so it will definitely be  useful for your 
+floating purpose , anyways I am  just giving you an example . It is color it is like functional 
+parameters like palatability  whether it is palatable or not , whether it is attractable or not for 
+the fish and all .  
+There are different factors w hich actually involves when you design ; that is  why these 
+parameters are also important and considered as a kind of passive nutrients or passive nutrient 
+requirement when we do the synthesis when we do this cal culation in software  for this linear 
+programmi ng. What are the ingredients database stores information like ingredient names , 
+availability and nutrition composition of the ingredients and their cost .  
+So this informations are very important in terms of ing redient , we di scuss about the nutrition 
+till n ow now we discuss about the ingredient . So what is the name of the ingredients from 
+which the nutrient will be taken , it is available in the lower market , it is composition by 
+nutrient composition inside the in gredient just like in the last example in la st lectu re, the rice 
+bran has 18 po int something percentage or 12.8 percentage of crude  protein and which is 
+important , this information is needed and what is the cost for it .  
+You can have source of crude  protei n and which co st like thousand rupees or ten thousand 
+rupees a kilo, so you d efinitely not go for it , so these are the informations that you need to 
+have . Within the database a nutrient composition table for any ingredient is commonly known as the matrix a nd the matrix always reflects the influence of the individual ingredients on the 
+nutritional value of the final feed .  
+(Refer Slide Time 11:17)  
+ 
+ 
+See this is the sample matrix value of example soybean meal , suppose you are preparing a 
+soybean meal for yo ur fish for yo ur reared  species which has 46 percent as a protein content , 
+so these are the matrix value of the example soybean meal.  What does that mean , dry matter  
+88 percentage , crude protein 46.3 percentage , crude fat 2.7 , crude fiber 4.5 .  
+Digestible energy 3.3150 kilocalorie per kg , calcium 0.35 percentage , digestible lysine , 
+digestible methionine  thionine,  choline  all these values are given . So all this is called the 
+matrix value of all the nutrients available for your final feed formulation . The cos t of ingredien ts is usually calculated after adding the cost of goods , transp orts and other additional 
+taxes .  
+Some feed manufacturer may also include the cost of shrinkage due to the pests,  evaporation 
+loss, process loss and the financing in the cost of ingredients.  Product specification when we 
+calculate it involves defining the desired nutrient levels along with the ingredient inclusion  
+levels ; this is the product that I am  talking about . Now nutrient is discussed ingredient is 
+discussed now is the final  product .  
+Final product specification when we discuss about it invol ves with the defining the desired 
+nutrient  level along with the ingredient inclusion level and upper and the lower limit is set for 
+each nutrient and ingredient . The constraints are the drivers of the solutions and involve a 
+significant cost associated with it , what does th at mean like suppose you know  your final 
+product , you have to know your final product before you discuss anything in a linear 
+programming method or any method y ou have to know your fi nal product , what is  your 
+target .  
+When you know the target spe cies, in your target feed the crude protein level has to be 25 
+percent then only you can start discussing about all the other factors ; you have to know this 
+factor you ha ve to know this specifi cation , product specification that is very important . So 
+once  you know  this product specification then you starts  calculating the amount of ingredient 
+that it requires because you know the amount of nutrient present in the ingred ient itself , you 
+got my poi nt.  
+So from there we calculate and we do the reverse engineeri ng kind of thing and then we came 
+up with the final amount of ingredients that it requires to get a final value of crude  protein of 
+25 percent in the final product , which is how it is done . So the constraints are the driver of the 
+solutions and involving t he significant cost associated with it definitely , if unrealistic target or 
+conflicting constraints are set within the product specification then an error called the 
+infeasible solution will be  returned by the program definitely .  
+If you remember in the la st lecture  I have given you one problem  I have discussed about 
+when we discuss about the Pearson’s  box method , I have given you some problem just let me 
+know whether it is a infeasible solution  or the feasible solution ? Your  ingredient has 20 
+percent of crude protein , A a has 20 percent crude  protein , B has 10 percent crude  protein. Now I am  asking you to develop a final product which is having 50 percent crude protein  
+how are you going to  devel op it?  
+I am not allowing you to concentrate anything if I am simply allowing you to only mix it is it 
+possible to go for final product with a 50 percentage of concentrated crude  protein only by 
+mixing , no concentration is done , no concentration technique is used , no other manipulation 
+is used , only simply mixing , it is infeasible , that is  what we need to discuss that is  why we 
+need to understand . Unrealistic target you cannot do it so you cannot come up with the 
+product which is having with unrealistic or the conflicting constraints .  
+(Refer Slide Time: 15:35 )  
+ 
+So this is the example of the product specification of a tilapia grower feed . Now that we 
+know that in order to make a feed for tilapia grower feed you need to have a nut rient 
+available for the fee d crude protein level is around minimum 28 percent then you can  start 
+discussing about the factors like what are the ingredients that you can use so that your final 
+product should have at least 28 percentage of the crude protein .  
+Same way fiber concentrat ion should be maximum 4 percentage , you cannot have ingredients  
+which can suppose you mix up a certain ingredients and then you come up with more than 28 
+percentage of crude  protein but it also contains 10 percentage of fiber def initely it is not 
+usable , definitely it is not acceptable for as a tilapia grower feed . Then there comes the 
+computational method then there comes all these linear programming softwares and all where 
+they are useful for us to finalize , optimize s values of the ingredient specificatio ns.  (Refer Slide Time: 16:45 )  
+ 
+What is the solving mechanism l ike what are the software programs that is available with this 
+linear programming based feed formulation software those are available I am not going int o 
+details there are different linear pr ogramming techniques that you can simply google and you 
+can learn  from the NPTEL  lecture materials only and if you want further discussion you can 
+definitely contact with me anytime .  
+And definitely you can or any way  in Google is available you just simply  search for linear 
+programming methods you can got to know a lot of lecture material available on this 
+particular sector and you get to know more in detail in depth knowledge . So just because in 
+this lecture maintain  I do not  want to go in detail discussio n of all these methods because the 
+time constraint .  
+So I will  only discuss about the software packages those are available for this feed 
+formulation method . We have a method called solver , we have a software called s olver a 
+microsoft excel add -in tool tha t is available that you can simply use it and it is famously used  
+by the students , teachers and feed mixing operators and all . It can adjust the values present in 
+desirable variable cells  for satisfying the limit of t he constraints  cell and to produce the 
+results in the objective cells in absolute manner .  (Refer Slide  Time 18:02)  
+ 
+ 
+There is another software  that is Winfeed  it is an inexpensive software package it provides 
+easy to operate user interfaces to manage t he feed formulation for teachers  and sm all scale 
+feed mixing problems . Another software Feedsoft  which also prov ide the user friendly 
+interface , multiple clients and plants and like cloud services can be managed simultaneously 
+to provide professional  tools for a consultant and the small scale f eed companies.   
+Other than that Adifo  they have this Bestmix  software , feed management system from the 
+Brill software , Format international from Format  software , A systems from Aliix2 software . 
+These are certain  softwares and which are available sometimes in packages and sometimes 
+even in free learning methods also , so this you c an use along with accuring  knowledge more about the linear programming how it actually been done in mathematical way and then you 
+go ahe ad with this using these packages that will g ive you more in -depth idea about how 
+actually feed formulation has been tak ing place and how it is to be done .  
+These are the some screenshot of the some feed formulation software Winfeed,  Feedsoft and 
+there is a Indian  made Kasturi  is a freeware available  which is suitable for poultry and feed 
+formulations and all know so that a lso you can use.  All these data  are available from the 
+Vasagam et al 2015, I will  share you the reference so that you can go google  it and you can 
+learn from the paper itself , the r eport itself so what the softwares are  and how it works and 
+what are the in formation that you need to know before you run these softwares .  
+(Refer Slide Time: 19:48 )  
+ 
+In general , this all this enterprise level feed formulation solutions can be provided b y using 
+these softwares for large scale operations . The software packages o ffer of for optimization of 
+any one single and multiple formulas at a single time , it can give you the effective 
+formulation of sup plements , concentrate , and the premixes . Integrati on with laboratory data 
+and the pre -loaded automated ingredient value recal culating models is possible .  
+Sensitivity analysis you can do that , how much of a stochastic  programming like this is a 
+stochastic  programming method . So in general this software pa ckages has all the necessary 
+requirement available for you to do a single -handed practice on feed formulation for your 
+target aquatic species or reared  aquatic species .  (Refer Slide Time: 20:42 )  
+ 
+What a re the advantages of these softwares ; the facility  to adjust formulas on a daily basis , 
+ability to handle any number of ingre dients or nutrients using the formula , possibility to do 
+the complex restriction on the nutrient level and ingredient inclusion , rapid and it  is very 
+simple , does not  require a prof essional nutritionist for handling the routine operation s, it can 
+be centra lized and operated by the formulator from any part of the world and he can provide 
+you with the data or information .  
+(Refer Slide Time: 21:12 )  
+ 
+What are the disadvantages , optimi zation of the formula for nutrient level s alone may not be 
+ideal in terms o f production performance , sometimes only on the basis of nutrients when you optimize these formulas and all sometimes it will not g ive you the exact , it is like if you do a 
+calculat ion and proper scientific method and do all this chemical formula and softw are you 
+put things and then you make a mix up, or like “khichdi”  like the famous food normally being 
+eaten by northeast India peopl e and then even in S outh India always it is availa ble I am not 
+sure about it like how it called there everywhere so in genera l it is called “khichdi”.   
+So if you go for proper feed formulation  software and all you have to optimize all those 
+things at the e nd the final product you may not like it that is possible . Though it has all the 
+nutrients possible , it has all the aroma , smell everything but something will not click because 
+we have all the other taste organs with all the all the other sensory organs no t everything is 
+like perfect , not everything can b e made perfect by only optimizing nothing there must be 
+something that you are left with .  
+So I am just giving you in terms of very unscientific discussions that  I am doing right now 
+but in general scientif ically it is doable everything is optimizable but  I am saying still there 
+must be something that can be left and must be some thing that is not formula table like you 
+can just not use it for your feed formulation , it is not possible sometimes .  
+Those techniq ues or those particular type of ingredients or tas te or it needs to be , how to say 
+one to one basis you cannot just go ahead  with it so there are restrictions on this method as 
+well disadvantages , but though  I would not say much of a disadvantage there is a possibility 
+to withstand it or to somehow troubl eshoot  it. Minor error during the preliminary database 
+can create huge seriou s error in the whole formula and at the end you will end up with 
+creating nuisance in your farm , because of the providing non app ropriate fish feed.   (Refer Slide Time 23:36)  
+.
+  
+So in this lecture and from the previous lecture we understand the feed fo rmulation , we 
+understand the pearson box method now we understand in this lecture the linear 
+programming methods , why they are us ed, what are the software packages , how we can 
+understand it better , what is the purpose of using it .  
+So it was introduced rec ently in this aqua  feed industry , the LP  based least cost feed  
+formulation method , softwares are available at least with the thre e database , one is for 
+ingredients , nutrients and products . Feed formulations software can be centralized which is 
+like the fut uristic model that we are talking about . Once it is centralized you do not  have to 
+do it each home basis , one centralized feed fo rmulation  software is there .  
+So suppose  can be op erated by any formulator from any part of the world that is doable and 
+that i s why these software packages are becoming very popular and those are normally very 
+much user friendly . It is a in general what i s the take away from this lecture , the linear 
+program is a mathematical technique which involves the allocation , selection and evolution 
+of limited resources to achieve an optimal solution or the optimal requirement .  
+Least cost formulation combines the se veral  feed ingredients in definite proportions to 
+provide the targeted aquatic species a well balanced nutritional feed at the lowest possible 
+cost, and the nutrients plays a significant role in the formulation system as they both link the 
+ingredients as w ell as the product .  
+So based on the product requi rement , based on the nutrient availability and based on the 
+nutrient availabl e in the ingredient we kind of match these three different resources and we use it to make up for optimal solution , we need to ma ke it for optimal resource final feed 
+formulation .  
+Feed formulation software does not require the professional nutritionist in  general , that is the 
+best thing about it and it can be centralized and formulator can be from any place in the world 
+and they ca n utilize the software and they can use it for the ir purposes , so this is the future of 
+feed formulation and these techniques p eople are working on it since scientists are working 
+on more advanced techniques like advanced software packages and all .  
+These are the references from which  I have taken some in formations you can click the picture 
+you can just google this material , you w ill get to know a lot of information from it . So thank 
+you so much that is it for this lecture material , we will see you in the n ext lecture thank you 
+so much .  

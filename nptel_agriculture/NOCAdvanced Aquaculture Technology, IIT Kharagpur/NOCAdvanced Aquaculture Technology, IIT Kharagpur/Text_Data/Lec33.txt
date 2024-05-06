@@ -1,0 +1,395 @@
+Advanced Aquaculture Technology  
+Professor Gaurav Dhar Bhowmick  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Lecture 33  
+Aerator performance  
+(Refer Slide Time:  00:31 ) 
+ 
+Hello, everyone. Welcome to the third lecture of Module 7 , Water Quality Management of the 
+subject Advanced Aquaculture Technology . My name is Professor Gaurav Dhar Bhowmick , I 
+am from the Agricultural and Food Engineering Department of IIT Kharagpur.  
+(Refer Slide Time: 00:41)  
+ 
+So, in this lecture, I  will be continuing with the discussion that we already had about the 
+aerators , different kinds of aerators  the necessity and the performance details . So, here, we  will 
+more cover the theoretical part of it . So, we will discuss about the theory of gas transfer, how 
+the overall gas transfer coefficient can be calculated and you can find it out for your design 
+aerator.  And all  
+And what are the different types of aeration al system requirements and the evolution  of the 
+capacity of aerators  in case of using the unsteady state procedure and steady state test 
+procedure. So, all these tests procedures will be discussed in details and in the follow up lecture, 
+I will be discussing with you a couple of real-life scenar io where we  will do all the calculations 
+by ourselves to find out the different aeration  efficiency, oxygen trans fer rate, etcetera . 
+(Refer Slide Time: 01:36)  
+ 
+So, here with we start with a theory of gas transfer first. So, in order to discuss about the ga s 
+transfer, because you know that is the basic of aerators.  right  Now, when we discuss what 
+aerators  is nothing but it will help us enhancing the transfer rate of the gas for a particular gas 
+from atmosphere to liquid state o r atmosphere to water state , from to the water.  okay  
+So, this dissolved rate , this dissolved gas transfer  from  atmosphere to water, it actually involves 
+four different steps . First, if I talk about say oxygen, so,  okay  oxygen molecule, first it moves 
+from the bulk gaseous state. So, in this case, its atmosphere , from gas -liquid interface . okay  
+So, it is  like suppose I have a wall . okay  So, one side there is gas in the other side I have liquid 
+and this is the wall or thi s is the interface that I am talking about . okay  
+So, from  in the beginning, from gas, the water will get attached to the gas -liquid interface  first, 
+then from this gas -liquid interface, the oxygen will diffuse through this laminar gas and then 
+the laminar liquid film.  After it reaches the liquid film then it goes to the diffuse bulk liquid 
+phase . Again, there are four steps , first from the bulk gaseous state to the gas liquid separator 
+or the gas liquid interface. There we have say two liquid films, two fil ms. okay  
+First film is the laminar gas  film. S econd is the laminar liquid film. So, it will transfer , in the 
+second step it will diffuse through the liquid film sorry laminar gas film.  The third stage it will 
+diffuse through the laminar liquid film . At the end it comes in contact with the liquid phase and 
+it will directly diffuse  to the bulk liquid phase . You understand , right?  
+These four different steps that involves in a way, it is a very basic steps of dissolution of gas 
+into water . okay This is a very important because you need to know this funda  otherwise in 
+future when we will be discussing about details like how these different phenomenas  different 
+equations  we will be discussing , you have to remember this very easy four steps . okay Then 
+this oxygen transfer , this oxygen transfer it does depend on different parameters . 
+We already discussed , right ? Remember, we discussed about the involvement of the 
+dependency on the area to volume ratio . okay  Second thing , the difference between the 
+saturation gas concentration and the measured  gas concentration . okay  So, these two are the 
+major parameter in which the rate of oxygen transfer actually depends on . okay  
+So, if I theoretically represents you this all these fundamentals  that I have just discussed, how 
+it can be described , how it can be presented , dC by dt like the change in the rate of oxygen 
+transfer with time. This C is what , C is the gas concentration , the concentration is denoted by 
+the denotes by the  letter , this alphabet C . So, d C by dt is the rate of oxygen transfer or in general 
+gas transfer, it is equal to K L, this KL is the liquid fill coefficient . okay  
+How this coefficient is coming into the picture ? Just forget about KL first and forget about this 
+equaled . First, this dC by dt is directly proportional to the ratio of air to water interfacial area 
+to water volume that is A  by V.  And also , it directly proportional to the difference between the 
+saturated gas concentration minus measured gas  concentration or dissol ved oxygen 
+concentration . okay  
+So, dC by dt it directly proportional to these two factors.  In order to make it in an equation 
+form what we do we simply add one coefficient, we name it liquid film coefficient or KL in 
+short  okay . To make it more easier  because see we when we discuss about a particular type of aerator, the basin  that we  will be using or the tank that I will be using is same , right? So once 
+the tank that I  will be using is same for say like  any particular type of aerator  at different 
+cond itions. So, this A by V ratio is also same . Considering this A by V ratio which is also 
+constant for your particular experiment and KL which is a coefficient which is also a constant.  
+(Refer Slide Time: 06:28)  
+ 
+So, considering this both of this factor we came up with this idea of a term which is composite 
+coefficient term which we call overall gas transfer coefficient K La. okay  This overall gas 
+transfer coefficient is KL multiplied by this surface area to volume ratio.  okay  This is this 
+number is , it is a constant for a particular experiment that we  will be doing for any particular 
+aerator  okay . So, now, the equation reduces down to d C by dt equal to KLa into Cs minus Cm. 
+okay  
+When we do this integration of oxygen  deficits say like from  t1 to t2 okay , from time  t1 to t2. 
+So, during this time , this is aeration  time, during this time if we do the integration of this 
+equation this dC by dt equal to KLa multiplied by Cs minus Cm will come up with KLa equal 
+to Ln(OD)1 minus Ln(OD)2 over t2 minus  t1. W hat is this  OD 1? T his OD is the oxygen deficit . 
+okay How do we calculate this oxygen deficit ? 
+We know the saturation concentration  right? , Cs. A t t1 what will be the DO?  Say suppose 
+when you start your aeration  the DO at the beginning it was 3 milligram per liter or say like  3 
+PPM  okay . And we know that saturation concentration is 9.07 milligram per liter at 20 degrees 
+Celsius. So, what will be the DO deficit in this particular case ? 9.07 minus 3 which is 6.07 , so 
+this is the DO deficit 1. 
+Secondly, DO deficit 2 say like after 1 hour of continuous aeration, your DO level increase to 
+6 PPM . So, now, what will be the DO deficit?  9.07 minus 6 which is 3.07 PPM , so, this is the 
+DO deficit  or oxygen deficit 2. If you do the logarithmic log of these two,  this log of  OD 1 
+minus log of OD 2 divided by  t2 minus  t1 you will get the value of KLa which is like overall 
+gas transfer coefficient  value.  you,  You understand the point ? 
+(Refer Slide Time: 08:44)  
+ 
+So, now, what are the parameters at which this overall gas transfer  coefficient is actually 
+depending on ? One of the major parameters i s temperature . You might have realized that every 
+time I discussed I was telling about the saturation concentration and a ll the value whenever I 
+am mentioning the value every time I am mentioning the temperature because temperature is a 
+major factor we already discussed based on like temperature can change the diffusion rate like 
+anything.  
+So, this overall  gas transfer coeff icient is also depending upon the temperature . How we can 
+calculate this value , revised value at any temperature ? It can be easily calculated , like when we 
+have like say KLaT  at a particular type of at a particular temperature say like instead of 20 
+degree  we want to get the value at 30 degrees Celsius . At 30 degrees Celsius, so KLa30 is equal 
+to KLa20 which is standard multiplied by theta to the power  t minus 20.  
+Here , the capital T has to be replaced with 30. So, the equation will become KLa30 equal to 
+KLa20 multiplied by theta to the power 30 minus 20 which is 10. This theta, th is theta value is 
+typically varies from 1.016 to 1.047, based on different types of aerators  and all , in different 
+conditions. In general, you  will be provided with the value thi s theta value . 
+So, this theta factor is actually the factor which gives you the correction for temperature  effect . 
+You understand ? So, that is  how we finalize, we got to know the value of overall gas transfer 
+coefficient at a particular temperature.  okay  Remember , this T is here the T is actually 
+calculated in degrees Celsius . Do not use the Fahrenheit values.  
+Here, the T is in degrees Celsius is the equation, whenever we  will be using this equation , if 
+you have a data in Fahrenheit, convert it into the deg rees Celsius and then use it. okay  So, this 
+KlaT is like  overall,  so now, if I am asking you, like at any temperature, and I am providing 
+you the data for the theta value, the temperature factor, and also, I will give you the value for 
+the K La20, you can easily find out the overall gas  transfer  coefficient at that particular 
+temperature whether it be 10 , 30, 40, 50 anything  okay . So, that is how we find out the overall 
+gas transfer coefficient.  
+(Refer Slide Time: 11:20)  
+ 
+Now, so based on that, we have to go for this different requirements of aeration systems .right?  
+When we  will be designing the aerator , this design will definitely has to be on the basis of 
+something . So, the first thing is the amount of oxygen that you need to supply.  Okay. And the 
+second thing minimum DO concentration  that you are expecting to have in your system. These 
+two are the basic criteria on the basis of what you  will have to choose the aerator  and you have 
+to choose its efficiency . 
+You have to choose its power performance and everything . So, in general, the aerator  when 
+you choose, you have to choose on the basis of the amount of oxygen that it requires and the 
+minimum DO consideration  that you  are expecting in your system . Okay IN A  On a thumb 
+rule, whenever, like you do  not have much of a details about the system design and everything . 
+okay  So, you just remember this equation, average oxygen demand in kg per day, this is a 
+thumb rule, I am again saying in case of fish or something normal fish if you are  culturing fish 
+in your tank.  
+So, at least you tried to provide 0.2 percent,  like 20  percentage  of your feed value . So, if 
+suppose your feed value is like suppose 100 kg per day, at least your average oxygen demand 
+has to be 20 kg per day. You got my point?  So, this value  this is  actually this value  is actually 
+daily feed allotment , this is the standard kind of thumb rule , okay  look at this is not true for 
+everything . 
+Anyway, we  will be discussing in details , like how we can find out the actual value , actual 
+oxygen demand and all , but this is like a thumb rule if you do  not have any other details you 
+can go ahead with this . okay  And in case of maximum oxygen demand, which should not be 
+more than say like 30  percent  around 0.29 times of the daily feed allotment . 
+So, just remember these values.  okay  So, this is just a thumb rule , this is not actual all the time 
+it may , you can survive with this , with this value you can like I mean like you can go ahead 
+with these calculations  for the time being but it is better to go ahead with the pr oper calculation 
+and proper designing . And all okay  
+In case of shrimp  also we have this specific value for like in general  for shrimp  respiration we 
+follow this equation , it is a standard equation which we normally follow when we calculate the 
+requirement of oxygen for our shrimp , any shrimp produce. So, it is like 0.487 multiplied by 
+W to the power 0 .881 whereas this W stands for the weight of  shrimp weight of  the individual 
+shrimp or total shrimp,  this is based on your calculation requirement , based on your data it 
+actually  varies.  So, this equation you  are trying to remember shrimp  respiration is equal to the 
+0.487 multiplied by W to the  power 0 .881. okay  (Refer Slide Time: 14:17)  
+ 
+So, when we evaluate the capacity or the performance of any aerator , suppose you have 
+designed some aerator  or you have procured any aerator  from a manufacturing company. So, 
+you have to design you have to know the performance details . Most of the times it is given 
+along with the aerator like it is in along  with the leaflet but depending upon your farm 
+requirement depending upon the species that your cultur ing and depending upon, like your 
+intent, the stocking density, oxygen requirement based on different factors, you have to know 
+the performance of the aerator on that pa rticular scenario . okay  
+So, in general, how to define or how to evaluate the capacity of aerator, there are two different 
+procedures given by Colt and Orwicz  1991 its in his paper, the first one is the steady state 
+procedure and the unsteady state procedur e okay . So, in the beginning we  will discuss about 
+the unsteady state  procedure, which is more famous and more commonly used all over the 
+world. And there is another one with a steady state procedure . I will be discussing with you 
+about it in details later  slides.  
+In case of unsteady state procedures, what we do , it is a standard test of aerator , we we have a  
+like you know  basin of a clean water at a standard temperature and pressure at like, standard 
+temperature means here I am always discussing , whenever I will say standard temperature, it 
+means 20 degrees Celsius. And whenever I  will be saying standard pressure, or the atmospheric 
+pressure, that means I am talking about 760 millimeters of mercury pressure . Okay. 
+So, remember this the 760 millimeter of Hg and 20 degrees Celsius, that is what the standard 
+temperature pressure . Whenever I  will be discussing about it in I  will be saying about it in this 
+aerator  performance evolution . So, this STP  is 760 millimeter of Hg and  20 degrees  Celsius.  
+The basin it can  be of concrete or the cinderblock construction . The water has to be first 
+deoxygenated with the sodium sulfite.  
+Why to deoxygenated it ? Very easy, I told you , it’s very easy for you to understand the value 
+the aerator  performance, you can better be unders tand when the actual condition when it will 
+start aerating  at that moment the water at which it is dwelling . Suppose like you  are starting , 
+you are doing the performance test, it is better to have the DO level  as low as possible at the 
+beginning . Say  supposed almost near to none  or, near to 0.  
+The moment it is almost near to 0 and you  know  notice saturation concentration is like 9.07. 
+So, you have a wide gap, when you have a wide gap and with time it will keep on replenishing 
+the DO level  what will happe n you will get a very nice curve and your test procedure will be 
+more fine or more accurate . okay  So, that’s why, you know the oxygen scavenging , so now  
+sodium sulfide is a very standard oxygen scavenger . 
+So, we use this sodium sulfide for deoxygenated pur pose or otherwise there are other thumb  
+rules also. What we do, as you know, is simply go for boiling the water.  Suppose you have , 
+definitely it is not possible for when you have a very huge amount of basin , very huge amount 
+of pond size.  And all  But in small cases what we do , normally it is a standard practice 
+sometimes , we boil the water , when we boil the water all the oxygen all the gas and all it gets 
+transferred to the atmosphere.  
+Then you close  the lid and put it in you know , try to cool it down . Like Let it cool down for a 
+couple of hours or so . What will happen that water will be very low in air concentration, like 
+very low in diffused air . Whether it be oxygen or any other . okay So, that is also a standard 
+way of doing that, but in general whe n you will be discussing about this huge basin definitely 
+is not possible.  
+So, there will use different kinds of chemical scavengers , sodium sulfide is one of them . Also, 
+this process is can be further enhanced or if you add the cobalt chloride CoCl2.  Cobalt chloride 
+is used as a catalyst for this reaction to take place much faster way . okay  So, cobalt get chloride 
+is used as a positive catalyst here and sodium sulfide is used as n oxygen scavenging chemical 
+here. Now, the final product that we  will be getting it is highly deoxygenated , okay  that means 
+the dissolved oxygen level is very low.  (Refer Slide Time: 18:51)  
+ 
+Now, the you will  start your experiment . Once you start the experiment , what do I mean by 
+start the experiment,  you start running th e aerator . So, once you start  the start  running the 
+aerator and you have different DO meter or DO probes  fit at different position of your tank, 
+you can monitor in real -time scenario that how the development is getting increased , from 0 
+say like after 10 m inutes is like 2, then after 10 minutes is like 2.5 , after 10 minutes is 3.5 , like 
+this it will keep on increasing.  
+That value you have to write it down or somehow you have to jot it down neatly after a possible 
+in per minute  manner. Or in general case, at least 2 to 3 minutes after or 5 minutes after . You 
+write it down and then you make a graph out of it. So, from that graph, why we need this graph , 
+I will tell you , how to calculate the different aeration efficiency that sinc e I will go and discuss 
+about  in detail . 
+So, in general during the test the amount of oxygen transferred and the DO concentration  
+change is measure,  so that is  why this process is called unsteady state procedure. You 
+understand the reason why it is called unsteady state because you are changing the 
+concentration of DO with time and you  are calculating the aeration  efficiency and aeration  
+transit , oxygen transfer rate . 
+So, based on that , because of that it is called unsteady state  procedure.  In general , to discuss 
+more in detail, it is better to provide it with the theoretically at least 7.8 8 milligram per liter of 
+sodium sulfate per 1 milligram per liter of oxygen to be remove d, cobalt chloride concentration 
+of around 0.1 to 0 .5 is better, but it should  not fall below 0.1 milligram per liter at any point of 
+time.  
+The aerator  when you start when you turn it on the chemical slurries  has to be mixed until the 
+DO of the basin drops to 0. And cobalt chloride should be added first and then the aerator must 
+be run for at least 30 minutes for thorough mixing. Once the thorough mixing is done when the 
+DO level drops to 0 then we start calculating the procedure , start the procedures actual 
+procedures when we start writ e it down the values . 
+(Refer Slide Time: 21:01)  
+ 
+The zero reading is taken at a regular interval and once the  DO concentration  reaches 90  percent  
+of the saturation . What does that mean? As I told you at 20 degree Celsius an d then  STP 9.07 , 
+90 percent  of it when it reaches like say around 8 or 8.1 milligram per liter once it will reach 
+the DO concentration  of your tank you should stop the experiment . 
+So, once you  will start from say like 0 or something and once it will reach like 7, 8, 7.58 
+something like that, you stop the experiment . Stop the experiment and that will be you start 
+calculating the measure  the further details . There are two standard rules for it , saturation 
+concentration either , there are three actually , first, we already discussed 90  percent  of the total 
+saturation concentrat ion. 
+Second, the saturation concentration is normally released when the run lasts for at least the 
+period equal to 6 by KLa.  You know KLa, right? The overall oxygen  transfer coefficient . And 
+you also know what is the unit of  it, it is  time inverse like second inverse or minute inverse or 
+hour inverse , right? This is the unit . 
+So, if you  divided this 6 divided by KLa in time it will get the value in time. That time , that 
+minute or that hour is the time for which it takes normally for reaching the saturation 
+concentration. This is the standard way of dealing , it is a very standard procedure . Or I suppose 
+the saturation concentration that remains unchanged at least for  15 minutes after the test time 
+has reached  5 by KLa.  
+In all these three cases you should understand that you should stop the experiment  now. 
+Because you have reached the saturation, almost reached the saturation concentration, it does  
+not make sense to go  ahead further it will take a lot of time to reach the actual saturation 
+concentration . So, that duration you have to , you calculate up to this duration and you go ahead 
+with the further calculations . 
+(Refer Slide Time: 23:15)  
+ 
+In general , how to calculate these things, you remember these values,  try to understand the 
+basics behind this equation . Standard oxygen transfer rate from the name itself you can easily 
+understand it means the transfer rate of oxygen that means kg of oxygen per hour , this is the 
+standard unit that by which we can easily denote it like say SOTR.  
+How to calculate this  SOTR?  It is simple enough , you just multiply with the overall gas transfer 
+coefficient KLa at 20 multiplied by the saturation concentration at 20 multipl ied by V that is 
+the volume of your bas in multiplied by 10 to the power  minus 3. Why  10 to the minus 3? Let 
+me give you , I am breaking it down  so that you will get this proper dimensional analysis as 
+well as you can understand the unit behind it . 
+SOTR, we quantify it by means of kg of oxygen per hour. KLa, what is the unit of it , per second 
+or per time. Say like per hour per minute whatever . Cs, which is the DO concentration . In 
+general , it is in milligram per liter , milligram per liter the same value can be converted to gram 
+per meter  cube , but because it is like simply 1000 multiplied by 1000 multiplied by 1000 both 
+a numerator and denominator . 
+So, milligram per liter is equal to gram per meter cube . So, this gram p er meter cube, so now 
+if you say K La20 which is 1 by T, 1 by time multiplied by gram per meter cube . So, say like 1 
+by hour multiplied by gram per meter cube multiplied by  V, V is in meter  cube,  so meter cube  
+meter cube will get cancelled out then gram in order to convert it to the kg you do this multiplied 
+with 10 to the power minus 3. 
+So, if you multiply with 10 to power  minus 3, now, it will become kg per hour that is the for 
+SOTR . So, that is  how we calculate the standard oxygen transfer rate . Second part is much 
+easier , Standard Aeration  Efficiency. O nce you know the standard oxygen transfer rate just 
+simply divid e it with the energy consumption or in general the aerator that you will be using it 
+is per unit of energy consumption at standard condition . 
+In general,  the power input , if you see the power input for this kind of aerator are normally 
+expressed in kilo watt or hp, hp means  horsepower, you know horsepower , it is like around 746 
+746 watt is in 1 horsepower . So, from this value, you can simply c alculate the standard aeration  
+efficiency which is kg of oxygen per hour per kilowatt. These two are very important parameter 
+you have to really remember this equation, it is very easy, but it is very important parameter 
+for calculating discussing anything  about the aerators.  (Refer Slide Time: 26:18)  
+ 
+We discuss about standard oxygen transfer rate , we discuss about standard aeration  efficiency, 
+we now if we discuss about standard oxygen transfer efficiency, this is not the aeration 
+efficiency , this is not that , this is we  are discussing a more standard oxygen transfer efficiency . 
+That can also be calculated very easily , you simply divided with a mass transfer of oxygen . 
+During that period of time or on an average what is the rate of oxygen that is getti ng transferred . 
+Mass transfer means, here the unit will be kg per hour . So, it will be kg per hour when you 
+divide , when you divide the SOTR with th is mass transfer rate  of oxygen  you will get the value 
+of standard oxygen transfer efficiency . This is what all we discuss, it is all about the unsteady 
+state procedure.  
+What will be the case like when we discussed about the steady state procedure. In case of steady 
+state, the problem is like you cannot directly test your aerator in the pond water condition. 
+There are some problems . There are a lot of problems involved with that I  will discuss with 
+you in detail . Because in case of unsteady state, you can do it in clean water . So, you can easily 
+rise from 0 to almost 90  percent  of the saturation and all the thing s. 
+But in case of pond water directly if you want to measure it is difficult . There are some 
+problems , first of all that pond water  may not always be under 0 and exact 20 degrees Celsius . 
+DO consternation of the pond water is obviously always more than 0, you cannot do it , you 
+cannot make it 0 because if you start making it 0 all the aquatic animals are already there they 
+will die.  
+So, steady state condition is more like in real -time situation under the field condition, but it 
+cannot be done, it can be don e, there are some factors it involves, I  will discuss with you next 
+say, next slide. And the problem is the rate of oxidation of the tap water is easily much greater 
+than compared to the pond water because of it holds the impurities , discrete particles . 
+When we discuss about impurities, I mainly focus on different kinds of surfactant , when we 
+discuss about the district particles , we discuss upon different suspended solids, dissolved solids , 
+etcetera . 
+(Refer Slide Time: 28:41)  
+ 
+See this procedure. So, in ca se of steady state test procedure,  clean water, we know that the 
+clean water holds more oxygen at saturating point then the pond water . Second thing , pond that 
+content fish , phytoplankton , bottom sediments are referred to as the respiring  systems are quite 
+different from the t est basins.  
+So, there is a continuous deduction in DO is going on when you  are experimenting in case of 
+real-time scenario in the field conditions steady state condition . And also , the pond water is 
+much turbid  than the clean water that also makes a huge difference in the proper disseminating 
+of oxygen molecules over the water body.  
+Therefore, the scientists came up with the idea that the testing procedure when it will be done 
+in real -time condition like saying field condition we have to introduce couple of factors . First 
+one we knew we call it alpha factor , alpha factor is the ratio between the overall gas transfer 
+coefficient of pond  water upon overall gas transfer coefficient of the clean water . 
+Why it is important ? Just give you an one example , one simple example , just remember it , this 
+alpha value is majorly depend on the surfactants,  different kinds of impurities because in the 
+presence of surfactant what will happen , it will reduce the surface tension of water and once it 
+will reduce the surface tension of water it will affect on the overall  gas transfer coefficient  as 
+well.  
+Because of that the alpha value is it is in case of K La20 it is much higher than pond water in  
+general . Same in case of beta , this beta factor is equal to the DO concentration  at the particular 
+temperature or particular field condition and the saturation concentration at real -time at like 
+clean water at the same temperature. So, how does it matter ? Because at the same temperature 
+saturation concentration of DO can be low can be high anything . 
+But in general,  it can be high , why high , because this value this water , in pond water it is turbid 
+in nature , it has different other factors different other dissolved material , like dissolved solids, 
+suspended solids , etcetera.  They have their own heat capacities . So, because of all this reason, 
+what happened the beta value the actual saturation concentration can be higher than in clean 
+water scenario, that is  why this beta value is introduced.  
+So, now, if I say what will be the field oxygen transfer rate, earlier we discussed about the 
+standard oxygen transfer rate , it will almost same, but we have to introduce couple of factors . 
+The equation will become OTR f which is like field oxygen transfer rate which can also be 
+given in kg per hour equal to alpha into SOTR 20 like standard often transported at 20 degrees 
+Celsius multiplied by theta temperature correction  factor to the power t minus 20 multiplied by 
+beta Cs minus beta Cm. 
+This beta Cs is the factor which will help you to eliminate the problems related to these 
+impurities like solid impurities . So, this beta into Cs which is like the clean water DO saturation 
+minus measured  DO saturation a t the pond for tes t condition . Divided by 9.092 . What is this 
+value coming from ? 
+This is the value of Cs at 20 degrees Celsius and 760 millimeter of Hg. So, if you know this 
+equation, it is very important this equation we need to utilize it more and more in other aerators  
+discussion and all . (Refer Slide Time: 32:28)  
+ 
+So, from there how we can calculate this field oxygen transfer rate.  We already understand , 
+this field oxygen transfer rate there is a simplified form of it as well . If you know , actually this 
+table is given by Shelton and Boyd in 1983. So, what they have found out , in general this field 
+condition , field oxygen  transfer rate is always equal  to almost proportional to , not proportional 
+it based on some factor but this almost is prop ortional to this SOTR 20, like standard oxygen 
+transfer rate at 20. 
+This f value which you know varies a lot , this f value is can be easily calculated using this 
+table . They have done an extensive study and they come out with this DO concentration  by at 
+different temperature . If your temperature is lies between any of these points , so like  10, 15, 10 
+to 35 , if any of this point you can interpolate easily and you can get the value even your  DO 
+value is somewhere in between you can easily interpolate it and you can easily get the desired 
+f value . You just simply multiply that f value  with SOTR 20 you will get your oxygen transfer 
+rate at field condition . 
+(Refer Slide Time: 32:44)  
+ 
+So, this is what all everything about the aeration , different kinds of  aerators  and the values and  
+the calculation procedures and all the equations that involved with it . In the next lecture, I will 
+discuss with a real-time problem.  And we  will discuss , we will try to find out that how the 
+different aeration  efficiency , standard oxygen  transfer rate and even field conditions in steady 
+state condition, how we can calculate the steady state oxygen transfer rate.  
+Aerator systems normally designed. So, in conclusion, we can say we discuss about the 
+dependency of aeration syst ems for oxygen requirement in our farm or pond.  It is necessary to 
+test the commercially available aerators  under a rigid  set of standard conditions to determine 
+their ability to transfer oxygen and these tests are called the standard test or the clean tes t. 
+(Refer Slide Time: 34:49)  
+ 
+Designing aerator  is very important for your culture species which is like which is crucial step 
+which will decide the cost of operation and the efficiency of your aeration systems . Following 
+a standard testing procedure,  it can give you the proper evolution of the aerators and which is 
+a must pre -requisite before you use it in your farm. So, that is it for now in this lecture material . 
+(Refer Slide Time: 35:06)  
+ 
+These are the reference that you can go through. Thank you so much. In the coming lecture, I  
+will be discussing about the different real -time example and we got to know more in detail and 
+you to be better if you have a calculator with you . So, to do the calculations by yourself . Thank 
+you so much. See you in the next  lecture.  

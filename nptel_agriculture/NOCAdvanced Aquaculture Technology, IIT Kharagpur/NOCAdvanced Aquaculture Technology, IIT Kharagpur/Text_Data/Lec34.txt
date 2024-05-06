@@ -1,0 +1,304 @@
+Advanced Aquaculture Technology  
+Professor Gourav Dhar Bhowmick  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Lecture 34  
+Important Calculations on Aerators  
+(Refer Slide Time: 00:31)  
+ 
+Hello everyone, w elcome to the fourth lecture of the seven th module Water Quality 
+Measurement Management and of this Advanced Aquaculture Technology. I am Professor 
+Gourav Dhar Bhowmick  from the Agricultural and Food Engineering Department of IIT 
+Kharagpur.  
+(Refer Slide Time: 00:41)  
+ So, in this lecture we  will mainly be discussing upon different type of aerator  calculations and 
+we already discussed the different type of aerators  that it involves  that involves in our fa rm 
+design and all and how to measure their different kind of calcul ations like calculating their 
+aeratio n efficiency , calculating their oxygen transfer rate in steady state as well as we 
+discussed it for the non -steady state or unste ady state condition .  
+In case of steady state condition  which is like more like field scen ario. How to do that? We 
+already discussed all the questions. We have already , we already know. I hope you guys are 
+ready with your calculator  because in this lecture I will mainly be focusing on I  will give you 
+more real time scenario and I  will ask you t o we will do the  solve the problem with the help 
+of each other. So , here mainly we  will be discussing about standard and field oxygen transfer 
+rate, standard and field aeration  field efficiency and standard and field oxygen transfer 
+efficiency for differen t aerators. Okay ! 
+(Refer Slide Time: 01:45)  
+ 
+so let  us jump out to the first problem. Suppose you  are asked you have an aerator , Okay ! you 
+just bought an aerator,  new aerator. So, from a manufacturing company of sa y like  capacity 
+of 2 HP. 2 HP means almos t 746 watts multiplied almost say like to make it easier, 1.5 
+kilowatt.  Okay ! So, you have a 1.5 kilowatt of aerator . You are asked to find out the SOTR 
+and SAE of this aerator  like standard oxygen transfer  rate and standard aeration  efficiency.  
+How are y ou going to do that? First th ing, you are given a clean tap water basin which is 
+having a capacity of 200 meters cube which you just simply multiplied with 1000. So , that 
+much liter s. So, you have that this is the volume of basin that you have of clean cle ar water 
+basin  and now you ha ve your aerator. And you know that the test was run sufficiently long to determine that CS 25 of the basin water was 6.8 milligram  per liter. That information is also 
+given. So , we have run  they have run  this test sufficiently long enough to determine the 
+saturation con centration of the CS value of at 25 degree Celsius of 6.8 milligrams per liter. 
+Okay ! 
+Now, the DO at 20  percent of  saturation is 1.37 milligrams per liter  in 11.2 minutes. What 
+does that mean? It means once you st art the reaction, say like from 0 ppm level , DO leve l was 
+0. That means 0 saturation level, 0 percentage. From there, after 11.2 minutes you have 
+reached 20  percent s aturation level. Just try to understand .  
+What do I mean by 20  percent s aturation level? I t is the saturation , total saturation. If suppose 
+like say nine point something, so it ’ss like 20  percent  of it saturation is like 6.8 . 20 percent of 
+it is how much? 1.36  right? . Just simply multiply with 0 .2. 6.8 multiplied by 0.2, you will get 
+1.36 milli gram p er litre . Same way after 53 minutes they have reached  80 percent  Saturation. 
+What do they mean by 80  percent  saturation? They simply  multiply 6.8  multiplied with 0.8, 
+you will get the saturation concentration, the DO value  at the  after 53 minutes of test which is 
+5.44 milligram per liter. Okay ! 
+So, once you do that and also the theta factor which is the temperature correction factor is 
+also given 1 .024 and CS  at 20 you know, 9.08 milligrams per liter . Okay ! The unit is not 
+given, it should be  9.08 mil ligrams per liter. You know at STP CS is 20 is 9.07  or 9.08 
+milligram per lit re.  
+Now it will be easier for you to find out the value of KLA  at 25 degree Celsius, right? KLA  
+at 25 degree Celsius, that is oxygen transfer rate at 25 is equal to the 1 minus L n OD 2. So, 
+how to find out this OD 1 and OD 2? OD 1  is the oxygen deficit 1 which is oxygen deficit 1 
+means the difference in oxygen di visible  oxygen value from saturation two, it  is 20 percent  
+value. So , which is 6.8 minus 1.36 after 11.2 minutes, that v alue just logarithm log of E of 
+this value that  is Ln of 6.8 minus 1 .67 minus Ln of  6.8 minus 5.44 after 53 minutes divided 
+by t2 minus t1.  So, here t 2 is what? T 80 how much 53  minus 11.2 divided by 60 to make it 
+to the hour . Right?  (Refer Slide Time: 05 .54) 
+ 
+ 
+So, now everything is ready. Now if you do the calculation by yourself, you  can easily find 
+out the value will be 198 kg of oxygen per hour. I would really request to when you will be 
+learning this, when you  will be listening to this lecture, you better be ready with your 
+calculator and paper and notebook. You do it by yourself. It will give you much confidence 
+and like how it is going, how it is to be done.  Okay ! The calculation has to be done.  
+Now the value we know that it is 1 .98 kg of oxygen p er hour. Now it has to be corrected , the 
+oxyg en transfer rate that we know, o xygen gas tra nsfer coefficient has to be corrected based 
+on the temperature . At 25 degree Celsius , we have to find out the value at 25 degree Celsi us. 
+You know how to  what is the equation ? KLa 25 equal to KLa 20 multiplied by 1.024 which 
+is the value of theta . The temperature  correction factor to the power 25 minus 20. So, what will be the 1.25 , 1.024 to the power 5 and in the numerator it will be 1.98 . If you do the 
+calculation, i t will be 1.76 kg of oxygen per hour.  
+So, you know  now you know the actual overall gas transfer coefficie nt at 20 degree Celsius  
+also. Now you can easily calculate the standard oxygen transfer rate which is KLa 20 
+multiplied by CS 20 into V into 10 to the  power minus 3, which is 1.76 kg of oxygen per 
+hour multiplied by 9.8 milligram per liter or gram per mete r cube.  
+You remember because it  is the same . If you multiply it by milligram per liter with 1000 in 
+numerator and denominator it will become gram per  meter cube. So , 1.676 kg of kg per hour , 
+9.08 gram per meter cube into 200 meters cube , you remember the volume of the basin was 
+200 meters cube. So , it is 200 multiplied by 10 to the power minus 3 which is used for gr am 
+to kg conversion.  
+So, now the sta ndard oxygen transfer rate is 3.2 kg of oxygen per hour. Ta da, so you know 
+the value of transfer rate now,  Okay ! you know the power input. What was the power input 
+for? What is the capacity of the aerator  that you bought? 1.5 kilowatt. Remember, we 
+discuss ed, we already know from the problem only that it is a 2 HP aerator . So, 1.5 kilowatt. 
+Just simply divided with 1.5, you will get the standard a eration  efficiency of 2.13 kg of 
+oxygen per kilowatt per hour.  
+Isn’t easy?  It is really easy. Just you need to know the details of each and every individual 
+components of this equation and how to do that and the calcula tion that it inverse  and you  are 
+just ready with the calculator. I  am saying once you will do it, once or twice you practice it, it 
+will be as easy as water. It will be very easy for you. Okay ! (Refer Slide Time: 08:47)  
+ 
+The next problem . In the next problem,  let us shift a little bit towards the field situation. What 
+will happen in case of field situation? In case of  steady  state run procedure? Okay! We are 
+asked in this question to calculate the actual oxygen transfer rate or the field oxygen transfer 
+rate and fie ld aeration  efficiency of an aerator  with aerated SOTR  20 of 25 kg of oxygen per 
+hour and the m easure DO  concentration is also given of p ond water at 25 degree Celsius and 
+salinity of 15 ppt is 4 milligrams per hour per liter.  
+So, we know the measured  DO concentration is given at 25 degree Celsius, 15 ppt, 4 
+milligram p er litre. The power consumption is given 9  kilowatt, the  CS at 25 degre e Celsius 
+at 15 ppt salinity  is 7.57 milligrams per liter it is also given. So , we also know the SOTR at 
+20 which is 25  kg of oxygen per hour.  
+We know a lot of important information from this problem. It is already given. What you 
+need to do ? You need to do some assumption when you do the field situation. Remember I 
+discussed about the alpha factor which is what ? It’s the ratio between the overall gas transfer 
+coefficient for pond and clean water situation . This ratio this value  it is more or less, you can  
+take in case of in general condition where it is not given, you can take this value as around 
+0.9 to 0.95.  Okay ! 
+Theta val ue, if it is not given this temperature correction factor, you can take it as 1 .024 and 
+beta value which is if it is not given in a p articular problem, then you can assume it at 0.98. 
+Okay ! So, these values, you can assume it like this. So , 0.9 and 0.98 and all.  Okay ! Based on 
+that, let  us go ahead with the actual calculation. You remember the equations that we 
+discussed when we discuss ed about the field oxygen trans fer rate which is equal to alpha into SOTR 20 multiplied by theta to the power t  minus 20 multiplied by beta CS minus CM 
+divided by 9 .092 and this 9 .092 is the concentration of saturation concentration of oxygen at 
+20 degree Celsius  and 760 millimeter of HG .  
+Now, you replace with the information the data that we already know alpha which is 0.9. 
+SOTR 20 is g iven 25 kg of oxygen per hour multiplied by theta  we know 1.024 to the power 
+p is how much 25 minus 20 multiplied beta we  know 90.98 , CS we know 7.57 is given as CS 
+at 25 degree Celsius minus C m. At that moment, what is the measured dissolved oxygen 
+concen tration which is 4. W e know every other component of this equation. So , we just 
+replace it  you will get the value of oxyg en tran sfer rate  at field condition 9.53 kg of oxygen 
+per hour.  
+If you divide it with the power, power is given 9 kilowatt , the power consumption of all the 
+aerators . So, if you divided with the power in kilowatt, you  will get the aeration  efficiency in 
+field aeration efficiency which is 9.53 divided by 9 equal to 1. 058 kg of oxygen per kilowatt 
+per hour. Here, I want to discuss with you  one thing.  It will  It is just for your knowledge 
+purpose. In general, this kilowatt hour, it is the unit of energy that you consume . Right? 
+In general, when we discuss about what is the overall consumption of your electricity at a 
+particular month from your household, say, like you have a four house with ten amount of 
+tube lights, a couple of b ulbs, couple of fans and all. How you calculate this? It  is very easy. 
+You know it . This is called vot units as well, these kilowatt hour, this unit per unit charge, I 
+think you k now the from electricity office, you know that per unit cost, let  us say Rs . 10. Rs. 
+20 based on the place that you  are from,  
+So, this kilowatt hour, you can easily find the number of bulb or number of say you have four 
+amount of bulb s in your room and ea ch are having capacity of say 50 watt bulb.  Okay ! Just to 
+give you an example, 50 watt bulb or say 25 watt bulb multiplied by four. So , 100 wattage of 
+bulk that you have in general, in your house multiplied by the amount of time that it runs in a 
+particular day,  you will get that much kilowatt hour.  
+So, like if you a re running your bul b for like say  say 10 hours, so it will be 1 00 into 10  which 
+is 1000 watt hour. 1000 watt hour means 1 kilowatt hour t hat means if you have a four bulb 
+in your house which is runni ng for 10 hours, it will give you  it will cost you 1 kilowatt hour  
+or 1 unit of electricity. 1 unit o f electricity means in general, when the electricity bill comes 
+to your place, you  will see, like you have spent 50 unit, 100 units, 200 units. So , this each 
+unit cost you some amount of rupee. So , here also this kilowatt hour means it  is a 1 unit. So, kg of oxygen that it requires, that it provides after consuming one unit of electricity is what 
+we call a eration efficiency.  
+You understand this point? It’s It’s Just to give you an ex ample of just to give you some 
+additional knowledge about all these things , I am giving you this example. So, a eration  
+efficiency  when you calculate, you calculate in this way, Okay ! 
+(Refer Slide Time: 14:20)  
+ 
+So, let us discuss about another problem. Here als o we have the same situation. We are doing 
+the calculation in steady state condition. That means in field condition and the field oxygen 
+transfer rate in earlier questions, earlier problem, the field oxygen transfer rate is what we 
+need to find out. We nee d to find out, right but in this case, it is given . The field oxygen 
+transferred of an aerator with a power consumption capacity of 8.6 kilowatt is 18 kg of 
+oxygen per hour. So , this value is given provided with you,  Okay ! So, this field oxygen 
+transfer  rate is provided with you. You know It is already suppose some student or some 
+practitioner, they already did it and he found out that he or she finds out the field oxygen 
+transfer rate is 18 kg of ox ygen  per hour.  
+Now, the m easure DO of  concentration of pond water at 30 degree Celsius and salinity of 15 
+ppt. Here, ppt, part s per thousand  remember it . Salinity in general, we provided with the unit 
+of parts per thousand , ppt . Okay ! It is 15 ppt means almost b lackish water,  Okay ! And a 
+pressure barometric pressure BP  in short, barometri c pressure is at barometric pressure, it i s 
+like 4.5 milligrams per liter. Here there is nothing given. So , you consider it  is a standard 
+barometric pressure  and which is  you can consider 760  millimeter  of Hg  each is 4.5 
+milligrams per liter. So , we know the  measure DO  concentration. We know the f ield oxygen transfer  rate now.  We also know the saturated DO concentration at test temperature which is 
+30 degree Celsius  and the value of saturated DO concentration is 6 .94 milligrams per liter. 
+So, we know the satu rated concentration  also.  
+We are asked to calculate the standard oxygen trans fer rate . It is like  you know  we have to do 
+some reverse calculation, And also , they are asking us to find out the standardization 
+efficiency which is very easy. Just simply divided with power  we will  get it. What are the 
+assumptions that we need to do? First, the value of alpha which is 0.9 we can take . Theta as 
+we discuss ed 1.024. Beta factor is  0.98.  Just put it in the equation of this OTR  here is equal to 
+alpha  into SOTR 20, you know t he S OTR  20, we know the value o f alpha. We know the 
+value of theta. We know the value of T which is 30 beta 0.98, CS 6.94, CM measured value is 
+given 4.5 divided 9.0 92. You  will get the value  if you do the calculation, you  will find out the 
+value of SOTR 2 0 as 61.77 kg of oxygen per hou r.  
+Now, if you simply divide it with the power which is given as like 8.6 kilowatt, you can 
+easily get the value of standard aeration  efficiency in field condition which is 7.1 8 kg of 
+oxygen per kilowatt per hour. Is n’t easy? So , this is how we do the cal culation. So , there is a 
+mistake. Just let me be clear with it. In the right -hand side, it should be SA. It  is a standard 
+aeration  efficiency. It  is not f it is a mistake  actually, it should be standard aeration  efficienc y 
+equal to oxygen transfer rate. Th e standard oxygen transfer rate divided by power. If we do 
+the field condition, that is also doable . In field condition also , if you do this calculation for 
+field condition, that also you can do. You simply divide with 18  divided by 8.6. That will 
+give you  the field condition value.  
+But in case of standard aeration  efficiency, the value can be calculated with the standard 
+aeration  efficiency will be standard o xygen  transfer rate which is 61.77 divided by 8.6. Okay ! 
+Remember  it, there is a mistake here, it say f, this f is if you use this equation, the value will 
+be different. If you use the only standard aeration  efficiency not in field condition but in 
+standard condition, the value is what it is given 7.1 8 kg of oxygen per kilo watt hour. Okay ! (Refer Slid e Time: 18:33)  
+ 
+Now lets let us go back to let  us go to the next problem. In the next problem, they are asking 
+us to find out the field oxygen transfer rate and aeration  efficiency of a surface aerator if the 
+pond DO is 4.0 milligrams p er liter at tempera ture 25 degree Celsius and power consumption 
+is 8.6 kilowatt, the SOTR 20 is also given 19 kg of oxygen per hour. Is n’t easy? When you 
+know the value of SOTR 20, you know the pond DO concentration, you know the 
+temperature. You can e asily use the table. It is it will also be  It is already f ind out by the 
+experts that this DO at 4 milligram  if you calculate it, if you go to the 4, if you go through the 
+DO of milligram per litre , the fifth row, it  is like 4 milligrams per liter  right? . If you go just 
+point it  out a nd you go towards like 25 degree Celsius, you will find a value of 0 .36. This 
+0.36 is the value of f.  
+If you put it in the equation oxygen transfer  rate equal to f which is 0 .36 multiplied by 19 
+which is the SOTR 20, you will get 6 .84 kg per hour. T his 6 .84 kg per hour divided by 8.6 
+the power, you will get standard aeration efficiency in field condition which is 0.8 kg of 
+oxygen per kilowatt per hour. Isn’t easy? It’s very easy. Once you know the fundamentals, 
+once you know the different way of calc ulating the way what are the measuring parameters 
+and all, you can easily find out the final value.  (Refer Slide Time: 20:19)  
+ 
+Final one I think . So, this problem what it says is the calculate the number of aerator  required 
+for 1 hectare semi intensive stream culture pond  as per the data given below. What are the 
+information that we are given? 1 hectare  pond. 1 h ectare  means 10 to the power 4 meter 
+square.  Okay ! 10,000 meters square  first information. Second information , pond is stocked  
+with 1.5 lakh num ber of shrimps  1 lakh 50,000 number of streams are there. Third 
+information , average weight of shrimp after 60 days of culture at 70  percent  survival is 15 
+grams. Each s hrimp  has 15 grams of weight after 70  percent survival at 60 days. After 60 
+days of cul ture Okay !. So just remember this information  Okay !. We need to use it.  
+Salinity is given 15 ppt at 30 degree Celsius  Okay !, saturation  oxygen concentration is given 
+4 milligrams per liter. Saturated oxygen concentration is only 4 milligrams per liter. St andard 
+oxygen transfer ra te is 1 HP. For 1 HP, paddlewheel aerator is 1.8  kg of oxygen per kilowatt 
+per hour  Okay !. Also , another information is given that the plan kton respiration and the 
+sediment respiration rate is also given which is 0.134 milligrams p er liter per hour and 0 .16 
+milligrams per liter per hour.  
+Total oxygen demand , how we can calculate ? Planktonic respiration, sediment respiration 
+and s hrimp  respiration. Now you say how sediment can respire . Right ? Sediment cannot 
+respire but for sedimen t, you know, it also has some oxygen de mand to convert it to the 
+different other molecules. What happens? This is what we call this chemical demand that we 
+normally talk about .right So, this plan ktonic  respiration, sediment respiration or benthic 
+respirati on. Sometimes there are maybe some benthic p opulations that for them. Also , for their respiration purpose also it needs some oxygen s hrimp  precipitation. Summation of these 
+three will give you the total oxygen demand.  
+Shrimp precipitation  how to calculate ? If you remember the equation we discussed 0.487 
+multiplied by W which is the value of the weight of s hrimp each s hrimp  which is 15 grams to 
+the power 0.881, you will get the value in milligram per hour , 5.29 milligram per hour.  Okay ! 
+So, we know the s hrimp respiration value. Also , we know plan ktonic  respiration. Also , we 
+know sediment respiration value. So , this value total oxygen demand is already with in our 
+hands.  Okay !  
+(Refer Slide Time: 23:01)  
+ 
+ 
+Now, total s hrimp  respiration  will be 5 .29 multiplie d by 1.5 lakh into 0.7 because you 
+remember 70  percent  survival rate. I told you like each and every information is important. The 70  percent  survival rate multiplied by one point lakh into 5.29. That  is the respiration 
+value for each s hrimp . If you multip ly it, you will get 5.5 5.5 okay  555450 m illigram  per hour  
+or say lik e 555 gram per hour . Okay ! So, just to make it easier .  
+Now, so the total respiration if the total water volume is say 10 ,000 meter cube. Here we also 
+take one assumption that the water d epth is 1 meter  Okay !, In general, it is not more than 1 
+meter in case of s hrimp culture. So , we have 1 h ectare  area 10 ,000 meter square. And let  us 
+assume that depth is 1 meter. What would the total volume ? 10,000 meter cube  so now the 
+total s hrimp  respir ation is given 555450 milligrams per liter divided by 10,000 . If you do that 
+and you can easily get the value of 55.55 milligrams per meter cube per hour. If you further 
+divide by 1000, you will get 0 .56 milligrams per liter per hour.  
+Here also we are giv en the value for plan kton and sediment milligram per liter per hour. So , 
+now the required units are same. Now we can easily add these three. Now the total o xygen  
+demand 0.056, 0.134, 0.56  total is 0 .251. Okay ! So, it will be 0 .56, 0.134, 0.061 . So, it will  be 
+0.251. Okay ! 0.251 equal to 0 .251 gram  per meter cube  per hour.  Okay ! So, this will be 
+0.061, 0 .056 plus 0.134 plus 0.061  Okay ! it will be 0.251 milligram per liter  per hour  Okay !, 
+or milligram per litre  you can easily convert it to gram per meter cube  per hour.  
+So, for 1 hectare  pond 0.251  gram  per m eter cube per hour multiplied by total area , total 
+volume 10 ,000 meters cube, you will get the value in  and if you divide it with thousand, you 
+will get the value in kg per hour. So , total oxygen demand is  2.51 kg per hour. Saturation 
+oxygen concentration is given 6 .94. It  is given 6 .94 milligrams per liter at 30 d egree Celsius 
+and 15 ppt. Now you can easily calculate the oxygen transfer rate and field field condition. 
+Alpha, you assume 8.9, SO TR is given 1 .8, theta is 1 .024 to the  power 30 minus 20,  beta is 
+0.98 multiplied by 6 .94 minus 4 divided by 9 .092 which is equal to 0.63 kg of oxygen per 
+kilowatt hour.  (Refer Slide Time: 25:58)  
+ 
+ 
+So total power, how you can calculate total power requirement for aerator?  2.51 kg per hour 
+divided by 0.63. So , you will get the value out here and so you  will get the total power whi ch 
+is like 3 .98 kilowatt. So , this 3 .98 kilowatt, if you  are given the capacity of one aerator  is 
+0.746 . So, if you divide it with 3 .98, it  will be 5.3. Hence , we can say that to make it to have 
+an option in our hands, we can say almost six number of 1 HP aerators  are required. You 
+understand? Isn’t easy?   (Refer Slide Time: 26:38)  
+ 
+So, in conclusion, important calculations have to be carri ed out while deciding the number 
+and the capacity of aerators a nd these calculations are useful in aerator  design  purposes  and 
+we normally do it as we already discussed in this lecture material. I hope it will be helpful for 
+you. There are two or three mis takes are there in the lecture material I already pointed out. 
+Remember this and try not to make the same mistake. Okay ! 
+(Refer Slide Time: 27:07)  
+ 
+So, thank you so much. This is the Takeaway message . (Refer Slide Time: 27:09)  
+ 
+The reference that you ca n check for your further information. So, thank you so much. I hope 
+this module will help you with calculating in general how the aerators  are designed, what is 
+the different parameters that we need to follow and how to calculate the aeration efficiency in  
+field condition  and in standard condition, how to calculate the standard oxygen trans fer rate  
+and oxygen trans fer rate  at field condition and all.  
+So, these values are very important and we normally use it very frequently when we design 
+an say  any f arm. So, it is very important for us to know the value of these different values of 
+these aerator s. Unless  and until we know the value  of this these  particular units of your 
+aerators , a procure d aerator  or say you design it, you cannot utilize it properly. Othe rwise , 
+what will happen? You will keep on doing the either over saturating, you  will keep on 
+overusing the aeration systems, or like not pr operly, not optimally using, maybe less using 
+the oxygen option . So, in the both of the cases it is problematic becau se overusing it  is also 
+not good, as we discussed. And also , if you  are not providing with enough oxygen that is also 
+not good, it may caus e various kind of detrimental effect on your aquatic species .  
+So, in general, you try to understand these problems. If you have any issues, you definitely 
+google it. There are plenty of options, plenty of examples given and if you have any specific 
+doubt, you can definitely contact me.  And so yep  That is it. So , maybe we are left with 
+another lecture for this module. Se e you again . Thank you . 
+. 
