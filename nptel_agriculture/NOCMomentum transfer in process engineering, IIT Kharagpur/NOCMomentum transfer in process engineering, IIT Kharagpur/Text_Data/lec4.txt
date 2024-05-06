@@ -1,0 +1,153 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 4
+Module 1
+Equation of continuity in cylindrical coordinate system
+Hello, we you remember that in the last class we had said that we are doing with Cartesian
+coordinate that is x, y, z. Now this time we will be doing with the cylindrical coordinate that is r,
+theta, z, right (r, θ, z)?
+(Refer Slide Time: 0:46)
+With that, we will do. So, let us look into. So, unlike the previous one, where we had said that x,
+y, z was the coordinate, here, we take some cylindrical coordinate, like this, right? And, okay, so,
+this can be del theta, this can be del r and this is del z, (∆θ, ∆r, ∆z), right? So, in the coordinate
+system, we have r theta z. So, this is z, this is theta and this is r.
+So, if we take r theta z coordinate (r, θ, z), then, here, we are taking this point as the r theta z
+coordinate (r, θ, z), right? And in the previous one, if you remember, where we had said, let me
+just recapitulate, where we had said that we were taking a volume element at the center, right?
+We said, if this is going like this and that is going like that, so, how much mass is coming here?
+We took it as the balancing point. So, here in this case, if we take this balancing point to be at the
+r theta z points (r, θ, z), right? 
+Then, this is of course r plus delta r, this is theta plus del theta and this is z plus del z (r+∆r,
+θ+∆θ, z+∆z). Only one thing, which is, we are taking that, area under this and area under this,
+they are, though there is a difference, because, in all the cases, this will be all differences, and in
+that case, we will take this is z plus delta z (z+∆z), right? And, this also will be different; this
+also will be r plus del r (r+∆r). So, all the changes, whatever, since we have said, we are taking
+the volume element very small as small as possible.
+So, those changes will be ignoring, otherwise, this will become too complicated. So, just to avoid
+the complication, we are assuming that this area under this and the area under this, they are more
+or less same. So, the changes with that del quantity r plus del r (r+∆r), or, theta plus del theta
+(θ+∆θ), or, z plus del z (z+∆z). This we are neglecting for the upper one, right? So, if the on the
+similar fashion, as we have done in the Cartesian coordinate. So, if we do for the cylindrical
+coordinate in the same way, then, we can write in, in the face r, right? In, in the face r that is m
+dot r into del r or, del a rather area del a. So, which is m dot r into the area is which one in, if this
+is r, right? 
+So, r del theta del z is the area. So, del z is this, right? And this one will be r plus del r, but this is
+theta plus del theta, right? So, the face which is having the area r del theta del z, r is this arc,
+right? This arc r del theta, is that and we can say that here it is m dot r, r del theta del z, right? So,
+now, m dot r was what? Rho v r into r del theta del z, right? So this was in. So, out r, or, r plus del
+r. So, out r plus del r is at this point, or, at this point, in this plain, that will be equal to m dot r
+plus del r, out m dot r, right, into the entire del r, right? del del r of m dot r into entire del r, right, into the area. Area is r plus del r into del theta into del
+z, r plus del r del theta del z, right? So, this on simplification we can write that this is nothing but
+rho vr r del theta del z plus rho v r del r del theta del z plus del del r of rho v r r del r del theta del z,
+right? So, we can say that in, was like that. Earlier, and, in minus out, if, then, we can write, in
+minus out to be equal to rho v r r del theta del z minus rho v r r del theta del z, right? Minus rho v r
+del r del theta del z minus del del r of rho v r, right, into r del theta del z del r.
+So, this on simplification gives us minus rho v r del r del theta del z minus del del r of rho v r r del
+r del theta del z, right? So, this we can say, in the previous class, we had said that we expanded in
+the (uv) method. We expanded, rho v, right? Keeping v constant, rho we varied, keeping rho
+constant, we varied v. If you remember that del del r of rho v r that, how can we expand it? So,
+here, also we can expand it, or, we have already expanded form, which, if we do the other way
+then it we can make them, as the compact one like this, that this is equal to minus del del r of r
+rho vr into del r del theta del z, how? 
+If we expand this del del r of r rho v r if we expand this and take this rho v r and r as the uv
+product, right? As the product, both r into rho v r, if we take this as product, then in one case, r is
+constant, right? In one case r is constant, then, it is on expansion, it is coming r, right? Obviously,
+in both the cases, a negative sign is there. So, in one case it will be r del r, right? rho v r del del r
+of rho vr r del r del theta del z, right? 
+And, in other case, this del del r of rho v r is differentiated, or, rather this is one uv expansion and
+the other one if rho v r is constant, then del del r of r is one so in that case rho v r del r del theta del
+z that becomes so on. So this is u and this is say v if we make uv that del del of something of uv
+that expansion method if we apply here then that expanded form is like this which on which on
+clubbing we get r rho v r as the variable and del del r of r rho v r del r del theta del z is the in minus
+out of course with a negative, right? 
+(Refer Slide Time: 12:47)So, similarly, we can say, for the other two cases, that, in minus out, for this, in minus out for r
+coordinate, we can write that this is nothing but minus del del r of r rho v r into del r del theta del
+z. So, exactly in a similar way, we can also write, in minus out, i.e., mass flow in minus mass
+flow out, at the coordinate theta, then, we get, similar to that, okay. Let us do this way that in
+minus out. This way in will be rho v theta r del r del z rho vtheta r del r del z, and out will be rho v theta
+plus del or minus this is del del theta rho v theta del del theta of rho v theta into del r del z, right? 
+So, that means this in minus out we can write to be equals to, say, this rho v theta into del r del z rho
+vtheta into del r del z, this goes out, then, we can write this way, that minus del del theta of rho
+vtheta, right? rho vtheta into del theta del r del z. This is that in minus out, minus del del theta of rhovtheta del theta del r del z, right? So in was, this was, for r coordinate, in the theta coordinate, in
+was rho vtheta r del r del z r del r is the r del r is, this is, two del has come that is why.
+So, r del r into del z, that was for in, and for the out, it was rho v theta plus del del theta of rho v theta
+into del r del z, right? So, if we remove that, then, we can say that, this we can write del del theta
+of rho vtheta into del theta del r del z, is the in minus out at the theta coordinate, okay. Similarly,
+for z coordinate, in at the z we can write rho v z into the area r del theta into del r and out at the z
+we can write rho v z plus del del z of rho v z, right? del del z of rho v z into del z times the area this
+area is r del r into del theta, right? 
+So, this we can then write in the z coordinate in minus out at z this is equals to minus del del z of
+rho vz, right? Into r del z del r del theta, right? So, by adding, in minus out, in all the three
+coordinates, we get, in all three coordinates, r theta and z, in all three coordinates if we add, then
+in minus out, we get minus del del r of rho v r times r r rho vr, right, times the volume del r del
+theta del z plus del del theta of rho v theta times the volume that is del theta del r del z plus del del z
+of rho vz, right, times r del z del r del theta, right? 
+So, this is on adding r theta z all three coordinates, right? Then, we have to also find out the
+accumulation,  is  it?  We have  to  find  out  the  accumulation  and  in  that  case  what  is  the
+accumulation that we have to find out, right? So, accumulation is, del rho del t in the entire
+volume element, volume element r del r there is one side del theta another side and del z the third
+side, right? So, this r del r is one arc, and del theta del z the other two, so this is the total volume,
+okay. 
+So, if we now, put that mass in minus mass out is equal to accumulation. This balance, mass
+balance, if we do, then we can write r del rho del t that plus del del r of del del r of r rho v r plus
+del del theta of rho v theta plus del del z of rho v z into r this is equals to 0, right? Because this r del r
+del theta del z r del r del theta del z that goes out and we get this, okay. 
+(Refer Slide Time: 21:11)Then, we can write this to be equal to, del rho del t plus del del r of rho v r rho vr, right? del del r
+of r rho vr plus del del theta of rho v theta, right? Plus del del z of rho v z, right?
+So, this is equal to 0. So, on accumulation, we get this del rho del t plus del del r of r rho v r plus
+del del theta of rho v theta plus del del z of rho v z, this is equal to 0, right? So, one thing we have to
+keep in mind, of course this r, which was there, if we divide all the three terms, then here in the
+del del theta of rho v theta, here, we should have 1 by r, is not it? That should come out there, and
+that is equal to, because, in all the three out of this we had here, at 1 r and we had here at 1 r at 1
+r here, right? 
+So, in that case this r and this r, if we divide them, then they should be 1 by r del del r of r rho v r
+and this should be 1 by r of del del theta of rho v theta and this is like that, right? Now, is the realexpansion? So, if we see that this is quite little, not little, quite different, than that of the x, y, z or
+Cartesian coordinate, so, we can write that in the r theta z, or, cylindrical coordinate, the actual
+term is del rho del t plus 1 by r del del r of r rho v r plus 1 by r del del theta of rho v theta plus del
+del z of rho vz. This is the equal to 0 is the equation of continuity for the cylindrical coordinate
+that is r theta z, right? 
+So, this is quite different than that what we had done for the x, y, z, that is the Cartesian
+coordinate. If you remember, that was absolutely different; then, these so many additional terms
+have come. Now, this will be also useful when you are going for the equation of motion, that
+derivation, these relations will be helpful, substituting for expanded or contracted form. So, in
+that  case,  there  will  be,  using these  relations,  either  in  the  Cartesian  or  in  the  cylindrical
+coordinate, right? 
+So, we have done both x, y, z, i.e., the Cartesian coordinate, and r theta z, that is the cylindrical
+coordinate. These two systems, we have shown how to derive the equation of continuity and
+what is the form of equation of continuity, right? Now, this we will not derive but we can say for
+the spherical coordinate. We can say that del rho del t, this is del rho del t this plus del del r of r
+square rho vr r square rho vr, right? del del r of this into 1 by r square plus 1 by r sin phi if our
+coordinate is, coordinate system is r theta phi, right? Then, we can write like this, 1 by r sin phi
+into del del theta of rho v theta sin theta, right? Plus 1 by r of sin phi del del theta of rho v theta, right?
+So, this is equal to 0 for the r theta phi coordinate, i.e., spherical coordinate. So spherical
+coordinate, we are not deriving because r theta phi, that will be too much complicated and will
+take really a good time, and to avoid that we are giving the final form of the r theta phi, i.e.,
+spherical coordinate. The final equation is del rho del t plus 1 by r square del del r of r square rho
+vr plus 1 by r sin phi del del theta of rho v theta sin theta, right? rho v theta sin theta and del del 1 by r
+sin phi del del theta of rho v. This is, okay, this is, theta is there, so if you mix up this is phi rho
+vtheta, right? rho v phi sin phi del del so, r phi theta then we should write in this form r phi theta,
+right? 
+Second, term we are writing in terms of phi, so, 1 by r sin phi, right? To del del phi of rho v phi
+sin phi plus 1 by r sin phi del del theta of rho v theta is the spherical coordinate, right? So, we have
+already seen that partial coordinate, that partial derivative was del rho del t, then, total time
+derivative, that was d rho dt and we also had shown that, the substantial time derivative was
+capital D rho Dt, right? So, these three and their respective expressions, also del rho del t is okay,but d rho dt. We had also shown, this will be required for when we were doing the equation of
+motion, that time again, it will be required. 
+So, d rho dt, we had shown this was del rho del t, right? plus del del x of rho, or, del rho del x
+into del x del t plus del rho del y into del y del t plus del rho del z into del z del t. This was for
+the partial derivative but this was for the total derivative and for the substantial time derivative
+we had shown that this was d rho dt this is equal to del rho del t, right? Plus this will be again
+required vx del rho del x plus v y del rho del y plus v z del rho del z, right? 
+So, this will be requiring when we are going for the equation of motion that set of equations we
+said earlier that this we call very useful equations, Navier-Stokes equation. So, when we will do
+that, all these relations will be very much useful and they are required, right? So, in the next
+class, we will do the equation of motion. Keeping in mind that continuity equation and in the all
+three coordinates, i.e., Cartesian coordinate, or cylindrical coordinate, or spherical coordinate, in
+all these three coordinates. We have, out of those two, two we have derived and one, we have
+shown you the final form.
+So, these forms will be utilized for equation of motion. But, again in equation of motion, you
+will see that it is, as we have progressing, it is bigger and bigger. So, equation of motion will be
+even bigger, right? So, in that case, it may not be possible that all the three coordinates, we will
+be showing, but at least for the Cartesian coordinate, we will show, okay thank you.   

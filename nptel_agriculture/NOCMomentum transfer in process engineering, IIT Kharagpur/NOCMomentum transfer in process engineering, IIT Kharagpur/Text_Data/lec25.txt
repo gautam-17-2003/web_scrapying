@@ -1,0 +1,155 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 25
+Module 5
+Problems and solution for flow through flat plates or slits
+So, with homogenization, we said that we will derive how the velocity profile and other profiles
+are getting changed, or how can we find out the average velocity, or instantaneous velocity, or
+maximum velocity, things like that, okay. So, let us look into that. So, it will be like this, just a
+minute, one more yeah, so, here it is, we have done this, right? And then we have found out this
+velocity profile, average velocity, and we also have found out what is the relation between
+fanning friction factor and delta P, right? This also we have found out, right? 
+(Refer Slide Time: 1:30)
+Then, we can say, now, up to this we had finished, delta P was 4 f, instead of 4 f, we had said let
+us, for pipe flow, delta P was f rho L by 2 delta into v average, right? L by 2 delta into v average. So, if
+that was there, then what we do, we take this v average square, this 2 f rho, right, L by 2 delta v average
+square by 2. This way we can write that 2 f rho L by 2 delta and v average square by 2, right? Similar
+to the pipe flow that was 4 f rho, then L by D then, v average square by 2, right? This was there for
+delta P versus f relation, right? 
+Now, if we substitute this for v average, then we can write “f” is equal to 2 delta P delta by, this was
+for pipe flow, this is this is for slit, okay. So, if we substitute them 2 delta P delta by L rho v average
+square, right, is equal to 2 into 3 mu L v average delta over delta square L rho v average square, right?This is equal to 6 mu by delta rho v average which can be written equal to 24 by 4 del rho v average
+divided by mu, now this is equal to 24 by N Re, right?
+So, then, for slit we see that, it is 24 by N Re, f is 24 by NRe, for pipe, we have seen it was 16 by
+NRe, right? So, this was for pipe, so this f is related for your slit flow, this is 24 by N Re, right? So,
+the difference is that, in the pipe flow we had N Re equal to D vaverage rho by mu, this was for pipe
+flow, whereas, for slit flow N Re is equal to 4 delta rho v average divided by mu, right? So, this is the
+difference, this is for slit flow, this is the basic difference, right? And corresponding f tend to be
+16 by NRe, and corresponding f tend to be 24 by N Re, right? 
+(Refer Slide Time: 5:41)
+So, once we know this, then we can do a problem like this. A plate heat exchanger is used to
+sterilize apple juice. The gap between the plates is 10 millimeter and of 3 meter long. Assume
+density and viscosity of apple juice to be 1060 kg per meter cube and 1 into 10 to the power
+minus  4 Pascal second respectively. What is the average velocity and pressure drop if the
+Reynolds number is 1200, right? So, I repeat the problem, this problem says that, A plate heat
+exchanger is used to sterilize apple juice. The gap between the plates is 10 millimeter and of 3
+meter long. Assume density and viscosity of apple juice to be 1060 kg per meter cube and 1 into
+10 to the power minus 4 Pascal second respectively, then what is the average velocity and
+pressure drop if the Reynolds number is 1200, right? 
+(Refer Slide Time: 7:07)Now, from here, we see that, the Reynolds number is given. Solution of the problem, that
+Reynolds number is given equal to 4 delta v average into rho by mu, right? Therefore, we can write
+vaverage is equal to NRe into mu divided by 4 delta, sorry, 4 delta into rho, right? So, what is given
+here, 2 delta is equal to 10 millimeter, right? Therefore, we can write, v average 2 delta is equal to 10
+millimeter. Other property values, what we have seen, they are your, mu is equal to 1 into 10 to
+the power minus 4, right? 1 into 10 to the power minus 4 Pascal seconds, and rho, density is
+given as 1060 kg per meter cube, right?
+So, we put them and also given N Re is equal to 1200, right? So, we put N Re is 1200 into 1 into 10
+to the power minus 4 is the mu divided by 4, right? 2 delta is 10 millimeter. So, delta is equal to
+5 millimeter. So, 4 into 5 into rho, i.e., 1060, so how much it comes, let us look into, how much it
+comes, i.e., 1200 into 10 to the power minus 4 divided by 20, 4 into 5 is 20, divided by 1060,
+right? Is this much, and that divided by 10 to the power 4 so, it is 5.66. 5.66 10 to the power
+minus 6 meter per second, right? 
+Let us put it down, so, it is okay okay. If we change, a little change, a little in the sense, say, in
+the value, we change this to perhaps, that was a, we change this value to 3, right? Then, how it is
+coming? 
+(Refer Slide Time: 11:05)How, it is coming? It is coming N Re vaverage is equal to 1200 into 1 into 10 to the power minus 3
+divided by 4 into 4 into 5, right? 5 millimeter, right? 
+So, that we forgot, 5 into 10 to the power minus 3, right, into 1060, right? So, 10 to the power
+minus 3, this 10 to the power minus 3 goes out, right? These 5 fours are 20, okay. Let us put
+directly there. 1200 divided by 20 divided by 1060, so, it is 0.056, yeah. 0.056 meter per second,
+right? So, that is what, here also we got, but in the problem it was shown 10 to the power minus
+4 that is why it was coming erroneous, okay.(Refer Slide Time: 12:42)
+Now, this is average velocity, so what about delta P? delta P is 3 v average mu L divided by delta
+square, right? So, this is 3 into 0.056, mu is 1 into 10 to the power minus 3 and L is given 3
+meter long into 3 divided by delta square, delta is 5 into 10 to the power minus 3 square, right?
+So, if we do this, we can see that, it is coming. If we do this we can see that, what it is coming, 3
+into 0.056, 0.056 into 10 to the power minus 3 into 10 to the power 3 plus minus sorry, I made
+mistake.
+So, 3 into 0.056, 0.056 into 10 to the power minus 3, 10 raise to the power 3 plus minus, so, it is
+that into 3 into 3 this is equal to that divided by 5 into 10 to the power minus 3, 10 to the power
+minus 3 this square, right? So, that means this is 20.16 is equal to 20.16 delta P, so much Pascal,
+right? So, that is what we are also getting here, right? Though, this means, if we do some
+problems, if we do some solutions, then obviously, we come across with the formulae in more
+close way, and you can solve the problems and figure out what is the value, these values also, we
+should know, here delta P is around 20.16 Pascal, right? 
+So, normal pressure is 101, right, 101.325 kilo Pascal. So, in that case, this is so much, that delta
+P, pressure drop is not very high, okay.(Refer Slide Time: 16:03)
+So, let us look into another problem, this problem says, whole milk is heated in a tubular heat
+exchanger having a diameter of 10 millimeter. The Reynolds number is 5000. The density and
+viscosity of whole milk is 1030 kg per meter cube and 2.12 into 10 to the power minus 3 Pascal
+second  respectively. Calculate  the  average  velocity  of  milk  and  pressure  drop  in  the  heat
+exchanger of 3 meter long.
+I repeat, whole milk is heated in a tubular heat exchanger having a diameter of 10 millimeter.
+The Reynolds number is 5000. The density and viscosity of whole milk is 1030 kg per meter
+cube and 2.12 into 10 to the power minus 3 Pascal second respectively. Calculate the average
+velocity of milk and pressure drop in the heat exchanger of 3 meter long, right? (Refer Slide Time: 17:19)
+So, the solution, then this can be that average velocity, this is equal to N Re mu over D into rho,
+right? So, it had been given, having a diameter of 10 millimeter, so, 10 millimeter diameter is
+already given, like the previous one, where it was 2 delta equal to 10 millimeter, right? 
+So, this can be, and here given are, diameter D is equal to 10 millimeter, right? And Reynolds
+number NRe is equal to 5000, right? And density equals to 1030 kg per meter cube and viscosity,
+mu is given as 2.12 into 10 to the power minus 3 Pascal second, right? As well, the heat
+exchanger has a length, L is equal to 3 meter, right? So, then from here, what we can write, we
+can write, the Reynolds number to be 5000, mu to be 2.12 into 10 to power minus 3, then D
+given as 10 millimeter. So, 10 into 10 to power minus 3 this will give, if we just change, we did
+not do this change of millimeter to meter. So, these are, be careful, when being done and this is
+density 1030, right? 
+So, from this, we can calculate, and say that how much, unless you do with calculator on your,
+you do not find out the mistakes. Normally, we do, right? 5000 into 2.12, 2.12 into 10 to the
+power minus 3, 10 to the power minus 3, so, it is so much divided by 10 divided by 1030 divided
+by 10 to the power minus 3.
+So, this is equal to 1.03, say two lines mean, 3, 1.03 meter per second, right? Hopefully, we also
+got there similar. So, 1.029, give a 3 meter per second, right? So, now, what we need to know
+that, corresponding to this, because, here you see from the problem given, what we understand
+that whole milk is heated with a tubular heat exchanger.
+(Refer Slide Time: 20:50)So, one milk, tubular, one, over other, so, like that annular which is shown in the morning, so,
+this is one heat exchanger, right? And that is another, right? 
+So, one fluid is moving, say this way in a tubular heat exchanger, it has not been said, whether co
+current are counter current, generally we take in the counter current. So, having a diameter of 10
+millimeter, so, tubular heat exchanger, diameter of 10 millimeter, so, in this it is being heated,
+now, the Reynolds number is 5000, the density, viscosity has this much, calculate the average
+pressure and the velocity. Now, when we have taken diameter and length in the previous sections
+or, previous classes, we had said that, whenever you have such a thing, where, N Re is given, you
+do not know the friction factor, then, you find out it from the Moody’s chart, right? 
+The Moody’s chart was what, like that, there, we log-log graph, right? This f versus N Re and
+corresponding to this, epsilon by D, has to be found out. So, what is the epsilon by D, that can be
+taken  in  this  case,  epsilon  separately  not  given,  but  let  us  take  that,  this  epsilon  by  D
+corresponding to that, and N Re to be 5000 the corresponding, f value, you can achieve, say
+around 0.011, right? So, if assume, 0.011 to be to be f value, then, delta P is equal to 4 f rho L by
+D vaverage square by 2, right? That is normal pipe flow, right? 
+And if that be true, then you can write, this is 4 into 0.011 into, L is given 3, and D is given 10,
+right? So, 10 millimeter is 10 raise to minus 3 meter and v average, which you have found out, is
+1.03 square by 2, right? So this comes equal to, let us look into that calculator, so, what is
+coming that 4 into 0.011, 4 into 0.011, right, into 3 , right, into, so, 4 f L, okay, into point 1.03
+whole square, into 1.03 square. So, this is that divided by 10 divided by 2 divided by 10 to the
+power minus 3, right? 10 to the power minus 3.So, this becomes equal to 7.00194, that means, 7.002, right? So, much of Pascal, let us look into
+this as 6.543, why 6.543? Because, you must have done, some mistake somewhere, so, 4 f was
+0.011 in to, we have not taken density, i.e., what is, so, 7.002, into 1030 if we make 7.002 into
+1030. So, this becomes equal to 7211, that means 7.2 kilo Pascal, right? This becomes 7.212 kilo
+Pascal, right? We hope, there also 6.543, the reason being, the difference is here, we have taken
+0.011, right? Whereas, in this case, it has been taken as 0.1.
+So, that is the fundamental difference, why this 6.543 is coming and we have got 7.212, right? 1
+point, and here, also we have taken 1.03, they have taken 1.029 square. So, for which the value is
+obviously, a little less, right? But, the thing is, like that, when you have these values, and when
+you have here, you see, though it was pipe flow, though it was problem, where it was not
+explicitly said that it is a pipe flow, right? It is said that whole milk is heated in a tubular heat
+exchanger, and as I showed that, tubular heat exchanger is like this, right? So, in which, one fluid
+is entering from the inner and another through the annular, so that is the annular heat exchanging
+is happening. So, the way it is said, it appears that the milk is appearing, going through the inner
+one, right? So, heating medium is not said, that is a heating medium. Now, when it is said, it is
+also said that, if the flow is such that N Re is 5000, right? And also it is said that it is the fluid
+milk, which has a density of 1030 and viscosity, 2.12 length which, it is passing is L, that is 3
+meter, right? 
+Viscosity is 2.12 into 10 to the power minus 3 Pascal second. Now, consequently it came to the
+mind that, which shall we do, since it is a simple pipe flow, so, we have taken pipe flow relation
+for that, and in the pipe flow, we could have also used Hagen–Poiseuille’s equation, but, the
+moment you take a Hagen–Poiseuille equation, you will see the difference between Hagen–
+Poiseuille, and using the fanning friction, there is a difference.
+So, 5, 10 percent difference, what we will get, what will be that. So, we have taken that fanning
+friction relation, with the delta P, and that fanning friction relation, with the delta P, the moment
+you put it, so, this becomes a simple pipe flow and the delta P with the fanning friction factor,
+whatever is coming. So, this way if you practice some more problems, from different sources,
+and solve them then, I hope, more and more confidence level you will gain, and you can do and
+solve very easily, okay thank you. 

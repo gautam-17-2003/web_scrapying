@@ -1,0 +1,252 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 3
+Module 1
+Equation of continuity in Cartesian coordinates
+Good evening. Actually we had to finish previous class. If you remember that it should be that
+equation of continuity, right? If you remember that we had told, now we had given the different
+ways of representation of equation of continuity, and we had also given what the meaning is of or
+significance of those expressions, we had also given. So, we also told that in this class we will
+try to show you, how you can develop those equations of continuity for different coordinate
+systems?
+Obviously, there are three coordinate systems as you know: Cartesian coordinate or cylindrical
+coordinate or normally that we try to tell, because the other one, that is spherical coordinate, is
+normally not so much used in normal processing. That is why that we will not go to develop and
+there is even more complicated unnecessarily, time will be taken too much. So, we will avoid
+that giving you the result, final result of the spherical coordinate. 
+(Refer Slide Time: 2:02)
+So, if you look at so we can go to equation of continuity in the Cartesian coordinate system,
+right? We said in the beginning that we will take a volume element as small as we can think of
+infinitesimally small as small as we can think of. And in that case, as you see from here, we have
+taken a small rectangular or Cartesian coordinate system, right? And, we have defined them delta
+x delta y and delta z, right (∆x ∆y ∆z)? So, these three we had said and we assume that the mass,
+which is coming in at the surface, this surface, the mass which is coming in is rho v x (ρvx)Іx at the
+face x and the mass which is going out is rho v x (ρvx)Іx+∆x at the face x plus delta x, right? And
+this is the Cartesian coordinate system, right?
+We have given, this is to be x this to be z and this to be y, right? These three coordinate systems
+we have given, right? So this small volume element we have taken and its volume is del x del ydel z (∆x ∆y ∆z) and we will do the analysis on this volume element, right? (Refer Slide Time:
+4:03)
+So, if we look at this, the basic equation is based on mass balance and is that mass in minus mass
+out should be mass accumulation. You remember, there, we had given you this kind of, that in a
+pipe, if we had taken this as the volume element, and if the in is like this and out is like this, then
+we can say that, it on the basis of mass balance, we can say that mass in minus mass out that
+should be the accumulation of mass, right? Accumulation of mass.
+So, this we have already said. Now, how much mass is getting in at the x direction? It is, if we
+tell it to be mx that is equal to rho times v x (ρvx), right? rho (ρ) is the density and v x is the x
+component of velocity, right? x component velocity is v x and rho is the density (ρ). So, rho v x
+(ρvx) is the mx, and if we tell you, see this unit is coming, kg per meter cube into meter per
+second, (kg
+m3m
+s). So, it becomes kg per meter square second, (kg
+m2s),i.e., we already said,
+this is nothing but mass flux, right? So the total mass which is coming in at the face x, we can
+write mx into the area del A is rho v x (ρvx) times del y into del z (∆y ∆z). The other two sides, i.e.,
+del y (∆y) del z (∆z). This is the del y (∆y) and this is the del z (∆z).So, this area is del y del z
+(∆y ∆z).
+So, whatever is coming on this face, where we have put this one is that rho v x to del y to del z
+(ρvx ∆y ∆z). What is the unit of this? Kg per meter cube into meter per second into meter into
+meter (kg
+m3m
+smm
+)equal to kg per second (kg
+s),i.e., the mass flow rate, right? So if this is
+true, then we can say that m x is equal to nothing but rho v x into vx rho vx into, sorry, del y del z,
+(ρvx ∆y ∆z), right? Similarly, this is at the face x. Similarly, at the face x plus delta x (x+∆x), we
+can say, this is again nothing but rho v x (ρvx) into at the face, that area is same, rho into v at x
+plus delta x, (ρv(x+∆x)), right? 
+So, that should be x plus delta x (x+∆x) and the area remaining same that is del y del z (∆y ∆z).
+So, we can say that, at in the face A in the face, say A, if this to be A, right? So whatever is
+coming in and out, the net in and out is equal to, net in and out net mass flow rate. This can be
+said equals to rho v x (ρvx), right? Now, if we assume that our center is here, right? Our center is
+here.  So, the balance,  if  we do on this  point, so, whatever  is  coming  here,  some will be
+accumulated and some will be going out, right? So, in that case, we can say this is rho v x minus
+del del x of rho vx into del x by 2 times the area that is del y del z (∆y ∆z). Why we are saying,you see, this is at the x by the mid-point. So, it is x by 2, or delta x by 2 ,(∆x
+2), right? If it is
+(del) delta x by 2, then the rate of change of rho v x with respect to x in the, or, at the distance of
+del x by 2,(∆x
+2)is this, and this was the rho v x at the face where it is A.
+So, the net will be, rho v x minus del del x of rho v x times del x by 2 and this into del y to del z
+[(ρvx−∂
+∂x(ρvx)∆x
+2)∆y∆z
+], right? Similarly, we can also write in the same way mass flow
+rate in the face, say, if it be b, this to be b, and the third one is, that bottom one, So, this to be c
+opposite to that to be c, right? So, in that case at the face b what we can say, in that case, this area
+will be this, i.e., del x del z (∆x ∆z), right? In the face c, this will be del y del x (∆y ∆x), that b
+and c will be, in this face, i.e., del x del z (∆x ∆z) and del x del y (∆x ∆y) , right? 
+So, if we write that in the face b we can say this will be rho v x (ρvx), or this will be a for x
+component, right? So, this will be rho v x (ρvx) in and the okay. Let us look into this again that we
+had here in this center. So, this was a and this is b, sorry, this is b. So, this face is a and this face
+is b, and similarly, the other faces could be, this face could be c, this face could be d, or, the other
+two faces, this could be e and this face could be f. But we are both first for the x direction, we are
+bothered for this how much is coming in this face and how much is going out from this face,
+right?  At  the  face  a  [(ρvx−∂
+∂x(ρvx)∆x
+2)∆y∆z
+];  at  the  face  b
+[(ρvx+∂
+∂x(ρvx)∆x
+2)∆y∆z
+];         Net  =
+[(ρvx−∂
+∂x(ρvx)∆x
+2)∆y∆z
+]−
+[(ρvx+∂
+∂x(ρvx)∆x
+2)∆y∆z
+]=−(∂
+∂x(ρvx))∆x∆y∆z
+So, in this face rho v x (ρvx) was coming minus this was not coming that del del x of rho v x into
+del x by 2 (∂
+∂x(ρvx)δx
+2). So, in the other face, what we are getting this rho v x plus this which
+is going there that is del del x of rho v x del del of del del x of rho v x into del x by 2 the area that
+is del y del z, right (∆y ∆z) ? (Refer Slide Time: 13:09)
+So, we can write, the net mass flow in x direction that we can write, that is equal to the mass
+which is coming in at x minus mass which is going out at x plus delta x (x+∆x), right? So, this is
+mass in minus mass out. If we write that then we can write from there whatever we have written
+earlier here that this minus this, right?
+So, if we make that this del del x of rho v x into del x del y del z, right? And this is the mass in
+minus mass out, right? So that becomes del del x of rho v x del x del y del z, why del x? It is
+because this del x by 2 and this del x by 2, right? So, this two put together, is this minus this, so,
+it will be this plus, right? So, out minus in is that. So, this is del del x of rho v x, that is net, which
+is flowing. Then, if we look at, similarly, on the other two coordinates that y and z, then mass in
+minus mass out at the face or in the direction y, we also, in the similar say, can write del del y of
+rho vy into del x del y del z, right? 
+Similarly, mass in minus mass out in the z direction that also we can write del del z of rho v z into
+del x del y del z, right? So if we have taken care of all the three directions del x in the x
+direction, in the y direction and in the z direction if we have taken all whatever mass is coming in
+and whatever mass is going out that is the net mass flow in all three x, y and z directions. Then,
+we can say that the total mass which has flown there. Now, we have to look into, from the basic
+equation, if you remember, we said net mass in and out, or, net mass flow must be equal toaccumulation, mass accumulation. In y- direction, Net = −(∂
+∂y(ρvy))∆x∆y∆z; and in z-
+direction; −(∂
+∂z(ρvz))∆x∆y∆z.
+So, accumulation we can say in that case or adding all these three, then we can that mass in
+minus mass out in all the three directions that can be written as minus of del del x of rho v x plus
+del  del  y  of  rho  v y plus  del  del  z  of  rho  v z into  area  del  x  del  y  del  z,  right
+[−(∂
+∂x(ρvx)+∂
+∂y(ρvy)+∂
+∂z(ρvz))∆x∆y∆z
+]? So, this is mass in minus mass out, so if we
+put like this, then we can write like that, okay, then accumulation, that can be written, what is the
+accumulation? With respect to time, we said that with respect to time, if there is accumulation,
+i.e., it is not steady, it is an unsteady with time there will be some accumulation.
+So, what is the change in mass with time in the entire volume is the accumulation. So, if we write
+that thing mathematically, then, we can say, del del t del del, or del rho del t, right? del del t of
+rho times del x del y del z (∂ρ
+∂t(∆x∆y∆z)). This is the volume element, right? kg per meter
+cube  per  unit  time  into  meter  cube  (k
+m3(mmm)
+s),  so,  kg  per  second  (k
+s),i.e.,  the
+accumulation, right? So, this is the accumulation. So, if we now add this two, or, if we  put it in
+the original equation, which was our mass balance equation, i.e., mass in minus mass out is the
+accumulation, if we look into that, then we can say that del rho del t plus del del x of rho v x plus
+del del y of rho vy plus del del z of rho v z. 
+So, this must be equal to 0 because when we are equating this with this, then the volume term
+this is cancelling out. So, in that case, we get del rho del t plus this side when it is going del del x
+of  rho  vx plus  del  del  y  of  rho  v y plus  del  del  z  of  rho  v z is  equal  to  0,  right?
+[−(∂
+∂x(ρvx)+∂
+∂y(ρvy)+∂
+∂z(ρvz))∆x∆y∆z
+]=(∂ρ
+∂t(∆x∆y∆z));∨,∂ρ
+∂t+(∂
+∂x(ρvx)+∂
+∂y(ρvy)+∂
+∂z(ρvz))=0.
+So, if that be true, then, we can expand this rho v x, no? This is nothing but uv product. So, wecan write, del rho del t, right? plus v x into del rho del x plus v y into del rho del y plus v z into del z
+del rho sorry del rho del z, right? 
+So, this plus with when rho is constant uv so when rho is constant, then we can write del del x of
+vx plus del del y of v y plus del del z of v z, right? So, this must be equal to 0. So, we can now, if
+you remember in the morning, we had said that this del rho del t plus v x del rho del x plus v y del
+rho del y plus vz del rho del z. This can be replaced by the operand that was capital D, if you
+remember we said in the previous class that operand capital D. So, which we can substitute here
+as D rho Dt plus rho del v x del x plus del vy del y plus del vz del z is equals to 0, right?
+Dρ
+Dt+ρ(∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0)
+So, these we can we have substituted. So, this we had said that this is nothing but substantial
+time derivative if you remember, right? That same example that you were going through a canoe
+and this can canoe is flowing along across not across along the flow of the stream. So, when you
+are flowing like that, so that situation was the substantial time derivative, and we have taken that
+into consideration, and there we showed that del rho del t plus v x del rho del x plus v y del rho del
+y  plus  vz del  rho  del  z  was  the  substantial  time  derivative,  right?
+Dρ
+Dt=∂ρ
+∂t+vx∂ρ
+∂x+vy∂ρ
+∂y+vz∂ρ
+∂z.
+So, if now we replace that with D rho Dt we get this form, right? 
+(Refer Slide Time: 23:42)
+So, when we are getting this if now, we assume that the fluid is having a constant density, i.e.,
+rho is independent of time and position, right? If rho is independent of time and position, then we
+can say that rho is constant and in under that situation we can write this substantial time
+derivative D rho Dt is equal to 0, right? This we said earlier also that substantial time derivative
+if the density is constant and then we can say this D rho Dt to be equal to 0.
+So, we can write del v x del x plus del vy del y plus del vz del z this to be equal to 0, right? So, this
+if you remember in the morning in earlier class we had said that this type of continuity equation
+we had developed or, we had shown and its implementation, or, its significance that also we had
+said. In the previous class, we said that. Now, we are showing you this forms or different forms
+of continuity of equation or equation of continuity. But, we will be deriving them in the right
+situation or in the subsequent classes. So, this is what we are. Now, we have shown that time
+(derivative) rather in the Cartesian coordinate what is the equation of continuity and how it can
+be derived, that we have shown, right?
+And in that if you remember that we had taken a volume element, right? Of del x del y and del z.
+This volume element, we have taken. We have said that at the face a this rho v x at face x is
+coming and at the face b at x plus delta x distance from x this mass flow rate is rho v x at the face
+x plus delta x, right? And we said, we will do the mass balance that is mass in minus mass out
+and that should be equal to mass accumulation. If you remember, and we said that what is mass?
+That is mx rho into vx, right?
+So, that is kg per meter square into second that is mass flux. If it is multiplied with area, then it
+becomes the mass flow rate, right? This we said and we had shown. So, this is why that m x or
+normally when it is rate it is represented with a dot. So, m dot x into del a is rho v x into area,
+which is the area, perpendicular to the flow. So, this is flowing on this face so perpendicular to
+this flow is this. So, this is del y and del z. So, del y del z came. So, rho v x this is the mass flow
+rate.
+Now, and that we have shown this is in kg per meter second, right? So, rho v x del y del z is the
+mass flow rate. Now, similarly we can also write what is that with respect to at the face x plus
+delta x. We said that was also rho v x at x plus delta x. Now, how much is the quantity in that
+case? Now, if we said that if we take mass balance equation or balancing point that this centre.
+So, whatever is coming here and whatever is going out from here that, so, what we are gettingthat, yes, rho vx which has come but what did not come is del del x of rho v x del x by 2 del y del
+z and at the face b, right? 
+So, this was rho vx which has come at the face a but this del del x of rho v x del x by 2 did not
+come so that is why it is minus and at the face b it is rho v x has come plus this much has come
+from there due to the distance. So, del del x of rho v x del x by 2 del y del z, right? So, if we
+added them. So, we added them, then the mass in minus mass out that we had written it was del
+del x of rho vx how much, so, it was like this, okay. So, mass in was this and mass out was this.
+So, here what I said earlier, if you remember that, we will do some mistake which you if you can
+identify, here, hopefully, by this time we have seen suddenly, this negative has come. How the
+negative has come? If you write it clearly then you see it was mass in rho v x minus del del x of
+rho vx del x by 2, right, into the area. Area was del y del z, right? This was in and out was rho v x
+plus del del x of rho v x into del x by 2 into del y del z, right? 
+Then, if we make mass in minus out, then it should be rho v x minus del del x of rho v x del x by 2
+into rho v into del y del, sorry, into del y del z, right? Minus, because minus mass in minus mass
+out minus. So, it becomes rho v x minus del del x of rho v x to del x by 2 into del z del y or del y
+del z, right? So, in that case, this rho v x this rho vx goes out, so this becomes 2 rho 2 negative
+becomes 1 and then this becomes rho v x so, this is del x by 2 del x by 2 so it becomes del x del y
+del z, right? So, del del x of rho v x into del x del y del z that is the in the x direction that is how
+the negative term has come up.
+So, this I am telling you that sometime maybe purposefully we will do it. I shall do it so that you
+can identify. If there is any fault and if you really can identify and let us know then we will
+definitely let you know back the real thing. Or, what was wrong in that. So, you identify here. I
+identified for you and showed you that how in future we will do. So, please keep in mind that
+any such thing you will be able to find out. If you can be able to find, then, definitely you can say
+that you are following the procedure or you are following the derivation, or, you are following
+the subject, so that is one indication how you can identify if there be any mistake, right? So, with
+this let us stop here, with the Cartesian coordinate. Next, we will go for the spherical, not
+spherical, that is for the cylindrical coordinate. Next class we go for the cylindrical coordinate
+because this takes time and since this takes time it is not possible that all the three coordinates, if
+we go on doing and deriving it, then, it may not be justified by the time management, right? So, we will do with the Cartesian and then show you the polar coordinate. How much that is your
+r theta phi, right? Thank you. 
+ 
+ 

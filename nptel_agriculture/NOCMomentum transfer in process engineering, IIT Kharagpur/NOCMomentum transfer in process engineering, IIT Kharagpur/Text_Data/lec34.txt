@@ -1,0 +1,111 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 34
+Module 7
+Variable fluid flow-problems and solutions 
+So, we have seen that what are variable flow, and how much time it takes for the pressure to drop
+from an initial pressure to a final given pressure. And, we also said that, this will be under critical
+pressure ratio condition, right, p 0 by p will be 0.528, till the pressure p by p a increases to the level
+that p equal to 1 by 0.528, i.e., 1.894 atmosphere, it reaches the 1.894 atmosphere, till it reaches
+that value, it will be under critical pressure ratio condition, right? 
+(Refer Slide Time: 1:26)
+So, if we do a problem on it like this that, A nozzle of 20 millimeter diameter releases air from an
+air reservoir to the atmosphere. Initial pressure and temperature of air are 6 atmosphere and 20
+degree centigrade respectively. Volume of the reservoir is 20 cubic centimeter. If Cd is 0.928,
+molecular weight is, this should be capital M, molecular weight is 28.97, gamma is 1.3, how long
+will it take to lower the pressure to 3 atmosphere? Right? 
+So, this is our problem, so from 6 atmosphere to 3 atmosphere, how long it will take? So, I
+repeat, for the benefit of students, A nozzle of 20 millimeter diameter decreases air, sorry,
+releases air from an air reservoir to the atmosphere. Initial pressure and temperature of air are 6
+atmosphere  and  20  degree  centigrade  respectively.  Volume  of  the  reservoir  is  20  cubiccentimeter. If coefficient of discharge Cd is 0.98, molecular weight of air is 28.97, heat capacity
+ratio is 1.3 or gamma is 1.3, how long it will take to lower the pressure to 3 atmospheres? Right? 
+(Refer Slide Time: 3:56)
+Now, this we can solve very easily, because we have seen in the previous class that the relation
+was t is equal to vc under root K2 over K1 ln of p1 by p2, right? So, if p1 is the initial and p 2 is the
+final, right? So, if that be true, we also said that K 1 is equal to K1 rather it is equal to, we had said
+to be equal to K1 K2 so, that was in the other page, yeah, K 1 was Cd A0 under root 2 gamma by
+gamma minus 1 times p 0 or p1 over p2, initial is p1 and final is p2, so in this case we should write
+that p, okay, p1 by p2 as we are writing here to the power, this is under critical condition, right? 
+This to the power point 2 by gamma or rather 2 by gamma minus p 1 over p2 to the power gamma
+plus 1 by gamma under critical condition, this was K 1, right? And, since, the values, which are
+given to us are like this, Cd is 0.95, 0.98, not 95, then, molecular weight M is given as 28.97,
+then, we are given gamma to be 1.3, we are given p 1 is equal to 6 atmosphere, you are given p 2 is
+equal to 3 atmosphere, and also we are given the volume of the container v c is equal to 20
+centimeter cube, right? 
+So, these are the values we are given, then, also we were given a nozzle of diameter, i.e., D nozzle is
+equal to 20 millimeter, right? So, 20 millimeter diameter is equal to 20 into 10 to the power
+minus 3 meter, right? So, if we substitute, then Cd is 0.98, A 0 is pi by 4 Dnozzle square, i.e., 20 into
+10 to the power minus 3 whole square into under root 2 gamma 2 into 1.3 by 1.3 minus 1 times
+this ratio is under critical, so 0.528 to the power 2 by 1.3 minus 0.528 to the power 1.3 plus 1
+divided by 1.3, right? This was our K, now if we see this in the calculator, what we can see that, yeah, so, we have 0.98
+into pi divided by 4 into 20 into 10 to the power minus 3 whole square into 20 into 10 to the
+power minus 3, this my mistake, okay, let us do this first 20 into 10 to the power minus 3, okay,
+whole square, this is the square, right, into 0.98 into pi into, say, 1 is equal to this much by 4 is
+this side, right? Now, what about under root? So, let me also write it otherwise, 15393804002,
+how come it is so, somewhere again something has been made wrong, how, come it is 10 to the
+power minus 3 whole square, so it cannot be that.
+So, it is 20 into 10 to the power 3 plus minus is equal to this, now this square is this into pi by 4
+into pi into 0.98 is equal to this divided by 4 is equal to this, right? And, now this into, so, this we
+can write, this was 3.0787 into 10 to the power minus 4, right, times this factor, say, this is A,
+right? So, now what is A? Already we have made into, so, we can write here 1, 2 in the second,
+we can write, or it can be third, 2 into 1.3, right, divided by 1.3 minus 1, i.e., 0.3 divided by 0.3,
+right? So, this into first bracket that is 0.528 to the power 2 divided by 1.3, right, minus again
+0.528 to the power 1.3 plus 1, i.e., 2.3, divided by 1.3, something wrong 1.3 hopefully we have
+done wrong 9.4 which is not true.
+So, let us see this second part, second part was 0.528 to the power 2 by 1.3 2 by 1.3, so, this was
+this, right, minus 0.528 to the power 2.3 divided by 1.3, this 1, this 2, right, into or, we can make
+is equal to, my goodness, we are making something wrong repeatedly, So, it is 0.528 to the
+power 2 by 3, so that becomes 2 by 1.3, pardon me for this, to the power 2 by 1.3 is, this is equal
+to this, right, minus, again 0.528 to the power, what 2.3 divided by 1.3, this again, second
+bracket, and this is equal to, right, 0.05, that is what should have been, fine, into 2 into 1.3
+divided by 1.3 minus 1, i.e., 0.3, this, so, this is this, right, into we have 3.0787 into 10 to the
+power minus 4 this is coming 1.3 10 to the power minus 4, 1.368, 10 to the power minus 4, this
+check, whether this is correct or not, okay.
+K2 is coming to be equal to M by RT, M is given here as 28.97, R is 8314, and T is 20 degree
+centigrade, which we have not written T is 20 degree centigrade, that is equal to 20+273, so, 293
+Kelvin. So, 293 Kelvin, so, this is equal to 28.97 divided by 8314 divided by 293, so, this is
+equal to 1.18, right? This is equal to 1.18924 10 to the power minus 5 K 2, right? And therefore,
+the time t we can write from here, time t is equal to v c is given, this is 20 centimeter cube, 20 into
+10 to the power minus 2, right, minus 3 somewhere, this we made wrong here, okay, square that
+was square, but this v c, 20 into 10 to the power minus 3, minus 2 meter cube, right? So, into 3, that is it that, what it should be, right? And, this is that t, okay K 2 is 1.185 10 to the
+power minus 5 185, not 9, okay, 5 10 to the power minus 5 by K 1, K1 we got 1.368 10 to the
+power minus 4, right? ln of p 1 by p2, p1 is 6 initial, final is 3, right? So, if this is true, than we can
+write that, vc is 10 20 centimeter cube, so, 10 to the power minus 2 or minus 6, so, rightly, we
+write, it to be 10 to the power minus 6 meter cube. So, 20 10 to the power minus 6 meter cube,
+that if we write, if we put it here, then, we get 10 to the power minus 6 into 20, right? 
+So, this much meter cube is volume v c, K1 is 1.185, into 1.185 into 10 to the power minus 5,
+right? So this divided by K 2, that was K2 and this is K1, 1.368 into 10 to the power minus 4, this
+is divided by, so is equal to this divided by 10 to the power minus 4, so, this is equal to this
+much, right, times 6 by 3, i.e., 2 ln of 2 times 1.73 times 2 ln what is ln, yeah, 1.7324 10 to the
+power minus 6, right, times 2 ln, right? I again think we have done wrong, 10 to the power minus
+6, yeah, we again done wrong, perhaps, so, it should be 1.713 10 to the power minus 6 plus
+minus, right? Actually, we are not so much used, 1.713 into 10 to the power minus 6 plus minus
+this, right, into, let it be like this, 2 of ln, ln of 2 is this, so into this is 1.1873 10 to the power
+minus 6 somewhere, we have done something perhaps wrong.
+However, this comes to 174.3 second, right? So, this comes to 174.3 seconds, so, when we make
+it here, we see that the thing where we have done wrong is K 1 is given as Cd pi by 4 D square,
+okay, into under root 2 gamma by gamma minus 1, p by p 0, p0 by p to the power 2 by gamma
+minus p0 by p to the power gamma plus 1 by gamma, so this comes to 2.0528 10 to the power
+minus 4, please check whether it is correct or not, right? 
+Then, K2 as it is M by RT, which we also got the same, 28.97 by 8314, right, 8314.34, that you
+can take, into 293, that comes to be 1.18519 10 to the power minus 5, right? And, thereby, we get
+time t is vc under root vc into under root K 2 by K1 times ln of p1 by p2, right? Now, vc, here, the
+difference is not 15 and 20, this 15 this 15, was perhaps 20 cubic centimeter, so, that is why our
+thing was coming so low, 20 cubic centimeter, we had taken, but here in the problem, actually,
+we have taken 15 meter cube, right? 15 meter cube into this root K 2 that under root 1.18519 10 to
+the power minus 5, it was so divided by K 1, i.e., 2.0528 10 to the power minus 4 ln of 6 by 3 p 1
+over p2, or, p0 by p, this should not be p 0 by p, this is p1 by p2, in that t expression which we got
+earlier, right? Here, perhaps this p 1 by p2, okay.So, got ln of 6 by 3, this on simplification gives 174.3, so, the change is here 15 meter cube
+instead of 20 cubic centimeter, if we take 20 cubic centimeter, perhaps, whatever we were getting
+that should come, right? 
+(Refer Slide Time: 29:31)
+However, this is a, this is only a calculation, which you can do it with your calculator, not like
+this online, where lot many other difficulties are there, please check and here in the problem let
+me also change here that will be better, that instead of 20 centimeter cube, let me write 15 cubic
+centimeter, right? So, then only we can say that this is what is coming that cubic 15 cubic
+centimeter, then only this is coming 15 times v c is 15, 15 times this over this K 2 by K1, root K2 by
+K1 ln of 6 by 3, then it is 174.3, okay, this also you practice, and hopefully, we can do as many
+problems we can come across, and you also do some practice with other problems, okay. Thank
+you. 

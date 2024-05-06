@@ -1,0 +1,142 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 29
+Module 6
+Flow through nozzle-problems and solutions 
+(Refer Slide Time: 0:28)
+Yeah, so, we finished up in the last class, if you remember that, for nozzle flow, again or flow
+through nozzle, we have seen that p 0 over p is equal to 0.528 or p by p 0 is equal to 1.893, what
+does it imply? It implies that we said, this was the nozzle, right? And here the pressure was p,
+specific volume was V, velocity was small v and there, at the tip, the pressure was p 0, specific
+volume was V0 and velocity was v 0, right? And area is here, if it is A, here A 0, right? So, this was
+the case, in that case, the pressure ratio, this is tip to the inside, or we can say, outlet to inlet,
+right? 
+This is pressure ratio, outlet to inlet or tip to inside, i.e., coming to be equal to 0.528. Now the
+question was, we left here, I mean it was hardly finished, if we recapitulate a little, that we had
+this relation that, x is equal to 2 by gamma plus 1 into 2 by gamma plus 1 to the power gamma
+by gamma minus 1, right? So, we said this, that x was equal to p 0 by p, right? So, p 0 by p was
+equal to 2 by 2 by gamma plus 1 to the power gamma by gamma minus 1, right? 
+Now, this was so. Now, we said, for a diatomic gas, the value of gamma is equal to 1.4. If it is
+assumed, then, if we write p 0 by p is equal to 2 by 1.4 plus 1 to the power 1.4 by 1.4 minus 1 this
+becomes equal to 2 by 2.4 to the power 1.4 divided by 0.4. If we look at this calculator, right? Ifwe look at the calculator, we are not getting calculator here, right? We are not getting calculator
+here. So, okay, if do not get calculator, then it can be that, if you can check also that, the
+calculator is like that, okay. In the accessories calculator is there, and we can fix up, yeah, we got
+the calculator, and if we take scientific calculator, then no need of scientific, but still we have
+some more.
+So, then we have 2 by 2 by 2.4, right? So, it is, and there, 1.4 by 0.4, so, we write, 2 by 2.4,
+right? This is equal to 0.833 to the power, so, x to the power y to the power, we write 1.4 by 4,
+1.4 divided by 0.4, so this comes to this, and if we do that, it becomes 0.528, right? This is what
+is coming as 0.528. So, that is what we had written that 2 by this is equal to 0.528, and if you do
+the inverse of this, inverse of this, it is 1.89. say, p equals to not this, then p by p 0 that becomes
+1.893, right? So, this is a typical value, this value, we have to remember, let us take out this
+calculator once again.
+(Refer Slide Time: 6:07)
+So, we enlarge it, so, this has a typical value, why this p 0 by p, i.e., pressure at the tip to the
+pressure at the inlet, this ratio is 0.528, and if you remember that, we said that when the
+discharge is maximum, for that the condition was dw  dp 0 is  0, right? So, if dw dp 0 is  0,
+corresponds to a maximum velocity, then the pressure ratio comes to, for a diatomic gas, rather
+whose value is 1.4 gamma, equal to that heat capacity ratio, right? If that is 1.4, then the pressure
+ratio from the tip to the inlet pressure is 0.528. 
+That means if the pressure ratio between tip and the interior is, or outlet to inlet is 0.528, we can
+say, the discharge is maximum, we can say that the discharge is maximum when the pressureratio is p0 by p is 0.528, i.e., outlet to inlet, or the reverse, if it is inlet to outlet, then also it can
+said, inlet to outlet is p by p 0 that is equal to 1.893. So, when, the inlet to outlet pressure ratio is
+1.893, then also, we can say, the discharge is maximum, right? So, if pressure ratio is anyone
+1.893, inlet to outlet, or 0.528, outlet to inlet, then we can tell the discharge is maximum, or for
+maximum discharge the pressure ratio, inlet to outlet has to be 1.893 or outlet to inlet has to be
+0.528, then only, we can say the discharge is maximum, right? 
+This, we have to keep in mind. This is very helpful for finding out both discharge and the
+velocity at the tip to find out that, right?
+(Refer Slide Time: 9:05)
+For example, if we look at this problem, that a nozzle of 1.2 millimeter diameter, with a
+coefficient of discharge of 0.91, this coefficient of discharge 0.91 is given by the manufacturer, is
+to deliver here, from 3 atmosphere pressure to 2 atmosphere pressure at 35 degree centigrade.
+Calculate the velocity, mass flow rate, and maximum velocity, and maximum mass flow rate
+corresponding to the downstream pressure at a critical value whatever it is. Assume molecular
+weight of air to be 28.97.
+So, I repeat, it is a nozzle of 1.2 millimeter diameter, with a coefficient of discharge of 0.91 is to
+deliver air from 3 atmosphere pressure to  2 atmosphere  pressure,  at 35 degree  centigrade.
+Calculate  the  velocity,  mass  flow  rate,  and  the  maximum  velocity,  and  mass  flow  rate
+corresponding to the downstream pressure at a critical value. Assume molecular weight of air to
+be 28.97, what we understand by downstream pressure? 
+(Refer Slide Time: 10:35)So, if this is the upstream, then this is the downstream, right? So, at the tip is the downstream,
+and this corresponds to this p 0 v0 capital V0, or specific volume at the tip, ‘0’ and or, V 0 or interior
+is A, P, V, v like that, right? (Refer Slide Time: 11:08)
+So, if we solve this problem, then it comes that, we know that v 0 or velocity was under root 2
+gamma p by gamma minus 1 into rho into 1 minus p 0 over p to the power gamma minus 1 by
+gamma, right? So, now given, rho, we know is nothing but PM by RT, right? From the problem
+given, it is 35 degree centigrade, right? So, P was given at 3 atmosphere to 2 atmosphere, right?
+So, if we take 3 atmosphere, 3 into 101325 Pascal, into, its molecular weight is given 28.97,
+divided by the gamma, R is 8314, and temperature given is 35, so 273 plus 35, is nothing but
+308.
+So, if we calculate this, then, how much it comes, let us see, we have done, we have kept the
+calculator, yeah, we have kept the calculator here, so, if, we multiply that 3 into 1, 3 into 101325
+into 28.97, right, is equal to this divided by 8314, sorry, 8314 divided by 308, right, is equal to
+26.99. Let us, I hope, we do the thing, because, we had canceled this somehow. So 3 into 101325
+into 28.97 divided by 8314 into 308, so this becomes, this is equal to 3.43. So 3.4389, that
+means, we can write, take 3.44, right? kg per meter cube, right? 
+So, we take this, then, we can say that, rho is so much, right? rho is so much, so, 3.44 kg per
+meter cube and A0, i.e., the tip area is nothing but pi D square by 4, D is given, pi into 0.0012,
+i.e., 1.2 millimeter whole square divided by 4, this becomes equal to pi into 0.0012 square is
+equal to so much, divided by 4, that is equal to 1.1309 into 10 to the power minus 6 so much
+meter square, right? If this is so much, so, we know that what is the rho and M. Therefore, v 0 we
+can write is equal to under root 2 into 1.4 into pressure, if we take it to be 3 into 101325.3 Pascalso, 3101325, gamma is 1.4, minus 1 rho, we have found out, 3.44, into 1 minus A 0 is 2 p is 3 to
+the power 1.4 minus 1 divided by 1.4, right? 
+So, this if we see again, through calculation, how much it is? Then, we see, it is 2 into 1.4 into 3
+into 101325 divided by, or, is equal to, divided by 1.4 minus 1 into 3.44, right? So, this is equal
+to this, right? And, equal to under root of 618553.779 into, we still have, into 1, 2, 3, right? 1
+minus, we have taken, unnecessarily so many, right? 1 minus 2 by 3, right, to the power 1.4
+minus 1 that is 0.4 by 1.4, 0.4 divided by 1.4, right? 0.4 divided by 1.4 is this much, right? So, if
+we close, all is equal to this much, it is under square root, so square root 260.
+So, it was 260.12, right, is equal to 260.12 meter per second. So velocity, has come to v, so
+much. Now, we need to find out the discharge, right? 
+(Refer Slide Time: 19:54)
+So, w, we have found, seen is, Cd A 0 2 gamma p rho divided by gamma minus 1 into p 0 by p to
+the power 2 by gamma minus p 0 by p to the power gamma minus 1 by gamma, right? Gamma
+plus 1 by gamma, right? So, if we add, the value is now, Cd is given already is 0.91, A 0, we have
+found out to be 1.1309 into 10 to the power minus 4, under root 2 into 1.4 into 3 into 101325 into
+3.44 divided by rho is, 3.44, 1.4 minus 1, right? This, times, right? This times 2 by 3 to the power
+2 by 1.4 minus 2 by 3 to the power 1.4 plus 1 by 1.4, right? All under root.
+So, if we now, again see, how much is the discharge, then we start, from there, 2 into 1.4 into 3
+into 101325 into 3.44, right? This is so much, divided by 1.4 minus 1, i.e., 0.4, right? So, that is
+0.4 and this is equal to this, right, times, right? So, 1, 2, let us take, then 2 by 3, i.e., 0.66 2 by 3
+to the power 2 by 1.4 this is equal to this much, right? 1.4 okay, so, this actually, if we close ithere, then you cannot write here also point, so, this minus, we have done, that mistake, minus 2
+divided by 3 to the power 114 plus 1, 2.4 by 1.4, 2.4 by 1.4, that is 14, right? This is equal to so
+much, now, this is under root, right? Under root into 10 to the power minus 4 this, right, into
+1.1309 is equal to this into 0.91 is equal to, no no, something wrong somewhere, we have done.
+Actually, should have come this is equal to 0.000689, so much kg per second, right? And that
+should be equal to 2.48 kg per hour, right? So, this is the discharge, right? So, we have found out
+what is the discharge, what is the velocity, right? Next, comes what is the velocity when is the
+discharge is maximum, right? 
+(Refer Slide Time: 26:19)
+Now, discharge becomes maximum, only when, let us bring it out, discharge becomes maximum
+only when, p0 by p, that is equal to 0.528. So, corresponding to p 0 by p equal to 0.528, what is the
+velocity, that should be the maximum velocity, right? So, we have seen, that v 0 was under root 2
+gamma p rho by gamma minus 1, right? 2 gamma p rho, or, 2 gamma p gamma minus 1 this, was
+gamma pV or gamma p by rho, okay. 
+This was that into 1 minus p 0 by p. this to the power gamma plus 1 by gamma under critical, now
+this p0 by p is, when 0.528, that is called typical pressure ratio, this is called critical pressure
+ratio. So, if the pressure ratio is 0.528, then that is outlet to inlet, or exit to inlet, right? Then, it is
+called critical pressure ratio. So, that is denoted as cr, so, p 0 by p to the power gamma plus 1 by
+gamma, or this was, no not plus, this was minus gamma minus 1 by gamma critical. So, we write
+2 into 1.4 into 3 into 101325 divided by 1.4 minus 1 into 3.44, right, into 1 minus p 0 by p is
+0.528 to the power 1.4 minus 1 by 1.4, right? This whole to the power half, right? So, this, if we calculate, then it comes to be 321.2 meter per
+second, right? 321.2 meter per second, that means, under critical pressure ratio, under critical
+pressure ratio, the maximum velocity maximum velocity is 321.2 meter per second, right? 
+(Refer Slide Time: 29:20)
+So, we can also write then, the maximum discharge, corresponding to the critical pressure ratio.
+So, the maximum discharge, corresponding to the critical pressure ratio of p o over p is equal to
+0.528. If that be true, then, we can write w is equal to Cd A 0 under root 2 gamma p rho by
+gamma minus 1 into p 0 by p to the power 2 by gamma under critical, minus p 0 by p to the power
+gamma plus 1 by gamma under critical, right? So, this becomes 0.91 into 1.1309 into 10 to the
+power minus 4 under root 2 into 1.4 into 3 into 101325 into, rho is 3.44 by 1.4 minus 1 into
+0.528 to the power 2 by 1.4 minus 0.528 to the power 1.4 plus 1 by 1.4, right? 
+So, this becomes equal to, if we calculate, then, that comes to equal to 7.2058 into 10 to the
+power minus 4 kg per second. So, it is very small number in terms of hour, it will be 2.594 kg per
+hour. So, we see that the discharge maximum is 2.594, the velocity maximum is 321.2, normal
+discharge is 2.48, and here it was 2.594, right? 2.48 kg per hour, whereas it is 2.594 kg per hour,
+the velocity was also found out to be 260.12, whereas maximum velocity, something 321.2.
+So, this way if you calculate, if you find out the velocity at the discharge, velocity at the tip
+corresponding to discharge and maximum velocity corresponding to maximum discharge, that
+comes under critical pressure ratio, i.e., p 0 by p is equal to 0.528, right? Thank you. 

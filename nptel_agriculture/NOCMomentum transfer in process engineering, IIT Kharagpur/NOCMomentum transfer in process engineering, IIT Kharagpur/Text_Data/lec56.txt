@@ -1,0 +1,160 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 56  
+Module 12  
+Problem and solution  
+ 
+Okay, so we have done pipe flow and flow through annulus and many others so in that let us do 
+also some problem because we said that if you do and if you can solve problems then you are 
+definitely grasping the subject more. So , to do that let us also try some problems to be solved, 
+mind it t hat this problems you can also find out in many books many , many sources and as many 
+problem solutions you will do, it will not only give you that application of the subject, 
+application of the topics, application of the equations but also it will help you  to understand 
+different values different values I mean that it is unlikely that I give the one good example that 
+we if we have in both the hands, one had a copper rod and another hand one wooden stick.  
+And both if we put in say oven and a within very shor t period of time, we get in the hand where 
+we have copper rod that will be very much heated up we cannot hold it, whereas the other one 
+wooden one we know that it will be some more time required lot of time required by that time 
+you can no more hold it. Th is is then known fact, true the reason also you know true, but the 
+values , what is a value of the conductivity of copper , or that of the wooden stick , or wood if you 
+are not coming across.  
+Then , that the difference between you and another person who is no t of your field or who is not 
+basically from science , if he says , then it , you will feel that , he is also saying the similar thing , I 
+am also saying the similar thing , difference, the differences will be . you will not be able to 
+explain the reasoning with scientific background, scientific details. So , for that detailing you may 
+need to know the required values, right? And this you can gather , you can capture as many 
+problems you solve so much you can do, right?  (Refer Slide Time: 3:55)  
+ 
+This you keep in mind and solve as many problems wherever from you get it and solve it, right? 
+For example , here if we look at that apple juice has to be sterilized using a 10 meter long tubular 
+heat exchanger and a 10 meter long plate heat exchanger separately. Diameter of the tube is 15 
+millimeter gap in the plates is also 15 millimeter. The juice has a visco sity of 7 into 10 to the 
+power minus 4 Pascal second and density of 1100 kg per meter cube. For both the heat 
+exchangers , Reynolds number N Re is set to be 3000 , you can take it 2000, you can take it 1500 , 
+this is just for an example. What are the average v elocities , and pressure drops , for the two cases, 
+right?  
+So, we reread the problem once again, apple juice has to be sterilized using a 10 meter long 
+tubular heat exchanger and a 10 meter long plate heat exchanger separately. Diameter of the tube 
+is 15 mi llimeter. Gap in the plates is also 15 millimeter. The juice has a viscosity of 7 into 10 to 
+the power minus 4 Pascal second and density of 1100 kg per meter cube. For both the heat 
+exchangers Reynolds number N Re is set to be 3000. What are the average vel ocities and pressure 
+drops for the two cases, right?  
+(Refer Slide Time: 6:36)  
+ 
+So, it is a simple problem , as far as you are concerned , by this time , we have come to know the 
+details of it , and you can solve it, but you see , the tubular heat exchanger , what it is, that means 
+tube in tube. So , one tube is here and another tube is there , so, one fluid is flowing, one fluid is 
+say flowing through this , and another fluid is through that , this is called counter current. Of 
+course , when you come across with it in heat transfer you will see that count er current is more 
+effective tha n co-current , had it been like this, this is also m oving this way and this is also 
+moving , this is the annular and this fluid is also moving , this way the n, it would have been 
+parallel, right? So , parallel is less effective than counter current, okay. So , whatever dimension  
+has been given that we have seen and we have been here , it is not the heat transfer problem, it is 
+the problem of fluid flow, right?  
+So, one fluid is of our interest that is the juice which is flowing and not the heating or cooling, 
+so, heat exchanger does either heating or cooling that is exchange of heat, right? So , if it is hot, 
+then you can cool it, if it is cold , then, you can heat it. So , depending on what you are doing 
+accordingly it will be, right? The other one is a plate heat exchanger as it is said, right? So , in the 
+plate heat exchangers , there are plates , like this , several plates are there, right? I am drawing a 
+little apart . reason being so , that you can make it out, right?  
+So, in that case also, so , one fluid if it is going this way, another fluid maybe coming out this 
+way, right? So , this acts as this plate acts as the heat exchanger plate, right? So , let us put this 
+one, so, this will go this way and this again will come this way , this will again go this way like 
+that, right? So , this will go this way and then again come back, right? And again maybe going 
+out from there it will enter this way, right?  
+So, that depends on and in each plate there are if you look at in each plate there are if this is the 
+view of the plate there are four holes like this, right? Out of which depending on the flow of the 
+fluid maybe one maybe for one fluid say this is for one fl uid and maybe this is for another fluid. 
+These two plates are normally then closed, but these two are open. So like that depending on 
+which one is open, which one is closed the flow becomes either parallel or counter current that is 
+as far as heat transfer  is concerned we are not in this subject, what we need? We have to find out 
+whatever has been said that what is the velocity and what is the pressure drop, right?  
+So, we would like to find out that velocity and pressure drop. Now , you remember that this i s 
+simply nothing but a fluid flow problem , I think yeah this is for this, okay this is nothing but a 
+food fluid flow problem and in that we have been asked that what is the pressure drop and what 
+is the velocity, that we have to find out. So , for that here  we have not we have been given a 
+Reynolds number of say rough 3000, we know that for pipe flow, flow through pipe that 
+Reyn olds number is less that 2100 N Re less than 42 or 4000 roughly it is said 4000, right?  
+So, that means beyond this number less than this, this is laminar, this is turbulent and in this 
+region it is intermediate means , neither , laminar , or turbulent. If you remember we had said that 
+laminar flow means this is the flow, this is the flow;  this is the flow so it is all these are not 
+interc hanging interacting with the other layer if these are each layer of the fluid, right? If it is 
+intermediate means it will be going like this some may come and exchange with like this so there 
+could be some exchange some laminar, so that will be.  
+Whereas if  it is turbulent, then it will be a totally mix so all the fluid inside is mixing, right? So 
+that means depending on the , and who will dictate this laminar or turbulent, this R eynolds 
+number Nre, right? If N Re is less than 2100, then for pipe flow it is la minar if it is more than 4000 
+it is turbulent intermediate is be tween that, right? So what is N Re? N Re is D v rho by mu , all are  
+fluid s property , rho is the fluid property, mu is the fluid property, velocity is the fluid not 
+property that has to be found out and D is the diameter of the pipe, right?  So, if that means this property values of the fluid for a given D the property values of the fluid 
+can also dictate either on the Reynolds number or on the velocity or vice versa, right? If it is high 
+velocity Reynolds number will be high, if it is low veloci ty Reynolds number will be low or vice 
+versa for a given D if the property values are changing that is why I said that moving the values 
+are also very much effective and in most of the cases are required also, right? Okay.  
+(Refer Slide Time: 15:04)  
+ 
+Now , let us come to the problem solution, right? Solution is what, in case of the tubular heat 
+exchanger so in case of the tubular heat exchanger the flow of the juice is a flo w through the 
+pipe, right? So N Re is D v rho by mu or v is N Re into mu over D and rh o, right? Now the values 
+are given the values are given as Nre given as 3000 mu given is 7 into 10 to the power minus 4 
+Pascal second and D is given 15 millimeter if I remember 0.015 and density of the fluid was 
+given 1100, right? So from that if we do the  calculation then we can see that 3000 into 7 into 10 
+to the power minus 4 so much divided by 0.015 is equal to this divided by 1100 is equal to 0.127.  
+So the velocity through the tubular heat exchanger is 0.127 meter per second, right? So if we 
+have found  out, then pressure drop we can also find out from the Hagen Poiseuille’s equation, 
+what is Hagen Poiseuille’s equation? So from the Hagen Poiseuille’s equation we can also find 
+out what is the pressure drop, so if you remember Hagen Poiseuille equation we  have derived 
+developed, so delta P is equals to 32 mu v L by D square, right? So , delta P is 32 mu v L by D 
+square, so in this case delta P become equal to 32 into mu is 7 10 to the power minus 4, right? v 
+we have found out just now 0.127, right? And we h ave been said that it is 10 meter.  
+So if it is so, then D was 0.015 square, right? So if you see what is the value coming, value is 
+coming 0.127 times 7 times 10 to the power minus 4, right? So , this into 10 into 32 is equal to so 
+much divided by 0.015 squ are, so that is 126.435 so delta P is 126.435 Pascal, right? So , the 
+pressure drop is not so high because velocity is also not so high maybe and whatever the 
+property values have been given you just with the same all of the dimensions all of the things it 
+change the property values and see how it is affecting and you will see that the property values 
+have great influence on both the velocity and the pressure drop, right?  
+The same thing you do for water it will altogether different, okay. So now let us do t he other one 
+this is for the tubular heat exchanger. So for the plate heat exchanger here it is it was a pipe but 
+in this case the plates are very close and we can assume it that this is that was for here let us 
+write for tubular heat exchanger, flow is th rough a pipe. Whereas for plate heat exchanger the 
+flow is through a slit, so we have to remember the relation of N Re for the slit flow, right? And if 
+we remember that for the slit flow N Re a was equal to 4 v del rho by mu or it should have been 4 
+del v rh o by mu D was substituted this D was substituted by the 4 del, right? So , and if you 
+remember , if we had taken this as slit we had taken this as 2 del, right? If this was the axis, right? 
+This was 2 del , 1 half plus del and another half minus del, right? This was our consideration if 
+you remember, right?  
+So, that is why it is coming and this was equivalent diameter or equivalent to that this slit what is 
+the equivalent diameter that we can find out it is to 4 del we had also found out there. So , it is 4 
+del v rho by mu all other things remaining same, then v becomes equals to N Re into mu over 4 
+del rho so N Re we have said to be 3000, mu we had said 7 10 to the power minus 4, 4 del now 2 
+del we have said to  be if we remember that it was 15, right? So , 15 millimeter apart. So , that 
+means 1 del 2 del is 15 mm so del is 15 by 2 that is 7.5 mm, right?  
+So, we can write 4 into 7.5 into 10 to the power minus 3 into 1100, right? And then let us see 
+what it comes? I t comes to be 3000 into 7 into 10 to the power minus 4 is equal to so much 
+divided by 4 divided by 7.5 divided by 10 to the power minus 3 divided by 1100 is equal to 0.06 
+meter per second. This tells that we have a this thing much , much less velocity much , much lower than that in the tubular heat exchanger. So , the velocity in the for the same now let us look 
+into the delta P.  
+So the delta P is equals to from the flow through slit if we see the expression this was 3 mu v of 
+course average L by del square, r ight? So , 3 into mu 7 10 to the power minus 4, right? To v average , 
+we just have found out 0.06 , into L, right? L was same as 10, right? And del 7.5, so 7.5 10 to the 
+power minus 3 square, right? Let , us look how much it comes, 3 into 7 into 10 to the power  
+minus 4 into 0.06 into 10 is equal to , so much divided by 7.5 into 10 x to the power minus 3 x to 
+the power 3 plus minus this square, so is equal to 22.4 Pascal.  
+So, here the pressure drop was also high, here the pressure drop is also low, here the veloc ity was 
+also high, here velocity is low, pressure drop is also low. So , that gives us idea that whenever we 
+are doing such kind of thing we have to be also knowing this value gives us idea that in tubular 
+heat exchanger the pressure drop and the velocities  are high, whereas in the similar way because 
+we maintained the dimensions more or less very , very close same fluid, right? But in the plate 
+heat exchanger the velocity as well the pressure drops are much lower than that of the tubular 
+heat exchanger.  
+You will see if you find out the percentage it will be almost 30, 40 even 50 percent lower than 
+that of the tubular heat exchanger then in plate heat exchanger. So , that is why solving problem 
+gives you some idea not only on the values, but also on the subject  like here you got idea about 
+the both tubular and plate heat exchanger out of which who is giving how much velocity and 
+how much pressure drop. So when you go to the industry obviously pressure drop will be very , 
+very fundamental thing because in the high er the pressure drop more will be your expenses, 
+right? So that has to be encountered so this way you can get idea about the values, right? So , do 
+some problems, thank you.  

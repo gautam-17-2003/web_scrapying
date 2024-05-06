@@ -1,0 +1,191 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 13
+Module 3
+Flow through pipes
+Again, you remember that, we said how the understanding of the flow behavior. How, the
+velocity components are acting. This we have found out with the help of equations of continuity
+and equations of motion. We also have done on the application of these equations, how we can
+solve with the help of these equations. Some of the problems, we have done, right? And, for
+Navier-Stokes equations, understanding of the individual components of the equation, these we
+have shown, right? 
+Obviously, as  and  when  your  problems  will  be  complicated,  your  solutions  also  will  be
+complicated. But, depending on the cases, we assume something, which are valid, not only valid,
+which can be really assumed, and in all cases, where this is more feasible, those things we have
+dealt with, right? Now, let us go into some other, which are really further required for your, not
+only understanding, but also applications, for example, if you are in industries, you are dealing
+with fluids are flowing through pipes, right? 
+You, have seen, if you are in the hostels, that, your pipe is coming, the fluid is coming through,
+water  is  coming  to  some  pipes  and  those  pipes  are,  maybe  somewhere,  some  horizontal,
+somewhere, vertical depending on the cases, from where it is coming etc etc. And, one more very
+good example is that when you look at, this is the real picture of the hostels, wherever it would
+be, that, some or other day, if you are fortunate enough, or rather, unfortunate enough, to come
+across with such situations, that you started taking bath, and suddenly, there was no flow in the
+wash room.
+It might have happened. It might have happened to, many of you, who are students. In our
+student’s life, in the hostel life, this is a common situation everywhere, right? And, then, when
+after shouting, and after doing this and that, some people went to the supply, and again supply
+came up, and when this supply is coming, then initially as the time passed, when it came, it was
+not coming fully, it was coming a little, sprinkle like thing, rest for little flow, and then stop, a
+little flow and stop, with the sound like “phish phish phish phish phish”, like that. This kind ofsound, they used to come, and then, we would come to know, yes, now, the water is again
+coming and after sometime the fully developed flow used to come.
+This situation is also applicable in many cases, right? Now, what we will look into is that, pipe
+flow, or flow of fluid through pipes, or, we call, flow through pipes, or pipe flow, or flow through
+circular tubes, right? Or, conduits, anything it can be. So, we have a circular conduit through
+which fluid is flowing like that, if it is a pipe, in this the liquid is flowing from one end to the
+other end, right? 
+(Refer Slide Time: 4:44)
+In this, certain assumptions we make. Those assumptions we have to follow and with these
+assumptions, we will do the shell momentum balance. Inside a pipe there is fluid. So, we will
+make a shell momentum balance, i.e., we will take a shell in the pipe and we will do the
+momentum balance in that shell and then integrate it over the entire region of the pipe, right? 
+Some conditions, which we are imposing are that, the fluid is incompressible, right? The fluid is
+incompressible, it can be Newtonian. So, if it is Newtonian, then all associated things will come
+afterwards.  Equations,  they  are  becoming  very  simple.  So,  it  is  Newtonian  equation  or,
+Newtonian fluid, rather, incompressible fluid, i.e., again incompressible fluid means, the fluid is
+having constant density, right? Flow is one dimensional, steady state as well as laminar.
+So, these conditions, we are imposing, in the beginning that, what is the situation? Flow is
+laminar, flow is steady, fluid is incompressible and the fluid is Newtonian. So, these things along
+with the flow are fully developed, right? 
+(Refer Slide Time: 6:25)As we said, the flow is fully developed, if you think that, here, a reservoir, here, right? Like this
+and with that, some pipe, there is say, a valve here, right? In this valve, you open, then, there will
+be some point, when, it will be like this, right? Till the flow becomes a continuous flow, as we
+give  the example  of this  hostel,  right?  So, that flow  is  fully developed, this  flow  is  fully
+developed, and there is no end effect, this is what we are saying, end effect means, in the pipe,
+with that whenever it is coming in, there will not be such this kind of mal-distribution of the
+flow, alright?
+This, in either side of the pipe, is not there. So, it is, no end effect is also there, this flow is fully
+developed, there is no end effect, and velocity profile does not vary along the flow of the fluid,
+right? This also, we are imposing. Velocity profile does not vary along the flow of the fluid,
+right? So, these conditions we impose, right? (Refer Slide Time: 8:24)
+Then, by doing a shell momentum balance, we can tell now, shell momentum balance means,
+here, we are taking that shell. This is the section of the pipe. We assume that, in this pipe, this
+pipe is in the r and x direction, right? If we assume, it to be horizontal pipe, so z direction is not
+there. 
+So, it is horizontal, so, in that case, z direction is not there. So, r is this, in the pipe radius, and x
+is the flow of the fluid in the direction of the flow, right? This, we are taking, and in that, we
+have taken a shell like this. This shell is having a thickness of delta x, right? It is having a length
+rather, of delta x and say thickness, of delta r, right? This shell, we have considered, this shell of
+delta r, we have considered, right? We will do the shell momentum balance. This is called shell
+momentum balance or control volume for shell momentum balance on a fluid flowing in a
+circular tube conduit in that we are dealing with.
+So, this we will do today, i.e., the flow through the pipe, right? We assumed it to be horizontal
+pipe, we assumed the flow to be fully developed, we assumed it is a steady state, we assumed
+that the fluid is incompressible and the fluid is also Newtonian, and also we assumed that there is
+no end effect in the flow and there is no velocity component or there is no velocity profile
+changing along the flow. The velocity profile is not changing along the flow of the fluid.
+These assumptions we have made in the beginning and we are doing axial momentum as we
+have shown in the diagram in the slide that we are taking a small elemental volume in that pipe
+section and this we will do the momentum balance on the shell and then integrate over the entire
+pipe, right? (Refer Slide Time: 11:18)
+So, to do that, now, let us do that, the given equation is, rate of momentum in minus rate of
+momentum  out  plus  sum  of  the  forces  acting  on  the  volume  element  is  equal  to  rate  of
+momentum accumulation, right? 
+Now, momentum can be transferred, as we said earlier also. It can be transferred by two ways:
+one by the bulk momentum, i.e., the bulk flow of the fluid when the fluid is fully flowing the
+bulk flow of the fluid is one way of transferring the momentum, and the other one is by the sheer
+force, i.e., though it is laminar by assumption, but the fluid, we can assume that the layers to be
+so close, so small that the molecules, they vibrate, and due to the vibration of the molecules,
+there will be the transfer of energy and that is we said earlier, by the molecular momentum
+transfer, this we said earlier.(Refer Slide Time: 13:14)
+So, in this case since it is a steady state, then we can say momentum in by the flow or convection
+is equal to momentum out by convection, right? So, momentum in and momentum out, both are
+same because, it is a steady state. So, by bulk flow, there is no momentum getting transferred,
+right? It is a steady flow. Then, the momentum in by molecular transfer, is Tau rx 2 into area 2 pi r
+delta x at the face, r, right? 2 pi r delta x is the area and at the face r. 
+Similarly, this  is  momentum  in  by  molecular  transport.  So,  momentum  out  by  molecular
+transport at the face r plus delta r is Tau rx, right, into 2 pi r delta x at the face r plus delta r, right? (Refer Slide Time: 15:16)
+Sum of the forces acting on the on the shell: we can say that, pressure force in is equal to p at the
+face x, that is equal to p into area 2 pi r delta r at the face x, and pressure force out that is equal to
+p at the face x plus delta x that is equal to p into 2 pi r delta r at the face x plus delta x, right? 
+So, if we know apply that the control equation, which we had started with, right? If, we apply
+that, now, we can say that Tau rx 2 pi r delta x at r minus Tau rx 2 pi r delta x at r plus delta r plus p
+2 pi r delta r at x minus p 2 pi r delta r at x plus delta x, right? This is equal to 0, or we can now
+divide with delta x and delta r, for all the cases. Then, this becomes and we can divide this 2 pi r
+delta r into delta x that is the volume, right? 2 pi r delta r to delta x, so, if we simplify, divide
+with this, then, we can write r Tau rx at r plus delta r minus r Tau rx at r over delta r. This is equal to
+r times p at x minus p at x plus delta x, right? Over delta x, right? 
+So, from the definition of the derivative, we can write, from this two, that, this can be written as
+del del r of r Taurx, right? This is equal to, since, this is px minus p at x plus delta x, from the
+definition of derivative, it is p at x minus p at x plus delta x, over delta x is the derivative. So it
+becomes one negative. So, minus del del x of p this into r is this side, right? So, we can write
+that, this is del del r into r Tau rx is equal to minus r into del p del x, right? 
+Now, del p del x is nothing but, minus del p del x into r is equal to, this is del p, delta p means,
+you have this pipe, this is p inlet this is p outlet, right? So, p inlet is higher than p outlet,
+otherwise, there will be no flow. So, p inlet is higher than p outlet, but from this definition it is p
+outlet minus p inlet by delta x, that is negative, right? So, from there, we can write, this is delta p
+over, if this, length is L, right? If the total length of the pipe is L delta p by L into r, right? So,why this negative have gone out? You, hopefully have understood that delta p is from inlet high
+to outlet low, right? By definition, of this derivative this is p outlet minus p inlet by del x, that
+becomes the derivative. 
+So, this negative has been taken care of by delta p where, this is nothing but is equal to p in
+minus p out over L into r, right? So, if this be true, then we can write del del r of r Tau rx is equal
+to delta p by L into r, right? So, on integration, we can write that, r Tau rx is equal to delta p which
+is constant, L which is constant, this r is r square by 2 plus C. So, we can write Tau rx is equal to
+delta p over L into r by 2 plus C by r, right? 
+So, this we can write, so, therefore, we can say that, Tau rx is delta p over L into r by 2 plus C by r.
+Now, if we put the boundary conditions, the boundary conditions are what? At r is equal to 0
+since Taurx is not equal to infinity at r is equal to 0, we can write C is equal to 0, at r is equal to 0,
+since, Taurx is not infinity, then if at r is equal to C, as to have some value, then Tau rx has to have
+infinite value. Since, it is not infinite, it is having a finite value.
+So, C is equal to 0, right? Then we can write Tau rx is equal to delta p by L into r by 2 or r delta p
+by 2 L as Taurx, right? So, this is in general, we will use these subsequently in many cases you
+will see that. We will tell that this when we are doing the either shell momentum balance or
+similar, we will tell that we will be starting from here, if there is no bulk flow, or effect of bulk
+flow is negligible, or, not negligible, it is not there, it is steady, by any chance and then we will
+start,  in  many  cases,  when  the  fluid  will  be  Newtonian.  You  will  also  come  across  non
+Newtonian, you will see that we will tell that we start from here that tau rx is equals to r delta p
+by 2 L or delta p into r by 2 L this we will start with, right? 
+You remember this that this is the starting point in many cases we will see, okay. (Refer Slide Time: 23:59)
+Now, since by definition Tau rx is nothing but is equal minus mu dv x dr so, on substitution we can
+write mu dvx dr is equal to minus delta p over L into r by 2, right? Or, dv x dr is equal to minus
+delta p over 2 mu L, right, into r, right? 
+So, on integration, we can write v x is equal to minus delta p 2 by 2 mu L, right, into r square by 2
+plus the integration constant C 1, right? So, if we write like this, then, we can also write that the
+boundary condition is: at r is equal to capital R, v x is equal to 0 that was this, right? So, this is the
+axis and this was r, right? This was delta L or, x axis, this is delta L, right? 
+So, at the wall, r is equal to capital R, v x is 0, that there is no velocity on the wall, right? The
+layer, which is clinging to the wall there is no velocity that we know. So, if this is true, we can
+write, in terms of mathematic, that r is equal to capital R, v x is equal to 0, therefore, we can write
+this equation at C1 is equal to vx is 0, so, C1 is equal to delta p by 2 mu L, right, into this 2, so that
+r is equal to r so r square by 2, right? So, that is equal to delta p r square by 4 mu L is C 1.
+So, therefore, we can write, v x this is nothing but delta p R square by 4 mu L, or this is 4 mu L,
+right? If we take that to be common then it becomes r square and first this R square will come,
+this is plus, so, capital R square minus small r square, right? If we substitute, here value of C 1,
+then, it becomes delta p R square by 4 mu L, R square minus r square, right? So, this we can re-
+write as vx is equal to delta p means p in minus pout, right, into R square. If we take this R square to
+be there by then this R square does not come, right? This, now if we take R square inside then this does not come, right? By 4 mu L, now, we can
+write, this 1 minus r by R whole square, right? So, if this is true then v x is pin minus pout R square
+by 4 mu L 1 minus r by R square, right? So, this is the velocity at any point x. 
+(Refer Slide Time: 29:10)
+Now, if we have the average velocity v average that can be written as 1 by area integration of v x into
+d area, right? 
+Now, this velocity, we can substitute, with the v x value. This is 1 by A into integration of this area
+is vx r dtheta d r. This is the elemental volume, right? r d theta into d r that is area and this varies
+between 0 to R, and this theta is varying between 0 to 2 pi, so that we can write and this area we
+can write 1 by pi r square to be the area, right? And we can say this is 2 pi r d r, rather v x, right?
+So, on substitution of the value of v x we can write 1 by pi R square, right? Integral of r into delta
+p by 4 mu L, right, into R square minus r square, right, into d r. This on simplification, we can
+write this is again between 0 to capital R. 
+So, 1 by pi capital R square and this on simplification can be written as 2 pi R, okay, this pi r 2 pi
+r that comes out, so, pi R square, so, that means, this pi R that goes out, right? So, we can then
+write as this is equal to p 0 minus pL by 8 mu L into R square, i.e., equal to p 0 minus pL by 32 mu
+L D square, right? So, v average then is equal to pin minus pout, right, over 32 mu L into D square. If it
+is 8 then R, if it is 32 then D.
+So, pin minus pout by 32 mu L is  vaverage, i.e., pin minus pout into D square by this. This is called
+Hagen Poiseuille equation, right? This is a famous equation which is equation for pipe flow. If
+you are asked then that under steady state if the flow is laminar for a Newtonian fluid, how canyou find out the pressure drop? So, you can say, you can use the Hagen Poiseuille equation and
+find out the delta p over that and with this equation that the v average is delta p into D square by 32
+mu L, that is the Hagen Poiseuille’s equation.
+Obviously, one more thing here we can find out, v max, right? vmax is equal to delta p that is p 0
+minus pL r square by 4 mu L this be true at r is equal to 0. So, from this equation which we had
+gone through that from this equation that this on integral relation in terms of r. If we put r is
+equal to 0, here, then, we can say delta p R square by 4 mu L is the v max. Therefore that can be
+said that vaverage is nothing but vmax by 2, right? Average velocity for a pipe flow is the maximum
+velocity by 2 or vmax by 2, when the fluid is incompressible fluid, under laminar steady, there is
+no end effect, there is no velocity profile along the flow of the fluid in the pipe and in that case,
+we can say that average velocity is half of the maximum velocity, right? So, here we stop today,
+and thank you. 
+ 
+ 

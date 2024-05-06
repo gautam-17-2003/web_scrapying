@@ -1,0 +1,118 @@
+Momentum Transfer in Process Engineering  
+Professor Tridib Kumar Goswami  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Module 11  
+Lecture No 53  
+Fluidized bed flow  
+So, we have seen that what is the minimum fluidised velocity , or the condition , at which the 
+particles start moving corresponding to that velocity , which is the minimum fluidisation 
+velocity and the height is the minimum fluidisation velocity condition height  and velocity is 
+already said and of course before the fluidisation starts, the packing was compact, now when 
+the fluidisation has started packing will be little if it was closed pack, now it will be little 
+loose packed and that that void corresponding to that is called minimum fluidisation void, 
+void under minimum fluidisation condition. So , let us now find out what is the height, what is 
+the velocity all this let us now find out okay.  
+(Refer Slide Time:  1:49)  
+ 
+So, let us see that what it is, it is that w e can determine this length and height of this. Now , I 
+will say that before onset of fluidisation if the porosity is epsilon, velocity is v prime and the 
+length is length , or height whatever we call, this corresponding to the this , we said and here 
+we had , particles were like this , so, this was the height or L , whatever we call. Normally , in 
+most of the books it is said L, can also use nomenclature as H , it does not matter as long as 
+defined. Length or height , that L and epsilon v prime and pressure drop Delta P, so , this is 
+before onset of fluidisation.  
+Now , the cross -sectional area of this is CSA is equal to A and which is uniform. And we can 
+say the volume of the bed we can say that volume of the bed that is equal to L into A in to 1 – 
+epsilon . If epsilon is void , the remaining solid is 1 – epsilon , so, area is uniform , so, A, L is 
+the height , so, volume is that L A into 1 – epsilon. Now , this under minimum fluidised 
+condition , this under minimum fluidised condition , if we say , corresponding to epsilon , it is 
+epsilon mf, velocity is v mf prime, length is L mf, area remains same area of the particle. In 
+that case , we can say that the volume of the bed under minimum fluidised condition, this can 
+be said equal to L mf into A into 1 – epsilon mf.  
+Now , if we assume that there is no porosity, so , here we have , that container and the particles 
+are like that , it is highly compact, no porosity , epsilon is 0 , then it becomes the full solid 
+particle. In that case , we can say , the volume of the particle , then you can say that volume of 
+the particle having no porosity , that should be equal to L into A, A is the cross -sectional area 
+and L is the bed height . So that is the volume of the particles which is containing in that 
+contai ner. So , then we can say that this L into A , volume of the particle , that must be equal to 
+L mf times A times 1 – epsilon mf , because , same particle is there, this is the height under 
+fluidised condition, particle sectional area remains same.  
+Epsilon mf go t changed, earlier here it was 0 and now it is new epsilon mf, so , the particles 
+remaining , is 1 – epsilon mf into A into L mf, that is equal to L A. Therefore, we can write L 
+mf that must be equal to L times A over A times 1 – epsilon mf.  So, this we can  say is 
+nothing but L over 1 – epsilon mf. So , we can easily say then that L 1 A 1 – epsilon 1 must be 
+equal to L 2 A 1 – epsilon 2 etc, etc, dot, dot, dot. That means , we can say that L 1 over L 2 = 1 – 
+epsilon 2 by 1 – epsilon 1. Same is true here , i.e., Lmf over L = 1 over 1 – epsilon mf, here it was 
+no epsilon , no void , so, there is 1 by this.  
+So, this we can say , what is the minimum height , when we have got minimum fluidisation or 
+we have got fluidisation that height corresponding to the bed height is the minimum fluidised 
+bed height, or height of the bed under minimum fluidisation condition , height of the bed 
+under minimum fluidisation cond ition, i.e., Lmf. So L mf, we can find out , if we know the L , 
+i.e., original height of the particles , when there is no void , and in that condition , we have seen 
+that the relation between the void , as on the fluidised condition , and the initial length or 
+height of the bed , i.e., written as L mf, Lmf over L = 1 over 1 – epsilon mf, where epsilon mf is the 
+void under minimum fluidised condition. So , what we can write is that L mf is L over 1 – 
+epsilon mf, say, we note it to be equation ( 1). Next , comes this is the length of the bed under minimum fluidised condition . So, we can 
+write , length of the bed under minimum fluidised condition , Lmf. So, next comes what is the 
+pressure under fluidised condition . So, pressure drop under minimum fluidised con dition , 
+what is that. Now , in that case , we have to do the force obtained from the pressure drop times 
+sectional area must be equal to the gravitational force as we have said , exerted by the mass of 
+the particles that – the Buoyancy force of the displaced fluid.  
+So, if we say that , if we do the force balance , by doing force balance , we can write that the 
+pressure drop times sectional area , it is a cross -sectional area okay, let us also write cross -
+sectional area, this must be equals to the , gravitational force exerted by the mass of the 
+particles. And we can also say this – the Buoyancy force of the displaced fluid.  
+(Refer Slide Time:  15:49)   
+ 
+So, this if we write mathematically , we can write Delta P A , that is equal to L mf A into 1 – 
+epsilonmf times Rho P – Rho into g, where , Rho P = density of the particle , and Rho = density 
+of the gas or fluid. So , we got that Delta P A = L mf A into 1 – epsilon mf into Rho P – Rho into 
+g, this is equal to , we can write that Delta P over L mf, this is equal to 1 – epsilon mf by or 1 – 
+epsilon mf into Rho P – Rho this into g . Delta P by L mf is, A, A goes out , uniform cross -
+sectional area, so , Delta P by L mf = 1 – epsilon mf into Rho P – Rho into g . So, this we say , to 
+be equation (2). 
+  
+(Refer Slide Time:  16:49)  
+ 
+Now , we can write , Ergun’s equation as Delta P by L , that is equal to 150 Mu v prime over 
+Phi s square D p square into 1 – epsilon whole square over epsilon cube + 1.75 , Rho v  prime 
+square over Phi s Dp into 1 – epsilon over epsilon cube , this is the Ergun’s  equation. So , if this 
+is the Ergun’s equation , so, at minimum fluidisation condition , we can say that this Ergun’s 
+equation we can rewrite as Delta P mf also at minimum fluidised condition over L mf, this is 
+equal to 150 Mu v prime mf divided by Phi s square  into D p square , because particle size will 
+not change , because , we said uniform cross -sectional area , into 1 – epsilon mf whole square by 
+epsilon mf cube.  
+So, this we can rearrange as , 1 – epsilon mf times Rho P – Rho into g , this must be equal to 150 
+Rho, sorry, v mf prime over Phi s square into D p square whole into 1 – epsilon mf square over 
+epsilon mf cube , just rewriting that, this + 1.75 , Rho v mf prime over Phi s Dp into 1 – epsilon mf 
+over epsilon mf cube, so , 1.75 into Rho v  mf prime by Phi s Dp into 1 – epsilon mf over epsilon mf 
+cube, so this is the Ergun’s equation as required by you, in this case we have said that , so, 1 – 
+epsilon mf Rho P – Rho into g , this is that Ergun’s equation okay fine.  
+  
+(Refer Slide Time:  24:14)   
+ 
+So, if this is true , then we can also write Rho P – Rho into g , this is equal to 150 Mu v mf 
+prime over Phi s square D p square into 1 – epsilon mf over Epsilon mf cube + 1.75 into Rho v mf 
+prime square by Phi s Dp into 1 by epsilon mf cube times Dp cube Rho by Mu square , so, this i s 
+what was D p Rho by Mu square D p cube Rho by , not epsilon mf, okay , this is true but D p cube  
+Rho P – Rho into g = 150 Rho v prime mf by Phi s square D p square 1 – epsilon mf by epsilon mf 
+cube + 1.75 Rho v  mf prime square by Phi s Dp multiplied by 1 by epsilon mf cube multiplied 
+by 1 by epsilon mf cube , so this is no more required.  
+So, now, we can rewrite , our D p cube multiplied all along Mu square Rho P – Rho into g this 
+is equal  to 150 Mu v  mf prime divided by Phi s square D p square into 1 – epsilon mf 150 Mu v 
+mf prime Phi s square D p square 1 – epsilon mf by epsilon mf cube, we multiply both the sides 
+with this , Dp cube Rho by Mu square + 1.75 Rho v mf prime square divided by Phi s Dp + 1 by 
+epsilon mf cube into D p Rho by Mu square.  
+If this is the Ergun’s  rearranged condition, we can further rewrite that D p cube Rho by Mu 
+square into Rho P – Rho into g , this is equal to 150 by Phi s cube into 1 – epsilon mf whole 
+square by epsilon mf cube into Phi s Dp v mf prime into Rho, this divided by Phi s cube is there, 
+so, Mu 1 – epsilon mf this + 1.75 over Phi s cube into 1 – epsilon mf square over epsilon mf cube 
+into Phi s Dp v prime mf, so , Phi s Dp v prime mf into Rho divided by Mu into 1 – epsilon mf. 
+So, this on rearrangement we can write 1.75 by Phi s square into 1 – epsilon mf square over 
+epsilon mf cube N Re square + 150 by Phi s cube into 1 – epsilon mf square divided by epsilon mf 
+this 150 by Phi s cube 1 – epsilon mf by epsilon mf cube N Re. 
+This, – Dp cube Rho by Mu square into Rho P – Rho into g , this is equal to 0. So , we have 
+found out that the relation using Ergun’s equation with N Re is a quadratic equation , NRe 
+square N Re, so, we can use Sridhar Acharya’s rule as  - B ± √(B2 – 4 A C ) / 2A,  that finding 
+out root, fluidise solution and get the correct value okay thank you. 

@@ -1,0 +1,191 @@
+Course on Momentum Transfer in Process Engineering
+Prof. Tridib Kumar Goswami 
+Department of Agricultural & Food Engineering IIT Kharagpur 
+Mod 01 Lecture 05
+Equation of motion Part-1
+ 
+Okay, so, we have done  equation  of continuity in  the three co-ordinates, Cartesian co-
+ordinate, cylindrical co-ordinate and spherical co-ordinate. Of course, out of these three we
+have derived 2, i.e., Cartesian and cylindrical, and spherical co-ordinate, we had shown you
+that what is the final form of the equation of continuity, and we also said that these relations,
+so, right from that partial derivative, time, total derivative, substantial time derivative. These
+will be very much useful whenever also progressing towards the development of the equation
+of motion.
+So, when, you are deriving those equations, will be very much required, and of course, even
+in more complicated. Now, in earlier case, what we have done in the equation of continuity,
+we had done the mass balance, but here when you are doing the equation of motion you have
+to do the momentum balance and this momentum can be transferred in, not only by one way,
+but by two ways. This momentum can be transferred, right. How? One is due to the bulk
+flow, right, for example, if this is, say 1 fluid, of course, this is solid, but assume, it to be, if it
+is coming, so, this bulk is converting or transporting this momentum to another if this is
+another. But, this is one, and another way is, say, these are the 2 or if we assume that this
+fluid to be of this kind of multilayer, right. 
+So, one layer like this can transfer to its neighboring layer and that can transfer to its
+neighboring layer. So, like that this momentum can be transferred from one layer to the other.
+If you exactly, the way, if we have seen that playing cards. Playing cards, if you keep that
+bunch of playing card, and if you just given one push at the button layer of that card, then,
+what happens, it is note that you have to give very high, I mean force to be very high. Just
+give a small force and then see that the top one has come out, bottom and one has come in
+and there is distribution of the velocity or that cards that coming like a, like angular one,
+right.
+In an angle, that those cards are making an angle with the base, right. So, this is how there,
+this cards, we can assume to be each card to be one layer and they are passing one layer to the
+other layer the force, which you have given a, say, horizontal force, and that force is also
+translated to the vertical one that is why the top one, as remain there, whereas, bottom one
+has gone a little away and they have made one like this. 
+(Refer Slide Time: 4:11)                             
+So, if we take this, so these are the cards, right and you have given a force at this place then,
+what we will see? This card, which we have given a force, has gone a little away whereas itsadjacent is like this. Sorry, it should have been like that, okay, and this adjacent is like that,
+this adjacent is like that, this adjacent remain like that, right. So, there is distribution, there is
+this kind of change, you can see there now. So, that, if, you see in reality, in the in the liquid
+also, in the fluid also, the same thing happens, if you consider the fluid to be of multilayer
+and when the force is given, this is happening to that. So, how they are changing? How they
+are transporting the energy? This energy, we said that it was through the bulk, that this is a
+flow of the fluid by the bulk flow, so, that is being transported and another, when you are
+doing this, that shear, the one layer to the other layer, that is by, you called, shear. 
+So, that force is called shear force so that shear force is acting on the layer and thereby as it is
+like this, so adjacent to this, it is being pulled. This, it is being pulled by that, that is being
+pulled by that, that is being pulled by that. Whether, the top one remain, may be there, or a
+slight moment. So, it is there, is definite way of deflection, you can see in all the cards.
+So,  similarly, the  layers,  scientific  way, what  we  say  that,  we  know  that  in  the  fluid,
+particularly, gaseous, right, in the fluid, particularly, say gaseous, so right. There what we are
+showing that, okay. So, what is in that, what we have seen that, when you are looking at these
+layers, you have read kinetic theory of gases, right? There, you have seen that gas molecules
+can, in the kinetic theory, can move in all directions, right. Of course, they can collide also,
+but, they can also move in all directions, and thereby, they are imparting the energy from one
+to the other. May the kinetic theory of liquids is established. So many people have given
+many theories on that, but, they, till now, there is no such kinetic theory in fluids or liquids,
+right.
+So, gases also a fluid, but, okay, in liquid, there is no such kinetic theory, but more or less, we
+assume that this may be applicable for the derivation, which you will get, will not give, so
+much that a prediction will be absolutely different. So, in that case, these molecules, you
+imagine  that  one  layer  molecule  and  next  layer  molecules.  So,  this  molecules  are  by
+vibration, they are exchanging the energy one to the other, right. 
+So, this energy is being exchanged, whichever is having more is giving to the less one.  That
+energy is exchanged and thereby this kind of vibration, we call it to be the shear, ultimately,
+one is dragging, pulling down the other, and that is causing the drag force, or, we are calling
+it to be shear force. So, this shear force is also acting on that. These two types of transport
+mechanism is there. When, you are considering the momentum equation, or equation for
+motion, on the basis of the momentum transfer, right.
+(Refer Slide Time: 9:24) So, here, simply, we take the simple one, i.e., the Cartesian co-ordinate. So, you take one
+volume element. So, take one volume element, right, and as earlier we have said it to be del
+x, del y and del z, right. So, if that to be there then we said that the momentum will be
+transferred by the bulk flow and another by the molecular transport, right. So, this molecular
+transport, if we consider that to be say, this is normally represented as shear force (Tau), this
+symbol Tau is used, and unfortunately, may be in our slides that tau might not have come
+properly, it might be in place of Tau τ. So, but, it is exactly the Tau. So, Tau xx at the face x and
+this is Tauxx at the face x plus delta x, right.
+Similarly, one can be, like this, and like that right. So, which we can write to be Tau at the
+face zx at z and Tau here, it is zx right at the face z plus delta z, right, whereas the third one is
+perpendicular to this. So, there we can write to be like this and one like that, okay. Then that
+can be said to be Tau yx at the face y and Tau yx at the face y plus delta y, right. So, other than,
+this is our xyz. This is z, this is x and this is y. So, other than xyz sorry, (other than the
+molecular), other than the bulk transport, which we have shown that other than the bulk
+transport, this additional one is the molecular transport which has to be also taken care of,
+right.
+(Refer Slide Time: 12:57) So, when we are doing it then we do the general equation for motion is like that, momentum
+balance as we have said in the beginning that momentum balance is done So, in that case we
+can say that the rate of momentum in minus rate of momentum out plus sum of all the forces
+acting  on  this  volume  element,  right.  This  must  be  equal  to  the  rate  of  momentum
+accumulation, right. So, this is the basic general equation for the momentum transfer that is
+based on the momentum, the rate of momentum in minus rate of momentum out plus all the
+forces acting on the volume element must be equal to the rate of momentum accumulation,
+right.
+So, this based on this, the entire development of the equation of motion is based on. So, here,
+we can write that by convection, what is coming and going out by convection or we can also
+say by bulk flow. The work we have coming across is that rate of x component of momentum
+on face x and x plus delta x, right. So, what is x, so this was the face x, this was the face xplus delta x, right and this was the face y and the other one was this, y plus delta y and this
+was the face z and the other one is the z plus delta z, right.
+So, if we look at that by convection, now, there are three, right x component momentum
+acting  on  the  x,  x  component  of  the  momentum  acting  on  the  y, x  component  of  the
+momentum acting on the z. All these three are to be considered, right. Similarly, for the other.
+So, x component, now, first let us then look into that x component of the momentum that
+means momentum derived from the velocity the v which is acting on the x direction as v x. 
+So, momentum arising out of that in the acting on the x direction is that is the x component of
+the momentum acting on the x. This we will be first finding out and then we will go to x
+component of the momentum acting on the y and z, right. So, then what we can write that x
+component of the momentum or rate of x component of momentum, so, which is acting on
+the face x and x plus delta x, right. So, they are Rho v x times vx at the face x times its area del
+y del z. This is for face x and the other one, Rho v x right into vx at x plus delta x into del y del
+of z, right. 
+So, similarly, we can also write that x component of the momentum, right, acting on the face
+y and y plus delta y. This can be written as Rho v y due to the x component v x at the face y this
+times the area, what is area, del x del z. This is for the face y. similarly for the face y plus
+delta y it will be, Rho v y vx at the face y plus delta y into the area del x del z sorry, del x del z,
+right. So, similarly, the x component of the momentum acting on the z direction is, so, z and z
+plus delta z that can be written as Rho v z right into the x component that is v x at the face z
+into area del x del y and similarly Rho v z due to x component v x at the face z plus delta z into
+area del x del y, right.
+So, these are then all three x component momentums acting in the all three, right, what we
+have given. So, fluid was flowing, right fluid was flowing. So, if the moment it has velocity
+v, it will have three components, one acting in the x direction, one acting in the y direction
+and another acting in the z direction. So, all these three directions we have taken care of due
+to the velocity component v x, or, the vx component that. How much momentum is being
+transported to all three directions, i.e., x, y and z, that we have taken care of, right. So, both at
+the inlet and also at the outlet, right.(Refer Slide Time: 20:45) 
+So, then we can say that this was by the bulk flow. So, by molecular transport, this molecular
+transport again for understanding, I am repeating that molecular transport means that one, we
+assume that in the face, this is one plane or we also showed that this is one plane, right and
+that is another plane. So these two layers, when they are there, so, if, we assume that this to
+be one molecule and if we assume that this to be another molecule, these two molecules,
+because of these vibration of the molecule within that plane. It is noted that they are going
+like kinetic theory of gases. What we have seen that it is going up till it is colliding, right and
+to the boundary. It is not like that it is on that plane not going the molecules and not going
+away, but it is just like vibration. It is oscillating, right. In that case, this molecule, one
+molecule is imparting energy to the other molecule; obviously the one which is having more
+will give to the lower one, right.
+So, but, this is happening for the flow of the fluid. Now, we are considering in the x direction,
+right. So, that if we look at by molecular transport, if we see similar way that how it is being
+rate of momentum transferred, how we write it that rate of x component of momentum on the
+face x and delta x we can write that x component of momentum acting on the face x and x
+plus delta x, right. So, this is by molecular transport. We can write to be equal to Tau xx at the
+face x into its area del y del z, this was for the x face and for the x plus delta x, we can write
+Tauxx at  the  face x plus  delta  x into  del  y del z, right. Similarly, x component  of the
+momentum acting on the face y and y plus delta y that should be equal to Tau yx at y into the
+area del x del z and Tau yx at the face y plus delta y into area del x del z.
+Similarly, we can write x component of the momentum acting on the z and z plus delta z
+direction is Tauzx at z into the area del x del y and for the other face Tau zx at z plus delta z intodel y del x, right. So, if we see this, we have taken all, both for the molecular transport as
+well for the bulk transport. The total components for the bulk transport, the total components
+of the x component, or, rather total molecular transport, total momentum transport for the x
+component of the momentum in all the three directions say x, y and z, right. 
+So, velocity component v x that is imparting the momentum and this momentum is in acting
+on all three directions and in two ways, one by the bulk transport, and another by the
+molecular transport. So, all these 6, right, three for the bulk flow and three for the molecular
+transport  that  we  have  seen  how  they  are  acting  for  one  component  that  is  velocity
+component vx, right.
+Refer Slide Time: 25:58) 
+We can then say that sum of the convective and molecular terms if we write they will be rho
+vx into vx at x minus rho vx at into vx at x plus delta x into the area del y del z plus Rho v y into
+vx at y minus Rho vy into vx at y plus delta y times the area that is del x del z, right plus Rho
+vz into vx at z minus Rho vz into vx at z plus delta z, this, right, plus when this times the area,
+area is del y del x, right del y del x and this is for the all three terms of the bulk transport, and
+for molecular transport, we can write that Tau xx at the base face x minus Tau xx at the face x
+plus delta x times the area that is del y del z plus Tau yx at the face y minus Tau yx at the face y
+plus del y times the area that is del x del z plus Tau zx at the face z minus Tau zx at the face z
+plus delta z into del x del y. So, these are all the forces acting, not all the forces, rather this is
+for bulk and molecular transport, right, bulk flow and molecular transport.
+So, this is said the Tau zx is that is x component of the molecular transport acting on the z
+direction right, x component of the molecular transport acting on the z direction, Tau zx, x
+component of the molecular transport acting on the x direction, Tau xx, x component of the
+molecular transport acting on the y direction, Tau yx, this is how? This is interpreted, this we
+have to keep in mind subsequently when we will derive, and find out that this Tau can also be
+expressed in terms of viscosity, right from the basic definition of viscosity.
+ (Refer Slide Time: 29:35)
+Then, we also, we will see that there the velocity component and the direction both are acting
+together. So, here, as we said at Tau yx, Tauzx, Tauxx, these are x component of the molecular
+transport acting on the respective directions of x, y and z, right. So, other terms could be
+pressure force that can be written as p at the face x minus P at the face x plus delta x into the
+area that is del y by del z. Then this is all for x component and gravity forces acting, which is
+Rho times gx times del x del y del z, right. Rho is kg per meter cube, this is a meter cube. So,
+that is why this is coming, and accumulation, we can write accumulation of the x component
+of the momentum, that we can write del del t of Rho v x, right, del del t of Rho v x into the
+volume element del x del y del z, right. So, we have done in this class till now, that how the
+molecular  transport  and  how  the  bulk  transport  we  can  formulate  it,  in  terms  of  the
+components  of  the,  rather, velocity  components  individually  acting  on  the  different  co-
+ordinates that is x, y and z. Of carouse, you have taken Cartesian co-ordinates right. 
+So, as we said that this will take long time this is not small one and that is why you have
+taken the easiest one, or, the one which you can handle easily in the class, i.e., Cartesian co-
+ordinate and we have done up to that accumulation of x component momentum, right. So,
+next we will sum it up, sum means we will go for the other two that is y and z component and
+then look into the total and finish the entire thing as the equation of motion, known as we
+said, Navier-Stokes equation, right. Thank you.    

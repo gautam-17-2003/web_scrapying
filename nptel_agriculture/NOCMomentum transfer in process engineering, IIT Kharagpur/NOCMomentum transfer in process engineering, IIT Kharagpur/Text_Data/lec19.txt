@@ -1,0 +1,146 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 19
+Module 4
+Flow of film or film flow
+Yeah, so, in continuity to the last class or previous class, where, we were discussing about the
+shell momentum balance of the of the film flowing over an inclined surface and this application
+also we had said, say, like concentration of say, food material in from low concentration to high
+concentration, over the heating surface, and this heating surface, also we said, can be totally
+vertical, or also can be horizontal, but we have started, we have taken, an angle of beta, right?
+With the reason that what is the angle beta, and then, we have developed the basic, we assumed
+something and then, on those assumptions, we have developed the equations for momentum in
+and momentum out, both by convective transfer as well as the molecular transport mode, right? 
+So, let us start then from there, and then, since, we also said, it is the steady state so, the
+convective momentum that comes out because it is a steady state, so at the surface, we both the
+in and out will become same, and in that cas,e that cancels out, so only the molecular transport
+will remain. 
+(Refer Slide Time: 2:06) 
+So, let us look into that, so, then, it becomes L w, from the previous equation, L w Tau xz at the
+face x, minus L w Tau xz at the face x plus delta x plus rho g x cos beta into del x L w, this is equal
+to 0, that becomes by putting the individual into the governing equation, right? That governing equation, we said, the rate of momentum in minus rate of momentum out plus
+sum of the forces acting is equal to rate of momentum accumulation, right? So, we have taken
+that steady state, so accumulation is not there, and also we have stated that steady state, so,
+momentum in by convection, momentum out by convection becomes identical, and so, that also
+goes out. So, now, if we divide, dividing with delta x L w, both the sides, right? And we make
+that Tauxz at x plus delta x minus Tau xz at x over delta x. This is equal to rho g x, because, this
+minus this divided by delta x will make it a differential, so, that is why, there is a negative sign
+and this negative sign on this side will make that both thing on the other side.
+So, this negative will go to that, this remains, so, this rho g x becomes positive and this is also
+positive. Now, if we put limit delta x tends to 0, from the definition of the derivative, we can tell
+that Tauxz del del x of Tauxz is equal to rho gx, right, into Cos beta, right? rho del del x of Tau xz is
+equal to rho gx Cos beta, right, So, on integrating this, we can say that Tau xz that becomes equal
+to rho gx Cos beta into x plus C 1, right, rho gx into Cos beta into x plus C 1, integration constant.
+Now, to find out the integration constant, we can now say, at boundary condition, at x is equal to
+0 Tauxz is equal to 0, so that C 1 becomes equals to 0; at x equals to 0, tau xz is 0. Now, you
+remember, we had taken this to horizontal solid board, or solid material, on which, the film was
+there, we have taken the volume element like that, and we said this was the surface, this was the
+liquid, which was on the solid surface, and this was the open surface which was the liquid gas
+interface, right? 
+This was the liquid solid interface, this was liquid gas interface, and we took our coordinate to be
+here, that, this is x, this is y, and this is z, whatever, right? So, we are concerned with this, then,
+Tauxz is like that. So, we can write that at x equals to 0, so here that Tau xz equals to 0, and that is
+why it is C1 equals to 0, right? So, we can write then Tau xz equals to rho gx into x Cos beta, right?
+Or, similarly, Tauxz equals to minus mu del v z del x equals to rho g x x Cos beta, right? Or, we can
+write, this term Tou xz is del  del x of vz, so, we can say that del del x of v z, so we can say that del
+vz del x equals to minus rho g x x Cos beta by mu, right? 
+So, this on integration, we can write v z is equal to minus rho g x Cos beta into x square by 2 mu
+plus C2, right? 
+(Refer Slide Time: 8:23) So, if that be true, then we can say that by putting the boundary conditions, that at x is equal to
+delta, right, vz is equal to 0, right? 
+(Refer Slide Time: 8:45) 
+Now at x is equal to delta means, if you remember, we had said that the thickness of this film is
+delta. So, we started from here this is the coordinate point, so at x is equal to delta this is the
+open liquid gas interface, right? So, at x is equal to delta, v z is equal to 0, why? 
+(Refer Slide Time: 9:22) That was liquid solid interface, and this was liquid gas interface, this is liquid solid interface, so,
+our point was liquid gas interface. It is the 0th, so, delta is this, so, delta means we have liquid
+solid interface. So, at the liquid solid interface, solid liquid is clinging to the surface so v z
+becomes equal to 0. So, if that be true, we can write C 2 is equal to rho gx delta square Cos beta
+over 2 mu, right? Or, v z is equal to rho gx Cos beta into delta square minus x square by 2 mu
+right? Or, vz we can write, is equal to rho g x into x into rho gx into delta square into x Cos beta by
+2 mu into 1 minus x by delta whole square, right? 
+Now, vmax or v equals to vmax, that can be, when x is equal to 0, right? When x is equal to 0 for
+understanding, this was the open surface, this was a solid surface, we started our x this way so
+this is 0, x is equal to 0, this is another, this is third direction, so, in that case that x is equal to 0
+means this is the open, that is the gas liquid interface. So, v becomes v max at x is equal to 0,
+therefore, vmax can be written as rho g x delta square Cos beta by 2 mu. This is the maximum
+velocity.
+So, average velocity or v average, this can be written as, again we write that between 0 to w between
+0 to delta, right? vz dx dy over integral of 0 to w, 0 to delta dx dy, right? This means this is equal
+to 1 by delta, right? 0 to delta, 0 to delta v z dx, right? 
+(Refer Slide Time: 12:47) vz, already we have found out, and this can be written as equal to rho g x delta square Cos beta by
+2 mu into 0 to 1, 1 minus x by delta whole square d of x by delta, right? So, that is equal to rho g x
+delta square Cos beta by 3 mu.
+So, average velocity is rho g x delta square into Cos beta by 3 mu, right? So, this is v average. So, vmax
+we have seen, vaverage we have seen. Now, volumetric flow rate, so, volumetric flow rate or Q, this
+can be written as 0 to w 0 to delta v z into area dx dy, this is equal to w delta v z average, that is
+equal to rho w gx rather, delta w delta square Cos beta over 3 mu, right? This is the volumetric
+flow rate, i.e., either w delta v z average, or rho gx w delta cube Cos beta by 3 mu, right? 
+So, vaverage was rho gx delta square Cos beta by 3 mu, volumetric flow rate is rho g x w delta cube
+Cos beta by 3 mu, then the film thickness delta, this can be found out from the volumetric flow
+rate or average velocity, whatever, the way we want. So, this can be written as cube root of 3 mu
+vz average over rho g x Cos beta, right? 
+So, under cube root of 3 mu Q, is the volumetric flow rate by rho g x w Cos beta, right? This also
+can be written, in terms of cube root of 3 mu m dot over rho square g x Cos beta, right? So, this is
+the film thickness, right? 
+(Refer Slide Time: 17:10) Then, we also look into what is the force that is, z component of the force F of the fluid on the
+surface, or it can be written as F z is equal to 0 to L, 0 to w Tau xz at x is equal to delta dy dz. This
+is 0 to L, 0 to w minus mu dv z dx at x is equal to delta dy dz. This can be written is equal to L w
+into minus mu into minus rho g x Cos beta into delta over mu, so, this on simplification can be
+written, rho gx delta L w Cos beta, right? This is known as the z component of the weight of the
+entire fluid in the film, right? So, this is the z component of the entire film, right? So, some more
+things which we need to know are like this Reynolds number.
+So, Reynolds number for the film flow, we can write, N Re film that is equal to 4 delta v average into
+rho by mu; 4 delta v average rho by mu, right? Instead of D v average rho by mu, that is for the pipe
+flow; D vaverage rho by mu, here we can say it is 4 delta v average rho by mu, that is the film Reynolds
+number. Now, for films Reynolds number there is one good thing that, unlike the pipe flow
+Reynolds number, where it was 2100, and 2100 and 10 to the power 4, that is, at 2100 and 4000
+above.
+So, this can be very smaller in terms of film because, for film, you have different thing, which is
+having low Reynolds number for both laminar and the turbulent. 
+(Refer Slide Time: 20:58)For  laminar  flow  without  rippling,  now, for  this,  rippling  means,  what  we  understand  by
+rippling? I give you a simple example that, during your childhood, you must have played with
+this, that you stayed on the bank of may be a river or a pound or whatever, right? 
+So, say, on the bank of a pound, on the side of the pound, you threw a stone, right? Inside the
+pond, there was water, right? After that, there was a wave kind of thing which was generated,
+right? This kind of situation is known as the rippling, right? There is no turbulence, we have
+thrown a simple stone, and the stone created a wavy pattern in the fluid, and this is you known as
+rippling and this is very useful, when it is used in the falling film or similar to that.
+So, this you have to keep in mind that rippling, without rippling, and with rippling, means there
+is a wavy form in the flow and then that can be said as to be equal to the rippling. (Refer Slide Time: 22:51) 
+So, laminar flow without rippling in that case, Reynolds number becomes less than 4 to 25. So,
+laminar flow without rippling is Reynolds number without rippling is less than between 4 to 25.
+Then, laminar flow with rippling, that can be, between 4 to 25 less tan Reynolds number less
+than 1000 to 2000. It is quite big number 1000 to 2000, and turbulent flow can be between or
+greater than 1000 to 2000, right? 
+So,  you  see  that  film  Reynolds  number,  film  Reynolds  number,  your  definition,  or  your
+expression is different than that of the flow through pipe, right? So, subsequently, you will also
+see this is also different, when it is flowing through a very small orifice, right? The one which we
+had shown as the two plates, similar to that, if you have a small hole, a small opening through
+that when it is being flown then it is called that flow through the slit, right? 
+And there you will see that this is not so easy, this is not, what I say, not so easy means, this is
+difficult, different than that of the falling film, and the flow through the pipe. So, Reynolds
+number expressions are quite different, for three types of this kind of flow, one is for the pipe
+flow, and another is for the film flow, and third is for the flow though the slit. Of course, flow
+through the slit, we have not done, but Reynolds number through the pipe flow we have done
+that is D v rho by mu, right? 
+Whereas, the Reynolds number through this film, we have shown that to be equal to 4 delta
+vaverage rho by mu, right? 
+(Refer Slide Time: 25:47)4 delta vaverage rho by mu, and the values are also quite different, and our nature is also different.
+In this case, we have seen that, it has rippling, and we have also said the meaning of the rippling
+is the similar one which you have experienced during your childhood, throwing a stone on to the
+pound that created a wave, this kind of wave formation is known as the ripple formation, right? (Refer Slide Time: 26:31)
+So, rippling, like this, right? So this is like that, and when it is like this, then we call it to be
+rippling, so without rippling between 4 to 25, with rippling it is between 4 to 25 and 1000 to
+2000, and if it is with rippling other than turbulent flow then it is between 4 to 25 and 1000 to
+2000. So, film flow, that is also very important, in terms of processing, in terms of heat transfer,
+in terms of fluid flow, because this is really a commercial aspect, which it has wide application.
+So, falling film, we have to also develop very accurately, or these expressions, you have to
+develop and here we have assumed that this fluid was clinging to the surface and the free flow or
+rather free end that was the interface between the gas and liquid or gas and fluid, that was also
+where the Tau was 0 and we found out the expressions for them, right? So, keep in mind and do
+this practice with derivation of the film flow, thank you. 
+ 
+ 

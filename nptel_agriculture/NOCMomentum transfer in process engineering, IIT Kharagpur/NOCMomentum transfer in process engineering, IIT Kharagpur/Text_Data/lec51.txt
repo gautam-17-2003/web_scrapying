@@ -1,0 +1,123 @@
+Momentum Transfer in Process Engineering  
+Professor Tridib Kumar Goswami  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Module 11  
+Lecture No 51  
+Solving Problems on Ergun's Equation (Contd)  
+In the previous class we have solved one problem on packed bed, using Ergun’s equation. 
+What did we do? We assumed value of Delta p and from the Ergun’s equation we because 
+from that Delta p we found out the exact pressure and from that average here densit y between 
+the inlet and outlet, so , that average density we utilised and we got the assumed and actually 
+calculated values by closed. And we said that if possible future we will also try to do similar 
+problems or if we come across another problem then we c an practice and utilise the Ergun’s 
+equation more meaningfully. So , let us do another problem, this is like this.  
+(Refer Slide Time:  1:32)  
+ 
+Air at 390 Kelvin flows through a packed bed of cylinders having a diameter of 0.0127 meter 
+and length the same as diameter; this means the cylinder can be treated as a sphere. The bed 
+void fraction is 0.45 and the length of the packed bed is 4 meters. The air enters the bed at 2.5 
+atmospheres absolute at the rate of 3 kg per meter square second, so mass flux is set ba sed on 
+the empty cross -section of the bed. Calculate the pressure drop of air in the bed given 
+molecular weight is 29 and Mu 1.5 10 to the power minus  5 Pascal  seconds. So , I repeat, this 
+is like that air at 390 Kelvin flows through a packed bed of cylinde rs having a diameter of 
+0.0127 meters and length the same as diameter that this means that the cylinder can be treated 
+as sphere.  
+(Refer Slide Time:  4:45)   
+ 
+The bed void fraction is 0.45 and the length of the packed bed is 4 meters. Air enters the bed 
+at 2.5 atmosphere absolute at the rate of 3  kg per meter square second based on the empty 
+cross -section of the bed. Calculate , the pressure drop of air in the bed given molecular weight 
+of air is 29 and viscosity of air is1.5 10 to the  power minus  5 Pascal se conds. So , if you solve 
+this, what is said that we have a packed bed of cylinders, now these cylinders do have this is 
+the cylinder height, so , height is equal to the diameter , that is why this can be taken as D and 
+this is D, so, these 2 D are same, so this cylinder can be assumed to be sphere. But if you 
+assume a cylinder to be a sphere than all cylinders can be equal to sphere, so , then it appears 
+that you may have to find out the sphericity, how close it is to a sphere, so , that we will find 
+out. 
+1st, you have to find out that air , as we have said that if this is a cylinder , if this height , and 
+this diameter are same, then , theoretically diameter and height of cylinder , if they are same 
+then, that appears to be equal to a sphere. But , whether it is a sphere or not or what is the 
+sphericity of that sphere, sphericity means , how close it is to the sphere that , 1st you have to 
+find out , and then you can use the other things. So , let us find out that the length of the 
+cylinder , i.e., L is equal to diameter of the cylinder , say D cylinder. Therefore, volume of the 
+cylinder V cylinder , that should be equal to Pi by 4 into D of cylinder square into D of 
+cylinder , which is the height , that means Pi by 4 D c cube. So this should be equal to Pi by  6 
+Dp cube that is the actual volume of the sphere having particular diameter D p. 
+So, our given thing was , the cylinder has a diameter of D cylinder = 0.0127 meter, so , if that 
+be true then D p cube = this Pi this Pi goes out , so, 6 by 4 D c cube or D p = cube root of 6 by 4 
+Dc cube = cube root of 6 by 4 D c is 0.0127 , so much cube. So , let us look into , how, what the 
+value is, so , 0.0127 cube x to the power y or x is cube, so , this is that into 6 divided by 4, so , 
+it is cube root, cube root is equal to 0 .0145 , so, that means , particular diameter is 0.0145 
+meter. Then , we can say that Phi s is 6 V p by D p Sp, this you have done in the packed bed class 
+beginning, Phi s is 6 V p by D p Sp = 6 into Pi by 4 V p is Pi by 4 D c cube divided by D p. We 
+have already found  out to be say this is the value , but, this we can also write to be cube root 
+of 3 by 2 into D c cube.  
+So, we can also write this to be cube root of 3 by 2 D c cube no D p is D c cube root , so, it is D c 
+not cube root , cube root of this, here D p cube is 6 by 4 D c cube , so, Dp is cube root of , okay , 
+Dc cube , is that 6 by 4 D c, so, cube root , if it goes out , so, it is 3 root 3 by 2 D c, we write this 
+way, cube root 3 by 2 D c because this D c cube, cube root , it goes out okay. So , Dp is so much 
+and S p, this into S p, Sp is how much? It is Pi D c square , 3 by 2 Pi D c square , Sp is 3 by 2 Pi D c 
+square, so , this becomes equal to , this is D c cube , so, Dc square, so , this goes out, this Pi this 
+pi goes out , and this is 6 by 4 , this is 6 by 4 , i.e., 3 by 2 , so, this 3 by 2 , this goes out , so, then, 
+it remains 3 by 2 under root 3 , 3 by 2 under root 3.  
+3 divided by 2 is equal to so much, cube root of that , so, this becomes cube root of 3 by 2 , 
+okay , Dc into 3 by 2 Pi by S p is Pi D c square clear, so , it is Pi , this is square , so, this 3 by 2 
+may not be going out , so, 6 by 4 , so, it becomes 3 by 2 , okay , because , Sp is how much , Pi D c 
+square , so, well, from this 3 by 2 comes, so , then this D c cube goes out , then 3 by 2 , and this 
+divided by under root 3 by 2 , it is cube root. So , it is 1.5 divided by that came to be 1.14, Pi 
+into D c cube fine  and D p is from here cube root of 3 by 2 D c fine and this is Pi D c square , that 
+is the S p, that is the surface area of this particle that is Pi D c square.  
+Pi, Pi goes out, 6 b y 2 remains, 3 by 2 , by root 3 cube , root of 3 by 2, so , this is 3 by 2 , 1.5,  
+so, 3 by 2 cube root is 1.144 , so 1 by 1.5 by 1.144, so , 1.144 divided by 1.5 , no, no, no, no, I 
+think , I have made a mistake , that is 3 by 2 , 1.5, 1.5 cube root of this , inverse of this , yes, so, 
+it was , no, 3 by 2 is there. Then , it becomes equal to this 3 by 2 goes out, 1 by cube root of 3 
+by 2, so, that becomes equal to 0.873 , so Phi s is 0.873.  
+  (Refer Slide Time:  18:04)   
+ 
+Then Phi s is 0.873 , then we can write N Re = Phi s by Mu to D p into G prime by 1 – Epsilon, so 
+this becomes equal to Phi s is 0.873, D p is, Dp we have found out to be the cube root of this , 
+no, okay , so, that we put D p, Dp not given, D p we have to find out , that is 6 by 4 0.127 cube , 
+so, that goes out Dc that is cube root of 3 by 2 , Dc, so, cube root of 3 by 2 D c. D c we have 
+been given , that, so, it can be 0.0145 and G prime, G prime is i t given? G prime is given as 3 
+kg per meter square, into 3 divided by Mu , given is 1.5 10 to the  power minus  5, and e psilon , 
+given is 1 – 0.45, so , this becomes equal to 0.0127 is given , oh, it is just having a diameter of 
+0.0127 , yes that D p is given 0.0127 , so, not required, it is 0.0127, so this is 3.  
+So, we can write that 0.873 into 0.0127 into 3 divided by this divided by 1.5 , this divided by 
+1 – 0.45, divided by 10 to the power minus  5, 4031. So that means that our energy is very , 
+very high, so , in the outlet pressure depends on Delta p , so, we, assumin g as 1st 
+approximation , density is equal to that at  inlet pressure. So , inlet pressure , given is 2.5 
+atmosphere, so , Rho inlet = p M by R T , or p inlet by R T = 2.5 atmosphere into 1.01325 10 
+to the power 5, M is 29, R is 8314 and T is given 390 , T given i s 390 , so, it comes to be 2.266 
+kg per meter cube.  
+  
+(Refer Slide Time:  24:14)   
+ 
+Now , from Ergun’s equation , we have seen that  Delta p Rho by G prime square phi s Dp by 
+Delta L epsilon cube 1 – epsilon 150 by N Re + 1.75 , so, from this , we can write that , Delta p 
+to be equal to G prime square by Rho into Delta L by Phi s Dp, 1 – epsilon by e psilon cube 
+into 150 by N Re + 1.75. So , this, if we write , that means , this is 3 square by Rho, Rho , we 
+found out 2.266, Delta L given is 4 meter , here, it is 4 meter, s o, 4 by Phi s, Phi s, we have 
+found out as 0.873 , we have found out , or say 4, 3 something was there , so, rounded of to 
+0.874. So , Delta p , so, 1 – this has been given as 0.45 div ided by 0.45 cube into e psilon 150 
+by N Re, N Re is 4036 + 1.75, this is equal to 15.439 kilo Pascal, so , Delta p is 15.439 kilo 
+Pascal.  
+Therefore, since , p inlet = 2.5 into 1.01325 10 to the power 5 Pascal, there , and Delta p is 
+15.439 Pascal, so therefore p exit or outlet = 2.5 into 1.01 325 10 to the power 5 – 15.439 
+Pascal, this is also Pascal, so this means that Delta p comes to be equal to or p outlet comes to 
+268.7515 kilopascal. So , with this outlet , as again one, so , then, and this is p inlet so , p 
+average can be found out as p inlet + p outlet o ver 2 = this comes to be 261.032 kilo P ascal. 
+Therefore, Rho average , that can be written as p average M by R T , and that can be said to be 
+equal to 2.34 or 2.334 kg per meter cube. And if we do the same way Delta p calculation, 
+then, Delta p comes to be 1 4.589 kilo  Pascal, which is to be very close to the assumed value , 
+or, what we have found out p average from there , and 1st approximation.  
+So, very close to the Delta p assumed, so , we can say Delta p to be equal to 15.069 kPa 
+finally. So , this way by doing trial and error , you can find out that what is exactly Delta p or 
+if one is given p 1, we can also find out the outlet , whatever  is given depending on the 
+situation. So , here you have seen that we have taken both, the laminar part, length  part, that is 
+the entered Ergu n’s equation and from there if one  is given like inlet pressure is given, outlet 
+is not given , and in this case , we assume that both inlet, outlet they are different , true, what 
+we assumed that density to be at the inlet pres sure and we found out Delta p. With that Delta 
+p, we found out pressure outlet and from there again average , and from that average , again 
+we found out what is the Delta p, so , this way by trial and error we can find out the actual 
+value , okay , thank you.  

@@ -1,0 +1,151 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 58  
+Module 12  
+Problem and solution (Continued)  
+ 
+(Refer Slide Time: 0:33)  
+ 
+Okay, so you have done rather we have done here under different conditions if you remember 
+that Brookfield viscometer the theory of that so it was like this the two concentric pipe or yeah 
+concentric pipe and one was inner wall was fixed say and the out er one is rotating with an 
+angular velocity of omega and we have found out what is the velocity profile, pressure drop, 
+etcetera, right? So , this is used for Brookfield viscometer or if it is closed if it is rather fixed if 
+this is rotating then also we ha ve found, right? We have found how the pressure drop or how the 
+velocity profile is changing, right?  
+Now , if you are asked, okay that was one type of viscometer, normally it is a viscometer by 
+which viscosity is measured. So , if you are measuring the visc osity, then , no problem you have 
+already seen for Brookfield viscometer how the theory is occurring and experimentally you can 
+find out in knowing the all other parameters you can know you can find out the viscosity of some 
+solutions of or some fluids, rig ht?  
+Now , if you are asked that okay you have another type of viscosity measuring instrument like 
+say capillary we also have done if you remember the theory for a ball dropping from a height, 
+right? Till it is coming to its terminal velocity what is the ho w the viscosity can be developed, 
+right? So , if you remember that expression we have also done, right? And if now the third case if 
+you are asked that okay you are given a capillary, right? You are and you have heard the name of 
+capillary viscometer there are many capillary viscometer manufacturers so if you are asked that 
+if you are given a capillary and you have to find out the viscosity, right?  
+Now , viscosity what does it mean? Viscosity means if the fluid is less viscous  if this is the 
+capillary say if  this is the capillary and if through this if I have to pass the liquid the less viscose  
+for the same height that will pass faster the more viscose  for the same height that will pass at a 
+lower speed or at a later time, right? So , what will happen? The mor e viscosity means the both 
+the wall as well as between the layers of the fluid they will have a drag force acting very high, 
+right?  
+Now , this if it is happening that  is why we need the value of viscosity to be known, right? For the 
+importance of the visco sity is there that whether a fluid will move fast or a fluid will move 
+slowly that will depend on the viscosity of the fluid, the higher the viscosity value, right? That is 
+more the viscose  the fluid, it will take more time for the same diameter same lengt h of the pipe 
+then compare to that of the less viscose  fluid, right? Now you also have done we have done 
+rather Stoke’s law on that regard, right? That dropping of the ball, okay we have done the 
+Brookfield viscometer also that one wall is fixed other wall  is moving, right?  
+And then how the fluid characteristics flow characteristics are there. Now , if you are said that 
+okay you are given a capillary viscometer and find out the viscosity, right? So , we cannot do 
+experiment in this class because that is beyond the scope, but we can definitely do some problem 
+on that, right? So , let us look into how the values are that is why repeatedly we saying that values 
+are very , very important, okay.  (Refer Sli de Time: 6:16)  
+ 
+So, let us look into this problem, this problem is saying for the capillary viscometer of glass a 
+glass capillary viscometer has a height available for free fall is 9 centimeter and a capillary 
+length of 7.5 centimeter. If the fluid used i s distilled water at 24 degree centigrade, the efflux 
+time measured is 35 second. Volume of water drains between two marks on the viscometer is 4 
+centimeter cube. What is the radius of the capillary? Assume density and viscosity of water at 24 
+degree centi grade to be 950 kg per meter cube and 1 into 10 to the power minus 3 Pascal second 
+respectively, right?  
+(Refer Slide Time: 7:35)  
+ 
+So, this is also giving us a chance to see if it is a capillary, right? And liquid  water is flowing 
+through this, right? Fro m one definite height to another definite height the time required to pass 
+is known, then how can we find out the viscosity of water, this is the basic fundamental question 
+we are given that we have given you a capillary through which water is flowing and we have 
+given you the property values of water at a definite temperature of course property values are a 
+function of temperature so that is why it is mentioned, right?  
+And for your when it has come, so let us also say there is a very good book called ASHR AE, 
+right? So , this I am using  for heating, refrigeration and air conditioning engineering that general 
+or that is not general that is a bound where I should say that a bound volume and data book that 
+data book you can find out any fluid properties at many  different temperatures, right? Like steam 
+table , you get property values, similarly that book hand book that is hand book, so , this handbook 
+many other books are also available, so , you can get the property values from there.  
+So, what where we have been a sked that we have been given a capillary and water at definite 
+temperature and that through the capillary water is dropping, right? And we have to find out 
+what is the viscosity when we know that what is the time required to travel that water from one 
+height or one distance to the other distance, right? We have been given the values, we have to 
+find out.  
+So, let us reread that problem and then solve, it is a glass capillary viscometer has a height 
+available for free fall is 9 centimeter and a capillary len gth of 7.5 centimeter. If the fluid used is 
+distilled water at 24 degree centigrade, the efflux means , what is coming out time measured , te, is 
+35 seconds. Volume of water drains between two marks on the viscometer is 4 centimeter cube. 
+What is the radius of the capillary? That is a fundamental question that what is the radius of the 
+capillary that we have to find out, not the viscosity, so , if it is the radius is given then we could 
+find out the viscosity, we can try if one is done we can if we have time w e can do the other way 
+that one value is given what is the other value, right?  
+So, that means one is given the other has to be found out, given that at 24 degree centigrade the 
+value of viscosity and density or density and viscosity of water are 950 kg per meter cube and 1 
+into 10 to the power minus 3 Pascal second, right? This we have to find out.  
+ (Refer Slide Time: 11:52)  
+ 
+ 
+Now , here since it is flow through a capillary so we can assume that we can use Hagen 
+Poiseuille’s equation. So , from Hagen Poiseuille equation what we have seen that delta P is equal  
+to 32 mu v L by D square, r ight? So , from there if we have to find out the v, then we can say that 
+v average , so, this is average v average is equal to delta P D square by 32 mu L, right? Or , this 
+we can write if it is not D, then delta P so D is 2 R so 4 R square D is 2 R so 4 R sq uare by 32 
+mu L or this can be written as delta P R square by 8 mu L, right? So , v average is like that, 
+therefore we can say that mu is delta P R square by 8 v average into L, where delta P is nothing 
+but rho g and H, right? Height of the liquid, right?  
+If that be true, then we can use this delta P here as delta P is given as rho g H, right? And v 
+average is rho g H, okay into R square by 8 v average L, right? Now , from other side v average 
+can also be written as volume over surface sectional area that is  pi R square times the required to 
+flow that is t efflux, right? So , this volume by this means we can substitute that volume from 
+there from the given value, right? So , we can write t hat this expression mu is equal  to rho g H R 
+square divided by 8 , now, v average is this 8 into pi, this is 8 volumes  by this v average, right? v 
+average is this 8 into volume, right , into pi into R square into  te, right?  
+So, if we say that volume to be q or something, right? Then, we can write that this is rho g H R 
+square pi R square t e by 8 times L is also there, right? pi R square L v average this is okay, so 8 v 
+average into L, right? So , we can write from there that R to  the power 4 is equal to 8 times 
+volume times L times mu over rho g H pi t e, right? So , this is correct, so now if we substitute the 
+values 8 remains volume whatever was given if we remember that was 4 centimeter cube, right?  
+That means 8 into 4 centimete r cube means 10 to the power minus 2 cubes , right? Into L, L was 
+given 9 centimeter, right? L given, L is that 7.5 centimeters , okay. 7.5 into 10 to the power minus 
+3 into mu, mu given is 1 into 10 to the power minus 3 over rho, rho given is 1000, no 950 i nto 
+9.8 into H height it was given 9 centimeter so 9 into 10 to the power minus 2 into pi into te was 
+35 seconds, right?  
+So, now if we do this, then let us find out what is the value R to the pow er 4 so we can write R is 
+equal  to 8 into 4 into 10 to the p ower minus 2 whole cube into 7.5 into 10 to the power minus 3 
+into 1.0 into 10 to the power minus 3 by 950 times 9.8 times 9 times 10 to the power minus 2 
+times pi times 35 to the power 1 by 4, right?  
+So, let us look into this that 8 into 4 into 10 to the  power minus 2 square, right? 10 to the power 
+minus 2 square is equal to this, no something wrong 8 into 4 into 10 x to the power y 2 plus 
+minus, right? That was the mistake why it could not be, okay 8 into 4 into 10 x to the power 2 
+plus minus so now you square it this is that into 7.5 into 10 to the power minus 3 into 10 to the 
+power minus 3 another divided by 950 divided by 9.8 divided by 9 divided by 10 to the power 
+minus 2 divided by pi divided by 35 is equal to this x to the power y 1 by 4 7.14 10 to the power 
+minus 4 7.14 10 to the power minus 4 so much meter, right?  So, that means 7.14 10 to the power minus 4 meter, so into 1000 than 10 to the power minus 1 
+that is 0.714 millimeter, right? So , 0.714 millimeter is a capillary we can say, okay let us s ee how 
+much it came up it was no 1.237 10 to the power minus 3 not 7.14 I think somewhere we have 
+made a mistake so it is 8 into 4 okay 8 into 4 1 10 to the power minus 2, that was another mistake 
+1 10 to the power minus 2 this is 1 10 to the power minus 3  we have written but taken here as 10 
+minus 2 in both the cases 10 to the power minus 2 has been so this is something wrong here this 
+is wrong I think we are right, right? So , however the value you see it is so low, right? So that 
+means, okay now if we loo k at now if we look at that this R we said this is for the capillary what 
+is the radius of the capillary, right?  
+Now , if the radius of capillary is given, right? Then we can also find out the viscosity from this 
+expression we can also find out the viscosi ty, so in that case it would have been that the radius of 
+this capillary is given all other parameters are given and mu has to be found out, right?  
+(Refer Slide Time: 25:43)  
+ 
+For example , so, here if we take that for 7.14 10 to the power minus 4 meter radius, what is the 
+value of mu? So , mu should be equal to from this rho g H pi t e R to the power 4 by 8 into volume 
+into 8 volume into L, right? So if we take rho was given 950 g is 9.8 H 9 pi t  35 seconds R we 
+have found out to be 7.14 10 to the power minus 4 to the power 4, right? Over 8 volumes  if we 
+remember volume was given 4 centimeter cube so 4 into 10 to the power minus 2 whole cube 
+into L, L was 7.5.  
+So, 7.5 10 to the power minus 3, righ t? So , if we solve it, let us see of course it should come the 
+same unless we have done something somewhere some mistake. So , 950 into 9.8 into 9 into pi 
+into 35 into 7.14 into 10 to the power minus 4 to the power 4 might be we have done something 
+wrong di vided by 8 divided by 10 x to the power 2 plus minus, right , Cube into 7.5 divided by 
+7.5 divided by 10 to the power minus 3, 39.90 , I said no , somewhere , we have done something 
+wrong , maybe here , we have done something wrong, let us quickly try , I think o ur time is up.  
+So, you try here hopefully this part we have not done correctly, so , you try it should come the 
+same value of mu, okay thank you.                                 

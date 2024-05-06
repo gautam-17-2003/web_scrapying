@@ -1,0 +1,154 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 48  
+Module 10  
+Ergun’s equation -derivation (Part -1) 
+Hello, we are doing packed bed, okay. So , in the packed bed , we have already said , what is the 
+utility of the packed bed? What is the application? Particularly , in process engineering, but we 
+also have shown , there were some definitions , ‘a’, or many others , like hydraulic ra dius or 
+sphericity , these things , we have already defined . We have also found out Reynolds number, 
+right? So , now we will go from that packed bed Reynolds number, then yeah.  
+(Refer Slide Time: 1:08)  
+ 
+ 
+Now , from the Hagen Poiseulle equation for laminar fl ow, we have seen that delta P was equal to 
+32 mu v delta L or mu v L , since , it is L , so, we can take it as delta P for delta L , for delta P over 
+D square, right? Now , this we can rewrite as , 32 mu v prime delta L over epsilon into 4 r h, where 
+rh is hydraulic radius square, right? This we have substituted D, right? v as v p prime and v prime 
+by epsilon and D as 4 r h whole square, right? Because , your v prime was equal to epsilon into v, 
+right? So , this v prime is the flow through the packed bed.  
+So, if that be true, then we can also write , this is equal to 32 mu v prime delta L over this , we can 
+rewrite as 4 epsilon phi s Dp over 6 into 1 minus epsilon , this square, right? This r h, we have done 
+it earlier in the previous class, right? r h, hydraulic radius , and then , to, from there , to hydraulic 
+diameter , that we have done. So , it is 4 epsilon phi s Dp by 6 into 1 minus epsilon square, right? 
+This on rearrangement , we can write , this is equal to 72 mu v prime delta L into 1 minus epsilon 
+whole square o ver epsilon cube into phi s square into D p square, right?  
+Now , this can roughly be written as equal to 150 mu v prime delta L into 1 minus epsilon square 
+divided by epsilon cube phi s square into D p square, right? Why? Because , this has been seen , this 
+has been found out that whenever the value of delta P predicted , this is a relation, so , that means 
+you can predict the delta P for a laminar flow using Hagen Poiseulle’s equation . This you can at 
+this state using epsilon phi s everything, right? So , this is for packed bed that what is the delta P 
+when your , there is a sphericity of phi s, or there is a void space of epsilon.  
+So, when all the se are known, then you can write it in terms of 72 mu v prime delta L into 1 
+minus epsilon square by epsilon cube  into phi s square D p square. So , that means , if you know all 
+these terms , then you can tell that , what is the delta P, but , the problem is that when you do this , 
+in the actual case , it has been found that the actual case will be much better if this 72 is r eplaced 
+by 150 , i.e., the predation is much closer to the actual delta P , that is why this 72 has been 
+replaced with 150, right?  
+This was done by Blake and Kozeny , and according to their name , this equation is known as 
+Blake Kozeny equation for flow throu gh packed bed and this is for the laminar part . So, for 
+laminar flow , we have started with Hagen Poiseulle equation , from there the delta P relation , 
+whatever we had , we have taken that , and we have modified that only in terms of putting the 
+actual parameters , like epsilon phi s Dp and the velocity , v prime, right? So , these , by rearranging , 
+we have now got one relation , where delta P is , instead of 72 , it is 150, then mu v prime v prime 
+delta L 1 minus epsilon square by epsilon cube into phi s square into D p square . This we call it to 
+be the Blake Kozeny equation, right?  
+And this is valid for N Re less than 10, this is valid for N Re less than 10, right? Now , let us look 
+into the other , i.e., the other part , when the flow is not laminar.  
+(Refer Slide Time: 8:45)  
+ 
+For turbulent flow , we can use that delta P f is equal to 4 f rho delta L by D into v square by 2 . 
+This we know for turbulent flow , for laminar flow it was there using fanning friction factor , we 
+have reduced it that delta P f is 4 f rho delta L by D or L by D to v square by 2, right?  
+This, we have established long back. Now , if we start from that point and rewrite, right? Now , 
+this w e can also write as 4 f, right , rho then this delta L remains there, this D we can write 4 by 6 
+epsilon phi s Dp over 1 minus epsilon, right , times that v has now become v prime square divided 
+by 2 epsilon square , so, v square by 2 , so, v prime square by 2 epsilon square again , the same 
+thing that v prime is equal to epsilon into v, right?  
+From that relation , we got this v prime square by 2 epsilon square right? This D , we have 
+replaced with D p and that we have shown earlier that this is equal to that 4 by 6 epsilon phi s Dp 
+by 1 minus epsilon, right? This we can rearrange , rewrite as equal to 3 f rho delta L by phi s Dp 
+times v prime square times 1 minus epsilon over epsilon cube, right? This , we can rewrite , like 
+this, because , this 4 that 4 goes out,  this 2 and this 6 goes  out and 3 remains , so, 3 comes 4 rho 
+delta L phi s remains there , Dp remains there , 1 minus epsilon goes up v prime square and this 
+remains epsilon and 1 epsilon so , epsilon cube, right? This epsilon square , epsilon remains and it 
+becomes epsilon cube, right?  
+So, here also the researchers have seen that the delta P , which is predicted with this equation 
+with this relation of delta P which is delta P f for turbulent flow , for turbulent flow the pressure 
+drop under friction factor delta  Pf that can be predicted through this relation , where we also have 
+the particle size as D p, we also have the void space as epsilon , and we also have this velocity 
+through that packed bed , i.e., v prime , I think , we had said that , v prime is velocity throu gh 
+empty cross section and v is through that packed bed, right?  
+So, if there is epsilon void space, then , that v that becomes equal to v prime over epsilon, right? 
+That is what  we have earlier established and shown. Now , so, that is what that delta P f, when it is 
+equal to this 3 f rho delta L by phi s into D p v prime square into 1 minus epsilon by epsilon cube . 
+This has been seen that the predation of delta P with this relation is not so close. So , it was 
+changed to roughly equal to 1.75 rho delta L by p his Dp v prime square into 1 minus epsilon 
+divided by epsilon cube, right?  So, roughly 3 f is equal to 1.75 , sorry , 1.75, right? So , 3 f is 1.75 , we have substituted, right? 
+Like the previous one , we had substituted 150 , instead of 72 with 150, right? Her e, we have 
+substituted 3 f with 1.75, right? Then delta P f that is equal to 1.75 rho delta L by phi s Dp v prime 
+square into 1 minus epsilon by epsilon cube, right? So , this is called , this was proposed , or, this 
+relation was derived by the other pair of sc ientist , or another pair of researchers , their name s are 
+Burker - Plummer and this equation is known as Burker Plummer equation, right?  
+So, this, like the previous one , that was valid for N Re less than 10, this is valid for N Re greater 
+than 1000, right? So , in one case we have seen that we can predict delta P for  flow through 
+packed bed when N Re is less than 10 and in another  case for turbulent flow when N Re is greater 
+than 1000. Than the question automatically comes that what a bout if N Re is between 10 and 
+1000, is not it.  
+(Refer Slide Time: 17:08)  
+ 
+So, for that another scientist who did a club bing, I mean punching , of these two , that he has 
+predicted , he has used both of these two relations , and then what he did it , from the Burker 
+Plummer equation or Blake Kozeny equation , first was Blake Kozeny, right? It was Blake 
+Kozeny equation , from Blake Kozeny equation , we have seen delta P was 150 mu v prime delta 
+L 1 minus epsilon whole square divided by epsilon cube phi s square D p square, right?  
+So, this can be rearranged as 150 mu v prime delta L 1 minus epsilon whole square by epsilon 
+cube phi s square D p square. Now , if we multiply both numerator and denominator with v prime 
+rho square , then we can rewrite and rearrange it as 150 mu v prime, right , mu v prime, v prime 
+we can use afterwards, okay , 150 mu say , delta L mu delta L , because this v prime we can use 
+inside. So , 150 mu delta L into 1 minus epsilon whole square , now, this v prime , we can take 
+there , and write rho v prime sq uare, right?  
+And in denominator , we have epsilon cube phi s square, right? And D p square and this side it was 
+v prime rho square, right? So , this again we can rewrite as equal to 150 G prime square, right? 
+Because G is rho v , so, G prime is equal to rho v prime, right? So , if that be true then we can 
+write , 150 G prime square delta L by phi s Dp, right? Over phi s Dp rho v prime over 1 minus 
+epsilon into mu times 1 minus epsilon over epsilon cube times 1 by rho because we have taken 1 
+additional rho and that rho came out here, right?  
+So, this we can rearrange , rewrite , 150 G prime square delta L by phi s Dp into 1 min us epsilon by 
+epsilon cube into 1 by rho, right , into phi s into D p into rho v prime over 1 minus epsilon into mu, 
+right? This v prime was there and this rho is taken only , here it was rho square so , 1 rho is taken 
+here, and 1 rho remains here, right? So , this rearrangement is required because we would like to 
+proceed to one relation because , this was developed by the scientist , we will name him 
+afterwards and during that process he has done all these.  
+(Refer Slide Time: 22:03)  
+ 
+So, this equation , we name i t to be , say equation 1, right? So , let us keep it aside , and now from 
+the other one , i.e., Burke Plummer , I think the previous one , where we so far remember it was 
+Burke not er BURKE only, right? B, U, R, K, E Burke Plummer P, L, U, M, M, E, R, right? 
+Burke Plummer, okay. So , next form the equation , Burke Plummer , we can write , delta P is 1.75 
+rho into delta L over phi s Dp square , Dp rather , into v prime square into 1 minus epsilon over 
+epsilon cube , this was the original equation which was Burke Plumme r, right? This we just have 
+done here, it was like that 1.75 rho delta L over phi s Dp v prime square into 1 minus epsilon by 
+epsilon cube, right?  
+So, this if we know, then we can rewrite it as 1.75 rho, right , delta L by phi s Dp into v prime 
+square into 1  minus epsilon by epsilon cube into both numerator and denominator , let us multiply 
+and divide with rho. So , in that case , we can rewrite it as 1.75, right,  this as rho into v prime , this 
+as rho into v prime, right? rho v prime , and we also can write this delta L by phi s Dp, right , into 1 
+minus epsilon by epsilon cube, right , divided by into 1 by rho because , this rho v prime , we have 
+gathered together, so , 1 by rho remains. So , this we can write that , this is equal to 1.75, right? G 
+prime, right?  And this was v prime square, right? So , it was v prime square , so, it should be 
+square here this rho this rho is this rho v prime square.  
+So, this is rho v prime square , so, we can write G prime square into delta L by phi s Dp, right , into 
+1 minus epsilon by epsilon cube into 1 by rho, right? So , this is , if we tell that , this is equation 
+number 2 . So, that means , till now , what we have done , we have taken in one hand that Blake 
+Kozeny equation , that we have taken , and we have come to equation number 1 , with a relation, 
+right? So , delta P is equal to this , this, this, this, with a relation we have found out what is the 
+delta P.  
+And in another , with the Burke Plummer equation , which was for the turbulent flow , we have 
+taken that equation , and we have come to this relation that 1.75 G prime square delta L by phi s 
+Dp into 1 minus epsilon by epsilon cube to 1 by rho, right? This we have done purposefully so 
+that we can utilize ultimately our target is we have said we have gotten , 1 equation t hat is Blake 
+Kozeny , which is valid for Nre less than 10, right? And we have also taken another equation 
+which was and that we started with laminar flow, right? And now in this case we have taken for 
+turbulent flow and in turbulent flow , we hav e said that this is valid for N Re greater than 1000, 
+right?  And in both the cases in terms of G prime that is mass velocity , we have taken that okay , now, in 
+terms of G prime and epsilon D p rho, all these terms , we have done in one form , as delta P for 
+prediction , in terms of G prime and we named them as say , equation 1 and equation 2, right? So , 
+perhaps , this class we cannot proceed further, when we again come to the next class then we will 
+see, how beautifully that scientist has utilized and made another , what I sho uld say another 
+relation by which you can use both for laminar as well turbulent flow you can use the 
+generalized equation and for the intermediate also, okay thank you let us go for the next class 
+thank you.                                                                    
+ 

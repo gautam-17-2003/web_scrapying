@@ -1,0 +1,156 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 45  
+Module 9  
+Flow of Non Newtonian fluid through slit  
+So, in the previous class we had done a problem and solution . Hopefully , we have done for 1 N Re 
+for the applesauce the second one two fluids where there, one was milk and the other was 
+applesauce and hopefully , milk we have done for both the cases , 500 and 50 00 N Re general . We 
+found out both these velocity and pressure drop and for the other one that is applesauce for milk 
+we had done for  both the N Re general , i.e., 500 and 5000 . We have done both velocities and 
+pressure drops. And for applesauce we have done for 500 N Re general  that what was the velocity 
+and what was the delta P because of the time constraint we could not do for 5000, hopefully you 
+have done it.  
+So, if you had any problem, so , please bring to our notice , and we will solve it , or we will give 
+you the values, okay , because , I have also not done , but if you want we can do it here also 
+because , afterwards we will not get time , I hope let us do that, okay.  
+(Refer Slide Time: 2:00)  
+ 
+For applesauce we had gamma is equal to 1.073, r ight, NRe general  given was 5000 , so v average , we 
+can write to be 5000 into 1.073 divided by 1 into 10 to the power minus 2 and n was 0.7 and 
+density was 1100 this to the power 1 by 2 minus 0.7 , so, this becomes equal to let us see that 
+5000 into 1.073 was this , divided by 10 to the power minus 2 to the power 0.7 is this , equal to 
+this divided by 1100 is this to the power 1 by 2 minus 0.7, right?  
+So, is equal to that , so, this is equal to 40.39 , so, 40.4 meter per second is average velocity and 
+delta P , we can write to be 32 into 1.073 into 10 length L by D into 1 into 10 to the power minus 
+2 into v average , i.e., 40.4 divided by 1 into 10 to the power minus 2 whole to the power 0.7, so , this 
+comes to  equal to , let us see , 40.4 divided by 10 to the power minus 2 this whole to the power 
+0.7 is equal to this into 10 to the power 3 so , 1000 into 1.073 into 32 is equal to 114872.65 , 
+sorry , not point 11487265.4, right?  
+That means , 1, 2, 3 , so much Pascal , so, is equal to 11487 , no 11487.265 kilo Pascal is equal to 
+114.87 bar , if we take Pascal equals to 1 bar, right? So , this we have done , so, you please check , 
+hopefully , you will get the same, right? Now , let us move to another very important Non -
+Newtonian fluid flow, right?  
+(Refer Slide Time: 7:15)  
+ 
+And that is , let us look into where it is, yeah , here it is , flow of Non -Newtonian fluid through slit . 
+Flow of Non -Newtonian fluid through slit, right? Now , if you remember that in earlier case we 
+had done , so, this also we are doing in the same way , similar way, so , here, what we are doing? 
+We are taking in say , x, y, two dimensional , third dimension is also perpendicular to this , so, we 
+have taken a volume element, right? And the thickness of this is del y and this is del x, right?  
+(Refer Slide Time: 8:34)  
+ 
+So, we assume that flow is steady and flow is laminar , and there is no end effect , and there is 
+flow, fully developed, right? These all assumptions remain same. So , now as we had taken 
+earlier , here also we have taken volume element, so , this volume element is having a thickness of 
+delta y, right? And it has a length of , say, delta x, right? And the plate  or slit is having a , this slit 
+is having a thickness of 2 delta, right? 2 del ta is the thickness, so , it is acting the pressure force at 
+the face x and the pressure force at the face x plus delta x , and T au at the face T auyx at the face y 
+and Tauyx at the  face y plus delta y, right?  
+So, if this be true, then , if this is the xy coordinate , obviously , the third coordinate is z, okay. If 
+we take these, right? And sorry, like in the previous , which , we had done for the slit, so, let us 
+here also take that , from the previous , as we have said that there is no , this is all steady state so , 
+no accumulation  at all, some of the forces is equal to 0. Then , we also assumed , we also said that 
+since , it is a steady state , so, bulk flow is getting nullified , all these taking together , we had said 
+that if you remember in earlier class , very beginning , there , we had said that , we will start in all 
+practical purposes , from this relation of Tau, right?  
+(Refer Slide Time: 11:41)  
+ 
+So, now Tauyx, this is equal to delta P by L into y, right? This is equal to k minus dv x / dy to the 
+power n, right? Or minus dv x / dy is equal to delta P y over kL to the power 1 by n, right? Or , 
+integral of dv x, right , is equal to delta P y or delta P by kL to the power  1 by n integral of y to the 
+power 1 by n dy, right? So , this on integration gives v x with negative is equal to delta P by kL to 
+the power 1 by n and y to the power 1 by n plus 1 divided by n plus 1 by n, right , plus C. Now , 
+we have to find out the constan t C, value of the constant C , what it is coming , that we have to 
+find out, right?                
+(Refer Slide Time: 13:23)  
+ 
+To find out that constant C , let us, okay , our expression is v x minus is equal to delta P by kL  
+whole to the power 1 by n y to the power 1 by n plus 1 over n plus 1 by n plus C, right? Now , the 
+boundary condition for getting the value of C is like that at y is equal to , del v x is equal to 0 , this 
+is plus minus del ta, so, we could take plus or we could take minus del ta. If you remember , this 
+we have taken 2 del ta, right? Total thickness, so plus del ta, minus del ta, so, if it is at this center 
+axis, so, it is plus del ta and this is minus del ta, right?  
+So, that is why , it is 2 del ta, so, boundary is v x is rather v x is equal to 0 at y is equal to del ta, i.e., 
+at the wall, right? This is at the wall , so, if it is plus del ta or minus del ta, in either case it is 0 , vx 
+is 0, here also v x is equal to 0, right? So , if that be true, then , we write y is equal to plus del ta for 
+all practical purposes , so, it is 0 , delta P by kL whole to the power 1 by n and this y is now del ta 
+to the power 1 by n plus 1 divided by n plus 1 by n , so, this is plus , is equal to C, right? So, C is 
+equal to minus delta P by kL whole to the power 1 by n into del ta to the power n plus 1 by n 
+divided by n plus 1 by n, right?  
+This is C, so , by substituting C we can write , minus v x, substituting C , value of C , of course , vx is 
+delta P by kL whol e to the power 1 by n, right , y to the power n plus 1 by n divided by n plus 1 
+by n minus delta P by kL whole to the power 1 by n del to the power n plus 1 by n by n plus 1 by 
+n. So , if we take common , is equal to delta P by kL whole to the power 1 by n , if we take 
+common , and if we also take common , n plus 1 by n, right? So , we can write y to the power n 
+plus 1 divided by n minus del ta to the power n plus 1 divided by n or this is equal to this, right? 
+Or, we can write v x is equal to delta P by kL whole to  the power 1 by n divided by n plus 1 by n, 
+right , into del ta to the power n plus 1 by n minus y to the power n plus 1 by n, right?  
+So, this we can rewrite is equal to delta P by kL  whole to the power 1 by n over n plus 1 times if 
+we take del to the power n plus 1 by n common , so, 1 minus y by del whole to the power n plus 1 
+by n, so , this is the v x, right? So , vx comes like this , so, that is the instantaneous velocity at any 
+point a t any time , of course , time is independent , we have taken steady state, so , instantaneous 
+velocity at any place is v x and that is equal to delta P by kL over n plus 1 to the power 1 by n 
+times del ta to the power n plus 1 by n times 1 minus y by del ta whole  to the power n plus 1 by n, 
+so, that is the v x, right?  (Refer Slide Time: 19:00)  
+ 
+So, if this v x, if we tell now , we also can write that, okay v x is equal to delta P by kL whole to the 
+power 1 by n over n plus 1 by n, right? This into del ta to the power n plus 1 by n times 1 minus y 
+by del ta whole to the power n plus 1 by n, right? So , for y is equal to 0 , vx is equal to v max, true , 
+because this was our del ta, 2 del ta, this is our center , so, this was our 1 del ta, plus del ta, this was 
+our mi nus del ta. So, it is 2 del ta, right? So , at y is equal to 0, v x is equal to v max. So, that value is 
+vmax, then, is equal to or v x at y is equal 0 is equal to v max is equal to delta P by kL whole to the 
+power 1 by n divided by n plus 1 by n, right , into del ta to the power n plus 1 by n . So, it is 1, so 
+this becomes equal to this which on simplification we can write n by n plus 1 times delta P by kL 
+to the power 1 by n times del to the power n plus 1 by n is the v max, right?  
+So, for slit , again you see the d ifference , now, for a limiting condition , if n is equal to 1 and k is 
+equal to mu , so, vmax, or slit flow is , that becomes equal to n becomes 1 , so, it is 1 by 2 delta P by 
+mu L, right? And this becomes 1 and this is del ta to the power 1 plus 1 , so, delta square, right? 
+So, that is delta P by 2 mu L del ta square , if you go back to the previous classes , you will see that 
+flow through slit , for Newtonian fluid , this is for Newtonian fluid , and this is for Non -Newtonian 
+fluid, right? So , if you go back and see the previous class es, there , we had done for Newtonian 
+fluid , this derivation , and there it was delta P by del ta square by 2 mu L as the v max, right?  
+(Refer Slide Time: 22:55)  
+ 
+ 
+Then , it comes , the average velocity, so , average velocity , vaverage  we can write , 1 by del ta, if 
+height is the H, then 0 to del, 0 to H, right? v x, dy dz is area, so , this is equal to 1 by del ta, 0 to 
+delta vx dy, right? So , this we can write v x, we have already found out is n by n plus 1, right , into 
+1 by del ta into delta P by kL whole to the power 1 by n , 0 to del ta, then this was del ta to the 
+power n plus 1 by n minus y to the power n plus 1 by n into dy, right? So , this on simplification  
+can be written , n by n plus 1, right , into 1 by del ta into delta  P by kL to the power 1 by n and this 
+is 0 and del ta, so, this is y, right? So , delta to the power n plus 1 into y , on putting del ta, so, we 
+can write this to be del ta to the power n plus 1 by n into del ta that is y, right , minus this is on 
+integration giv es y and plus 1 by n plus 1 that is 2 n plus 1 by n, right? So , this is , that is , delta to 
+the power 2 n plus 1 by n divided by 2 n plus 1 by n, right?  
+So, this is dy , so like that, so , on simplification , this we can write n by n plus 1, right , 1 by del ta, 
+delta P by kL to the power 1 by n , so, this becomes del ta to the power n plus 1 plus n that is 2 n , 
+plus 1 by n, right , minus this is del ta to the power 2 n plus 1 by n over 2 n plus 1 by n, right? So , 
+if we, sorry , take, if we take , delta n by n plus 1, 1 by del delta P by kL whole to the power 1 by 
+n into del ta to the power 2 n plus 1 by n , if we take common, so , 1 minus 1 by or , n by 2 n plus 1, 
+right? So , this can be written as n by n plus 1 to 1 by del ta delta P by kL to the power 1 by n 
+delta to the power 2 n plus 1 by n , this becomes 2 n plus 1 minus n by 2 n plus 1.  
+So, that means 2 n minus n, so , n plus 1 by 2 n plus 1. So , it is n by n plus 1, right , into this 
+becomes n plus 1 by 2 n plus 1, 1 by del ta, delta P by kL , whole to the power 1 by n and this is 2 
+delta 2 n del ta to the power 2 n plus 1 by n, right? So , n plus 1 and n plus 1 goes off, so , this is 
+equal to n by 2 n plus 1, right , into 1 by del ta so, this is del ta to the power minus 1, so , we can 
+write , delta P by kL  whole to the power 1 by n and this del ta goes there, so , delta to the power 
+minus 1. So , that is 2 n plus 1 by n minus 1 is equal to 2 n plus 1 minus n by n is equal to 2 n 
+minus n, so , n plus 1 by n , so, delta to the power n plus 1 by n, right?  
+(Refer S lide Time: 28:32)  
+ 
+So, the average velocity , this has come to , the average velocity has come v average  is equal to n by 
+2 n plus 1, right , into delta P by kL to the power 1 by n, right? And , delta to the power n plus 1 
+by n by n plus 1 by n, right? So , this is also nothing but equal to v max, what we had shown earlier , 
+vmax was this, right? Delta P by kL into n by n plus 1 , so, this was , vmax is delta P by kL to the 
+power 1 by n into n by n plus 1 into del to the power n plus 1 by n. So , this was v max, and now , 
+we have got this new vaverage is equal to , so, vmax was this, what did we write just now, yeah , 
+so, vx, vmax was this.  
+So, delta P by kL, so , delta P kL by this one n by n plus 1 this is n plus 1 or 2 n plus 1 n by 2 n 
+plus 1 this will be del ta n by n plus 1 v x is delta P by kL 1 by n n plus 1 by n, so , 1 minus this , so, 
+this we can write, this is nothing but n plus 1 by 2 n plus 1 v max, right? So , that was n by n plus 1 
+so, this is also n by 2 n plus 1 , so, vmax was originally delta P by kL  to the power 1 by n, n by n 
+plus 1, right , delta to the power n plus 1 by n. So , v average  has become equal to n plus 1 by 2 n 
+plus 1 v max, right? So , today we are going out of time so let us stop it today, thank you.                                                                                   

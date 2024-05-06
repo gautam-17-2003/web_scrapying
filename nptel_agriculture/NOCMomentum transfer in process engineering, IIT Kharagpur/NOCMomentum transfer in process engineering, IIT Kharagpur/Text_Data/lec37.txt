@@ -1,0 +1,125 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 37
+Module 8
+Problem on Pneumatic conveying Part-1 
+We had  done  this  conveying,  right?  Pneumatic  conveying  and  now, with  this  pneumatic
+conveying, we will do a problem because, a problem solution, and this problem will be, earlier,
+we had said, that may, this for particularly compressible fluid, things are complicated, and your
+expressions are bigger, so, it may, or may not be possible to do in a one shot, so there, it may be
+required some trial and error or things like that. So, maybe this problem, we will handle and
+there it may be required, right? 
+(Refer Slide Time: 1:19)
+So, let us go to that, I think this is on 23, yes. So, the problem says like this, A granular material
+is to be conveyed pneumatically in a line of 15 cm diameter and 130 meter long at a rate of 2000
+kg per hour. The discharge end of the line will be open to atmosphere, 25 meter above the feed
+point. And it is intended to retain a 12:1 solid to air mass ratio. If, under the operating condition
+the factor alpha, you remember, we had said that this alpha, we had taken as factor multiplied
+with all losses, frictional losses, everything, and we said this alpha maybe given, or may not be
+given, sometimes you may find out, sometimes it might have been given.
+So, in this typical problem, alpha has to be found out. So, the factor alpha has a value of 6, this is
+given, what pressure will be required at the feed point? Assume friction factor as 0.006 andtemperature to be 20 degree centigrade, right? So, I repeat, A granular material is to be conveyed
+pneumatically in a line of 15 cm diameter and 130 meter long at a rate of 2000 kg per hour. The
+discharge end of the line will be open to atmosphere, 25 meter above the feed point. And it is
+intended to retain a 12:1 solid to air mass ratio. If, under the operating condition the factor alpha
+has a value of 6, what pressure will be required at the feed point? Assume friction factor as 0.006
+and 20 degree centigrade as the temperature, right? 
+(Refer Slide Time: 4:08) 
+Now, let us look into the solution of this problem. From the given problem, it is coming that the
+diameter of this is D is equal to 15 centimeter is equal to 0.015 meter, right? Height of this is z or
+delta z, whatever we call, that is given as 25 meter, so height is equal to 25 meter, right? And the
+rate of the mass flow rate, m dot is equal to 2000 kg per hour, right? And this solid to air ratio,
+this is 12:1, then friction factor is 0.006, and temperature is equal to 20 degree centigrade that
+means, 273 plus 20 is equal to 293 Kelvin, right? 
+So, if that be true, m dot is given, so, mass flow rate is given, we can write G, right? G as 2000
+kg per hour, right? That can be written as 2000 divided by area that is kg per hour so we can
+write, 3600 as kg per second into area pi by 4 D square, D is 0.015, not 15 centimeter, then, it is
+0.15 not 0.015, so, it is 0.15 meter, that should be clear, right? 15 centimeter is 0.15 meter, this is
+square, right? And this comes to equal to, let us look into that calculator, okay, so, 2000 divided
+by 3600 divided by pi by 4, okay, is equal to this divided by 0.15 square is equal to 31.438,
+right? So, so much kg per meter square per second, right? This is the mass velocity, G. So, that, we said
+earlier that, mass velocity, rho v; G is equal to rho v, so that we got 31.438 this thing, right?
+Okay. Now, RT by M, this is equal to, R, is 8314 into this is 293, molecular weight of air is not
+given, so, assume molecular weight of air to be 29, so, by 29, this comes to equal to 8314 into
+293 is equal to this, divided by 29 is equal to 84000.06 or 0.07, so, so much joules per kg or
+meter square second square, so is or this is joules per kg, this meter square second square, joules
+per kg, this conversion, we had done in one of the earlier problems, if you remember, and we
+showed, how this is convertible in terms of unit, that we had done, right? We are not re-doing
+here, okay.
+Now, if this is true, that 84000, of so much, now, some other are required, GRT over M square is
+equal to this G is 31.438 into R, 8314, RT by M, so RT by M is 84000, let us ignore the other
+one, right? So, this square divided by 2, so, this becomes equal to, let us look into how much it
+becomes, so it is 31.43 into 84000, this square, that is square divided by 2, so, that comes equal
+to 3485116807200, so, is equal to 3.48 into 10 to the power 12, right? So, that is what 3.48 10 to
+the power 12, so much joules square per meter square per second square.
+So, this will be meter to the power 4, right? Joules square because, this GRT, that was joule per
+kg, right? This is kg, G is kg per meter square per second into RT by M that was joules per kg,
+so, this square this is equal to this kg, kg goes out, this joules remains, so, becomes, joules square
+per meter to the power 4 second square, right? So, that is what it is coming, okay. 
+Now, let us look into the third one that is what next, next is we have been given the pressure,
+right? We have been given the pressure, one inlet pressure is given, what outlet pressure, we have
+to find out, that is what exactly, we have been given that and length also in this case, we, total
+height was so much, so, if there would have been like this, so, total length was 130 meter, right?
+And pressure was given, alpha was given, is equal to 6, and pressure will be at, I can remember
+the problem, material; conveyed pneumatically in a line at a rate of so much, and the discharge
+end of the line will be open to atmosphere, and what we have to find out, what pressure will be
+required to the feed point, okay.
+So, this discharge end is atmospheric pressure, so, it is 1 atmosphere, and here the pressure p
+inlet, how much has to be found out, right? 
+(Refer Slide Time: 15:18)If, that be true, then let us then find out, what is the value of 1 plus alpha, 1 plus S, so, it was 1
+plus S plus 4 alpha f L by D, what is the value of this? This is 1 plus S, is given 12:1, so, 12 plus
+4 alpha is 6, L is, alpha L is given as L by D, okay. So, L is given as this, 4 into alpha into f, f is
+given 0.006, right, into L is given 130 meter by D is given 0.15, right? This we can write like
+this, right? 4 alpha f so this.
+So, this is equal to 1 plus 12 that is 13 already, so let us look into how much, what is that again,
+we have taken out, so 4 into 6 into 0.006 into 130 divided by 0.15, right? So much plus 12 plus 1
+is equal to 137.8, right? 137.8, right? 137.8. So, this, if we take other value is 1 plus S into g into
+z1 minus z2, that was equal to 1 plus 12 is, g is, 9.81, right, into 9.18 into z 2 minus z1, that is
+given, or this is z1 minus z2, so, against the gravity, so 25 meter, it was given, so, into 25, right?
+This becomes equal to how much? 1 plus 12 is equal to this into 9.8181, sorry, so 9.81 into 25
+plus minus is equal to minus 3188.25, right? 
+So, that is what we got, 1 plus S. Now, let p 1 by p2, that is equal to 1, right? Then, we get left
+hand side, the equations we had given earlier in the previous class is 0 plus 0 minus 3188.25,
+right? So, if it is 1, then this becomes 0, 0 into 0 plus 0 minus 3188.25, so this is less than 0,
+right? This is less than 0, so, let another p 1 over p2, so this to be 1.2, right? Then, left hand side of
+the equation, this becomes equal to how much? 
+(Refer Slide Time: 21:01)If, we go back to, I hope the equation we need to write somewhere, right? So, we had equation,
+let us write here, this is RT by M ln of p 1 over p2 plus 1 plus S plus 4 alpha f L by D, right, into
+GRT square divided by 2 M square, right? This times 1 minus 1 by P 1 whole square minus 1 by
+p2 square, right? This plus 1 plus S into g into z 1 minus z2, this is equal to 0. So, this is the
+equation, this was the equation, which we have to do.
+So, RT by M ln p1 by p2 plus 1 plus S 4 alpha f L by D into GRT square by 2 M square, right, into
+1 by p1 square minus 1 by p 2 square plus 1 plus S g z 1 minus z2 that is equal to 0, right? So, in the
+first case, we said left hand side is equal to p 1 by p2 that is ln 1 so 0, and this p 1 is equal to p2, so,
+this goes off, right? So, this was also 0 and we had the third term this one, this we found out to
+be minus 3188.25, so, it was this, it is less than 0, right? 
+Now, if we assume p 1 by p2 is 1.2, then what we get? We have RT by M is 8400, so RT by M is
+8400, ln of 1.2 plus 1 plus S plus 4 alpha f L by D, so, this we got here is minus 3, right? 1 plus S
+plus 4 alpha f L by D, no, no, this is, 137.8, right? So, 137.8, right, into GRT by M square, so, by
+2 GRT by M square, this whole thing we got 3.48 into 10 to the power 12, right? So, this is 10 to
+the power 12, and this becomes 1 by p 1 square minus 1 by p 2 square. So, we have taken p 1 is
+equal to 1.2 p2, right? So, 1 by p1 square minus 1 by 1.2 square p 2 square, right? 
+So, if that be true, then, we get minus 3188.25, that was the last term, right? So, if we take p 1
+square out, then we can write left hand side is equal to 8400 ln of 1.2, so, 8400 ln of 1.2, 1.2 ln is
+this, into 84000, right? So, it was like that, which came 84000 from here, right? So, this becomes
+equal to 15315, 15315 plus 137.8 into 3.48 10 to the power 12, right? So 3.48 into 10 to the
+power 12 is equal to this into 137.8, 137.8, right, is equal to so much, if we take this is equal to4795440, right, into, if we take 1 by p 1 square common, then it becomes 1 minus 1 by 0.2 square,
+right, minus 3188.25, right? 
+So, 1 minus 1 by 1.2 square is how much? 1.2 square inverse of that is this, plus minus this plus
+1 is equal to 0.3, so 0.30 into that 479544 into 10 to the power 9, right? So, much plus 15315 is
+equal to this, right, minus 3188, we have written right 3188, yes, 3188.25 is equal to some value
+is equal to, it has come 1465273334560, right? Which is greater than 0, right? So if this is like
+that, this means this has come like that and our values are like that which is greater than 0, if we
+take that this has become 1 minus 1 by 1.2 square p 1 is 1.2 p2, right? This was done p 1 is 1.2 p2,
+so, that should have been p 1 is 1.2 p2, right? 
+So, we should have written here, 1.2 square p 2 and this is p2 and then this should come out and
+our this value should have been 1.2 square inverse of that minus 1, so this is equal to minus 0.03,
+right? So, that means the whole term, so irrespective of the values, so, this is a value of A and
+this becomes value of say negative, B minus a value of negative C, A is less than B plus C, so it
+is a negative, some value, right? Which means it is also less than 0, right? 
+So, we have taken two trials, one is p 1 by p2 is 1, second is p1 by p2 is 1.2 and in both the cases,
+we saw that the expression left hand side whatever, we had, that is less than 0, that means we can
+have p1 by p2 higher than 1.2, okay. We will do in the next class, time is not there, thank you. 
+ 

@@ -1,0 +1,115 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 35
+Module 7
+Variable fluid flow-problems and solutions (Continued) 
+Okay, we have done variable flow, right? And we have done a problems also with that and let us
+do  another  problem  because  solving  problem  will  give  you  confidence,  that,  yes,  you  are
+proceeding in the right way. Whenever, you do anything, you try to make solutions of problems,
+and numerical problems, and the moment you do it, that gives you two things, number 1, the idea
+of the numerals, what is the pressure, what is the velocity, all these you can come to know, like
+coefficient of discharge, unless you have some idea, while doing the problems.
+So, suddenly you cannot tell that, what is the coefficient of discharge values, more or less what
+different, of course it is company make, so, that depends on the nozzle, or that came with
+instruments, and this is a company make, and company will tell you that, what is the value of
+that Cd, but still, while you are doing the solution of the problems, you come across, and you can
+definitely tell, that the values are around 0.98, 0.95 it can also be 0.85, depending on the design,
+depending on the valve, depending on the comnay, depending on the nozzles, which you are
+getting from the supplier, right? (Refer Slide Time: 2:11)
+So, let us do another problem, and this problem tells that, A reservoir of oxygen is maintained at
+900 millimeter of mercury pressure, and 25 degree centigrade temperature. A 10 millimeter
+nozzle, fitted to this reservoir, releases oxygen to a pressure of 650 millimeter of mercury. If
+molecular  weight  of  oxygen  is  32,  what  is  the  rate  of  release  of  oxygen?  Further, if  the
+downstream pressure falls to 200 millimeter of mercury, what is the percentage increase in the
+rate of supply of oxygen? You assume, Cd value to be 0.98, molecular weight, this I should
+change because, small m is not molecular weight, so, it is capital M. So, molecular weight of
+oxygen is 32 and the given heat capacity ratio is 1.4, right? 
+I repeat, A reservoir of oxygen is maintained at 900 millimeter of mercury pressure and 25
+degree centigrade temperature. A 10 millimeter nozzle, fitted to this reservoir releases oxygen to
+a pressure of 650 millimeter of mercury. If molecular weight of oxygen is 32, what is the rate of
+release of oxygen? If the downstream pressure falls to 200 millimeter of mercury, what is the
+percentage increase in the rate of supply of oxygen? Assume Cd 0.98, molecular weight already
+given 32 and gamma 1.4, right? Here also we should write, otherwise it is millimeter 200
+millimeter of mercury that millimeter is coming capital so it should be small millimeter of
+mercury, right? Yeah, fine.(Refer Slide Time: 5:37)
+So, then, if we solve it, then, we know, w at 650 millimeter of mercury, whatever has been said,
+this is equal to Cd A 0 under root 2 gamma p rho by gamma minus 1, right, into p 0 by p to the
+power, or, rather, 2 by gamma minus p 0 by p to the power gamma plus 1 by gamma, right? So, if
+that is true, then, we can write, given, let us write that, Cd is 0.98, then M is given 32, then D is
+given, D of nozzle is given 10 millimeter, so, it is equal to 10 into 10 to the power minus 3 meter,
+then, temperature given, 25 degree centigrade, is equal to 273 plus 25, i.e., 298 Kelvin, right?
+And gamma given is 1.4, then p 1 is given at 900 millimeter of mercury and p 2 is given 650
+millimeter of mercury, right? 
+So, and also we have to find out that what is the value of A 0, A0 is pi by 4 D0 square is equal to pi
+by 4 into 10 into 10 to the power minus 3 whole square, right? And this is equal to pi by 4 isequal to this into 10 to the power minus 3 that is 1 into 10 to the power minus 2, so, into 10 to the
+power 2 plus minus is equal to, that is what, so, when you calculate, you have to be very careful
+so, pi by 4 into 10 into 10 to the power minus 3, whatever is written, let us take that otherwise
+chances of mistakes are there and it is occurring.
+So, this square, right, so, that means, this 7.853 into 10 to the power minus 5, right? So, we can
+write w650, this is equal to 0.98 into 7.853 into 10 to the power minus 5 under root 2 into 1.4
+divided by 1.4 minus 1 into p, p given is your 900, right? p given is 900 millimeter of mercury,
+okay, and millimeter of mercury, 900 millimeter of mercury, so it is 900 into 760, 900 into 760,
+atmosphere, is equal to 760 millimeter of mercury, right? Or 1 millimeter of mercury is 1 by 760
+atmosphere, right? So 900 millimeter of mercury is equal to 900 divided by 760 into 101325
+Pascal, right? 
+So, there should be written 900 into 101325 divided by 760, right, into 760, so, this is what this
+times, we can write here, since, this is ratio, so, we can write this p o, 650, p is 900 to the power 2
+by 1.4 minus, 650 divided by 900 to the power 1.4 plus 1 by 1.4, right? So, till now, it is okay,
+so, this part is done, let us do this part. So, if we do 650 by 900 is equal to this, to the power 2 by
+1.4 is this, so, that is becoming this minus, so, let us take first this, and second, this that 650
+divided by 900, right? So, this is equal to this to the power 1.4 plus 1, i.e., 2.4 divided by 1.4,
+right? So, this becomes that, then, that becomes this, then, this is equal to this, fine.
+This times 101325 times 900 times 1.4 times 2, right, is equal to this divvied by 1.4 minus 1 i.e.,
+0.4 divided by 760 is equal to so much, this is under root, so much into 0.98 into 7.853, 7.853
+into 10 to the power minus 5, 0.0166 is equal to 0.01666, right? This much of w, that is kg per
+second, right? And this is divided by 3600, is equal to, sorry, into 3600 square is equal to 59.96
+kg per hour, right? So, if it is w 650, so, what about then, w 200. So, w200 is 0.98, right, into pi by 4
+10 to the power minus 3 square, right, into this remains under score 2 into 1.4 into this is from
+900 to 200, so, 900 into 101325 divided by 1.4 minus 1 into 760, right? 
+So, these times this is 200 by 900 to the power 2 by 1.4 minus 200 by 900 to the power 1.4 plus 1
+by 1.4, right? If this is true, then this we have already done, this is equal to 7.853 into 10 to the
+power minus 5 times let us see how much is this, right? So, that comes to be equal to 200 by 900
+is equal to this to the power 2 by 1.4, right? So, this is so, minus 1 then, 200 by 900 to the power
+2 by 1.4, right? So this is 1, 2 minus, right, minus 1, 200 by 900, right, to the power 1.4, 2.4 by
+1.4, so, this becomes, that becomes, this becomes this, right? So, hopefully, then, I again, some mistake has been done, some mistake again has been done. It
+is better do it carefully? 2 by 1.4 so that is this minus 1, 200 divided by 900 this goes x to the
+power y 2.4 divided by 1.4, is this, and this is closed and finally is this, right? That we got it
+perhaps correctly into 2 into 1.4 into 900 into 101325 is equal to this divided by 0.4 divided by
+760 is equal to this, so, this is under root this times 0.98 times 7.853 times 10 to the power minus
+5, 10 to the power 5 plus minus, this is equal to this, right? So, it is 0.0142, right? kg per second,
+0.0142, say 4, right? This divided by, not divided by, this into 3600, is equal to 51.25 kg per
+hour, right? So, it was 59.96 kg per hour, here it is 51.25 kg per hour, hopefully they also got a
+similar number 0.0192, in our case 0.0142, in our earlier case 0.0166, in their case it was 0.0186.
+However, then this means that this pressure that w 200 was this 0.0192, 0.0186, 0.014, 0.0166, so,
+how much percentage increase in the rate? So, it is coming to be decrease 59 to 51 so, it is
+coming to be decreased, but actually it is increased, that was, it is being shown that this is
+becoming an increase and this increase is w 650, that we have found out, in otherwise, we have not
+done anything wrong, that 0.985, there is Cd pi by 4, this is the diameter 10 to the power minus 3
+whole square, so, 2, that gamma 1.4, p 900, right? 101325 divided by 1.4 minus 1 into 760 what is
+not done is rho that is PM by RT, that is not there should have been done.
+So, rho is equal to PM by RT, where it is 900 into 32 by 8314 into 298, right? So, that should
+have been there, right? So, if that value comes to, then it is 900 into 32 is equal to this divided by
+R, 8314, divided by 298, is equal to 0.0116 kg per meter cube. So, that should have been there
+which, here also, it is missing, that value of rho, right? Because, this is 2 gamma p rho, so, value
+of rho should have been there, and that we can find out, from rho is equal to PM by RT, so much
+0.0116 kg per meter cube.
+However, if we put that then, it is here into 650 by 900 p 0 by p to the power 2 by gamma, i.e., 2
+by 1.4 minus 650 by 900 to the power 1.4 plus 1 by 1.4. So, this is supposed to come a value
+which obviously is not also this one, some other, please check and see how much actual it is
+coming, and in a similar way w 200, in this case w200 will be your this is rho, 900 so, w 200 will be
+again, PM by RT, so we can write 200 into 32 here also some more thing had to be written
+101325 by 760, so this may not be the right number, some number in kg per meter cube will be
+there, so, here also 200 into 32 by 8314 into 298 into 760 into 101325, so, this you put that
+becomes equal to some value.So, that rho value also has to come here, right? 0.985 by 4 into D square into 2 1.4 into 900 into
+101325, fine but, here, rho value has to be there, 1.4 minus 1 into 760, 200 by 900 to the power 2
+by 1.4 minus 200 by 900 to the power 1.4 plus 1 by 1.4. So, this what will happen? This value
+will have lower value, whereas, this value will have higher value and from there we can show
+that the increase is this much, and we can find out the percentage, this is what exactly the
+intention of the problem, given is that you work with value and calculate and get really the
+insight of it, or get really the numbers which are associated, for example 5 percent, 3 percent
+increase or decrease whatever if depending on the cases it will be, right? 
+So, when it is like that, then we can find out the real difference, okay so, thank you for this class,
+thank you. 
+ 

@@ -1,0 +1,163 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 18
+Module 4
+Flow through flat and parallel plates
+Okay, if we remember that in the previous class we had given a problem, and we asked that you
+try, and if you cannot do this, then, we will do that in this class. So, let us see whether you are
+able to solve that or not, okay. 
+(Refer Slide Time: 0:57)
+So, yeah, this was the problem, which we had given you that A fluid of constant density is
+flowing in laminar flow at steady state in the horizontal x direction and between two flat and
+parallel plates, the distance between the two plates in the vertical z direction is said 2 z 0. Using
+shell momentum balance, derive the equation for the profile within this fluid, right? 
+So, that means, say, a fluid of constant density is flowing in laminar flow at steady state in the
+horizontal x direction, so if we have the plates like this, if we have the plates like this, right? 2
+plates like this, if we have, then, these two plates, right? One over the other, these two plates the
+fluid is flowing within this, and we have to find out the profile, right? Derive the equation for the
+profile within this fluid, this we have to get it. (Refer Slide Time: 2:18) 
+Now, this if we draw this that as we showed you  on paper like this, right? 
+(Refer Slide Time: 2:43) 
+And the other one, as said like this okay, and if we have say, this is y direction, this is x direction
+and this is z direction, right? So x, y and z, and the flow is taking place like this, the flow is
+taking place like this, the distance between these two plates are say 2 z 0. So, this was our
+problem, which we had asked to solve. So, it is flowing along like this, right? Between these two
+plates, now, these two plates as small as we can think of. That means, there are the two plates and
+say one over other like this, and the fluid is flowing below this in this direction. So, this we had
+taken x as this y as this direction and z is the gap between the two, right? So, if we take this kind of solution, then, we assume here again number 1, the flow is steady;
+number 2, the flow is laminar, right? So, this assumptions we make that flow is steady, flow is
+laminar, if that be true, then from the physical understanding of the problem, we can then say
+that vy is equal to vz is equal to 0 because, flow is taking only in the x direction, right? So, there
+is no flow in the y direction, there is no flow in the vertical z direction.
+If that be true, if there is no flow in the horizontal y and vertical z direction, only in the x
+direction, because, it is steady, because it is laminar, right? So, if that be true, then v y is equal to
+vz is equal to 0, and there is no del v x del x present, i.e., del v x del x is equal to 0, and we simply
+for all practical purposes, say, that g x is equal to 0, because that is in the x direction is the flow.
+So, gx also we can assume to be equal to 0. So, we can write, del del P del x, that is equal to rho
+gx plus mu del 2 vx del x square, right? 
+And since gx is equal to 0, we can write, del P del x is equal to mu del 2 v x del x square, right?
+Because, gx we have assumed to be equal to 0, right? And we said in the beginning that this
+distance, as small as we can think, if that be true, then also, no, there is a proper definition of the
+physical problem, is that, this distance is as small as we can think of, right? It being very small,
+is 2 z0, we can say that it is so. Then, we can say del P del x is mu del 2 v x del x square which is
+nothing but a constant, right? 
+So, we can now integrate it and say, del v x del x, this is equal to 0, right? Because, del P del x is
+constant, so del vx del x is equal to 0 and this is true at z is equal to 0. For the symmetry, del v x
+del x is 0 at z is equal to 0, because this is 2 z 0, so, you can tell that, it is 1 z 0 and another is
+another z0, from the center, right? So, this we can say that 1 is z 0 and the other is another z 0 from
+the symmetry. So, del v x del x is equal to 0 at z is equal to 0, right? So, then, we can also write
+del vx del z, it was del 2v x del z square, right? del 2 v x del z square, then del v x del z, this is equal
+to 1 by mu del P del x into z, right? (Refer Slide Time: 9:57) 
+So, on integration we can say that v x is equal to 1 by 2 mu del P del x z square plus C, that is
+constant. So, we can now put the boundary condition that is v x is equal to 0 at z is equal to plus
+minus z0, right? So you can write C is equal to minus 1 by 2 mu del p del x z 0 square or, you can
+say vx is equal to 1 by 2 mu del P del x z square minus z 0 square, right? 
+So, this way we can easily find out some or other problem, which we come across and say this is
+the velocity profile for v x 1 by 2 mu del P del x z square minus z 0 square, right? Then, now, let us
+move to some other situation, other situation in the sense, other problem. In this manner, we have
+problem, now, let us say a vertical or horizontal calandria, you know calandria? Calandria is
+normally said for heat transfer where evaporators or in heat exchangers, liquid films are being
+concentrated, right? 
+So, you have a concentration of one say, food material, or, a chemical solution, whatever, so, one
+solution  you have  which  has  one concentration  and  you  want  to  concentrate  it  to  another
+concentrated one, right? So, say, from 60 percent to 80 percent you want to concentrate, or 60
+percent to 90 percent you want to concentrate in a film. So, what you will do, this a one side, say,
+if you take this as a heat exchanger, so one side you will make this, like this one is the film,
+which is flowing and in another side is your heating medium.
+So, if that be done, that one side is film and another side is the heating medium, then while this
+fluid is falling from here to here, by the time it falls from there to there, it will get concentrated,
+right? Now, for that as far as heat transfer is concerned, you have to consider heat transfer, but,
+for the flow of the fluid, how the fluid will behave, what is the velocity profile, what is the stressprofile, shear stress profile, that if we want to know then, you have to consider it, right, from the
+beginning, it may be a vertical film, or vertical fall or vertical heating medium or it can be an
+inclined one.
+So, depending on or, which can be made, depending on the inclination angle, it can be made
+vertical or horizontal, right? So, let us now talk about that. It may take, it may not be possible to
+complete in one class, but okay, if required, we can carry over to the next class, right? 
+(Refer Slide Time: 14:35) 
+So, let us now take here one such situation, say, we have one film we have one solid heating
+surface, or solid heating surface like this on which a film is there. Now, this film, we are
+assuming it to be a little expanded or in a microscopic view or enlarged view, rather, if we look
+into an enlarged view, then, so, we take a volume element, here also we will do the mass balance
+or momentum balance, rather, that momentum balance on the volume element. This volume
+element, what we are looking into that, we have here say x, y and z, three coordinates if we are
+talking about, right? 
+And if this is the length, right? And if we say that okay, from here, from here, right? So, this is
+the end effect, without the end effect, we have, so, you remember earlier, we had said the end
+effect, right? We take the liquid where there is no end effect, right? And fluid is flowing this way
+and we do the momentum balance, right? So, here momentum flows by convection, this is out,
+similarly momentum flow by convection this is in, right? 
+So, in minus out is like that, and momentum flow by molecular transport, so, momentum flow by
+molecular transport, that we can say this is working here, okay, on the fluid, right? Okay, and sayafterwards, when we will look at momentum flux distribution, how it is, it will look this, right? It
+will look like this momentum flux distribution and if we look how the velocity would like, so, it
+will look like this. This is the solid surface, this is the open surface that this is the film, this is the
+film, which is there or this is the film which is there, right? 
+So, this film is moving from this angle, right? Let, the angle be beta. Let the angle be beta like
+this, right? So, we can do and this length we have said, okay, now, the volume element, which we
+are taking is this, as delta x, right? And this, we have taken, and if the thickness of the film is del,
+right? So, we have del x as 1 and the other one del, other one is taken as L, and third one may be
+w, right? So, in this, then some assumptions, are there, which we must know. 
+(Refer Slide Time: 20:11) 
+So, this is a typical such kind of thing is actual. You see that fluid is flowing, this is absolutely, of
+course, vertical, so, a film is falling here and this film, by that time it comes to the other end is
+getting evaporated and getting concentrated, right? So, one is heating medium and the other is
+the film, which is to be concentrated, right? So, this type of things are called calandria and
+through which we are getting things evaporated, okay.
+Now, we will do the shell momentum balance, and for that, we need the assumptions to be also
+kept in mind. Now, these assumptions obviously are very pertinent, such that we can we actually
+visualize the problem described. Now, the problem described is that we have a vertical plane, we
+have a vertical heating medium and this is inclined, the inclination angle is beta, and we have
+taken a volume element, where it is delta x, is the thickness, right? Of the film, which we are
+doing the shell momentum balance, that shell thickness is delta x, right? We have shown that thelength is L, and the other third z direction, that can be, as may be w or width, or, whatever
+corresponding side, right? 
+(Refer Slide Time: 22:01) 
+So, we need certain assumptions to be kept in mind, and those assumptions are like this that a
+solid fluid interface, and fluid velocity is at the solid fluid interface, fluid velocity is the velocity
+with which the surface itself is moving, right? This, we have said earlier also that the surface on
+which the fluid is moving, if the surface is the surface, is stick or surface is fixed, then this fluid
+surface is also sticking or clinging to the surface of the solid, so that solid fluid interface, this
+fluid is clinging and this is called that it is attaining the velocity of the solid since the solid is not
+moving, so we can say that, the fluid is clinging to the solid, and that is what we have assumed
+first, right? 
+(Refer Slide Time: 23:09)(Refer Slide Time: 23:15)
+Then, at liquid gas interface, now liquid gas interface is this one, right? Liquid gas interface is
+this one, this is the liquid and above which is the gas, this is the solid we said, right? This is the
+fluid or liquid, which is getting heated or concentrated. (Refer Slide Time: 23:33) 
+So, at liquid gas interface, velocity gradient, that is the momentum flux, in the liquid face is
+assumed to be 0, at this point the velocity, the velocity gradient at this point, i.e., momentum flux
+in this face is liquid face is assumed to be 0. And at the liquid-liquid interface, momentum flux,
+perpendicular to the interface and the velocity are continuous across the interface. So, these three
+assumptions, we are setting in the beginning so that subsequently, when we will do the analysis,
+that time, we have no problem. 
+So, I repeat the assumptions once more. That, for the shell momentum balance for falling film we
+assume at solid fluid interface fluid velocity is the velocity with which the surface itself is
+moving. This means the fluid clings to the surface, solid surface with which it is in contact. At
+liquid gas interface, velocity gradient, i.e., momentum flux, in the liquid face is assumed to be 0,
+and at liquid-liquid interface, momentum flux is perpendicular to the interface, and the velocity
+are continuous across the interface, right? (Refer Slide Time: 25:36) 
+Now, as earlier, we have seen, we have done the shell momentum balance, for doing such kind of
+momentum analysis, and here also, we will do the shell momentum balance, and in that we can
+say the governing equation is, rate of momentum in minus rate of momentum out plus sum of the
+forces acting on the volume element, this is equal to rate of momentum accumulation, right? 
+So, this general governing equation is applicable for momentum balance applications, right? So,
+in that case we can say that rate of z momentum in by convection is equal to w times delta x
+times vz into rho vz at z is equal to 0, rate of z momentum in by convection is equal to w times
+delta x times vz into rho vz at z is equal to L, right? This is out not in was there this is momentum
+out and rate of momentum in by molecular transport, this is equal to L into w into Tau xz at the
+face x and rate of momentum out by molecular transport that is equal to L w Tau xz at the face x
+plus delta x, right? 
+And some more, gravity acting on the fluid is equal to L w delta x times rho g Cos beta, right? L
+w delta x that is the volume element, into rho, whose, volume is g Cos beta, right, is the gravity
+acting on this, right?(Refer Slide Time: 29:27)
+Now, if this is understood, I hope with this beginning, we will move for what to do the next but,
+before that, let us also have a look, so that in the next time we do not have to do so. This is the
+actual, which we have taken the volume element like this, thickness we have taken delta x, z
+direction is this perpendicular, this direction is y which we have taken as w, right? 
+So, our volume element has become w into L into delta x, right? So, this our volume element has
+become and we are doing shell momentum balance, across this volume element, right? So, we
+stop it today here. Next class we will do, but keep in mind that this thing we are not going to do
+again, right? So, next time we will do the subsequent, we have already done, what is momentum
+out, molecular momentum and convective momentum in and out and the gravitational force
+acting on it, that we have shown, right? And, we have also assumed it to be a steady flow, steady
+state, so that part we will keep in mind, thank you. 

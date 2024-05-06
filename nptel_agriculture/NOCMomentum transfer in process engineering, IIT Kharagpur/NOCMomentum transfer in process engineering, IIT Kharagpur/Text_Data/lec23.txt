@@ -1,0 +1,184 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 23
+Module 5
+Stoke’s law
+Okay, now, you remember, in the previous class, we had developed the flow, both, flow and
+velocity as well as the shear stress profile. Now, we also said that, in cases, we will do some
+problems, and the moment you do some problems, that will give you some confidence that, yes,
+“I can solve some of the problems”, right? So that, if we can see, say, this we also said that
+viscosity, we had developed, we had determined theoretically, of course, in some cases, that was
+through capillary in earlier class, right? 
+Now, another way of finding out viscosity is that you have seen that Brookfield viscometer,
+right? In the very earlier classes, you have seen that we said that one fixed container and one
+rotating container, inner container was fixed and outer container was rotating, and by that way
+the viscosity could be determined, right? And we found some expressions for that shear stress
+also, okay, as well as the velocity profile. And in that case, we would have said that, yes, you can
+develop the theoretical relations for finding out the viscosity, and same is used for flow of film or
+we also showed through capillary tube, right? 
+Now, another one we would like to also highlight, a rest of this that is when you have a small
+tube through which a ball is dropped and if the ball is dropped, then, depending on the viscosity
+of the fluid through which it is flowing through, you use the ball is dropping, it will take time.
+So, if you know the time required from one height to another height, how much it is taking time,
+then, from there also you can determine the viscosity. This is another way of determining the
+viscosity, right? 
+So, let us do one such problem by which we can determine the viscosity theoretically, this is of
+course, based on definitely on the buoyancy forces acting on it and the relation is also known in
+most of the cases, but, still we have to find out, let us do that. (Refer Slide Time: 3:36)
+The problem is like this, a sphere is allowed to fall from rest, i.e., when it is not moving, it is at
+rest, is fell from a rest in a viscous fluid. The rate of fall of the sphere in the fluid can be
+measured at steady state. Derive, a relation to get the viscosity of the fluid.
+I repeat, a sphere is allowed to fall from rest in a viscous fluid. The rate of fall of the sphere in
+the fluid can be measured at steady state. Derive a relation to get the viscosity of the fluid, right?
+So, obviously the sphere when it is falling, it will accelerate, until it reaches a constant velocity,
+which is known as the terminal velocity, right? So, at this state, when the terminal velocity is
+attained, some of the forces acting on the sphere must be equal to, some of the forces when
+acting on this sphere is equal to 0, because, that time it will attain the terminal velocity, right? 
+And these forces are, force of gravity on the solid ball acting in the direction of the fall, and the
+buoyancy force, and the force due to flow of the motion of the ball acting in the opposite
+direction. So, these two forces, when you are encountering, when you are accounting for, then,
+that will give a relationship, from there you can determine the viscosity, right? So, let us look
+into the problem, the sphere will accelerate until it reaches a constant terminal velocity. At this
+state, the sum of all the forces acting on the sphere must be 0, and now the force of gravity on the
+solid ball acting in the direction of the fall and the buoyancy force and the force due to fluid
+motion acting on the opposite direction, right? (Refer Slide Time: 6:31) 
+So, this we can say, then, the volume of the sphere is four third pi R cube, right? And density of
+this sphere, if it is rho s for sphere, and the gravity is that, so, this is four third pi R cube rho s into
+g, which is the gravity force acting on the ball, and the buoyancy force, which is acting on the
+ball will also be: the volume of the sphere, four third pi R cube into the density of the liquid rho l
+into g plus 6 pi mu v turbulent velocity into r. 
+So, we said, the gravity force and the sum of the forces acting on it is equal to 0. So, if we take
+all of them in one side, then becomes, this minus this minus this equal to 0, right? So, here that
+rhos is the density of the solid, and this rho l is the density of the liquid, or say, rho l, if we write in
+a better way. So, this is the density of the liquid, right? And v t is the terminal velocity, right? rho l
+is the density of the liquid, then rho s is the density of the sphere solid, right? 
+And R is the radius of the solid sphere, right? g is the acceleration due to gravity that we know,
+right? And mu is the viscosity of the liquid, right? So, if this be true, then from this relation we
+can write that mu is equal to 2 R square into rho s minus rhol into g over 9 vterminal, right? So, this
+mu is equal to 2 R square rho s minus rhol into g over 9 vterminal, right? I hope you have seen this
+when you have done Stoke’s law, right? 
+So, this is nothing, but Stoke’s law, and from there, if we know the terminal velocity, if we know
+the density of the liquid, if we know density of the solid, if we know the diameter of the sphere,
+then, we can find out the viscosity of the liquid, right? So, this mu is rather, mu l that should be
+said. Of course all it that does not have any viscosity. So, this is again valid when Re, or N Re,
+Reynolds number, is D v terminal rho of the liquid by mu l is less than 0.1. This is valid when theReynolds number is less than 0.1, defined as D v terminal rho of the liquid by mu of the liquid. So, if
+it is less than 0.1, then, we can determine that viscosity, right? 
+So, let us, can we do, one just frame out, one problem, and do it for that you remember earlier we
+had given diameter of this say solid is 1.7 into 10 to the power minus 3 meter, right? And the rho
+of the solid, depending on that, the viscosity will be of course determined. We had taken
+arbitrarily. So, rho of the solid that if we take to be equal to say, around 50, or okay 5000 kg per
+meter cube, arbitrary of course, I am assuming rho of the liquid say water 1000 kg per meter
+cube, this density might be too low, however rho of the liquid is that and g we know to be 9.81,
+right? 
+Then, the viscosity that can be written as mu liquid, this is 2 into 1.7 10 to the power minus 3,
+right, Whole square divided by 2, right, into this is 5000 minus 1000 into g is 9.81, right? And,
+terminal velocity, let us assume to be say, this is 9 into, as we have seen earlier say it is 0.03
+meter per second. Then, if we look at this, the value, find out the value, and then, that will give
+you the viscosity of the liquid, right? So, this way we can find out the viscosity of the liquid and
+obviously, this is an application of the Stoke’s law which we know, right? 
+Now, let us go into another situation or fresh situation, where we can have, you know that for
+homogenization, that you get milk every now and then, so, that milk is normally homogenized,
+you know. So, for homogenization, what is done you know, high pressure liquid is or milk is
+passed through a very small orifice, that orifice determines, what will be the diameter of the Slit
+or orifice. Now, first of all, homogenization means that you are homogenizing fat particles, in
+milk, if you take, you might have seen that the fat particles comes out and floats on the surface
+with time.
+You buy from the market, not the homogenized milk, normal, wherever is available fresh milk, if
+you buy and then keep it just like that for couple of hours, you will see that fat particles are
+coming up on the surface, and they, because their sizes are big and, this, from this Stoke’s law,
+we have seen, there also you find out what is the time required for the fat particles to come up,
+right? The same thing, okay. 
+So, let us look into that, then, perhaps, with the next thing would be much easier to visualize,
+right? But, before that, let me tell the situation, what happens, we will do again one problem,
+here, only, we will constitute, that problem, we will frame out that problem, and solve it with thehelp of that Stoke’s law, which we have just defined, right? And say, now, what is happening in
+homogenization? 
+(Refer Slide Time: 16:32)
+That, a high pressure, say, this is, this is a  slit through which a high pressure liquid is coming,
+right? Here, that milk is coming and going through this enlarged view, this size could be 2
+micron or 3 micron or 4 micron or 1 micron depending on what you need at the exit of the
+homogenizer.
+If this is the homogenizer, right? This is the point where, through which homogenization is
+taking place, called homogenizing valve, right? This is called homogenizing valve. So, this is
+another application, unless we know the applications, where you are using, because, then, it
+becomes only mathematics, and little physics, not engineering. So, unless we know, where you
+are applying, for what you are developing, so, no, I think the concept becomes not clear or the
+applications are not known.
+So, that is why in every stage, I am trying to give some or other application, where you can apply
+the things which we are being teaching, right? So, when you are doing this, that are the side
+pressure through when it is coming through this molecules, rather the fat globules, this is called,
+not called molecules, each fat globules of different size, maybe, say this is, say 20 micron say,
+this is say, may be 30 micron, say this is 10 micron, they do path go together and come out of
+this slit, right? This slit diameter, we assume to be said to micron, right? 
+So, in that case, when it is going through, then what happens, there are normal and shear force
+acting on that, and the molecular, this fat globule, that appears like this, right? And, the forcesacting on that then, that this integrates it into, depending on the size, if it is 20 micron, so 10
+such, 10 such things will be coming, and each will be around, say, 2 micron in size. So, you will
+get membrane, sorry, a fat molecule like this, which will come out from here of 2 micron.
+So, this is the application, which we will do in this class, if possible, in start, with this class or
+maybe we will be doing in the next class depending on the time available, right? So, I hope, is
+very important to go into this, before that, let us also find out that, previously, we had done that
+Stoke’s law, that equation, if you remember, that was mu, right? That was mu liquid is equal to 2
+R square and rhos minus rhol, right, into g divided by 9 v t, right? vterminal then becomes equal to
+18, right, R square into rho, in this case, this will be, whichever is higher, rho liquid, rho this,
+right? rhos minus okay rhol into g by mu liquid, right? 
+So, this is that one, which we know, by the Stoke’s law 9 into becomes, no, so, this not 18, so, v t
+will be mul comes down, right? And v t goes there. So, this is 2 by 9, sorry, not 18, 2 by 9, right?
+And, this is D square, right? So, that is 2 2 4 R is equal to D by 2, right? D square by 4, right?
+So, that means this becomes D to the power, D square rho, in this case let us write fat minus rho
+liquid into g over this goes out, so, 18 mu l right? So, now if we say that how much time it will
+take, what hour, at what velocity, this fat molecules or fat globules will come to the surface,
+right? 
+At what level this is going through the milk, right? So, milk has a density, so, then it has also a
+viscosity, and if this is the surface of the container, if this is the container, if it is the surface of
+the container, so, at what velocity these fat globules will move? We take the average fat diameter
+to be some value, say 5 micron, 6 micron average, right? So, 6 micron average we take and at
+what velocity this will come to the surface, right? If we can find out this one, then this will give
+us some idea that why we need to go for homogenization of the milk, right? 
+Then, we will go, how the velocity profile etc is occurring into this, right? So, here we said that
+average size of the fat globules is 6 micron, density of liquid, okay, then D fat is equal to 6
+micron, density of liquid is, liquid in this case milk, rho fat is equal to say 900 kg per meter cube
+and density of milk is say 1030 kg per meter cube, right? And, another thing is required mu milk,
+right? Earlier we had seen, it should be around say 1.5 into 10 to the power minus 3 Pascal
+second, right? 
+In this case, then the terminal velocity that should be D is 6 micron, 6 into 10 to the power minus
+6 square, right, into rho fat minus rho liquid, is taken, mod, means higher minus lower, if rho, fatdensity is lower than rho liquid, then it will go up and in case of, if it is solid, right? Like the
+same is applicable to another situation like, where, you have a container and you have some
+mud, right? This mud is there, and if you allow it to keep for some time it settles down, that is
+called settling, right? That settles down or called settling.
+There also, similar, this mud or solids, they do settle down, and the rate at which it is settling is
+also can be predicted, or can be determined with the help of this equation, right? And there, you
+find out the terminal velocity at which it is dropping and then coming to the bottom layer, right?
+So, here, there the density of the solid is higher than the density of the liquid, in this case density
+of the fat is lighter than that of the milk. 
+So, that is why fat globules will go up, and here, this will go down, so, that is why mod is taken.
+So, depending on, if the terminal velocity becomes negative, that means it is going up velocity
+cannot be negative, so it is going up, and if it is positive that means it is going down, right? So, 6
+into 10 to the power minus 6 in this case, if we take the mod value, then it becomes 1030 minus
+900 that means, you have 1030 - 900.
+So, the difference is 130, and g is 9.81 and this 18 into 1.5 into 10 to the power minus 3. So, this
+becomes equal to, let us look into calculator, that 6 into minus 6 6 into or 6 square rather, right,
+into 130, right, into 9.81, right, divided by 130, right? So much, what did I do, it is 6 square into
+130 into 9.81 is equal to so much divided by 18 divided by 1.5, right, divided by 10 to the power
+6 and 3 9 10 to the power 6 9 that is 10 to the power 9 10 to the power 9 is equals to 0.000,
+0.0000017 meter per second, right? It is so low that is 1.7 into 10 to the power 10 to the power
+1.7 1, 2, 3, 4, 5, 6 10 to the power minus 6 meter per second, right? 
+So if we if we take in terms of meter per hour, then it will be 3600, into 3600 so, that means it
+will be 0.006 meter per hour, 0.006 meter per hour, that means if we take again meter that means
+if we take 100 or 1000, 6 millimeter per hour is the velocity, 6 millimeter per hour that will travel
+it through this. So, you see 6 millimeter means roughly this, so, distance it will take around 6
+millimeter that is why you need to, you need to keep it for some time so that the fat globules are
+coming out, right? 
+So, this is what is required, otherwise, you will not be able to find out the meaning of the
+requirement for your developing this kind of relations, right? So this  we have done, okay here
+this was, if you would have taken this instead of 130 positive, it would have been negative so,that would have been the negative value of v t, but velocity cannot be negative, so that is why the
+negative sign would have applied that it is going towards the upward direction, right? 
+And if it would have been towards the bottom site, that is if it would have done with the help of
+denser particles then that would have come to the bottom of the container and then this 130
+would have been positive, right? And velocity indirectly would have come to the positive value,
+right? So, this implies that why we need to know that how the homogenization is required or
+what is the usefulness of the thing which we are going to develop or which next we will be
+doing, right? That will be flow through the small orifice, or flow through small flat plates,
+between two flat plates which is very fine apart, right? 
+So, there, similar kind of things will happen, okay. So we will do it in the next class, thank you. 
+ 

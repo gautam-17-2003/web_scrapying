@@ -1,0 +1,164 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 33
+Module 7
+Variable fluid flow
+Hello, we were with sonic velocity, right? 
+(Refer Slide Time: 0:32) 
+And we said that, there are many examples; we would like to show you also here that, this is one
+such typical nozzle, right? So, it is coming from this end, so, this is the incoming and this is the
+outgoing and this is called tip, right? So, this tip velocity, which we developed earlier, so, i.e., v 0,
+right? Or, v0, whatever you call it to be, so that, or outlet, v outlet. So, from high pressure with a
+lower velocity to low pressure with very high velocity, this will come out and we also showed
+that the velocity corresponding to this at the tip is the velocity of the sound if that pressure ratio
+is under critical condition, i.e., 0.528. This we said and that is what it is also being shown, this is
+in a nozzle.(Refer Slide Time: 1:37) 
+Typical flow throw through nozzle like this, this diagram, we had shown, this is another typical
+function of nozzle, where air is going in and you see that, many nozzles are used, particularly, in
+spray drying, if you see that spray dryer, where it is there. So, nozzles are there, which are
+atomizing the inlet of the fluid and their behaviors also you can expect, to be similar right? 
+(Refer Slide Time: 2:17)
+So, these things are there, and this is a typical siren. I referred to earlier that typical siren, when it
+is in the industrial area, you get that siren sound, or, we all, I also said that during war, which you
+have not seen, but we have, and we have seen that during that period, to warn people, or alert
+people this siren was ringing, and it was really a huge sound, from anywhere you can hear it,
+right? So, this is another example of this nozzle flow, okay.(Refer Slide Time: 3:03)
+Now, we come back to another, which is called variable flow, right? I give an example of it.
+Every now and then you come across, nowadays; there is a go for celebrating birthday, or some
+other kind of happy days, right? So, there, you have seen that many balloons are there, which is
+decorative, and while you, I do not know how many of you have seen that, while you are
+pumping balloon with your mouth, so, as sometimes you are pumping, it is blowing up and again
+when you are stopping, that time it is again going down.
+So,  this  process  of  pumping  and  getting  off from  the  balloon,  these  two  or  together, and
+ultimately you come with a balloon. Now, with that balloon, if you had ever seen that, by chance
+if it slips from your hand, it goes like a, I do not know whether you have seen that during your
+childhood, you used to burn during Diwali, some fireworks, like where you put some fire and
+then it moves like this, right? With a sound, and similar kind of thing, when you have the balloon
+full with the volume of air, and suddenly if it slips, it goes from your end to, throughout the
+space, where it is there, and you do not know, you have no control, it goes there, right? 
+This is an example of this, and this, that you had the balloon full of air and now you allow it to or
+rather, suddenly, you can do it purposefully, in many cases people do, or at least kids do play
+with that, that they blow the balloon and then allow it to move, right? So, that purposefully, you
+can do, or by mistake, or by slip, it may go out of your hand, the effect is same, and this kind of
+flow is called the variable flow, means you had the volume of the balloon, now suddenly it is
+dropping down and this flow is known as the variable flow, right? Now, today we will discuss on this variable flow, okay. So, variable flow, which occurs when
+upstream pressure varies, important thing to be remember is that p 0 by p, i.e., the tip to the inside,
+or, outlet to the inlet, so, p 0 by p will always be at critical level until pa by p, now what is that p a?
+So, we said that you had the balloon, so, in that balloon whatever pressure is inside that is p, at
+the tip of the balloon the pressure, which will come out is p 0, now where it will go? It will go to
+the atmosphere, so, this is p a that is atmospheric pressure, right? 
+So until pa by p increases p 0 by p will have critical value, right, at its critical level until p a by p
+increases and this will happen only when p has dropped to a value of p equal to p a by 0.528, i.e.,
+1.894 atmosphere. So, until it attains that 1.894 atmosphere, this p value, it drops. This will be
+under critical condition, i.e., p 0 over p will be under critical condition that we have to keep in
+mind, right? So, we said that p 0 by p will be under critical condition until the value of p by p a,
+reaches 1,894, right? p is the inlet pressure and p a is the pressure of atmosphere where this p 0 is
+delivering, right? 
+So, this ratio p over p 0 until it reaches, it decreases, of course, and till the value p is equal to p a by
+0.528, i.e., 1.894, until if the value of p comes down to p equal to 1.894 atmosphere, till that time
+it will be under critical condition, i.e., critical pressure ratio p 0 by p will be under critical pressure
+ratio condition i.e., 0.528. So, above 1.984 atmospheres, p 0 by p will always maintain at critical
+value, right? (Refer Slide Time: 8:56)
+If that be true, then, we can say that the discharge can be written w equals to Cd A 0 under root 2
+gamma p rho by gamma minus 1 into p 0 by p to the power 2 by gamma under critical condition
+minus  p0 by p to the power gamma plus 1 by gamma, again, under critical pressure ratio
+condition.  This  is  valid this  equation  because,  we said that p 0 by p will be under critical
+condition, at critical condition, till the pressure drops down to p a by p, i.e., this increasing, right?
+Until this is increasing, that means this will happen till when p is equal to p a over 0.528, so, that
+means, it is, if we take p at 1 atmosphere, so, then, it is 1.894 atmospheres, right? 
+Until p comes down to 1.894 p 0 by p will be under critical condition. So, under that situation, the
+discharge can be written as Cd A 0 2 gamma p rho gamma minus 1 gamma p rho by gamma
+minus 1 into p0 by p to the power 2 by gamma under critical condition minus p 0 by p to the
+power gamma plus 1 by gamma again under critical condition, right? 
+Now, since p is dropping, so, we can say, w is equal to K 1, one constant, under root rho into p,
+right? Under root rho into p, where, this K 1, this is equal to Cd A 0 under root 2 gamma by gamma
+minus 1 into p0 by p to the power 2 by gamma under critical minus p 0 by p to the power gamma
+plus 1 by gamma again under critical condition. So, this is K 1 because, these are constant 2
+constant, gamma constant. So, this is constant, this is also having a definite value under critical
+condition, this is also having a definite value, so, variable is only p and rho, rho and p are only
+variables. So, that is why we can write, that, w, discharge is a coefficient K 1 under root p rho,
+where, K1 is this Cd A0 under root 2 by gamma by gamma minus 1 into p 0 by p under criticalcondition to the power 2 by gamma minus p 0 by p to the power gamma plus 1 by gamma at
+critical condition, right? 
+So, if this be true, then, if we say that mass of gas in the container, if that is assumed to be m,
+then, m can be written as v c into rho, right? Where, of course v c is the volume of the container,
+volume of the container is the v c, right? Then, if m is v c, then, we can, from this gas relation, we
+can write pv is equal to RT by M, or p by rho is equal to RT by M, right? So, p by rho is RT by
+M, or we can write, rho is equal to PM by RT, right? Where, rho is a function (variable) of p. So,
+we can write, this is nothing, K 2 into p because M, R and T are constants, right? 
+If M, R and T are constants, then, we can write, rho is a function of p, rho is a function of p only,
+where, M, R, T being constant is K 2 and this K2 is equal to M by RT, right? So, we know K 1, we
+know K2, right? 
+(Refer Slide Time: 14:55)
+Then, we can write that M is equal to v c into K2 p, right? And from there, if we differentiate, we
+can write, dm is equal to v c K2 dp, because, this v c and K2 are constants. So, we, on a differential
+of m is equal to this constant times differential of p, right? Therefore, we can write, from w is
+equal to K1 under root p rho, which, we have seen earlier, is equal to K 1 under root K2 p square,
+right? Because, we have seen K 2 is that rho is K2 p, right? rho is K2 p, so, K2 p square K1 under
+root K2 p square, right? This is what we can say and that can be simplified as K 1 under root K2
+into p because, p square from the root, it comes out, and it is p K 1 under root p, right?
+Therefore, from this, we can write a small change in w, or small discharge w is dw, that is
+nothing but K1 K2 under root and this is into p into dt, right? So, a small discharge dw, can bewritten as, K1 under root p K1 under root K2 into p times dividing that period of delta t, dt,
+whatever change has been made, right? Now, if there is a discharge, we, our thing was like this,
+if there is a discharge from there, right? So, if w be the discharge, then, corresponding m quantity
+will be depleted from the container.
+So, we can write, dw is equal to minus dm because when w will discharge, corresponding m
+quantity from the container, will deplete. So, this depletion of the mass is equivalent to the
+discharge,  but,  that  is  why, it  is  negative  because,  that  will  be  gradually  depleting,  so, to
+incorporate that fact, this negative sign is introduced. So, dw is minus dm, right? So, we can
+write that, dw, already we have seen, how, what it is. It is K 1 under root K2 into p into dt, this is
+equal to minus vc into K2 into dp, that is from the dm, right? This is from dm, that v c K2 dp with a
+negative, and here w was K 1 under root K2 into p and we said that small quantity dw is discharge
+at the pressure p for a time, small quantity of time of dt. 
+So, total quantity discharge is these K 1, K2 was constants. So, this was the total quantity, which is
+discharged, right? And since, this discharge has to be equivalent to the depletion of the mass
+from the container. So, dw is equal to minus dm, right? Now if this we rearrange and write in
+terms of integral and integrate for a definite integration of say point 1 to 2, or time t 1 to time t2,
+integral of dt, this can be written as minus v c is constant, then root K 2, right, over K1, because,
+this comes out, right? K 2 okay, let us rewrite this.
+Or, dt is equal to minus v c K2 over K1 root K2, right, over p, right? This into dp, right? So, v c, this
+root K2 and K2 goes off, so, 1 root K 2 remains, so minus v c root K2 over K1, so, it is between
+point 1 to 2 dp over p, right? Now, dp over p, if we integrate between the points 1 to 2, then dp
+over p is, integral of this is, ln p with the domain of 1 to 2, right? So, we can write that, ln p 2 by
+p1, so, this is equal to minus v c root K2 over K1, right, over K1 times this is ln p2 over p1, right? ln
+p2 over p1 and this we can take like this, v c is equal to, so, this integration is t 2 minus t1 or delta t
+or, whatever, we call it, delta t, t 2 minus t1 is equal to t, whatever, we call it, right, is equal to
+delta t, anything we write that is equal to this minus, we are taking off v c under root K2 over K1,
+right? ln of, since, we have taken there, so, it is p 1 over p2, right? So, ln of p1 over p2.
+Therefore, the time required, time t is equal to v c under root K2 over K1 ln of p1 over p2. This tells
+us that what is the time that is required for the pressure to drop from a pressure p 1 to a pressure
+p2, right? Under critical condition, because we have taken, all this K 2, K1 everywhere, it is thispressure under critical condition, i.e., pressure ratio p 1 by p2, or p0 by p, whatever, we call it to
+be, that is the pressure ratio is under critical condition.
+So, this we can also write in that earlier in the same fashion that K under root K 2 K1 ln of p0 over
+p, right? So, this is also there, okay. So, we can tell, what is the time that is required for the
+pressure to deplete from a pressure p to a pressure p 0, right? From, a pressure p or this was of
+course, no, this is in that case, p 1 to p to p1, 1 is lower and 2 is higher limit, so, when we have
+given here this is one lower limit to a higher limit, okay. So, lower limit is p 0 and higher limit is
+p2 okay p, right? 
+So, much time it will require to deplete from a pressure p to p 0, or, from a pressure p 2 to p1,
+whatever, we call, or from a pressure p outlet to p inlet that time required, we can find out, right?
+This is how we can determine the time required, right? You remember, we had given the volume
+of the balloon like this, right? And here you normally tie with something, right? Here we tie with
+something, but, if you do not tie, or, if it is removed, then after some time, it is reduced by
+volume, right? And then after some time, further reduces by volume and then it becomes a small
+balloon like this, right? 
+So, this pressure p, if it is reducing to the pressure p o, how much time it will take for this to
+happen, the total time required t, how much it is, that we can also determine, only we have to
+keep in mind, this is called variable flow, and whenever variable flow is there, that means we
+assumed that p0 by p is under critical pressure ratio condition, right? And we also said this will
+happen till the pressure increases from p, I mean, this ratio increases to p by p a, right? Where, pa
+is the atmospheric pressure, right? 
+And we also said this means that the pressure p is still it is coming to the number that is p
+atmosphere, 1 atmosphere, if it is 1 by 0.528 that is 1.894. So, till the pressure comes to the 1.894
+atmosphere this critical condition will remain, right? So, upto 1.894 atmosphere, right? This
+pressure ratio will remain under critical condition and in that situation we can find out, what is
+the time required for the pressure to drop from a pressure p 1 to a pressure, from a pressure p
+rather, okay, if we tell, one to be the inlet, from a pressure p 1 or, in this case, since, we have
+integrated, so, this is the lower value, this is the higher value, so, in that case, we say that p 1 to be
+the outlet and p2 to be the inlet.
+So, this is the higher, this is the lower, right? And in any case, we can say that p 1 is the say, if it is
+inlet, then if p2 is the outlet, better to say that p o poutlet and p there is the inside pressure, so, untilthis pressure ratio is 1.894, the p by p 0 that is p by p0 it is coming p by p 0 by atmosphere p0 by p
+is 1.894, till that p is 1.894. It is under critical pressure, and we can find out that the time
+required for the pressure drop from an initial pressure to a final pressure, okay. Thank you. 
+ 

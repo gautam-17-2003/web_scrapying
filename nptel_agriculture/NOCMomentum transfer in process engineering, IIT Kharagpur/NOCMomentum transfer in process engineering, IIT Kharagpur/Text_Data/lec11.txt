@@ -1,0 +1,155 @@
+Course on Momentum Transfer in Process Engineering 
+Professor Tridib Kumar Goswami
+Department of Agriculture and Food Engineering
+Indian Institute of Technology Kharagpur
+Module 3
+Lecture No 11
+Application on Navier-Stokes Equation for finding out viscosity (Part 2)
+So, in the previous problem, we have seen that this is nothing but a jugglery of the boundary
+conditions, the original equation remaining similar. Now, in the 2 cases we have seen that
+outer cylinder was rotating and inner cylinder was fixed, right? And that can give you way of
+finding out the velocity profile also the way of finding out the viscosity in many instruments.
+We had  earlier  said  that  Brookfield  viscometer  uses  the  similar  situation.  Now, if  the
+condition is little different that, if, instead of outer cylinder rotating and inner one fixed and
+we played with the radii, right?  
+We made the outer cylinder one radius, inner cylinder another radius. Of course, the velocity
+expression that becomes different right. So, if we do the other one, then, the outer one is fixed
+and the inner one is rotating, right. In that case you take the former equation i.e., the first one
+like that, and then let us see how it happens? Okay. 
+(Refer Slide Time: 1:56) 
+So, here the same problem, if an incompressible fluid is flowing between 2 vertical coaxial
+cylinders,  and the  inner  one is  rotating  with an  angular  velocity  omega,  determine  the
+velocity for the tangential laminar flow, right? Now, the inner one is rotating and the outer
+one is fixed, so this outer cylinder is stationary and inner one is rotating rather with an
+angular velocity of omega, right? 
+(Refer Slide Time: 2:59) 
+And, we kept that R and KR as in the 1st case that, this is R and this is kR, right. If you keep
+them like that then, we can say that, the problem can be defined like this. We have one inner
+cylinder, we have one outer cylinder, and this is the center, right. This outer cylinder is fixed
+and the inner cylinder is rotating with an angular velocity of omega, right. And we get as
+earlier the same, this is R and this is kR that is k is multiple of more than one, right. So, thatkR is greater than R right? So, we take this problem and then solve. So, like the previous one,
+on earlier cases, if we use the Navier-Stokes Equation, right. 
+So, we can write, and here also we have number 1 steady state number, number 2, laminar
+flow, number 3, incompressible fluid, and of course, others like flow is fully developed.
+There is no end effect. All these are also there, right. So, we can write from the Navier-Stokes
+Equation, right, the same as earlier, right. From the given problem, by physical understanding
+of the problem, we can write, v r is equal to vz is equal to 0 and del v theta del theta is also 0.
+That means, this is not changing with the theta, right. 
+So, if that be true, then, this is the understanding of the problem. We can write and from the
+Navier-Stokes Equations we can write, rho v theta square by r, this is equal to minus del p del r,
+right? This was our 1st equation, 2nd equation, we can write that, 0 is equal to del del r of one
+by r del del r of r v theta right. So, this was our 2nd equation and the 3rd equation, we can write, 0
+is equal to minus del p del z plus rho g z, right. Now, from these 3 questions, since we need the
+solution of vtheta. 
+(Refer Slide Time: 7:17) 
+So, this equation we take, then we can lead to the solution, and that equation, if we rewrite,
+we can write, del del r of one by r del del r of r v theta, this is equal to 0, right, and we also
+wrote that on first integration, we write that on first integration, we write, 1 by r del del r of r
+Vtheta, right. This is equal to A. On simplification, we write del del r of r V theta is equal to A r,
+right. On 2nd integration we will write, again integrating, on 2nd integration we can write that r
+Vtheta is equal to A r square by 2 plus b or Vtheta is equal to A r square or r square goes out A
+by 2 r plus B by r. 
+So, again up to this i.e., the equation A, the solution remains identical. Where, we are seeing
+the  change?  The  changes  are  in  the  boundary  conditions,  because  our  boundaries  are
+changing,  right,  either  with  the  diameter  or radii  or with the  physical  condition  of the
+problem. They are changing, so, boundary conditions are changing. So, this is again nothing
+but a change of the boundary conditions, right. 
+So, we write the boundary condition 1, what is given, we have been given, said that the inner
+cylinder is rotating and the outer cylinder is fixed right. So, we have that R is equal to R and
+that R is equal to kR, two different conditions. So, what are those 2 different conditions? One,
+if we write that r is equal to kR v theta is equal to 0, because this outer cylinder is fixed, right.
+Outer cylinder is fixed, so, V theta is equal to 0 and r is equal to kR, right. So, r is equal to kR
+vtheta is equal 0. This is boundary one, and boundary 2 is r is equal to, sorry, that is v theta is
+omega r, vtheta is omega r at r is equal to, sorry, at r is equal capital R, right, so, these are the 2
+boundaries we have to substitute, right? 
+These other 2 boundaries, we have to substitute and when we are substituting them then we
+see that the first one at r is equal to kR, v theta is equal to 0, we put this in equation 1, or A, ifwe put vtheta is equal to 0 at r is equal to kR, we get what, so, v theta is 0, r is kR. So, it is AkR by
+2 plus B by kR right. So, this is say equation B and second equation is v theta is omega R at r is
+equal to kR, so, we right here again from equation A we get that v theta is equal to omega R
+right at r is equal to capital R so it is AR divided by 2 plus B by R, right. So, again by
+substituting one this is C. So, by substituting one i.e., B. From B we can write, B by kR is
+equal to minus AkR by 2, or we can write B by r is equal to minus A K square R by 2. 
+So, if we substitute this B by R, right. If we substitute this B by R into C, we can write, from
+equation C that omega R is equal to AR by 2 plus B by R has become minus A k square R by
+2, right, or, we can write omega R is equal to AR by 2 minus Ak square R by 2, right. So, this
+on simplification, we can write, A. If we take out, or, AR also, if we take out, then we can
+write this is 1 by 2 minus this is k square by 2 is equal to AR into 1 minus k square by 2,
+right. 
+(Refer Slide Time: 15:05) 
+So, we can write from there that omega R is equal to AR into 1 minus k square by 2 or A is
+equal to omega or, 2 omega by 1 minus k square. So if A is equal 2 omega 1 minus K square.
+So, this is relation E, we can write from the other one relation B. From equation B we can
+write, B by R is equal to minus A k square R by 2, right, is equal to, if we write, k value, so, it
+is B by R is equal to A, is minus 2 omega by 1 minus k square. This is one into k square R by
+2, right. So, vtheta equals to minus 2 omega k square this R into R goes R square by 2 into 1
+minus k square right. So, if you substitute A and B in the original equation i.e., either B or C
+right. 
+So, if we substitute them in B, we have 0 is equal to AkR by 2 plus B by kR right. So, this is
+equal to value of A. We know, this is 2 omega by 1 minus k square, right, and kR by 2, right,
+This is minus, we are substituting B by kR right, so, this is 1 by kR, we will write afterwards.
+So, B is equal to minus 2 omega k square R square divided by 2 into 1 minus k square. So,
+this is of course, 2 2, goes out. So, we could write it, minus omega k square R square by 1
+minus k square, this is for B, So, we substitute this 2, and we can re-write, This is equal to 2
+omega kR omega kR, So this 2 and this 2 goes out, So this 2 also was not there so 1 minus k
+square right, omega kR by 1 minus k square this is minus so this is omega k square R square
+by 1 minus k square right. 
+So, if that is true we can write this substitution we should have done not here at we should
+have done at this equation A from equation A sorry this should not have been otherwise v theta
+is not coming. vtheta is AR by 2 plus B by R, right. So, here we are substituting A as 2 omega
+by 1 minus K square into 2. So, this 2 this 2 goes out, This is the AR by 2 plus b or 1 by r intominus 2 omega k square R square divided by 2 this 2. Of course, goes out, So, one minus k
+square right. 
+So, we can write now that omega by 1 minus k square minus 1 by r right. AR by 2. So, it was
+2, omega into R right, So, omega R by 1 minus k square 1 by r minus and this is omega k
+square R square by 1 minus k square right. So, this is the v theta which of course, we can further
+simplify, as omega if we take common then 1 r by 1 minus k square minus omega is out so k
+square R square divided by R into 1 minus k square, right. So, this is the solution right, so, if
+we look at then this should be the solution. 
+(Refer Slide Time: 21:40) 
+Let us look into in the final solution, which, we have gotten on the same way on the same
+thing, we have done, you see boundary condition, was v theta is equal to 0 with v theta is equal to
+0 at r is equal kR, right and v theta is omega R at r is equal to R right v theta is omega R at r is
+equal to R, this was our v theta is 0 at r is equal to kR and v theta is equal to omega R at r is equal
+to R, right. So, if we do that we got A is equal to C. We got A is equal to here, we got A is
+equal to 2 omega by 1 minus k square right, and B, we got is equal to minus omega kR square
+omega k square R square by 1 minus k square. 
+That is true and we got v theta is equal to ultimately this omega divided by omega, okay, omega.
+We can also write in this form, this is equal to omega by k square minus 1 if we take common
+from here, then, k square minus 1. So, 1 negative, we have taken inside right, so, that,
+becomes equal to this, into first term is this one, So, kR square divided by this R remains
+there right and this R, then, goes there, minus R, So, omega by k square minus 1 into k square
+kR whole square by R minus r. (Refer Slide Time: 24:18) 
+This, from and this form are same. So, we can say we have done the right thing. Only the
+thing which is required, which you need to do here in between, if you look at the solutions,
+the same solution, original, which we have started with, we have done up to this the same
+right, then we have changed the boundary, right. So, boundary was originally your v theta is 0 at
+r is equal to R and v theta is equal to omega kR at r is equal to kR. Here, it is getting changed
+that vtheta is zero at r is equal to kR and v theta is equal to omega R at r is equal to capital R, So,
+this change. We have to do and then as we have shown the solutions here, so, in that way if
+you go and solve I hope you will get the same. 
+Please do the required changes please do the required changes in the in the in the in the
+slides, okay. Let us also, since, we can do it, let us look into this, and do that boundary
+condition was vtheta was equal to 0 at r is equal to kR and we can write v theta is equal to omega
+R at r is equal to R right. In our new system, here as we have seen this is omega R and kR,
+right, so at r is equal to R this v theta is equal to this is fixed. 
+So, at r is equal to R this is v theta is omega R and at r is equal to kR, v theta is 0 and this now if
+we substitute them, then we can write that in the 1st one 0 is equal to here right 0 is equal to A
+into R by 2 plus B by r. This v theta goes to 0 at r is equal to kR, then this should be 0 is equal to
+A kR by 2 and this is B by kR right, and in the second case omega R is equal to AR by 2 and
+B by R, right. So from there the same, this of course repeat so hopefully we can delete this. 
+Okay, so from there, we on simplification we do not write on these because we have shown
+you there we can write simply that what is A, so A has come 2 omega by 1 minus k square 2
+omega by 1 minus k square. This is 1 minus k square, right. So, we put here A square 1 minus
+k square right, and B is equal to but, it is also required, and B is equal to we have A obtained
+here as you see that v was this minus omega k square minus omega into k into R whole square
+that is much easier and better. (Refer Slide Time: 26:29) 
+k into omega square right, and this divided by, it was 1 minus k square, right, so that k square
+is this 1 minus k square, yeah. So, if that be true and then the final equation which we got for
+vtheta was this vtheta was omega by k square minus 1 omega by k square minus 1 k square minus
+1 right, times if it take this times kR square by r, kR square square by r minus r, right. 
+So, this was our solution, so we got it so we have corrected also, so, as we requested, in the
+previous class in the previous problem that we have done on the paper but corresponding
+slides were not properly corrected, and we requested you that if you go through it to that slide
+get that thing connected and because we have done on the paper. Here, we have done both on
+the paper as well as on the slides. So, this is the final vtheta expression that vtheta is equal to
+omega by k square minus 1 into kR square by 2 by R square by r minus r. So, hopefully we
+have seen it and that is the final. Thank you. 

@@ -1,0 +1,144 @@
+Course on Momentum Transfer in Process Engineering
+Prof. Tridib Kumar Goswami 
+Department of Agricultural & Food Engineering IIT Kharagpur 
+Mod 02 Lecture 06
+Equation of motion (Part-2) or Navier Stokes equations
+ A small recapitulation of the previous class that  we have done, i.e., the momentum transfer, how
+that is being done for a particular component, i.e., a velocity component, i.e., x component of the
+velocity, vx acting on the x, y and z directions by the bulk transport as well by the molecular
+transport. You remember, we said that the molecular transport is being done by the molecules of
+the layers, which are vibrating in staying in the layer, but they are giving the energy, or, they are
+exchanging the energy with the adjacent layer molecules, right. This way the two ways of
+transport of momentum is occurring. We have done for the one component, i.e., x component.
+Now, we will do for y and z, and then, sum up all of them and derive the basic equation of
+motion that is the NAVIER-STOKES equation, okay.
+(Refer Slide Time: 1:47)   
+So, let us follow. So, then, we had come, if you remember, we had come up to this, that
+accumulation, right, where the volume element was there del x del y del z and we also had taken
+that by molecular transport by the bulk transport. This was for molecular transport, this was for
+bulk transport we had done, right, and then pressure term and the gravity term, i.e., sum of the
+other forces, right.
+(Refer Slide Time: 2:45) 
+So, now, if we divide in both the sides with del x del y del z, right. If we divide with del x del y
+del z, dividing both the sides, we can write that Rho v x into vx at x minus Rho vx into vx at x plus
+delta x, right. This divided by del divided by del x del y del z and we had the on the top this if
+you remember that this was del y del z. So dividing it to with del x del y del z we take of del y
+del z it remains del x, right. 
+Similarly here also del x del y del z we take of del y del z or rather del x del z del y remains and
+in this case, also del x del y del z. So, we take off del y del x del z remains, right. Similarly, here
+also, so, dividing all with del x del y del z we get respective terms like that divide by del x right
+plus Rho vy vx at the face y minus Rho v y vx at the face y plus delta y over del y plus Rho v z vx at
+the face z minus Rho v x Rho vz into vx at the face z plus delta z over del z, right plus Tau xx at theface x minus Tauxx at the face x plus delta x over del x plus Tau yx, right, Ta yx at the face y minus
+Tauyx at the face y plus delta y over del y plus Tau zx at the face z minus Tau zx at the face z plus
+delta z over del z, right.
+So, this is equal to and the pressure terms, i.e., p at x plus delta x minus p at x plus delta x minus
+p at rather, sorry, p at x minus p at x plus delta x, it should be p at the written face, p at x minus p
+at x plus delta x into, or, divided by that was also, we had del x del y del z So, here, it is del x.
+So, this plus in Rho g x rather, we had del x del y del z, if you remember so that goes off, so Rho
+gx remains and this is equal to nothing but del del t of Rho v x, i.e., the accumulation term, right.
+So, this, applying the theory of limit del x tends to zero and from the definition of applying the
+definition of derivative, right you know, derivative that is out minus in over the del. So, this is a
+derivative, so we can write then, this is nothing but del Rho v x del t right. This is equal to minus
+del del x of Rho vx into vx, right plus del del y of Rho v y into vx, right plus del del z of Rho v z into
+vx, right. This minus del del x of Tau xx plus del del y of Tau yx plus del del z of Tau zx, right. This
+minus del p del x plus Rho g x over this Rho gx. This is equal to, rather, already we have made it
+equal. So, this we can say to be equation number 1, right.
+In this case, here, you remember that we have applied this concept that limit del x del y del z that
+tends to zero number 1 and number 2 when limit tends to zero and by the definition of the
+derivative this out minus in over delta, that is nothing but the derivative, i.e., del del x of Rho v x
+vx del del y of Rho v y vx del del z of Rho v z vx, right. Similarly, del del x of Tau xx, del del y of
+Tauyx, del del z of Tauzx, right. Here, in this case also, minus this that is why negative is coming.
+So, del p del x and here, we had Rho g x all x, y z was out. So, only Rho g x is remaining, right.
+ So, this we can say that equation number 1 and subsequently we can write for the other two
+components that is  for the y component and z component we can also write that, similar to this
+del del t of Rho vy this is equal to minus del del y of rho v y  Rho vy, right Rho vy vy or rather Rho
+vx vy, right and this plus this is  del del t, so, del del x of Rho v x vy plus del del y of Rho v y vy,
+right plus  del del z of Rho v z vy, right. This is for the bulk transport and for molecular transport
+we can write Tau del del x of Tau xy, right plus del del y of Tau yy right plus del del z of Tau zy, right.
+This plus that del p or rather here would be minus, because by definition.
+ So, minus del p del y plus Rho g y and in the same way we can write the z one right. We are not
+writing then we will okay, it will take only just a little time del del t of Rho v z, this is equal to
+minus del del x of Rho v x vz plus del del y of Rho v y vz plus del del z of Rho v z vz, right. So, thiswas like this plus or this plus of course that will come minus ultimately, right. Here, you should
+have been minus; here also it is minus, right. So, del del x and one this term, so, del del x of right
+Tauxy or in this case it will be xz, right plus del del y of Tau yz plus del del z of Tau zz, right this
+minus del p del z plus Rho g z. These are the three equations for the three co-ordinates systems,
+right.
+(Refer Slide Time: 12:54) 
+Now, if we remember we had given, this was the equation 1, right. So, keep in mind that this
+equation, then, from that equation, we can write del del t of Rho v x, right. This is again nothing
+but Rho times del v x del t or del del t of Rho v x plus vx del Rho del t, right again this is on x
+function uv we can write, right. So, this from equation of continuity we can write that del Rhodel t, this is equals to minus del del x of Rho v x, right plus del del y of Rho v y plus del del z of
+Rho vz, right. This was taken in the equation of continuity and we can write it here.
+So, we can write then del del t of Rho vz or, rather, Rho vx is equal to Rho times del vx del t
+minus vx into del del x of Rho vx, right plus del del y of Rho v y plus del del z of Rho v z, right. So,
+this, we can write and if you remember the right of the equation which was this, was equation 1
+and the right side was this big minus del del x of Rho v x vx, right.
+So, one term if we take then we can write minus del del x of Rho v x vx, right del del x of Rho v x
+vx, right plus del del y of Rho v y vx plus del del z of Rho v z vx, right. This was like that minus del
+del x of Tauxx plus del del y of this will be under bracket. So, del del y of Tau yx plus del del z of
+Tauzx, right. This minus we also had del p del x plus Rho g x, right. So, this on further expansion
+we can write, so this first term can be expanded like this that minus Rho v x if we take this as u
+and this as v the minus Rho v x into del vx del x, right minus Rho v y del vy del y plus minus rather
+minus since, we have not given in a bracket if you were have given a bracket then we could have
+written like this, then Rho v z del vz del z rather del vx del x, this is del vx del y del vx del z, right.
+This we could have written and this minus v x times del del x of Rho v x plus del del y of Rho v y
+plus Del del z of Rho v z, right. This term on expansion we can write like this, right as u and v.  
+(Refer Slide Time: 17:47) 
+So, if we do like that then we can rewrite this equation one which we have shown you earlier as
+Rho del vx del t, this is equals to vx into del del x of Rho v x, right plus del del y of Rho v y plus del
+del z of Rho vz minus Rho vx times del del x of v x, right minus Rho v y del del y of Rho v y, right
+and also minus Rho v z del del z of Rho del del z  of vz, right. So, this minus v x del del x of Rho v x
+plus del del y of Rho v y plus del del z of Rho v z Rho vx okay, Rho vx. So, this also will be Rho v x.
+So, we can write, so, del del Rho v x del del x, sorry, this is y and this is z, right. Rho v z. This if
+we write then minus del del x of Tau xx plus del del y of Tau yx plus del del z of Tau zx, right. So, this
+minus del p del x plus Rho g x, right. So, this we can write further that we can say that Rho del v x
+del t plus del del x of v x plus del del y of v y plus del del z of v z. This is nothing but Tau del del x
+of Tau y xx del del x of Tau xx plus del del y of Tau yx plus del del z of Tau zx, right. So this we
+can write and of course here, we can with a if we remember that earlier we had taken this and of
+course, minus  del p del x plus Rho g x was also there, right.
+(Refer Slide Time: 21:20) Then, we can say that this to be nothing but the operant capital D. So, we can write that capital
+Dvx into Dt times Rho, this is nothing but minus del del x of Tau xx plus del del y of Tau yx plus del
+del z of Tauzx, right. So, this is so. This is for the x component. Similarly, for the y and z
+component we can write Rho capital D operand del v y del t, right. This is equal to minus del del x
+of Tauxy plus del del y of Tau yy plus del del z of Tau zy, right. So, this and similarly for the z
+component Rho D of V,  D v z Dt. This is equal to again minus del del x of Tau zx or in this case xz,
+right plus del del y of Tau yz plus del del z of Tau zz, right. So, this three can be written easily, right.(Ref Slide Time: 23:17) 
+Now, if we substitute that by using the value Tau xx, is nothing but minus Mu del del x of v x is
+Tauyx. Similarly, we can also write Tau yx is equal to minus Mu del del y of v x, right, and using the
+similar way all others they can be written,, right. You remember that this one and this one, okay, I
+have given two, okay. Let me also give the third one Tau zx, Touzy Tauzx. This is equal to minus Mu
+del vx del z, right. So, this is for the velocity component, this is for the direction, this is for the
+velocity component, this is for the direction, this is for the velocity component, this is for the
+direction. If we keep in mind, this simple thing then we will be able to expand it in terms of v,
+right. 
+All this Tau terms, i.e., your shear stress terms, we can expend in terms of the velocity terms if
+they are in Tauxx, first x is the direction, second x is the velocity component, Tau yx, y is the
+direction x is the velocity component. So, that means Tou xy will be del vy del x right. Del vx del x.
+Then similarly, Tau yz will be del vz del y, right. So keeping all these terms in mind if we
+substitute, then in this equation, because, okay. Some more if we show, that, for example this we
+can write okay, Tau this minus Mu this. Therefore, we can write del del x of Tau xx is defined as
+this, right. So del del x of Tau xx we can write, this is nothing but del 2 v y del x square, right, del 2
+v, this is Tau, not xx, Tau xx will be  del del x of Tau xx will be minus, okay, minus Mu right, minus
+Mu into del 2vx del x square, right del 2v x del x square. 
+So, keeping all minus Mu, similarly, we can write del del y of Tau yx, right, is equal to again del 2
+vx del y square. Like that, all the terms we can write, with of course, minus mu etc, right, and in
+that case, if we substitute them in the equation, what we have shown as equation 1, if we
+substitute all these Tau values in terms of velocity and viscosity then we can say that Rho timesdel del t of vx plus vx del del x of del vx del del x of vx plus del vy del del y of vy plus vz del del z
+of vz, this is equal to that Mu, now it has come to the right side. 
+So, negative has gone out Mu del 2 v x del X square, right, plus del 2 v x del y square plus del 2 v x
+del z square, right minus del p del x plus Rho g x, right. This is for x component for y component
+we can write Rho del del t of v y, right plus vx del del x of vy plus vy del del y of vy plus vz del del
+z of vz, right or rather this will be y, v y , this is equal to Mu del 2 v y del x square plus del 2 v y del
+y square plus del 2 v y del z square, right minus del p del y plus Rho g y and for the z component
+similarly, del vz del t plus vz del vz del x plus vz  plus, this is vx then vy, sorry, vx del vz del y plus
+vz del vz del z right. This is equal to Mu del 2 v z del x square plus del 2 v z del y square plus del 2
+vz del z square, minus Rho, no rather, del p del z minus del p del z plus Rho g z. 
+So, these are known as NAVIER-STOKES equation. So, when, and this is for the Cartesian co-
+ordinate, x, y, z, right. Now, when you will be doing it, you have to identify from the problem
+given, or, from the situation which term corresponds to what.
+(Refer Slide Time: 31:25) 
+So, if you can identify, you can solve any problem on the momentum transfer with the help of
+this NAVIER-STOKES equation, right. We will do some problems next time, and then identify
+and understand this individual terms, okay. So, that is what here we do. So, NAVIER-STOKES
+equation in a cylindrical co-ordinate, I have given, in  the slide you can check and also this of
+course, not coming proper way, in these, R component, theta component like that. So, thank you.

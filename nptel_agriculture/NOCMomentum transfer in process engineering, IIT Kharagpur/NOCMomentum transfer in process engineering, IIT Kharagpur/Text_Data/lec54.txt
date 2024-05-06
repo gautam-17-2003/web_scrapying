@@ -1,0 +1,125 @@
+Momentum Transfer in Process Engineering  
+Professor Tridib Kumar Goswami  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Module 11  
+Lecture No 54  
+Problem of Fluidized bed Condition Part 1  
+So, we have done that minimum fluidisation velocity and what is the expression to find out 
+the Delta p or pressure drop from the minimum fluidised condition if using Ergun’s equation, 
+this we have done.  
+(Refer Slide Time:  1:03)  
+ 
+Now , it is some problem for t hat number 1 say a problem is like this, A solid particle having 
+a size of 0.127 millimetre, a shape factor of Phi s of 0.9 and density of 1100 kg per meter cube 
+are to be fluidised using air at 2 atmosphere absolute and 30 degree centigrade. The void  
+fraction at minimum fluidisation condition is 0.4. The cross -section of the empty bed is 0.3 
+meter square and the bed contains 300  kg of solid. Calculate , number (1) the minimum height 
+of the fluidised bed, number (2) the pressure drop at minimum fluidising conditions, number 
+(3) the maximum velocity for fluidisation . Given, viscosity of the fluid is 1.8 10 to the  power  
+– 5 Pascal seconds and molecular weight of the medium is 29 , i.e., the fluid having molecular 
+weight  of 29 kg per kg mole.  
+So, if we if we reread , if read once again , it looks like this , the pro blem, A  solid particle 
+having a size of 0.127 millimetre, shape factor of Phi s of 0.9, density of 1100  kg per meter 
+cube are to be fluidised using air at 2 atmosp here absolute and 30 degree centigrade. The void  
+fraction  at minimum fluidisation condition is 0.4. The cross -section of the empty bed is 0.3 
+meter square and the bed contains 300  kg of solid. Calculate , number (1) the minimum height 
+of the fluidised bed, number (2) the pressure drop at minimum fluidising conditions, number 
+(3) the maximum velocity for fluidisation . Given, viscosity of the fluid is 1.8 10 to the  power  
+– 5 Pascal seconds, molecular weight 29 kg per kg mole.  
+(Refer Slide Time:  3:56)   
+ 
+So, if we solve it, it looks like this that given from the condition given are particle having size 
+or D p = 0.127 millimetre, shape factor  Phi s = 0.9, density Rho = Rho particles = 1100  kg per 
+meter cube, pressure P 1 or inlet = 2 atmosphere absolute = 2 into 1.01325 10 to the power 5 
+Pascal, then temperature T = 30 degree centigrade , then epsilon = epsilon mf = 0.4, cross -
+sectional area = 0.3 meter square and bed contains 300  kg of solid , i.e., w or m , whatever we 
+call, m = 300 kg solid. Apart from that , we are  also given Mu of the air , i.e., fluid = 1.8 10 to 
+the power – 5 Pascal seconds and molecular weight of air = 29  kg per kg mole, this is what 
+we have been given.  
+Now, for solving it , let us take this way that if epsilon would have been 0 , i.e., there is no 
+void, earlier also we had done the same thing , that we can use a mass, density, area of the bed 
+to obtain the height of the bed in complete packed bed condition. So , if e psilon would have 
+been 0 , then we can write , L0 A0 into 1 – epsilon 0, this is equal to L mf A0 into 1 – epsilon mf, 
+because , we said uniform cross -section , earlier also that , there is no change in the cross -
+sectional area , because , as long as this is fixed, our sectional area also remains same. So , if 
+that be true, we can say tha t Lmf = L 0 A0 by A 0 into 1 – epsilon mf, if epsilon 0 is 0, we had 
+taken , epsilon 0 as 0. So , if that be true , then we can write this is nothing but L 0 by 1 – 
+epsilon mf. 
+Now , volume of the solid this is equal to , we have been given that mass is  300 kg of solid by 
+the density Rho of the solid , which is given 1100 kg per meter cube. So , this means , 300 by 
+1100 meter cube. And , yes, let us look into how much it comes 300, 1100, let us take that 
+calculator , 0.2727 meter cube. So , if volume of this is so much , then L 0 that will be equal to 
+volume of the solid divided by cross -sectional area, so , this is equal to , volume has become 
+0.2727 divided by 1100 , sorry , divided by cross -sectional area, cross -sectional area has been 
+given 0.3 , so, this we can that 0.2727 , if we take this way 0.2727 divided by 0.3 = 0.909.  
+So, 0.909 meter is L 0 therefore, L mf, this now becomes equal to L 0 by 1 – epsilon mf and 1 – 
+epsilon mf L0 is 0.909, 1 – epsilon mf is given , 0.4 = 0.909 divided by 1 – 0.4, i.e., 0.6 so , 1.515 
+so, minimum f luidised bed height, height of the bed under minimum fluidised bed condition , 
+minimum fluidisation condition is 1.515 meter , whereas, the bed has packed only solid is 
+0.909. So , as we have been asked, this is the first one , which we can say, we have been asked 
+that what is the minimum height of the fluidised bed, minimum height of the fluidised bed 
+that has become, then it is the pressure drop at minimum fluidising condition, so , let us go 
+and see what is the pressure drop.  
+(Refer Slide Time: 14:11)  
+ 
+So, pressure drop , so, 1.515 was L mf was 1.515, so , roughly you can take 1.52 meter. So , now 
+pressure drop under fluidised condition , this Delta P mf can be written as L mf into 1 – epsilon mf 
+into Rho p – Rho into g.  Now, we have b een given , if you remember , in the previous sheet , we 
+had seen , Rho p was given but Rho of air is not given . So, since temperature is given , we can 
+say, Rho of air , that is equal to P M by R T, so , P is 2 into 101325 into M given , 29 divided 
+by 8314 into 30 degree centigrade means 273 + 30 , that means , 303, so , 303 this becomes 
+equal to , let us look into this , 2 into 101325 into 29 is equal to this divided by 8314 divided 
+by 303 = 2.3328 , so, we can say roughly 2.33  kg per meter cu be. 
+So, once we know Rho, then we can write that Delta p = L mf, was 1.52 into 1 – epsilon mf, was 
+0.4, and Rho p was 1100 , i.e., 2.33 into 9.81 or 82 , in many cases we use. Therefore, this 
+becomes equal to , let us see how much, 1.52 into 1 – 0.4 is equal to this into 1100 – 2.33 into 
+9.82= 9830.55 Pascal So, this means , this is equal to 9.83 kilo Pascal , 9.83 kilo  Pascal is 
+Delta p therefore, P inlet is so much, what is the P outlet? P outlet is Delta P, Delta P = P inlet 
+– P outlet , so, P outlet is P inlet – Delta P, so , P outlet is P inlet – Delta P, P inlet is 2 into 
+101325 , okay , and this we can write 101.325 , if we say , kilo Pascal – 9.83 = 2 into 101.325 = 
+this – 9.83 = 192.82 kilo  Pascal, so , we have found out what is the pressure drop and what is 
+the minimum fluidisation height.  
+(Refer Slide Time:  20:35)   
+ 
+Third one is what we need to find out the velocity, so , for that velocity , we can use that 
+Ergun’s equation modified or new form of Ergun’s equation as we have done earlier. We can 
+write from here that now since we know P 2, Delta P was 9.82 kilopascal and P 2 is 200 12 
+point , so much Pascal, Delta P is 9.82 kilo  Pascal , so P 1 was, P inlet was 2 into 101.325 , 
+okay , – 9.83, so, it is P in – Pout, okay , so, Pout is P in – Delta P. P in is this – that 192.82 , so, how 
+come it is, yeah , 2 into , how come it is , Delta P in – Pout that is P out is P in – Delta P , yes, it is 
+okay.  
+Now , for that what we need? Average P, P average = P in + P out divided by 2 = P in was 2 into 
+101.325 + 192.82 over 2 , so much kilo Pascal , so, let us see how much it is, 192.82 + 2 into 
+101.325 , so, this is to , this divided by 2, 197.735 , so, much kilo Pascal = 197735 Pascal i.e., P 
+average. So , we use that modified Ergun’s equation , then we can write that 1.75 by Phi s cube 
+into 1 – epsilon mf square by e psilon mf cube N Re square , we said , it is a quadratic equation + 
+150 divided by Phi s cube into 1 – epsilon mf square over epsilon mf cube N Re – Dp cube Rho by 
+Mu square into Rho p – Rho into g , this is equal to 0. So , we can  say A N Re square + B N Re + 
+or – C = 0, then , come s what is A and what is B.  
+(Refer Slide Time:  25:52)   
+ 
+So, A becomes equal to 1.75, Phi s given was , if I see properly , Phi s 0.9, Phi s given was 0.9 , 
+then 1 – epsilon was 0.4 square divided by 0.4 square and this is what and this is equal to let 
+us see how much it is, 1.75 divided by 0.9 cube into 1 – 0.4 square divided by 0.4 cube , not 
+square, Phi s cube epsilon mf cube , so, that is 0.4 cube = 13.503 N Re square. B is 150 divided by 
+Phi s 0.9 cube into 1 – epsilonmf is 0.4 square divided by 0.4 cube , so much energy and this is 
+equal to 150 divided by 0.9 cube is equal to so much into 1 – 0.4 square = so much divided 
+by 0.4 cube = 1157.4 N Re. 
+And C = D p, particle size was given , 0.127 millimetre , particle size given was 0.127 
+millimetre. So 0.127 millimetre into 10 to the power – 3 whole cube Rho, Rho in this case , it 
+was, we found to be equal to Rho average , last we got average Rho is P average, so , when we 
+got P average , we can also write Rho average = P avera ge into M by R T = P average is 
+197735 into 29 by 8314 into 303 , so, Rho average came out to be 197735 into 29 divided by 
+8314 divided by 303, 2.27 kg per meter cube.  
+So, from there we got that , yes, C is this , so, that was into Rho 2.27 divided by Mu, Mu given 
+was, Mu given , 1.8 10 to the power – 5, Mu square into Rho P – Rho, 1100 - 2.27 into 9.81 = 
+0, so , what we get? We get a quadratic and from there , we get the value of v and v will come 
+somewhere , v average from that N Re if we define N Re to be like this v mf prime is N Re into 
+Mu 1 – epsilon mf by D p into Rho into Phi s, so, from there by calculation we get 5.5 10 to the 
+power – 3 meter per second , from where this value.  
+So, if you try , because we are not having any more time, time constrain t is there, so , if you 
+try, hopefully , you will get , somewhere this value 5.5 10 to the – 3 meter per second , velocity 
+using , because , from here this becomes , NRe square A + B N Re – C = 0. So , our quadratic 
+equation , by solving it , we get N Re value , and fr om that N Re value we can get the value of v 
+using this relation okay thank you.  

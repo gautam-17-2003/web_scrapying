@@ -1,0 +1,255 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 2
+Module 1
+Equation of continuity expression and their interpretations 
+So, as we finished in the last class that we will be dealing now with the equation of continuity,
+right?
+(Refer Slide Time: 0:49)
+Continuity equation that we will do now. So, we will start with, as we said in the previous class,
+that, finite volume element we will take and there will be inlet and there will be outlet, right? So,the inlet and outlet, depending on that we will say, we have taken a volume element like this,
+right (refer Video)? Say, like this, right? We have here the conservation, this we will do equation
+of continuity based on the conservation of mass, right. So, equation of continuity is totally on the
+conservation of mass, right?
+And, we say that rho into v into A (ρvA), right? This rho (ρ) into v into A, rho (ρ) is what? kg per
+meter cube (kg m-3), v is meter per second (m s-1) and A is meter square (m2), then what it means?
+kg per meter square per second (kg (m2s)-1, right? So kg per meter square per second (kg (m2s)-1
+that is anything which is per unit area per unit time that is called a flux that is called to be the
+flux or we call it to be mass flux, right? Per unit area per unit time of any parameter that is
+known as to be flux.
+So, in this case we can call it to be mass flux, right? Rho (ρ) into v into A. What is coming in and
+that is going out as rho (ρ) v A out, right? And from the law of conservation of mass we can say
+that nether we can create mass nor we can destroy mass. This is known. So, conservation of mass
+says that neither we can create nor we can destroy. So, whatever will come, total mass, whatever
+will go that total mass. If there be any accumulation, this all put together, will remain same,
+otherwise, we will be generating some mass, not possible from the conservation of mass.
+If there is some mass going out, no accounting, then that is also not possible because we cannot
+destroy the mass. So, from the conservation of mass, we can say that whatever is coming in that
+is to be going out if there is no accumulation, right? (Refer Slide Time: 3:51)
+So, here, that is what we are saying. Now, if we tell to be total mass aim, so, that is equal to say
+at different points rho 1 (ρ 1) into velocity at that point in, at the inlet v 1 into area of the inlet at
+that point Ai1 plus similarly rho i (ρ 2) this is at the point 2, v at the point 2 and area at the point 2. 
+So, all these plus all so many (refer video), this must be equal to the rho (ρ) at the point outlet at
+point 1 times v velocity at the point outlet at point 1 times area at point outlet at point 1 plus rho
+(ρ) outlet 2 into velocity outlet at the point 2 and area at the point 2 plus as many points we
+consider. So, this must be equal to the total mass in, right? So, this, if we tell, then we can say
+this to be say equation number 1 (refer video) where all the points are added in terms of rho (ρ)
+times v times A. This is the mass flux, kg per meter square per second (kg (m2 s)-1), right? 
+How it came? Rho (ρ) is kg per meter cube (kg m-3), v is meter per second (m s-1), A is meter
+square (m2). So, this makes this meter square and this meter cube, rather sorry, this is  meter
+square into meter, that is meter cube, and this meter cube it comes kg per second, or sorry mass
+flux, mass only, that is the mass flow rate, right? This is the mass flow rate, right? Yes, as we said
+that if the meter square is in the denominator, then it becomes, that you need per unit area per
+unit time, then that becomes the flux, then it becomes the mass flux, we will come again. 
+So, this is only mass flow rate that is kg per second meter square meter so meter cube over meter
+cube (refer video). So, it goes out. So, it is, kg per second. That is the mass flow rate with time so
+much kg is flowing, and if that is constant, this much of mass m is going, so that is equivalent to
+that inlet, as many point we consider rho (ρ) 1, 2, 3, 4, 5 as many. Similarly, outlet rho (ρ) 1, 2, 3,4, 5, so many points addition of these three. So, we will give you that multiplication of these
+three will give you that mass flow rate of that system, okay.
+Now, let us look into, okay, as we said it is kg per meter, my aim is kg per meter second kg per
+second. Rho (ρ) is the density kg per meter cube (kg m-3) gives us velocity or speed. Of course,
+velocity and speed, we know the difference, velocity we say to be having a definite direction,
+but, when the same thing is said without any direction, then it is called to be speed, right? So the
+train has this much of speed 60 kilometer per hour. So, we never say that it is going from one
+place to the other place. So, the moment we say that it is going from this place to the other place
+then it becomes velocity, because, then it is directed from this place to that place it is going,
+right?
+So, that is why, we are also, we have taken to be speed because we have not said how we know,
+which direction it is going. So, meter per second. Then, area, as meter square (m2), right? Now,
+if, we assume that in all these, inlet and outlet, the density is not changing, right? And we
+remember in the first class, we said that, if the density is not changing, that means, it is having
+constant density, and if that is a constant density, then we also say it is to be incompressible fluid,
+right (refer video)?
+(Refer Slide Time: 9:20)
+So, here, it is applying that, if it is to be incompressible fluid, i.e., if the density is not changing,
+that is density is constant, if density is constant, then we say it to be all rho (ρ), right? So then,
+this rho (ρ) and this row (ρ), then we say this rho (ρ) is equal to rho (ρ) into v i 1 Ai 1 plus vi 2 Ai 2
+plus as many is equal to this rho into v o 1  Ao 1 plus vo 2 Ao 2 plus as many, right? So, this is true.So, that means, again we can write m is equals to v i 1 Ai 1 plus dot dot dot dot  (….) is equal to vo 1
+Ao 1 plus dot dot dot dot (….), right?
+So, here, now, we can say that if this rho (ρ) we divide by m, right? So, we have, m by rho (m /
+ρ) is equal to q, if we say this q to be the volumetric flow rate that was mass flow rate, right?
+How? This was kg per second (k s-1) and this is kg per meter cube (k m-3). So, it becomes meter
+cube per second (m3 s-1). So, meter cube per second (m3 s-1) means the volumetric flow. If you
+take that to be volumetric flow, then m this rho (ρ) we divide it here, so m by rho (m / ρ) is equal
+to this v1 A1 v2 A2 plus all v is equal to v o 1 A0 1 vo 2 A0 2 all these points, right? 
+(Refer Slide Time: 12:04)
+Then, we can say that by adding this we can come to this level of equation of continuity. In
+general, we can write that del rho del t ( ρ / δt), this is to be equal to minus del del x of rho v x
+(∂
+∂x(ρvx))plus del del y of rho v y (∂
+∂y(ρvy)¿plus del del z of rho v z (∂
+∂z(ρvz)), right?
+So, this is one form of equation of continuity del rho del t ∂ρ
+∂tchange of density with time that
+is equal to minus del del x of rho v x plus del del y of rho v y plus del del z of rho v z, right?
+∂ρ
+∂t=−(∂
+∂x(ρvx))+(∂
+∂y(ρvy))+(∂
+∂z(ρvz)). You know. here you say. rho (ρ) is kg per meter
+cube (kg m-3) and v is meter per second (m s-1). Here, it becomes mass flux. So, earlier by
+mistake, we said that, without noticing it to be that, it was kg per meter cube meter per secondmeter square (refer video) kg
+m3m
+sm2 , so we said by mistake, that it was kg per meter square
+per second that is a flux mass flux but it is not so, it is so here now as kg per meter square per
+second that is the mass flux kg
+sm2.
+So, in this case kg is the mass. So, area is the meter square (m2), second (s) is the time. So,
+anything any parameter per unit area per unit time is called to be flux of that particular variable.
+This variable, here, is the mass. So, we call to be mass flux, right? So, this is one form of writing
+equation of continuity that del rho del t del is minus del del x of rho v x plus del del y of rho v y
+plus del del z of rho v z.  ∂ρ
+∂t=−(∂
+∂x(ρvx))+(∂
+∂y(ρvy))+(∂
+∂z(ρvz)).Do not worry, we will
+derive this subsequently, that how this is true. Why, how this is true, in what way we are saying it
+to be there. This, of course, is in Cartesian coordinate. How we are saying that, this is the
+equation of continuity. That we will come and derive subsequently, right? 
+Now, if the significance of this is that the rate of change of density at a fix point results from the
+changes in the mass velocity vector rho v (ρ ´v) or in other words results from the changes in
+mass flux in all directions because this is the mass flux of the z direction, this is the mass flux of
+the y direction, this is the mass flux of the x direction. So, changes, so, what is the change with
+respect to that position del x (δx) that mass flux, sum of all these put together is coming to the
+rate of change of the density at a fixed point, so that fixed point in the Cartesian coordinate is x,
+y and z, right?
+So, with that x, y and z, del rho del t (∂ρ
+∂t),this obviously we do not normally write x, y, z,
+right? But, it is so that del rho del t (∂ρ
+∂t),this rho (ρ) is at a point x, y, z, is nothing but the
+changes in the mass flux or mass velocity, that, whatever it be called, this is mass velocity, is
+normally  said.  So,  mass  velocity, that  mass  times  velocity, right?  At  that  fixed  point  this
+summation of all these results of all these changes in that direction, okay and it is coming from
+all the directions of x, y and z.This is one form of saying equation of continuity, right? So, in the vector term also this can also
+be said in that way that del rho del t (∂ρ
+∂t),is equal to minus this vector rho v vector, (-(ρ ´v
+)), right? So, this also has significance. This is the, say, in second form of equation of continuity.
+This normally we call to be second form of equation of continuity and in that case, that is said,
+the significance of this can be re-written, can be said that the vector rho v (ρ ´v), this rho v (ρ
+´v) vector is the mass flux and its divergence has a simple significance. It is the net rate, this
+the net rate of mass flux per unit volume, right? 
+So, like here also it was the net, because, this was the net of all that whatever in all directions x,
+y, z changes are occurring, mass flux here also that rho v vector (ρ ´v). The net flux per unit
+volume is the rate mass flux, right? It can also be said in the other way that the fact remains like
+this, the rate of increase of density with a small volume element which is fixed in a particular
+space, that the rate of increase of density, or, this can be, increase of density or decrease either
+way, depending on the case, increase or decrease of the density with a small volume element,
+fixed in a particular space, that is equal to the net rate of mass eflux to the element that is divided
+by its volume, right? 
+So, this is another way of stating the equation of continuity, right? So, this way we can say
+equation of continuity in different ways. We have said, the two ways express in two ways.
+Similarly, we can also express it in another way, right? That is called that equation of continuity
+in terms of partial, substantial time derivative no, equation of continuity in terms of substantial
+time derivative. If we look into that, then we can say, that is D rho capital then substantial time
+derivative, the operand is different, that is, the capital D, so D rho Dt (Dρ
+Dt)is equal to del rho
+del t plus vx, that is the velocity components in the x direction, v x del rho del x plus v y del rho del
+y plus vz del rho del z, right? Dρ
+Dt=∂ρ
+∂t+vx∂ρ
+∂x+vy∂ρ
+∂y+vz∂ρ
+∂z.. 
+So, we said, if you remember in the substantial time derivative, when we defined it, there, we
+said that, when you are moving in the canoe, right? On a canoe you are moving and that is in the
+direction of the stream only, right? So in that case, that substantial time derivative can be written
+in this way capital D operand, so D rho Dt capital D rho Dt that is equals to the change in density
+with time del rho del t plus the velocity component in the x direction v x into change of thedensity in that position del rho del x plus velocity component in the y direction v y into the change
+of density in that y direction del rho del y plus velocity component in the z direction that is v z del
+rho del z, right? Dρ
+Dt=∂ρ
+∂t+vx∂ρ
+∂x+vy∂ρ
+∂y+vz∂ρ
+∂z.
+Obviously, why it is coming? Because when you are moving in the canoe, if you are flowing say
+in the x direction, right? You have some more velocity effect on that, whereas, the other two
+direction, if it is stream line, if it is not turbulence, there is no storm and other things happening,
+if it is normal, so other two directions, they will have not that significant effect on that, but, you
+have to consider. So how we are considering? We are taking the velocity component of the
+velocity v, right? 
+And in that case this is v x vy and vz which are taken to account for this equation, right? So, this
+we can significantly say, the significance of this equation, we can say that capital D rho Dt
+(Dρ
+Dt), right? Which, is nothing, but the entire substantial time derivative of the density. So, it
+says that this is for a path following the stream of the flow, flow of the stream. So this is
+following the flow of the stream which we are repeatedly saying, right? 
+So, I am repeatedly saying that this is nothing but the stream of the flow through which we are
+calculating and that is the substantial time derivative and this can in another way also be said that
+the rate of change of density that can be seen by an observer when floating along the stream of
+the fluid, right? So, this substantial time derivative we can say this is nothing but that the rate of
+change of density, when you are flowing along the stream of the flow, right? Okay.
+Then, this is of course in terms of vector in that can also be said that D rho Dt (Dρ
+Dt), the
+vector operand that minus vector operand rho v [ −(ρ´v)¿. So, this has also a meaning that this
+can be said in the rate of change of density as seen by the observer flowing with the direction of
+the fluid, right? So, if we now, we have said the different forms of the equation of continuity both
+in the normal coordinate forms and also in the vector form. So, in that case, we will, next class,
+we will be definitely deriving that based on the Cartesian coordinate, or, may be, in cases, in
+cylindrical coordinate also, in cases we can derive and then bring to this equation that how the
+equation was developed, right? We just wanted to tell the significance, because, we have said the definition of derivatives and
+now how those derivatives also getting impact on the different term that we have said, right? 
+(Refer Slide Time: 25:35)
+Now, if we take this to be a special case, that we have said, the different forms of equation of
+continuity, right? Now, if we take a special case, that is if the density is not changing, i.e., if the
+density is constant, if density is constant, then we can say that capital D rho capital Dt (Dρ
+Dt),
+this is nothing but equal to 0, if we take this capital D rho capital Dt (Dρ
+Dt),this is nothing but
+equal to 0, right? So, if that be the situation, that is under constant density condition, under constant density means
+density is not changing, in that case, we can say that the fluid is incompressible and if the fluid is
+incompressible then capital D rho Dt is 0 ,(Dρ
+Dt)=0and the equation which wrote earlier, that
+can be written as del v x del x plus del vy del y plus del vz del z equals to 0, ∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0
+, because this D rho Dt (Dρ
+Dt),has become 0. So, if this has become 0, right? Then, del rho del
+t (∂ρ
+∂t),also has become 0, (∂ρ
+∂t)=0. Then, this individual components, because, this is
+incompressible. So, in that case, we can write that del rho del v x del x that first equation del v x
+del x plus del vy del y plus del vz del z this is equal to 0,  ∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0, right (refer
+video)? 
+So, that, if we see that, yeah, so here we have right? del v x del x del vy del y and del vz del z this
+becomes equals to 0, ∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0, okay. So, this is a special situation where the fluid
+is incompressible, and D rho Dt is equal to 0, right? That means if the fluid is incompressible that
+is the density is not changing it is constant then we can write that D rho Dt is 0 ,(Dρ
+Dt)=0and
+that implies the equation of continuity to be equal to del v x del x plus del vy del y plus del vz del z
+equals to 0 ∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0. Mind it, these relations will further be utilized subsequently,
+may be, for developing the equation of motion, right? 
+The entire flow regime is primarily depending on the sets of equations known as Navier-Stokes
+equation, which we will subsequently develop. Obviously and there these relations of equation of
+continuity will be really helpful and you will see, that is why, giving so much emphasis on this,
+that you must also keep in mind that this under special condition that D rho Dt is 0 ,(Dρ
+Dt)=0,and then del vx del x plus del vy del y plus del vz del z is 0 ∂vx
+∂x+∂vy
+∂y+∂vz
+∂z=0, at, when the
+density  is  constant.  This  you  keep  in  mind  and  subsequently  we  will  do  it  when  we  are
+developing the Navier-Stokes equation or that is called equation of motion, right? 
+So, from the equation of continuity, with the help of equation of continuity, equation of motion is
+also developed. So, utilizing these relations, so, keep in mind, we will keep these relations
+utilized developing the equation of motion, right? And so, next class we will do the derivation of
+equation of continuity in both Cartesian coordinate and in cylindrical coordinate. So, obviously
+in Cartesian coordinate it will be x, y, z and in the cylindrical coordinate it will be r, theta, z (r, θ,
+z), right? But basic thing will remain in both the cases same that the basic equation based on
+which, as we have done here, is conservation of mass.
+So, that will remain same. So, in that case, it will not be changing. So, whatever is coming on
+that must be equal to whatever is going out and if there is any accumulation, so, that we will
+keep in mind and do in the next class, right? So, we now finish it here. So, thank you for this
+class.  
+ 

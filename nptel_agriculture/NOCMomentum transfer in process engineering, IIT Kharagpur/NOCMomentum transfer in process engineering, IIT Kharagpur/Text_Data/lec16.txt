@@ -1,0 +1,174 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 16
+Module 4
+Moody’s Chart 
+Hello, so you remember, in the last class we have done, what is the definition of fanning friction
+factor and how we can calculate this fanning friction factor with the help of Hagen–Poiseuille
+equation, right? For laminar flow, and one thing of course, you have to keep in mind, and
+remember that this fanning friction factor relation “f” with the delta P f, right? 
+(Refer Slide Time: 0:55)
+So, let us write it to be delta P f is equal to “f” into rho into L by D into v square by 2, right? And
+it was 4, if you remember 4 f rho L by Dv square by 2, this way is easy to remember the relation
+between fanning friction factor and pressure drop, right? 
+4 f rho this is one, L by D is the non-dimensional length, this is the velocity head, so non-
+dimensional length velocity, so, 4 times friction factor into density into non-dimensional length L
+by D and velocity head v square by 2 is the pressure drop, right? This, if we remember and if we
+are able to remember, this way is very easy to find out fanning friction factor easily, right? Now,
+we can find out fanning friction factor for the turbulent flow, right? (Refer Slide Time: 2:44) 
+Fanning friction factor for the turbulent flow, if we can determine it for that for what we need to
+know that some more relations that fanning fiction factor is a function of N Re epsilon by D, right?
+This epsilon by D is known as relative roughness, right? 
+This epsilon by D is known as relative roughness, so, once we know this fanning friction factor
+relation, then, we can also find out what the turbulent flow, what the fanning friction factor, how
+it is related to the pressure drop, right? Now, for that, what is relative roughness we understand
+that also. We should tell a little detail, otherwise, it will be difficult to understand, right? Now,
+this is a pipeline, right? This is a pipeline, now this pipeline, if I see with naked eye, then, I will
+see it, this pipeline is straight, right? 
+But, suppose you take a microscope and take this sectional view, right? In that microscope this
+sectional view, if you look at, instead of it being this straight, you will look into the microscope
+like this. So, it is no longer straight, right? Now, say a liquid droplet, which was travelling this
+distance L, so, if this is the droplet, so, that had traveled all along this length L, which here in
+delta Pf 4 f rho L by D v square by 2 we have considered to be L, right? 
+So, this L, when we considered, this was considered okay, whether it is laminar or turbulent does
+not matter, but this was considered. Now, when you saw under microscope, this molecule of
+water, say 1 molecule, if we talk about, so, this molecule of water that travel from there to here
+from here to there from there to again here from here to there and there to here and then here,
+right? As if, the molecule had to travel like this, like this, like this, like this, like this, and like
+this, right? Which is definitely greater than L. Now, this will be definitely greater than L how much greater?
+1 time, 2 times, 10 times, 100 times or 1000 times, or, 1 10th time, or, what, that we do not know,
+right? So, first we have to understand that the liquid really traveled more than the length we
+considered that is L, right? It is no longer L. So, this as traveled as if this, if we extend like this,
+if we extend from this end to this end, then it will be straight and that will be more than that, may
+be like this, right? 
+So, this is definitely L plus something say delta L. So, this new L plus delta L, that was not
+considered, in this L. So, our L calculation was not correct for which the delta P f, which, we had
+predicted  through  this  relation  of  delta  P f and  “f”,  that  definitely  will  tell  us  something
+erroneously. So, this we have to consider and this was considered by a renowned scientist called
+Moody, and he subsequently, prepared a chart, that is called Moody’s chart, for which we have to
+first know the Reynolds number, N Re and we have also to find out epsilon by D, i.e., relative
+roughness, right? 
+This, if we can find out, then, we can find out the value of “f” from a relation of f versus N Re as
+given by Moody, and this is in log scale, and this is in normal scale, right? So, if that is known,
+then from there, by knowing the epsilon by D. we can determine, what is the friction factor value
+for different pipes. Now, here one thing definitely comes into mind that if as we have said that
+the liquid droplet will travel from one place to the other for a definite length, right? More than
+the length we considered.
+And, we also said this is true when we are looking under say microscope, or, in a magnified way,
+microscope means in a magnified way than that in naked eye. We cannot determine, visualize,
+we cannot see or, differentiate, the change. But, if we see under microscope, or in extended or
+enlarged view, then we can see really it was not so, it was more than L. Now, next the question
+comes this pipe can be made of, now, it is polythene pipe, stainless steel pipe, or copper pipe, or
+mild steel pipe, so any and every pipe will have the same, is not it?
+So, that is what for different pipes it will be different values and that was first found out or it was
+brought to the notice by Moody, and prepared that Moody’s chart, right? So, if we look at, let me
+check whether it is here, or not perhaps, it is not here at some other point. I have made it just a
+second, at some other point, I have made it. 
+(Refer Slide Time: 11:29) So, this is that chart. We will come back to this again. This is the chart which we are referring to
+as Moody’s chart. This is available in any network, or in any book, any book, any network, you
+just give Moody’s chart, it will come like that, right? Here, you see, this is that coefficient of
+friction, either as lambda or “f” which we said, normally we write it in terms of lambda or “f”,
+right? 
+And, this is the Reynolds number; both are in log, okay. This was mistake; both were in log-log
+scale, right? So, in log-log scale, both are there and this is that relative roughness, which we said
+as epsilon by D, right? Here, it is written k by D, or, it can be epsilon by D. So, this is for laminar
+flow, this curve for laminar flow, you see this is f versus Reynolds number, which are in log-log
+scale, right? 
+And the laminar region is given like this, and for turbulent region they are given like that and if
+you look into some other, this Moody’s chart, or some other referred to, there also you will find
+out this is true, when you are going with this for different materials, that if it is stainless steel
+one, if it is mild steel, rather, so, because everybody will have different construction and level.
+So, that relative roughness is different for different material, so that we have to think of and the
+moment we know that we can say, yes, we know the relative roughness, epsilon by D for that
+material, we can find out the Reynolds number of the flow, we can find out from there the
+friction factor, right?
+(Refer Slide Time: 14:02) So, that is what we said, so both are in the log scale. This is also in log scale, this is also in log
+scale, and the curves are like that, as we saw, this for laminar region one, and for the turbulent
+region they are different, right? 
+The nature of the curve is little like this. This was for laminar and for turbulent it is like that,
+okay, right? So, if we know for different epsilon by D, this is epsilon by D, this is another epsilon
+by D, so different epsilon by D, if we know that, you can locate this point, and then find out what
+is the value of frictional factor, right? So, this way Moody’s, this is called Moody’s chart. So,
+once you know from the Moody’s chart, the value of frictional factor, then you can calculate
+what is the pressure drop, right? 
+So, if you now go back to that original, which we left with, right? So, okay, this was over now if
+we look at this, let us then look into a problem, this problem tells that,(Refer Slide Time: 15:45) 
+A liquid is flowing through a steel pipe having epsilon, i.e., called equivalent roughness, epsilon
+4.6 into 10 to the power minus 5 meter, and density, sorry, diameter D 0.0508 meter at a velocity
+of 5.0 meter per second. The viscosity of the liquid is 6.0 centi-poise and the density is 800 kg
+per meter cube, so, calculate the pressure drop in a 40 meter section of pipe and the frictional
+loss, right? 
+Frictional loss means that, frictional head, right? How much frictional loss it happened, so that, if
+you can find out, then, we can see, from the Moody’s chart, this is very helpful, so, for that let
+me repeat, A liquid is flowing through a steel pipe of epsilon having the value of 4.6 into 10 to
+the power minus 5 meter, right? This is called equivalent roughness and D as diameter 0.0508
+meter at a velocity of 5.0 meter per second. The viscosity of the liquid is 6.0 centipoise and the
+density is 800 kg per meter cube, calculate the pressure drop in a 40 meter section of pipe and the
+frictional loss, right?(Refer Slide Time: 17:58) 
+Now, we are given, mu is equal to 6 into 10 to the power minus 3 Pascal second, right? Now, we
+are also given D, and we are given the density, so, from there let us find out what is the value of
+Reynolds number, i.e., D v rho by mu. So, these values are known D is 0.0508 meter v is given
+as 800, density is given as 800 kg per meter cube, right? And velocity is given as 5 meter per
+second, right? And viscosity is given 6 into 10 to the power minus 3. So, this if we calculate,
+then, it comes to be 3.39 into 10 to the power 4, right? 
+So, it is 3.39 into 10 to the power 4, that means, it is 339 one two zero, so 33900 N Re, right? So,
+now, let us find out relative roughness that is epsilon by D. Now, epsilon by D will be equal to
+4.6 into 10 to the power minus 5 by 0.0508, right? So, epsilon was given 4.6 into 10 to the power
+minus 5 meter, so, it is D is 0.0508 m, so, this is equal to 0.0009, right? And if we now look at
+the Moody’s chart, which we had shown you earlier, like this, that if we now, look at this chart
+that we have, the value of N Re as 3.39 or say 3.4 into 10 to the power 4.(Refer Slide Time: 20:34) 
+So, somewhere here 3.4 into 10 to the power 4, somewhere here, and we will go according to
+epsilon by D, 0.0009, 3 zero 9. So, somewhere here, right? Within this, so, we will go there and
+then we will, wherever it is clicking for that particular, we will find out from there the value of
+“f”, right?
+(Refer Slide Time: 21:07) 
+So, this way if we look into the Moody’s chart, we can say, for this given condition of epsilon by
+D to be equal to 0.0009, and N Re corresponding to 3.39 into 10 to the power 4, then the value of
+“f”, that can be seen from Moody’s chart is equal to 0.006, right? From Moody’s chart, if we see
+then, it can be like this.Now, this is nothing but is equal to, then, delta P f, we can find out delta P f is 4 f rho L by D v
+square by 2, right? v square by 2, and if we look at L by D v square by 2, all these values are
+known. Then this is 0.006 f, right? v was okay rho was 800, right? v L by D v square by 2, v was
+5 meter per second by 2, right? So, v square so it is 5 square by 2, and L by D, was L was 40
+meter and D was 0.0508 meter, right? So, if we know calculate, it comes to equal to 1.89 into 10
+to the power 5 Pascal, right? 
+So, we found out delta P f to be equal to 1.89 10 to the power 5 Pascal. Now, if it is delta P f found
+out, then we are asked to find out what is the frictional loss. Now frictional loss that can be found
+out, that is called F f is equal to delta P f over rho, i.e., frictional head, or frictional loss. So, delta
+Pf is already found out, 1.89 10 to the power 5 divided by rho, is 800, so this comes to equal to
+236.25. This unit will be Pascal into meter cube over kg, right? This was Pascal this is kg per
+meter cube, so Pascal into meter cube by kg, right? 
+Now, normally the frictional loss is not expressed in terms of this, Pascal meter cube by per kg,
+then, if you are asked that find out what is the frictional loss in terms of joules, or in terms of
+Joules per kg, then how can you determine that?(Refer Slide Time: 24:52) 
+You have seen delta P f from here is Joules per in Pascal meter cube per kg, right? Because, it is
+delta Pf, Pascal and density rho kg per meter cube. So, it becomes Pascal meter cube per kg, then,
+how can we determine that Joules per kg? This is very simple. If you know the definition of
+Pascal in terms of Newton and then you convert all of them, from there, you can determine the
+unit, which can be in joules per kg. 
+(Refer Slide Time: 25:38) 
+For example, this whatever, the value we had got, we have gotten 236.25 Pascal meter cube per
+kg, right? Now the value remains same 236.25 but this Pascal meter cube per kg that we can
+write in terms of this Pascal, as okay, Pascal per kg per meter cube this was there, so, Pascal is, if
+this is equal to kg meter per second square, right? And this per unit meter square, right? This intometer cube per kg, right? So, this is equal to, if we take that, meter cube meter square, so, this
+goes out, right? Meter cube meter square and this meter then it becomes, meter and this kg this
+kg that goes out.
+So, meter square and second square remains, so we can write meter square per second square.
+Now, this meter square per second square, is nothing but Joules per kg. So, we can instead of
+Pascal meter cube per kg, we can write Joules per kg and the way it has been derived is through
+the definition of Pascal, right? So much kg meter per second square per unit meter square, right,
+times meter cube per kg, so, on simplification of this, this becomes meter square per second
+square.
+Now, this meter square per second square is nothing but Joules per kg, right? So, this way, if we
+remember that how we have developed this Pascal seconds rather Pascal meter cube per kg,
+right? If we remember then, easily then, we can find out how this is to be done, okay. Now, this
+perhaps, is easy that meter square per second square and we get it that okay, in terms of Joules
+per kg.
+(Refer Slide Time: 28:28)
+So, once this fanning friction factor, that can be obtained from the Moody’s chart, we can find
+out the pressure drop in the in the pipe also we could find out the frictional head or frictional
+loss, right? 
+Frictional head or frictional loss this can be determined in terms of joules per kg or Pascal per kg
+per meter cube, right? Pascal per kg per meter cube this also is convertible, right? So, today we
+finish it here thank you.  

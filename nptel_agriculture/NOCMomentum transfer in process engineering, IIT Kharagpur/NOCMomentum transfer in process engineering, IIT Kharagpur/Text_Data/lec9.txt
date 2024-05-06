@@ -1,0 +1,146 @@
+Course on Momentum Transfer in Process Engineering
+Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology Kharagpur
+Lecture 09
+Module 2
+Problems and Solution of Compressible Flow
+We have done that incompressible fluid. We have studied with compressible fluid and we
+have found out the relation how the pressure can be found out if one pressure is known how
+the other pressure can be found out with the relation for that was for isothermal fluid, right
+those fluid which are under isothermal conditions so they can be they can be predicted the
+pressure drop or if one pressure is known the other pressure can be also found out, right. So
+we said that we will do some problem so that the understanding of the use of the equation can
+be more effective, right.
+ (Refer Slide Time: 1:18) 
+So, let us look into one like Methane is being pumped Methane is being pumped through a 1
+meter ID pipeline for a distance of 1 into 10 to the power 5 meter at a rate of 2 kg moles per
+second. The equivalent roughness of the pipe is 4.6 into 10 to the power minus 5 meter. It is
+assumed that the line is isothermal at 290 Kelvin. The viscosity of Methane is 1.05 into 10 to
+the power minus 5 Pascal second. The pressure at the discharge end of the line is 200 into 10
+to the power 3 Pascal absolute. Calculate the pressure p 1 at the inlet, right.
+So, I repeat, Methane is being pumped through a 1 meter ID pipeline for a distance of (10)
+sorry, for a distance of 1 into 10 to the power 5 meter at rate of 2 kg moles per second. The
+equivalent  roughness  of  the  pipe  is  4.6  into  10  to  the  power  minus  5.  So,  equivalentroughness is given here. We have to find out and from there the frictional factor value from
+the Moody’s Chart, right.
+So, 4.6 into 10 to the power minus 5 meter, it is assumed that the line is isothermal at 290
+Kelvin. The viscosity of Methane is 1.05 into 10 to the power minus 5 Pascal second. The
+pressure at the discharge end of the line is 200 into 10 to the power 3 Pascal absolute.
+Calculate the pressure P 1 at the inlet, right. 
+ (Refer Slide Time: 3:57) 
+So, if we remember the relation of p 1, right, pressure that we said, P 1 square minus P2 square,
+right, this is equal to 2G square RT by M right into ln of P 1 over P2, right plus 4fG square RT
+delta L over DM. This was the relation for the pressure at isothermal condition, right.
+However, given things, let us write down given, G is equal to 2.0 kg mole per second, right,
+2.0 kg mole per second, and this was for the gas Methane. Methane gas is CH 4. So, CH4
+means, 12 plus 4, is equal to 16, molecular weight is 16, right. So, this 16, molecular weightmeans 16 kg mole per kg right. So, if we multiply this with 16, then it becomes 2 kg mole per
+second, right, so, into 16, this is how this is kg per kg mole, sorry, the reverse kg per kg mole,
+16 kg per kg mole, so that is the molecular weight. So, 16 kg per kg mole, right, into area,
+right, into flow rate divided by area that is pi D square by 4 meter square, right, pi D square
+by 4 meter square, this means this kg mole, kg mole goes out kg per second per meter square,
+right.
+That is nothing but mass flux, right. So, if we substitute the values, then, it becomes 2 into 16
+divided by pi into D square, given, D is equal to 1.0 meter ID, so, 1 right, and other than D,
+we need here nothing. So 2 into 16 into 4, this 4 goes up, pi this square is 1 square right, so,
+pi we can take as 3.14, right, then, if we put it into the calculator, then, we can say that 2 into
+16 into 4 is equal to this divided by pi, if it is not there, then let us take 3.14, right. 3.14 into
+1. So, that means it is 40.76, right, 40.76, say, so much of kg per meter square per second,
+i.e., the mass velocity, or mass flux, this rho into v, mass velocity, or this is called mass flux
+kg per meter square second, right.
+(Refer Slide Time: 8:35) 
+So, once we know the kg per meter square second, then we can now say that, N Re is equal to
+4.6 into D, rather, D v average rho by mu, right, D is given 1, v average we assume 40.7, right, and
+rho is  given as the viscosity, this  was  absolute, or this  much, roughness  is, this much,
+viscosity of Methane is, this much, right, ok. 
+So, G, rather, rho v, we have already found out, right, rho v, we have already found out, so,
+this is rho v, is G, so G is 40.7, so, 1 into 40.7 this divided by mu, mu was 1.05 into 10 to the
+power minus 5. So, if we again look into that calculation, so, we can see that 1 into 40.7 is
+equal  to  this  much,  divided  by  1.05  divided  by  10  to  the  power  minus  5,  right,  it  is
+3876190.47, right.
+So, so much is the value of N Re. So, here we see, 3876190.47, but there it is  coming
+3880571.4, the reason being we have taken 40.7, as the G value and it is taken in the problem
+as 40.746, right so that is why the change.(Refer Slide Time: 11:32) 
+Now, epsilon by D, right this value, epsilon is given as 4.6 into 10 to the power minus 5, and
+the value of D is 1, so, this is 4.6 into 10 to the power minus 5. So, corresponding to N Re is
+equal to this and epsilon by D is equal to this, if we see the graph, N Re versus f for epsilon by
+D equals to this, 4.6 etc, we get a value of f, right and this value of f, we assume is, now, to be
+seen as 0.0028, right.
+So, if we assume that the value of f is 0.0028, then, we can then substitute f, this is equal to f,
+so, we can substitute, and this 2G square RT by M of ln P 1 by P2. So, first find out this
+constant value. So, 2G square, 2 into 40.7 square into R, right, 8.314 into 10 to the power 3,
+right, into R, into T, T is 290, given 290 Kelvin, right, divided by, molecular weight, is
+Methane, CH4, 16 right. So, if we find out this value, this becomes equal to, this becomes
+equal to, the rest, we can do, how much this value comes in that 2 into 40.7 square, 40.7
+square into 2 into 290, this divided by 16, this is 60047, 60047.7625, right.(Refer Slide Time: 14:24) 
+This is coming to be equal to, we missed out, we missed out this, so that is what the problem,
+you do this, you do some another, 40.7, 40.7 square right into 2 is equal to so much, into
+8.314 oh ho 80 ok 80.314 into 100 not into 3 into 100 into 290, this is so much, divided by
+16, this is 48 not this 60, we missed out this terms, so, it 482267599.7 425 means is equal to
+4.8 10 to the power 8, right 4.8 into 10 to the power 8, right, that is what it is 4.8 and 5.06 the
+difference again, differs 40.7, and 40.745 or 754, ok.(Refer Slide Time: 16:09) 
+Now, once we know this, then, the other term, i.e., 4f delta L G square RT divided by DM,
+the values are 4 into 0.0028 into delta L, length is given as 1 into 10 to the power 5, most
+likely, 1 into 10 to the power 5 right. 1 into10 to the power 5 meter, it is 1 into 10 to the
+power 5 meter into G square, 40.7 square, into R, 8314, let us take this way, into 290, T
+divided by diameter, second 1, and molecular weight is 16.
+So, this comes as 4 into 0.0028 into 1 into 10 to the power 5 into 40.7 square is equal to so
+much, into 8314 into 290 is equal to so much, divided by 16, right. So, this is equal to
+279572774558, means, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, that is, 2.8 into 10 to the power 11, 1, 2,
+3, 4, 5, 6, 7, 8, 9, 10, 11, right, so, if that be true, 2.7 into 10 to the power 11, right, 2.8 into 10
+to the power 11, then this term is much bigger than this term, right 4.8 10 to the power 8.
+(Refer Slide Time: 19:23) So, what we can do, that we can then neglect the first term, i.e., we can neglect this term this
+P1 by P2 or, enough this if we neglect that then we can write P 1 square minus P2 square, that is
+roughly equal to right, 4f delta LG square RT over DM, right. So, if that is, we have found
+out to be equal to 2.8 10 to the power 11, right. One is given the value of output 200 into 10
+to the power 3 into, that means, given is P 2 is equal to 200 into 10 to the power 3 Pascal,
+right, 200 into 10 to the power 3 Pascal, i.e., 200 kilo Pascal.
+So, if we substitute this in this, we can write P 1 square is equal to 200 into 10 to the power 3
+square right, this is equal to or rather, this is equal to this plus this plus 2.8 into 10 to the
+power 11, right. So, on simplification, this gives, let us see what it gives, this gives on
+simplification, that 200 into 10 to the power 3 right, this is square, so square of it, right, plus
+2.8 into 10 to the power 11, right. So, this becomes equal to this 32, how many zeros 1, 2, 3, 4
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; that is, 3.2 into 10 to the power 11, right.So, therefore, we can write that P 1 is equal to under root of 3.2 10 to the power 11 and that
+comes to equal to square root of this, square root ok, this is equal to 565685.4, right. So, that
+means, this is equal to 565.685 kilo Pascal right.
+(Refer Slide Time: 23:08) 
+So, let us look into, how much it is obtained, yes, 565.865 or 866 kilo Pascal. So, this is one
+way of doing it, right. So, another way, of course, can be that, whenever you are making it
+that time you have to be sure that this P 1 we have not taken into P 1 by P2, right. So, it may so
+happen that P1 by P2 may be required.
+(Refer Slide Time: 23:39) For example, another quick one, Air at 290 Kelvin and 300 kilo Pascal, enters a pipe and is
+flowing in isothermal compressible flow in the pipe having an ID of 0.1 meter. The length of
+the pipe is 50 meter. The mass velocity, at the entrance of the pipe is 1700 kg per meter
+square second. And assuming molecular weight of air to be 29, the friction factor to be 0.004,
+and the viscosity of air to be 2 into 10 to the power minus 5 Pascal second, calculate the
+pressure at the exit. So, inlet pressure is given, 300 kilo Pascal, exit pressure, we have to find
+out, right.
+(Refer Slide Time: 24:38) 
+So, we start with again from what, r is given, epsilon by D, no epsilon by D, is not required.
+So, f is given directly 0.004, then D is given is equal to 0.1, then T is given to be 290, P 1 is
+given to be 300 into 10 to the power 3 Pascal right, 3 into 10 to the power 3 Pascal and mass
+velocity, G is given, 170 kg per meter square second, right, and molecular weight of the gas
+or, air to be 29, viscosity of air to be 2 into 10 to the power minus 5 Pascal second.
+So, from there, if we find out that 2G square RT by M that is equal to 2 into G, air is 170,
+right, square, R is 8314 into T, 290 by M, molecular weight is 29, if we look at quickly, what
+is the value coming then, we will see this is 2 into 170 square, ok into 8314 into 290 is equal
+to this divided by 29 right, so, that becomes equal to 4805492000, 1, 2, 3, 4, 5, 6, 7, 8, 9 is
+equal to 4.8 10 to the power 9, right that was one.
+(Refer Slide Time: 27:26) 
+The other one which we found out 4f delta L G square RT by DM, so, in this case, 4, f is
+0.004, delta L, right, it was perhaps, given, that ID, so much, 50 meter, length of pipe is 50
+meter, L is 50 meter. So, we can write this, 0.005 into 50 into G, is given, is 170, right,
+square, R, is 8314 into 290 divided by D, diameter is 0.1 into M, molecular weight, molecular
+weight is 29, right.
+So, if we look at this value quickly this is coming 4 into 0.004 into 50, right, into 170 square,
+right, 170 square into 8314 into 290 is equal to so much, divided by 0.1 divided by 29, this is
+equal to so much, is equal to 19221968000, that is 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, is equal to 1.92
+into 10 to the power 10. So, one is 10 to the power 9, another is 10 to the power 10. So, in
+this case, then what we need, the inlet is more, right, outlet has to be found out right.(Refer Slide Time: 30:00) 
+So, from the equation, which we had shown earlier, that this equation P 1 is known P2 has to
+be found out and this value, we have found out. First assume, the value of P 1 and next is ln of
+P1, because these two values are not very far away, so we cannot neglect.
+So, take one P1 assumption, find out what is the value of for P 1 real. So, assume them, real,
+when they are very close and to be Pascal, second decimal, it is accurate, filled that time we
+can, say that this has been up to the first, or second decimal, according to your accuracy, is
+true, or, is done, or it is the value, real value, which is up to first decimal, or second decimal,
+ok, this way by trial and error, we have to do find out the pressure, ok thank you.

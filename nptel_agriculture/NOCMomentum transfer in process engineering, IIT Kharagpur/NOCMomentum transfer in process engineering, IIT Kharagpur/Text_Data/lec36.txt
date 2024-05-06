@@ -1,0 +1,161 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 36
+Module 8
+Pneumatic conveying 
+Yeah, so we have seen that when the variable flow or sonic velocity or nozzle flow are there,
+right, and, with the compressible gas flow. Now, I thought that, why cannot we use, with some
+assumptions of course, and those valid assumptions are to be valid. Why cannot we use these
+relations for another engineering application that is called pneumatic conveying? In many cases
+you have seen that, I do not know whether you have any industrial experience, or, have you seen
+any industry where conveying is being done? Normally that can be through bucket or through
+some conveyors, things like that. Different mechanisms are there.
+But, one such is also pneumatic conveying, particularly, as you get the example of spray drying.
+So, that spray drying, that dried material is also conveyed pneumatically, right? So, like that,
+many things are conveyed pneumatically, pneumatic conveying means? With the help of the gas,
+that can be air, that can be any other, but generally air is free, we do not have to, till now, we do
+not have to buy, I do not know in future, whether, you will have to buy or not, but, till now, it is
+not to be bought, but someday, now as it is maybe, couple of decades back, people never thought
+that somebody has to buy water, right? 
+Now, we have to buy drinking water everywhere, wherever you go any part of the world, you go,
+you have to buy the drinking water, and they are in the bottles, right? Couple of decades back
+people did never think like that, you have to buy, now that is also in our country, you have to buy
+drinking water in many places, in many cities, maybe you have to buy water itself, whole water
+you have to buy. So, we do not know, whether in future you have to buy air also or not, but as if
+now, it is being free. So, air is used as the conveying medium for conveying from one place to
+the other place.
+So,  if  that  be  true,  then,  cannot  be  utilized,  till  now, whatever  we  have  learnt,  whatever
+knowledge we have gained with some assumptions, that for these applications, that pneumatic
+conveying, right? 
+(Refer Slide Time: 3:29)So, if you look at, then let us see that in the Bernoulli’s equation, which we started with, is like, it
+was like this, okay, let me write that this is pneumatic conveying, so, for pneumatic conveying,
+so, let me show you a figure. (Refer Slide Time: 3:52)
+So, this is a typical pneumatic conveying, right? This is a typical pneumatic conveying, things
+are conveyed pneumatically and of course, you have all other systems, but you are conveying
+through air pneumatically from one place to the other. So, this is a typical example, right? 
+So, if we look at that Bernoulli’s equation, so, it was dp by rho plus v dv plus g dz, right, plus df,
+this is equal to 0, right? We said that this is the pressure head, this is the velocity head, this is the
+gravitational head, and this is the frictional head, right? If you want, you can also write that this
+is frictional head, this is gravitational head, this is velocity head and this is pressure head, right?
+So, all these put together, we got that Bernoulli’s equation, right? So, this we can rewrite that,
+this to be, also we have written earlier, this is equivalent to V dp because, 1 by rho is equal to V,
+right? So, V dp plus v dv plus g dz plus df. this is equal to 0, right? Now, let us assume that S be
+the kg of solid. Of course, in pneumatic conveying, it is solid. which is conveyed, right? It is not
+normally any liquid which is conveyed pneumatically from one place to the other place.
+This is the solid which are being conveyed, mostly powders, or very tinny small materials, they
+are conveyed pneumatically, right, whose density is also not so big, then, otherwise, we have to
+use lot of force to convey from one place to the other place, for that let us assume, S be the kg of
+solid, right, per kg of air conveyed, right? And V s be the specific volume of the solid in meter
+cube solid per kg of solid, right? And now here we are assuming, since, it is pneumatically being
+conveyed, that is from this place to this place, it is pneumatically being conveyed, right? 
+So, when it is being pneumatically conveyed along with the air, these solid particles are being
+conveyed along with the air when it is happening like that, so, can we assume that the energyequation, which is being applied for the gas, this is for the gas, which is being applied for gas,
+can it be also applied for the solid? If, we assumed that, then we can say, S into V s dp plus S v dv
+plus S g dz plus d of f s equals to 0, right? So, if it is for the gas, this is for the solid, right? So, df S,
+this includes all frictional energy and any other energy losses for the solid also, right?
+So, if we assumed that, then, by adding these two, we can write, v plus S V s into dp, right? Plus 1
+plus S into v dv plus 1 plus S into g dz plus df plus df S this is equal to 0, right? Now, generally, V
+is equals to say 0.8, whereas, V s equals to 0.0016, so, by enlarge, so wide, so specific volume of
+the fluid is much higher than that of this specific volume of the solid because, density of the fluid
+is much lower than that of the solid.
+So, specific volume of the gas or fluid is much higher than that of the solid. So, we can write
+that, an S time Vs is this is much, much smaller than that of the V, right? If that be true, then, we
+can neglect this term, i.e., S V s term. 
+(Refer Slide Time: 11:22)
+So, we can write, in that case also, one more thing, which we would assume here that this df and
+dfs, this put together, is some, say alpha df, alpha is not known, alpha is a constant, so, this df and
+dfs, these two together, if we assume to be alpha df, then, we can rewrite that equation that, v dp,
+because we have neglected S V s, much smaller, being that of V, right? So v dp plus 1 plus S into
+v dv, right, plus 1 plus S into g dz, plus alpha df, this is equal to 0, right? 
+If that be true, then we can write that, say, this equation, earlier of course, we have not given the
+name of the equations, so, if this is gas, say for (1), this was for solid, it was for solid, say, this is
+for (2), and it is for combination say for (3), right? Now, we know that G is equal to rho into v,i.e., the mass velocity, right? This is called mass velocity. If G is rho into v, i.e., mass velocity,
+then, we can write that v is equal to G by rho, right? Then, we can write v is equal to G by rho is
+equal to G into V, right? This is small, okay. So, G is equal to rho into v, that is mass velocity,
+right? So, it is v is equal to G by rho, GV, right? Or, we can also write, dv this is equal to G dV,
+right? Or, we can also write v dv is equal to G square V dV, because, this dv we have already
+seen is G dV, right? And v, we have seen is Gv, right? So G and G square and this V is coming
+and dV, right? 
+So, v dv is G square V dV, right? Therefore, we can write pV is equal to RT by M. Therefore,
+okay, we know that pV is equal to RT by M, therefore, v is equal to RT by M into p, right?
+Therefore, here we can write that dv over dp this is equal to minus RT over M p square, or, dv is
+equal to minus RT over M p square dp, right? So, dv is minus RT by M p square dp, right?
+Therefore, we can write v dv is equal to minus RT square over M square p cube dp, this is by
+substituting the value of is RT by Mp, right? 
+So, if we substitute V dV, dV value is this with V times RT by Mp square, so, this becomes
+square and this was square already, so, it is cube, dp, right? So, if we see this, then, we can
+substitute these, and rewrite the equation, this number (3) as integrating and rewriting that we
+can write RT by M, right? Between 1 to 2 dp over rho, right? Plus 1 plus S, this we can write
+GRT square divided by M square again 1 to 2 dp over p cube, plus 1 plus S times g between 1 to
+2 dz, plus, if we write that df in terms of frictional loss, if we write that, then, we can write 4
+alpha f L by D, right, between 1 to 2 again V dV is equal to 0, right? (Refer Slide Time: 18:02) 
+So, this on simplification, we can write that, RT by M ln of p 2 by p1, RT by M ln p2 by p1, right,
+minus 1 plus S into GRT square divided by 2 M square times, since, it is p 1 to 2, so, 1 by p 1
+square minus 1 by p 2 square, right? This plus 1 plus S times g into z 2 minus z1 minus 4 alpha f L
+by D is, 4 alpha f L by D GRT square by 2 M square, this is again, we can rewrite that, we V dV,
+earlier in place of dp, so, that can be 1 by p 1 square minus 1 by p 2 square, right? This is equal to
+0.
+So, we can rewrite that, minus RT by M ln of p 1 by p2, right, minus 1 plus S GRT square by 2 M
+square times 1 by p 1 square minus 1 by p 2 square, we write, minus 1 plus S into g into z 1 minus
+z2, right? Minus 4 alpha f L by D GRT square by 2 M square this times 1 by p 1 square minus 1 by
+p2 square, this is equal to 0, right? So, we can write by taking all negatives, RT by M ln p 1 by p2
+plus if we take this thing common 1 plus S, 1 plus S was already there, so, 1 plus S g into z 1
+minus z2, right? Plus if we take common, then 1 plus s plus 4 alpha f L by D times GRT square
+by 2 M square into 1 by p 1 square minus 1 by p 2 square this is equal to 0, right? 
+So, from here, if we know many things, we can do the calculations for either velocity or the
+pressure as an when it is required, right? As an when it is required, we can do, we see RT by M R
+is known, temperature at which you are conveying is known, molecular weight of the fluid, if it
+is air is known, either of the pressures you know, either p 1 or p2, right, either inlet pressure, or
+outlet pressure, you know, that is assumed, that you will, you should know, right? So, everything
+cannot be from one equation, or, you can only solve 1 unknown, there is no ambiguity in that,
+right? So, here some of the things normally, as an engineer, you would like to know that youwant to send these much material, maybe powder, or some granular material, so, these much
+material, you want to send from one place to the other.
+So, what should be the pressure drop? That is one fundamental thing, which you want to know
+because, that will dictate major investment from your side, right? In terms of pumps and others,
+motors, all these will be dictated by that, so, there you would like to know if the inlet pressure is
+so much, what the exit pressure is. Or, the vice versa, if the outlet pressure is so much, then what
+was the original inlet pressure. 
+So, if these are known, then only you can say, yes, I have come to know, and we can find out,
+right? So, here this is known, S, the quantity of the material being conveyed is known, g, from
+that place is known, how much distance you are covering, that is known, right? So, here one
+thing which can be generally unknown is that alpha, right? Alpha, we had taken that df plus df s,
+if you remember, we had taken that df plus df s to be alpha, right? And then subsequently, that df,
+we had substituted with the frictional loss, right? That, from the earlier equations, where we
+found out the fanning friction factor, right? 
+So, that, we are taking here also that, that is the frictional loss, so, if we had taken that, so, this
+alpha can be either known or unknown, right? The moment this alpha is not known, or unknown,
+then, you can play with that if you know the pressure drops in the two places, like as we had
+earlier said, if we know that pressure drop in the two places, from here, you are conveying to that
+place. So, this place, this place pressures, you know p 1 and p2, then, for a known system, you can
+find out the alpha value, right? For that the length, diameter, this is the diameter, length, how
+much length it has covered, like this, then, from there, like this, so, how much length it has
+covered.
+So, that, if it is known, how much z, if there be at all, so, this is the z, if this z is conveyed, how
+much that is known. So, if these parameters are known, your G, mass velocity is known, R is
+known, temperature is known, so, you can, and M, M i.e., the molecular weight of the conveying
+medium, right? Generally, it is air, right? If that is known, then you can play with that, okay. I
+know the pressures at the inlet and outlet, let me find out the coefficient alpha, the alpha of that
+system is known, then subsequently, for a different unknown pressure combination, you can find
+out either, p1 or we can find p2, right? 
+So, given p1 or p2, alpha, you have already determined for that system, and from there by
+knowing all other parameters, like length, like height, like distance, like diameter of the material,if all these things are known, then you can also determine the pressure, because, as I said this
+kind of process, where you are pneumatically conveying from one place to other place, and it is
+how much energy is required, that is your fundamental thing.
+Whether, that is too much in terms of energy requirement, and you need to support with lot of,
+maybe pumps, motors, and all accessories. So, whether that investment will be suitable, or not,
+judge with that how much pressure you will be falling, or drop will be there, if that is to be
+known, then this, I thought that this can be a preliminary idea about the pneumatic conveying
+system, right? Again, I am saying that, I have thought of this that if the fundamental assumption
+which we made here is that we want to convey the solid through the fluid.
+Now, if the fluid can have the equation can we assume the same fluid, which is also getting with
+this material, can that material also be brought into this. Obviously, some assumptions also, we
+had not, assumptions that are the reality, that the specific volume of the solid is much less than
+that of the fluid, or in this case here. So, if that be true, then specific volume, we separated, and
+we said that this much kg of solid is conveyed per kg of the fluid, or say, here. So, that is of
+course, has to be known, right? 
+So, if this way if we can find out the pressure drop, or the coefficient of this friction or whatever
+you call, alpha, that if we can determine, then, I hope we can guess, we can have some idea about
+the drop in pressure, okay. So, next time we will try to really calculate or see the numerals how
+they are coming up, okay thank you. 

@@ -1,0 +1,163 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 39  
+Module 8  
+Non Newtonian fluid flow part -1 
+So, we have done some problem s on pneumatic conveying , which you perhaps, have seen and 
+done at your home also. Now , let us go to another very important aspect , that is called 
+Newtonian , we have seen till now all fluid s were Newtonian, but , if the fluid becomes Non -
+Newtonian, right , then how to o about it ?  
+(Refer Slide Time: 1:13)  
+ 
+Then, we call it to be non -Newtonian fluid flow, right? So , we call it to be non -Newtonian fluid 
+flow, right? Now, to do that, let us recapitulate a little in the sense , we had said that shear stress, 
+right? If you remember , in many classes earlier , we had said , shear stress and in this non -
+Newtonian flow , when we define , what is the non -Newtonian  fluid , why we call it to be Non -
+Newtonian etc.  
+(Refer Slide Time: 2:03)  
+ 
+Before we go into that, let us also  look into this aspect that a little recapitulation that you 
+remember , we had said that if we take a bunch of cards like this, this is one card this is another 
+card playing cards , I am referring to , this is another card , these are all , I mean , enlarged pic tures, 
+right? In reality , by this term , the whole card bunch will come up, right? But , if we assume that 
+these kinds of cards are there , and then if we apply a force , in here , force at the bottom of the 
+card, then , what will happen? This card will move a l ittle, right?  
+Then, the next card will move a  little,  it should have been a little more so that we understand it 
+easily, then the third one would have moved , even a less , and the fourth one would have moved , 
+might not have moved at all, right? So , we get a distribution of these cards , it looks like this, 
+right? Whereas, originally , it was like that. So , movement of it has occurred , the main card that 
+remained actually , if you would have done it right below , then it could have been more easily 
+understandabl e, that the first card moved like this, the second card moved a little , or the top most 
+card, this did not move at all and next to that moved a little , next to that moved , even like this, 
+right?  
+So, there would have been a movement like this which we call this, right?  
+(Refer Slide Time: 5:02)  
+ 
+This is because , we gave the force F, this card movement is the right example of giving the shear  
+force , where the layers , by definition , you see that shear  stress is a force that causes layers or  
+parts to slide , often each other in opposite directions, right? An example of shearing stress is a 
+force of two connecting rocks rubbing in opposite directions, right? As we said the best example 
+could have been the  cards playing cards example, right?  
+Now , when we are saying it, we remember that in couple of months , or years there , where many 
+earthquake  happened  all over the world, right? There , also the same thing happened,  the two 
+plates of the earth , there , where , one over the other, suddenly , there is a movement, right? This 
+kind of friction movement is there and one plate is trying to hold the other, other plate is trying to 
+go out because of the force applied and that made the whole earth shaking, where this pla ce, it 
+happened , that place quake or which we know as , which we know as earthquake, right?  
+So, similar to that , or if two stones are like this, they are one over the other , getting rather some 
+force , you are applying like this , that is called the shear  force, right? The best example we have 
+given with the card, right? So , this card example is the best one , which we can easily understand 
+because playing cards , you may have in all the houses , so, you take that bunch, put a little force 
+with another very t hin one , give a sudden force to the bottom most , and you will see that there 
+will be a distribution like that, right?  
+So, the distribution of cards will be like that , the bottom most , which one , you have given the 
+force , it has moved a little , and then , the next, then the next one , like that , and maybe the top one 
+did not move at all , because , by that time it reached  to the top , the force was nullified , so, it 
+could not move. So , this kind of thing happens in liquids also , both in liquid as well as in gase s, 
+or more prevalent in gases than that of the liquid, but still it is in the fluid, right?  
+So, by definition , we can say that , shear stress means , the component of stress that causes 
+parallel layers of a material to move relative to each other in their o wn planes, right? So , this 
+cards , if we consider them to be each one of them to be one of the plane s, right? Each one to be 
+one of the planes, then these planes are again , this stress that causes parallel layers of the 
+material to move relative to each other, right? With respect to the bottom most , the top most did 
+not move at all , the next to that moved a little, next to that moved even a little , like that , it is 
+happening , that is the layers are moving with the force given, right?  
+So, this is a relative movement of the layers , when they are together, right? In different planes, 
+so, keeping this in mind , keeping background in mind , we, now, move on to the Non -Newtonian 
+fluid flow , through the Non -Newtonian fluid , it is also a big one, so , hopefully , may not be in 
+one class , it will be over , maybe , several classes will be required, so , as an when , the time will 
+permit , till that point , we will continue and maybe , in the foll owing class , or next class , we will 
+do a little recapitulation and go on proceeding, right?  
+Now , let us look , how the definition says, non -Newtonian fluid , this is this follows the power  law 
+equation, right?  (Refer Slide Time: 10:16)  
+ 
+So, Newton’s power law equation , that, which , we called Newtonian or non -Newtonian fluid , 
+that relates that , shear stress Tau is equal to minus mu dv dr, right? So , this minus mu dv dr , this 
+is the very simple relation of the fluid, right? That is given by th e Newton , and this , the liquid or 
+fluid , which follows this relations , straight forward , they are known as Newtonian fluid, right? 
+They are simply known as the Newtonian fluid , and they follow this simple relation of the power 
+law, right?  
+There are two ty pes of liquids like that, one where shear stress oblique that is rate of shear stress 
+to rate of shear rate, this relation follow , is independent of time , this is one type of fluid , and 
+most of the liquid s or foods are , they follow this type of relation , and the other , that shear stress 
+to shear rate , this relationship is time dependent, right? So , when it is time dependent then 
+another one type , for example , few sols, gels , they follow this type of relation, right? So , now 
+this, or the two , that is shear s tress to shear rate , independent of time one type of fluid , and shear 
+stress to shear rate is dependent o n time that  is another type of fluid. So , one is time independent 
+and another is time dependent , means , time dependent means at 11 O’clock , if it is one value , 
+maybe at 12 O’clock,  it will have another value , maybe at 1 O’clock , it will have another value.  
+So, that is time dependent, but if it is time independent , then we will say , at 11 O’clock whatever 
+value was there of the fluid , same val ue is there at 12 O’clock , or the same value is there at 1 
+O’clock. So , this we have to keep in mind that time dependent and time independent meaning 
+that shear stress to shear rate ratio , the value does not change with time , that is time independent , 
+11 O’clock, 12 O’clock, 1 O’clock, 2 O’clock , all the time , the value remains same , then it is 
+time independent , and if the value changes at 12 O’clock, or at 11 O’clock or at 1 O’clock , then, 
+we call it to be time dependent , where shear stress, shear rate rat io varies, right?  
+(Refer Slide Time: 14:09)  
+ 
+Now , shear stress is this , and shear rate is called this one , dv / dr is known as shear rate , and this 
+shear stress shear rate ratio normally we call, why this negative? Because , as the shear stress 
+goes up , the shear rate goes down that is why , that is indicating negative , exactly this says that 
+mu minus dv  / dr, right? So , this rate constant  is known as the viscosity , which we call as mu, 
+right? For the Newtonian fluid , we call it to be mu, right? So , let us go into those , where it is 
+time independent fluids , and there are 3 types of such fluids, right?  
+And these 3 types are known as Bingham plastic, right? Then the other one is known as Bingham 
+plastic , then other one is known as Pseudo plastic, right? And  third one is known as Dilatants  
+liquids, right? So , these are the 3 types , which are time independent fluids, right? And , all of 
+them  follow the power law equation. So , let us go back to that power law equation , which we 
+started with , i.e., Tau is minus m u dv / dr or mu minus dv / dr, right?  
+So, we said , shear stress is proportional to shear rate, right? And this , we said to be equal to a 
+proportionality constant mu , minus dv  / dr, right? And we also said that negative term implies 
+that as the shear stress is increasing, shear rate is decreasing, right? So , and the proportionality 
+constant , we said it to be mu , or that is normally denoted as the viscosity, right? So , now, as we 
+said that Bingham plastic , this is unlike Newtonian fluid , if we plot shea r stress versus shear rate , 
+Tau versus dv  / dr, if we plot, then unlike Newtonian fluid , it is, because , this is Newtonian we 
+said, right?  
+So, unlike this , where it is shear rate and shear stress is , as it is increasing, right? So , like this it is 
+followin g 45 degree line, but , for the Bingham plastic , it is unlike that , this one , where it is 0 , 
+starting from 0, then we  have  dv / dr, right? Dv / dr minus dv / dr, with increas e of r v is 
+decreasing , i.e., the minus , negative with increas e of r, v is decreasing, right? So , if we take , this 
+is the pipe, this is the center, if this is r, so , as r is increasing , rather , we write this way r is 
+increasing , v is decreasing, right? So, we say that for the Bingham plastic , unlike this Newtonian 
+fluid , you need a minimum threshold shear stress , which is required , once it is there , then it 
+follows the similar way as it is in the Newtonian fluid, right? But , that means , you need a n initial 
+push that let it start , then it will follow, right? Let start then it  will follow , one of the example is 
+that, say your toothpaste , when it is there , so in the tube it is there , unless you put a press , it will 
+not flow, right?  
+So, give a thrust to that , so that it flows , and it starts flowing, so , that is what is required and this 
+is similar to the Newtonian fluid , but, you need an initial stress that  has to be given , initial push 
+has to be given so that it moves like that. Generally , we say , for many students , that okay , unless 
+and until they are giving a jolt,  they do not  study, right? So , a similar behavior can be said, right? 
+So, Bingham plastic , like that, then , here this we can relate in terms of shear stress as Tau, minus 
+Tau, yield is equal to minus mu dv / dr, where this T auy is the yield stress, that is minimum , 
+which you need to give to the fluid for the flow of the fluid . Once it starts flowing then it follows 
+the Newtonian fluid, right?  
+Example is chocolate mixtures , or margarine, margarine is similar like butter, a substitute of 
+butter in many cases , it is s aid, right? So , that is the margarine, okay. Then grain -water 
+suspension , as we said , toothpaste , or it could be sewage sludge etc. In sewage sludge also , you 
+will see that , unless there is a push, unless there is a stress given, unless there is a force gi ven, 
+that sewage sludge also does not move, right? Same , as we said for the toothpaste , so, in that 
+toothpaste , you give a pressure , then it comes out from there, so , that is the yield stress , or Tauy 
+which we are referring to, right?  Same is true with ch ocolate mixture;  same is true with margarine, grain -water suspension, 
+sewage etc, right? So , it follows this relation , that Tau, minus , Tauy is minus mu dv / dr or this is 
+called the shear stress versus shear rate relation for the Bingham plastic fluid, right? So next , we 
+go to the second type that is called the P seudo plastic, right?  
+(Refer Slide Time: 24:17)  
+ 
+For Pseudo plastic fluid , we write the relation as  Tau is equal to k dv  / dr with a negative, right , 
+to the power n, right? Say , this is equation number (2), here n is less than 1, right?  
+And, most of the Non -Newtonian fluid follows this relationship, right? So , there , the general 
+power law equation can be written like this, right? And , this is commonly known as Ostwald -de-
+waele equation, right? Where, k is the consistency coefficient or index , and n is flow behavior 
+index, right? The unit of this k is , there it is Newton second to the power n by meter to  the meter 
+square, right? And n is flow behavior index, right?  
+Apparent viscosity can be obtained from this equation (1), and equation (2) as mu , apparent is 
+equal to k into minus dv  / dr to the power n minus 1, right? This is called apparent viscosity, 
+right? So / today we have then discussed about the types of Non -Newtonian fluids or even 
+Newtonian fluid and the relation between this shear stress and shear rate . For this type of fluids , 
+power law equation , Ostwald -de-waele equation, so , this we complete today here , and next day 
+we will continue for the following aspects , following subject rather , I should say that it will take 
+some more time , some time , rather , to cover up the entire Non -Newtonian fluid flow, okay thank 
+you.  

@@ -1,0 +1,113 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 30
+Module 6
+Nozzle flow-problems and solutions 
+So, we had finished in the previous class that sonic, I mean not sonic, velocity we had done with
+the nozzle flow, right? And, we also have seen that what is the velocity when your nozzle flow is
+normal, and what is the maximum velocity and what is the discharge corresponding to the
+maximum discharge or corresponding to the velocity maximum the discharge maximum that also
+we have seen, right? 
+(Refer Slide Time: 1:14)
+Now, that if you remember, we had given that v 0 was equal to, yeah, under root 2 gamma p
+divided by gamma minus 1 into rho into 1 minus p 0 by p to the power gamma minus 1 by
+gamma, right? This was our normal velocity, and velocity under maximum, which we call it to be
+critical velocity, and, this was under 2 gamma p, right, by gamma minus 1 into rho into 1 minus
+p0 by p to the power gamma minus 1 by gamma under critical, right? 
+So, if we remember that, it was like this, critical was that, okay, p 0 by p, yes, w was, this was, 2
+by gamma, no, this was not this, this was velocity, okay, and w was given like this, w, discharge,
+was given as Cd A 0 under root 2 gamma p by gamma minus 1, right, and this with rho and thiswas p0 by p to the power 2 by gamma and this was p 0 by p to the power gamma plus 1 by
+gamma, this was normal discharge, and discharge under critical condition, was Cd A 0, right, 2
+gamma p rho by gamma minus 1, and this was p 0 by p to the power 2 by gamma under critical
+condition, p0 by p to the power gamma plus 1 by gamma, right? So, this was our critical velocity,
+under nozzle flow, and critical discharge, under nozzle flow, or flow through the nozzle, right? 
+(Refer Slide Time: 4:25) 
+And we had done also solved the problem. So, now, if we see another problem, let it be here, if
+we see another problem, which tells that, this problem, we had done. So this is another problem,
+that it says, Air flows through a nozzle of diameter 1.3 millimeter having a discharge coefficient
+of 0.95, from a pressure of 5 atmosphere to a pressure of 1 atmosphere at 25 degree centigrade,
+what is the maximum velocity and mass flow rate? 
+I repeat, Air flows through a nozzle of diameter 1.3 millimeter having a discharge coefficient of
+0.95, from a pressure of 5 atmosphere to a pressure of 1 atmosphere at 25 degree centigrade.
+What is the maximum velocity and mass flow rate? (Refer Slide Time: 5:34)
+So, if we go back to that previous, which we have already written here, that in the nozzle flow,
+the velocity is like this, and velocity under critical condition is like this, discharge was like this,
+and discharge under critical condition was like this. Now what was that critical condition? 
+(Refer Slide Time: 5:57)
+If we just remember a little that we said, if the ratio of p 0 over p, if this is equal to 0.528, then we
+call that, this is under critical pressure ratio, right? Or, the converse is also true, that, if the
+pressure ratio of p by p 0 is equal to 1.893, then also, it is under critical pressure ratio that is called
+p0 by p under critical, this is also p by p 0 under critical, right? So, if we apply that, right? (Refer Slide Time: 6:47)
+And, here in this problem, we have been given that the pressure p is equal to 5 atmosphere and
+pressure p0 is equals to 1 atmosphere. We are also given a diameter, we are also given a diameter
+of D is equal to 1.3 millimeter, is equal to 1.3 into 10 to the power minus 3 meter, right? And, we
+are also given that the coefficient of discharge, i.e., Cd is equal to 0.95, and temperature, T is 25
+degree centigrade, is equal to 25 plus 273, is equal to 298 Kelvin, right? 
+So, these are all given, obviously, from the relation, which, we had given that velocity, v 0, is
+equal to under root, 2 gamma p by gamma minus 1 rho, into 1 minus p 0 by p to the power gamma
+minus 1 by gamma under critical condition, this to know, that, we know p we know p 0, we know
+gamma, gamma we cannot give, so, we can assume it to be say, 1.4, like the previous one.
+So, gamma is equal to1.4. If we assume, right? And, rho, we have, it has not been given, so, rho,
+we can write equal to PM by RT is equal to p is 5 atmosphere, 5 into 101325 into, air, so, we can
+say, molecular weight of air is 29, so, it would be 29 divided by R, 8314 into 298 T. So, this
+comes to equal to, let us look into that calculator, 5 into 101325 into 29 is equal to this divided
+by 8314 divided by 298 is equal to 5.93, is equal to 5.93 kg per meter cube, right? 
+So, if it is 5.93 kg per meter cube, then, v 0 from this, we can write to be equal to under root 2 into
+gamma, 1.4 into p, 5 into 101325 divided by gamma, 1.4 minus 1, rho, into 5.93, into under root
+1 minus p0 by p critical, so we can write 0.528 to the power 1.4 minus 1 divided by 1.4, right?
+So, if we start from here, so, we can calculate it like this. This is 1 minus, one bracket 0.528 tothe power, xy, to the power 1.4 minus 1, that is 0.4 divided by 1.4, right? This is equal to, that is
+equal to this is equal to 0.166, right? 
+So, this into 101325 into 5 into 1.4 into 2, this is equal to that, divided by 1.4 minus 1, i.e., 0.4
+into 5.93. So, this is, that is equal to 99749, right? So, hope we have done, somewhere something
+wrong. So, let us redo that is 0.528 to the power 1.4 minus 1 that is 0.4 divided by 1.4 is this to
+the power is that, right? So this is plus minus this so plus 1 is equal to 0.166 fine, into 101325
+into 5 into 1.4 into 2 is equal to this, right? Divided by 0.4 into 5.93 is equal to so is equal to this,
+okay this is under root so if we take square root yes it is 315.83 so equal to 315.83 meter per
+second this is the velocity under critical or maximum velocity. So maximum velocity is 315.83
+meter per second that is the velocity under critical pressure ratio, right? So this we have done,
+Now we like to see what is the discharge know. 
+(Refer Slide Time: 16:15)
+And for that discharge under critical pressure ratio we have seen Wcr is Cd A0 under root 2
+gamma p rho by gamma minus 1 into p0 by p to the power 2 by gamma under critical pressure
+ratio minus po by p to the power gamma plus 1 by gamma under critical pressure ratio, right? So
+if we know see that what is the A0, right? What is the value of A0, A0 because Cd is given, so
+what is the value of A0 if we look at then we can see that A0 is pi by 4 into D square that is pi by
+4 into D was D was given, yeah D was given 1.3 10 to the power minus 3 meter, right? So 1.3 10 to the power minus 3 square, so this becomes equals to cancel pi by 4 into 1.3 into 10
+to the power minus 3, right? So this becomes that this square of this now square of this is this,
+right? So this becomes equals to 1.327 into 10 to the power minus 6 meter square, right? So if
+that is true, then Cd is given Wcr critical condition Cd is given Cd was given 0.95, right? So Cd
+was given 0.95 A 1.327 into 10 to the power minus 6 and this is under root 2 gamma is 1.4 p is 5
+into 101325 rho we got previously yeah rho we got 5.93, right? 
+So we got 5.93 by 1 minus gamma or 1.4 minus 1 into this times p0 by p critical, so 0.528 to the
+power 2 by gamma 1.4 minus 0.528 to the power gamma plus 1 1.4 plus 1 divided by 1.4, right?
+So this is that, so if we look at what is the value so then let us start from the other end that is
+0.528 x to the power 2 by gamma that is 1.4, right? So this is equal to that minus how much
+0.528 so 0.528 to the power 1.4 plus 1 that is 2.4 divided by 1.4 is this, so is this so is equal to
+this, right? So this multiplied by 2 multiplied by 1.4 multiplied by 5 multiplied by 101325
+multiplied by 5.93, right? 
+So this is equal to that divided by 1.4 minus 1 that is 0.4, right? So much, so the whole is under
+root so this becomes 2905, right? This become 2905 so that means again we have done a
+mistake, so let us redo and first we check whether we have written everything we have not done
+mistake my goodness, so after square root we had to add this, so this we have not given
+unnecessarily we are redoing, so 0.528 to the power 2 by gamma is this equal to this minus 0.528
+to the power (1.) 2.4 divided by 1.4, right? 
+So this becomes that, right? And then the second one then is equals to 0.06 earlier also hopefully
+it was like that into 2 into 1.4 into 5 into 101325 into 5.93 is equals to so much divided by 1.4
+minus 1 that is 0.4 is equal to so much under root of this is this much into which we missed last
+time 0.95 is equal to this into 1.327 into 10 to the power minus 6 so this is equal to 0.00149,
+right? So 0.00149 so it is then 0.001496 that means 1, 2, 3 so if 1, 2, 3, 4, 5, 6 so it is it is 1, 2, 3
+1.4 is equals to 1.4 into 10 to the power minus 3 kg per second, right? 
+So this can be made into kg per hour by multiplying 3600 is equal to 5.386, okay kg per hour,
+right? Now the difference is that hopefully here it is differing but 0.528 to the power 2 by 1.4 we
+have taken, right? 0.528 to the power 1.4 plus 1 by 1.4 we have done, right? 5.93 is the density
+we have taken correctly 101325 we had taken for that, but perhaps 5 is missing here, right? Sofrom this value whatever we have gotten there that is (2.) no, 6.69 10 to the power minus 4 so we
+know our value this is 5.386 so if we do 6.69 into 10 to the power minus 4 is equal right into 5
+under root is this so it comes like that.
+So we missed 0.01496 so we missed here somehow this term p that is 5 into 101325 that should
+be there, right? So correct it and then it is okay, right? So correct in the slide that 5 this figure
+was not there in the p so that should have been so we have made it to 2 Pascal that is true but
+somehow missed there so correct one is this 5.386 kg per hour or 0.001496 or 1.4 10 to the
+power minus 3 kg per second, right? So we have found out the critical velocity and critical mass
+flow rate, right? Thank you. 

@@ -1,0 +1,190 @@
+Course on Momentum Transfer in Process Engineering
+Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology Kharagpur
+Lecture 08
+Module 2
+Navier stokes equations utilization for solving problems
+Now, I hope you have tried with several other problems, in solving different problems using
+Navier Stokes Equations. So, if you have any problem, any difficulty in understanding?
+Obviously, you can come back to us; we will try our best to solve those. But, as we said
+earlier that to understand the utilities, the implications, and the places, where it can be
+utilized, the areas, where it can be utilized. The equation of motions, you need to find out,
+you need to solve some more problems and that some more problems, let us take one more
+problem today and that problem will, let us come to that, right. So, if we think that any
+problem, which you can do, or, which you cannot, that you bring to us and we will solve
+them, ok.
+(Refer Slide Time: 1:45) 
+So, let us look into the problem 2 i.e., a cylindrical container of radius R containing a fluid of
+constant density and viscosity is caused to rotate about its own axis at an angular velocity
+omega. The cylinder axis is vertical. Find the shape of the free surface at steady state, right.
+I hope, in secondary classes, we have done a locus of equation, or locus of some surface etc.
+Those things we have done in a secondary class. So, here also, a similar problem, we will do.
+In understanding the problem, here, you just imagine, I do not know, whether during your
+childhood you had played it, or, you had that option of playing with, that is also true, because,nowadays, it is being so much, what should I say, urbanization, that those openness is also not
+available in all the places.
+So, if you think, if you go back to your child ages and their if you had ever a bucket full of
+water, right, and you take that full of water and start making a round, right, start rotating like
+this, right, bucket full of water and you are rotating on around you, right, with that bucket. If
+you had remembered, if you remember that the surface of the bucket water that looked like
+this, right, that looks like this, that the surface is like that, when you are rotating with that
+bucket, right.
+If you remember and know, we will find out this surface of the bucket, which is like this, and
+what is the locus of that surface? This you can easily do with the help of Navier-Stokes
+Equations. So, this is another kind of application of the Navier-Stokes equations to solve your
+problems, ok. So let us look into that.
+So, we say again this problem, a cylindrical container of radius R containing a fluid of
+constant density and viscosity is caused to rotate about its own axis at an angular velocity
+omega. The cylinder axis is vertical. Find the shape of the free surface at steady state, right.
+(Refer Slide Time: 4:57) 
+So, let us let us look into this that we have a cylinder, right, and this cylinder has the axis like
+this, ok, and originally we had a layer of liquid like this, right. Now, suddenly we started
+moving this with a velocity, omega, in the axis, in the own axis, right, and if we look at the
+picture, this is R, or, say let us write, small r and this is z, right and third one is the theta of
+course, right. So, initially, if we say, this is the height z 0, initial height, i.e., where, we started
+with, right, and after some time, when the steady state has arrived, we will have a surface like
+this, right. We will have a surface like this.
+Now, we have to find out what is the locus of this surface, right, i.e., this equation of this
+surface, that if we can solve, then, we can say that the understanding of Navier-Stokes
+Equation has become little bit more easier, or, we have understood a little more application of
+the Navier-Stokes Equation.
+Here, one more thing has to be said that P is equal to P 0 on the surface, right. If that be true,
+again, we bring the condition, the Physical understanding of the problem, right. We said that
+we have a liquid in a container and this container is rotating on its own axis like this, and with
+an angular velocity of omega, right.
+So, we have this axis at r and z. These are the two initial heights, where, we started with. It
+was z0 and after some time when steady state arrived, we got this surface with an angular
+velocity omega like this, and P is equal to P 0. Obviously, that pressure on the entire surface is
+same, right. So, from the understanding of the problem, we can say that, since, this is vertical
+gr is equal to gtheta is equal to 0. We also said, flow is equal to constant, we also said, at steady
+state, so, del del t of any v r, vz, vtheta, all are equal to 0.
+Fourth thing, which, we have not said yet, let us say, again the flow, or, it is such a way that
+turbulence is not occurring. So, flow is laminar, right. Again, laminar means, this layer, thislayer, they are all not mixing with each other, right. A free layer is like that again when it
+became a surface like this, the layers in the bucket, were, like this, right. So, that means, there
+is no mixing of the layers, interaction of v r, vz vtheta, these were not there, right. It is a
+streamline laminar flow, ok.
+So, this indicates that v r is equal to vz is equal to 0, right, and v theta is also a function of r, right
+and since, it is laminar we can also say, del v theta del theta is equal to 0, right. That means, this
+layer is moving, right, this layer is moving, but there is no interaction between this v theta and
+this vtheta, right. So, otherwise, there would have been a rippling, there would have been a
+mixing of the layers, which is not there.
+So, del vtheta del theta is also 0, right. Then, we can say that r component of the velocity that is
+equal to rho vtheta square by r, this is del P del r, right. You remember, in the previous thing, we
+have shown, it was minus on the both sides. So, we can write, rho v theta square r is equal to del
+P del r. Similarly, theta component, we can write, for theta component we can write that this
+was 0, equal to mu into del del r of 1 by r into del del r of rho v theta. If you remember the same
+thing we had written.
+And z component, we can write, this is 0, is equal to minus del P del z plus, or, here, it was
+minus rho gz, since it is there. So, rho g vertical thing is there so rho g z is also acting or, g z is also
+there.  These  are  the  three  equations.  We have  three  equations  from  the  Navier-Stokes
+Equations, which, originally started with and putting the boundaries, understanding of the
+problem, we have identified different individual components and said, that, yes, this is the
+equation, which come after putting the right situations involved in the problem, right.
+So, the terms, which can be neglected or which can be written as 0, is already shown also in
+the previous class, right. So, we are not repeating them. Otherwise, again and again, the same
+thing, we will be doing, right. So, we understand that again if we have any understanding
+problem, you can come back to ask and we will, I will definitely try to solve your doubt if
+there be any, ok.
+(Refer Slide Time: 13:44) So, if this is, these are the three equations, then, we can say that the integration of the theta
+component, that is 0 is equal to theta component towards 0, is equal to mu del del r of 1 by r
+del del r of 0, sorry rv theta, right. So, if this is there, this was that, on first integration, we can
+write 1 by r del del r of rv theta is equal to A, right. On simplification we can write del del r of
+rvtheta is equals to Ar, right.
+So, this was first integration with constant A, and the second integration, we can say, rv theta is
+equal to Ar square by 2 plus B, where, B is the second integration constant, right, which we
+have also seen earlier. So, we can write v theta is equal to A by A by, sorry, A by 2 into r, Ar by
+2. So, vtheta is equal to Ar by 2, r, r, so, it goes out, plus B by r right.
+Now, at r is equal to 0. Since, at r is equal to 0, since, v theta is not equal to infinity at r is equal
+to 0, since vtheta is not equal to infinity, we can write, B to be equal to 0, otherwise if r is 0 v theta
+has to be infinity, then, only you will have some value otherwise, B is equal to 0. Since this is
+applicable, we can write B to be equal to 0, right, the second constant, at r is equal to capital
+R, vtheta is equal to capital omega r, right.
+So, this omega r is the second equation. So, we can write omega R is equal to AR by 2 or A is
+equal to 2 omega, right. Therefore, v theta is equal to omega r, right. So, this is v theta is equal to
+omega r. This is one situation from the solution of one component that is theta component.(Refer Slide Time: 16:58) 
+Now, if we see, the other one, rho v theta square by r is equal to del P del r, rho v theta square by r.
+This was, from the r component, right, we did. So, this on simplification, we can also right
+del P del r is equal to, already, we have found out, what is the value of v theta. So, that is, rho
+omega square by r, this is omega r square, right, r into r square omega r. It was (A is) v theta was
+omega r so this is equals to this so that means rho omega square r is that del P del r, right.
+And, the third equation was del P del z. This is equal to minus rho g z, right. If you remember
+that it was equal to del 2 (())(18:09) del z minus rho g z so we can write del P del z del P del z
+minus rho gz so no it was not minus it was plus del 2 del z minus rho plus rho g z so that on
+simplification it was it comes del P del z is equal to minus rho g z right. 
+So, now, if that be true we can write, since P is a function of r and z, right, we can write that
+del P or dP is equal to del P del r dr plus del P del z dz. So, dP is equal to del P del r dr plusdel P del z dz. This we can write right. So, now we have already found out the value of del P
+del r this is rho vtheta square by r and also we have found out del P del z is rho g z.
+So, we can write that dP is equal to, this is del P del r is v theta square by r right. So, dr (plus)
+minus so this is minus this plus goes out rho g del P del z is we have found out minus rho g z,
+so, minus rho gz dz, right. So this is then dP is equal to rho v theta square by r dr minus rho g z
+dz, right.
+So, on integration of this, we can write P is equal to rho right, v theta, we have already found out
+that was equal to omega r, so, we can write this is omega square r square right by rho v theta
+square by r is del P del r ok. So, this is P is equal to rho omega square by 2, because, this dr,
+this becomes 1 by r dr then that becomes r square by 2 and on integration minus rho g z, right
+this plus C.
+So, dP become P 1 by r dr this becomes rho omega square v theta was omega square r square
+right. So omega square by r square that became r so on r dr integration r square by 2 rho g z
+plus C, right so this is that and from the given boundary we know P is equals to P 0 right that
+means at z is equal to z 0, r is equal to 0, this is true at P is equal to 0 when this is at z is equal
+to z0 and r is equal to 0 right. Therefore we can write P 0 is equal to minus rho g z, right, or,
+minus rho gz, z0 plus C right or C is equal to P 0 plus rho gz z0, right.
+Therefore we can write, P is equal to rho omega square r square by 2 plus P 0 plus rho gz0
+minus rho gz z right, or, we can write P minus P 0, this is equal to 0 at all the points on the
+surface, right. Therefore, we can write g into z minus z 0 is equal to omega square r square by
+2. This is omega square r square by 2 right, or, we can write that z minus z 0, this is equal to
+omega square r square by 2g, right.
+So, the locus of this equation right locus of this curve we can write this is nothing but z minus
+z0 is equal to omega square r square by 2g, right. So, we have solved this problem by using
+the equation of motion or by using the Navier Stokes Equation. Obviously, we have not done
+some of the things which we have done earlier that showing initially that how the conditions r
+applicable right.
+(Refer Slide Time: 25:09) Now, since we have little time so what we can do, oh! this was our problem, right, we can go
+back a little and show that from the original equations we have how arrived. The problem was
+given that we have a bucket and that bucket was rotating that I gave the example we have a
+bucket which we were rotating like this but in this case say we have some bucket which is
+rotating at its own axis with an angular velocity of omega right and now we were said what is
+the steady state flow this curve there will be there will be there will be a circular this thing so
+that will be how where is the locus of this right this we were asked that what is the equation
+right.
+And we said, which starts from the Navier-Stokes Equation we have already shown you what
+is the is the locus of this line that we have shown you but again for recapitulation or a re-
+understanding that, let us look into the r component, theta component and z component.(Refer Slide Time: 26:39) 
+So, here we have said that the given condition P is P 0 on this surface, gr is gtheta is equal to 0 in
+earlier we also had v r is equal to vtheta is equal to 0, but here we have v r is vz is equal to 0 and
+vtheta is a function of r right, and in this case, v r, vz was 0 and vtheta was also a function of r,
+here also vtheta  is a function of r and del v theta del theta is 0. These are the three, from the v r,
+vtheta, vz, because, had there been any r component right, so there would have been a mixing,
+had there been any z component, then there would have been a mixing, which is not there it is
+under laminar condition, right.
+If that is true then v r is vz is equal to 0 and del v theta del theta is equal to 0 and also v r is a
+function of r right. So, if we go back to that r component, right. Since, v r is 0 and del vr del t,
+i.e., it is steady state, rho is constant, ok, but this is 0 this component is 0, this component is
+0, right, but vtheta square by r with a negative minus, rho v theta square by r that remains, vz 0,
+this is 0 right since v r is 0 this 0, vr is 0 this is 0, del v theta del theta is 0, so that del v theta deltheta 0, del vtheta del theta also becomes 0, or this should be del 2 v theta del theta square so this
+is 0, this is 0 and vr is 0 this is 0, minus del p del r plus rho g r.
+So, we got minus rho v theta square by r, is equal to minus del p del r plus rho g r, right. But,
+here also gr is 0. So, we get del p del r. So, this we said. And since, there was two negatives
+we can make it positive. Now for that theta component, we have said, right, the first v theta del
+vtheta del theta del t is 0 which is steady state, v r is 0, this is out, del v theta del theta is 0, vr is 0,
+this is out, vz is 0, this is out, right, mu del del r of 1 by r del del r of rv theta, this is not 0, this
+remains, but del 2 v theta del theta square is out, then del v r del theta is out, vr is 0, del vtheta del z
+square del 2 vtheta del z square del vtheta del z is also 0.
+So, del 2 vtheta del z square is also 0. So, this is minus 1 by r del p del theta plus rho g r, right gr
+is also 0, and this should be g theta, right. So, we know g theta is 0, we said that g r is equal to gtheta
+is equal to 0. So, g r, gtheta is 0. So this becomes 0, but del p del theta that is also we said this
+del p del theta cannot be there, so that is also 0 because this p on this, on this surface, this p is
+same, at every place. So, got the second equation, 0 is equal to mu del del r of 1 by r del del r
+of rho vtheta.
+(Refer Slide Time: 30:49) 
+And, the third z component, we got, this del v z del t is 0, vr is 0, this del vz del theta vz is 0, vz
+is 0. These all terms goes out. Then, v z is 0, this comes out, this v z is 0, this comes out, del 2
+vz del z square goes out, what remains del p del z minus plus rho g z right.
+So, we wrote 0 equal to minus del p del z, of course this minus rho g z, there was also a
+negative ok. Now this was rho g z, that was, since it is acting vertical, so, here we are saying
+that gravity is acting on that, so, means, rho g z plus this has become minus and this on
+solution, we have found out that, ultimately, we got this v theta was omega r and we got thelocus of the equation as z minus z 0 is equal to omega square r square by 2 right, z minus z 0,
+omega square r square by 2g. This is the solution, right.
+If you remember that we said that we will do some problems for the application of the
+Navier-Stokes Equation, right, so, this we say that, ok We have done some problem on
+Navier-Stokes Equation, thank you.

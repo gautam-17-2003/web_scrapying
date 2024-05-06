@@ -1,0 +1,97 @@
+Momentum Transfer in Process Engineering  
+Professor Tridib Kumar Goswami  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Module 11  
+Lecture No 55  
+Problem of Fluidized bed Condition Part 2  
+So, we have done one problem on fluidised bed and perhaps at the end because of the time 
+constraint we asked you that you please try and hopefully , you have tried, there was a 
+quadrat ic equation in terms of say A N Re square + B N Re – C, that is equal to 0 , by using that 
+Shridhar Achaya ’s formula , you can find out the root of a quadratic equation and you can 
+find out N Re from there and that – B with the coefficients , – B ± (under root B square – 4 A 
+C) by 2 A, using this formula , we can find out what is the val ue of that N Re, so that you have 
+hopefully done, so , let us now do another problem say , let us do another problem yeah.  
+So, this is like this, Air at 390 Kelvin flows through a packed bed of cylinders having a 
+diameter of 0.0127 meters and length , the same as diameter , no this we have already done . 
+So, hopefully , this one .  
+(Refer Slide Time:  2:09)  
+ 
+This is , Particles having a size of 0.2 millimetre, a shape factor of 0.85 and density of 1150 
+kg per meter cube are to be fluidised using air at 25 degree centigrade and 202.65 kilo  Pascal 
+absolute pressure. The void fraction , at minimum fluidising  is the minimum fluidisation, the 
+minimum fluidisation velocity. Given, viscosity of the fluid is 1.3 10 to the  power  – 5 Pascal 
+seconds and molecular weigh t is 29.  
+(Refer Slide Time:  3:40)   
+ 
+So, I repeat the problem, particle having a size of 0.2 mil limetre, a shape factor of 0.85 , so, 
+let us write D p the solution when we do, let us write this way that D p is 0.2 millimetre = 0.2 
+10 to the  power  – 3 meter, shape factor , i.e., Phi s 0.85, density , Rho particle is 1150 kg  per 
+meter cube are to be fluidised using air at temperature, so , T is 25 degree centigrade = 298 
+Kelvin , and pressure inlet is 202.65 kilo  Pascal. The void fraction at minimum flui dising 
+condition , so, epsilon mf = 0.45, the bed diameter so D = 0.5 meter , and it contains 400  kg of 
+solids, so m = 400  kg solid. And given Mu air = 1.3 10 to the  power  – 5 Pascal seconds and 
+molecular weight of air = 29.  
+So, as we have done earlier , here also that assuming 0 porosity , we can write that the bed 
+volume that can be written = 400 kg by 1150 , that is equal to 400 divided by 1150 = 0.3478 
+meter cube. So , if L 0 is the length corresponding to no porosity , then L0 becomes equal  to this 
+volume 0.3478 divided by the cross -sectional area , pi by 4 D square pi  by 4 into , it was 0.5 
+meters, so , 0.5 square, so , this become s equal to 0.3478 divided by Pi  into 4 divided by 0.5 
+square, 1.77 meter. So , if it is so , then L mf we can write eq ual to L 0 by 1 – epsilon mf, so, this 
+is equal to 1.77 by 1 – 0.45. So , we can write 1.77 divided by 1 – 0.45, so, that is 0.55 = 
+3.218, so , we roughly can write 3.22 meter.  
+So, if L 0 is known, L mf is known , then first one is done that  one is the L mf, 3.22. Second one 
+is Delta P th at we can write as Delta P is L mf into 1 – epsilon mf into Rho p – Rho into g. Now , 
+the question of Rho , so, we can write Rho = P M by R T and P is given as yeah , inlet so , 
+202.65  kPa or 650 P ascal, remove that decimal , into M is 29 by 8314 into 298. So , this comes 
+to be equal to 202650 into 29 into 29 divided by , is equal to divided by 8314 into 298 = 2.37 
+kg per meter cube, so , this hopefully , you can see kg per meter cube okay.  
+(Refer Slide Time:  14:50)   
+ 
+Now , if Rho is so m uch, L mf we have found out 3.22 , 1 – 0.45, Rho p is 1150, Rho is 2.37 
+and g is 9.82, so , this comes out to be 3.22 into 1 – 0.45 into 11 50 – 2.37 into 9.82 = 
+19958.68 P ascal, so , we can say , 199.58 kilo  Pascal Delta p. So , Pout = 202.65 – 199.58 = 
+3.07 k ilo Pascal. So , it appears to be a huge pressure drop 20062.2 yeah, it appears to be a 
+huge pressure drop. So , Pout is there , so, you have got , then average of P in and P out, Paverage  = 
+202.65 + 3.07, did we do any mistake here?  
+199.58 kilo  Pascal , so, this P ascal 199.58 Delta P L mf, 3.22  1 – 0.451 into 1150 2.37 9.82 so , 
+it is somewhere , 1150 , this is 0.6, we recheck this , let us , it is appearing a little absurd, 3.22 
+into 1 – 0.45 into 1150 – 2.37 into 9.82 = 19958 , they have got Delta P , 2.37, okay , 202650 
+okay , then, we got 3.07  kPa, P1 okay , Paverage  is 202 this by 2 = 3.07 into 101.325 this + oh ! 
+3.07 kilo  Pascal , sorry , 3.07 kilo  Pascal , so, 30700 , 3.07 kilo P ascal means , or we can simply 
+write , 3.07 + 202.65 is equal to this , divided by 2 = 102. 86. I do not know , this is appearing 
+to be a little less kilo  Pascal, so , Rho average = P M by R T = 102.860 into M 29 divided by 
+8314 into T 298, so , that becomes into 100 = 102860 into 29 = this , divided by 8314 divided 
+by 298, 0.12 , okay , 0.12 kg per me ter cube, this is appearing to be low , very low.  
+Okay, now , we know that D p cube , Dp cube Rho by Mu square Rho p – Rho, Rho p – Rho into 
+g into Phi s epsilon mf square or cube Phi s epsilon mf cube divided by1 – epsilon mf square. And 
+this value if we take , this should come to be 221.85 this value should come 221.85 , then, we 
+can say that 1.75 N Re square + 150 N Re – 221.85 = 0.  
+(Refer Slide Time:  21:43)   
+ 
+So, from this equation , we can find out the Rho as N Re = – B that is – 150 ±  B square , 150 
+square , –, –, + 4 A 1.75 4 into 1.75 into C 221.85 by 4 A C by 2 A, 2 into 1.75, this becomes 
+equal to okay , 150 square + 4 into 1.75 into 221.85 is equal to so much , square root of this is 
+so much. So , if we make it – then it becomes this , and this into , whereas, if we take it  equal 
+to this divided by 2 into 1.75 is , this is equal to 1.45, so , NRe is 1.45.  
+Now , from there , if we see that v  mf prime is equal to that , N Re Mu 1 – epsilon mf over Dp 
+Rho Phi s. So, NRe is 1.45 into Mu is 1.3 10 to the power – 5, it was, 1 – 1.45 epsilon mf, Dp is 
+0.2 10 to the  power  – 3 into Rho, Rho we got , somewhere , some wrong , but, it should be 2.27 
+around or 2.25 into Phi s given , 0.85. So , if we do this , and see how much it is coming, it is 
+1.45 into 1.3 into 10 to the power– 5, so much into 1 – 0.45 is equal to this divided by 0.2 
+divided by 10 to the power – 3 divided by 2.25 divided by 0.85 = 0.027 meter per second. So , 
+we have found out that velocity, so , velocity is coming to be 0.027 meter per second. Here , 
+we have show n that the quadratic equation , which we got earlier here , it was 1.75 N Re square 
++ 150 N Re – 221.85 = 0.  
+So, this on simply , in finding out the root , NRe we got , so, A X square + B X – C is got , say + 
+C + is here –, so, that if we apply – B, – B ± B square – 4 A C , so, that became + by 2 A, 
+which came to be 1.45. Now , from there v mf prime was N Re was Mu 1 – epsilon mf by Dp 
+Rho Phi s, so from there we got this number and ultimately v  mf = 0.027 meter per second. So , 
+this way , we can find out , and do  the problems and you must to some practices , so, that this 
+kind of minimum fluidisation velocity or what is the height of the bed under minimum 
+fluidised condition or what is the pressure drop , i.e., in majority cases that is required, so , 
+what is the pressure drop that you can find out from the different relations under fluidised bed 
+condition.  
+Mind it that fluidisation is very helpful to increase the surface area for any extend of heat or 
+mass or whatever that depends  on what you are choo sing as,  what you are choosing as the 
+unit operation okay, thank you.  

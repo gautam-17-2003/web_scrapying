@@ -1,0 +1,176 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 21
+Module 4
+Flow through annulus (Part 1) 
+Yeah, so today we shall do some other like your, we have done the film and now we will do such
+a system like we have seen the flow through a pipe, right? 
+(Refer Slide Time: 0:36) 
+If  a  fluid  is  flowing  through,  that,  we  have  found  out,  and  with  that  Hagen–Poiseuille’s
+equations. We developed, right? Now, if the situation is like that, in many cases, you will see,
+you have a double tube heat exchanger, right? So, you have a double tube heat exchanger, one
+fluid is flowing through this, so that you can find out with this Hagen–Poiseuille.
+Another fluid, say, in that may be co-current, or counter current, depending on the situation, is
+flowing over this. So, this could be some medium by which, is being heated, this could be that
+heating, the thing, which is being heated, and this could be another, which is the medium, which
+is to be, this heating medium, right? So, if this is the heating medium, and if this is to be heated,
+say this is milk and this is steam, right? So, in that case, your, of course, the thing will be
+insulated,  in  reality, that  will  be insulated,  like,  here,  there,  you will  have  one  insulation,
+similarly, here, there you will have one insulation. So, that is different, that is the engineering
+part.But what we are concerned? If this flow, we can find out, with Hagen–Poiseuille, the same
+Hagen–Poiseuille cannot be utilized for this kind of fluid, and in that case, this is called flow
+through annular medium, right? In that case, if we know that flow through annular medium, how
+we can get it, then, okay. 
+(Refer Slide Time: 2:51)
+So, flow through annular medium, this is the one which we are going to determine, right? Now,
+if you remember, in earlier cases, we had taken, in many cases horizontal.
+So, in this case, let us take it to be vertical, right? The difference between horizontal and vertical
+will be, obviously, the gravity. So, when gravity is also taken care of and the gravity, when it is
+taken care of, obviously, that will come under the pressure force. So, gravity, the entire thing,
+whether, it is again, towards the gravity or against the gravity, that, depends on the flow of the
+fluid, right? (Refer Slide Time: 3:49)
+So, in any case, let us take, one such, here you see, we have neatly drawn that, this is the one
+pipe, and this is a another, this is the section of the pipe, which is having annular flow, right? 
+So, we are not concerned about the fluid which is flowing through this, but, we are concerned
+about the fluid which is flowing through this annular space. So, this annulus flow or flow
+through annulus, in many cases, are very useful, particularly, for designing, your, designing
+engineering equipments, like, say, heating equipments, cooling equipments. In those cases, these
+heat exchangers, they are very useful. So, there, you need to know the flow behavior, how flow
+behavior characteristics, how the flow is determined, how the velocity can be determined, what
+will be the momentum flux inside the system.
+So, those things, if we do not determine, then we take this, right? (Refer Slide Time: 5:09)
+So, we had taken, then, this as the annular flow, and in this, let us take, the center as the axis and
+we  have  one  radius,  outer  radius  R,  and  inner  radius,  say, multiple  of  R,  say  kR,  right?
+Obviously, this k, from the physical understanding, it appears that, k has to be less than 1,
+otherwise, it will not be less than R, right? R is the outer and kR is the inner, right? So, if we take
+that, inner and outer, of course, this arrow should have been here, right? This arrow is up to this,
+perhaps, by some by some mistake, it has gone up to that, so it is from the inner one, right? This
+is the thickness of the wall.
+Though, if we take this, then, we have to find out, what is the velocity distribution in this annular
+space and what is the shear stress, or momentum flux distribution in this, right? So, our, this
+thing is coordinate system, is r, z; r is the radial one, z is the vertical, and third one is the theta.
+So, this being cylindrical, so r theta z, that coordinate, we are following, right? (Refer Slide Time: 6:56)
+So, if we are following that, r theta z coordinate, of course, here, only one thing, which we are
+saying that, r is this and z is the vertical, and theta, that other dimension is there. Now, we
+assume, in the beginning, there will be obviously some assumptions. So, those assumptions, in
+that, first, which say that, the fluid is incompressible, right? Fluid is incompressible, that means
+density does not vary with pressure significantly, that we assume that this density remains
+constant, right? 
+And, then, some other assumptions, we assume, say the second one, is flow is laminar, the
+momentum flow is laminar that is why this third dimension theta is coming out going out, right?
+You remember we had these vertical cylinders; so, we are not taking the thickness, right? And
+this was our axis, and we had said, this is to be kR, and we also said that this is to be R, right?
+And, we have to find out, what is the velocity profile, what is the velocity profile in this, and
+what is the stress profile in this, right? We said like this.
+Okay, so, kR and R are the radii. So, flow is laminar, that is why the third dimension, so, when,
+the flow is occurring, so, it is like this, right? So, in this theta direction, there is no rippling, no
+turbulence, so, they are having stream line flow, that is why we are not keeping theta in this,
+right? Then, there is no end effect and the fluid is flowing between two vertical coaxial cylinders,
+right? With a laminar flow, and vertical cylinders, radii are kR and R, inner and outer radius
+respectively, right? 
+And the laminar turbulence transition occurs in the range of somewhere 2000 to 4000, right? We
+know that, this is the transition zone, between laminar and turbulence, right? If we take amomentum balance, in this, right? We can start with, as we said earlier, you remember, that in
+many cases we will say that, instead of doing every time from the beginning, doing all the
+balances, force balances, and using the governing equations, i.e., rate of momentum in minus rate
+of momentum out plus sum of the forces acting on it is equal to rate of momentum accumulation.
+Then, steady state, or even if it is not steady, then, that unsteady del del rho del t, or the variable
+that comes in as the time is not independent, time is rather, in this case, that property is not
+independent of time.
+So, in that case you need to take, but, here, we have said, fluid is incompressible, flow is laminar
+and steady, right? 
+(Refer Slide Time: 11:40) 
+And we are finding out doing the momentum balance. So, if we do momentum balance and if we
+look back the past, where we had done for the pipe flow, right? So, we came to a point where we
+could re-write that d dr of r Tau rz that was equal to delta P over L times r if you remember this
+within the pipe flow we had said that in many cases subsequently we may start from here
+because other things remains same, because the flow, bulk flow is not coming into picture, bulk
+flow, because it is steady, so bulk flow is cancelling out, so, only remaining the molecular
+transport.
+And, in that molecular transport, if we do the mass balance, momentum balance, then, that bulk
+flow terms, they will go out and remaining is that molecular transport that we will land up to this.
+So, that is why we referred earlier, and told also earlier, specifically, that in future, we may startwith this if required, right? So, here also we are taking that as the starting point, that let this be
+already derived d dr of r Tau rz del P over L times r, right? 
+And, this del P, we can also write as P in minus Pout over L times r, right? Now, here, this P, as I
+said, the moment we are taking vertical, so, depending on the flow, and if you remember that we
+said that the flow will be in the z direction. So, this was our r, z, right? So, it is in the vertical
+direction, so, we can tell that pressure P is equal to, total pressure P is equal to P plus rho g and z,
+right? That, vertical pressure due to the gravity, and the pressure which is for the flow, these two
+together, will be causing that total pressure P, which we are taking it at this P in minus Pout, right?
+Acting in opposite direction of the gravity versus if it is going like this. So, it is acting this
+gravity is like, so, the total pressure required is P plus this rho g z, so, it is acting against the
+gravity force, right? 
+So, it is acting against the gravity force, okay. So, that means, this P is equal to P plus rho g z,
+right? Now, if we integrate it, we get Tau rz, and re-write, of course, if we integrate and re-write,
+so, we had r Taurz delta P over, this was r, so r square by 2 L plus C 1, and on re-writing we can
+say r Taurz is equal to delta P by 2 L into r plus C 1 by r, right? So, this means that we have one
+equation, where this constant C 1 has to be found out, and to find out this constant C 1, we need to
+know the boundary conditions. (Refer Slide Time: 16:53) 
+So, boundary conditions, which will be, right? The boundary conditions, now, one thing, we can
+refer it back that unlike this pipe flow where the boundary condition was very much defined.
+Very much defined means, we could say that since, if we take this is as the pipe and we could
+and this is the axis then, we could say that velocity, this is the solid wall, so this is where the
+velocity  is  0,  and  this  is  where  your  velocity  is  maximum,  right?  And,  this  is  where  the
+momentum flux was maximum, and this is where the momentum flux was minimum. So, if we
+had plotted, we had seen that the plot of the momentum flux was like this and this other one the
+plot of the velocity was like this, right? 
+So, if you remember that we had made like this, and the other way sorry, so, it is other way, this
+comes like this. So, this is minimum and maximum is there, maximum is there, and minimum is
+there. So, it was like this, like a K, right? So, this was like that, and in that case, we knew that at
+the center, the velocity was maximum and at the surface, the velocity was minimum. This we
+knew, right? But, here, when we are talking here, since, we have no such R and that means here
+at r is equal to 0, v is v max and at r is equal to R, v is equal to 0.
+So, this boundary was known, but here, we do not know, where, at r is equal to what r, what is
+the velocity, where it will be maximum. So, at which r the velocity will be maximum, that is not
+known. So, in order to solve this kind of problem, what is done, we are assuming an imaginary r
+say, lamda r, right? An imaginary r, we are assuming, say lamda R, where, this velocity becomes
+maximum, right? If this velocity becomes maximum at the point lamda R, then, we can put theboundary, right? So, here, we can say at r is equal to lamda R, this momentum flux will be 0, at r
+is equal to lamda R momentum flux will be equal to 0, right? 
+Similarly, obviously, r is equal to lamda R, that time, we will also see that velocity becomes v max,
+right? But, what is the value of lamda, that we do not know, we are assuming at a distance, at a
+radius, where this lamda is equal to some value, and that we have to determine. So, in order to
+find out this value of C 1, let us now say that Tau rz, that momentum flux is 0 at r is equal to lamda
+R, right? So, if that be true, then C 1 becomes equal to minus delta P, right, into lamda R square
+divided by 2 L, right? 
+So, this lamda R becomes, this is 0 equal to delta P over 2 L plus C 1 by r. So, C1 becomes equal
+to minus delta P by 2 L lamda R square, right? So, this r we have put as lamda R square and C 1,
+value of C1 is like that. (Refer Slide Time: 22:45)
+Then, we now say that, boundary condition, we have already said. So, then, we can now say,
+Taurz, this is equal to delta P by 2 L into R, if we can write as R as common, then r by R this
+minus lamda square capital R by small r, this on simplification we can write, right?
+(Refer Slide Time: 23:28)
+So, Taurz, we can write, because substituting the values value of C 1 into this, and then taking
+common delta P by 2 L into R, then, we can write this delta P by 2 L R times r by R minus lamda
+square capital R by small r, right? So, if this is Tau rz, then we can also say this Tau rz is defined as
+Taurz is equal to minus mu d v z dr, right? 
+So, dvz dr, if that is there, then we can substitute this, dv z dr is equal to this negative goes there,
+right? And, we can write that this is equal to minus delta P by 2 mu L into R into r by R minuslamda square into R by r this, right? So, this is what we can write in terms of division. Now,
+integrating this division we can say that v z, this is equal to minus delta P R by 2 mu L. So, this
+was there, so, on first, this integration will come, so, it is that r, if we take out and then rearrange,
+then, we can say this is delta P by 4 mu L, right, times R square r by R whole square minus 2
+lamda square ln r by R plus C 2, right? 
+This is the second, right? Okay, this C 2, we here, we can write, that is equal to C 2, right? So, then
+if we substitute the boundary condition 1 is at r is equal kR, we have v z, or at r is equal to kR we
+have vz is equal to 0, right? And also at r is equal to kR we have v z is equal to 0, right? 
+(Refer Slide Time: 26:50)
+These two, because, there, if you remember, so, we had this at r is equal to R and r is equal to kR
+because that is the wall.
+So, this is the solid wall, so, where our fluid is getting filled and this v z becomes equal to 0. So,
+that boundary condition, if we put and substitute these boundary condition into C 2, we can write
+that 0 is equal to delta P over 4 mu L R square with negative into 1 plus C 2 and from there we
+can find out C2 is equal to minus 1 and 2 lamda square is equal to 1 minus k square divided by ln
+of 1by k.
+So, we find out the value of lamda is equal to 1 minus k square divided by ln of 1 by k, right?
+This half, right? Into rather, this is half and this to the power of again half, right? That is the
+value of lamda. 
+(Refer Slide Time: 28:35)So, if we know C2 and then lamda, then, we can say that Tau rz. Now, Taurz is now becoming equal
+to delta P over 2 L into R is r by R, right? Minus 1 minus k square divided by 2 ln of 1 by k,
+right? Into 1 by or r by capital R this is Tau rz and vz is equal to delta P divided by 2 L or 4 mu L
+rather, delta P divided by 4 mu L to R square into 1 minus r by R whole square, right? Plus 1
+minus k square over ln of 1 by k, right? Times ln of r by R.
+So, this is the velocity distribution and this is the momentum flux distribution, right? Now, here
+we have to find out, okay, in many cases, in earlier cases also, we have seen that we can
+determine these velocity profile and shear stress profile and based on the relations we obtained,
+then, we can substitute, whether our development is correct or not by putting some conditions
+that we will do in the next class because in this class time is over, thank you. 

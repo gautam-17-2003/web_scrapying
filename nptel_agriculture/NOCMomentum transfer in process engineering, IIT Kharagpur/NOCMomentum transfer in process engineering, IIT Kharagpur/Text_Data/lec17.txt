@@ -1,0 +1,146 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 17
+Module 4
+Laminar and turbulent flow in a pipe 
+Okay, we had then seen what the frictional factor is, how it is defined, and how we can find out
+from Moody’s chart, right? Now, let us look subsequent things, that after the Moody’s friction
+factor, once that is done, we can see that okay. Next we  handle it with a problem for given one,
+this is of course nothing but a mathematical problem.
+(Refer Slide Time: 0:51) 
+For a turbulent flow, in a pipe it has been established that v is equal to v max into 1 minus r by R to
+the power 1 by 7. So, then you have to calculate the average velocity. (Refer Slide Time: 1:28) 
+So, the problem is for turbulent flow in a pipe, it has been seen that v is equal to v max, right, times
+1 minus ratio of small r to capital R to the power 1 by 7. So, if this is there, then, what is the
+value of vaverage, right? Now, we have shown earlier for pipe flow also, we have shown that when
+you are doing it for average flow that average flow is defined by this way that v average is equal to 1
+by pi R square, 0 to R, right? Area is 2 pi r dr, right? 
+And this can be written as 2 pi divided by pi R square, right, into v r dr, right? This is between 0
+to R, right? Now, this can be written as, 2 v max over R square, right? And 0 to R and 1 minus r
+over R, 1 minus r over R to the power 1 by 7, r dr, right? So, this, we can also write is equal to 2
+vmax, right, over R square between 0 to R, right? Now, let us define this as, x is equal to 1 minus r
+over R, right? Therefore, we can write, small r is equal to capital R into 1 minus x, right? 
+Or, we can also say, dr is equal to minus r dx, right? So, if that is true, we can say for r is equal to
+0, x becomes equal to 0, and for r is equal to R, x becomes equal to 1. So, this, which we had
+earlier done, okay, now, this we can replace for R is equal to 0 to r is equals to R. So, r is equal to
+R, it is 1 and r is equal to 0, it is 0, right? So, this is x to the power 1 by 7, R 1 minus x into
+minus R dx becomes, there is minus R dx, right? So, between 0 to R, r is equal to 0, x is equal to
+0, r is equal to 0, x becomes equal to 0. Now, for r is equal to 0 you see r is equal to R so this
+goes out x becomes equal to 1, right? And for r is equal to R, x also becomes equal to 1, okay.
+For r is equal to 0, x becomes equal to 0, for r is equal to R, x becomes equal to 1. So, it is 0 to 1
+x to the power to 1 by 7 R 1 minus x into minus R dx, okay. So, if this is true, then we can write
+this is equal to minus 2 v max, right, over R square, right? And here also R square this R and this Rmakes R square, right? And this we can write between 1 to 0, x to the power 1 by 7 1 minus x dx,
+right? 1 to 7 this minus, we have taken out, right? This minus we have taken out minus 2 v max this
+R this R has made R square already there was one R, okay and this was 0 to 1, right?
+x to the power 1 by 7, right? 1 minus x dx dx, right, and only one thing, which is x is equal to 1
+minus r by R, so when r is equal to 0 so x becomes equal to 1, when r is equal to R, x becomes
+equal to 0. This is what the problem was. r is equal to 0, x is equal to 1 and when r is equal to R,
+x becomes equal to 0. 
+So, it should have been 0 to R, so, from there it is x is 0 to 1. So, this was our original, right? 1 to
+0, so, that means this we can write to be equal to minus 2 v max R square by R square 1 to 0 x to
+the power 1 by 7 1 minus x dx, right? On simplification, we can write, 2 v max, right? R square
+goes out and now with a negative then we can write it to be 1 to 0 x to the power 1 by 7 dx,
+right? Minus 1 to 0, x to the power 8 by 7 dx this is 1 by 7, right? Minus 1, so it is 8 by x to the
+power 1 by 7 into 1 that is 7 plus 1 8 by 7. So, x to the power 8 by 7 dx, okay, 1 to 0, now, this
+we can re-write to be minus 2 v max, right? and between x to the power 1 by 7 means x to the
+power 8 by 7 divided by 8 by 7 this is between 1 to 0 minus this one x to the power 8 by 7, right,
+8 by 7 plus 1, so, 15 x to the power 15 by 7 over 15 by 7, right? So, this is also between 1 to 0,
+right?(Refer Slide Time: 11:11)
+So, if this is true, then we can write that this is equal to minus 2 v max, right, times now, this we
+can write x to the power 8 by 7 and 0 and 1, when we put this limit then, we write 1 by 8 by 7
+plus 1 by 15 by 2, right?
+(Refer Slide Time: 11:48) 
+Because, this when we had seen, this was between the two minus 2 v max we maintained minus 2
+vmax, right? And this was x to the power 8 by 7 by 8 by 7 when x is 1, right? Then automatically,
+1 minus comes in when x is 1, automatically, because this is 0 minus 1 so when x is 0 this is 0
+then, 1 minus this that 1 by 8 to the power 8 by 7 and this is minus 1 by 15 by 7.
+(Refer Slide Time: 12:35)So, that is what we got, and this 1 minus, and that minus, made us, this as plus, right? 
+So, this on simplification, we can write v max, right? vmax times minus 1 by 8 by 7 which we have
+written, so, it is 7 by 8 minus plus 2 by 15, right? So, this is nothing but 2 v max. So, our
+denominator 2 vmax, of course here we had a negative, which we forgot, minus 2, negative we
+have now, 15 8 120 and this becomes 15 this becomes 8 two’s are 15 8 two’s 16 and 56, right?
+This is 8 two’s are 16 minus 15 7’s are 105, 15 7's are 105, right? It is okay. If we take 7 or 7 by
+15 to where and 7 by 8, no this 15 by 15 by 7, how come it is 2,(Refer Slide Time: 14:40)
+How, come it is 2, this is x to the power 1 by 15 by 7 and 8 by 7, okay. So, this is 1 by 8 by 7 this
+is 15 by 7, or that is what the mistake was, so it is 15 by 7. So, 2 v max 16 not 16, we can re-write
+minus 2 vmax, right, into this 7, if we take common then it becomes 1 by 8 minus plus 1 by 15,
+right? Or, is equal to 7 two’s are 14 v max, right? 7 two's are 14 v max and this becomes 1 by 15
+minus 1 by 8, right? So, this is 14 v max, right? 14 vmax, 120, so, this becomes 8 and this becomes
+this, becomes minus with this negative was there, this negative is still there so if the negative is
+still then why do we carry out.
+So, this we can take that negative inside 14 v max, right? 1 by 8 1 by 15, right? That is 1 by 15 over
+1 by 8, right? 1 by 15 1 by 8 minus 1 by 15, this is 14 v max, right? And 120 now, so, this is 15
+minus 8, right? So, this is 14 v max, 15 minus 8 is 7 by 120, right? And if we divide, this becomes
+2 or 7 and this becomes 60, right? So, it becomes 49 by 60 v max, right? This is nothing but 0.817
+vmax, right? So, we could find out, what is the average velocity, so, average velocity is 0.817 v max.
+This is a typical, your problem. This kind of relations, you can also generate and then find out
+what is the average value, with the actual value with the maximum value, right?
+But, you must also know that, the relation which you have put here, you, if you remember, we
+started with vmax having a v is equal to v max, so much that relation, which we get and so, you must
+have one such relation, where it will have a meaningful relation and some value like here, we
+have found out, this is to be equal to 0.817, right?
+(Refer Slide Time: 18:37) Whereas, we started with that relation was v is equal to v max into 1 minus r over R to the power 1
+by 7, right? So, any such relation, if we have, then, you can get the average velocity in terms of
+maximum velocity.(Refer Slide Time: 19:11) 
+So, we got the average velocity. This is equal to maximum velocity of so much 0.817 times of
+maximum velocity. Keep in mind that this relation is a just for 1 exercise to find out the average
+velocity, right? Because, average velocity, if you go back to your previous, and previous that 1
+by area times the area total, so, were that integrated between the limit 0 to 1 or 0 to 2 pi, then r to
+capital R, like that depending on your regime, which you are handling with, and then find out
+and then get into it, right? So, this way we can determine a relation, okay. (Refer Slide Time: 20:12) 
+Then, let us also solve another problem quickly, so that we are accustomed with this that, A
+starch solution at 30 degree centigrade is flowing through a horizontal tube, 0.3 meter long and
+0.00254 meter inside diameter. For a pressure drop of 2.75 into 10 to the power 5 Pascal, the
+flow rate is 1.127 into 10 to the power minus 4 meter cube per minute. The density of starch
+solution at 30 degree centigrade is 1260 kg per meter cube. From the flow data, find the viscosity
+of starch solution, right? 
+I repeat, A starch solution at 30 degree centigrade is flowing through a horizontal tube 0.3 meter
+long and 0.00254 meter inside diameter. For a pressure drop of 2.75 into 10 to the power 5
+Pascal, the flow rate is 1.127 into 10 to the power minus 4 meter cube per minute. The density of
+starch solution at 30 degree centigrade is 1260 kg per meter cube. From the flow data and the
+viscosity of starch solution, find the viscosity of starch solution in Pascal second, right? One
+thing given us hint that measurement of flow in circular tubes is one the common methods of
+determining viscosity and such devices are referred to as “capillary viscometers” (Refer Slide Time: 22:31) 
+So, this is nothing but a problem of capillary viscometer, right? So, if we solve. if we find the
+viscosity we will tell that this is the viscosity as measured by the capillary viscometer. So,
+capillary viscometer, if it is with your institutes, you can find out and check, knowing the other
+values, and check whether your predicted value and the actual value are matching, or how far
+they are close that you can determine, right? 
+(Refer Slide Time: 23:17)
+So, let us look into the solution. From the Hagen–Poiseuille’s law, we know that mu is equal to
+pi into delta P to R square divided by 8 Q L, right? 
+Mu is equals to pi delta P R to the power 4 not R square R to the power 4 by 8 Q L, right? So,
+delta P is rather given, pi into delta P is given, 2.75 into 10 to the power 5 Pascal, right? And R is
+also given as 0.00127 m, right, to the power 4 and this divided by 8 Q is also given as 1.127 into
+10 to the power minus 4 meter cube per minute, right, times 1 minute by 60 seconds into 0.3
+meter, that is L, right? So, this becomes equal to 0.5 Pascal second, right? 
+So, viscosity we found out. So, we can say, Hagen–Poiseuille, so, Hagen–Poiseuille law we
+found out the viscosity. What it is what the value is, right? Now, we find out Reynolds number
+NRe is equal to D vz average into rho by mu that is equal to: 4 Q rho by pi D mu, right? So, if we
+substitute these values, then this, we can write this is equal to 4 times 1.127 into 10 to the power
+minus 4, so much meter cube per minute 1 minute, per 60 seconds, 1260 kg per meter cube
+divided by pi 0.00254 meter times 0.5 second or 0.5 Pascal second given, right? 
+So, this becomes equal to 2.37, which is nothing but, the flow is laminar, right? So, this becomes,
+the flow is laminar. Now, there is a term that is also called entrance length, so and this entrance
+length Le is related with N Re as 0.36D, 0.036 D NRe, right? So, this problem we can we have
+handled, and okay we found out this to be 2.37, right?(Refer Slide Time: 27:58) 
+Now, I give you another problem, which, I do not tell you, that this is assignment, but okay some
+other day if you are not able to answer we will solve it and you first try that is the best thing, you
+first try, if you are not able to find out the solution, I will definitely tell this, Do not take it as
+assignment, but okay giving a problem which you can try with, right? 
+So, for example, A liquid of constant density is flowing in laminar flow at steady state in the
+horizontal x direction between two flat and parallel plates. The distance between the two plates
+in the vertical z direction is 2z. Using a shell momentum balance, derive the equation for the
+profile within this fluid. So, I repeat, right? And hope you can do this that is my expectation that
+you can do this till now whatever we have done from that basis you can do this. If, again, you are
+not able to do, obviously, I will give you the solution, but first you try, okay, at least till now
+whatever has been covered, by that it can be easily done.
+So, A fluid of constant density is flowing in laminar flow at steady state in the horizontal x
+direction between two flat and parallel plates, the distance between the two plates in the vertical
+z direction is 2 Zzero. Using shell momentum balance, derive the equation for the profile within
+this fluid, right? So, I hope you can do this because, we have already done similar thing and that
+similar thing, the pipe flow we have done, so, you can do it subsequently, right? So, in this
+problem, with this given problem, let us complete this class today, and next time if you are not
+able to solve, we will come across and solve it, okay, thank you. 

@@ -1,0 +1,110 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology Kharagpur   
+Lecture 50  
+Module 10  
+Solving problems on Ergun’s equation  
+Yeah, so , we have done Blake Kozeny, Burke Plummer equation, right? And there we have seen 
+that whenever  we are using this and whenever we are coming to the final form of the equation , 
+known as Ergun’s equation , this Ergun’s equation is very , very useful when , you are applying it 
+for packed bed, right? So , you know and I also said , and I am telling you repeatedly that if you 
+can solve problems then you can think that yes , you have understood the problem , or you have 
+understood the theory whatever has been taught, ri ght? So , now let us go and find out a solution 
+of such problem , say one typical problem , as it is given here, right?  
+(Refer Slide Time: 1:27)  
+ 
+For example, if we say , Air at 303 Kelvin is flowing through a packed bed of spheres having a 
+diameter of 12 mi llimeter. The void fraction of the bed is 0.4 and the bed has a diameter of 0.6 
+meter and a height of 2.5 meter. The air enters the bed at 1.2 atmosphere s at the rate of 0.4 kg per 
+second. Calculate the pressure drop of air in the packed bed. Given , molecu lar weight of air to be 
+28.97 , kg per kg mole , and viscosity , to be 2 into 10 to the power minus 5 Pascal second. So , let 
+us solve it but before solving let us read once more.  
+Air at 303 Kelvin is flowing through a packed bed of spheres having a diameter of 12 millimeter. 
+The void fraction of the bed is 0.4 and the bed has a diameter of 0.6 meter and a height of 2.5 
+meter. The air enters the bed at 1.2 atmosphere s at the rate of 0.4 kg per second. Calculate the 
+pressure drop of air in the packed bed. Given  molecular weight of air is 28.97 kg per kg mole 
+and viscosity of air to be 2 into 10 to the power minus 5 Pascal second, right?  
+(Refer Slide Time: 3:54)  
+ 
+Now , let us solve this problem . So, if we solve this problem , what is given , we have a packed 
+bed, right? So , bed is like this and there some spherical materials like this are there, right? And 
+air is passing through this, right? So , we have been given that temperature T is equal to 303 
+Kelvin, right? Packed bed of spheres , so, Dp is equal to 12 millime ter is equal to 12 into 10 to the 
+power minus 3 meter, then we had been given that the void fraction epsilon is 0.4 , bed has a 
+diameter of 0.6 , so, this diameter of the bed D is equal to 0.6 meter, height of the bed , i.e., this 
+height , H is say given here as 2.5 meter, right?  
+And bed , it enters , our bed at 1.2 atmosphere s, so, pressure at the bed inlet is equal to 1.2 
+atmosphere s, right? And the flow rate is given in this way that it is the G prime , i.e., mass 
+velocity is 0.4 kg per second, right? Or , we c an say , not mass velocity , we can say , this to be the 
+mass flow rate , m dot to be 0.4 kg per second. Other things , which are given , are molecular 
+weight of air , M air to be 28.97 kg per kg mole, right? And viscosity , mu is equal to 2 into 10 to 
+the power minus 5 Pascal second, right?  
+Now , if we remember that Ergun’s equation , which we said that was delta P is equal to not delta 
+P, it was delta P rho by G prime square phi s Dp over delta L epsilon cube over 1 minus eps ilon, 
+this was equal to 150 over N Re plus 1.75, right? So , first, let us then find out , the sectional  area 
+through which it is flowing . So, cross sectional area of the bed , this we can write to be pi by 4 D 
+square is equal to pi by 4 into 0.6 squares,  so many meters  square, right? Therefore , we can write 
+that G prime , i.e., mass velocity was 0.4 was kg per second, right?  
+So, kg per second divided by the area into 1 by area or CS , cross sectional area , if we write, so , 
+this is in terms of meter square, right? So , that becomes equal to 0.4 divided by pi by 4 0.6 
+square, right? So , so much kg per meter square per second, right? So , we can say that this is 
+based on the empty cross sectional area, right? So , how much it com es then 0.4 by 584 by 0.6 
+square , so, let us look into this, so , it was 0.4 divided by pi by 4 is equal to this, right , divided by 
+0.6 square is equal to 1.414 kg per meter square second, right? So , G prime square we got to be 
+so much, right?  
+(Refer Slide  Time: 12:37)  
+ 
+Then , we have to find out what is the delta P, right? So , we have to find out delta P , so, now let 
+us assume delta P to be say , as small as possible say 0.05  into 10 to the power 5 Pascal, right? 
+We have already been given p 1 equal s to, we have been given , 1.2 atmosphere s, so, this is equal 
+to 1.2 into 1.01325 into 10 to the power 5 , is equal to, how much? 1.2 into 1.01325 is equal to 
+1.2159 into 10 to the power 5 Pascal , 1.2159 into 10 to the power 5 Pascal, right?  
+So, this we have seen, s o, we can say that if P 1 so much then P 2 is equal to 1.2159 10 to the 
+power 5 Pascal plus delta P , this P 2 will be minus so P 1 minus P 2 is equal to delta P , so, P1 or P 2 
+is equal to P 1 minus delta P , so, minus 0.05 10 to the power 5 Pascal is equal to , this becomes 
+equal to 1.159 minus 0.05 is equal to 1.1659, 1.1659 10 to the power 5 Pascal, so , that is our P 2, 
+right? So , we got P 1 and P 2, so, then, P average is equal to this 1.1619 plus 1.2159 is equal to , by 
+2 is equal to 1.1909 10 to the power 5 Pas cal, right?  
+So, we got P average , so, if we get P average, then we can also say the rho average is equal to P 
+average, right? P average into M by RT is equal to 1.1909 10 to the power 5 Pascal , M is 
+molecular weight , i.e., 28 point , it was given 28.97, ri ght? R is 8314 into , T is 303, right? So , 
+then, rho average , then comes to be equal to 1.1 , this into 10 to the power 5 is equal to this much 
+into 28.97 is equal to this divided by 8314 is equal to this divided by 303 is equal to 1.3695, 
+right , is 1.3695 kg per meter cube, right? So , now we have G average , G prime , we have density  
+average, right? And now , we can say that 1.3695, okay , so, we can say now N Re, this is equal to 
+DG, right? D into G, i.e., okay , D particle G prime by mu into 1 minus epsilon, ri ght?  
+So, D particle was 12 millimeter , 12 into 10 to the power minus 3 meter, right , into this G prime 
+is 1.3695, right? And mu given was 2 into 10 to the power minus 5 into epsilon given was , 1 
+minus 0.4, right? This becomes equal to 12 into 10 to the po wer 3 plus minus equals to so much 
+into 1.3695 , now, G prime was 1.414 , sorry , 1.3695 is rho average, right? 1.3695 is rho average, 
+right? So , we can say that it was 1.414, right , is equal to this divided by 2 , is equal to this divided 
+by 10 to the power m inus 5 , 10 to the power 5 plus minus this, right , divided by 1 minus 0.4 is 
+0.6, equals to 1414, right? So , NRe has become equal to 1414, right?  
+So, now we use that Ergun’s equation , which we had shown earlier that was , delta P rho by G 
+prime square , delta P rho by G prime square into phi s Dp by delta L, right? So , we have taken a 
+sphere, right? So , phi s is 1, so, delta P by phi s, delta p by delta L, okay this is this , another 
+epsilon cube by 1 minus epsilon, right? So , these three term s into this is equal to 150 by N Re plus 
+1.75. So , out of this , if we say that , delta P is now not known, then we write delta P into rho , 
+already we have found out 1.3695, right , divided by G prime , we have found out 1.414 , this 
+square, right , times delta , phi s is 1, so, Dp is given as 0.012, right , Dp delta L , i.e., height in this 
+case given as 2.5 meter, right? Epsilon given here is 0.4 cube divided by 1 minus 0.4, right? This 
+is equal to 150 by N Re, we have found out 1414 plus 1.75, right?  Now, let us find out delta P times that 1.13 , this value 1.3695 divided by 1.414 square is equal to 
+this, that is 0.6849, okay 0.6849 , so, this times 0.012 by 2.5 is equal to 0.0048, right , into 0.4 
+cube is this divided by 1 minus 0.4 is 0.6 , so, this becomes 0.106, right? So , this is  equal to 150 
+by 1414, 150 divided by 1414 is equal to 0.106 plus 1.75, right? Or , delta P , then becomes equal 
+to, this is equal to 1.75 plus 0.106 is equal to 1.856, right? So , then delta P becomes equal to 
+1.856 divided by 0.6849 into 0.0048 into 0.106, right?  
+So, 1.856 divided by 0.6849 into 0.0048 into 0.106 , so, this becomes equal to 5326, right , is 
+equal to 5326 Pascal . Now, that can be written as equal to 0.05 into , is equal to 5 into 326 into 10 
+to the power 3 Pascal, right? So , when we made it this , 0.05, so, into 10 to the power minus 5 
+Pascal, right? So , this means that we have shown that delta P , which we assumed to be 0.05 , here 
+also by calculation , we have made that to be equal to 0.05, right? So , here also we have shown 
+that this delta P has b egun 5326 Pascal meaning 0.05  into 10 to the power minus 5, 10 to the 
+power 5 , sorry , not minus , sorry , sorry, 10 to the power 5 Pascal , 0.05 10 to the power 5 Pascal, 
+right?                                  
+So, which was our original assumption, so , that means what we ha s been assumed is correct, 
+right? So , this way this is one way how we can use Ergun’s equation, right? Do some 
+calculations , some problem solving , then it become s more and more clear  with this, okay. We 
+will try to solve if we get some more  time,  in future maybe in the following class, okay thank 
+you.                  

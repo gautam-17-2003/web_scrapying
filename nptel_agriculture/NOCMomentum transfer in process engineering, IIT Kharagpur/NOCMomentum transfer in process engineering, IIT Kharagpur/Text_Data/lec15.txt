@@ -1,0 +1,160 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 15
+Module 3 
+Fanning friction factor 
+Hello, dear boys and girls, hopefully you have gone through till now that we have done, pipe
+flow, both  with  the  help  of shell  momentum  balance,  and  with  the  help  of  Navier-Stokes
+equations. We have also shown how the Navier-Stokes equations are helpful in solving this type
+of  Problems,  right?  Rather, Navier-Stokes  equations  are  known  as  the  mother  of  the  flow
+behavior characteristic of fluids. So, if you are accustomed with that you can solve many
+problems in future wherever you can apply them. 
+(Refer Slide Time: 1:34) 
+Now, we will go to another main thing, which I had told you that during the first rather last class.
+I had said that you are looking into the flow through pipe. If this is a pipe, if this is inlet, if this is
+outlet, then the layers of the liquid or the fluids, they are, while there is a P inlet and Poutlet, why this
+Pinlet is more than Poutlet or, where there has to be, right? You know in this connection, another
+thing I tell you which you can obviously look into that whenever you are generating electricity at
+any  point,  right?  And  there  you  are  generating  at  a  definite  voltage  and  when  you  are
+transmitting it and when it is reaching you are getting a voltage drop, why?
+Because, the  medium  through  which  it  is  coming,  that  is  offering  a  lot  of resistance.  So,
+depending on whether your medium is offering a distance for the flow or not, that will dictatewhether whatever you are giving at the inlet that thing will be same at the outlet or not, and in
+this selection, I would like to mention that yes till now people have developed some or other kind
+of devices by which you can go even up to minus 100 degree centigrade while there is no
+resistance of such transit, right? 
+But, here also, in the fluid flow, a similar thing we will now discuss where, why, this factor, i.e.,
+inlet to outlet, why the pressure is getting dropped, right? That means, when you are running, if
+somebody is holding you then you cannot run. When you are swimming, if somebody is not
+allowing you to swim, then, you would have swim faster? The same thing happens here also.
+When the fluid is flowing, some or other factors, which are pulling the fluid, not to go and this
+pulling is known as the friction factor, right?
+(Refer Slide Time: 4:47) 
+So, we will now go to that friction factor, and that we will do yeah, that we will do like this,
+right? This frictional factor let us define it to be “f”, right? And this is nothing but the drag force
+per unit wetted surface area, which is known as fanning friction factor “f”, which is nothing but
+drag force per unit wetted surface area, or, shear stress Tau s at the surface divided by the product
+of density times velocity head, which is known as rho v square by 2, right? (Refer Slide Time: 5:46) 
+So, let me repeat, we define a new term, called fanning friction factor or simply this denoted by
+“f”. This in many books, you may get as lambda or some other whatever at least this word should
+be there that is called fanning, right? Fanning’s friction factor, right? So, this fanning friction
+factor commonly, or generally, it is denoted by small “f”, right? 
+(Refer Slide Time: 6:23) 
+This is defined as the drag force per unit wetted surface area, or shear stress Tau s at the surface
+divided by the product of density times velocity head or density is rho and velocity as is v square
+by 2.
+So, this definition, if we follow then you will say that what is the drag force per unit wetted
+surface area, right? Then what is the drag force? Drag force is delta P f, i.e., delta P, pressure dueto the friction factor. So, delta P f times cross sectional area, i.e., pi R square and wetted surface
+area is known as 2 pi R L, right? So, drag force is that, pressure force times sectional area, i.e., pi
+R square and wetted surface area is 2 pi R L. If it is known, then, the relation between the
+pressure drop and friction factor that can be related as “f”, is equal to Tau s over rho v square by
+2, right?
+(Refer Slide Time: 7:38) 
+So, this we can write as Tau s as delta Pf times pi R square, right, divided by 2 pi R L, divided by
+rho v square by 2, right? So, by definition we have said that fanning friction factor is the shear
+stress Taus, right? And this shear stress is nothing but drag force or pressure drop due to friction
+factor times sectional area, i.e, pi R square divided by the wetted surface area, i.e., 2 pi R L
+divided by the rho times velocity, here that is v square by 2, right? 
+So, we then, if this is true, we can also write this as delta P f times R, right, divided by L rho into
+v square, right? Because, this 2 and this 2 goes off, this pi and this pi goes off, this R and this
+square goes off, right? Then, remains delta P R over L, that remains, right? This rho that remains
+this square that remains, so, delta P f R by L rho v square, which you can also write as delta P f this
+R as D divided by 2, right? L rho v square, right? So, now, this L rho v square delta P f D, this can
+also be written as, now this we can write, delta P f, fanning friction factor, as 2 f L rho v square,
+right, by D, right? 
+Which also we can write in terms of easy remembrance 4 f L rho v square by 2 D, right? This we
+have written in terms of “f” and delta P. So, the relation between delta P and “f” is that delta P f is
+2 f L rho v square by D or 4 f L rho v square by 2D. This is why? This 4 f we can remember. L isthe characteristic length, rho is the density, D is the diameter, L by D is this length dimension,
+non dimensional length, rho and v square by 2, i.e., the velocity head, right? That is why in this
+form it is written that 4 f rho L by D or L by D rho v square by 2, right? 
+Now, this we can also equate. We know that delta P f is 32 mu v L by D square. This we obtained
+from the Previous class that, this is known as Hagen–Poiseuille’s equation. So, from that Hagen–
+Poiseuille’s equation, if we relate this with 4 f rho L by D v square by 2, right? If we relate them
+then, from here we can write “f” is equal to 32 by 4, right, mu okay, by rho, right, v by v square,
+okay, 2 that 2 goes there, right? 
+So, this D by L, right? Here, we have L by D square. I think we have covered everything. “f” is
+32 by 4 4, so mu remains mu and rho comes down mu by rho then v by v square yes this v square
+this 2 goes up, then D by L which was already there L by D as D by L and this is L by D square,
+right? Then by simply eliminating, we can say so, this makes 8, so, 8 times 2 is 16 this is mu,
+okay, so, v v goes out mu by rho, so 1 v remains, right? This 2 also 8 into we have taken 16 mu
+by rho v and this D and this square this goes out so 1 D remains L and L cancels out.
+So, 16 mu by rho v D, which, we easily say 16 over D v rho by mu. Now, D v rho by mu is
+nothing but NRe, right, Reynolds number. So, we can simply say that this fanning friction factor is
+this is true because when we have taken this, this was for laminar flow, right? So, for laminar
+flow the fanning friction factor that can be said to be equal to 16 by N Re because NRe is nothing
+but D v rho by mu, right? (Refer Slide Time: 15:11) 
+So, if this is known, then we can say, for laminar flow this “f”, fanning friction factor is nothing
+but 16 over NRe, right? Done. Whereas, the relation between the fanning friction factor and delta
+P, we can write this is 4 f rho L by D v square by 2, right? This is the fanning friction factor and
+this is true whether it is flow is laminar or turbulent. This is delta P f for turbulent, we can say this
+can be utilized, right? So, once we know the fanning friction factor then we can find out what is
+the relation between fanning friction factor and your pressure drop, right? 
+So, pressure drop and fanning friction factor, this relation, we can say for laminar flow is very
+easy 16 by NRe.(Refer Slide Time: 16:32) 
+Whereas, the relation general relation for delta P f is 4 f rho L by D v square by 2, right?
+(Refer Slide Time: 16:46) 
+Now, if we look into a problem, that a small capillary with an inside diameter of 2.54 into 10 to
+the power minus 3 meter and a length of 0.4 meter is being used to measure the flow rate of a
+liquid having density of 870 kg per meter cube and viscosity of 1.15 into 10 to the power minus
+3 Pascal seconds, then calculate the flow rate, if pressure drop across the capillary is 0.07 meter
+of water having a density of 990.24 kg per meter cube and also calculate the pressure drop using
+fanning friction factor or frictional coefficient or fanning friction factor, whichever you call,
+right? So, these two are asked to be done. So, though this is easy problem, but we can check how much
+the difference is, if we use fanning friction factor, and if we do not use that, straight way if you
+find out, then what is the delta P, right? So, I repeat the problem, A small capillary with an inside
+diameter of 2.54 into 10 to the power minus 3 meter and a length of 0.4 meter is being used to
+measure the flow rate of a liquid having density of 870 kg per meter cube and viscosity of 1.15
+into 10 to the power minus 3 Pascal seconds, then calculate the flow rate if pressure drop across
+the capillary is 0.07 meter of water having density of 990.24 kg per meter cube and also calculate
+the pressure drop using fanning friction factor, right?
+(Refer Slide Time: 19:15) 
+So, in the first case, when we are asked that calculate the flow rate if the pressure drop across
+capillary is 0.07 meter of water having density of 990.24 kg per meter cube, right? In that case,
+delta Pf, this can be written as h rho into g, right? So, h rho g, if we know: h is 0.07, rho is 990.24
+and g is 9.81, right? So, if you multiply them, then, it becomes roughly equal to say, 679.99,
+Newton per meter square or, roughly, we can say 680 Newton per meter square. So, this is the
+normal h rho g pressure drop, right? 
+Now, let us look into what it happens when we are taking the other one. Also, we know that delta
+Pf is equal to 32 mu vL over D square from the Hagen–Poiseuille’s equation. So, 32 into mu, that
+is given as 1.15, right? 1.15 10 to the power minus 3 Pascal seconds into v into 0.4 over D
+square. D is given 2.54 into 10 to the power minus 3, so much meter, right, D square. So, this
+from there already delta P we know 680, right? So, from there we can go this is equals to 680.So, from there we can find out the value of v velocity as 2.54 into 10 to the power minus 3 this
+square times 680 over 2.54 and 10 to the power minus 3 whole square, this becomes equal to
+0.01472, so, this is 0.298, so much of meter per second, right? So, v becomes equal to 0.298
+meter per second, right? So, then the flow rate can be written equal to v into pi D square by 4,
+that is equal to 0.298 into 2.54 into 10 to the power minus 3 whole square into pi divided by 4.
+So, this is equals to 1.50998 10 to the power minus 6. 
+So, much of meter cube per second, therefore we can write, N Re is equal to D v rho by mu is
+equal to 2.54 into 10 to the power minus 3 into 0.298 into 870 divided 1.15 10 to the power
+minus 3, so, that becomes equal to 572.6, right? So, N Re is so much. Now, next, it comes that how
+much fanning friction factor, right? So, N Re we got 572.6, why did you do N Re? Because, from
+there what we were asked to find out is that calculate the flow rate if pressure drop across the
+capillary, so, you have to find out the flow rate, now to find out the flow rate, we had used the
+Hagen–Poiseuille’s equation.
+Now, Hagen-Poiseuille’s equation is true for laminar flow, so, since again Hagen–Poiseuille’s
+equation is true for laminar flow, so, then you have to also show that the flow is laminar, that is
+why we have found out the Reynolds number and this has become equal to 572.6 which is in the
+laminar range, right?(Refer Slide Time: 24:52) 
+So, we know that laminar range is 200 to 2100 up to that normal fluid say water, it is up to 2100,
+and if it is a Newtonian fluid, then 2100 as well. This is the lower and the turbulence is more
+than 4000. So, within this range, that it is intermediate, so, if it is less than 2100, then it is under
+laminar flow, so, you have established that it is under laminar flow.
+So, using Hagen–Poiseuille’s equation was okay. Now, second part, we have to do that is the
+pressure drop using the fanning friction factor, right?(Refer Slide Time: 25:43) 
+Pressure drop using fanning friction factor, delta P f is h rho g, right, is equal to 0.07 into 990.24
+into yeah, so, we have to find out this, okay, this we have already found out, now the second, the
+fanning friction factor is 16 by N Re, so, 16 by NRe means 16 by, we have already found out, N Re as
+572.6. So, this is nothing but 0.0279, right? If it is 0.0279, then delta P f fanning friction factor,
+using, we know this is 4 f rho L by D into v square by 2, right? v square by 2 that is equal to 4
+times 0.0279 into 890 870, sorry, 870 into 0.4 into 298 square over, it was 298 square into 10 to
+the power minus 3 square, right, over 2 times 2.54 into 10 to the power minus 3, right? 
+So, L by D, so, this was to this, now this is, if you calculate, that becomes 678.9 Newton per
+meter square, that is roughly, again, we can say, closer to 680 Newton per meter square, right?
+That means if we look at, with the help of h rho g, what we have gotten for the laminar flow and
+with the help of fanning friction factor, what that relation delta P f is 4 f rho L by D v square by 2,
+that relation, we also got almost similar, of course, earlier one was a little more, if you remember,
+it was around 680 that is 679.99 is very close to 680(Refer Slide Time: 29:00) 
+Whereas, it is 678.9, so, it a little less than the earlier but, this is also closer to that, right? So,
+with this we close, we end today’s lecture and next, we will try to see, what is the same for if the
+flow is turbulent, right? Thank you. 

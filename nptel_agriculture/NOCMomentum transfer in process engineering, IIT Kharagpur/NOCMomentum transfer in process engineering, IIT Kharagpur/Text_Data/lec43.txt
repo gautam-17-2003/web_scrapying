@@ -1,0 +1,147 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 43  
+Module 9  
+Problems and solutions of Non Newtonian fluid – Part -1  
+So, in the previous class we have developed generalized viscosity, right , Coefficient of viscosity 
+that we have done, right? Now , let us go and find out that, yeah , so, let us derive now 
+relationship for generalized coefficient of viscosity, right?  
+(Refer Sl ide Time: 0:52)  
+ 
+So, if we see that Tauw was mu dv  / dr at wall, right? So , let us use the shear stress and shear rate 
+expressions at the wall of the pipe, right? For , Newtonian fluids , and if , we do Newtonian and 
+from that analogy , we can also find out f or the Non Newtonian, right? So , if we do it for the 
+Newtonian fluid, then it was delta PR by 2L or delta PD by 4L , this was mu minus dv / dr, right? 
+This was 4 mu by R into delta PR square by 8 mu L is equal to 4 mu by R into v average  is equal to 
+mu into 8 v average  by D, right?  
+This relation , we have already done , or mu can be written as delta PR by 2L over 8 v average  over 
+capital D, right? This we can write , for Newtonian fluid, right? But , for Non Newtonian fluid , we 
+know that Tauw or shear stress at the wall was minus k dot dv  / dr, k rather not minus 1 k dot into 
+minus dv / dr at the wall n to the power prime or k prime minus dv  / dr at the wall to the power n 
+prime and also we have seen that delta PR by 2L this was equal to k prim e 8 v average  over D to the 
+power n prime, right? So , we can write that delta PR divided by 2L over 8 v average  by D this is 
+nothing but k prime 8 v average  divided by D to the power n prime minus 1, right?  
+(Refer Slide Time: 4:42)  
+ 
+Now , let us define , mu prime , that is equal to k prime into 8 v average  over D to the power n prime 
+minus 1 , or we can also write mu prime is equal to k prime 8 to the power n prime minus 1 into 
+vaverage  over D to the power n prime minus 1, right? So , if we define now general ized coefficient 
+of viscosity , if this we say to be gamma, right? Then , gamma is equal to k prime 8 to the power n 
+prime minus 1 and we also had earlier found the relation between k prime and k , and we defined 
+that n prime was n, right?  
+This relation , k prime with k , earlier we have found out , defined , and we assumed that n to be n 
+prime, right? So , gamma , then is equal to k prime 8 to the power n prime minus 1, therefore , we 
+can write mu prime is equal to gamma v average  divided by D to the power n prime m inus 1, right? 
+So, this we know and we have also done this for Non Newtonian fluid and this is then the 
+generalized coefficient of viscosity, right? So , generalized coefficient of viscosity, now , if we 
+define generalized Reynolds number, right? So , that N Re general , so, this we can write is nothing 
+but v average  D rho by mu prime.  
+So, this is equal to v average  D rho , this is mu prime is k prime into 8 v average  over D to the power n 
+prime minus 1. So , this we can write v average  to the power 2 minus n prime into D to the power n 
+prime into rho over k prime 8 to the power n prime minus 1, right? So , this we can write to be 
+equal to v average  to the power 2 minus n prime, right , into D to the power n prime rho divided by 
+gamma, righ t? So , the N Re general , we can write , this is equal to v average  to the power 2 minus n 
+prime D to the power n prime rho over gamma, right? Where , of course , gamma is equal to k 
+prime 8 to the power n prime minus 1, right?  
+(Refer Slide Time: 9:24)  
+ 
+So, if we define like this, then we have seen for Newtonian liquid , for Newtonian fluids , we have 
+seen that friction factor and N Re, I mean , Reynolds number , the relationship between friction 
+factor and Reynolds number was like this ‘f’ was equal to 16 by N Re, this was true, right? Now , 
+for the same pressure drop of Non Newtonian fluid and flowing through the pipe etc . same 
+identical situation , we can write delta P is equal to 4 f rho L by D v average  square  by 2, this was for 
+Newtonian fluid which , we can write  64 by N Re general  into rho into L by D into v average  square by 
+2, right?  
+This we can rewrite as 64 over v average  to the power 2 minus n prime D to the power n prime into 
+rho into L by D into v average  square by 2. So , this becomes , 32 gama L by D into v average by D to 
+the power n prime, right? So , delta P with ‘f’ is for Non Newtonian fluid can be related like this, 
+right? For , Non Newtonian fluid delta , P is 32 gama L by D v average  by D to the power n prime, 
+right? So , now if we see for turbulent flow , modified Moody’s diagram , for turbulent flow for 
+Non Newtonian fluid , modified Moody’s diagram , because , we have seen Moody's diagram for 
+Newtonian fluid , this can be used to find out the fanning friction factor ‘f’, right?  
+And if we look at how it looks  like, the N Re general , this is equal to D to the power n prime v to the 
+power 2 minus n prime rho divided by gama , this is N Re and this side is fanning friction factor 
+‘f’, right? So , if we see this is a log - log plot , 10 to the power 3, 10 to the power 4, 10 to the 
+power 5, etc . and this side if we see say 0.001, 0.002, 0.003 and 0.002 , 0.005 say this is 2, this is 
+5 this is 0.01 this is 0.02 like that, right?  
+So, the plot is like this, right? And for this side is like that so , for different n prime so , n prime 
+can be 0.22 say 2.0, right? In between say , 1.0, things like that. So , from this generalized 
+Reynolds number versus friction factor for Non Newtonian fluid this is the modified Moody's 
+diagram, right? So , this is modified Moody's diagram, okay. So , fully this is not visible , so, it is 
+modified Moody's diagram, right?  
+And from this diagram , we can say that the value of ‘f’ for pseudo plastic fluids, right , is slightly 
+smaller than that shown in Moody's diagram, right? So , this is the difference tha t modified 
+Moody which , we had use d. Moody , we had used for this , not value of ‘f’ this is that for pseudo 
+plastic , for rough use, yeah this is that value of ‘f’ for pseudo plastic fluid is slightly less than or 
+smaller than that in the Moody's chart , we h ad shown this in the Moody's chart for Newtonian 
+fluid , if you remember , when it was flowing through a pipe, right?  
+If we just recapitulate a little that it was flowing through a pipe and the pipe was the genesis of 
+Moody's diagram , was that for pipe flow , when we developed the relation called from the Navier 
+Stokes or for the pipe flow with the shell momentum balance , developed , and the equation was 
+Hagen Poiseuille equation , and in that Hagen Poiseuille equation , whatever  we found out we 
+said that the l ength of the pipe was L . Subsequently , when the friction factor was defined and it 
+was said by Moody , from Moody's diagram which saw that the friction factor , when it is 
+included and length which we assumed to be L , that was not originally L , because of the 
+roughness of the pipe , through which the fluid was flowing, right?  
+And to give an example of that barrel of the ice cream freezer, right? It is absolutely smooth, 
+right? That is for , of course different reason , but it is absolutely smooth , so the travelling of the 
+liquid is exactly the same as that in the pipe , more or less but if the pipe is not smooth , if it is rough that depends on the construction of the pipe, then Moody showed that length , which we 
+actually had taken as L is no longer L, it is something beyond L, right? Which we had shown 
+also and that extra L could be taken into , from the roughness of the pipe , and that relative 
+roughness , equivalent roughness , those things came up , and we showed that the friction factor 
+versus Moody's  Reynolds number or rather Reynolds number , friction factor versus Reynolds 
+number , from Moody's chart , we had shown how friction factor can be found out, right?  
+(Refer Slide Time: 20:57)  
+ 
+Now , here, for Non Newtonian fluid , slightly modified , that Moody 's chart was slightly modified 
+and as we have shown , if we look at this here , this looks like more or less like that, okay , this is 
+of course , taken from any published literature, right? Because , drawing it on the paper is little 
+difficult , so, we had take n it from there so it is in the log  - log scale . So, then,  here, it is N Re 
+general , that is D to the power n dot n prime v to the power 2 minus n prime rho by gamma , so, 
+this is plotted versus fanning friction factor , again it is, say here it is given , 10 to the power 3, 4, 
+5, here it is 0.01, 0.001, 0.002, 0.005 like that 0.01, 0.02 , this range and this side is n prime, 
+right?  
+So, n prime also varied from 0.1, 0.2, 0.3 like that 1, 1.4 to like that , as many n prime we can, 
+right? And for a correspondi ng n prime , we find out , which one it is , and then for a given N Re 
+general  or generally general you obtain from there you can find out the value of friction factor, 
+right? What is the problem here is for turbulent Non Newtonian fluid flow modified Moody’s 
+diagram , this can be used, right? Where , the diagram is available for Newtonian fluid is also 
+applicable except the fact that values of ‘f’ for pseudo plastic liquids , in rough tube is slightly 
+smaller than those given by the Moody's diagram, okay.  
+That sl ightly smaller is definitely , it has impact, but not for all engineering purposes , not so high , 
+such that your prediction will be upside down, right? So , all practical purposes this chart or this 
+diagram is used and for Non Newtonian fluids , okay for dilatant or pseudo plastic , these fluids 
+are these rather values are utilized and you get the value of ‘f’ or the friction coefficient or 
+friction factor, right?  
+(Refer Slide Time: 24:06)  
+ 
+This you have to find out, right? Now , to solve it to see that whe ther we have understood 
+correctly or not , let us go for a solution of a problem , that is like this, two Non Newtonian fluids 
+such as 50 percent concentrated milk having density of 1030 kg per meter cube and applesauce 
+having density of 1100 kg per meter cu be are being pumped through a pipe having diameter of 
+10 millimeter and length of 10 meter, right? Consistency coefficient and flow behavior indices 
+for applesauce are assumed to be 0.5 Pascal second to the power n and 0.7 , and those of 
+concentrated milk a re 30 Pascal second to the power n and 0.6 respectively, right? If the 
+Reynolds number s are 500 and 5000 for both the liquids, calculate , the average velocities and 
+pressure drops, right?  
+So, I repeat, two Non Newtonian fluids such as 50 percent concentra ted milk having density of 
+1030 kg per meter cube and applesauce having density of 1100 kg per meter cube are being 
+pumped through a pipe having a diameter of 10 millimeter and length of 10 meter. Consistency 
+and flow behavior indices for applesauce are as sumed to be 0.5 Pascal second to the power n and 
+0.7 and those of concentrated milk are 30 Pascal second to the power n and 0.6 respectively, 
+right? If the Reynolds number s are 500 and 5000 for both the liquids, calculate the average 
+velocities and pressur e drops, right? Now of course we have come to the end session of this 
+class , it is also very difficult to solve it at this very moment, right?  
+(Refer Slide Time: 27:04)  
+ 
+So, what we do that we let you know or we ask you that you try we give some hints th at the 
+generalized coefficient of viscosity that gamma if we write this to be k 3 n plus 1 over 4 n to the 
+power n divided by 8 to the power 1 minus n, right? So , if we see that and if we use N Re general  
+that is given , 500 so , find out average velocity , so, if we do this at home maybe next time when 
+we are in the class , we can solve it in the class and do it, but you try at home and see how much 
+you are getting, right? But , read carefully , the problem given , what has been given , and what has 
+been asked to find out, right? And all the things , I have already been told and shown , so, you can 
+do it, right? Okay thank you.         
+                                                                       

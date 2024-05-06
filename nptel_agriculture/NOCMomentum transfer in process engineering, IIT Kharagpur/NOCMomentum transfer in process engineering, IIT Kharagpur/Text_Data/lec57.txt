@@ -1,0 +1,135 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 57  
+Module 12  
+Problem and solution (Continued)  
+Yeah, so , we have done a problem let us do another problem and this solving problem will help 
+you in assessing the situations that you have to keep in mind not only in mind the values will 
+give you idea really if you are working in industry. So , that more and more problems you solve 
+more and more you come across with the ideas with the real applications, right? So let us then do 
+the similar problem.  
+(Refer Slide Time: 1:04)  
+ 
+A tubular heat exchanger and a plate heat exchanger is separately used to heat water. Diame ter of 
+the tube is 15 millimeter. Gap in the plates is also 15 millimeter. Water has a viscosity of 1.2 into 
+10 to the power minus 4 Pascal second and density of 1000 kg per meter cube.  For both the heat 
+exchangers N Re is said to be 5000. What are the aver age velocity and pressure drops for the two 
+cases, right? I think this we should change this should be R capital, so by mistake it was so R 
+capital should be, right?  
+So, in the previous one also it was there r but I did not change, so you please change th at r is 
+capital, okay. So , we repeat, A tubular heat exchanger and a plate heat exchanger is separately 
+used to heat water. Diameter of the tube is 15 millimeter. Gap in the plates is also 15 millimeter. 
+Water has a viscosity of 1.2 into 10 to the power mi nus 4 Pascal second and density of 1000 kg 
+per meter cube.  For both the heat exchangers N Re is said to be 5000. What are the average 
+velocities and pressure drops for the two cases?  
+If you remember , in this previous problem we also dealt with a similar on e and we said we saw 
+rather that the it was for a juice and the property values where different a little may not be very 
+widely different but different and we saw that tubular heat exchanger had higher velocity as well 
+the pressure drop compare to those of  the plate heat exchangers, right? And this was true when 
+the flow was not laminar but somewhere intermediate we took if we remember we took around 
+3000 as the Reynolds number, but here we have taken Reynolds number to be 5000.  
+So, it is no more that laminar flow that is what we have done for the previous one for pressure 
+drop calculation, right? That Hagen Poiseuille delta P we cannot directly use, right? I hope you 
+have by this time you have done many other problems solutions also , so here instead of Hagen 
+Poiseuille some other formulation we have use and that I hope you have come across or you can 
+understand or make out that what could be that, right?  
+So, that is why,  in this case , I am, we are comparing or rather there can be a comparison between 
+the fluid in the earlier case it was a juice and in this case it is water and viscosities and densities 
+are also quite different, right? So that should also tell on both the velocities as well the pressure 
+drops, right? Now let us look i nto how far really it is telling on the values, right?  (Refer Slide Time: 5:50)  
+ 
+So, let us see that whatever has been told we have been said that for tubular heat exchanger the 
+given things are diameter of the tube is 15 millimeter is equals to 15 into  10 to the power minus 3 
+meter, right? Viscosity of the fluid or water mu w is 1.2 10 to the power minus 4 Pascal second, 
+right? And Reynolds number given is 5000, right? And density that is rho of water given is 1000, 
+right?  
+So, since it is a pipe flow, flow through the pipe we can use directly use that relation of N Re is 
+equals to D v rho by mu, right? So D is given as 15 10 to the power minus 3, v , we have to find 
+out, rho is given 1100, mu we have not 1100 it is 1000 and mu we have 1.2 10 to the power 
+minus 4 Pascal seconds, right? So , if that be true, then let us also take this that let us also take, 
+okay v is equal to of course these are all v average, v average is equals to then N Re is 5000 into 
+1.2 into 10 to the power minus 4 over 15 times 10 to th e power minus 3 times 1000, right? So , 
+this has gone there v is there v average is so.  
+So, let us look into how much it is, it is 5000 into 1.2 into 10 to the power minus 4 is so much 
+divided by 15 divided by 1000 divided by 10 to the power minus 3 it is 0 .04 meter per second, if 
+you remember when it was a juice to my memory it was much more than this, velocity was much 
+more than this it was not 0.04 somewhere it is at least 4, 5 times greater than that, right? So , just 
+check, okay. So , velocity has become so much and now let us look into the pressure drop, right?  
+Now , since it is not the laminar flow and the flow is turbulent 5000 turbulent so , we need to 
+apply  that relation where it is with the fanning friction factor. So , delta P is equal  to 4 f, right? 
+Rho L by D v square by 2 if we remember correctly v average by 2, so this was the fanning 
+friction factor, right? So , what we need from the fanning friction factor chart Moody’s chart that 
+if you remember that we had said N Re versus f, right? That was give n for different epsilon value 
+or epsilon by D these values where there and from the Moody's chart we can find out what is the 
+value of f, right?  
+Since we do not have here that Moody's chart let assume that corresponding to N Re equals to 
+5000, right? The values  of f of course we need to know the epsilon by D the value of f say it can  
+be 0.01, right? Let us assume it, then we can find out the value of delta P that 4 into 0.01 into rho 
+is 1000 into L, L was given 10 meter if I remember let us look into, righ t? 5015 millimeter 
+diameter of the tube same density this was, okay gap in the plates is so much, okay.  
+Then so it is 1000 into 10 meter over into v average, right? L by D, D is 15 into 10 to the power 
+minus 3, right? And this is 2 v average , v came out t o be 0.04 square, right? So , if we look at 
+this, then we can see that 0.04 v square so it is square into 10 into 1000 into 0.01 into 4 is equal 
+to divided by 15 divided by 2 divided by 10 to the power minus 3. So this came to be equal to 
+21.33 Pascal, righ t? And just check corresponding to this velocity delta P for the turbulent flo w 
+we have done for the laminar flow or intermediate when the flow is intermediate there we have 
+found out that what is the value of pressure drop and what is the value of velocit y. 
+Now , we have also found out of course the fluid is a different that is for water what is the value 
+for this, right? If there is a little time we will go back to the previous problem and do this same 
+for the pressure drop, because velocity for pipe flow will also more or less similar, okay. Now , 
+for tubular heat exchanger it was like that, for plate heat exchanger if we look at that value N Re 
+and this is case of course plate heat exchanger like the earlier one we say that this is the flow 
+through slit thi s is flow through pipe and this is flow through slit, right? Because the gap is very 
+small and it is moving through that, right?  
+So, for plate heat exchanger we can write that N Re is equals to 4 del v rho by mu, so it is 4 and 
+del same sorry del same 2 de l is 15 so del is 15 by 2 , i.e., 7.5 millimeter. So , we write 4 into 7.5 
+into 10 to the power minus 3 into v we have already found out that is to be, v we have to find out, okay , so v into rho is 1000 divided by mu is 1.2 into 10 to the power minus 4. Ther efore v 
+comes out to be NRe is 5000 into 1.2 into 10 to the power minus 4 divided by 4 into 7.5 into 10 to 
+the power minus 3 into 1000, right?  
+So, this comes out to be let us see how much it com es out, so , 5000 into 1.2, right, i nto 10 to the 
+power minus 4 divided by 4 divided by 7.5 divided by 1000 divided by 10 to the power minus 3 
+it is 0.02 it was in this case 0.04, in this case 0.02 meter per second, right? Now , the question 
+comes for the delta P, right? What will be the delta P, now if we see that de lta P through the slit 
+the expression for that it is again in this case this for the pipe it was assumed to be 0.01 now for 
+the slit let the value of f from of course N Re versus f corresponding to that we can get value of f 
+to be equals to say 0.015, right ?  
+So, if it is like that, then we had earlier assumed it is 0.01 so let us say it is 0.015, right? So , then 
+we get that delta P is equal to that 4 f rho, right? L by D v square average by 2, right? And this is 
+of course not 4 f this was for pipe, so for s lit we write 2 f rho v average square, right? L divided 
+by 2 into 2 del, right? So , this is what is for the flow through the slit. So , that comes to be 2 into 
+0.015, right , into 1000 into v average we have found out 3.02 into L was 10 and this is 2 into 2 
+del, 2 del is 15, right? So , 15 millimeter so 15 10 to the power minus 3, right?  
+Now , if we look at this value calculate it then it comes to be say 2 t imes 0.015 times 1000, right, 
+times 0.02 square times 10 is equal to this divided by 2 divided by 15 div ided by 10 to the power 
+minus 3, right? So , that comes to be 4, right? This is equal to 4 Pascal, right? So , here it was 
+again high, here it is low. Now I said that the two cases we have dealt with both for laminar as 
+well turbulent, but I said that if we look at the previous problem where it was laminar or not 
+laminar it was intermediate and in that intermediate the values of delta P and v what we got that 
+was for the that was for your juice apple juice if I remember, right?  
+Now , if we do the same for tur bulent one, for the apple juice let us look into how the value is 
+different, right? Let us look for turbulent how the value is different, let me open that this was the 
+problem, right?  (Refer Slide Time: 24:50)  
+ 
+So, instead of 3000, okay. Let us do for t he yeah, so , what we get that for turbulent flow for 
+tubular heat exchanger, right? N Re for apple juice apple sauce is equals to D v rho by mu and 
+Rho of fluid and D was we have to find out v so v is N Re mu over D rho, right?  
+So, NRe in this case 5000 mu it was 7 10 to the power minus 4, right? And D is D was 0.015 and 
+rho was 1100, right? So , if we see what is the value, right? It is 5000 into 7 into 10 to the power 
+minus 4 divided by 3.5 divided by 1100 it is 9 10 to the power minus  4 meter per second, right? 
+So velocity has gone down, right? So , 5000 when the Reynolds number is so high 5000 so this is 
+7 10 to the power minus 4, right? 0.015 and it is 1100 so 5000 into 17 rho minus 4 actually we 
+might have done something wrong let us  look into once again it was 7 10 to the power minus 4 
+viscosity, yes so the value should not go so low because Reynolds number has gone up so 5000 
+into 7 into 10 to the power minus 4, right? Divided by 0.015 is equal to divided by 1100, 0.1 that 
+is what n ot so this was wrong it is 0.12 meter per second, and if we look at what is the value? It 
+was 0.127 so velocity has gone up, right? Similarly if we look at the pressure drop delta P, delta 
+P was 4 f rho v square by 2 12 by D, right? And it was 4 f we took say, 0.01, right? Into 1100 
+into v we got 0.212 square by 2 into L was 10 and D is 0.015, right?  
+So if we look at that, then also we see this is 4 into 0.01 into 1100 into 0.212 square is equal to 
+this into 10 so much divided by 2 divided by 0.015 is equal  to 659, so it is 659 Pascal, okay 0.17 
+okay so 659 and if we look at what is the value for delta P, it was 126 Pascal. So that means 
+when from laminar flow or it was not laminar intermediate, so when it is like that from 
+intermediate to to the other one t hat is turbulent it went up the both the velocity and the pressure 
+drop went very high, right? Thank you.  

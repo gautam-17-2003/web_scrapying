@@ -1,0 +1,126 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 44  
+Module 9  
+Problems and solution of Non Newtonian fluid -Part -2  
+Okay, I hope you have tried with at home that problem which was given, right? And if you could 
+have solved it extremely well, but for all students who tried or could not do it for the benefit of 
+those students let us also do this in this class, right? So , let us s ee what has been given and what 
+we have to find out, right?  
+(Refer Slide Time: 0:58)  
+ 
+ 
+So, for that we read that problem , that two Non Newtonian fluids such as 50 percent 
+concentrated milk so milk we have been given 50 percent concentrated and having a d ensity of 
+rho is equals to 1030 kg per meter cube, right , applesauce having a density of 1100 kg per meter 
+cube, right? So let us write rho milk and rho apple, right , are being pumped through a pipe 
+having a diameter 10 meter 10 millimeter. So diameter of the pipe is 10 millimeter or is equals to 
+10 into 10 to the power minus 3 meter, right?  
+So, D is 10 into 10 to the power minus 3 meter, right? And the length of the pipe L is equal to 10 
+meter, consistency and flow behavior indices for applesauce are that  is consistency coefficient is 
+0.5 Pascal second to the power n and flow behavior index n is equal to 0.7, right? And for milk 
+this k say apple , n apple k milk is equal to 30 Pascal second to the power n and flow behavior 
+indices nm is 0.6 . Reynolds number  for the two cases are , Reynolds numbers are 500 and 5000 
+for both the liquids, so , NRe equals to 500 and 5000 for both the liquids. Calculate , the average 
+velocity, so , what we have to find out is v average , how much the pressure drop , delta P is how 
+much, right?  
+So, if we again read out, two Non Newtonian fluids such as 50 percent concentrated milk that is 
+one Non Newtonian fluid having density of 1030 kg per meter cube and applesauce having 
+density of 1100 kg per meter cube are being  pumped through a pipe having a diameter of 10 
+millimeter and length of 10 meter. Consistency and flow behavior indices for applesauce are 
+assumed to be 0.5 Pascal second to the power n and 0.7 and those of concentrated milk are 30 
+Pascal second to the pow er n and 0.6 respectively. If the Reynolds numbers are 500 and 5000 for 
+both the liquids, calculate the average velocities and pressure drops.  
+(Refer Slide Time: 5:22)  
+ 
+So, this we have to find out, right? Now if we do this , we have already writ ten it dow n that what 
+has been given and what we have to find out, right? And for first , let us try for concentrated milk , 
+the generalized coefficient of viscosity , gamma this is k to the power k prime 8 to the power n 
+prime minus 1, right? So , this is from the defi nition, now , if we substitute k prime n prime with k 
+and n, then we can write gamma is equal to k into 3 n plus 1 by 4 n to the power n and this is 8 to 
+the power 1 minus n, right? Because , this n prime minus 1 this can also be written as k prime 
+divided b y 8 to the power 1 minus n prime, right?  
+So, that is what exactly we have written here, so , we have k prime and k relation and n prime and 
+n relation , these two we have utilized which , we had given you earlier, right? So , it is in terms of 
+k 3 n plus 1 by  4 k into 3 n plus 1 by 4 to the power n 8 to the power 1 minus n. Now , given k for 
+milk, concentrated milk , it is k is equal to 30, right , into 3 n, n is given as 0.6, so , 3 into 0.6 plus 
+1, right , divided by 4 n 4 into 0.6, right , this to the power n that is 0.6 divided by 8 to the power 1 
+minus n 8 1 minus 0.6, right? So , now let us see how much it comes, so , it is 30 or 3 into 0.6 
+equal to so much plus 1 is equal to so much divided by 4 divided by 0.6 is equal to so much to 
+the power 0.6 is equal to so much into 30 is equal to so much divided by 8 to the power 1 minus 
+0.6 so much is equal to so much 14.32, right?  
+This is for gamma, right? Now , NRe general , this is given as 500 so , it is 14.32 Pascal second to the 
+power n, right? So , if N Re general  is given for 500, then we can write the average velocity , vaverage , 
+right? This is equal to N Re general , right , into gamma divided by D to the power n rho this to the 
+power 1 by 2 minus n, right? So , for that N Re general  is 500 into this gamma has been found  out to 
+be 14.32, right? D has been found out to be 10 millimeter , i.e., 10 into 10 to the power minus 3 
+whole to the power n, n is given as 0.6 and rho given is 1030, right?  
+So, this whole to the power 1 by 2 minus 0.6, right? So , let us also find out ho w much it is, right? 
+So, 500 into 14.32, right , is equal to so much divided by 10 into 10 to the power minus 3 that is 1 
+into 10 to the power minus 2 that is 10 to the power minus 2 minus 2 that is here plus minus 2 
+whole to the power 0.6 divided by 1030, so, x to the power 1 by 2 minus 0.8 1 divided by 2 
+minus 0.6 not 8 0.6 so 1.4 this much , so, should be this much 28.749 or 75 so , much meter per 
+second, right?  
+So, vaverage  for concentrated milk is 28.75, right? So , that is true, now let us also find out the delta 
+P, for this we have to also find out not only this delta P, right? So , delta P we can write , 32 
+gamma L by D v average by D to the power n, right , is equal to 32 into gamma we have found 
+out 14.32 into L by  D, right? L is 10 meter so into 10 divided by D is 10 millimeter , so, 1 into 10 
+to the power minus 2, right , into v average , we have just found out to be 28.75 over D is 1 10 to the 
+power minus 2 whole to the power 0.6 n, right? So , this comes equal to , let us look into that 
+28.75 divided by 10 to the power minus 2 whole to power 0.6 into this , is 10 by 10 to the power 
+minus 2, so , into 10 to the power minus 3, right , into 10 to the power 3 into 14.32 into 32 is equal 
+to 54484843, right?  
+So, this is equals  to 1, 2, 3, 4, 5, right? So , equals to 554.84 kilo Pascal, no this is 1, 2, 3, 4, 1, 2, 
+3, 4, 5 so , 554, so much Pascal, so , it is 554 and okay divided by bar so this we can write 55484 
+bar, right? Because , 1 bar is 101325 kilo Pascal or Pascal , so, that is roughly this 554.84 bar or is 
+equal 544 1, 2, 3, 1, 2, 3 so 54484 kilo Pascal, right? So , if we convert it into bar then it is around 
+554.84 bar, right?  (Refer Slide Time: 19:32)  
+ 
+ 
+Now , this is for milk , we also have to do the same thing for the applesauce, so , for applesauce 
+the same thing we have to do for 500 and 5000, so , for N Re general  is equal to 5000 , so, vaverage  is 
+equal to N Re general  gamma by D to the power n rho to the power 1 by 2 minus n, s o, this is equal 
+to 5000 into 14.32 divided by 10 or 1 into 10 to the power minus 2 to the power 0.6 into 1030 
+this becomes equal to 5000 into 14.32 divided by 1 into 10 to the power minus 2 to the power 
+minus 0.6, so , divided by 1 into 10 to the power min us 2 to the power 0.6 is equal to so much 
+divided by 1030 is equal to 1101.73, right? So much meter per second, right? 1101.3, we have 
+not done another thing , 11.01 this to the power 1 by 2 minus n that is we have to do 1 by 2 minus 
+n that is 1 by 2 minus 0.6, right? So , if we do this to the power , x to the power y to the power 1 
+divided by 2 minus 0.6, right? So , this is done this is done , so, this is equal to 148.9, so , this is 
+148.9 meter per second, okay.  
+So, delta P then that comes equal to, right , delta P that then comes equal to 32 gamma L by D 
+vaverage  by D to the power n, so that is equal to 32 gamma , we found out to be into 14.32, right , 
+into L, L was 10, right? And D was 1 into 10 to the power minus 2 or 11 0 millimeter into v average 
+is 148.9 by D is 1 10 to the power minus 2 to the power n, right? n is 0.6, right? So , if we do this 
+in the calculator , this becomes 148.9 divided by 10 to the power minus 2, right , whole to the 
+power 0.6, right , into this is minus 2 and this is 1 minus pl us 3, so , into 10 x to the power 3 into 
+14.32 is equal to into 32, right? 14160432 is equal to 14160430 , so much Pascal is equal to 
+14160.43 kilo Pascal is equal , sorry , 146160430.  
+So, this so much 1461 or 2 say , rounded of 1462 bar, right? So , this is wha t the delta P  is. Now , 
+we need to also find out this is for milk, so , for applesauce we can write that gamma is equal to k 
+into 3 n plus 1 by 4 n to the power n is equal to for applesauce we had , if you remember , we had 
+rho is 1100 , D remain s same, n remai ns same, k is 0.5 n is 0.7, right? So , k is 0.5 into 3 into 0.7 
+plus 1 by 4 into 0.7 to the power 0.7 this much equal s to we write 3 into 0.7 is equal to so much 
+plus 1 yeah equal to this divided by 4 into 0.7, right , is equal to this whole to the power 0. 7 is 
+equal to 1.07, so , earlier , it was 14. Now, it is 1.073 because , earlier value of k was 30 , now, the 
+value of k is 0.5.  
+So, if gamma is so much, so for given v general  NRe general  equal to 500 , so, vaverage  is equal to we can 
+write that 500 into 1.073 divided by 1 into 10 to the power minus 2 whole to the power 0.6 so 
+here it is 0.7 into 1100, right , 1100 whole to the power 1 by 2 minus 0.7, so , if we do it in 
+calculator , it becomes 500 into 1.073, right? So , much divided by 1100 is equals to so much , I 
+hope , we have done rightly divided by 10 to the power minus 2 to the power 0.7 equal to this 
+whole to the power 1 by 2 minus 0.7 43. So , 43.46 meter per second is the average velocity 
+which , was 28.75 for that , so, gamma value is less, there gamma value was more so , that is why 
+viscosity was less there and viscosity velocity is less there and velocity is more there, right?  
+This is for gamma and earlier gamma value was 28.75 so viscosity was viscosity was 28.75  
+gamma was 14.32, right? So , for 500 , this we have done, now delta P is equal to 32 into gamma, gamma is found out to be 1.073, right , into L by D is 10 by 1 into 10 to the power minus 2 into 
+vaverage  that is 43.46 divided by D that is 1 into 10 to the pow er minus 2 whole to the power 0.7, 
+right? So , this is equal to let us do quickly the this time is very short, so , 43.46 divided by 10 to 
+the power minus 2 , sorry , 43.46 divided by 10 x to the power 2 minus equal to this much to the 
+power 0.7 is this much i nto this 10 and this so 1000, right , into 1.073 can we additionally did 10, 
+so, into 32 is equal to 12089615.9 or 16 we can rounded of so much Pascal is 12089.616 kilo 
+Pascal is equal to 120.89 bar. So , one we have done for 500 both velocity and delta P so , you 
+please find out the velocity and delta P for 5000 N Re general , okay time is out thank you.  
+  

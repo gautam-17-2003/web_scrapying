@@ -1,0 +1,156 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology Kharagpur   
+Lecture 49  
+Module 10  
+Ergun’s equation -derivation (Part -2) 
+Now in the previous class we had a little summing up of the previous class . We started with 
+laminar flow and we started with the Hagen Poiseulle equation, right? And we ended up with 
+equation number 1 and then we also used , that was for laminar for the turbulent flow , that is  
+using the friction factor , and we had come up to another equation that was equation number 2, 
+right? And in one equation , we called it to be Blake Kozeny equation , which was for the laminar 
+flow, and another was for Burke Plummer and that was for the turb ulent flow, right?  
+And in both the cases,  of course from those equations , ultimately we came to the derivation or 
+relation , where we utilized the mass velocity G prime factor and then in terms of G prime , we 
+have come to one point with equation 1 and equa tion 2, right?  
+(Refer Slide Time: 1:49)  
+ 
+Now , let us start from there , what we can do, right? So , if we rewrite a little that delta P was 
+equal to for equation 1 , delta P was equal to 150 G prime square into delta L by phi s Dp over phi s 
+Dp rho v prime over 1 minus epsilon into mu into 1 minus epsilon by epsilon cube into 1 by rho . 
+This was equation 1 , and another was delta P equals to 1.75 G prime square into delta L by phi s 
+Dp into 1 minus epsilon over epsilon cube into 1 by rho . This we s aid to be equation 2.  
+Now , if we add these two equations , by adding equation 1 and 2 , what we get? We get delta P is 
+equal to 150 G prime square into delta L by phi s Dp over phi s Dp rho v prime over 1 minus 
+epsilon into mu, right , into 1 minus epsilon by e psilon cube into 1 by rho plus 1.75 G prime 
+square into delta L by phi s Dp into 1 minus epsilon by epsilon cube, right , into 1 by rho. So , these 
+two by adding , we get th is equation, I mean the full form, right?  
+Now , if we rewrite or rearrange this equatio n, then we can say that delta P , we can write this as 
+delta P into this v goes up, right? So , delta P into rho by G prime square, right? So , into G prime 
+square into phi s Dp over delta L into epsilon cube by 1 minus epsilon, right? This is equal to 150 
+divided by N Re, right? Plus 1.75, how? This , here only one thing , if you remember that in N Re 
+definition , we had said that , that was 4 by 6, now in 4 by 6 , if we neglect this term, then phi s Dp 
+rho v prime by 1 minus epsilon into mu is the D  v rho by mu , for the packed bed N Re, right?  
+For N Re in the packed bed , we had seen , it was 4 by 6, right? phi s Dp rho v prime over 1 minus 
+epsilon into mu , this was for N Re. Now , if we assume or neglect this 4 by 6, then , this term , we 
+can write to be equal to N Re, right? And this we have brought down to this side delta P, right? G 
+prime square in the denominator , phi s Dp in the numerator , delta L , in the denominator , this 
+epsilon cube by 1 minus epsilon here, right? So , this is equal to , and this was common , becau se 
+G prime square , which we could have taken in , rather , we should show you , otherwise , it maybe , 
+you have jumped the step.  (Refer Slide Time: 7:01)  
+ 
+So, our original was 150 G prime square, right? G prime square into delta L by phi s Dp by phi s 
+Dp rho v prime 1 minus epsilon into mu, right , 1 minus epsilon by epsilon cube into 1 by rho plus 
+1.75 G prime square delta L by phi s Dp 1 minus epsilon by epsilon cube into 1 by rho, right? So , 
+from there , if we take that common of G prime square , which is common in both the cases , delta 
+L by phi s Dp, right , into 1 minus epsilon by epsilon cube, right , into 1 by rho up to this , it is 
+common in both the cases, then it remains 150 over phi s Dp rho v prime divided by 1 minus 
+epsilon into mu plus 1.75, right? This is there we have taken this portion as common, right? We 
+have taken this portion as common like this, right? From this we have taken common, right? And 
+that has come , G prime square del ta L phi s Dp 1 minus epsilon by epsilon cube into 1 by rho . So, 
+remained 150 by phi s Dp rho v prime by 1 minus epsilon into mu plus here remained 1.75.  
+Now , if we divide and rearrange, then only we can write that delta P into or G prime square , let 
+us writ e this way G prime square, so , here it is phi s Dp by delta L , here it is epsilon cube by 1 
+minus epsilon, right? So , here it was delta P and this rho went up, right? So , delta P rho by G 
+prime square phi s Dp by delta L epsilon cube by 1 minus epsilon, so , this can be made equal to 
+150 divided by , now, we said , NRe by definition , we had said 4 by 6 phi s Dp rho v prime divided 
+by 1 minus epsilon into mu, right? If we just ignore that 4 by 6 , which  is roughly equal to 1, then , 
+we can say that this is nothing but N Re, so, 150 over N Re plus 1.75 , this is the relation, right?  
+So, in this relation what you see that one this side expression , this is epsilon cube one this side 
+expression delta P rho by G prime square phi s Dp by delt a L epsilon cube by 1 minus epsilon this 
+is equal to 150 by N Re plus 1.75, right? Now , you just think , this equation combination , when we 
+have done , this was done by one scientist , called Ergun , and the equation is known as Ergun’s 
+equation , this is known as Ergun’s equation . This was developed by adding that equation 1 and 
+equation 2 . This was done by Ergun and according to his name this is named as Ergun’s 
+equation , where both the equations 1 and 2 were added up.  
+Now , we will see one good t hing here that we said that Blake Kozeny equation was valid for N Re 
+less than 10 , and we also said that Burke Plummer equation is valid for N Re greater than 1000, 
+so, what about if N Re is within , less 10 and greater than 1000. Now , you see this Ergun’s 
+equation , when you are using both, right? The whole expression , you were using, right? Then 
+between 10 and 1000 , anywhere it is applicable , or even less than 10 , greater than 1000 also it is 
+applicable.  
+Only , the thing why it is applicable , because , you see w hen N Re is very small , for laminar N Re is 
+very small, so , if N Re is very small , less than 10, then , this value comes to be 15 , and this is 1.75. 
+So, compare d to this value 150 , 1.75 can be neglected, right? So , we write for N Re less than 10, 
+right? Delta P rho by G prime square into phi s Dp over delta L, right , epsilon cube over 1 minus 
+epsilon this can be written as 150 over 10 , if it is less than 10 , maximum 10 , so, let us take it to 
+be maximum , so, less than 10 , plus 1.75 , so, this is 15 plus 1.75.  
+So, compared to 15 , 1.75 is negligible, right? So , for laminar flow we can neglect the second 
+term 1.75 . So, this expression , then comes to be delta P rho by G prime square into phi s Dp by 
+delta L into epsilon cube by 1 minus epsil on this is equal to 150 over N Re, and we neglect the 
+term 1.75, right? Then , this is valid for N Re less than 10, right? Now , what about the other case?  (Refer Slide Time: 15:24)  
+ 
+The other case is that when N Re is greater than 10 our expression , Ergun’s  equation was delta P 
+rho by G prime square phi s Dp by delta L epsilon cube by 1 minus epsilon , this is equal to 150 
+over N Re plus 1.75. So , we have already shown , when N Re is less than 10 , what is the effect . So, 
+we can come back to the Blake Kozeny equat ion, from the Ergun’s equation, Ergun’s equation 
+was that by neglecting the second term 1.75 , because , compare d to 150 by N Re, this value when 
+NRe is very low , this 1.75 can be neglected because this term is high.  
+So, our equation comes to delta P rho by G prime square phi s Dp by delta L epsilon cube by 1 
+minus epsilon 150 by N Re, right? That was valid for N Re less than 10 , and this , we know as this 
+equation to be Blake Kozeny, right? So , this is Blake Kozeny equation , which we have seen. 
+Now , for the other one , when N Re is very high greater than 1000, right? If N Re, for N Re greater 
+than 1000, what we can say? We can say that when N Re is greater than 1000, then delta P rho by 
+G prime square phi s Dp by delta L, right , into epsilon cube by 1 minus epsilon, right? This is 
+equal to 150 by 1000 plus 1.75.  
+So, that means , this is 150 by 1000 that is 0.15 plus 1.75 . So, compare d to 1.75 0.15 is very low, 
+is not it? So , it is 1 10th of that , it is compared to 1.75 , 0.15 is very  low, 0.15 or less than that as 
+the N Re value will be 1000 or greater than that. So , when it is 1000 or greater than that , then it 
+will be less than 0.15 or lower value and we can say that 1.75 is much , much , higher than that 
+point 1 .75, when N Re value is greater than 1000. So , we can say that compared to 1.75 if we 
+neglect this 0.15, then the equation comes down to delta P rho by G prime square into phi s Dp by 
+delta L into epsilon cube by 1 minus epsilon, right? This is equal to 1.75, right? And this is , we 
+have seen to be known as Burke Plummer equation, right? So , from our equation , which we have 
+said to be Ergun’s equation , we can come down to Burke Plummer equation , or we can go back 
+to Blake Kozeny equation, right?  
+This fundamental thing , if we keep in mind, then keeping or remembering the equation , because 
+this equation is very helpful , particularly that Ergun’s equation is very , very, helpful for finding 
+out delta P , in any packed bed situation, right? So , for packed bed , we have seen an d we can 
+establish that Ergun’s equation can predict both for less than 10 N Re or N Re greater than 1000 or 
+if the N Re value lies in between 10 and 1000 , then also we can utilize that, right?  
+This we have established and we have seen, right? So , Burke Plum mer and Blake Kozeny , these 
+two equations , on combination gives us that Blake Kozeny , and rather Ergun’s equation and 
+from Ergun’s equation , we can also find out the other one , that is by neglecting the two terms , 
+we got, right? One expression equal to one  term, plus another , so, neglecting , one we get the one 
+which is for less than 10 N Re or lower value , for laminar flow that we can see and we can neglect 
+the other non significant  term, 1.75 compared to that , and compared  to the higher term , 1.75 was 
+low for laminar flow , so, we neglect it , 1.75, and for turbulent flow , compared to 1.75 , this was 
+very low , that is that factor by N Re 150 by N Re was very low , so, neglected that N Re term in that 
+and we came back to the Burke Plummer equation, ri ght?                                              
+So, if we remember this way that delta P rho by G square this is on e term and the non 
+dimensional term is phi s Dp, delta L, so , phi s Dp by delta L another term and third one is the how 
+much void fraction, r ight? So , epsilon cube by 1 minus epsilon is the third term , if we remember 
+this way, right? So , this was equal to 150 over N Re in general for Ergun’s equation plus 1.75, 
+right? So , this we ca n easily say that this 150 by N Re when we take this, then it is Blake Kozeny 
+and when we neglect this 150 by N Re then it is Burke Plummer.  
+And when we do not neglect both of them, then it becomes Ergun’s equation, right? So , if we 
+have also shown that these three can be derived , this expr ession we have derived, right? So , we 
+can say that from the very basic , that is the equation for , we have said that from the equation , 
+which was for pipe flow , that is for that Hagen Poiseulle, right? From the Hagen Poiseulle’s equation we have derived tha t Blake Kozeny equation and we said that , this is valid for less than 
+10 N Re, right? We also showed from the other that is when the flow is laminar , but the flow is 
+turbulent, then we started with , not from Hagen Poiseulle , but from the frictional pressure  factor 
+relation , that delta P 4 f, right?   
+4 f rho L v square L by D , v square by 2 , that this relation , we had started with , and from there 
+we came back to Burke Plummer , and that was valid for N Re greater than 1000. Then , the 
+question came when N Re is less than 10 , we have an expression  for predicting delta P. When N Re 
+is greater than 1000 , we have an expression , for predicting delta P, right? But , how to express the 
+pressure drop relation , when N Re is between 10 and 1000 , i.e., neither it is laminar nor it is 
+turbulent in between , i.e., in transition zone what can be done.  
+So, there we have shown that this also can be done when N Re is less than 10, greater than 1000 , 
+or in between , with the help of another equation , that was dev eloped by adding these two 
+equations , and then rearranging , of course that rearrangement was done by them , and ultimately 
+they landed up with these parameters , or these expressions , as delta P rho by G prime square this 
+is one, phis s Dp by delta L this is another and epsilon cube by 1 minus epsilon, right?  
+So, we have to keep in mind one , is pressure drop, density and mass velocity these three factor in  
+one block  then, the sphericity then particle size and the length of the bed , and third one is the 
+voids fraction. So , in this way these three terms , was connected with 150 by N Re plus 1.75 as the 
+Ergun’s equation. So , when we neglected the second term we came to the first that is laminar and 
+when we neglected the first we came bac k to the turbulent.  
+So when it was in between, then the Ergun’s equation also can be used using both of them. Say 
+NRe is greater than 10, but less than 1000 , say 500, so , in that 500 , it becomes 150 by 500 plus 
+1.75, right? So , it is what? This goes down a nd this 15 , so, it is roughly , one third , i.e., 0.33. So , 
+0.33 or 0.34 say, say , 0.4, roughly , so 0.4 , and 1.75 , they are not so big, it is three four times 
+only, right? So , in that case it cannot be neglected, so , that is why these two lies between when 
+NRe is less than 10 or greater than 1000 , both, or in between , that entire thing can be used by this 
+Ergun’s equations, right? So , today let us stop it here, thank you.                                

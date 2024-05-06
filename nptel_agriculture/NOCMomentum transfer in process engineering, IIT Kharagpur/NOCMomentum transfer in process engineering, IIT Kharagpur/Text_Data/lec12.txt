@@ -1,0 +1,158 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 12
+Module 3
+Application of Navier Stoke’s equation for finding out viscosity (Part 3) 
+You remember that, we have been doing this combination of boundary conditions, and also the
+implication of the different conditions of the cylinders. We have two cylinders, one is fixed, and
+other is rotating, right? So, under that situation, what will happen, that we are observing, right? 
+(Refer Slide Time: 1:04)
+And,  you  can  also  try  with  this,  that,  let  us  see  the  problem  was  like  this  that,  in  an
+incompressible fluid is flowing between two vertical coaxial cylinders and the inner one is
+rotating with an angular velocity omega, determine the velocity for the tangential laminar flow.
+So, repeat, if an incompressible fluid is flowing between two vertical coaxial cylinders and the
+inner one is rotating with an angular velocity omega, determine the velocity for the tangential
+laminar flow, right? (Refer Slide Time: 1:46)
+So, as usual, we have seen that the flow is steady, then the flow is laminar and the fluid is
+incompressible. These are the three given conditions, of course, the others like that flow is fully
+developed. There is no end effect. All these are also there, right? Then, we said that, we have two
+coaxial cylinders like this, right? And the inner cylinder is rotating with an angular velocity
+omega, right? Of course, since, doing it on the computer online, omega writing is little difficult,
+in many cases earlier also we have replaced this omega with w, right? 
+So that, you change or you keep in your mind and the outer one is fixed or not rotating, right? (Refer Slide Time: 3:57)
+So, outer cylinder is fixed, or, we can say that, this is fixed, okay. So, like this that outer cylinder
+is stationary and inner cylinder is rotating and there is a velocity profile within as it is v theta is a
+function of r, right? And, in earlier case, if you remember, we have done this problem with inner
+one is R and outer one is kR. Now, if we do the reverse, that the inner one is kR and the outer
+one is R, so, what will be the change in the expression, right? So, that is our fundamental thing
+which we are repeatedly showing you. So, there you have all sort of problem solved.
+So, it can have, four combinations, one inner cylinder fixed, outer cylinder rotating in two
+conditions  inner cylinder  fixed outer cylinder  rotating,  there  inner  cylinder  is  R  and outer
+cylinder is kR or inner cylinder is kR and outer cylinder is R, or inner cylinder is rotating and
+outer cylinder is stationary. Again, there with inner cylinder R and outer cylinder kR, or, inner
+cylinder kR, and outer cylinder R. In all the four cases, you can see the expression for the
+velocity is all to be the different, right? That thing we have to do.
+So, of course, this thing I am doing it online, because earlier I have also not checked it, what will
+be the final expression, hopefully, we will not do anything wrong, and if there be then you please
+bring to my notice, when you will go through and we will also have it counter checked. But,
+hopefully, we will proceed in the right way as we are proceeding, and this we will be doing
+online. So, when, we are doing  it, then  from the  Navier-Stokes  equations,  from the  given
+problem, again we can write that v r is equal to vz is equals to 0, this is 1, and del v theta del theta is
+equal to 0, that is there is no velocity component in the theta direction, there is no change invelocity vtheta in the theta direction, that is why del v theta del theta 0. Why we kept it like that?
+Because, we said that the velocity is laminar, right? 
+So, flow is laminar, so, if the flow is laminar, so, there will be no rippling, there will be no
+mixing, all these will not be there. So, there will be no velocity component in the theta direction
+in the z direction also, right? So, v theta is a function of r only like this, right? v theta is a function of r.
+So, if that be true, if this is be true, then as usual, as we have done in earlier cases, so, from the
+first equation of Navier-Stokes equations, first we can write minus rho v theta square by r this is
+equal to minus del p del r, right? 
+This is equation number 1, then similarly we can write on the other, i.e., 0 is equal to del del r of
+1 by r del del r of r v theta, right? So, this, we have done earlier also, second, and the third one are 0
+is equal to del p del z with negative plus rho g z, right? And, as usual we have done in the earlier
+cases  also  that,  we  need  one  unknown that  is  v theta, so,  one  equation  is  good enough  and
+obviously, we also said that the equation, out of the three, which one you will pick up.
+So, depending on which variable you were solving, in this case it is the tangential velocity, so the
+velocity component, we will be taking. Had it been that pressure, then we would have taken
+some other, we would have taken some other variable. So, in this case, it is said that we have to
+find out the tangential laminar velocity, what it is, right? So, one unknown so one equation is
+good enough to solve this, out of these three equations. So, which, what, we pick up? The one,
+which will obviously lead to the solution, that, in this case, as you see, out of all these three
+equations, the second one has the velocity component.
+So, vtheta in the first one is also there, but there pressure terms are also there. So, the equation is
+little complicated and obviously with that, we until some other conditions are same, we are not
+able to find out, because del p del r, until we know, we cannot say what is the v theta and del p del r
+is not spelt out here, right? So, in cases when del p del r will be spelt out, that, this is that, then,
+you can also try with that, or, if you have to find out, given the velocity profile, what is the del p
+del r, you can also find out from there. So, depending on the problem, which you are solving or,
+which you are handling, right? (Refer Slide Time: 11:21)
+So, here we, then, again, take this second sub equation, and that second equation is 0 is equal to
+del del r of 1 by r del del r of r v theta and this, if we solve, we get on first integration, we get 1 by r
+del del r of r vtheta, right? And, this is equal to integral constant A, which on rearrangement, we
+can write del del r of r v theta is equal to A r, and on second integration we can write this as, r v theta
+is equal to A r square by 2 plus new integration constant B. So, which on simplification we can
+write, vtheta is equal to A r by 2 plus B by r, right? 
+(Refer Slide Time: 12:57)
+So, this we take as equation “A”, right? So we are then taking as equation “A” as v theta is equal to
+A r by 2 plus B by r, right? Now, the boundary condition is required. So, this is the outer, this is
+the inner, this is the center, so, we said that the inner radius is kR and the outer radius is R, right?
+If, inner radius is kR, and outer radius is R, and we said that, this inner one is rotating with an
+angular velocity of omega and outer one is stationary, right? Then, sorry, then, the boundary
+condition we can write that, boundary condition 1 is the outer one is fixed, right? 
+So, that means, vtheta is equal to 0, right? That, you remember, we said that, the fluid which is
+clinging to the surface, if the surface is moving then the fluid is also moving. But, if the surface
+is at rest, or in stationary condition, then the velocity at that surface is 0, right? So, this is what
+we said during clinging, right? It is called clinging on the stationary surface. So, the velocity
+component there also is stationary.
+So, that is why vtheta is 0 and vtheta  is 0, when at r is equal to capital R, right? This is boundary 1,
+and boundary 2, we can write v theta is equal to omega kR, right? Omega kR at r is equal to kR,
+right? So, if these are, the two boundaries then, we can substitute them in this equation which we
+wrote as to be equal to say A. Then, from equation “A”, we can write that v theta is equal to 0. So, 0
+is equal to at R. So, AR by 2 plus B by r, right? From there, we can simplify, AR by 2 is equal to
+B by r, right? With a negative or we can write A is equal to minus 2 B divided by r square, right?
+A is equal to minus 2 B by r square. 
+So, this is A, we write it to be equation “B”, right? Then, from the second boundary this was
+probably first boundary, so, from the second boundary, we write v theta is omega kR at r is equal to
+kR. So, vtheta is omega kR at r is equal to kR.  So, A kR by 2 plus B by kR. Now, A we havealready found out is to be minus 2 B by r square. So, we can write, this to be A equal to minus 2
+B by r square. So, 2 B by r square into kR by 2 plus B by kR is equal to omega kR.
+So, this we can simplify by taking B as common. So, B, if we take common, then we get this r
+square this r that goes out. So, this 2 and this 2 goes out. So, we get k by r, right? Now, is there
+any negative problem? Yes, A is equal to minus of that, so, it was A minus, right? So, minus there
+was in “A”. This A is minus 2 B by r square so when you substitute A, so, it is minus 2 B by r
+square into kR. So, this we write with the second bracket, then, it becomes confusion less or no
+confusion, rather.
+So, B if we take common then r square r goes out, 2, 2 goes out, then it remains B,  k by r minus
+plus B has been taken out, 1 by kR, right? So, this on simplification, we can write B into 1 by kR
+minus k by r, right? So, this on again further simplification, we can write, this kR. So, 1 minus
+this is k, so, k square, right? Therefore, B becomes equal to omega kR into kR by 1 minus k
+square, right? So, that we can write, this is equal to omega kR whole square over 1 minus k
+square, right?
+(Refer Slide Time: 20:10)
+So, this on substitution, we can write that v theta, which was here, v theta is equal to A R by 2 plus B
+by r. Now, substituting the values of A and B, now, of course B has become this, then, so, this is
+“C”. Then, we should also find out what is the value of A. A becomes equal to minus 2 by r
+square into this omega kR whole square divided by 1 minus k square, right? So, this, again we
+can write that this r square this r square goes out, right? This 2 remains, so, 2 omega k square
+divided by instead of 1 minus k square we can write k square minus 1.
+So, A is 2 omega k square by k square minus 1. So, here if we substitute, we can write, this to be
+2 omega k square divided by k square minus 1. Here, it was 2 into r plus B. We found out to be
+omega kR square kR whole square divided by 1 minus k square, right? And this divided by r,
+right? So this is what we got, right? Now, on further simplification, we can write this 2 this 2
+goes out, as omega k square r divided by k square minus 1, right? Minus this, we can write
+omega k square R square, right? Divided by k square minus 1 into r, right?
+Which, on further simplification, if we want to simplify, we can write, in the denominator k
+square minus 1 into r, right? So, this becomes omega k square r square minus this becomes
+omega k square R square, right? So this on simplification, can be written omega k square
+common, then r square minus R square divided by k square minus 1 into r. So, v theta is equal to
+omega k square r square minus R square divided by k square minus 1 into r, right? 
+So, this, we can do, right? So, v theta, we have done. Now let us look into that what changes we
+need on this. Now, here, if we look at that boundary condition is a little different because here we
+have done the boundary condition that v theta is equal to 0 at r is equal to R, right? 
+(Refer Slide Time: 24:40)So, instead of that, we write here v theta is equal to 0 at r is equal to R and v theta is omega kR. So,
+here, it is omega kR, right? And at r is equal to there it is kR, right? Then, we can write that in
+the first case 0 is equal to AR by 2, so, AR by 2 is equal to minus B by r, that is AR by 2, right?
+Minus AR by 2, sorry, this is, let it remain, plus so undo B by R, right? 
+This is for first case, second case we have written omega kR is equal to AkR by 2 plus B by kR,
+right? So, we have done this one correct. Then it becomes, how much? I think this we should
+remove and say, okay. Since, A is there, so, we can say that A is equal to minus 2B by r square.
+So, let us re-write minus 2 capital B by R square. So, instead of this, let us write it to be R
+square, right? So minus 2B, so, let us make one bracket here and hopefully, no, this is not taken.
+So, let us make it normal so A is equal to minus 2B by R square, right?And also we got B is equal to omega kR whole square by 1 minus k square. But, there is no
+negative in this, right? So, if that be true, then ultimately we got v theta is equal to let us re-write
+this, this became equal to v theta, then became equal to, hopefully, yeah, here, it is omega k square,
+so, omega we are writing as we said that small w. If, for easy doing it, omega k square so that we
+have done omega k square into r square minus R into r square, not, r square minus capital R
+square. So, we write it like this, capital R square divided by, so, this bracket closed divided by k
+square minus r square.
+So, to write it, we write it this, like this k, k square, right? k square minus 1 into r. So, this we
+write in third bracket, here also in third bracket, so v theta is omega k square into r square minus
+capital R square by k square minus 1 into r. So, we have done all the four cases, that all r’s are
+changing or inner and outer radii are changing and also inner and outer cylinder conditions are
+also changing, either outer cylinder is fixed, inner is moving or rotating, or inner is fixed and
+outer is rotating or moving, right? 
+So, this way you try to solve as many problems you come across and then find out the solution,
+okay. So this way, we then complete, rest of the things, of course, we are not required. So, we
+close it here today, thank you. 
+ 
+ 

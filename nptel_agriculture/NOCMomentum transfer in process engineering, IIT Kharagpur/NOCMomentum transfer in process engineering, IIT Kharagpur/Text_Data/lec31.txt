@@ -1,0 +1,161 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 31
+Module 7
+Sonic velocity
+Now, we come to another very important topic, right? You remember, the day we were seeing
+compressible fluid flow, and flow through nozzle, we had said that, you are whistling, phuu like
+that, right? So, when you are whistling, there is a sound, when there is a pressure cooker, there is
+a sound, when aero plane is moving, there is a sound, but, I do not know whether you are staying
+near to any airport area or not, we have nearby one, so, we also hear in many days that there is a
+sound, boom, that boom sound, is not because of the aero plane, on movement of the aero plane,
+it is that, of course, it is movement of the aero plane, but that booming is because of that from
+that one phase top another phase of the sound it was crossing, or coming up or down.
+So, because of that this booming happens, right? So, that means, when we are talking, when we
+are listening any sound, then, that sound, unless it is some mechanical, or some other, in normal,
+if it is with a fluid, then definitely, that fluid has to undergo a velocity, which is known as sonic
+velocity, right, i.e., the velocity of sound. Now, you also know that, in the whole universe, there
+are so many things every now and then happening, but from the earth, you are not listening
+anything, why? Because, for the propagation of the sound, of course this you have come across
+in higher secondary, also in first year, or some other classes, or from general knowledge, you
+have upgraded yourself.
+Then, you have seen that, this velocity of sound, or the sound what is propagating, it depends on
+the medium, right? That is why, when you are swimming in deep, and if somebody is shouting,
+you listen one sound with much lower intensity, whereas, the same thing, when you are not
+swimming, you are on the bank, then, you are hearing a proper sound, right? So, far we have
+talked about proper sound means, when it is in the air, right, when the medium is air. So, same is
+happening, if you are in the vacuum, under some vacuum level, and then, if you are hearing, you
+will find that distortion of the sound, right? 
+So, this is because, the propagation of the sound needs some medium, and in all our normal
+cases, the medium is air, right? And, that is why in the universe, where things are happening, we
+do not receive any sound, only because, there is no medium from there to bring to the earth, andthen we can hear, right? So, whatever is happening on the periphery of the earth, we are hearing,
+but, not beyond that till the atmosphere is there, right? 
+(Refer Slide Time: 4:10)
+So, that we will do, we will discuss today, that is the sonic velocity is the velocity of sound v, e, l
+sorry v, l, o, right? So, velocity of sound by definition, velocity of sound in air is defined as v s, is
+equal to under root k by rho, where k is the bulk modulus of air, right? And, this bulk modulus of
+air, k is defined as, delta p over delta V by V, i.e., change in pressure, or change in volume per
+unit volume, i.e., delta p by delta v by v, so, this is specific, this is specific volume.
+So, change in specific volume per unit volume of the air for a change in pressure, right? So, this
+is the specific volume, so, if delta p over delta V by V is k, then, we can write this is equal to
+negative of delta p over delta V by V, why negative? The negative term is because that with the
+change in delta V per unit volume V, per unit specific volume. Obviously, it is decreasing with
+the increase of the pressure, right? So, that is why the negative value is there. So, change in this
+is decreasing as delta p is increasing, right? So, that is why this negative indicates that. So, this
+means, we can also write that, this is nothing but dp over delta V by V. So, 1 by V can be written
+as rho, and this is dV, right? Now, we know that V is equal to 1 by rho, right? Or, we can also
+write that dV d rho, this is nothing but minus 1 by rho square, right? 
+So, we can write that dV is equal to minus d rho over rho square, right? So, now, if we substitute
+this value into the value of k, then we can write that this is dp over rho dV, so, rho, we have seen
+that is nothing but 1 by V or let us write it to be rho, and this is rho dV, right? dV, we have
+already changed in the form of d rho and here, we had of course, one negative, which you havenot given. So, this negative should have been, because, here it was there, so, there it is there. So,
+this negative, and this negative, or let us write rather, otherwise, there is a chance of mistake.
+So, rho into dV, dV is nothing but minus d rho over rho square, right? So, this means, this is dp
+over this negative, this negative goes off, and this square, this square goes off, so, d rho over rho,
+right? So, that means, it is nothing, but equal to rho dp over d rho, right? So, we can write, k by
+rho is equal to dp over d rho, right? So, if that is true, then, we can also write that v s is nothing
+but, it was k by rho, so, that can be written as under root dp over d rho. So, velocity of sound can
+be expressed, then, in terms of dp over d rho, dp is the change in pressure, d rho is the change in
+density, corresponding to change in density, right? This is under root.
+This we defined as the velocity of sound, right?
+(Refer Slide Time: 10:35)
+Now, if we look at the other relation, sorry, if we look at the other relation, that for adiabatic
+process, we know pv gamma is equal to constant, right? Or, we also can write that p is equal to c
+into v to the power minus gamma, because, this comes down, or v is equal to c by v to the power
+gamma, so, p is equal to c into v to the power minus gamma, right? Or, this can also be written in
+terms of rho as c rho to the power gamma because V is equal to 1 by rho, right? So, V is equal to
+1 by rho, so, we can write that c rho to the power gamma, right? 
+So, we can write our dp is equal to our dp over d rho, this is equal to gamma c rho to the power
+gamma minus 1, right? So, this is nothing but, gamma p V to the power gamma rho to the power
+gamma minus 1, right? Because, we have substituted c as pV gamma, right? So, this we can
+write, is equal to gamma p rho to the power gamma minus 1 over rho to the power gamma, right?So, if that be true, so, this is rho to the power gamma, so, minus gamma plus gamma, it goes out,
+so, it becomes rho to the power minus 1, so, gamma p by rho, right? 
+So, this becomes gamma p by rho. Now, we have seen earlier that, velocity of sound v s was
+nothing but under root dp over d rho So, now, dp over d rho, we have found out to be gamma p
+by rho. So, velocity of sound, we can write as nothing but equal to gamma p by rho, right? So,
+velocity of sound is gamma p by rho, right? Then, now, if we define a new number, which, we
+have not come across  till now, i.e., called, Mach number. So, if possible, someday, I will
+introduce this kind of legendary people, who have done a lot, in the science of fluid flow. So, at
+least if I can collect their photographs, and names, so that really, they are remembered, whenever
+you are studying fluid flow, right? So, they have done at least century back, or even earlier, they
+have done a lot, when the facility was not so much, but they have done lots of miracle.
+So, hope that, they also should be remembered, or they also should be known, very little if
+possible, if time permits, someday I will try to make, that may be, not whole class, but a little, so
+that we come across. However, one such similar scientist was Mach, and in his name, this
+number is written as Mach number, right? This is MACH, Mach, and the number is called Mach
+number, like Reynolds number, this is written N Ma, right? This Mach number is defined as the
+velocity of sound in the medium that is v, over velocity of sound in that, right? 
+So, this is the dimensionless velocity of that particular thing over velocity of sound, right? So,
+this is v over vs, right? Now, if it is under nozzle, because, our concern is on the nozzle, we
+started with nozzle flow, we are still continuing, so, if we look at the nozzle, we said that tip
+velocity of the nozzle is v 0. So, we can write it to be v 0 over vs, where, v0 is the tip velocity of the
+nozzle, right? So, if we write, then, we can say, Mach number is v 0 by vs, right? And, then, we
+can write this v0, that is the tip velocity, equals to nothing but Mach number, N Ma into vs, right? 
+Now, NMa ,vs, already we have found out, is gamma p by rho under root, which, can also be
+rewritten in terms of V, specific volume as under root, this is p, this was gamma p, so, not rho, p
+gamma p by rho. So, this we can write gamma into this corresponding to this rho is the tip
+velocity corresponding rho, so, gamma rho okay, gamma p by, let us write here gamma p by first
+rho0, then is equal to N Ma gamma p into this rho 0 that is V0, right? 
+So gamma p and this p is also corresponding to the p at the tip, so we can also write it to be,
+gamma p0 by rho0, right? So, the Mach number, velocity at the tip v 0 is NMa under root gamma p 0
+V0, right? Or, we can also write v 0 square is equal to N Ma, Mach number square, into gamma p 0V0, right? So, this is velocity at the tip and this is N Ma square gamma p0 V0, right? So, if we know
+this, and we already have found out, what is the velocity at the tip, if you remember that, that
+was 2 gamma p by gamma minus 1 into rho into 1 minus p 0 by p to the power gamma minus 1 by
+gamma whole under root, if we remember.
+(Refer Slide Time: 19:29)
+So, you can substitute that value of v here, right? So, substituting that value of v here, we can
+write that value of v 0, so v0, which, we have already found out to be equal to v 0 equal to under
+root 2 gamma p by gamma minus 1 into rho into 1 minus p 0 by p to the power gamma minus 1
+by gamma this under root, right? So, we can write, from this previous expression that, N Ma square
+into gamma p0 V0, this was equal to v 0 square, right? So, this on substitution of v 0, we can write
+is equal to 2 gamma p by gamma minus 1 into rho, right, into 1 minus p 0 over p to the power
+gamma minus 1 by gamma, right? 
+So, this is NMa square, now if we divide N Ma square, if we divide both side with gamma p 0 V0,
+then, we can write 2 gamma p over gamma p 0 V0 into gamma minus 1 into rho into 1 minus p 0 by
+p to the power gamma minus 1 over gamma, right? Then, this we can write again, equal to 2 pV,
+because this rho, we can take it to the top, 2, and this gamma this gamma goes out, so, 2 pV by p 0
+V0 into gamma minus 1, this times 1 minus p 0 by p to the power gamma minus 1 by gamma,
+right? 
+Now, this pV by p0 V0, this we can again segregate, like, 2 by gamma minus 1, so, p by p 0, 1 V
+by V0, another into 1 minus p 0 over p to the power gamma minus 1 by gamma, right? So, this
+again, we can write 2 by gamma minus 1, right? p 0 by p is okay, let it remain, or p by p 0, it was pby p0, and this V by V0 is nothing but p0 by p to the power 1 by gamma p 0 by p to the power 1 by
+gamma, because, we know pV gamma is equal to constant, or pV is equals to p 0 v0, right? 
+So, pV gamma is equal to constant or pV gamma is equal to p 0 V0 gamma, right? So, we can
+write p by p0 is equal to V0 by V to the power gamma or p 0 by p is equal to V0 by V to the power
+minus gamma, right? This is 1 by gamma because, that is inverted, right? So, V 0 by V, V by V0,
+sorry, this is then V by V 0, p by p0 is, so, p by p0 is V0 by v to the power gamma, fine, so, that can
+be written as V by V 0, that can be written as, V by V 0, right, to the power 1 by gamma p by p 0,
+okay.
+Then, so p by p0 is V0 by V to the power gamma and p 0 by and here we have V by V 0, right?
+Here, we have here V by V 0, so V by V0, we can write, equals to p 0 by p, right, okay. So, V 0 by V
+to the power gamma or, is equal to V by V 0 to the power 1 by gamma, right? p by p 0 is so much,
+so, it is p0 by p to the power 1 by gamma, is V by V 0, right? p by p0 remains, p0 by p, okay, that
+this is from here, we can write this that p 0 by p is equal to V by V 0, to the power 1 by gamma that
+is there.
+So, we write p0 by p to the power 1 by gamma p by p 0, this is equal to, not equal to, into, sorry,
+into 1 minus p0 by p to the power gamma minus 1 by gamma, right? So, we can, then, write, this
+we can then, take it inside, p 0 by p, right? p by p 0 it was in the inside, p 0 by p, okay, so, p0 by p
+gamma minus 1 by gamma, right? And if we put 1 by gamma inside p 0 by p, we can write 2 by
+gamma minus 1, this into p 0 by p to the power 1 by gamma into, if we take it inside, right? p by
+p0, if we take it inside, then this is, if we take it inside, then, p by p 0, we can write, 1 minus
+gamma 1 minus p0 by p to the power gamma minus 1 by gamma, and here, we also had this, p 0
+by p to the power 1 by gamma, right? 
+(Refer Slide Time: 28:28)So, rather, let us rewrite here, N Ma square is equal to 2 by gamma minus 1, right, and, p by p 0 into
+p0 by p to the power 1 by gamma into 1 minus p 0 by p to the power gamma minus 1 by gamma,
+right? So, this is equal to 2 by gamma minus 1, so, this is 1 by, inverse, right? p 0 by p and 1 by
+gamma, so, this is 1 by gamma minus 1. So, it comes, p 0 by p to the power 1 by gamma minus 1,
+right, into 1 minus p 0 by p to the power gamma minus 1 by gamma, right? 
+So, if we take it inside, then, we can write that, N Ma square is equal to 2 by gamma minus 1,
+right, into, if we multiply this, p 0 by p inside, then it becomes, p 0 by p to the power 1 by gamma
+minus 1 by gamma minus 1, i.e., 1 minus gamma by gamma and, minus, this was, p 0 by p to the
+power gamma minus 1 by gamma, and this is p 0 by p to the power 1 by gamma minus 1, i.e., 1
+by gamma minus 1 plus gamma minus 1 by gamma is equal to gamma. So, 1 minus gamma plus
+gamma minus 1, right? So, it becomes then, gamma, gamma goes out, this 1, 1 goes out, then it
+becomes equal to 1, right? 
+So, p0 by p that goes out, this becomes equal to 1. So, p 0 by p to the power 0, so, that becomes 1,
+so, this is equal to 2 by gamma minus 1, right, into p 0 by p to the power 1 minus gamma by
+gamma minus 1, right? So, this is what we get, and subsequently, I think our time is up, so in the
+next class, we will do that, from here, what could be the relation between Mach number and the
+velocity, right? Thank you. 

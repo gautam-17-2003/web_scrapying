@@ -1,0 +1,150 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 41  
+Module 9  
+Velocity profile for Non Newtonian fluid  
+Hello, you remember in the last class we were discussing about the Non Newtonian fluid, right? 
+And we had also developed velocity at any instance the expression for the velocity that we had 
+done, right?  
+(Refer Slide Time: 1:03)  
+ 
+Now , if we go to that, ye ah, this we had developed that velocity was at any instance , v was delta 
+p, right , by 2kL, right , to the power 1 by n, right , r to the power 1 by n plus 1 divided by 1 by n 
+plus 1 within that limit of r to R , and this was n by n plus 1, right , into delta p  by 2kL to the 
+power 1 by n and R to the power n plus 1 by n into 1 minus r by R to the power n plus 1 by n, 
+right? This we had developed in the previous class, right?  
+So, this is the instantaneous velocity, now , I would like to go back to a little as rec apitulation 
+because , I got some information from the students side that if I explain a little more about the 
+momentum relation between momentum and the shear stress, right?  
+(Refer Slide Time: 2:51)  
+ 
+So, a relation between momentum and shear stress , if we look at the definition momentum , we 
+said is equal to rho v, right , rho into v, right? So , rho v , if this is the momentum, then , this is , rho 
+is kg per meter cube into meter per second, right? So , this is called momentum per unit volume, 
+right? Or , we can also write as momentum, right , per meter cube, right? Where , this is kg meter 
+per second per meter cube, right?  
+So, this is momentum, now , this also is a recapitulation , that shear stress , when we write , we 
+write with the plane, right? Two dimensions , rather two coordinates , i.e., Tauyz or Tauxz or rather 
+r theta, right? Whatever , there, right? Depending on the coordinate system , you are employing. 
+Now , this Tauyz, this, we can interpret as , this is equal to flux of z directed momentum acting on 
+the y direction, right? z directed momentum acting on the y direction, right? This we can also 
+write as the rate of flow of momentum per unit area, right? This can also be written as this and 
+unit of momentum obviously , we have said that , unit of momentum is kg meter per second, yes 
+kg meter per second.  
+Shear stress , then this can be written as Tauyz is equal to kg meter per second per meter square 
+into second, right? The moment rate is there , i.e., per unit time, right? Any flux is per unit time 
+and per unit area we have said, so this is per unit area and this is the momentum. So , this we can 
+say momentum per meter square per second, right? That is why this is called momentum flux, 
+right? So , any flux is that thing per unit area per unit time , i.e., the flux of that thing , if it is 
+momentum, then momentum, if it is heat, then heat, if it is mass, then mass , whatever it be , that 
+flux of that thing means per unit time per unit area is the flux of that thi ng, right?  
+So, this is true , whether it is for momentum , or for heat , or for mass, so , depending on what 
+variable you are taking that will be the flux of that thing , that per unit time per unit area. So , and 
+rate means anything per unit time is the rate, right? So , how you are , at what rate you are moving 
+is as it is being said in terms of velocity , i.e., meter per second. So , this is the rate at which you 
+are moving, right? Your velocity is like that, si milarly , any other thing per unit time is the rate of 
+that thing right? So , this we can say that this gives us an amount this is what , is the amount of 
+momentum transferred per unit time per unit area, right? So , this we have done a recapitulation, 
+right? Whenever this comes into so please bring to our notice we will definitely bring back again 
+and we will try to explain as much as we can, right?  
+Now , from this expression that v is , which we developed , v is equal to n by n plus 1 delta p by 
+2kL to the powe r 1 by n R to the power n plus 1 by n into 1 minus r by R to the power n plus 1 
+by n. So , this tells that the velocity profile is something like parabolic, right?  
+(Refer Slide Time: 9:31)  
+ 
+So, velocity profile is something like parabolic, so , that parabo lic in nature depending on in 
+which direction you are taking . So, it can be like this, it can be like this. So , we need to know , 
+that means it has a maximum, right?  
+So, if we again draw that pipe , this is the pipe , this is the diameter;  this is the axis, right? Then 
+the velocity profile looks like this, right? That means this is 0 at the surface and maximum at the 
+center, right? So , if this is r, right? If this is r, then and if this is capital R, right? So , the 
+maximum velocity we can write , this to be v max, right? And that is true when r is equal to 0. So , 
+in this expression , if we put r is equal to 0, then , v becomes vmax and then we can write n by n 
+plus 1, right , into delta p by 2kL this remains unchanged 1 by n, right?  
+And since this is 0, right? So , this is 1, so , that means , into R to the power n plus 1 by n. So , the 
+maximum velocity is this, right? So , v is equal to vmax that means , v is equal to vmax at r is equal 
+to 0, right? So , this we know and we have seen earlier in pipe flow also. Now , here also we can 
+see, we had told you that limiting condition, right? This is the Non Newtonian  fluid , right? And 
+now, if we put n is equal to 1 , i.e., if it is Newtonian  fluid , then it becomes 1 by 1 plus 1, okay let 
+me write in another page.  
+(Refer Slide Time : 12:18)  
+ 
+So, vmax is equal to n by n plus 1, right , into delta p by 2kL, right , to the power 1 by n R to the 
+power n plus 1 by n, right? This is for any power law fluid , or conventional ly we call Non 
+Newtonian  fluid,  for any Non Newtonian fluid, right? So, if this be true, then we said that for a 
+limiting condition , if this holds good, right? So , what can be the limiting condition? Limiting 
+condition is , n is equal to 1 , i.e., Newtonian fluid , i.e., for Newtonian fluid. So , vmax we can write 
+for Newtonia n fluid , here we write Newtonian , that is equal to n is 1, so , 1 by 2, right , delta p by 
+2 k is okay , here n is 1 and k is equal to mu, right?  
+So, delta p by 2 mu L, right? 1 by n is equal to 1 R to the power n plus 1 by n , i.e., n is 1 R 
+square, right? S o, this is nothing but delta p by 4 mu L R square, so , that is corresponding to the 
+Newtonian fluid flowing through a pipe . This we have done earlier . So, this is r and this is capital 
+R, right? And flow is taking place in this direction and velocity profile is like this and the 
+maximum velocity is this . This we have done earlier , and you can check that , the one which , we 
+have said this for power law fluid , i.e., fluid following the power law , where n can have  any 
+value which earlier we said , n is what for what kind of fluid and generally , it is called Non 
+Newtonian fluids, right? And typically , it is Newtonian , when n becomes 1 , and k becomes mu. 
+So, under that situation this turns out to be the expression developed for Newtonian fluid flowing 
+through the pipe, right? That means , the development or the proceedings , which we have done is 
+correct and it is following the limiting condition, right? Very good.  
+Now, we look into , when we have seen velocity at any instance , at any point that is v, right? 
+Instantaneous velocity, so , we have also seen the maximum velocity , i.e., at r is equal to 0, right? 
+Now , next is what the average velocity is,  right? What is the a verage velocity, right? Now , 
+average , if you remember , we had said that for average velocity , you need 1 by area , i.e., pi R 
+square, right? And 0 to R , so, we had shown earlier in many times , number of times that how 
+area and how the velocity they are both  together is coming into picture, right?  
+So, here we are taking directly 1 by pi R square , i.e., the area . So, 0 to R and this is v , 2 pi r dr, 
+right? So , that is there, so this means we can write this 2 pi r, right , dr, so, 2 comes out pi goes 
+out, so it is 2 by R square, right? 2 by R square , we can write 0 to R, right? v r dr, okay , now, this 
+v, if we substitute with okay v r dr, right? Now , substituting the values of v , we can write 0 to R , 
+the value of v was this, right? So, if we substitute this value of v , that it is n by n plus 1, right , 
+delta p by 2kL to the power 1 by n R to the power n plus 1 by n, right , times it was 1 minus r by 
+R to the power n plus 1 by n, right , times this is v , already 2 we have taken out, pi i s out into r dr, 
+right?  
+So, this on simplification , we, or on integration, okay , before that again , we simplify a little 0 to 
+2 by R square this is n by n plus 1 because that is also not within the integration or we can call to be constant 2kL to the powe r 1 by n and R to the power n plus 1 by n and remaining is 0 to R, 
+right? This is r dr minus 0 to R r into r to the power n plus 1 by n that is 1, so , 2 n plus 1. So r to 
+the power 2 n plus 1 by n divided by R to the power n plus 1 by n dr, right?  
+(Refer Slide Time: 20:42)  
+ 
+So, this on simplification we can write that this is equal to , so, this r , if it goes okay , this is 
+beyond, so if this R square goes with this , so, it is R to the power minus 2, right? So , minus 2 n, 
+right? So , that is 1 minus n, right , by n R to the power 1 minus n by n. So , we can write v average  is 
+equal to 2 by R square or okay 2 into n by n plus 1, right , delta p by 2kL to the power 1 by n and 
+this R becomes 1 minus n by n because this again this R square goes up as R to the power m inus 
+2, so , n plus 1 by n minus 2 so n plus 1 by n minus 2 , this is equal to n plus 1 minus 2 n divided 
+by n is equal to 1 minus n by n, right?  
+So, this is R to the power 1 minus n by n, right? And here we write this is under bracket, okay 
+that should hav e been. So it is r dr with a boundary of 0 to R , so, R square by 2 , that means , R 
+square by 2, right? Minus this is again r that is 1 by R to the power n plus 1 by n this remains 
+common and we write at r is equal to R this is R to the power 2 n plus 1 by n  again 2 n plus 1 by 
+n plus 1 divided by 2 n plus 1 by n, that means , this becomes equal to 2 n plus n so 3 n plus 1 
+divided by n divided by 3 n plus 1 by n, right?  
+So, we can write this to be equal to R to the power 3 n plus 1 by n, right , divided by R t o the 
+power n plus 1 this we have already taken out, right? Okay, R to the power this we have taken 
+out, so 3 n plus 1 by n, right? So , if we now rewrite , this is equal to 2 into n by n plus 1 delta p 
+by 2kL to the power 1 by n R to the power 1 minus n by n and let us rewrite , R square by 2 
+minus 1 by or we write R to the power 3 n plus 1 by n divided by 3 n plus 1 by n, right , 3 n plus 
+1 by n into r to the  power n plus 1 by n, right? So , on simplification we can write this term 
+remains same , say ‘A., ‘A’ into, so, this we can write , so, R to the power 3 n plus 1 by n minus n 
+plus 1 by n this becomes n and 3 n plus 1 minus n minus 1, so , this becomes 2n by n , right?  
+So, 1, 1 goes out , so, this 1 , 2 n, right? So , 2 n that is R, so , here it is R square by 2 minus this is 
+R to the power 2 n by n so that is R square again by 3 n plus 1 by n, right? So , if we again 
+simplify , this is ‘A’ into R square by 2, right?  So, this is 2 into 3 n plus 1 by n, right? So , square 
+into 3n plus 1 by n this minus this is 2 R square, right? This is equal to ‘A’ times, right? On the 
+denominator 2 3n plus 1 divided by n on the numerator , if we take R square as common, then we 
+can wri te R square into ‘A’, R square we take common , then, it becomes 3 n plus 1 by n minus 2, 
+right? So , we can write ‘A’ R square into this becomes 2 n 3 n minus 2 n that is n plus 1 by n 
+whole divided by 2 into 3 n plus 1 divided by n.  
+So, this n that n goes out, so , ultimately it comes equal to ‘A’ R square into n plus 1 by 2 into 3 n 
+plus 1, right? Now , if we substitute the value of ‘A’, which we were doing , i.e., 2 into n by n plus 
+1 into delta p by 2kL to the power 1 by n R to the power  1 minus n by n, right , into R square, 
+right? ‘A’ square into n plus 1 by 2 into 3 n plus 1. So , this is that , so, which , we can write this 2 
+this 2 goes out, right? This n plus 1, this n plus 1 goes out. So , n by 3 n plus 1 this becomes that, 
+this is delt a p by 2kL to the power 1 by n and R to the power 1 minus n by n plus 2, so , that 
+means , this is equal to n by 3 n plus 1 into delta p by 2kL to the power 1 by n into R to the power 
+n this is 2 n minus n that is n plus 1 by n, right?  
+So, if you see that t he final average velocity is like that, okay. Now time is out, thank you.             
+                                                                        

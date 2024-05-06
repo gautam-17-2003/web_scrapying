@@ -1,0 +1,155 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 28
+Module 6
+Flow through nozzle-2
+(Refer Slide Time: 0:27) 
+So, we have seen that velocity at the tip, this is flow through nozzle continuation, flow through
+nozzle continuation that we have found out, velocity at the tip. We said our system was like this,
+right? So pressure was this, volume was this, specific volume was this, here pressure is p 0 at the
+tip, specific volume is V 0 at the tip, right? And velocity is here at v, velocity here at the tip is v 0.
+So, velocity at the tip, we found out to be equal to under root 2 gamma p over gamma minus 1
+into rho times 1 minus p 0 over p to the power gamma minus 1 by gamma, right? This was our
+thing.
+And how did we come to know? This was in terms of V by V 0. So, from V by V0, pv gamma is
+constant, from there we found out, what is the value of V 0 by V to the power 1 minus gamma,
+right? That was 1 minus gamma, from there we found out what is the value of p 0 over p and that
+came to be equal to, after all making, after all interchanging, and simplifying, we got, under root
+of 2 gamma p by gamma minus 1 into rho times 1 minus p 0 by p to the power gamma minus 1 by
+gamma, right? 
+So, this was velocity at the tip, right, and the tip of the nozzle, right? Now, if we know the
+velocity at the tip, then we should be able to find out what is the discharge, discharge means howmuch fluid is flowing through the nozzle that we must be able to find out, how much fluid is
+flowing through that nozzle, right?
+(Refer Slide Time: 3:17) 
+And, to know that we must be finding out that what is the discharge rate, right? Now, if w be the
+rate of mass discharge, if w be the rate of mass discharge from the nozzle, then we can write that
+w is equal to Cd into A 0 into v0 into rho0, this v is the velocity, right? Where Cd is the coefficient
+of discharge, and this is given by the company, who is making the nozzle, right? This Cd value is
+given along with the nozzle, who is manufacturing that, manufacturer gives the value of Cd. So,
+how much you can take the value of Cd, because this is coefficient of discharge, that means your
+discharge cannot be 100 percent, right? 
+So, how much it will be discharging is depending on the manufacturer, who is manufacturing he
+valve, that this much of flow rate is there, mass flow rate, or volumetric flow rate, whatever, if
+one is given, the other can also be found out. So, mass flow rate, or volumetric flow rate for this,
+the discharge coefficient Cd is so much that is given by the manufacturer. So, if Cd is the
+coefficient of discharge, A 0 is the area at the tip of the nozzle, at the tip of the nozzle, if this is
+area, and if we if you see that this is, of course, area means, meter square, not meter cube by
+mistake, may be in the slide, it was in meter cube, okay.
+So, area of the nozzle and Cd is that, v 0 is the velocity at the nozzle tip and rho 0 is the density of
+the fluid at the tip, right? So, if we know this, then, we can find out, what is the discharge in Cd,
+right? Coefficient of discharge is a fraction, so, A 0 is in meter square, v 0 is in meter per second,and rho0 is in kg per meter cube. So, this becomes equal to meter cube per second, kg per meter
+cube, so, kg per second, so that is the mass flow rate or w, right? 
+(Refer Slide Time: 7:12)
+Now, if w, with that, then we have already found out what is the value of v 0 so then w can be
+written as Cd A0 v0 rho0, right? Now, if we substitute v 0 value, then, we write, Cd A 0, right, into
+rho0, right, into v0 was under root of 2 gamma p by gamma minus 1 into rho into 1 minus p 0 over
+p to the power gamma minus 1 by gamma, right? If it was like that, then we can write, now, this
+p0, we can take this is a square, so, when it goes inside, then there is this rho 0 rather, rho0 can be
+also taken inside, and for that, this is square, so, it is rho 0 square, right?
+So, assuming this rho 0 and this is same, so, we can write Cd A 0, right, 2 gamma p, this is rho 0
+square over gamma minus 1 into rho 0 is 1 minus p0 by p to the power gamma minus 1 by gamma,
+right? So, this on simplification, we can write Cd A 0 under root 2 gamma p, right, 2 gamma p
+okay, if we do not assume this to be rho 0, then, 2 gamma p, and this will go top, so, gamma p V,
+right, by gamma minus 1, that is true, and we can write, this was rho 0 square, right, into 1 minus
+p0 over p to the power gamma minus 1 by gamma.
+So, that we can simplify as, Cd A 0, right, under root, so, this we can write as rho, right, means 1
+by V that is, 2 gamma p by gamma minus 1, so, if it is rho 0, right, so, rho0 means 1 by V0, right,
+so, it is then V by V 0 square, and since, we have introduced one more V here, so, we need to
+write 1 by V here, so, into 1 minus p 0 by p, this to the power gamma minus 1 by gamma, right?
+This is under root, right? So, this we can simplify, and say, to be equal to Cd A 0, right? 2 gamma,
+so, this V again, we can bring it back to rho, as 2 gamma p rho by gamma minus 1, right? Andthis is V by V0 so that means p0 by p, right? This is p 0 by p, and this is by 2 by gamma because,
+pv gamma is equal to constant.
+So, p1 v1 gamma is equal to p 2 v2 gamma, right? So, p 1 by p2 is equal to V2 by V1 to the power
+gamma, right? So, we can write this, as V by V 0 is equal to, or V by V 0, this is equal to p1 by p2,
+or p2 by p1, or in this case p0 by p to the power 1 by gamma, right? So, it comes p 0 by p to the
+power 2 by gamma times 1 minus p 0 by p to the power gamma minus 1 by gamma, right? 
+(Refer Slide Time: 13:20)
+So, this we can write, and then, we can say that, this is nothing but equal to, let us keep it here, so
+that we can see, so, it is w is equals to Cd A 0 into 2 what it was, I am writing, 2 gamma p rho by
+gamma minus 1, right, into p 0 by p to the power 2 by gamma into 1 minus p 0 by p to the power
+gamma minus 1 by gamma, right? Now, if we take this thing inside, then, we can write, Cd A 0
+under root 2 gamma p rho by gamma minus 1, right? And, if we take this inside, then it is p 0 by p
+to the power 2 by gamma p 0 by p to the power 2 by gamma minus p 0 by p, right? 
+So, we add this 2 by gamma, then, it becomes p 0 by p to the power gamma plus 1 by gamma. So,
+in this case, minus gamma minus 1 by gamma plus 2 by gamma, right? So, it becomes equal to
+gamma, the denominator gamma minus 1 plus 2 is equal to gamma plus 1 by gamma, that is
+what it has come here, right? So, the discharge, we can, we have written, w as Cd A 0 2 gamma p
+rho over gamma minus 1 into p 0 by p to the power 2 by gamma minus p 0 by p to the power
+gamma plus 1 by gamma, right? This is the discharge, right? Now, this is normal discharge, now, how could we know what is the discharge, which will be
+maximum, right? Whatever Cd value has been given, depending on that Cd value, there will be a
+maximum discharge, so, what will be that maximum discharge, how can we find out, right? 
+(Refer Slide Time: 15:55) 
+Now, if we differentiate this discharge, right? With respect to pressure, so, differentiating with
+respect to with respect to the pressure at the tip is 0, we can write dw dp 0, this is equal to Cd A 0
+then 2 gamma p rho by gamma minus 1 this times d dp 0 of under root p0 minus p, po over p to the
+power 2 by gamma p 0 by p to the power 2 by gamma minus p 0 by p to the power gamma plus 1
+by gamma, right? 
+This, now, if we do, let us assume that let, x equal to p 0 by p and therefore dx over dp 0 is equal to
+nothing but 1 by p and the dp 0 this is equal to d dx of dx dp 0, right? So, therefore, we can rewrite
+that, dw dp0 this is equal to Cd A 0 under root 2 gamma p rho divided by gamma minus 1 times d
+dx of under root x to the power 2 by gamma minus x to the power gamma plus 1 by gamma,
+right? This x to the power 2 by gamma by gamma, right, into dx of dp 0, right? dx dp0 then, right? 
+(Refer Slide Time: 18:30) Let us keep it here, then this, we can rewrite, is equal to or, dw dp 0 this is equal to Cd A 0, right?
+Over this under root 2 gamma p rho over gamma minus 1 into 1 by p into 1 by p into 1 by 2 into
+x to the power 2 by gamma 2 by gamma minus x to the power gamma plus 1 by gamma into 2 by
+gamma x to the power 2 by gamma minus 1 minus gamma plus 1 by gamma into x to the power
+1 by gamma, right? So, this is dw dp 0, Cd A0 under root 2 gamma p rho by gamma minus 1 into 1
+by p into 1 by 2 into x to the power 2 by gamma minus x to the power gamma plus 1 by gamma
+times 1 by gamma x to the power 2 by gamma minus 1 minus gamma plus 1 by gamma x to the
+power 1 by gamma, right? So, then we write, dw dp 0 as this, now de the discharge will be
+maximum, when dw dp 0 becomes 0, right? (Refer Slide Time: 20:29) 
+So, discharge will be maximum, for maximum discharge we can write for maximum discharge,
+we can write that dw dp 0 is equal to 0, right? So, since dw dp 0 is 0, for maximum discharge, then,
+we can write 0 is equal to Cd A 0 under root 2 gamma p rho by gamma minus 1 into 1 by p into 1
+by 2 into x to the power 2 by gamma minus x to the power gamma plus 1 by gamma into 1 by
+gamma x to the power 2 by gamma minus 1 minus gamma plus 1 by gamma x to the power 1 by
+gamma, right? Now, out of all these, Cd cannot be 0, right? That is the coefficient of discharge,
+so, this cannot be 0, it is already given by the company, A 0, area that is the area through which it
+is flowing that is also cannot be 0, right? (Refer Slide Time: 21:57) 
+Now, any one of these cannot be 0, because 2 is constant, gamma is also constant, there is a
+definite pressure, there is a definite density, gamma value is also fixed, or specific for a given
+fluid. So, this term cannot be 0, 1 by p, since p is also having a definite value, so, 1 by p cannot
+be also 0. Similarly, 1 by 2 cannot be 0, right? Then, x to the power 2 by gamma, right? x to the
+power 2 by gamma minus x to the power gamma plus 1 by gamma, right? If, this can be 0, or 1
+by gamma times x to the power 2 by gamma minus 1 minus gamma plus 1 by gamma into x to
+the power 1 by gamma, right? 
+This has to be 0. Since, this is under root, if this is 0, then, it becomes a un-imaginary, so, which
+is also not possible. So, the only possibility is that this term becomes equals to 0, right? If this
+term becomes equal to 0, then, we can write that, 0 is equal to 1 by gamma x to the power 2 by
+gamma minus 1 minus gamma plus 1 by gamma x to the power 1 by gamma, right? So, these we
+can rewrite, in terms of x and gamma as 2 by gamma x to the power 2 by gamma minus 1 minus
+minus gamma plus 1 by gamma x to the power 1 by gamma. So, this is equal to 0, right? 
+So, we might have missed one here, here, we might have missed one, this was 2 gamma d dx of
+this, okay, this was x to the power 2 by gamma dx dp 0, okay so, dx dp0, so, when it was that, then
+we got this 1 by 2, right? This was not 1 by gamma, this was 2 by gamma, right? 
+The mistake, we carried over there, 2 by gamma x to the power 2 by gamma minus 1 minus
+gamma plus 1 by gamma x to the power 1 by gamma. So, it comes 2 by this, cannot be 0, so, this
+2 by gamma this factor is equal to 0, so, 2 by gamma x to the power 2 by gamma minus 1 is
+minus, rather, minus gamma, minus gamma plus 1 by gamma into x to the power 1 by gammaequals to 0 this, we can write, or, 2 x to the power 2 by gamma minus 1 minus gamma plus 1 x to
+the power 1 by gamma this we can rewrite rearrange, right? 
+So, 2 by gamma x to the power 2 by gamma minus 1 minus gamma plus 1 by gamma x to the
+power 2 by gamma, right? This, we can rewrite, as this gamma this gamma goes out, right? 2
+into x to the power 2 by gamma minus 1 minus gamma plus 1 into x to the power 1 by gamma
+this is equal to 0, right? Or, we can write 2 over gamma plus 1, 2 over gamma plus 1 is equal to x
+to the power 1 by gamma divided by x to the power 2 by gamma minus 1, right? Or, we can
+write, 2 by gamma plus 1, this is equal to x to the power 1 by gamma minus 2 by gamma plus 1,
+right, is equal to x to the power 1 minus 2 plus gamma over gamma is equal to x to the power
+gamma minus 1 by gamma, right? Or, we can write that 2 by gamma plus 1 is equals to x to the
+power gamma minus 1 by gamma, right? 
+(Refer Slide Time: 28:10)
+So, if that be true, then, we can write that x is equal to 2 by gamma plus 1 whole to the power
+gamma by gamma minus 1, right? This has come from here 2 by 2 gamma plus 1 is equal to x to
+the power gamma minus 1 by gamma, so x is equal to that, it goes inverse gamma 2 by gamma
+plus 1 to the power gamma by gamma minus 1, right? So, x is 2 by gamma plus 1 to the power
+gamma by gamma minus 1. Now, we know x is equal to p 0 by p, right? Therefore, we can write
+p0 by p is equal to 2 by gamma plus 1 to the power gamma by gamma minus 1, right? Now, if the
+value of gamma given is, say, 1.4 for example, for diatomic gas, like air, gamma value is 1.4.
+Therefore, p0 by p is equal to 2 by 1.4 plus 1 to the power 1.4 by 1.4 minus 1 this is equals to 2
+by 2.4 to the power 1.4 by 0.4, right? This becomes equal to 0.528. This becomes equals to0.528. Therefore, p 0 by p is equal to 0.528 or p by p 0 is equal to 1.893, right? So, now we are
+running out of time, so, let us stop here today next day, next class we will begin from there, okay.
+Thank you. 
+ 
+ 
+ 

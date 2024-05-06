@@ -1,0 +1,137 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 14
+Module 3 
+Hagen–poiseuille equation from Navier stokes equation
+Yeah, so, we have seen that Hagen–Poiseuille equation, how we have developed in a pipe for a
+fluid which is incompressible, and under steady state, and laminar flow, and there is no end
+effect, there is no velocity development along the flow of the fluid, that we have seen, right?
+Velocity profile was normal, so, developed in the flow of the fluid along the pipe, so, this we
+have already found out. Now, one more thing, we had said earlier that you can utilize the
+equations of motion which we developed, known as the  Navier-Stokes equations. From the
+Navier-Stokes equation also this you can find out and develop. So, we will do this today also,
+right? So, for that let us let us go to that situation that we have taken.
+(Refer slide time 1:34) 
+This fluid, we have taken, the shell momentum balance. We have done, right? So, here, we will
+do with the Navier-Stokes equations. If you remember, the Navier-Stokes equations with the r
+theta and z components, r theta z component equations, we had used, so, similar to that we will
+use also here r theta z components, right? (Refer Slide Time: 2:09) 
+So, let us take in that case, we know that, v r is equal to vtheta is equal to 0, and del v z del z is equal
+to 0, right? vr vtheta vz since that was r theta z, right? So, here, also we take r theta instead of x, z,
+right? Instead of x as z, so, r theta z. If you take, so, v r is equal to vtheta is equal to 0, because what
+we are supposed to do? We are supposed to find out that v is flowing like this, right? v is flowing
+like that so it is vz which is flowing like that and v r is this.
+So, this vr and vtheta is that which is like that, so, v theta will be taking, since, the flow, we assumed
+is laminar, we assume steady state, we assume no end effect, we assume flow is fully developed
+and also we assume there is no velocity profile along the flow of the fluid. So, we assumed all
+these, so, in this case, knowing these conditions, the conditions of the flow, this is called the
+problem description. So, from the problem description, we can tell v r is equal to vtheta is equal to
+0, i.e., vr is 0 and vtheta is 0. There is no velocity component, right, in the r direction, there is no
+theta component, v theta in the theta direction, this is 0, and del v z del z there is no flow in the in the
+direction of the flow. There is no velocity profile so that del v z del z is also 0.
+So, in this case if we assume all these three, then we can write from the Navier-Stokes equation,
+if you remember that the first equation, second equation and third equation, if we take this
+equation that mu into 1 by r del del r into r del v z del r, right? This is minus del p del z this is
+equal to 0, right? Since, it is horizontal, so, rho g z, we can tell to be equal to 0, right? So, we can
+write 1 by r, this is the from the Navier-Stokes equation, right? In the z that r theta z this is the z
+one del del r of r del v z del r, right?So, 1 by r then, 1 by r del del r of r r del v z del r, right? This is equal to 1 by mu del p del z. So,
+this we have taken to the other side, this del p del z, this is equal to, we can write del del r of r del
+vz del r, right? This is equal to r by mu into del p del z, right? So, on first integration, we can
+write, r del vz del r is equal to 1 by mu del p del z into r square by 2 plus C 1. Why you have not
+taken in del p del z in the integral part, because, del p and del z, they can be said to be given,
+right? 
+So, del p means pin minus pout, i.e., del p and del z is nothing but the length, so, once we know the
+length that is for a given length, right? For a given flow, we know del p, we know del z, so, del p
+del z is known. So, that is why it is not going into the integration. So, we can write r del v z del r
+is equal to on the first integration, 1 by mu del p del z r square by 2, right, plus C 1, right? So, this
+on first integration and we can also say, on the rearrangement of this as del v z del r is equal to del
+vz del r is equal to 1 by mu del p del z, right?
+This r goes there, so, it is r by 2 plus C 1, C1 by r, right? At r is equal to, now, the boundary
+condition, which we can apply, at r is equal to 0, del v z del r is also equal to 0, right? At r is equal
+to 0, i.e., this point, right? at r is equal to 0, del v z del r, that is also equal to 0. Therefore, we can
+write C1 is nothing but, is equal to 0 at r is equal to 0, del v z del r is 0, so C1 is also equal to 0, r is
+equal to 0, this goes out, right? (Refer Slide Time: 10:09) 
+So, that also goes there, so, we can write that C 1 is equal to 0, and then, we can also say that del
+vz del z is equal to 1 by mu del p del z into r by 2 since, C 1 was equal to 0. On second integration,
+we can write vz is equal to 1 by mu del p, 1 by mu del p del z, i.e., constant into r square by 4
+plus C2. Now, we can put this second boundary condition. Second boundary condition is what?
+At r is equal to capital R, v z is equal to 0, right? If that be true, at r is equal to capital R, v z
+becomes equal to 0, then C 2 becomes equal to minus 1 by mu into del p del z, right, into R square
+by 4, right? 
+Therefore, we can write v z is equal to 1 by 4 mu, right, into del p del z, right, into R square minus
+small r square, capital R square minus small r square, right? C 2 is this, right? 1 by 4 is, this is
+with a negative, right? Because, that is negative, so, this can be written 1 by 4 mu del p del z,
+right, into r square minus capital R square, right? So, at r is equal to 0, we can write v z is equal to
+minus 1 by 4 mu del p del z into R square, at r is equal to 0, right? This minus remains; v z is
+equals to minus 1 by 4 mu del p del z R square, right? 
+Now, we can say that v z is equal to nothing but p in minus pout, right, into R square by 4 mu into L,
+right? Which is nothing but, v max. So, vz is pin, how we have taken this minus in? minus in has
+become this delta p, again any delta p is generally, out minus in, right? Anything delta is higher
+minus lower, but that is the (out) exit minus inlet. So, in this case, since, we are taking p in minus
+pout as the delta p, so, this negative goes in there, and this becomes p in minus pout by 4 mu L into R
+square, i.e., nothing but v max, right? Or, we can write, v z is equal to vmax, right? These terms, times, rather, 1 minus r by R whole
+square, right? vz is nothing but vmax by 1 minus r by R square, this is what we have done in the in
+the flow of fluid in pipe, right? This we have done earlier, and with the help of Navier-Stokes
+equations, we have seen that you can also do the same thing for the pipe flow and you can find
+out the velocity distribution in the pipe, right? 
+(Refer Slide Time: 14:57) 
+Then, vz is vmax. So, how the velocity distribution comes in? This is the pipe, right? This is r, so
+velocity is 0 at the pipe, and v z is maximum at r is equal to 0. So, if this is the maximum, so,
+then, this will have a velocity profile like this, right? So, this will be the velocity profile in the
+pipe, right? So, now, here you see, in the previous class, we had done with the shell momentum
+balance. But, in this present class we have also done the same thing with the help of the Navier-
+Stokes equation. Keep in mind, Navier-Stokes equations, if properly the terms can be identified,
+if properly you can substitute the values of the terms, then you can easily come to the solution
+and for the flow of pipe we have done it carefully, right? (Refer Slide Time: 16:17) 
+(Refer Slide Time: 16:27) 
+So, we can say that like this. So, v average, then, can also be written as this is 1 by pi r square, i.e.,
+the area into 2 pi r into dr v z, right? That is equal to minus R square by 8 mu delta p over delta z,
+right? That is R square by 8 mu delta p by delta z, right? So, v then, v z average into dz is equal to
+minus R square by 8 mu into dp, right? Or, v z average into L is equal to p in minus pout, i.e., delta p
+R square by 8 mu, or, v z average is equal to p in minus pout, right, into D square by 32 mu L and
+this  is  Hagen–Poiseuille equation, right? So, this  is Hagen–Poiseuille equation. So Hagen–
+Poiseuille equation we have found out with both flow through pipe with the shell momentum
+balance as well with the Navier-Stokes equation, right? Then, Navier-Stokes equations again and
+again I am forcing on that, Navier-Stokes equations you do not have to remember. The entire setof equations is not possible to remember. The entire equations, all the components, r component,
+theta component and z component are not possible to remember.
+When, you are solving, you must take that this Navier-Stokes equations and all the r component,
+theta component and z component, they are with you in the right form, and then, you understand
+them in the proper way and the moment you understand them in the proper way you can figure
+out, in most of the cases, you will see that from the given problem you will figure out what are
+the velocity components over there, all three of them are active or, some of them are nullified or,
+it can be taken as 0.
+So, if you can identify them, if you can put them, then, you do accordingly and then find out
+whether these Navier-Stokes equations are applicable there or not. How it can be applied, what
+are the terms, which are like in this case, we have seen that v r and vtheta is 0 and we also have
+found out that del v z del z, that is also 0. But, these terms, we have said in setting the problem,
+you remember, while setting the problem, we have said that the velocity component in the flow
+of the direction of the fluid does not have any velocity profile.
+That means, it is not having any velocity profile in the direction of the flow, that means del v z del
+z is 0, right? We also said and when you are integrating, finding out the integral constants, there,
+what you were putting, you are putting the boundary conditions. Now, here we have put the
+boundary condition at r is equal to 0, i.e., the central point at r is equal to 0, you have v z, which
+you have found out, right? v z is equal to vmax, right? And at r is capital R that is at the surface or,
+at the inner surface of the cylinder, right? 
+Where, the fluid is clinging, if this is the surface and if this is the layer of the fluid, so, it is
+clinging to that as if the surface is moving, it is also moving, but if the surface is fixed, it is not
+also moving, right? So, that is called clinging, it is clinging to the surface and that means the
+surface has the velocity 0. So there r at capital R, we have taken to be constant at capital R,
+velocity to be 0, and we have shown how the velocity profile has changed, right, along the
+radius, right?  
+(Refer Slide Time: 22:00) So, that we have shown that. So, that we have shown that if this is the pipe, and if this was the
+axis, then velocity, here, it was 0, it became maximum, and then this is nothing but a mirror
+image of this half. This half is the mirror image of this half. So, whatever was there the same
+thing came out to be here, right? In many cases that is why, subsequently, you will see, once, if
+for a symmetrical thing, if you do half of it, the rest of the things can be assumed to be the same,
+right? 
+So, let us then, the next we will do when we will have other things, right? Most probably next we
+will be going for finding out, another thing as if from here it is appearing that this is clinging,
+right? (Refer Slide Time: 23:01) 
+The surface which is clinging to the wall is not moving, right? So, this is known as friction,
+right? So one layer with the other layer, with the other layer, there having some friction, other is
+why pout and pin there will be some difference, why, p in and pout, there will be some difference,
+who is taking in this is taken by that frictional force which is dragging or, drag force one other,
+this we will do in the subsequent class, okay thank you.                             
+                                           

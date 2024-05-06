@@ -1,0 +1,180 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 27
+Module 6
+Flow through nozzle-1
+Yeah, in continuation to that compressible fluid flow, now, we would go to, because, we have
+done the relations of compressible fluid flow that, what is the relation between pressure and
+velocity that, how you can find out, the pressure drop, right from the Bernoulli’s equation, we
+have done it. So, we will now go to the compressible fluid flow, which we think, so, we go to the
+compressible fluid flow, and there we go to now flow through nozzle, right? 
+Flow through nozzle, the best example is that you are whistling, right? You do whistle, this
+whistle you do, so, whenever you are whistling, this compressible flow through nozzles, that also
+come into, if you are in industrial area then, obviously, you have seen, or you have witnessed,
+you have also come across that, at certain interval, maybe 2 O’clock in the afternoon, or 10 O’
+clock in the night, or 6 O’clock in the morning, depending on the shift changes, the industrial
+bells, they are also, they ring some siren, and that sound, you also have heard.
+Unfortunately, or fortunately, it should be both fortunately, there is no such word, and during
+war, we have seen that, to alert people, there is a big siren, that blows. So, these are all example
+of compressible fluid flow through nozzle, right? So, then, and this, not only this is for air and as
+we  said  you  remember  that,  for  milk  homogenization,  for  milk  homogenization,  that  high
+pressure milk is passed through a nozzle, and that slit, orifice, through that, when it is moving,
+then, there is also that high pressure to low pressure, that pressure drop occurs.
+So, that is also one such example, the flow through small hole, orifice, or slit, things like that,
+explicitly, we have done also the flow through slit. Now, we also take care of the flow through
+nozzle, right? (Refer Slide Time: 3:45)
+(Refer Slide Time: 3:57) 
+Now nozzle, if you see, it looks like this, as you see from this slide that, nozzle is like this that
+from a high pressure, right? Through a variable area, a tip, like this, right? And, this is one end;
+another could be like this, right? So, here, the pressure is P, this zone, and in this zone, at the tip,
+pressure is P0 or Poutlet, or P at the tip, or P at the nozzle, whatever you call, right? So, this P is the
+pressure in the reservoir, and P o or P0 or Poutlet, whatever you call, that is pressure in the nozzle
+tip, right? 
+So, tip of the nozzle is like that. So, we name it to be nozzle flow, right? Now, we know, two
+relations, between pressure and volume, 1 is for isothermal case, that, pv is equal to say okay, pv
+is equal to constant, right? This is for isothermal case, for isothermal flow, and for adiabatic flow,we know pv gamma is equal to constant, right? So, where, this is applicable for adiabatic flow,
+where this gamma is equal to the heat capacity ratios, i.e., C p over Cv, or specific heat at constant
+pressure and specific heat at constant volume. This ratio is of that fluid, right? Ratio of that fluid,
+Cp and Cv, is the gamma, right? 
+Now, this situation, that is high pressure P, where it is moving from this big reservoir through a,
+you see, variable area, going to the tip, right? So, if this tip, if we look at, this is nothing but like
+this, right? So, through this tip, when it is passing from this P to P 0, this pressure is dropping,
+right? 
+And, I do not know, whether you have gone through refrigeration or not, there also, or how, so,
+what best example is household refrigerator, which you come across every now and then. There,
+you have seen that, in that household refrigerator, after compressor, there is a condenser, and if
+you have the old refrigerator, then you might have seen that on the back side of this, there is a net
+kind of thing, and that is called the condenser, and this is of course, extended surface condenser,
+finned tube rather, and from that condenser it goes to the expansion valve, and this expansion
+valve is also a very small orifice through which, from the condenser high pressure, it goes to the
+evaporator through this nozzle, and when it is going from this high pressure through the nozzle
+to the evaporator, then, because of the pressure drop, this process is known as throttling, that the
+temperature drops. Substantially, depending on, from which pressure to which pressure you are
+allowing to drop, and also on the refrigerant, you are using.
+But, this is again a very hand on experience, which you come across every now and then, at your
+even residence. So, that is what, so, high pressure to low pressure, it is being expanded, or it is
+throttled, because of the nozzle, it is becoming the pressure drop. Now, we will find out what is
+the relation between this pressure, and the velocity of the fluid through it. Now, again this fluid
+can be gas, or it can be any liquid, right? So, depending on, what you are using, obviously your
+system also will be, and also we has told that, there could be two processes, one could be
+isothermal, i.e., that constant temperature, or there could be adiabatic, i.e., there is no heat flow,
+that is adiabatic.
+(Refer Slide Time: 10:17)So, these two conditions can also come up, right? So, let us look into, how we can develop this,
+right? So, if the flow is adiabatic, so gas, after being released from the pressure side, high
+pressure side is likely to undergo a temperature change, we said that to be throttling, we gave the
+example  of  household  refrigerator,  right?  So,  this  high  pressure  to  low  pressure,  so,  that
+undergoes a drop in temperature and this is called throttling, and this throttling brings down the
+refrigerant temperature from condenser temperature to the evaporator temperature, right? 
+(Refer Slide Time: 11:03) 
+And, in that case, if it is adiabatic, if the flow is adiabatic, then let us see that pv gamma is equal
+to constant, right? Where, gamma is the heat capacity ratios at constant pressure and constant
+volume, right? So, if it is pv gamma is constant, then we can write that p is equal to C, constant
+times v to the power minus gamma, right? Or, we also can write, dp over dv is equal to minusgamma C v to the power minus gamma plus one, right? Gamma, the C minus gamma dp over dv
+is minus gamma C v to the power minus gamma plus 1, or we can write dp is equal to minus
+gamma C v to the power minus gamma plus 1 into dV, right? 
+So, this dp over dv, this relation we can write. Now, if we apply Bernoulli’s equation at the tip
+that is here, so, if we apply Bernoulli’s equation here, so, applying Bernoulli’s equation, at the tip
+of the nozzle, and the tip of the nozzle, if we apply Bernoulli’s equation, then, we can write dp
+over rho integral, plus integral v dv, okay, integral v dv, right, is equal to 0, assuming that there is
+no other, and since, that you are considering at the tip, so, the dz factor, if you remember, in the
+earlier classes, we had shown the Bernoulli’s equation, and there, we had said that there are
+many factors like “f”, i.e., the frictional head loss, if there, we consider, or all losses, we came
+into the terminology as “f”, right? 
+So, we neglect them, we also neglect that, there is, since, at the tip, so, there is no vertical, or z
+factor also. So, we can simply write that, Bernoulli’s equation at the tip of the nozzle is dp over
+rho plus vdv integral of this two, right? Or, we can also write that vdv, right? vdv integral of that
+is equal to integral of dp over rho minus, because this has changed, right? So, dp over rho, this
+we can write, again, as this minus is there, and earlier, one minus was there, so if we substitute
+this dp from here, then it is integral of gamma C v to the power minus gamma plus 1, right, into
+dV, right? (Refer Slide Time: 15:15) 
+Then, we can say that we have now, integral of vdv that is equal to plus gamma C v to the power
+minus gamma plus one dv, right? So, if now, integrate within limit, so integral of vdv, this is
+between v is equal to v and v is equal to v 0, corresponding to capital V is V and this is V 0 gamma
+C V to the power minus gamma dV, right? So, then, this is velocity, right? This v is velocity and
+as seen, as we have told earlier, it has that this capital V is specific volume, okay. 
+Then, we can write that this v is equal to this, then, we also can write that if this is integrated this
+vdV, v is v0, vdV is equal to that this gamma and C are constant, so gamma C between V to V 0,
+right? Gamma C, V to V 0, V to the power minus gamma dV, right? 
+(Refer Slide Time: 17:12) So, we can write, our one, this, let us look into this dp was minus gamma C V to the power
+minus gamma plus 1 dV, right? So, when we wrote dp over rho, when, we wrote so, we had, let
+us look into that, dp was equal to minus gamma C V to the power minus gamma plus 1 dV, right?
+So, when we wrote this vdV, okay, 0 to that, and we substituted dp with this, because it was vdV,
+if we remember, it was integral of vdV minus dp over rho, right? So, that minus dp over rho, this
+came to minus gamma C V to the power minus gamma plus 1 dV and because of this, 1 by rho, 1
+V was also there, which we have omitted. So, 1 V was also there, so this comes to equal to
+gamma C V to the power 1 (minus) plus 1 minus 1, so this comes to equal to gamma C V to the
+power minus gamma dV, right? So, we substitute this, in this, then, here C V to the power minus
+gamma plus 1, then we should also write 1 V, that was due to rho, so, that comes gamma C V to
+the power minus gamma dV, right? 
+So, vdV, v to v rho gamma C V to V 0 V to the power minus gamma, dV, gamma C being constant
+it is out of integration, right? So this on integration, we can write gamma C divided by 1 minus
+gamma, right, into V 0 to the power 1 minus gamma minus V to the power 1 minus gamma, right?
+This is on definite integral, V 0 minus gamma and V to the power 1 minus gamma by 1 minus
+gamma, right? So, gamma C is that. So, we can write this is, or is v square by 2 between, v to v 0,
+this is equal to gamma C by 1 minus gamma into V 0 to the power 1 minus gamma minus V to the
+power 1 minus gamma, right? 
+Or, this is nothing but v 0 square minus v square by 2 is equal to gamma C by 1 minus gamma V 0
+to the power 1 minus gamma minus V to the power 1 minus gamma, right? This we know, right?
+So, now compared to v 0, what is v0? v0 is the velocity at the tip, here, right? What is the velocityat the tip, v0 and what is v? v is the velocity in the interior, in the, your reservoir. So, in the
+reservoir, where p pressure, was p, and velocity was v. This velocity is much negligible, that to
+compared to v0 because, v0 area is very small compared to this area.
+So, here, the velocity is very negligible, so, compared to v 0, v being very small, right? We,
+compared to v0 v is negligible, so, we can write v 0 square by 2 is equal to gamma C by 1 minus
+gamma into V0 to the power 1 minus gamma minus V to the power 1 minus gamma, right? Or, v 0
+square is equal to gamma C by 1 minus gamma into V 0 to the power 1 minus gamma minus V to
+the power 1 minus gamma, right? 
+(Refer Slide Time: 22:38) 
+So, we also can write that v 0 is equal to under root, it was v 0 by 2, right? 
+(Refer Slide Time: 22:46) So, v0 is 2 gamma C, right? v 0 square by 2, so, it is v 0 square is 2 gamma C 1 minus gamma V 0 to
+the power minus gamma V to the power 1 minus gamma, right? So, we can also write that v 0 is
+under root 2 gamma C over 1 minus gamma into V 0 to the power 1 minus gamma minus V to the
+power 1 minus gamma, right? This we can write, therefore, we can also write that, this is true.
+This is true, we can also write this C instead of C, C was equal to pv gamma, right? So, we can
+write under root 2 gamma C, is pv gamma divided by 1 minus gamma into V 0 minus V 1 minus
+gamma, 1 minus gamma, right? 
+So, if we take this v inside, then we can write, under root 2 gamma divided by 1 minus gamma, p
+and, this v when it is going inside, then it becomes gamma plus 1 minus gamma, so, 0, only,
+right? So, this was gamma, so you can write that this becomes equal to this v 0 gamma 1 plus plus
+gamma plus 1 minus gamma, so v 0 minus v, right? This, when we are putting it inside, then,
+obviously, then, this has to be 1 p, right? So v to the power gamma, if we take inside, then it
+becomes v0 to the power 1 minus gamma by v, right? 
+And, this becomes v to the power 1 minus gamma by v to the power 1 minus gamma to the
+power 1 minus gamma, right? Because, this we can write under root, 2 gamma p divided by 1
+minus gamma, right? So, we are taking it inside, so, that means, we are introducing, divided by V
+to the power 1 minus gamma, if we write, V to the power 1 minus gamma, V to the power 1
+minus gamma here, right? V to the power 1 minus gamma here, then, here also we have to write
+V to the power gamma into V to the power 1 minus gamma, right, into V 0 to the power 1 minus
+gamma minus V to the power 1 minus gamma, right? So, if that be true, then this V to the power 1 minus gamma can go inside, so that, we can write,
+under root 2 gamma p by 1 minus gamma, this, let 1 minus gamma and inside of it is V 0 by V to
+the power 1 minus gamma minus this is V by V to the power 1 minus gamma, right? 1 minus
+gamma, right? And, in outside, we had V to the power gamma into V to the power 1 minus
+gamma. So. this gamma plus gamma minus gamma goes out. So. it remains only V. So, that is
+why it is pV into V 0 by V to the power 1 minus gamma by V to the power 1 minus gamma, V to
+the power 1 minus gamma by V to the power 1 minus gamma.
+So, this is equal to under root 2 gamma pV by 1 minus gamma into V 0 by V to the power 1 minus
+gamma minus this is 1, right? So, 1 minus gamma by 1. So, this also, we can write, under root 2
+gamma pV, or instead of V, gamma p by 1 minus gamma over rho, p by rho into V 0 by V to the
+power 1 minus gamma minus 1, right? So, this is the velocity at the tip, so, if we can find out, the
+velocity at the tip, now, for that what we need? We need to know the pressure, we need to know
+the density, we need to know the gamma, i.e., coefficient specific heat to at constant pressure to
+constant volume, heat ratio, heat capacity ratio, and V 0 and V, i.e., the specific volume at the tip
+and specific volume at the inlet or somewhere inside.
+So, if we know this, then we can tell that the velocity at the tip v 0 can be determined, right?
+Knowing the, of course, these parameters, which we are talking about, right? So this is the
+velocity at the tip. So, velocity at the tip of the nozzle is this, right? 2 gamma p by 1 minus
+gamma into rho, rather into V 0 by v to the power 1 minus gamma minus 1, right? Now, of course,
+this all, we can convert, in terms of, in terms of pressure, also this, can be written, as 2 gamma p
+over 1 minus gamma into rho, right? 
+Now, V0 by pV gamma is constant, right? So, p 1 v1 gamma is equal to p 2 v2 gamma, right? So that
+means p1 by p2 is equal to v2 by v1 to the power gamma, right? So, that means, we also can write
+that v0 by v to the power 1 minus gamma is nothing but p p0 by p p0 by p to the power 1 minus
+or this is gamma minus 1 by gamma, right? This can be written as gamma minus 1 by gamma,
+okay 1 minus this can be written as 2 gamma p by 1 minus gamma into rho so this is converted
+into P by p0 to the power 1 minus gamma by gamma because this is that so P by P 0 to the power 1
+minus gamma by gamma is that.
+(Refer Slide Time: 32:03)So, we can write this minus 1 was there, so, we can write that, v 0 is equal to 2 gamma P by
+gamma minus 1 into rho, under root 1 minus p 0 by p to the power gamma minus 1 minus by
+gamma, right? So, the velocity at the tip is this, right? Okay, thank you we will do in the next
+class, thank you. 

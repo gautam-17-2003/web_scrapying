@@ -1,0 +1,123 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 46  
+Module 10  
+Generalized coefficient of Reynolds number  
+Yeah, in the previous class we also discussed about the flow through slits, right? For Non -
+Newtonian fluid and if we remember that we had come to this point, yeah , about flow through 
+slits, it was , so, we came , we found out average velocity and yes , we came up to this that is 
+average velocity is like that and it was n plus 1 by 2 n plus 1 v max, right?  
+(Refer Slide Time: 1:17)  
+ 
+Now , if we look into this that v average  was for the n by n plus 1 for the Non -Newtonian fluid , by 
+delta P into rather , delta P by kL to the pow er 1 by n del to the power n plus 1 by n del ta to the 
+power 1 plus n this was v average , right? And v max, we had like this , n by n plus 1 into delta P by kL 
+to the power 1 by n del ta to the power n plus 1 by n, right? So , this was for v max and this was for 
+vaverage , right? And from there we can write , vaverage  is equal to n plus 1 by 2 n plus 1 this was n by 
+2 n plus 1, no , not this , vaverage  2 n plus 1 that is what I am thinking.  
+So, n plus 1 by 2 n plus 1 v max is v average , right? So , if this be true, then we can say that , if we put 
+now, that limit , or limiting condition , i.e., at n is equal to 0, k is equal to mu , this flow is 
+Newtonian, right? Flow is Newtonian in that case v x is equal to n by n plus 1 into delta P by kL 
+to the power 1 by n del ta to the po wer n plus 1 by n into 1 minus y by del ta this to the power n 
+plus 1 by n , this was general velocity and this reduces to v x is equal to delta P by 2 mu L to del ta 
+square into 1 minus y by del ta whole square this.  
+And v average  which , was n by 2 n plus 1 int o delta P by kL to the power 1 by n, right , into del ta to 
+the power n plus 1 by del ta and this reduces to v average  is equal to delta P by 3 mu L del ta square, 
+right? So , now these are really the proof that the limiting conditions do exist and do coincide  
+with the equations derived earlier, right?  
+(Refer Slide Time: 5:35)  
+ 
+Now , for Newtonian fluid , what we have seen earlier , Tauw is equal to delta P del ta by L is equal 
+to mu into 3 v average  by del ta, right? Now , re-writing this equation , if we say that v average  is equal 
+to n by 2 n plus 1 into delta P by kL to the power 1 by n del ta to the power n plus 1 by n, right?  
+So, this we can write that delta P by kL to the power 1 by n is equal to 2 n plus 1 by n into v average  
+by del ta to the power n plus 1 by n,  right? Or , we can write delta P del ta, right? Delta P del ta by 
+L to the power 1 by n this is equal to k to the power 1 by n into 2 n plus 1 by 3 n, right , into 3 
+vaverage  by del ta, right? Because , this one del ta we have taken out 1 by n del ta to the power 1 by n , 
+so, 1 del ta remains, right? So , delta, so, here it is del ta 1 by n so that is n , when it is inverse , there 
+and yeah , it goes to this side and inverse , so, it is okay.  
+So, that means we can write that delta P del ta over L is equal to , this was , 1 by n , so, k that goes 
+out then , 2 n plus 1 by 3 n to the power n and 3 v average  over del ta to the power n, right? Now , if 
+we define k double prime is equal to k into 2 n plus 1 by 3 n to the power n, right? Then , vaverage  
+can be written as del ta by 3 delta P del ta by k prime L into rather to the power 1 by n , k double 
+prime L to the power 1 by n, right?  
+(Refer Slide Time: 9:11)  
+ 
+So, we established earlier that for Non -Newtonian liquids through a slit , if the we  established 
+that mu is equal to delta P del ta by L over 3 v average  by del ta, right?  
+So, keeping the same ratio , we can write mu double prime  is equal to delta P del ta over L over 3 
+vaverage  over del ta, right? So , this is k double prime , 3 vaverage  over d elta, right? This to the power n 
+minus 1 and gamma double prime is equal to k double prime 3 to the power n double prime 
+minus 1, right? So , it should be , since , it is k double prime , so, v should be double prime, right? 
+So, because , n is equal to n prime is equal to n double prime , so, there is no change, but k is 
+equal to something into k prime is something into k is equal to again another thing into k double 
+prime.  
+So, it is not that all the time this n has to be, but it is rightly that instead of n prim e if we write n, 
+then it may  be misleading , that is why , when , k is k prime , n is n prime , when k is k, n is n , sorry , 
+and when k is kept double prime , n is also in the double prime , that should be written, right? So , 
+if gamma is so much, then N Re general , we can write to be 4 v average  delta rho divided by mu double 
+prime , which is 4 v average  into del ta rho divided by k double prime 3 v average  by del ta whole to the 
+power n double prime minus 1, right?  
+So, if this is true, then we can write , NRe general  is equal to 4 v average  to the power 2 minus n double 
+prime del ta to the power n double prime rho by k to the power rather , k double prime 3 to the 
+power n double prime minus 1 , that is equal to 4 v average  to the power 2 minus n double prime 
+delta to the power  n double prime rho divided by gamma double prime, right? So , from the 
+definition of fanning friction factor , we can write ‘f’ is equal to Tau at the wall divided by rho 
+vaverage  square divided by 2 , i.e., 2 delta P del ta by L by rho v average  square, right? This is equal to 
+2 delta P del over L rho v average  square, right?  
+(Refer Slide Time: 14:05)  
+ 
+Or, delta P is equal to ‘f’ rho L by del ta vaverage  square divided by 2, right? Now , for Laminar 
+flow through slit , we write ‘f’ is equal to 24 by N Re general  double prime, right? Then delta P is 
+equal to 24 gamma double prime by 4 v average  to the power 2 minus n double prime into del ta to 
+the power n double prime into rho L by del ta, then , vaverage  square by 2 , so, that is equal to 3 
+gamma double prime L by del to the power v average  by del to the power n double prime. Now , this 
+if we substitute , n is equal to 1 and k is equal to mu, then we get the same equation , as we 
+developed for flow through slit for Newtonian f luids, right?  
+(Refer Slide Time: 16:36)  
+ 
+So, this is what we can say that this is okay, now , if we do a similar problem , we have done 
+earlier , that is say , if we formulate the problem like this , that Non -Newtonian fluid, right? Say , 
+50 percent concentra ted milk having density rho is equal to 1030 kg per meter cube, right? And 
+is pumped through a slit , that dimension of the slit is like this , that dimension is like this x is 
+equal to 10 millimeter and y is equal to 5 meter, right? Of a rectangular slit , through a 
+rectangular slit , that slit is x is 10 millimeter , that is the width , and the other , I mean thickness , 
+and the other one is 5 meter, right?  
+And rest of the things are like this that the consistency coefficient k is equal to say 0.5 and milk , 
+it was say not 0.5 , 30 Pascal second to the power n , and n is 0.6 , so, if the Reynolds number is 
+NRe is 500, right? So , what is the pressure drop and v average ? So , that is , if we formulate , the 
+problem like this, then how can we proceed, right? So , let us see the solution what can be the 
+solution , if you remember , that what we did earlier , a similar thing , here, gamma prime is equal 
+to gamma double prime is equal to k double prime 3 to the power n double prime minus 1 is 
+equal to k into 2 n plus 1 b y 3 n to the power n into 3 to the power n minus 1. So , this is equal to 
+30 into 2 into 0.6 plus 1 divided by 3 into 0.6, right , divided by 3 to the power 3 n, right? So , k is 
+30, okay n is 0.6, fine , and this is , so much , so, this to the power 1 minus 0.6 , because , 3 to the 
+power n minus 1 , so, it goes divided by this then 3 to the power 1 minus n.  
+So, this is like that, so , this comes to equal to let us look into that calculator , so, it is 2 into 0.6 
+plus 1 divided by 3 into 0.6, right , is so much , divide d by x to the power 1 minus 0.6 that is 0.4 
+that is 0.7875, right? This into 30 is there, 23.63, right? So much Pascal second to the power n, 
+right? So , this is gamma , that is 23.63 Pascal second to the power n, right? Now , if gamma is 
+that, then for N Re general , given is N Re general  that is equal to 500, right? So , that i s what we have 
+given that for N Re general  500, so, we can write v average  is equal to N Re general  double prime gamma 
+double prime by 4 del ta to the power n double prime , rho to the power 1 by 2 minus n double 
+prime, right?  
+So, this we can write that , this is equal to 500 N Re general  gamma double prime has been found 
+23.63, right? And this is 4 into this del ta is given as 10 millimeter , so 10 millimeter is this 
+thickness, right? So , it is 2 del ta, so, only del ta is 5 millimeter, right? So , that is 5 into 10 to the 
+power minus 3 meter, right? So , we can write that 4 into 5 into 10 to the power minus 3 to the 
+power 0.6 into 1030, right? So , this is equal to , if we look at , this is equal to 50 0 into 23.63 is 
+equal to , divided by 4 divided by 5 into 10 to the power minus 3 to the power 0.6 is equal to this 
+divided by 1030 , 68.889 , so, 9 68. this is also there to the power 1 by 2 minus 0.6, right? 68.889 
+to the power 1 by 2 minus 0.6, so , that is to the power y, right? 1 divided by 2 minus 0.6, right?  
+So, this comes to 20.55, right? So , that came to be 20.55 , say 56 meter per second, therefore , 
+delta P can be written as delta P is 3 gamma double prime L by del ta vaverage  by del ta n double  
+prime, so , this is 3 into 23. This is 23.63 , that we found out as gamma double prime 3 into 10, 
+right? This is 10 by 0.1, L is , that is length , other side , so, L remains same , this is y , and L is 
+equal to 10 meter, right? 10 divide by D, D is 0.01, right?  2 del ta, so, this is 0.01 divided by 2, 
+right? And v average  is 20.56 divided by 0.005, right , to the power 0.6.  
+So, this comes on calculation , 208.95 bar, right? So , this way we can find out that what is the 
+pressure drop and velocity and we can do the si milar thing in our system, right? So , this we can 
+do and say there is no time left , so, we tell you that thank you for this class.  
+  

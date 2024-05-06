@@ -1,0 +1,169 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 24
+Module 5
+Flow through flat plates or slits
+Yeah, today we will do on flow through flat planes, right? Flow through slit or flat plates, those,
+as  we mentioned in the previous class that the flow  through the homogenizing valve, this
+homogenizing valve can be assumed to be say, slit, right? A very small hole through which it is
+moving and during that process, as we said earlier that the fat globules get homogenized or the
+bigger fat particles becomes smaller according to the size, which you have given, according to
+the space through which the flow is occurring, that will indicate that at what ultimate size of the
+fat globules you will get, right? 
+(Refer Slide Time: 1:32)
+So, let us look into that today. So, now, we have drawn one similar thing as it is here, flow
+through slit or flat plates, right? So, we have taken this to be enlarged figure of the slit, right?
+This is the enlarged view in which, we have taken a small volume element, right? We have taken
+a small volume element, and this volume element has the dimensions of delta x, delta y and delta
+z, right? Or, say if the third dimension be, delta z or H, and this width or one dimension could be
+2 delta, so that the center is at plus minus delta, right? 0 plus delta minus delta, and this is say, L
+and this is L, right? So, we will do the similar force balances as we have done earlier, and we will find out what is
+the velocity profile, and what is the stress profile in the volume element and then integrate over
+the entire range right? 
+(Refer Slide Time: 2:54)
+So, again, this we had taken as 2 delta so the axis is at the center. So, this is plus delta and minus
+delta, this is L length and height H, right? So, what is acting, P, pressure inside our inlet at P at x
+and at the outlet at the face, x plus delta x. It is P at x plus delta x, right? So, let us look into that
+so similar to the flow problems earlier we have done, right? (Refer Slide Time: 3:42)
+Here also, we assume some of the things that one is the flow is steady, then the flow is laminar,
+there is no end effect, rather it is fully developed, right? Fully developed flow and we will take a
+small volume and that small volume is having del x del y del z, right? This del x del y and del z,
+right? Where, we have shown this is the small volume, and the entire slit, we had shown to be
+equal to 2 del then L, 2 del in this way L in this way and H in this way, right? 
+That was the entire slit, right? Now, since, we are saying that it is a steady state, then, from the
+general equation, which we start with, that the general equation, or governing equation, that
+some of the forces acting on to it is equal to 0, right? And that also we will do here, but, since we
+said that the momentum transfer takes place in two ways, one by the bulk molecule, and one by
+the molecular transport, so this bulk force, bulk fluid, that term goes off, right? 
+Then, we are neglecting that, so unnecessarily we again writing everything momentum in minus
+momentum out for the bulk fluid that we are skipping. (Refer Slide Time: 5:55) 
+So, we are starting with that the momentum flux, right? Due to molecular transport momentum
+flux that we take as Tau yx at the face y plus delta y minus this is okay instead of flux we call it to
+be out minus in, right? Tau yx at the face y, Tauyx at the face y plus delta y, times the area that or
+rather, Tauyx at the face y times the area, i.e., del x into w, right?
+So this is area del x into w, this is acting, flow is occurring through this, right? We said, the flow
+is occurring like that, okay. So, there is the area del x into width, i.e., w or H. Ultimately it will
+come, right? This is the momentum flux, so pressure drop or pressure force acting on this volume
+element, net is P at the face x plus delta x, right, minus P at the face x, right, times the area, i.e.,
+del y times w, right? So, if this be true, then, some of the forces acting, we can write Tau yx at y
+plus delta y minus Tau yx at y, right? Plus P at x plus delta x minus P at x, this times delta y w, this
+times delta x w, right? 
+So, now if we divide, this is equal to 0, if we divide both sides with del x w and y, then next
+stage, we can write Tau yx at y plus delta y minus Tau yx at y over this, we can say delta y, minus P
+at x plus delta x minus P at x over, or, this is of course, plus divided by delta x is equal to 0,
+dividing by del x del y w, right? Then, we get this, and now if put that limit condition, limit delta
+y tends to 0, right? And the limit delta x tends to 0, if we put and then, from the definition of
+derivative, we can write that del del y of Tau yx plus del del x of P, del P del x, rather is equal to 0,
+right? 
+So, we can write del del y of Tau yx is equal to minus del P del x, right? So, this del P del x, you
+can write delta P over del x, i.e., delta P actually, this should have been written del y this shouldhave been written del x, right? So, this is del y this is del x exactly, so yeah this is del y this is del
+x, otherwise this is not coming, okay, del x del y, this area okay. So, this is 2 delta, which we
+ultimately said, so, delta P over this is del x, if it is written like that, so, minus delta P over L is
+del del y of Tauyx, right? 
+(Refer Slide Time: 11:58) 
+Then, we can now say that, this negative sign or del del y of Tau yx, this is equal to minus del P
+del x, is equal to minus delta P over L, this indicates  that x is increasing, right? As x is
+increasing, value of delta P is decreasing, the negative sign says that, alright. As L is increasing
+delta P is decreasing, right? So, we can write that del Tau yx, again, that del Tau yx, then we can say
+that, d Tauyx dy is equal to delta P over L. This delta P takes care of P in minus Pout, right, over L.
+So, this negative sign is taken into delta P, right? Now if we integrate, then, what we get that
+Tauyx is equal to, right, delta P over L into y plus C 1, right? So, what we can write at boundary
+conditions, if we put boundary condition, i.e., what, at y is equal to 0, if you remember, our thing
+like this, right? And this was like this, right? We said that this is 2 delta, okay. del y, it was, this
+was del x, and this was H, or del z, whatever you call, right? 
+So, at y is equal to 0, that means, this point, at y is equal to 0, Tau yx i.e., the centre, right? Not the
+one the center. So, tau at y is equal to 0, Tau yx is equal to 0, right? Then, we can write C 1 is also
+equal to 0, or Tauyx is equal to delta P over L into y, that is the stress profile, right? If you plot
+this stress profile, that as y is increasing Tau yx is also increasing, right? So, under limiting
+condition, i.e., when y is delta, then Tau yx will have one plus delta, when y is equal to minusdelta, Tauyx will have another, because, this we have told ultimately the bigger one is 2 delta, i.e.,
+the thickness, or width, or whatever we call, right? 
+Where, the axis is at the center. So, it is minus delta plus delta, say, this point and minus delta
+this point, right? So, here, it is 0, so, we write, this as y is increasing Tau yx is increasing true, but,
+it is putting to the limit, when, it is plus del then Tau yx is plus and, where is minus delta Tau yx is
+also some minus. That means, some, if this is the point, and if this is the point, this is 0, so, one
+will have one, and another will have this, right? This is the stress profile, if we take this to be the
+stress profile, okay fine.
+Then, substituting Tau yx as minus Tauyx is equal to minus mu del v x del y, right? We can write
+that, this is equal to delta P over L into y, right? And, if this is true, then again putting the second
+boundary, or, now, if we re-write this, del v x del y is equal to minus delta P over L, right? Or, L
+into y rather, okay, or we on integration, you can write that v x is equal to this minus delta P over
+L into C2, or rather, y, y square by 2, right? y square by 2 plus C 2, y square by 2 plus C 2.
+So, if we put that boundary, what is the boundary? Boundary is, at plus delta or, minus delta v is
+equal to 0 or vx is equal to 0, at plus delta or minus delta, because, plus delta is at the valve and
+this minus delta is also at the valve, right? So, in that case, we can say that this plus delta or
+minus delta, at plus minus delta, this is equal to 0, v x. So, we can write, 0 is equal to minus, say
+plus minus delta. We have taken, so we can write delta P over 2 mu L, this mu comes here, or,
+here, it should have been 2 mu.
+So, 2 mu L, right? 0 is equal to, this is plus C 2. So, if we take minus then C 2 is equal to delta P
+over 2 mu L, right? And we can write v x is equal to delta P by 2 mu L, if we take it to be
+common, right? Then, we have said delta P, this was y C 2 and of course y square. So it is delta
+square, right? This was delta square, so, C 2 is equal to this into delta square, right? So, if we take
+delta square common, or delta square minus y square is the v x, right? So, we can also write this is
+also equal to delta P delta square over 2 mu L into 1 minus y by delta whole square, right? 
+So, this is the vx at any instant, velocity is like that. At any instant, velocity v x that is delta P delta
+square by 2 mu L into 1 minus y by delta whole square, okay. 
+(Refer Slide Time: 21:27)Now, to understand for the next one that is now at y is equal to 0, what is the value of v x? vx
+should become vmax, right? I say again for understanding, put this, we had this, we had this, delta
+x, we had this delta y, right? We had this as H, or height, or delta z, whatever we call, right? 
+Then v at y is equal to 0 that is this, right? At y is equal to 0 we can say v x is vmax, right? What we
+had this one equation v x is equal to delta P by 2 L 2 mu L into 1 minus y by delta whole square,
+right? delta square, right? This is nothing but, parabolic equation, right? That is why the profile,
+we always observe to be parabolic like that, right? If we see the profile of velocity, it is always
+parabolic like this, right? So, this is also parabolic in nature, so, at y is equal to 0, then v max, vx
+becomes vmax and that it becomes equal to delta P into del square by 2 mu L because this becomes
+0, 1 minus this so that is 1.
+So, delta p delta square by 2 mu L is the v max, right? Next, we go to the other one that is the
+average velocity. (Refer Slide Time: 24:13) 
+So, vmax you have found out v we have found out, then, from there we have found out v max, you
+have also seen the Tau and now Tau, i.e., the momentum flux. Now, let us go to find out average
+velocity. So, average velocity v average that can be said to be equal to integration of 1 by A, 0 to l, 0
+to delta, or plus delta to minus delta, or 0 to delta half of that v x dx dy, right? So, this is nothing
+but L over delta L, right? Because, one integration of dv x dx, so that goes into this delta.
+So, equal to L, right? 0 to L, 0 to delta, y is there, so, v x dy, we have L by delta L, right? 0 to
+delta vx dy, we have and this we can write L by delta L, right? And v x, if we substitute with this
+delta P delta square by 2 mu L into 1 minus y by delta whole square, right? This was between 0
+to delta, right? This into dy, right? So, this on simplification, and integration, and simplification,
+we can write to be delta P, we missed out, delta P is there, so, that comes out delta P into delta by
+L, L goes out 2 mu L, this comes there, and on integration, dy is y, putting, the limit is delta
+minus this becomes delta cube by 3 delta square, right? 
+Delta cube by 3 delta square or this is becoming nothing but equal to delta P delta square, delta P
+delta square by 3 mu L, because this delta cube, this delta square goes out, it becomes delta by 3.
+So, 3 delta minus delta, i.e., 2 delta by 3, right? 2 delta this 2 and this 2 goes out, this delta
+becomes delta square and this 3 remains, right? So, this is 3 mu L delta P delta square by 3 mu L,
+right? And this, if you remember, we had made v max. vmax was delta P delta square by 2 mu L.
+Then, what is the relation between v average and vmax?vaverage and vmax that relation becomes equal to v average is equal to 2 third of v max, right? 2 third of
+vmax is the vaverage, right? So, this way, if we can find out that, what is the average velocity in terms
+of maximum velocity, it is 2 third. 
+(Refer Slide Time: 29:08)
+Now, if you remember, what it was, for the pipe flow, average velocity with maximum velocity,
+what it was, for the flow through ,or for film flow, and this is the slit flow, then this 3, you put
+together, and see that there will be a distinct difference between the three, right? 
+In one case, it is pipe flow, in other case it is film flow, in third case it is annular flow, and in the
+fourth case, it is that slit flow. So, all these four cases, you just see, what is the relation between
+vaverage and vmax, in all 4 cases, you will see that, they are distinctly different, and I tell you that
+you find out and make a tabular form, so that you remember them for future activities, right? For
+future work, or, in future, so that, you can memorize it. If required that, what is the velocity, and
+maximum velocity relation, in pipe, or in annulus, or in film, or maybe in case of slit, right? 
+Then you will see they are not same, they are different, okay. (Refer Slide Time: 30:40)
+Now, let us look into that H, we have said to be the height. Again, we draw that, H to be equal to
+the height, right? This was our H, and this H is quite bigger, right? H is much greater than that of
+delta, right? So, in that case, we can say that, the hydraulic diameter for the slit, that becomes
+equal to 4 delta, right? So, we can say, N Re, this becomes 4, because, we have taken, hydraulic
+diameter to be 4 delta, because H is much greater than 2 delta. So, hydraulic diameter becomes
+equal to 4 delta.
+So, we can write 4 v average del rho, sorry, delta rho divided by mu to be the Reynolds number. 4
+vaverage delta rho by mu, right? And fanning friction factor, “f”, we can write that is, Tau at valve w
+over rho into v by 2, right? Or, Tau at valve is equal to delta P delta by L, right? That is equal to 3
+mu L vaverage by delta square into delta by L, right? That is equal to 3 mu v average by delta, right?
+Therefore, “f” we can write, delta P delta over L over rho v average square by 2, so, this is 2 delta P
+delta by L rho vaverage square.
+Therefore, delta P can be written, 4 rho L by 2 delta v average square, right? So, this can be also
+written 2 f rho L by 2 delta into v average square by 2, right? So, if you, here, it is 2 delta, here it is
+2, right? So, if we remember, for the pipe flow, what was delta P, right? That with “f”, that was 4
+f rho L by D v square by 2, right? So, that was for the pipe flow, so this is also analogous, so, that
+is why these four, as I said that if you find out, all 4, you will find it to be so different and then
+you should have all these together in one page and then it will be easy for you to remember, okay
+thank you.  
+ 

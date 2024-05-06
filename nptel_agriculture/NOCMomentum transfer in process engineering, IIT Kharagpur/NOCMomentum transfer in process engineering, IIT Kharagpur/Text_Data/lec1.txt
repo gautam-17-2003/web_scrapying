@@ -1,0 +1,260 @@
+Course on Momentum Transfer in Process Engineering 
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering 
+Indian Institute of Technology, Kharagpur  
+Lecture 1
+Module 1
+Mass balance in a Control Volume
+Good morning, as you know that this course has already been uploaded and from there you have
+seen that  what  the  topics  we will be covering are and I have  also given  a little  on what
+applications it will have. So any process engineering this process does not mean that it is only
+associated with food, but it is associated with chemical, biochemical any kind of processing
+where it is being used and this being a fluid, that is momentum transfer through fluid, so we any
+fluid where which is coming across in any processing this course will be very helpful for them
+both in understanding and in application.
+So you will be very much benefited if of course we will be giving you some assignments, some
+solved solutions and some understanding of the application of the respective topics or respective
+aspects. So that you see when it is coming as an when rather it is coming as you know it is (sixty)
+12 weeks course and it will be cover it rather it will be covered in 60 lecture classes and
+assignments will be altogether different they will be also uploaded in due time and you any doubt
+any moment anywhere and one more thing, let me tell, in some of the cases, purposefully when I
+will be dealing with in some equations there could be something wrong, that is purposefully done
+so that we would like to know whether you are following it rightly or not or just like that you are
+following.
+So you must also see if there is any mistake and bring to my notice, definitely I will tell whether
+that was right or that was wrong, right? This is done purposefully so that you can find out if there
+is any flaw that will help you to understand more in detail if there is fault and you can identify
+the fault that is the most primary thing that if you are able to identify, right? So in momentum
+transfer when we are talking about definitely a fluid will start from the very basic definition of
+fluid, equation of continuity that will be our beginning of the entire course so we will start from
+there.(Refer Slide Time: 3:39)
+So when we come to that momentum transfer in process engineering, then we will see we are
+starting with: there are two types of fluids, one is compressible fluid and the other one is
+incompressible  fluid,  right?  So  we  will  start  with  compressible  fluid  and  the  equation  of
+continuity from there we will start, right? And in that case you will see that this is applicable to
+many unit operations in processing like flow, behavior of the fluid that in many cases that is
+important and when it is important, that time this equations or these applications these topics will
+be very much useful.
+Now, let us define what is fluid, right? So a fluid we define in such way that which does not
+permanently resist distortion and hence will change its shape, right? So those substances which
+will not have permanent distortion when you are subjecting it to any force so that we call to be a
+fluid, for example, you have seen at home also when you are keeping water in a water bottle,
+then it is taking the shape of the water bottle (shown in video) whereas when you are keeping in
+the pressure cooker, it is taking the shape of the pressure cooker, right? 
+And in the pressure cooker you are applying force, but still it is there and it is and if you take
+back after giving some force then you take back open it you will see that the same water was
+there, that means it is not undergoing any permanent deformation, right? Local, temporary that
+could happen and that analysis has to done, examples of course as I give that an liquids are water
+is our liquid vapors and they obey this kind of liquid behavior or fluid behavior, right? Carbon
+dioxide gas, oil, milk, and milk is another very handy example handy example why I say both
+water and milk which we come across very now and then, is it not?We come across every now and then primarily water and then milk also and if you take it to be
+an application of food, then milk is one such fluid which is very widely used and processed in
+the industries but that indicates that this is a fluid which we can definitely take care or this can be
+an example of the fluid, right? 
+(Refer Slide Time: 6:56)
+Then, there are as we said in the beginning there are two types of fluids, one is incompressible
+and  the  other  in  compressible  fluid.  Now  incompressible  fluid  is  that  which  inappreciably
+affected by change in pressure, right? 
+For example, most of the liquids are like that, means if we give pressure, then the changes are
+not appreciable so that we have to keep in mind. So like say water, if we give some pressure to
+that its property values are not significantly changing so those whose property values are not
+significantly changing with little pressure or adequate pressure, that is called incompressible
+fluid, whereas the other one compressible fluids they are if subjected to pressure, they are
+changing their properties, their behavior and in that case we call them to be compressible fluid.
+So we start with that and mostly now will be handling with the incompressible fluid, right? Then
+we come to because we are saying we will start from the equation of continuity then what is
+continuity, right? What we understand by the term by the word called continuity. So, a fluid is
+considered as a continuous distribution of matters or continues them till a smallest volume of
+fluid contains a large enough number of molecules so that a statistically average is meaningful
+and the macroscopic properties, for example density, pressure etcetera smoothly or continuously
+they change from point to point, right?So that means this small volume that is as we you know the term called infinite is evenly small,
+right? Small, this word is meaning that as small as we can think of and if even in that this is
+where this volume will have sufficient number of molecules so that a significant meaningful
+behavior in terms of the property values like pressure, pressure is not of course property but
+density under pressure they are significant, they can be also having a continuous behavior. So in
+that case we call it to be continuity, right?
+(Refer Slide Time: 10:09)
+So then, let us come to momentum transfer, right? So we will come that momentum this word is
+coming from the definition how the definition is coming momentum, right? Where from it is
+being derived that will come in subsequently, but momentum can be either fluid at statics or fluid
+at rest or fluid dynamic and the dynamic condition that is fluid in motion wherein momentum is
+transferred and this transfer is known as momentum transfer, right?
+Normally, we also call it to be transport of momentum depending on where from your taking the
+sources, which means book, which book you are following depending on that it may have this
+term also the transport of momentum or normally, generally, we call it to be momentum transfer,
+right? So when we look into the overall part of this momentum transfer, then we call that overall
+mass energy and momentum balances are on arbitrary finite volume called controlled volume. 
+(Refer Slide Time: 11:42)Now, this control volume can be like this that if we take this small volume (shown in the video),
+right? So this can be said as to be control volume and so if this and surrounding is all around this
+as the surrounding.
+So, if we can derive the properties or equations based on this control volume, which we can
+integrate into the entire environment or entire place where this fluid is associated, right? So this
+control volume is that where the things needed a state of inlet and outlet of the streams and
+exchanges with surroundings, right? So there will be, of course in this control volume, one inlet
+and one outlet. So if it is inlet and if it is outlet, so if we say, in a pipe, like that, so, if this be the
+pipe sectional view (shown in the video), then this we can say to be inlet and this we can say to
+be outlet, right? And this will have a finite control volume, right? 
+So, a differential element for a control volume is normally used. In this control volume, we will
+take the differential element and differential balance is made in a single phase and integrated to
+the phase boundary using the boundary conditions. Therefore, one thing we have to keep in mind
+that as we said that we will be doing everything based on this control volume, but if we integrate
+over the entire fluid domain or boundary of the fluid knowing the boundary conditions, then we
+can say this deduction or derivation is valid for the entire fluid, right?
+(Refer Slide Time: 14:11)Then, we always start with the differential equations. Mind it, one more thing, I should have said
+in the beginning that for understanding or for pure derivation of these subject as a whole, if you
+have a good knowledge of the differential equations, then that will help you to understand very
+much because all the time it may not be possible, for who so ever is being teaching that going
+into detail into mathematics than into the physics. So we will be handling more on the physics
+than on the mathematics, right?
+So, we assume that you understand the differential equations and that will help you a lot. So, if
+any deficiency in differential equation handling, please try to get into that and then come into this
+subject. It will be very good for you and helpful to understand, okay. So, always we will start
+with  the  differential  equation  of  the  conservation  of  mass  and  momentum  in  general  and
+unwanted terms if there be any will be discarded. That is the easiest part that if there be any, you
+will see that subsequently, when we are processing, when we are proceeding rather, then you will
+see that there will be some terms which may not be having that much significance on that
+particular topic or on that particular matter that may be discarded, right?
+Now differential momentum balance to be derived is based on the Newton’s second law and
+allows determining, what are the things, which we can determine, with the help of the Newton’s
+law, that one is variable of velocity and position and time, right? 
+(Refer Slide Time: 16:38)So, if velocity, if we assume it to be infinitesimally very small, right? And it will have if we said
+this is the inlet and if it is the outlet, right? Then this and if we assume it to be very small rather it
+should have been this is the pipe, right? Rather this will have a velocity in this direction, right
+(shown in the video)? 
+And when we are determining this velocity this Newton’s law will tell us that how the variation
+of velocity with position and time, right? Normally, anything which is independent of time, we
+call it to be under steady state, right? But, if it is not independent of time, rather, if it is
+dependent on time, then we call it to be unsteady, right? During that period it could be unsteady
+or steady depending on the situation which will come across, right?(Refer Slide Time: 18:02)
+So, other things, which we can also derive from the Newton’s law, is that pressure drop in a
+laminar flow and also we can find out the turbulent flow with certain modification of that
+laminar flow equation. So, if we accept this thing, then we can proceed further. Now, we come to
+what is the Newton’s law that is the second law of motion? What is it saying? It is saying that the
+rate of change of momentum of a system is equal to the sum of the forces acting on it that acts in
+the direction of the force, right? As you see that it is nothing but the summation of the forces,
+right?
+(Refer Slide Time: 18:49)
+This is equals to dp / dt, right? Obviously this we can say that this p to be equal to mv, i.e., the
+momentum. So these equations are called the changes of equation or equation of changes which
+tells the variation of properties with position and time. 
+(Refer Slide Time: 19:21)
+Now we should also know certain things. These are preamble or prerequisite for the subsequent
+equations  or  subsequent  derivations  so  that  we  should  also  know, like,  sum  mathematical
+terminologies like partial time derivative.(Refer Slide Time: 19:51)
+Now, partial time derivative, which we express as  ρ / δt, right? This way we express to be
+partial time derivative where it is said that if the variables is, say density, then the partial time
+derivative of this density can be written as ρ / δt and this indicates that a local change of density
+with time at a fixed coordinate of x, y, z, if we take it to be the x, y, z coordinate, similarly r θ z
+or r φ θ.
+So, depending on which axis you are taking that will indicate whether we are taking x, y, z
+Cartesian coordinate or cylindrical coordinate, right? So, this is then partial time derivative, then
+comes total time derivative. (Refer Slide Time: 21:16)
+Total time derivative is that if velocity in x, y and z directions are, say dx / dt, in the x direction,
+in the y direction, dy / dt, and then in the z direction, dz / dt, if they are in x in y and in z
+directions. Then, the total time directive, which is of course a function of time and velocity
+component is dρ / dt and that can be written as ρ / δt + ρ / δx  X  dx / dt + ρ / δy  X  dy / dt +
+ρ / δz  X  dz / dt, right?
+As I said that there can be some mistakes in the thing which if you can identify then let us know
+and we will definitely let you know. I hope here you have seen that there is one mistake already
+there, which can be identified. This is for your understanding. I am just telling, otherwise, see,
+these things, I could have obviously, beforehand, corrected and made it okay. But, purposefully, I
+am not keeping, because here you see, in this particular one, where we said that dρ / dt is ρ / δt
++ ρ / δx  X  dx / dt, that is the velocity component that is the time derivative, right?
+And plus ρ / δy  X  dy / dt plus ρ / δz  X  dy / dt. This should have been dz / dt, right? So it is
+dy / dt instead of that it should be dz / dt, right? So this you please check and then bring to (ou)
+my notice as an when you come across so there will be obviously one communicating media
+through between you and me where you can ask whether this is correct or not and definitely I
+will let you know whether it is right or not. This kind of mistakes in cases, I have particularly
+kept for you to identify. So, the identifying the mistakes will make you understand more in depth
+than just following this you keep in mind, okay.And it could be that there could have been no mistakes, but I do not want because I want you to
+identify, okay. 
+(Refer Slide Time: 24:34)
+Then, another time derivative, that is called substantial time derivative, which is also defined.
+This substantial time derivative is known as that, the derivative that follows the motion, right?
+(Refer Slide Time: 24:57)
+So we can say Dρ / Dt, this is, of course, you see, the operand are, here it was , here it is capital
+D, right? The operand, so this operand Dρ / Dt is equal to ρ / δt  + vx (ρ / δx) + vy (ρ / δy) + vz
+(ρ / δz), vx is the velocity in the x component, v y is the velocity in the y component, v z  is the
+velocity in the z component, right?So this is called substantial time derivative. Now, this is applicable where v x, vy, vz of course are
+the velocity components in the respective directions of x, y and z, right? So, if v is the velocity,
+then velocity component in x, y, z components are v x, vy, vz. Now, for understanding of these, I
+can give you one example, very good, which, in many of the books, you may get, or, if you are
+not coming across them, rather, it is very helpful, that, suppose you are standing on a bridge,
+right? 
+(Refer Slide Time: 26:38)
+And down below a bridge one lake is flowing. Now you know that if there is a lake, say this is
+the lake, right? And there is water in it and the water, deepening on the air flow, how they will be
+having a one unidirectional, normally, if there is a turbulence, if there is very much, when there
+is storm another things that is different, right?
+If there is a storm, then there could be turbulence in this but otherwise normally what we see that
+this is having a unidirectional flow and say you are standing over this (refer video) there is a
+bridge and you are watching, let there be some fish, right? Let there be some fish and you are
+counting the number fish which we can tell to be the density of the fish in the pound, right? Now
+when you are static on a point, here, say if you are static on a point here say, right? You are static
+from this point and if you, and of course, these fishes, they will move all around, right? And that
+will not be dependent on the direction of the flow of this stream, they will move all around.
+So, if you are finding at a definite location, x, y, z of this, and if you find out the density of fish at
+that location, then we can call it to be partial time derivative, i.e., ρ / δt, which we said, that can
+be said in this case that, this is ρ / δt, right? And if you are again standing over there now youhave come down, okay, you have come down and you are moving with a with a speed boat, say,
+with a speed boat you are taken, and with that speed boat you are moving and assume normally,
+speed boat we know, this direction, this direction, it is y, z direction, unless it is submarine kind
+of thing, you, it is not possible but you assume that you can have that facility also, then you can
+flow, you can move in any direction, right (refer video)?
+So, you can move with the x direction, you can move in the y direction, you can also move in the
+z direction. Now, if we are also moving and then if you count the number of fishes at a location,
+then that will be on the second one, which we said, this is the total time derivative, right? So in
+that case this total time derivative dρ / dt, right? That is the density of the fish with time plus ρ /
+δx, right? That is the location at x, how the density is changing with the velocity dx / dt, which is
+likely, you understand that, your speed boat, if you are moving very slowly, so that will have a
+velocity, if you are moving in a higher speed that will have another velocity, right?
+So, obviously you are watching that how many fishes you can count, in that case that velocity
+will be a factor. So, there it is coming into this term dx / dt, right? And that location density, ρ /
+δx, right? Similarly when you are going to the y direction with the velocity rather dy / dt, i.e.,
+this velocity if you are moving in the y direction, then it will be ρ / δy (dy / dt) and similarly for
+the z direction ρ / δz (dz / dt). So this is called to be the total time derivative.
+Another example, third example which we can give for the substantial time derivative, that can
+be said that, when you are not moving, in first case you are standing on the height of that bridge,
+second case you are moving with the speed boat by which the velocity of the boat you have taken
+care of that velocity of the boat and then you found out total time derivative, but the third one if
+you are allowed, say you are in many cases, you have seen that you are moving with a canoe.
+Now, canoe is, that means, there is no speed boat or driven thing, you are moving along the
+stream, right?
+So, when you are moving along the stream then if you see that, what is the effect, in that case the
+stream will be, or your velocity will be, in the direction of the stream only. So it may be at some
+time, it is the only x direction, it may be x, sometime it is only in the y direction, obviously for
+all practical purposes what example we have given here z direction, normal, not normally, but
+you assume that any one of this x, y can also be taken as to be equal equivalent to z then we can
+say also z direction. So if you are moving with the canoe in the x or y or z direction, then thechanges in the density of the fish counting that is, in this case, density, means not the fish density,
+number of fishes per unit volume, that is the density of the fish we are talking about.
+So, if that density of the fish to be there, you can count them in, on the canoe, moving along the
+canoe in the direction of the stream flow. In that case, it will be that substantial time derivative or
+capital D operand capital D rho capital Dt (Dρ / Dt). that is equal to del rho del t (Dρ / Dt), right?
+That is the time derivative of the density plus v x, that is the velocity component in the x direction
+vx and times (X) del rho del x ( ρ / δx) plus vy times (X) del rho del y ( ρ / δy) plus vz times (X)
+del  rho  del  z  (ρ  /  δz),  Dρ
+Dt=∂ρ
+∂t+vx∂ρ
+∂x+vy∂ρ
+∂y+vz∂ρ
+∂z,right?  So,  depending  on  this
+definition,  right?  We  have  given  explicitly  this  because,  so  that,  you  can  understand.
+Subsequently, you will see, when we are proceeding towards continuity of equation of motion,
+equation of continuity in all these cases these derivatives will be utilized, right?
+So, substantial time derivative, total time derivative and partial time derivative, these three will
+be very much needed in subsequent development. So what we understand, what we learnt today
+is that what is the fluid, and what is meant by fluid, and how the Newton’s second law of motion
+we can utilize, and then how the different terminologies of the mathematics that is the derivative,
+what we say partial time derivative, then differential total time derivative and then substantial
+time derivative these three we have learnt.
+So, in the next class definitely we will go into the equation of continuity. Now we go to the
+equation of continuity, as we said the definition of continuity, when we defined continuity, that is
+a small volume, much small you can think of, that will have sufficient number of molecules so
+that it will have a meaningful, that is the property values, will be a meaningful ones and there it
+can represent the fluid, in that case, that small volume will be taken as the control volume, and
+we will then add on or integrate, whatever we call, add on or integrate, and over the entire
+domain, or which we call, to be the boundary.
+So, on the boundary, and depending on the boundary conditions, these solutions will be found
+out, right? So, I hope, in the next class we will again start with the equation of continuity, okay
+thank you. 
+ 
+ 

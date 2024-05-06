@@ -1,0 +1,135 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 47  
+Module 10  
+Flow through packed beds  
+Okay, we have done flow through pipe, flow through slits for both Newtonian and Non -
+Newtonian fluids, right? So in Non -Newtonian fluids we also have to develop many things like 
+generalized coefficient of viscosity or generalized Reynolds number things like that, right? Now 
+let us move to  another very important aspect , i.e., flow in Packed Beds or Porous medium, right?  
+(Refer Slide Time: 1:02)  
+ 
+Flow in packed bed , so, flow in packed bed or porous medium this is very important because in 
+many cases , when you are handling , I am not saying only food material , because , this is not 
+restricted to food material only , this is a general thing , where in many cases , maybe for minerals, 
+maybe for metals, maybe for chemicals, maybe for many other metallurgical applications , these 
+are possible , because , you have the packed bed.  
+(Refer Slide Time: 2:08)  
+ 
+Now , what we understand by packed bed? That is a bed , say this is a pipe , which is filled with 
+certain material , like this, right? And depending on the material we call it to be a size of the 
+material we call this condition to be under packed condition, right? And depending on how these 
+materials are sized , and in what way , in what density , they are packed, so , this we call to be a 
+packed bed , if your fluid is flowing through this , and going out of this , then, we call it to be flow 
+through packed bed , or in many cases , this is also termed as porous medium, why porous 
+medium?  
+Because , if you look this section, then w hen it is porous , means this material, this material, this 
+material , so, within this the fluid is flowing like that, right? So , that means there is a gap between 
+the materials, so , the fluid can move this way that way like that and when it is moving like t hat it 
+is called a porous medium, right? That means , in the medium , there are pores , through which the 
+fluid can move, right? Now , to go for this , let us now define certain things . So, its applications 
+are applications of this systems , is that catalytic re actor, hydrogenation of vegetable fat, 
+absorption of solute, filter bed, etc . right?  
+Now , let us define certain geometric definitions like the geometric relations like epsilon , this is 
+called volume of voids in the bed over total volume of the bed, right?  Certain , this is epsilon, 
+right? And this is called geometric relation in packed bed, right? Specific surface area of particle , 
+this is , if a v is S p over V p, i.e., surface area of a particle to volume of particle. So , this specific 
+surface, surface area of particle to volume of particle , that means it has unit a unit of meter 
+inverse, right?  
+So, this is in meter square, this is in meter cube , so, the a v comes to be meter inverse, right? So , 
+this is  specific surface area , but, since , it is specific surfac e area that is why this unit is meter 
+inverse, right?  
+(Refer Slide Time: 7:14)  
+ 
+Now , for spherical particle , we can say that , av is equal to surface area of the particle , i.e., pi 
+Dparticle  square divided by pi D particle  cube by 6, right? So , this D particle is D p is diameter of the 
+particle in meter, right? Therefore , we can say , diameter of particle is nothing but 6 over a v, i.e., 
+specific surface area.  
+Now , if we define another term called ‘a’, as the total surface area available per unit volume of 
+bed, if we say that, then , ‘a’ becomes equal to a v into 1 minus epsilon, right , which is 6 times 1 
+minus epsilon, right? And if this is 1 , if ‘a’ is that , and if phi is the sphericity of the particle, then , 
+we can write , 6 time into 1 minus epsilon divided by phi s into D p, right?  
+(Refer Slide Time: 9:53)  
+ 
+Where , this phi s is the sphericity , and this is defined as phi s is the sphericity of the particle, right? 
+Sphericity of the particle which is defined as S s over V s over S p over V p, right? Where , Ss is the 
+surface area of a sphere having same diameter as the particle , Dp in meter square , Vs is equal to 
+volume of the same sphere, right , in meter cube , Sp is equal to surface area of the particle in 
+meter square and V p is the volume of the same particle  in meter cube.  
+Now , what we understand by the term sphericity? Mathematical ly, we have said something, but 
+physically , what we understand , that is the most fundamental thing which we have to understand, 
+right?  
+(Refer Slide Time: 12:22)  
+ 
+Say, this is a material, right? Does this material have a diameter same as that of this D s? No , it is 
+not everywhere D s, maybe at some places , it could be D s, but many others , it is not D s. So, in that 
+case, this will not be a sphere , but how close it is to the sphere having the same diameter as that 
+of the sphere , so, that we would like to know and that is the sphericity of the particle.  
+That means , how close it is to the particle having the diameter D p close to that of the sphere wit h 
+the same diameter D p, right? This is what exactly sphericity means , that whenever you are doing 
+this, you must know the sphericity of the particle. Now , you know that if this is a cylinder having 
+a diameter say D c, right? What is the area of this cylinde r? Pi D c square or there is a surface area, 
+right? Now if this is D c, right? And diameter is D c and if the height of that is also D c, right? 
+Then , all the three dimensions of this will be D c, so, it is D c by D c by D c, so, it is D c cube.  
+So, it should be a sphere because all the dimensions of the 3 dimensions are and equal to D c, so, 
+it should be same as D c of a sphere, but it is not, right? Does it look like that it will be a sphere? 
+It does not, right? Though , the dimension wise , we can say  that, it could be same as that of the 
+sphere, but it is not so, right? So , that understanding , that how close it is to the sphere, how we 
+can define this , that particle closeness to the sphere , that is the sphericity, right?  
+So, that is why sphericity is  defined as S s by V s over S p over V p, Ss is the surface area of the 
+sphere having the same diameter of the particle D p in meter square, V s is the volume of the same 
+sphere in meter cube , Sp is a surface area of the particle again in meter square and V p is the 
+volume of the same particle in meter cube, right? Now , for fine particles , Dp is the sieve  analysis 
+diameter or nominal diameter, right?  
+(Refer Slide Time: 16:30)  
+ 
+For, okay , for Dp is large, then , it can be said that diameter of the particle is the diameter of the 
+sphere having equal volume as that of the particle.  
+So, large particle , means where particles , whose diameter can be assured or is greater than or can 
+be measured or can be assured in ter ms of measurement or can be measured or is greater than 1 
+millimeter, right? Now , for small particles , Dp is the si eve size or is the sieve analysis size or it 
+can be a nominal diameter, right? So , we can say , phis is equal to 6 over D p over S p over V p or, 
+this can be rewritten as , 6 V p over S p into D p, not, sorry , sorry, 6 V p over S p into V by D p 
+(())(18:16) Sp into Dp, right? 6 Vp over Sp into D, if that be true then we can define another 
+thing which is called hydraulic diameter , hydraulic radius, right? Hydraulic radius, so , hydraulic 
+radius , rh, that is defined as r h is equa l to cross sectional area available for flow over weighted 
+perimeter, right?  
+So, this we can write cross sectional area times Capital H over weighted perime ter times H, 
+right? Now , this means this is nothing but void volume, right? And this means weighted 
+perimeter into H , total surface area, right?  
+(Refer Slide Time: 20:27)  
+ 
+So, if now , we do a little jugglery , rh is to void volume , divided by total volume over total 
+surface area divided by total void volume by total volume total surface area by total volume, 
+right? So , void volume over total volume by total surface area by total volume.  
+Now , void volume by total volume , we have seen  this is equal to epsilon by 6 into 1 minus 
+epsilon divided by phi s Dp, right? So , this is equal to epsilon phi s Dp divided by 6 into 1 minus 
+epsilon, right? Now , for that , we can write , equivalent diameter , capital D is nothing but 4 r h, 
+right? So , this c an be written as 4 epsilon, now if we introduce the term , we have introduced that , 
+phi s into D p, right? Divided by 6 into 1 minus epsilon, right? Now , that v prime is the velocity , if 
+v prime is the velocity based on empty cross sectional area of the bed a nd v is the actual velocity 
+through void space, right? v prime is the velocity based on the empty cross sectional area of the 
+bed and v is the actual velocity through void space, right?  
+So, if that is true , then we can write v  prime is equal to epsilon in to v, right? Therefore, we can 
+define N Re particle  is equal to D v rho by mu , by common definition , now, if we substitute this D 
+with the equivalent diameter, or hydraulic rad ius and equivalent diameter, so , this becomes v 
+double prime 4 r h into rho divided by epsilon into mu, right? So , this is nothing but 4 v say , 
+prime or double prime , does not matter here , we have given v prime, right? So , v prime 4 v 
+prime epsilon phi s Dp rho divided by 6 into mu into epsilon into 1 minus epsilon, right ?  
+So, this we can rewrite as , 4 phi s Dp Vp prime rho divided by 6 mu 1 minus epsilon, so , this is 
+phi s Dp v prime rho by mu into 1 minus epsilon, right? So , this is N Re particle , not D  v rho by mu, 
+right? So , till now then , we have defined many things for  packed bed, number 1 we have said 
+that what is the area, then what is the specific surface area, then what is the hydraulic radius, 
+what is the hydraulic diameter, then we also have said the specific rather, okay , specific surface 
+area, we have said , and also we have said , the sphericity , defined sphericity, then after that 
+definition when we came to N Re, i.e., Reynolds number, right?  
+So, NRe of the particle , normally , it is D  v rho by mu, but , since , it is for particle , and D is not for 
+the phi, so , that equivalent , or hydraulic radius , or hydraulic diameter , that has to be found out 
+and for which , it has become v prime 4 r h, okay , v is also not v prime, v is also not v , it is also v 
+prime , that is the velocity based on empty cross section, right? So , that is why the Reynolds 
+number is not D  v rho by mu , so simple it is , some , a little complicated , as phi s Dp v prime rho by 
+mu into 1 minus epsilon, right?  
+So, till now we have started this packed bed , so, we have also to go a long and today of course 
+we have come to the end because time is not there, so , we finish it today thank you.  

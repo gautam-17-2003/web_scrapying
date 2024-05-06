@@ -1,0 +1,219 @@
+Course on Momentum Transfer in Process Engineering
+Prof. Tridib Kumar Goswami 
+Department of Agricultural & Food Engineering IIT Kharagpur 
+Mod 02 Lecture 07
+Application of Navier Stokes Equation
+Good morning. If you remember, in the previous classes, we had dealt with equation of
+continuity and equation of motion. So we developed in both R component, theta component
+and z component that is in the cylindrical co-ordinates, i.e., R, theta, z. We had developed,
+also we developed in x, y, z co-ordinate, and we also got the equations for the spherical co-
+ordinates r, theta, phi, right.
+(Refer Slide Time: 1:34)
+Now, the question comes, in the last class, if you remember, in the last slides, where we had
+given these equations of motions, i.e., Navier-Stokes equations. These equations were not so
+much visible, the reason being, the color was mismatched with the background, was not, was
+rather, there for which it was not properly visible, right, and besides, if we recapitulate that
+what was the equation, then we say that it was like this, in the R-component, i.e., Rho del v r
+del t plus vr del vr del r plus vtheta by r del vr del theta minus v square theta by r plus v z del Vr
+del z that is equal to Mu times del del r of 1 by r del del r of r v r plus 1 by r square del 2 v r del
+theta square minus 2 by r square. This also should be del 2 v theta del theta square minus 2 by r
+square del vtheta del theta plus del 2 v r del z square minus del p del r plus Rho g r. This is for the
+R-component, right, and then we proceeded to, this is for R, theta, z in which R-component
+of the equation of motion was like that.
+(Refer Slide Time: 2:57)Now, if you look into the other 2 components, like theta component, then theta component
+looks like this, that Rho into del v theta del t plus vr del vtheta del r plus vtheta by r del vtheta del theta
+plus vr vtheta over r plus vz del vtheta del z. This is equal to Mu times del del r of 1 by r del del r
+of r vtheta plus 1 by r square del 2 v theta del theta square plus 2 by r square del v r del theta plus
+del 2 vtheta del z square minus 1 by r del del p del theta plus Rho g r, this is for the theta
+component, right.
+(Refer Slide Time: 4:06)
+So, if R and theta is done then we left with the third component that is the z-component, r,
+theta, z is our co-ordinate. So, if you look at that z-components looks like this, Rho times del
+vz del t plus vr del vz del r plus vtheta by r del vz del theta plus vz del vz del z, this is equal to Mu
+times 1 by r del del r of r del v z del r plus 1 by r square del 2 v z del theta square plus del 2 v z
+del z square minus del p del z plus rho g r, right.So, this is, these are rather, all three co-ordinates, or, rather, three components of the co-
+ordinate system R, theta, z and why we recapitulated, because, it was not properly seen in the
+previous class last slide. Again, I say that this was due to the mismatch of the color with the
+background so that was not visible; however, it is rectified now, one more reason, of course,
+is that in this is the basis of the further development, further for follow up of these equations.
+Now, it is one of the best way of knowing any anything, i.e., until and unless you solve some
+problems, you identify the parts of this equations, identify individual components, and then
+you implement it in the problem, and solve the problem. If you can do that, then, it will
+appear that you have understood these equations, meaning of thus equations, meaning of the
+individual components, how one component is affecting the other? These terms must be
+known and must be understood. So, this is the reason we recapitulated and now we will try to
+solve some problems so that our understanding becomes more clear, right.
+(Refer Slide Time: 6:38) 
+So, let us go to the problem, say, if we define the problem like this, if an incompressible fluid
+is flowing between two vertical coaxial cylinders, and the outer one is rotating with an
+angular velocity of omega then determine the velocity for the tangential laminar flow. I repeat
+if an incompressible fluid, so, here, we are taking the fluid to be incompressible, is flowing
+between two vertical coaxial cylinders, right, so, we have two cylinders, so one cylinder like
+this and the other cylinder like this. These two cylinders are there and the outer one is rotating
+with an angular velocity of omega, so, if this is the outer one, so this is the inner one, so inner
+one is fixed, outer one is rotating with an angular velocity of omega, then determine the
+velocity for the tangential laminar flow, right.Now, given this problem, here, we assume, one thing, that the flow is steady. There is no
+unsteady component. Then, because, as we said that this is the outer one and this is the inner
+one, inner one is fixed outer one is rotating with an angular velocity of omega. If that is there,
+then, the fluid inside between these two i.e., in the annular space, how is the velocity profile?
+What is the momentum distribution that if we find out then we will be able to understand and
+use the Navier-Stokes equations properly, right. So, for this, what we need to know first, what
+is the problem theoretically given and how it looks like on paper.
+(Refer Slide Time: 9:18)
+Now, if you look at this, what we are given that, we have two cylinders, this is the outer
+cylinder and this is the inner cylinder, right. So outer cylinder and inner cylinder, so if this is
+the inner cylinder and if this is the outer cylinder, right, and if this is the center, then, we have
+the radii as this one is R, and this one is some multiple of R, say kR, right. So, if this is true,
+then, of course, this is the outer  cylinder and this is the inner cylinder, right, and we said that
+it  will  have  an  angular  velocity  of  omega,  right.  This  principle  is  used  in  Brookfield
+viscometer.
+So, if we look at the velocity components, we will look into this, looks like this, right, where
+this vtheta is function of r, right. So, this and  inner cylinder has a radius of R and the outer
+cylinder has the radius of a multiple of R, say kR. What that k is unknown; k is a constant
+which we do not know. So, it can be anything twice of R, half of R, 0.3 of R, 1.8 of R,
+whatever value you can assign to it, right. So, it does not matter. So, we have to find out this.
+So, this problem, if again, I am repeating that this is the outer cylinder, this is the inner
+cylinder and the fluid inside is air, right and this what we said, this inner cylinder is fixed and
+out outer cylinder suddenly started rotating with an angular momentum of rho omega. So, at
+steady state, what is the velocity distribution, and what is the momentum profile, that, if we
+can find out, or, say shear stress component, that, if we can find out then we will be able to
+understand how the Navier-Stokes equations can be utilized to solve this kind of problem,
+right.
+(Refer Slide Time: 12:05)So, if we look at whatever is given, now from this problem, what we understand that number
+1, it is incompressible fluid. So, Rho is constant, right. It is incompressible fluid Rho is
+constant. If Rho is constant then many factors will go out, number 1. Number 2, we said that
+there is, this flow is, of course, we assume to be laminar, right. Why you are assuming it to be
+laminar? If we again look into this, this is there and this is the outer. So, the layers which are
+like this, right, layers which are like this, these are the liquid layers. When they are moving
+like this, this interaction between the layers is not there. So, that is why we assume it to be
+laminar, that, if, we assume the flow to be laminar we assume that the density of the fluid is
+constant, then if that be true then there is no interaction between the layers. So, when there is
+no interaction between the layers, that means one layer with the other layer, they are not
+having any mutual interaction, right. They are just moving freely and this we have depicted
+like this, right okay.Now, if that be true, from this condition we can say that v r is equal to vz, that means, there is
+no velocity in the R-component, right. In the R direction, had there been any velocity, then it
+would have mixed like this, right, which, it is not, because, we assumed that there is a stream
+line, like this, as  it can, right. So, these stream lines are rotating there. There is  no R
+component. 
+Similarly, if this is R, the other one is theta and the third one is z, right. Similarly, this is one
+and you, just extend it like this, okay. If this is the z component, right. So, this is the z
+component, so there is no vertical flow. There is no horizontal, since R component of the
+velocity is not there. Similarly, z component of the velocity is also not there, i.e., there is no
+mixing within the fluid, right. So, that is what we know it to be laminar. So, like this, then,
+another like this. So, these kinds of layers are there, so that is one layer is not mixing with the
+other. So, that is why we can assume we can say that v r is equal to vz and that is equal to zero,
+and also here, one must say that this seems, this is moving like this. Now, since this is moving
+like this, this one is not going and mixing with that one, right. So this, there is no velocity
+component in the theta direction also. This is the theta direction.
+So, there is no velocity component in the theta direction also. So, in that case, we can say, del
+vtheta del theta is equal to zero, because, this theta component or v theta say 1 and say this v theta of
+say 5, is not that they are one over the other, there is no mixing of this, v theta also, right vtheta 1
+and vtheta 5, we can, whatever be the value, remaining the same and there is no change in the
+theta component in this direction, right. So, that is why we can say del v theta del theta is zero.
+If this is true then, if we remember that the Navier-Stokes equations, which, we had originally
+given, right.(Refer Slide Time: 17:29)
+So, this is the R component and in R component, v r is zero. First, Rho is constant, and also it
+is under steady state. So, del v r del t this is also zero, del v r del t is zero. Rho is constant, right.
+So, we can say that this component del v r del t is zero, vr is zero. So, this component goes out,
+right. del vr del theta, right del v r del theta that is change in v r with theta. So, that can be there.
+So, that is why we can say Rho v theta square by r del vr del theta del vr del theta, if there had
+been any vr component also with the theta, right. With the theta direction change in theta with
+vr that is not also there. So, we can say, since v r is zero, so, del vr del theta is also zero. v r is
+zero, right. So, we can say this component also is not there, minus v theta square by r. Som it
+remains, so it is Rho v theta square by r with negative. Now v z is also zero, so this component
+remains zero. Then, this is equal to Mu del del r of 1 by r, since v r is zero. So, this again is
+zero, del 2 vr del theta square, since v r is zero then del 2 v theta del del 2 or vr del theta square
+that remains zero. Then, since del v theta del theta that also is zero. So, this term also is notthere, then this term del v theta del theta is also not there, and since v r is zero, so, del 2 v r del z
+square is zero, but minus del p del r plus rho g r is there.
+(Refer Slide Time: 20:28)
+Similarly, this is, if that is true, then, we can write that for the first equation minus Rho v theta
+square by r that is equal to minus del p del r. So, here one thing is the rho g r, right, rho gr that
+is the gravitational value g r, since r is there we assume that g r is negligible and g r component
+is not there, right. So, we than, get that, minus rho right, into v theta square by r. This is equal to
+minus del p del r, right. g r is assumed to be negligible, and that rho g r can be neglected. (Refer Slide Time: 21:04)
+So, if this is r component, similarly, for theta component, we can say, on the same way, since
+rho is constant, and since it is steady state, so, we can say that del v theta del t is equal to zero,right. We also said v r is equal to vz is equal to zero. This was our initial del v theta del theta was
+also equal to zero, right. So, if that be true, then, we can write del v theta del r, right vr into del
+vtheta del r, that is there. So, v theta by r del vtheta del theta that goes out. Then, v r vtheta v over r,
+since, vr is zero, so that it goes out. So, this goes out v z is zero, this goes out, right. v r is zero.
+So, this also goes out. But, v theta by r del vtheta by del theta. So this is equal to zero. So, this is
+zero, this is zero, this is zero, this is zero, and this is also zero.
+So, left side is zero, right side is Mu del del r of 1 by r del del r of r v theta, right, which is a
+function of r. So, this results to, one by r square del 2 v theta del theta square. So, since del v theta
+del theta is zero. So del 2 v theta del theta square is also zero. So, this  term goes out. The third
+one del vr del theta right, So, 2 by r square del v r del theta. So, this for this is v r that is R
+component of the velocity, v r vtheta del vtheta del vr del theta, right. So, this also goes out,
+because, since, vr is only function of r, so, 2 by r square del v r del theta, okay. Now, del v r del
+theta this can be there, right. 
+(Refer Slide Time: 23:27)
+So, second one, this del v theta del theta is there. So, theta component v r by r square, r is there
+del vr, vr is zero, right. So, del v r is zero. So, 2 by r square del v r del theta is also out, and the z
+del 2 vtheta del z square, since it is the double derivative and there is no v theta, vz component. So,
+that is also zero. So, we can write remaining 1 by r del p del theta plus rho g r.
+Now, here, you rho sorry, this will be rho g theta, as I said, that there may be some mistakes. So,
+here it should have been rho g theta, right. Now, here, also g theta, we can assume to be zero, and
+del p del theta, what does it mean? Physically, del p del theta, so, pressure varying with the
+theta. So, this is the theta component, so, whatever pressure is here same pressure is there, the
+assume pressure is there. So, del p del theta from the physical understanding, is also zero.
+Now, so, we cannot say that del p del theta is also there. Then, we get, from the left hand side
+is equal to zero, because all these components have been zero. So, zero is equal to Mu del del
+r of r 1 by r del del r of 1 by r del del r of r v theta, this is the second equation. The first equation we got there as to remember that, it was rho minus Mu ya this was Rho
+vtheta square, this that is Rho v theta square by r is del p del r right. But, here, that, it is zero, This
+is the second and the third component, if we look at is ho is constant v z is zero. Not only v z
+zero del t is also not there, that is it is not with type. So, del v z del t is zero vr is zero.
+(Refer Slide Time: 26:36)  
+So, del vz del theta, this is also zero, because v z is zero vz this term is also zero. Mu one by r
+del del r of r vz del vz del r, so, vz is zero, this term will go out, del 2 v z del theta square. This
+was also zero. del 2 v z del z square is zero. But, minus del p del z plus rho g r, this term is
+again, here, it should be rho g z, right. So, this term is there, so, we can write zero is equal to
+minus del p del z plus rho g z, this is equation 3, right. So, we need to find out v theta. So, only
+one equation is good enough, because one unknown, other Mu is known for a given fluid,
+right, r is known for the given diameter of the cylinder. So, if they are known, then, unknown
+is vtheta.(Refer Slide Time: 28:02)
+So, to find out this v theta unknown, if we solve this problem, then we can say that, let us start
+with that second equation that is zero is equal to del del r of 1 by r del del r of r v theta, right. A
+second equation, which we got, that was minus del p del z plus rho g z this one, right. So, this
+one was the second and the third one which we had already shown that minus rho v theta square
+by r is equal to minus del p del r, right. Out of these three equations, let us start with the
+second equation that is, del del r of 1 by r del del r of r v theta is equal to zero. On first
+integration it gives one by r del del r of r v theta that is equal to an integral constant, say, A.
+So, on simplification, this can be written that del del r of r v theta is equal to Ar, right. So, on
+again second integration, we can say, r v theta is equal to A r square by 2 plus B, which on
+simplification can be written that v theta is equal to A r by 2 plus B by r, right. Now, we have
+two equations and two boundary conditions, to find out integral constant B and C, right. So,
+we have to find out what is the value of A and B. What is the boundary? Boundary is v theta is
+equal to zero at r is equal to R. That is what we have been saying, v theta is equal to zero, at r is
+equal to R. So, vtheta is equal to zero at r is equals to R. So, in that case, we can write, then, the
+second boundary is the outer cylinder is rotating with an angular velocity of omega.
+So, we can say, vtheta is equal to omega kR at r is equals to kR. So, using these two boundaries
+and solving we can write zero is equal to AR by 2 plus B by R, and omega kR is equal to
+AkR by 2 plus B by kR.
+(Refer Slide Time: 30:24)So, in that case we have these two equations zero is equal to AkR by 2 plus Bk by R and AkR
+by 2 is equal to minus Bk by R and omega kR is equals to AkR by 2 plus b by kR. So, on
+simplification and solving, we can write, omega kR is equals to B by kR minus Bk by R that
+is equal to B into 1 by kR minus k by R, that is equal to, in that case, we can say, B is equal to
+omega kR by 1 by kR minus k by R. This is equal to omega kR by 1 minus K square by kR
+that must be equal to omega k square R square by 1 minus k square. So, similarly from that
+equation omega kR is equal to be kR by two plus B by kR. 
+So, from there, we can write, zero is equal to AR by 2 plus AR by 2 k plus B by kR and
+omega kr is equal to AkR by 2 minus AR by 2k, that is equal to AR by 2 into k into 1 minus 1
+by k. So, in that case, A becomes 2 omega k over k minus 1 by k. So, v theta can be written as
+omega kR. by k minus 1 by k plus omega k square R square into 1 minus k square into R that
+is, omega k square R over k square minus 1 plus omega k square R square over 1 minus k
+square. So, this on simplification gives omega k square r square by 1 minus k square into Rminus omega k square R by 1 minus k square. So, omega k square R square minus omega k
+square R square over that was capital R, this id small r, 1 minus k square r, so, this means on
+simplification we can write omega k square into R square minus r square over 1 minus k
+square into r. So, v theta is equal to the omega k square R square minus r square 1 minus k
+square r. So, we have come down from the problem and understanding of the problem what is
+the velocity component which is acting in the theta direction, right. 
+(Refer Slide Time: 34:20)
+So, this way, if you solve many problems, you try, the other one. In this case, what we have
+given that inner one is fixed and the outer one is rotating. Now, you try to do that the reverse,
+inner one is rotating and the outer one is fixed. So, inner one is rotating in that case, what will
+be the velocity component in the theta direction? So, when, there is no v r, there is no vz,
+because we assumed it to be say laminar, So, that is why there is no v r, there is no vz as it is
+steady state. 
+So, del t part is also not there. So, implementing all these you can find out how the equation
+of motions, i.e., Navier-Stoke equations can be utilized. Obviously, we will do some more
+problems, otherwise it is really difficult. It will be required to implement and understand,
+okay. So that is why we do here for this class, thank you.                   

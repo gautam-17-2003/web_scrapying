@@ -1,0 +1,162 @@
+Course on Momentum Transfer in Process Engineering  
+By Professor Tridib Kumar Goswami  
+Department of Agricultural & Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 60  
+Module 12  
+Problem and solution with comprehension of course  
+Okay, we are continuing the previous day problem where we were asked to find out the flow 
+behavior and consistency coefficients we have done n value and that was coming a negative but I 
+asked that please check whether it is correct or not, hopefully you ha ve seen whether we have 
+done any calculation mistake or not, but let us now find out the other one that is K, right?  
+(Refer Slide Time: 0:59)  
+ 
+So, to get K , we start with that we had shi , we had shi is equal to 0.75 plus 0.25 divided by n, 
+right? If we s ee it correctly, right? So , I think if we look at here n was coming 1.58, so let us take 
+that so it is 0.75 plus 0.25 divide 1.58, right?  
+So, this means this is coming equal to 0.75 plus 0.25 divide by 1.58, so it is equal to 0.908 that is 
+0.91, right? So , shi has come to be 0.91, now let us look the other gamma at the wall was 4 times 
+v average over R into shi, right? This was 4 times v average second case we got 1.99 and R was 
+0.004 and shi was 0.91, right? So , this comes roughly equal to not roughly thi s comes equal to 4 
+times 1.99 divided by 0.004 is equal to into 0.91 1810.9 that means roughly 1811, right?  
+So, if this is true, then we can say from the relation mu apparent is equal to K gamma w at n 
+minus 1, right? This is we can write that therefore , K is equal  to mu apparent over gamma at wall 
+to the power n minus 1, right? Now mu apparent we got 6.7 in one case, in the other case we got 
+just a minute let us look into mu apparent we got 1.005 10 to the power minus 2, so 1.005 10 to 
+the power minus 2 a nd gamma at the wall we found out 1811 of course we are taking 1.58 as n 
+minus 1, right? So , this gives equal to 1.005 into 10 to the power minus 2 is equal to this divided 
+by 1811 to the power 1.58 minus 1, 1.29 10 to the power minus 4 1.295 that is 1.3 i nto 10 to the 
+power minus 4 Pascal second to the power n, right?  
+So, whatever it be, we try and find out as much as you can. So , to wind up the classes let us say 
+that we have done right from the Navier Stokes equation or we have started even earlier from  
+equation of continuity, right? And equation of continuity we have done for both Cartesian 
+coordinate as well as for the cylindrical coordinate, right? We have developed that, we have also 
+done this other one that is for equation of motion, equation of mot ion we have done for Cartesian 
+coordinate and we have done number of problems if you remember, right?  
+If you remember we have done number of problems for that, for example in some of the 
+problems we have said the viscosity is how can we found out, we have  also said that how Navier 
+Stokes can be applied for different cases, right? How the Navier Stokes equations can be applied 
+for different cases we have also done along with flow through pipe, we have derive with the shell 
+momentum balance and we have said that this shell momentum balance that Hagen Poiseuille’s 
+equation that also can be derived from the equation of continuity and equation of motion that is 
+the Navier Stokes equation.  
+So, from the Navier  Stokes equation also we have developed how we arrived at the Hagen 
+Poiseuille’s equation, only other thing what is required to apply the Navier Stokes equations are 
+you have to be careful about the problems which is given or which are given those problems  if 
+we look at carefully and see which are the terms they are not there or which are the terms they 
+will go out, right? And exactly the expression which we will retain , which will stay that you have 
+to tell, right? So , if you can identify those parameters,  then you can solve Navier Stokes 
+equations for any problem that is known as the mother of the all equations in flow, fluid flow, 
+right? From based on that subsequent the all these others are developed.  So, if you can utilize that, it is very , very good th at as an when whatever problems you come 
+across use  Navier  Stokes equation and find the solutions, those different terms in the Navier 
+Stokes equation be it in Cartesian coordinate, be it in cylindrical coordinate or be it in Spherical 
+coordinate whatever it be all the three we have given out of which Ca rtesian and (Navier ) 
+Cartesian we have done and cylindrical and polar we have given because development of that 
+would take long , long time, so we did not want to find concentrate on that.  
+So, if you can get problems and solve them with the help of the Navier Stokes, then I think you 
+will understand more and more about this and its application. So , in the pipe flow we have done 
+and then we introduce that fanning friction factor, right? Normally , if the frictio n factor is not 
+there, then for any pipe flow or flow fluid flow through pipe that should not have pressure drop 
+high, but the pressure drop is high that indicates that it is not only the fluid, but also something 
+else that is being pulled by the or that i s being pulled and that is pulling rather and the fluid is 
+losing the pressure from end to other end to reach from one end to other end, right?  
+And this is taken care of by the fanning friction factor, right? Then, we also have seen which is 
+very, very us eful also in most of the cases as we have shown in tubular heat exchanger the flow 
+is similar that a flow through annular pipe, right? So , if the annulus how the flow is taking place 
+if you come across if you can do that, then you can also understand the f low through the tubular 
+heat exchanger, right?  
+We have also said that for homogenization of fat globules, for homogenization of fat globules 
+what you do? You pass the fat globules or milk typically through the valve and this is called 
+homogenization valve  and that valve has a very , very orifice or small hole or small gap through 
+which when the milk is flowing that the fat globule gets disintegrated from higher size to lower 
+size and in that the fluid which is flowing through that undergoes a severe pressur e drop and the 
+fat globules are sheared and brought down into smaller particle size or smaller fat globules size, 
+right?  
+Generally it is around 2 micron which we normally every day we come across the milk is around 
+that 2 micron, so , there also that flow through the pipe we have seen how it is useful and no flow 
+through the slit how it is useful typically for homogenization of milk or similar things, right? We also have seen or done some of the problems where we have done with both flow through the 
+pipes a nd flow through the slits for both Newtonian fluids and for Non -Newtonian fluids.  
+Now , for Newtonian fluids we are normally use because most of the cases we handle are 
+Newtonian fluids , this is , I am referring with respect to the food material , I am not s aying all 
+food materials are Newtonian, many other some are also Non -Newtonian, but we have also 
+developed that what is the flow behavior or flow characteristics for both Non -Newtonian as well 
+as Newtonian, Newtonian fluid we have done earlier first and th en we have done for Non -
+Newtonian fluid, right?  
+So, this way if we can find out or we have found out this way that what are the flow 
+characteristics  for Non -Newtonian fluids when it is flowing through slits, right? If the fluid is 
+Non-Newtonian what is th e flow behavior or velocity profile or the stress profile how it is 
+coming up , that we have shown, is not it? Yes.  
+Then, we have also seen that that is very , very important when this is typically when you are 
+doing a refrigeration or cooling that time you are passing high pressure or that condenser 
+pressure is very high that is going through some valve that is called the expansion valve and 
+during that expansion valve from the high pressure condenser it when it goes to the evaporator 
+there is a throttling, right? And this throttling that behavior the flow characteristics also we have 
+done for flow through very , very small orifices or nozzles, right? Flow through the Nozzles what 
+is the discharge, what is the velocity those we have done.  
+Also we have done wha t is the maximum discharge and what is the maximum velocity we can 
+attain and that maximum velocity and maximum output or flow rate, right? Velocity or 
+maximum discharge that can be attained when we have also seen the pressure ratio that becomes 
+to be crit ical and the value of the pressure ratio is 0.528 if you remember that inlet to outlet, 
+right, i nlet to outlet that pressure ratio, no outlet to inlet that pressure ratio when it is 0.528 , then 
+it becomes critical or if it is inlet to outlet, then it is 1. 894 to my memory, right?  
+So, that is what we have also shown that how good it is and also we have shown that when the 
+flow rate or when the flow is under critical condition, then it gains the , it attains the velocity of 
+sound, right? That is why we can hear the sound when the fluid velocity is equal to the velocity 
+of sound we can hear it, right? That is what we have given we have to said that it is the sonic velocity or supersonic or subsonic velocity. So when it is sonic or supersonic velocity or 
+subsonic velocity, then if it is sonic then we can hear what subsonic or supersonic we cannot 
+hear, right?  
+And I gave , perhaps the example of the aero plane typically turbulence, right? When it attai ns 
+that when it changes from subsonic to sonic or supersonic that time there is a huge sound which 
+comes which we are come across because of the elongation of our institute we get this very 
+often, right? So , these  are going above and when it is changing fr om one that is super to sub or 
+super to sonic and then to sub or vice versa that time we get lot of this kind of booming in the air, 
+right?  
+This we have done, we have also given some example of the flow through the nozzle, for 
+example that siren is one of  the best example of this that during the war or during any other even 
+in the industrial areas where this siren is normally being used to intimate the workers or people 
+working in that company that in the time of living or time of joining are already arriv ed, right? 
+So, that indicates that kind of there siren or sound indicates that the time is either over or the 
+whole people will go out and the new people will come in for working, right? After their definite 
+shift, individually in the industry there are th ree shifts 8 hour one shift and normally it is 6, 10 6, 
+2 6, 2 and 10 in the evening 6 o clock in the morning, 2 in the afternoon and 10 in the evening, so 
+if it is like that and during those period we hear those kind of sounds this is one of the greatest 
+example of the sonic velocity or flow of fluids through slits or very , very fine orifice, right? Or , 
+nozzle , orifice or nozzle, right?  
+We have also done the flow characteristics for packed bed, packed bed is very , very useful 
+because in many case there ar e packing materials through which you have to they may have to be 
+sterilized or they have to pasteurized or some heat treatment or even cold same cooling is 
+required in those cases this packed beds are very , very effective, one of the example of the 
+packed  is that the if the bed is utilized for heating or cooling and in that case if it is heating or 
+cooling whatever be the situation when we are using packed bed that may also lead to the 
+fluidization, right?  
+And fluidization we have said that it is nothing but when corresponding to a velocity of the fluid 
+the particles do attain certain velocity, right? Where it is called the onset of fluidization, right? So, onset of fluidization once it is there after that you get that the particles starts moving and they 
+start dancing or they start floating into the environment. So , this is what usually we have seen in 
+many cases particularly for we gave the example peas when they are getting frozen before that 
+they are in many case they are subjected to such kind of freez ers where it is the fluidized, right? 
+Fluidization takes place, right?  
+And in that fluidization the particles do , do float and they do take the , I mean , this fluid that 
+gives us sufficient pressure, sufficient thrust from the below and the particles start s floating or it 
+starts moving that condition we call it to be fluidized condition, right? So , under fluidization the 
+advantage is that we get the exchange of the either heat or cold very , very that the heat transfer 
+goes up because you are increase the av ailable surface area and when you are fluidizing the 
+height of the bed that is also increasing that is only because that when it was compact and it 
+increases the void space in the bed or void volume in the bed that is increased.  
+So, whenever you are doing that, you have to be careful that how much fluidization you want, 
+obviously the higher fluidization you want, the more I had also shown you one perhaps one 
+animated scene animated rather situation where the particles where really , there were very 
+turbulenc e in that, it may not be required to go for the turbulence, but it is required that the flow 
+particles are fluidized or coming in contact in all the way all the surface of the particles are 
+coming in contact with the fluid, right?  
+You may heat you may coo l that is the different case, but whatever be the process you are 
+utilizing that the fluid has to come in contact with the particles from all its sides that is the 
+advantage of fluidization, right? So , like that we have given lot many examples, lot many 
+problems also we have solved hopefully you also have taken care of you have also done lot many 
+problems solution at your home or in your place if you have problems if you have not understood 
+or any quires you are welcome to come to us through the portal give n and I am very very 
+thankful that all of you have given all of you have registered for this course and the course if you 
+would like and if you are that some many of your other friends who have not registered they 
+should also undergo then you can request t he authorities to recirculation  or reinitiate or telecast it 
+or repost so that or re -upload the course so that you many others who have not come across can 
+also undergo the same, right?  I am thankful , so thank you all , so, with that you try your best to d o the best of the course , 
+whatever you have learnt , utilize them , so, thank you all.  

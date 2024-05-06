@@ -1,0 +1,156 @@
+Course on Momentum Transfer in Process Engineering
+By Professor Tridib Kumar Goswami
+Department of Agricultural & Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture 26
+Module 6
+Compressible fluid flow 
+Till now, whatever  we have done that was  for incompressible  fluid. You go through your
+previous  classes  everywhere,  we  had  said  specifically, the  fluid  is  incompressible,  and the
+problems, which  you  had also  taken  were  also  given  in  such  way  that  the  fluid  becomes
+incompressible, so that, the density is constant, right? But, that may not be all the time for all the
+fluids. There are some fluids, which we can assume to be incompressible, for example, mostly,
+we take water to be incompressible as a liquid, right? 
+But, same we may not be able to take all the time, with air or some other gases. So, they also
+come  under  the  fluid.  So,  for  that,  we  need  to  know  something  about  the  nature  of  the
+incompressibility, right? So, if it is not incompressible, if it is compressible fluid, and we said the
+difference between compressible and incompressible is that, in  incompressible fluid, the density
+change with pressure is not significant, right? It is not significantly changing, but, if the density,
+and generally if it is even 10 percent, it is taken to be incompressible, if the change is even
+within 10 percent, this is taken to be incompressible for all practical purposes.
+But, if it is not within 10 percent, or, it is beyond that, then, we cannot, you can no longer say
+that, the density is constant, which is not getting affected by the application of the pressure,
+right? So, in that case, we have to say that, okay. This is incompressible fluid, where the density
+is not changing and constant. We can achieve in density etc. But, when it is not, that it is
+changing with the pressure, then, we need to say, the pressure is getting changed and that way we
+can say that, density is also changing. So, it is no longer incompressible. (Refer Slide Time: 2:59)
+So, then, it becomes compressible. So, now, let us come to compressible fluid flow, right? Now,
+Bernoulli’s equation, I hope you remember, right? So, Bernoulli’s equation, this was also taught
+in higher secondary level, that is known, and we, what there it is, it is said that say v 1 square by 2
+plus P1 by rho plus gz1, this is equal to v2 square by 2 plus rho, or, P 2 by rho, plus gz2, plus “f”, if
+any changes during, due to friction and other causes, that all comes under “f”, right? 
+S,o this is what we know as Bernoulli’s equation, where it is called, velocity head, this is called
+pressure head, this is called gravitational head, right? So, this is velocity head, this is pressure
+head and this is called gravitational head, right? So, in that case once we know, then, we can
+write the Bernoulli’s equation in this form. Now, if we rearrange this equation, and write like this
+v2 square minus v1 square by 2, right? This is one term, plus P 2 minus P1 by rho, this is another
+term, plus gz2 minus gz1, right? Plus say, all these factors come into, frictional or another losses
+equal to “f” is equal to 0, right? 
+So, this rearranging now, this we can also re-write as, integration, between 1 to 2 vdv, right? Plus
+integration, between 1 to 2 dP by rho, right? Plus integration, 1 to 2 g dz, plus integration,
+between 1 to 2 df, this is equal to 0, right? How, did you write? So, this is nothing but the
+expanded or integral; integration, of this vdv and v 2 square minus v1 square by 2. Similarly, this
+is P2 by rho minus P1 by rho, similarly, this is g into z 2 minus z1 and this is “f” as df, right? 
+So, this is called definite integration, within the boundary 1 to 2, right? Now, if we remove the
+boundary, and if we make it generalize differential form, then, we can write vdv plus dP over rho
+plus dz g of course, g dz plus df is equal to 0, right? Now, if we assume that the flow is occurringin horizontal pipe, right? Then, this dz term goes out, if it is horizontal, if it is added in vertical,
+then, it should have been that, what is the value of z, right? 
+What is the value of z that would have come, but, if it is not vertical, then, if it is horizontal,
+there is no z, so z is equal to 0 or v z is equal to 0. We can neglect this term. So, we can write, vdv
+plus dP by rho plus df is equal to 0, right? So, this is true, now, let us define let us define that
+capital V is equal to 1 by rho, right? Rho, is kg per meter cube, so, 1 by rho would be meter cube
+per kg, so, then, it is called specific volume, right? This capital V is nothing but specific volume. 
+So, anything per unit mass becomes specific, like heat, specific heat, specific gravity, of course,
+specific gravity is function of temperature, but that has density associated, you may, it is less, so,
+specific heat, then specific energy consumption, all these are per unit mass, so when it is per unit
+mass, then it is called specific of that thing. In this case, since meter cube per kg, so, it is a
+specific volume, right? So, once we know that and once we substitute rho with V, then you can
+write vdv plus 1 by rho is V so capital V dv plus dx.
+Now, this “f”, if you remember, we had in our earlier class also said that delta P f is equal to 4 f
+rho L by D v square by 2, right? This was there, now if we say that whatever “f” value that put
+on “f” losses is due to the frictional loss, then, you can substitute this with the d f, right, as, 4 f,
+right, v square by 2 and 1 by D, right? So, this, if we substitute, there then, you get vdv plus vdp
+plus 4 f v square by 2 L by D, this is equal to 0, equation (A), right? 
+So, here, we are assuming that, all the frictional losses rather, spatial or friction loss all the losses
+are combined in df and in that case, delta f by rho, this is said delta P f by rho, i.e., the losses is
+equal to 4 f v square by 2 L by D, right? So, this is known. (Refer Slide Time: 11:40)
+Now, let us also define another term called capital G, right? This capital G is equal to rho into v,
+that means, rho is 1 by capital V, is v by V, this capital G is called mass velocity, right? So this
+capital G is called mass velocity.
+So if we know G is v by V, then, you can write dv is equal to G dV, because, this mass velocity is
+a constant, right? If rho increases V decreases, if V decreases rho increases, right? rho increases
+V decreases, rho decreases V increases, right? Then, the product remains constant and in that
+case, this is dv is G dV, right? So, if we substitute, in the previous equation, now let us write v dv
+plus v dp plus 4 f v square by 2 L by D is equal to 0, that was the equation (A)
+So, in this, if we substitute, dv, G dV, then we will get, okay, this was v dv small, okay. So, v, so,
+that v, we have substituted v is equal to G into capital V, right? So, this GV, then, you can write
+GV and dv, already, we have seen is also G dV, right? So, then, it becomes G square V dV, right?
+Plus v dP, right? Plus 4 f v square, so G square, capital G square, right? Divided by 2 and this L
+by D, you can write as dL by, ultimately this L has come on integration, of upon dL, right? 
+So, this is there because, L is variable, how much is the length of the pipe, so, that is a variable.
+So, if, had not been taken dL, so, it should be ultimately L, right? So, that we can also write in
+terms of dL by D, right? So, we had written this as G square v dv plus v dP, right? Or, this we can
+also write dP plus, okay, now, if we divide all the terms with v square, so that this v square goes
+out, then we can re-write as this was G square, so, this v goes out, so G square dV over V, right?
+Plus this v square comes in, so, V by V square so dP by V, right? Plus 4 f G square by 2 dL by D,
+right? This is equal to 0, right? Now, for isothermal, and adiabatic  process, so, isothermal and adiabatic
+processes, so, we know the relation between pressure volume. So, we know Pv is equal to mRT
+by capital M, right? This is for isothermal case, or we can write Pv by M is equal to Pv by m,
+small m is equal to RT by M, right? Pv by small m is equal to RT by M, this is small m, right?
+Or, we can also write Pv by small m, this v by small m is nothing but capital V, this is volume,
+this is mass, so this is capital V, right? So, PV is equal to RT by M, right? Or, V is equal to RT by
+PM, right? So, if we substitute this value of V in this equation, say, it has equation named (B),
+right?
+So, earlier if we look at equation (A), so if it was (A), then the equation B if we substitute we can
+write that this G square, right? G square dV by V and integrate, of course, substituting and then
+integrating, so between, 1 to 2, this is dV by V, right? dV by V plus, this we write in terms of dP
+by V, okay.
+This is dP, and M by RT, this means dV, that is, PV is equal to this, so, PV is equal to RT by PM.
+So, okay, we can write, M by RT, right? Between, 1 to 2, PdP, right? Plus 2 f G square by D
+between, 1 to 2, dL, right? So G square by 2, 2 this two goes off, 2 f G square by D dL, 1 to 2,
+this is dP by V, that this dP, we have kept, but capital V, we have substituted as in the form of dP,
+in the form of P, that V is equal to RT by PM. So, RT by PM, in that case RT by M comes out of
+the integration, P dP remains, and this is, since, it is dV by V, note, it remains as dV by V because
+both are in the integreation.
+So, then, if we integrate, this we can write, this to be equal to G square ln of dV by V, though it is
+ln V, between, 1 to 2, right? G square ln V, this is between, 1 to 2, plus this is M by RT, right? So,
+this is again, between, 1 to 2, so, P 2 minus P1. So, that, we can write, so M by RT and P square by
+2, right? So, M by2 RT, this is within this limit, plus 2 f G square by D L, between,1 to 2, right?
+So, this we can write, this is equal to 0, this was equal to 0, this is also equal to 0. So, you can
+write G square, right? ln, this is V 2 minus V1, means, V2 by V1.
+So, this we can write, plus this is M by 2RT, this is P 2 minus P1, right? Plus 2 f G square by D,
+right? And, this we can write to be equal to delta L or whatever, right, L 2 minus L1 as delta L
+whatever we like, right? This is equal to 0. So, we can also write this as G square ln, right? V 2 by
+V1, right? So, it is P1 V1 by T1 is T2 V2 by T2, from there, we can write V 2 by V1 is equal to T1 by
+T2. So ln of P1 by P2 plus this is in terms of P M by RT or 2 RT. This is in terms of P, P 2 square,
+okay, it was square this square, right? That, we have given P square by 2.So, this was P1 P2 square, right? P2 square minus P1 square, right? And plus P 2 square by P1
+square P2 minus P1 square,  plus 2 f G square delta L by D. So, this is equal to 0, right? 
+(Refer Slide Time: 23:25)
+This on simplification, we can write, or this on simplification, we can write P 1 square minus P2
+square this is equal to 2 G square RT over M into ln of P 1 by P2, right? Plus 4 f G square RT delta
+L over DM, right? 
+Of course, we know the cases, that this G is the mass velocity, right? G is the mass velocity
+capital V is the specific volume, right? M is the molecular weight of the gas and P 1, P2 are the
+pressures at the two points, delta L is the length through which it is flowing or moving, R is the
+universal gas constant, D is the diameter through which the fluid is flowing, right? So, if we
+know, some of them, or, most of them, we can know, one unknown, right? Because, this is one
+equation, so we can find out, from one equation, only one unknown. It cannot be that multiple
+unknown can be found out.
+But, in many cases, if it is more than 1, then by trial and error, we do not know the solution. So,
+by trial and error, the solutions also can be found out, and then, it is just found out, by finding out
+root of an equation. Similarly, what is the finding, it is nothing but finding out the solution and
+the root of the equation that means that what is the value, exact value, which is satisfying the
+equation. So, if that can be done, then we can say, yes, for the compressible fluid flow, we can
+now find out the pressure drop, or we can find out the individual pressure, if one is known, the
+other can be found out. 
+(Refer Slide Time: 26:02)But, it is not that easy, because P 1 and P2, right? Both are in the square term, P 1 square and P2
+square. So, one, if it is known, then, we can find out the other one, right? And, this value is that 2
+G square RT by M ln of P 1 by P2, right? 
+The problem is that, when you are handling, that time, since, P 1 square and P2 square, they are
+different, right? And, since you do not have any relation between P 1 and P2, so, you cannot know
+the ln value of that, right? If you do not know the ln value of that, how can you find out this
+value also? So, what normally is done, what you can do, or what we can do, we can assume one
+P1 value, say P2 value is given, we assume one P 1 value, then we know, this ln value, of this P 1 by
+P2 and all other in this term, delta L, T, R, G, D, M, f all are known.
+So, this quantity is known, and if we see that, assuming this P 1, whatever be the value, this value
+is becoming much more smaller compared to this, right? Then, for the first, this is again finding
+out the roots of an equation, not solution of the equation, so, once we find out that, this value
+total is much smaller than this value, then, we neglect this value, find out from there, what is the
+value of P1 new, right? So that, new P 1 can be then taken as substituting this P 1, again, as the
+initial guess for this, just as you have done, or if you will be doing somewhere that finding of
+roots, or you have to initialize, or you have to assume some initial value.
+So, that assumption can be made from here that we assume it, and then, we find out this ratio,
+and in that case we find out this total. Again, till they are becoming more or less closer, both are
+not given out, then, we go on finding out this value of P 1 and gradually in 1, 2, 3, 4 trials, we will
+find out, to the decimal first or second or third position accuracy. So, this way by trial and error itmay be done. We can find out that solution, okay. So, next time, we will do this problem, and
+solution and see how this can be done, thank you. 
