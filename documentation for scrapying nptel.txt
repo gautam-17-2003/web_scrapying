@@ -1,6 +1,6 @@
 ﻿Steps followed : 
 
-
+* base url :: https://nptel.ac.in/courses
 * We start with downloading all the transcripts (in pdf form) of lectures under the discipline “Agriculture” for which it is available.
 * We make the folders for different courses as the name of the course under the main folder that is nptel_agriculture.
 * There are some of the pdf lectures missing in the data as there were no transcriptions available for the same.
