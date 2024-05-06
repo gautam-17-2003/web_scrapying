@@ -1,0 +1,176 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 04 
+Food Rheology (Contd.)  
+ 
+Hello everyone , welcome to the NPTEL  online certification  course on  Fundamentals of 
+Food Process Engineering . 
+(Refer Slide Time: 00:38)  
+ 
+So, we were discussing with the property of the fluid food in the last class . We will 
+continue with different , Non Newtonian  behavior  ok. So, in the Non Newtonian,  we have 
+discuss  the pseudo plastic and the dilating  flow behavior , which is termed as shear 
+thinning and shear thickening behavior . 
+Now, in this particular class , we will first see the plastic flow  behavior . So, what is  
+plastic flow behavior ? Is that, some kind of materia l will need some  initial stress value  
+before it  flows ok . So, the initial  stress  i.e. τ0 cause  flow in this kind of a material , but 
+when they start flowing they will follow the linear pattern ok ; that means, again the slope 
+of the shear stress versus shear strain  diagram  will be constant and one prope rty will 
+enough to explain their  flow behavior  in this region , that is called the plastic viscosity . And this τ0 which is called the Yield stress . So, this kin d of flow behavior  is termed as 
+Bingham  plastic behavior . So, fluid will not begin to flow until a  minimum shear stress is  
+exceeded  and this  minimum shear stress is called the yield stress . So, for an example , we 
+can see the toothpaste , where we need to put some initial  stress , then only it will squeeze 
+out. So, flow will start . 
+So, this kind of material , we can express by  the equation  
+ 
+k the consistency index and dv z/dy is the shear  rate. Now  if we try to analyze the 
+apparent viscosity  in this case .  
+ 
+ 
+So, the intercept on the stress axis at zero shear rate ok . This is the yiel d stress and in this 
+region since , we can , will observe that . Although,  we are putt ing stress , there is no 
+change in the  strain  ok. So; that means, the viscosity is mathematically  the derivative of 
+the flow behavior  curve . So, the yield str ess on the viscosity curve appear s to originate as 
+an indefinitely high  viscosity  ok. So, this shows the indefinitely high viscosity and 
+because of this no flow we can observe  ok. 
+(Refer Slide Time: 03:54)  
+ So, viscosity is actually to resist the flow , then, we can see that  for a Non Bingham  
+plastic fluid . So, Bingham  plastic fluid  means,  the fluid which follow the Newtonian , 
+law, but need some yield  stress , but Non Bingham  in the sense , they will also need an 
+yield stress , but when this starts flowing , they does not follow the , linear pattern like the 
+Newtonian  fluid  ok. 
+So, if we plot that  Shear  stress versus Shear  rate the curves will be a non-linear  and in 
+this particular case , it is again showing a shear thinning kind of a behavior . So, this kind 
+of phenomena can be mathematically expressed as Herschel  Bulkley  model .  
+𝜏𝑦𝑧=𝜏0+𝑘 𝛾 𝑦𝑧 𝑛 
+The example will be minced fish  paste  and raisin paste . They  obey the Herschel  Bulkley  
+model and flow behavior  of the rice flour based batter , because sometime we use the rice 
+flour based batt er for prepa ring different snack item , or the fried products . So, they will 
+follow the Herschel  Bulkley  model ; that means the Non Bingham  plastic behavior . 
+(Refer Slide Time: 05:29)  
+ 
+ Now,  another model which is called the Casson  model ., Casson  model wil l also show 
+the Non Bingham  plastic  nature of the food , this is shown as  
+𝜏𝑦𝑧0.5=𝜏00.5+𝑘 𝛾 𝑦𝑧 0.5 
+ 
+Specially  this kind of phenomena ha s been found in case of molten milk chocolate . (Refer Slide Time: 06:01)  
+ 
+So, then we will consider the  fluid which of time dependent . So, till now , we have 
+considered the behavior , which are time independent . So, their viscosity will change on 
+the rate of shear , but does not change with time , but now, we will consider certain Non 
+Newtonian  fluid , which will also , show different  rheological behavior  with time if the 
+Shear  rate is  constant  ok. 
+So, first one that will consider that is Thixotropic  flow behavior . So, in case of 
+Thixotropic  flow behavior  if we apply a constant shear  rate, then also the stress is 
+decreasing or the viscosity will be decreasing  and another flow behavior  is there , where 
+we a re getting just the reverse strain  that at constant shear rate with increase in the time 
+the shear stress is  increasing . 
+Ok; however, for the time independent fluid like Newtonian  fluid , we are , we are getting 
+that, there is a constant shear stress with respect to ti me for a constant shear  ok. So, the 
+shear stress or viscosity that decreases over time at constant shear rate , this caused by a 
+decrease or break down in the intermolecular interaction with in the molecular structure 
+of the material . For example, gelatin e gg white and shortening . 
+Now, here also  we can see this kind of behavior  like true Thixotropic  and apparent 
+thixotropic ; that means, the material , which  show  decreasing nature of shear stress at 
+constant shear rate over time  and when we , you know , when we want to  show the effect 
+of the , I mean , when we want to change it , it is force or, or the shear  rate and bring it to the initial condition , then it 's viscosity will be recovered then we termed it as , two 
+thixotropic . 
+But if it is structure h as been changed completely and initial condition cannot be 
+regained when we have , remove , the shear stress then we can call it apparent 
+Thixotropic . 
+(Refer Slide Time: 08:47)  
+ 
+So, Tixotropic ; that means, may be  partially  reversible or irrevers ible when the applied 
+shear is removed . So, fluid is allowed to be  at rest and  with time  we can see this 
+behavior . So, Irreversible  Thixotropy  is also called Rheomalaxis  or Rheodestruction . 
+So, what happen that with time , if at constant  shear rat e, we apply and the stress is 
+gradually reducing , then at certain time if we rest it at that position . So, what happen that 
+the some material can completely recover that , if the shear is removed  those are called 
+the reversible and some may partially can ga in the initial structure , those are called the  
+partially reversible thixotropic behavio r and some material were they cannot regain at all . 
+So, they will just whenever we again apply shear , they will start from that point only 
+where  it has already reached when the stress condition . So, these are the nature . 
+Now, so, Shear  stress versus Shear  rate curve , if we plot in case of a , this kind of a 
+material as the shear  rate is first increased ok . As the shear  rate is increased towards this 
+direc tion and t hen it again decreased , we will get a hysteresis loop ok . So, here, in case of Thixotropic  behavio r, we can observe that when we  increase the shear  rate, the curve 
+that will get and when we decrease the shear  there will be certain change . So, this change 
+happened of some change or some permanent  deformation that has happened in the 
+structure of the material . 
+(Refer Slide Time: 11:10)  
+ 
+Rheopectic  behavio r, which is just reverse of Thixotropic  that Shear  stress and apparent  
+viscosity increase s with time . There  is the structure builds up and the shearing continues . 
+For example, bentonite clay suspensions , it is clearly observed in foods system . So, 
+example is fenugreek paste , this e xhibited the Rheopectic  behavio r ok. So, at a constant 
+shear ra te, if time increa se, a shear stress and viscosity increases , this happen because of 
+some kind of , interaction  molecular interaction between the product and it has , increase 
+it's viscosity o ver the time . (Refer Slide Time: 11:53)  
+ 
+For example , the starch milk and the sugar paste . So, the pasting process  can happen at 
+85 and 95 °C. This exhibited a thixotropic  behavio r; however, pasting at 75 °C behave as 
+a rheopectic  fluid . So, here temperature is a fac tor that is causing some ch ange in the 
+material property and , because of that the structure has been taken or the viscosity has 
+been increased . 
+So, it was noted that the thixotropy  occurred at high shear  rate that is above 50 Pa and 
+the rheopexy  occurred at low shear stress belo w 45 Pa. So, all such food material they 
+are very specific kind of nature , because there is no generalized  way of that , because 
+processing has been done in different pressure , different shear , different temperature , 
+different duration of time . 
+So, all such are the research based on the research based results and , and there are certain 
+modeling  has been developed for the different  and from where we can gain this kind of 
+inferences . 
+For example ; when soy protein was added to tomato juice , thixotropic  behavior  was 
+observed at low shear rate , but this was followed by a transition to rheopectic behavior  at 
+high shear rate ok. So, thixotropic ; that means, viscosity was reducing with time as at the 
+constant shear and just reversed and we are getting  when we just increase the shear rate 
+ok. So, whenever we perform any kind  of industry , industrial process  for, for product development and . So, we need to therefore, very much aware , should aware of the all the 
+rheological nature . 
+Because when we mix an d when we  see the different fluid line or, or the different  
+capability of the pumping and all will be changed based on this nature of change of the 
+material . Therefore , the rheological understanding of the product , that we want to make 
+in a processing plan  is very important to assess . 
+(Refer Slide Time: 14:17)  
+ 
+So, on the whole if you can see the classification of rheology . So, rheology as can be 
+termed as  can be categorised into two broad cat egory , deformation under flow . So, the 
+flow is  basically the property of the fluid that will show continual deformation over time 
+and it can be categorized as  plastic and viscous material , plastic material that nee ds an  
+initial stress to flow ; that means, initially they show the  infinite viscosity un less they 
+reaches the  or they exceed the yield stress . There  again Bingham  and Non Bingham  
+nature . Bingham  means those material , which show the Newtonian  behavior , when they 
+attend the yield stress . 
+And the Non Bingham,  when they does  not show the Newtoni an behavior , starts flowing 
+viscous then will be  Newtonian  and Non Newtonian.  Newtonian,  they will follow the 
+Newtons  law of viscosity  that is linear relation between stress and shear  rate Non 
+Newtonian ; that means, this material , this fluid will does  not obey  the Newtonian  
+behavior . Neither  they will pass through the origin  they will follow the power law equation  then fro m the deformation , we can categorize  them elastic and inelastic 
+material . Elastic material follow the Hookean  deformation or non hooke an whereas, 
+inelastic is viscoelastic and viscoplastic right . 
+So, viscoelastic ; that means, they have possess ed both the  property of the viscous 
+material  that, that a fluid behavior  and plastic nature , they need . They  need some yield 
+stress  to flow visco elastic . This is very important in terms of  food, we will eventually 
+discuss in our later class regarding this , because most of the food items comes under this 
+category  visco elastic . For example, you do ugh and many kind of ba tter or, or mix ok. 
+So, this wil l possess the viscous property as well as the elastic property ; that means, they 
+have some , some quality , because of that they can regain it 's initial behavior  partially . 
+However , some deformation will happen that is a permanent deformation that cannot be  
+recovered ok . So, this is all about the overall classification of Rheology . 
+(Refer Slide Time: 16:42)  
+ 
+ And lastly , there  are m any rheological functions are there . Mathematical  equation s that 
+describe the  various flow  behavior  curve on Shear  stress and Shear  rate diagram . . So, 
+Rheology  of the fluid food , if we consider Rheological  models can be grouped into three 
+categories empirical theoretical and structural  empirical , in the sense when we plot the 
+shear stress and shear rate diagram and we prior does  not have any idea about what ? 
+What  is the structure , we can not do any modeling , unless we get the  trend of that change of shear stress and from that  plot what we are getting ? We can derive or we can generate 
+certain kind of a model . 
+So, we termed them in Empirical  model . Theoretical  means that derived from the  physics 
+based principles that already  we know  the physical  expression or the  relation between 
+the, stress and strain . So, from that we can categorize  these model s structural models . 
+This based on the  internal  structure  or the composition of the  food. So, all three kinds of 
+models are available for analyzing  the, rheological behavior  of different food sample . So, 
+we will stop here . 
+Thank you . 

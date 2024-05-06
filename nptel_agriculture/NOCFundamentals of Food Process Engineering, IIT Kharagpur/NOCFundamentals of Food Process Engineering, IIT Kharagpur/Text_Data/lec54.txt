@@ -1,0 +1,280 @@
+Fundamentals  of Food  Process  Engineering  
+Professor  Jayeeta  Mitra  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  54 
+Leaching  and Extraction  (Contd.)  
+(Refer  Slide  Time:  0:21)  
+ 
+Hello  everyone.  Welcome  to the NPTEL  online  certification  course  on Fundamentals  of Food 
+Process  Engineering  and we are discussing  now leaching  and extraction  and we have  already  
+discussed  some  part of leaching  and extraction , the basic  fundamental  principle  of leaching  and 
+extraction , the equilibrium  of leaching , single  state and multistage  leaching operation.   
+(Refer  Slide  Time:  01:47)    
+So, after discussing  the different  stages and different  operation  of leaching  and also, discuss  the 
+equilibrium  conditions  and the rate of mass  transfer , the next important  thing  in leaching  is that 
+washing  of the slurry  material .  
+Washing:  
+What happened,  we are till now concerned  about  what  the solute  component  we are extracting . 
+So, we have  taken  the material , the solvent , in such a way that the solvent  had a proper  affinity  
+toward s the particular  solute that we try to extract  from  the solid  crush material  or slurry  
+material . So, that was our main  aim.Washing is similar to extraction.  
+So, that is why we try to evaluate  the overflow  where  the solute  and solvent  is there  and then to 
+separate  the solute  and solvent , we apply  either  distillation  or crystallizatio n, etc. But in some  
+cases,  the solid  material  is of important  and in that case, we actually  try to separate  one or more  
+component  from  the solid  material  and then the pure material  is of our requirement.   
+For example , sometime  during  the cheese  preparation , we want  to remove  the traces  of the 
+lactose , and that is being  done  by repeated  washing  treatment . So,  in that washing , actually  
+normally  we try to take water  because  it is freely  available  and inexpensive . So,  if the washing  
+can be done  by water , it is very good  and if it is not, then we have  to look for some  other  solvent  
+that is specifically  used for this kind of material.   So, physically  if you want  to think  the case is that till now when  we perform  leaching , the 
+solvent  was coming  and there  was some  solid  material , may be crushed  material  mostly  because  
+we want  to increase  the surface  to volume  ratio for all the cases . So,  that all the particle will 
+come  in intimate  contact  with the solvent  and then we are getting  here as an underflow , the solid  
+plus solvent  plus solute component , some  fraction  of that and in the overflow  we have  the 
+solvent  plus solute .  
+Now, if the pure solid  is our require ment  what  we need  to do? We wash  it with some  solvent , 
+mostly  we use water . So,  then we want  at the end that the we will get solid  in the pure form  or 
+then may dry it to remove  that water  and all the solute  will come  out of the solid  material.   
+So, then for washing  this solute  that is mixed  with the solid  is considered  as an impurity  and that 
+impu rity is taken  out by water  and here the solid  will be recovered . So,  this way we actually  
+move . So, therefore  washing  is important  when  the solid  is of important  and the solid  we want  to 
+extract  in pure form . So,  all the solute  and solvent  what  is mixed  with that we want  to wash  it 
+and we get the pure solid  material.   
+(Refer  Slide  Time:  05:54)  
+ 
+So, let us see, now in the washing  how we approach.  It is similar  to extraction . Similar  in the 
+sense , in the extraction  the solvent  is used to take the solute out of the solid  matrix and in the 
+washing , the whatever  impurities  of the solute residue  remain  in the solid  that is extracted  by 
+some  washing  liquid  that is normally  water.   In washing  the inert material  is our required  product . That means  the solid  that we want  to 
+separate  and the solvent  here is water . In multiple  washing  the water  content  of the material  is 
+xw. So,  what  happened  that in one washing  we may not fully , take out the impurities  that is 
+mixed  with the solid.   
+So, in multiple  washing  we wash  repeatedly  and the water  content  of the material , let us say xw 
+that is the weight  fraction  and a fraction  of this x which  is the impurity  that is the solute  or 
+impuri ty that we want  to separate . And to do this what  solvent  we add? We add water  of yxw 
+amount.   
+So, the impurity  formerly  contained  in xw amount  of water  because  initially  the water  content  of 
+the material  was xw. The impurity ,formerly contained in x w of wa ter is now in a mass(x w+ yx w); 
+its  concentration x has fallen by the ratio of these volumes, that is to x [x/(x w+ yx w)] 
+So, xw was already  there  in the sample  or the solid  material  and yxw that we have  used for 
+washing . So,  its concentration  x has fallen  by the ratio of these  volumes  that is now x [x/(x w+ 
+yxw)]because  initially  the fraction  we have  considered  for xw.  
+(Refer  Slide  Time:  08:30)  
+ 
+So, now, after one washing  so what  will remain  that x1, the fraction  that remain  x1  
+                                  xl = x[x w/xw(l + y)] = x[l/(l + y)]  So, x was the fraction  of impurity . So, after one washing , the level  of impurity  remain  as this x1 
+that is x[l/(l + y)] .  
+Now  after two washing,  this will become  x2  
+x2 = x l[l/(l + y)] = x[l/(l + y)]2 
+Similarly  for the 3 stage , we are getting   
+X3 = x[l/(l + y)]3 
+for n stage,  in the similar  way,  we are getting   
+xn= x[l/(l + y)]n 
+So, this is how after each washing  treatment  the impurity  that remains  so after one washing,  two 
+washing,  nth washing  is the impurity  remai ns or we can say the impurity  concentration  in the 
+solution  because  that is what  that we are calculating  here.   
+(Refer  Slide  Time:  10:16)  
+ 
+So, based  on that, we will solve  a problem  now and, so the problem  is that after precipitation  and 
+draining  procedur e, it is found  that 100 kg of fresh  casein  curd has a liquid  content  of 66 percent  
+and this liquid  contain  4.5 percent  of lactose.  Now  the curd is washed  three  times  with 194 kg of 
+fresh  water  each time.  Calculate  the residual  lactose  in the casein  after drying.   So, we want  to actually  remove  lactose  from  the casein  miscella . So,  4.5 percent  was initially . 
+We try to wash  it 3 times  with 194 kg of fresh  water . So,  calculate  the quantity  of water  that 
+would  have  to be used in a single  wash  to attain  the same  lactose  content . Now there  is a method  
+that if suppose  n times we are washing , so we can replace  this with n times  more  water  in one 
+stage . So,  that can also be done . So,  assume  the perfect  washing  and draining  of curd to 66 
+percent  of moisture  each time.  This was the condition  given.  Now,  let us see how we can solve 
+this one.  
+(Refer  Slide  Time:  12:12)  
+ 
+100kg of curd contain 66kg solution. The 66kg of solution contain 4.5% that is 3 kg of lactose.  
+In the first wash (194 + 66) = 260kg of solution contain 3kg lactose.  
+In 66 kg of solution lactose remaining there will be (66/260) x 3=.76 kg.  
+After the second wash the lactose remaining will be (66/260) x 0.76=.19 kg.  
+After the third wash the lactose remaining will be (66/260) x 0.19=0.048 kg.  
+ 
+ 
+ (Refer  Slide  Time:  13:52)  
+ 
+Or, after three washings lactose remaining will be 3 x (66/260)3 =0.048 kg.  
+So, after washing and ding 0.048kg of lactose will remain with 34kg dry casein so that lactose 
+content of the product = 0.048/34.05 = 0.14%  
+and total wash water = 3  x 194 = 582kg  
+To reduce the impurity content to 0.048 kg in one wash would require x kg of water, where  
+(3 x 66)/(x + 66) = 0.048kg; x = 4060 kg. so the total wash water = 4060kg.  
+So, this we will require  if we want  to achieve  this much  impurity  level  in one stage  washing . 
+(Refer  Slide  Time:  15:53)  
+ Liquid -liquid  extraction  
+So, far, we have  mostly  discussed  the leaching  that is the solid -liquid  extraction  process  and we 
+have  discussed  its equilibrium  multistage  process , operation , mass transfer  rate, and few 
+questions  and finally  the washing  method  for extracting  the solid  component  when  the solid  
+component  in pure form  is required . That is coming  from  the underflow .  
+Now , next we will discuss  the liquid -liquid  extraction . So,  in the liquid -liquid  extracti on the 
+main  use of this is there  in some  bio separation  process , then some  flavour  extraction  and oil 
+extraction  or when  we want  to separate  the antibiotics , all these  things  from  one solution  to the 
+other.   
+So, in that case we use this one liquid -liquid  extraction  and here like in the solid -liquid  extraction  
+the solid  and liquid  though  both came  into very intimate  contact . Here 2 liquid  phases  are 
+coming  into contact  and a third  component  that has affinity  higher  than the second  liquid  from  
+the first, so it will going  to the second  one.  
+For example,  if we try to visualize  this, suppose  one fluids  stream  is coming  which  is having  
+some  solid  particle,  and then the other  stream  is getting  mixed  with it, which  is having  the pure 
+solvent  may be. There may be no traces  of, there  may some  traces  of the solute  or may not be.  
+So, then what  will happen  that this the first solvent  or liquid  that has, that had that solute  earlier  
+will come  out from  the system  and all the solute  will now come  to the second  liquid  or the 
+second  solvent  because  this solute  has higher  affinity  to the second  liquid  or the second  solvent  
+that we have  used to extract  that from  the first phase  or the first liquid  phase . So, phase 1 and 2, 
+these  2 liquid  phase  are come  into direct  contact  and the solute component  has been  taken  by the 
+solvent , second  solvent  and the first solvent  will go out.  
+So, the concentration  of the solute  will increase  in the second  solvent  and while  it is decrease  in 
+the first one and the equilibrium  in these  2 when  it will reach  so that time the process  will be 
+stopped  because  of achieving  the equilibrium  condition .  
+(Refer  Slide  Time:  19:31)   
+So, liquid -liquid  extraction  again,  the transfer  is based  on the molecular  transfer . So,  in liquid -
+liquid  extraction , the extrac tion takes  place  from  one liquid  medium  to the other  as we have  
+mentioned . So,  we have  a feed,  solvent , extractor . Now the raffinate  we call when  the solute  
+come  out from  the feed solvent  and extract  we call when  the solute  is coming  with the solvent  
+and the solvent  is going  out, so the extract  is this one and the raffinate  is this one. So, this term is 
+practically  used for liquid -liquid  extraction  only.  
+Here the feed contains  the desired  solute , mass transfer  takes  place  because  of these  two having  
+the chemical  potential  difference  for that particular  solute . So,  through  their interface  layer  or 
+contact  layer , the transfer  of mass  will takes  place.  The raffinate  is the residual  feed solution , 
+may contain  the little solute also.  (Refer  Slide  Time:  20:37)  
+ 
+So, as we reach  the equilibrium  condition  in leaching,  we need  it, we have  to observe  that 
+equilibrium  condition  in the solvent  extraction  or liquid -liquid  extraction  also. So, equilibrium  is 
+reached  when  the chemical  potential  of the extractable  solute  is the same  in the 2 phases . 
+Practically  this rule leads  to the definition  of a distribution  coefficient   
+ 
+ 
+So, distribution  coefficient  is expressed  as this and c1 and c2 are the equilibrium  concentration  of 
+the solute  in the 2 phases  because  2 liquid  phases are coming  into contact  so the extract  and 
+raffinate  these  2 are going  out. So,  actually  these  are the concentration  of this extract  and 
+raffinate  phase.  The distribution  coefficient  is an expression  of the relative  preference  of the 
+solute  for the solvent.   
+So, ideally  this will be uniform  when  the equilibrium  condition  is arrived,  but because  we need  
+to know  the relative  preference  because  if solute  is having  in 1 solvent  and the affinity  to that 
+solve nt is higher  than the other  solvent , then the extraction  would  not be possible . So,  that we 
+have  to see. Now, the efficiency  of a liquid -liquid  extraction  process  can be strong ly improved  
+by k. So,  if the distribution  coefficient  increase  so that liquid -liquid  extraction  efficiency  will 
+also increase .  
+𝐊=𝐂𝟏
+𝐂𝟐 (Refer  Slide  Time:  22:27)  
+ 
+Equilateral triangular/ternary phase diagram:  
+Now , as we have  shown  you how to plot the equilibrium  conditions  in case of the leaching  
+operation  there we have  taken  a rectangular  plot and in the y axis we plotted  N and that is the 
+inert material  / the kg of the solute  + kg of the solvent,  with that we have  plotted  ya and xa, that is 
+the solute  fraction  in the slurry  stream  and in the extract  or in those  cases  for the leaching .  
+Similarly , for the liquid -liquid  extraction  also we can develop  the equilibrium  plots and these  
+equilibrium  plots  are of many  types . So,  sometime  we may refer  the equilateral  triangular  plots  
+or rectangular  plots  are also there , even  these  liquids  that the two phase  liquid  that we are using  
+to separate  some  compound , some  solute  or some  oil, some  flavour  compounds . etc. So,  
+sometimes  those  two liquid  that we are using  those  are partially  miscible  also.  
+So, there  are many  cases . Here, we will discuss  one or two of them . So, equilateral  triangular  or 
+ternary  phase  diagram . So,  we need  to have  three  component  because  we have  two solvent  and 
+one is the component  that we want  to separate . So,  you can see in this equilateral  triangular  or 
+ternary  phase  diagram  for leaching  where  you can consider  A that is the solute that we want  to 
+extract  and B that is the solvent , and C is the other  one. So, scale  of C moving  from  this side to 
+this side from  0 percent  to 100 percent  and scale  of A varies  from  here to here 0 to 100 percent  
+and scale  of B varies  from  here to here.   So, this is one approach . There are many  approach  of solving  this. So,  let us say one case we 
+want  to have . So, how these three  can be separated . Initially , we will get a mixture.  Suppose , we 
+are having  2 stream . So,  when  they will get mix so they will reach eventually  on equilibrium  
+stage , that even  equilibrium  stage , let us say signifies  by m, and when  this equilibrium  stage  is 
+coming  so we will get phase  1 and phase  2 separated  so the solute component  of the phase  1 has 
+now reached  to phase  2. 
+But this point  when  we say that this is equilibrium  that means  that equilibrium  should  be visible  
+by measuring  the concentration  of that solute  in both the stream  and that should  come  equal  or in 
+the ideal  case, it is coming  equal.  We may not get equal  but we can calculate  that from  those  
+charts.   
+So, then the main  thing  is we need  to achieve  some  equilibrium  position . So, in this example,  let 
+us say we have  a point.  We have  a ternary  phase  diagram  and here we have  a point.  Now , in this 
+point  what  will be the concen tration  that we want  to measure ? Now, the concentration , suppose  
+we define  A as the one solute  component  that we want  to separate  and B or C as one solvent . So, 
+in one stream  the concentration  of A is if it is fixed,  so the other  concentration  we can fix. So, we 
+can see that if we consider  this point , we can see that solute  varies  from  0 to 1 in this direction . 
+Solvent  mass fraction  varies  from  this left to right  in this fashion  and the solute  solvent  fraction , 
+so this is, first one is the carrier.   
+So, this is one solvent  that is the carrier  one that is carrying  the solute . This is the solvent  and this 
+is the solute  mass  fraction . So,  at this point  we can have  the lines  just parallel  to this already  
+having  this ternary  lines  so we are getting  a little highe r than 0.5. So,  let us say 0.52 that is the 
+mass  fraction  of the carrier  and now if we draw  this line on the solvent  side, so we are getting  
+that around  0.25 that will be the concentration  of the solvent  and similarly  if we move  towards  
+the solute  side, we are getting  also around  0.23. So, this is how all the 3 fraction  can be find out 
+at a particular  condition .  (Refer  Slide  Time:  27:58)  
+ 
+So, in the solvent  extraction  or liquid -liquid  extraction  process , we need  to remember  a few 
+things . First is each vertices  of the triangle  represent  the pure component  and each base line 
+indicate  the composition  of a binary  mixture , each baseline  having  the composition  of the binary  
+mixture.   
+So, in each baseline , the composition  of a pure component  located  opposite  to that vertex  is 0 
+and in liquid -liquid  extraction  process  the three  vertices  indicate  the solute  carrier  and solvent . 
+That we have  seen just now in the three , plot and in liquid -liquid  extraction  the ternary  diagram  
+has 2 region.  One is the single  liquid  region and the two liquid  phase  region . So, this we actually  
+get when  we have  some  partially  miscible  solvent.   (Refer  Slide  Time:  29:19)  
+ 
+So, here we can see in this diagram  that we have  extract  that we want  to separate , we have  
+raffinate  and we have  solvent. So, this is the solvent , this is raffinate  that is after taking  out that 
+solute the stream  is called  the raffinate  and here it is the extract . So, a single  liquid  region  where  
+all 3 components  are dissolved  in a single  liquid  phase  that we can have  from here. 
+And the two liquid  phase  region . So,  this is the single  phase  region  where  only the extra  
+component  will be there  and there  is the 2 phase  region  where  the solvent  and raffinate  will be 
+getting  partially  mixed . The two liquid  phase  region  where  mixture  composition  split into 2 
+immiscible  liquid .  
+For liquid -liquid  extraction  the mixture  needs  to be in 2 phase  region . So,  here it is 2 phase  
+region  and these lines  are called  the tie line and there  will be one point  that is called  the plate  
+point  that actually  having  a concentration  of both the solvent  similar  or both are coexist  at that 
+condition . So, the 2 regions  are divided  by miscibility  boundary  or liquid -liquid  equilibrium  line. 
+So, this is the miscibility  boundary  or liquid -liquid  equilibrium  line. (Refer  Slide  Time:  30:59)  
+ 
+So, now this is again  one example  that we will solve  in this across  that miscibility  boundary  is 
+given  and the mass  fraction  of furfural  is here. Ethylene  glycol  that we want  to separate  from  
+water  using  this. So,  there  is a water  and ethylene  glycol  and furfural  ethylene  glycol  are 
+completely  miscible  pair. So, water  and furfural  is partially  miscible  and there  is a miscibility  
+boundary . So,  this is called  the plait point. At plait point p, the 2 liquid  phase  have  identica l 
+composition . So, miscibility  limit  for the furfural  water  binary  systems  are D and G.  
+So, here it is D and G. So,  that is from  this composition  to this composition , it can be mixed  
+among  them  selves  and we can observe  these  are the tie line and in the tie line, so after if this 
+combination  that means  the water  ethylene  glycol  is mixed  with the furfural . So,  one point  will 
+be there  that is the mixing  point  and from  that point , we need  to find out what  is the 
+concentration  of all other  raffinate  and extrac t sections.  (Refer  Slide  Time:  32:40)   
+ 
+So, in this particular  diagram , what  we can see that we denoted  this point  M that is the mixture  
+point. So, in this point  mixture,  we need  to find the percentage  of ethylene  glycol , then water  and 
+then the furfural . So, we will have  a line straight  from  this point  M and that will touch  this line of 
+the mass  fraction  of water  at some  point  here,  which  is around  19 percent  because  it is moving  
+from  this direction  0 to this so we are getting  at 19 percent .  
+Then we will look for the mass  fraction  of ethylene  glycol . So,  this is the ethylene  glycol  mass 
+fraction . So, we will go in this left side and find that what  is the fraction  of the point  so we are 
+getting  that 20 percent  ethylene  glycol , 19 percent  water  and the percentage  of the furfural  now 
+we need  to find. So, for the furfural  will just straight  away  come  in this side.  
+So, around  61 percent  of that we will get. So,  we get furfural  here, we get mass fraction  of the 
+ethylene  glycol  here and we will get here the water. Now , what  we need  to do is from  the 
+mixture  we need  to find what  is the composition  of the raffinate  and what  is the composition  of 
+the extract .  
+So for raffinate  and extract  this passing  through  M, we will need  to have  the tie line. So, here is 
+the tie line is there , this is E and this is the R. So,  this is raffinate  and this is the extract . So,  
+initially  ethylene  glycol  was mixed  with the water , now it will come  to the furfural . So,  that is 
+why it is extract .  So, then what  we will get that if at this extract  one, we want  to find out what  is the percentage  of 
+the ethylene  glycol . So,  we can get here that is 10 percent.  10 percent  ethylene  glycol  we are 
+getting  and now what  is the water  in this because  some  we cannot  completely  separate .  
+So from  here,  we will look for that how much  percentage . So, if we will get somewhere  here we 
+will end up so that is around  4 percent  water we will get and from  this line, extract  line if we 
+come  here, so somewhere  here we are reach ing. So,  80 percent  furfural  will be there.  Now , 
+coming  to the raffinate  part. So, for the raffinate  part, if you try to read the equilibrium  diagram,  
+so for the raffinate  we will have  the tie line from  the mixture  to the raffinate  side and at this 
+point , so we will have  straight  away  ethylene  glycol  that is 40 percent  and we have  water  as 
+around  48 or 49 percent  and similarly , we have  from  this point  we have  around , this is our so are 
+somewhere  here, we will have , so around  11 percent  of the furfural .  
+So, this is how the equilibrium  diagram  in case of the liquid -liquid  extraction  can be read.  We 
+are not going  to give you any equations  there  because  these  equations  are almost  similar  that we 
+have  developed  in the leaching.  We have  2 streams  that is coming  into. There are different  
+fraction  of that particular  solute  component  and then those  two are getting  mixed  and extract  and 
+raffinate  are coming.   
+So they are all almost  similar  to that, but we want  to give you an idea of how to read these  
+equilibrium  charts  if it is a miscible,  2 solvents  are partially  miscible  or if they are not then we 
+can have  simply  equilateral  triangular  diagram  or ternary  phase  diagram , and we are not going  to 
+very detailed  discussion  of this but this will give you an idea that how the separation  is taking  
+place  and what  is the fraction  of the component  that is going  into each phase s. So, we will stop 
+here and we will discuss  the rest of the thing  in the next class.  Thank  you. 

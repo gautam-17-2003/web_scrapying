@@ -1,0 +1,229 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  19  
+Tractive  Performance  Prediction  Models  – Brixius  
+Hi everyone,  this is Professor  H. Raheman  from  Agricultural  and Food Engineering  
+Department,  IIT Kharagpur.  I welcome  you all to this NPTEL  course  on Traction  
+Engineering.  This is lecture  19, where  I will try to cover  tractive performance  prediction  
+models  developed  by Brixius .  
+As I said, the theoretical  derivati ons which  you did for calculating  the tractive performance  of 
+pneumatic  wheel s, we need  to know  the stress  distribution,  we need  to know  the shear  
+displacement,  we need  to know  the relationship  between  shear  stress  and shear  displacement  
+and the distributi on of normal  pressure . So, these  are all theoretically , it seems  very sound,  
+but actually  it is very difficult  to get all those  information s. Hence,  some  equations  have  been  
+developed .  
+(Refer  Slide  Time:  1:37) 
+ 
+So, a set of equations  I discussed  in my lecture  18. Now , I will discuss  the most  recently  and 
+commonly  used equations  which  have  been  developed  by Brixius.  There  are plenty  of 
+equations  available,  but these  are the two Wismer  and Luth  and Brixius  equations.  These are 
+most  commonly  used one that is why I tried to discuss  in detail  about  those  two equations . 
+So, in this lecture,  I will try to cover  about  Brixius  equations  where  I will cover  the concepts  of mobility  number , concepts  of motion  resistance  ratio,  torque  ratio and effect  of tyre soil 
+variables  on tractive performance .  
+(Refer  Slide  Time:  2:23) 
+ 
+So Brixius , we have  already  discussed  about  Wismer  and Luth  equation  that is why Brixius  
+wanted  to modify  that equation . So, what  he did is, he tried to take data obtained  from  121 
+tyre soil combin ations. Look at the numbers  121 tyre soil combinations  in 2500  field tests. 
+So, there  is a huge  amount  of data. Based on those  data,  he tried to develop  some  equations . 
+So, he tried to identify  what  are the parameters  which  are affecting  the tractive  perfo rmance  
+and then he tried to develop  some  equations  with respect  to your COT, torque  ratio, with 
+respect  to motion  resistance  ratio.  
+And from  there , he derived  the coefficient  of traction  and tractive  efficiency . So, he identified  
+11 parameters,  and he grouped  them  into soil, wheel  and system  parameters . Under  soil 
+parameters,  he took cone  index  and under  tyre, he took tractor  section  width, overall tyre 
+diameter,  tyre rolling  radius,  tyre section  height , tyre deflection , delta . And here, I have  
+indicated  the symbols  CI, b, d, r, h and delta  and the dimensions . Now , the system  parameters  
+are your vertical  load which  is coming  in the wheel,  then the motion  resistance , towing  force , 
+wheel  pull, wheel  torque  and wheel  slip.  
+So, these  are the parameters  he identified , 11 parameters.  He then applied  dimensional  
+analysis  technique  that is Buckingham  pi theorem . So, that means  11 minus  2, that should  be 
+9 dimensionl ess ratio variables.   (Refer  Slide  Time:  4:29) 
+ 
+Out of these  9 dimensionless  ratio variables,  he identified  as wheel  numeric , CIbd/W, width 
+to diameter  ratio (b/d), that means  section  width  to wheel  diameter , deflection  ratio (δ/h), 
+rolling  radius  to diameter  ratio (r/d), section  height  ratio (h/d),  that means  section  height  by 
+overall diameter,  slip, torque  or gross  traction  ratio (Q/rW), motion  resistance  ratio (M/W)  
+and pull ratio as P/W. So, these  are the 9 dimensions  ratio variables  he identified .  
+Out of these  9 dimensionless  ratio variables , he found  two ratios,  which  can be derived  from  
+other  ratios  for example,  PW can be derived  if you know  Q/rW and if you know  M/W. So, 
+the difference  of these  two will give you P/W. Similarly,  h/d, section  height  ratio that can be 
+derived  if you know  the rolling  radius  r and if you know  the overall  diameter  and δ/h ratio. 
+So, these  are the two parameters  P/W and h/d they are derived  from  the two other  
+dimensionless  ratio variables  which  you identified.   
+The other  thing  is the rolling  radius  to diameter  ratio is nearly  constant  for agricultural  
+tractor.  Hence,  he said it can be neglected  and that is what  the Wismer  and Luth  did. So, r/d 
+ratio is nearly  equivalent  to 0.475 for whatever  combination  of tyre soil he has tried. So, that 
+means,  the rolling  radius  ratio is nearly  constant . Hence,  he neglected  that one. So, out of 9 
+then you take minus  3. 1, 2 is the dimension  ratios which are  derived  from  others . The r/d 
+also he took as constant . So, remaining  are 6 dimensionless  ratio variables .  (Refer  Slide  Time:  7:02) 
+ 
+So, he defined  one terminology  Bn, which  is called  mobility  number . So, Bn is mobility  
+number . This is equal  to wheel  numeric  CI bd/W then he has added  two things  del/h ratio and 
+b/d ratio. So,  
+ 
+So, that together  is called  mobility  number . Whereas , Wismer  and Luth , he defined  wheel  
+numeric , only he has taken  CIbd/W. These two components  he has not considered  he has 
+taken  as a constant . So, this is the advantage  we can say. So, we will see what  is the 
+advantage  we are getting  later on.  
+(Refer  Slide  Time:  8:02)  
+ 
+Then the equation  which  he developed  is torque  or gross  traction  ratio. This is written  as 
+Q/rW, Q is the torque  and r are the rolling  radius , W is the dynamic  weight . So, in other  
+words  you can write  F/W that means  tractive  force divided  by the dynamic  load 
+ 
+Let us now see, what  is the signific ance of these  terms  which  are included  in this equation . 
+The first is 0.88,  what  does it show ?  
+So, it shows  or limits  the maximum  torque  ratio to 0.92. 0.88 and 0.04 if you add  that 
+becomes  0.92. That means  95 per cent, sorry  92 per cent of the torque  is converted  to useful  
+power . And where  it is obtained ? This is obtained  with a large  mobility  number , at high slip value . These  are the two conditions  that means  where  will you get 0.92, where  when  there  
+will be large  mobility  number  and when  there  will be high slip.  
+Then  the second  important  component  is your mobility  number  e-0.1Bn. This mobility  number  
+here controls  the maximum  thrust  which  is developed  and it is developed  at a higher  slip. The 
+torque  ratio increases  with increase  in mobility  number . Torque  ratio increases  with increase  
+in mobility  number.  Now,  the second  important  term is this e-7.5s. The constant  7.5 is called  
+the gripping  or surface  factor , it controls  the rate of rise of torque  ratio curve  with slip and the 
+factor  is smaller  for wet surface  and it is larger  for staked  wheels.  Now , he developed  another  
+equation . Before  that, 0.04, what  does it reflects ? It reflects  the torque  ratio at zero slip 
+irrespective  of what  soil condition . The torque  ratio is at zero slip is 0.04.  (Refer  Slide  Time:  10:55 ) 
+ 
+So now,  let us see what  is the equation  which  is developed  for motion  resistance  ratio,  which  
+is denoted  as ρ and this is equal  to M/W and  
+ 
+So, let us now see how the motion  resistance  ratio is varying  and why there  is a rolling  
+resistance ? First if you know  then only can justify  this nature  of the curve.  The motion  
+resistance  ratio of a pneumatic  wheel  is because  of so many  facto rs.  
+So, if you would  like to identify  those  factors,  the first is the tyre flexing  and scrubbing . Tyre, 
+flexing  and scrubbing . The second  one is due to compaction  of soil, third  one is due to 
+bulldozing,  then fourth  one is due to lateral  drag which  is caused because  of soil adherence  to 
+the tyre. So, these  are the four reasons  for which  there  will be motion  resistance . In a hard 
+soil, basically  it is the tyre flexing  and scrubbing  which  will create  the motion  resistance .  
+So now,  after knowing  this, then next thing  is what  are the terms  which  are used in this 
+equation  motion  resistance  ratio equation . The first term is 1/Bn and so what  does it indicate ? 
+Bn is in the denominator  that means , higher  the value  of Bn lesser  will be the rolling  
+resistance .  (Refer  Slide  Time:  13:24 )  
+ 
+As Bn decreases , MRR  motion  resistance  ratio increases . So, Bn decreases  means  Bn could  be 
+due to decrease  in soil streng th, due to decrease  in deflection  ratio, due to the increase  in 
+width  to diameter  ratio. These  are the factors by which  you can decrease  the Bn value . Since  
+Bn value  in the denominator  so, that is why 1/Bn will give you higher  rolling  resistance  ratio.  
+Now,  the second  term is 0.5s/(Bn0.5). If you look at this one, motion  resistance  ratio increases  
+with slip due to increase  in tyre sinkage  and soil shearing . So, more  the slip more  will be the 
+rolling  resistance.   
+Now,  the third  component  is your 0.04 this value  represents  the motion  resistance  ratio on a 
+hard surface  and it represents  the minimum  value  on any surface . This is basically  due to tyre 
+flexing  and scrubbing.  Now , once  we know  the equations  which  are developed  for torque  
+ratio,  which  is nothing  but the coefficient  of gross  traction  then we knew  the equation  which  
+is developed  for motion  resistance  ratio and the nature  of the motion  resistance  ratio curve .  
+We can see with increase  in mobility  number  we are getting  lesser  and lesser  motion  
+resistance  ratio that means,  with increase  in CI with increase  in δ/h ratio,  we are gettin g more  
+mobility  number  and then you are getting  lesser motion  resistance  ratio.  (Refer  Slide  Time:  15:23 ) 
+ 
+Then  he derived  coefficient  of traction or net traction ratio which  is  
+ 
+And then he tried to plot NTR  versus  wheel  slip for different  Bn values  starting  from  5 to 80. 
+So, Bn value  increase  means,  your coefficient  of traction  increases  for the same  slip. If you 
+look at 0.3 or 0.2 wherever  you look at, all the cases  we will find that the COT  value  
+increases  with increas e in Bn value  that is wheel  numeric  value .  
+Why  it is so? Bn value  increased  means  the soil is hard. So, there  is lesser  rolling  resistance , 
+hence  the power  which  is supplied  to the tractor  wheel  or to the single  wheel  that will 
+consume  less power  to overcome  the rolling  resistance , hence  more  power  is available  as 
+useful  power .  (Refer  Slide  Time:  16:44 ) 
+ 
+ 
+Next thing  is tractive  efficiency.  Once  you derive  motion  resistance , coefficient  of traction,  
+then we tried to find out what  is the expression  for tractive  efficiency . The expression  
+remains  same  that means  output  power  by input  power . And it is a function  of slip So,  
+ 
+So, we have  divided  W to find out this is COT  and the other  one is your torque ratio.  Now,  
+the nature  of the curve  we can see from  here. The variation  of TE with wheel  slip is shown  in 
+this figure . When this wheel  slip is less than 5 per cent, what  happens ? A large  portion  of the 
+power  is required  to overcome  rolling  resistance .  If wheel  slip is more  than 20 per cent, beyond  this again  it is going  down . Tractiv e efficiency , 
+if you look at the curve,  it is rising  to a peak  very sharply  then it is going  down . So, if you are 
+beyond  20 per cent or 25 per cent then there  is again  a decrease  in tractive  efficiency . And 
+that decrease  in tractive  efficienc y is because  of increasing  proportion  of increasing  percent  
+of input  power  which  is lost due to slippage . If the slip is less than 5 per cent there  is loss, 
+most  of the power  is used for overcoming  the rolling  resistance . If it is more  than 20 per cent, 
+if the slip is more  than 20 per cent, most  of the power  is lost because  of the wheel  slip. So, we 
+have  to operate  in between  these  two so that you can get maximum  tractive  efficiency.  Now,  
+if you try to plot tractive  efficiency  versus  slip and pull versus  slip that will give you a better  
+picture . In the sense , the nature  of the curves  are different . In case of tractive  efficiency  
+curve , it reache s to a peak  within  10 per cent if you look at when  the wheel  is hard sorry  the 
+mobility  number  is high from  20 to 80 then you are getting  a maximum  value  within  10 per 
+cent.  
+Now , if the mobility  number  is 10 then we are getting  maximum  value  around  15 per cent. 
+The mobility  number  is 5 then we are getting  a maximum  value  around  25 per cent slip. 
+Whereas , at this slip values  if you draw  vertical  lines , so at this slip values  this COT  curve  
+that is coefficient  of traction  curve s or the pull to weight  ratio curve  is not giving  the 
+maximum  value . So, maximum  value  you can see, you are getting  somewhere  here, in case of 
+wheel  numeric  mobility  number  5. In case of mobility  number  10 you are getting  maximum  
+here, in case of 20 you are getting  here sorry, in case of 10 you are getting  here somewhere .  
+So, that means  the slip at which  you are getting  maximum  tractive  efficiency  and the slip at 
+which  you are getting  maximum  pull they are not matching . So, if you want  more  pull or if 
+you want  more  tractive  efficiency  that we have  to first find out or you have  to make  a 
+compromise,  so that we will get more  pull at the same  time more  tractive  efficiency  we 
+cannot  say maximum,  but we can say we can get more  pull or more  tractive  efficiency .  
+So, that is why a design  curve  has been  drawn  here which  is shown  by the green line. So, 
+depending  on our soil condition,  we have  to find out which  slip should  be followed  in the 
+field so that you will get both maximum  tractive  efficiency  and more  pull.  (Refer  Slide  Time:  20:48 ) 
+ 
+So, if you look at this curve,  so, you are nearl y when  the soil is hard that means  the mobility  
+number  is 80 you can see we are reaching  to a peak  here, and when  the mobility  number  is 40 
+we are reaching  to a peak  here, when  the mobility  number  is 20 we are reaching  the peak  
+here.  
+So, this design  curve s are basically  for higher  tractive  efficiency.  But the pull which  are 
+getting  is at 20, this is the pull which  are getting  at 40, this is the pull you are getting , at 80, 
+this is the pull which  we are getting , which  is less than the maximum  pull. So, now this 
+suggests  that there  should  be a design  curve  taking  into account  which  thing  we like more  
+tractive  efficiency  or we like more  pull.  
+(Refer  Slide  Time:  21:54 ) 
+ So, these  are the sets of equations  to which  you discuss  one is for Wismer  and Luth,  the other 
+one is for Brixius  and let us see now the applicability  of Brixius  equation . The applicability  
+of Brixius  equation  is for a cone  index  starting  from  100 to 5000.  The very high value  100 to 
+5000  and the b/d ratio is 0.18 to 0.9 there  is the range . δ/h ratio is from  0.08 to 0.32 and r/d 
+ratio is almost  constant  0.475. And if you would  like to compare  Wismer  and Luth  then there  
+is no indication  for cone  index  value , what  is its applicability ?  
+Only  the limited  value  is b/d ratio is only 0.3. If we exceed  this value,  what  will happen , he 
+has not mentioned , neither  nobody  has tried to find and verify  this. And δ/h ratio, if you look 
+at, it is 0.2 and r/d ratio for agriculture  tyre it is nearly  0.475. But the advantage  which  
+Brixius  has done  is the maximum  value  has increased  to 0.92 times.  Whereas,  the tractive  
+effort  which  is developed  by Wismar  and Luth  is 0.75. There is a difference . And in Brixius  
+equation  he has considered  both deflection  as well as b/d ratio which  Wismer  and Luth 
+equation  has not considered.   
+The third  thing  is in case of rolling  resistance  ratio for which  Wismer  and Luth  equations , 
+there  is no difference , you cannot  differentiate  the rolling  resistance  of a towed  wheel  or 
+rolling  distance  of a powered  wheel , because slip factor  was not there.  Whereas  in case of 
+Brixius  equations , he has considered  slip factor . So, that is why Brixius  equations  is much  
+better.  These  equations  are much  better  and it has more  applicability  as compared  to Wismer  
+and Luth’s equation . So, one more  thing  I like to add here is these  two equations,  these  two 
+scientists  Brixius  as well as Wismer  and Luth  both have  developed  equations  for bias ply 
+tyre.  
+Applicability  of these  equations  which  are discussed  for radial  ply tyres is not known.  Rather  
+Brixius  has indicated  that he can change  the coefficient  values  so that it can be applied  to 
+radial  tyre. Some of the suggestions  what  he has given  is you can change  the value  of 
+constant  7.5.  (Refer  Slide  Time:  25:01 ) 
+ 
+ 
+The equations , let me go back  to the equation  there  it will be better  to show  what  changes  he 
+has suggested  if we are interested  to find out or apply  this equation  to radial  tyre. The first 
+suggestion  he has given  is this 7.5. He suggested  that instead  of 7.5 we can try with 8.5 to 
+10.5 and the constant  0.04, he said it should  be 0.035  or 0.03 that is the range . These  are 
+some  of the suggestions  and in the motion  resistance  ratio he also suggested  a change  in the 
+terms  of instead  of 1/Bn, he suggested  it should  be 0.9/Bn. These  are some  of the suggestions  
+given  by Brixius  to apply  these  equations  to radial  tyres.  
+So, nevertheless  Brixius  equations  are better  in the sense , it takes  into account  the slip, it 
+takes  into account  the δ/h ratio, it takes  into account  the b/d ratio. So, these  are some  of the 
+advantages  of Brixius  equation . So, that is why now,  ASABE  has recommended  these  in the standard , ASABE  standard , we find these  are the equations  which  are available  for predicting  
+the tractive  performance  of tyres, pneumatic  tyres.  
+(Refer  Slide  Time:  27:03 ) 
+ 
+ 
+So, in summary  I can say I tried to discuss  the equations  which  are developed  and for 
+developing  what  are the dimensionless  ratios, dimensionless  ratio variable s which  are 
+consider ed those  are also discuss ed. Then , we discuss ed finally,  the applicability  of these  
+equations  and then compared  Brixius’s equation  with Luth’s equation . And what  are the 
+modifications,  which  can be incorporated  in the developed  equation , so that the equations  can 
+be applied  to radial  ply tyres , That is all. Thank  you. 
+ 

@@ -1,0 +1,175 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 39: Classification of steady state handling characteristics and handling 
+diagram  
+ 
+Hi everyone, this is Professor H.  Raheman  from Agricultural and Food Engineering 
+Department. I welcome you all to this NPTEL course on Traction  Engineering. This is 
+lecture 39 , where I will try to cover the classification of steady state handling characteristics 
+and particularly the handling diagram. And the concepts which will be covered in this class 
+is neutral steering, over steering, under steering and the handling diagram. This neutral 
+steering,  over steering and under steering these are the classification of handling 
+characteristics.  
+ 
+So, in the previous class we defined a terminology called understeer coefficient Kus which 
+is nothing, but  
+𝐾𝑢𝑠=(𝑊𝑓
+𝐶𝛼𝑓−𝑊𝑟
+𝐶𝛼𝑟) 
+So, that difference is indicated as understeer coefficient. When this bracketed term is equal 
+to 0, that means, Kus is equal to 0 . The steer angle δf, which is required to negotiate a given 
+curve is independent of the turning radius or the forward speed. That means, when delta 
+that is the steer angle required to negotiate a given curve is independent of the forward 
+speed . 
+So, the relationship which that the fundamental equations , which we derived in the previous 
+class ,  
+𝛿𝑓= 𝐿
+𝑅+𝑉2
+𝑔𝑅𝐾𝑢𝑠 
+So, when K us is equal to 0 so obviously, this component will be 0 and δf = L/R. So, that is 
+reflected in this figure, neutral steering, the central curve.  So, for a neutral steer vehicle , 
+when it is accelerated in a constant radius turn , the driver should maintain the same steering 
+wheel , steering wheel position or in other words you can say , when it is accelerated with 
+the steering wheel fixed , the turning radius remains the same ok. So, let me repeat this , in 
+a neutral  steer vehicle , the turning radius is to be maintained constant then we have to 
+maintain  the steering angle constan t ok. So, when a neutral steer vehicle,  which is originally moving along a straight line and it is 
+subjected to a side force acting at the centre of gravity , so, equal slip angles will be 
+developed at the front and the rear tires. As a result , the vehicle will follow a straight path 
+at an angle to the original. So, I will show this thing at the end , how it is acting against the 
+side force.  Now, I will go to the other classification which is the understeer.  
+When the understeer coefficient K us is greater than 0 that means,  
+𝑊𝑓
+𝐶𝛼𝑓−𝑊𝑟
+𝐶𝛼𝑟>0 
+That means, this cornering stiffness  and the weight coming on the front wheel , that ratio is 
+more than the ratio of weight coming on the rear wheel and the cornering stiffness of the 
+rear wheel then K us will be equal to more than 0. So, this , under that condition the steer 
+angle del f required to negotiate a given car increases with the square of the vehicle forward 
+speed. So, that is indicated here in this . This is the situation. For an understeer vehicle , 
+when it is accelerated in a constant radius turn , the driver must increase the steering angle. 
+If you want to get the constant steering radius then at the turning radius , then the driver has 
+to increase the steering angle or in other words when it is accelerated with the steering 
+wheel fixed , the turning radius  increases , it does not remain constant.  
+So, when a side force is acting at the centre of gravity of an understeer vehicle originally 
+moving along a straight line , the front t yres should develop a slip angle which will be 
+greater than the rear t yres, as a result a yaw motion will be developed and that will turn the 
+vehicle away from the side force. Now, I will go to the third condition . Third condition is 
+your oversteer. When the unde rsteer coefficient K us is less than 0 , that means, the front 
+wheel is developing less slip angle then the steer angle δf which is required to negotiate a 
+given curve decreases with an increase in forward speed. So, that is indicated by this line 
+in this figure. For an oversteer vehicle when it is accelerated in a constant radius turn , the 
+driver must decrease the steering angle , or in other words  when it is accelerated with 
+steering wheel fixed , the turning radius will decrease.   
+So, if you look at the figure , initial turning radius is R now if you follow this over steer 
+condition then the whatever turning radius is coming so that will be less than the capital R. 
+So, when a side force is acting at the centre of gravity of an over steer vehicle originally 
+moving  along a straight line , the front t yres will develop a slip angle which is lesser than 
+that of the rear t yres, as a result a yaw motion will be initiated and the vehicle will turn into 
+the side force. So, I will show you what is the turning into the side force or what is the 
+turning away from the side force. When a side force is acting a phase under neutral steer , 
+it will move at an angle whereas, in case of under steer it will move away from the original 
+condition and the over steer condition , it will move towards the side force ok. So, this is  
+oversteer,  this is understeer , this is neutral steer.  So, this figure shows the directional response of neutral steer , oversteer and understeer 
+vehicle to a side force at the centre of gravity. So, whether it is understeer or oversteer , 
+they are create d, they will be creating directional instability after certain speed. So, let us 
+see we will try to find out some characteristic speed. For an understeer vehicle , I have 
+defined a speed called characteristic speed which is denoted as V char this has to be 
+identified.  What is this? This is the speed at which the steer angle required to negotiate a 
+turn will be equal to  
+𝛿𝑓=2𝐿
+𝑅 
+Where L is the tr ack width as wherever L is the wheel base and R is the turning radius and  
+𝑉𝑐ℎ𝑎𝑟=√𝑔𝐿
+𝐾𝑢𝑠 
+Kus is the understeer coefficient and that represents this point.  
+Your forward speed is exceeding this one , then there will be directional instability. The 
+similar to characteristic speed which is associated with understeer vehicle , we will also 
+define a terminology called critical speed. This is associated with oversteer condition or 
+oversteer vehicle which I denoted as V critical  (Vcrit) and that has to be identified because 
+beyond this speed that will give you directional instability. So, it is the speed at which the 
+steer angle required to negotiate a turn is 0. So, this is the condition.  
+If you increase the speed that means, this is a plot of steer angle δf versus forward speed , I 
+have just given an example. So, when the speed reached to this point , that means, steer 
+angle is 0 , then there is a possibility that V critical will be arrived and  
+𝑉𝑐𝑟𝑖𝑡=√𝑔𝐿
+−𝐾𝑢𝑠 
+So, whether it is characteristic speed or whether it is critical speed , if we cross th ese limits 
+then there will be directional instability , and the neutral steer is achieved at 0 when Kus is 
+equal to 0 that means, δf = L/R . So, these are the three conditions which I have indicated 
+for understeer , oversteer and neutral steering. Now, let us see the prime factors which are 
+controlling , now if you look at the steady state handling characteristics of a vehicle these 
+are the weight distribution of the vehicle and the cornering  stiffness of the t yres. 
+So, that will control the Kus factor and whether Kus is 0, Kus is negative , or Kus is positive. 
+So, that will decide whether the vehicle is in neutral steer whether the vehicle is in 
+understeer condition or that the vehicle is in oversteer condition. So, there is another way of representing this handling behavior of vehicles with respect to operating conditions that 
+is called handling diagram. So, this is a plot of ay/g vs (ωz L/V)-δf. I will come to this factor 
+what is this ay/g and what is this (ωz L/V)-δf. In the previous class we have defined the 
+steering angle requirement there is a n expression of steady state handling behavior.  
+So, I have written as this one ,  
+𝛿𝑓= 𝐿
+𝑅+𝑉2
+𝑔𝑅𝐾𝑢𝑠 
+So, now, this I can write as  
+𝛿𝑓= 𝐿
+𝑅+𝑎𝑦
+𝑔𝐾𝑢𝑠 
+Where ay is called the lateral acceleration which is nothing, but V2/R. And now if I 
+rearrange this one so,  
+𝑎𝑦
+𝑔𝐾𝑢𝑠= −𝐿
+𝑅+𝛿𝑓 
+𝑎𝑦
+𝑔𝐾𝑢𝑠= −(𝜔𝑧𝐿
+𝑉−𝛿𝑓) 
+So, ωz is called the yaw velocity and is represented by V/R. 
+So, instead of V /R, I am writing ωz. So, I have  divided by V. So, I am replacing basically 
+R with V/ωz. So, now, the equation becomes  ωzL/V - δf. Now, if I plot ay/g versus ωzL/V-
+δf, then I will get a curve like this.  
+So, what you inform , inform from this figure? When the slope is positive , if you look at 
+this curve when the slope is positive that means, here , so, Kus will be negative because  
+𝑑(𝑎𝑦
+𝑔)
+𝑑(𝜔𝑧𝐿
+𝑉−𝛿𝑓)=−1
+𝐾𝑢𝑠 
+When the slope is negative that means, Kus is positive . When slope is negative like here , 
+so, this refers to understeer coefficients when slope is negative. So, Kus is positive this 
+indicates Kus is positive.  
+So, when Kus is positive , means your front wheel is giving you more side force. So, that is 
+why Wf/Cαf > Wr/Cαr. So, that is why Kus is positive so that means, this will refer to 
+understeer condition. When the slope is positive that means, Kus is negative. So, the 
+negative -negative becomes positive.  So, when slope is positive , Kus will be negative. So, negative means the front wheel is 
+developing lesser force as compared to the rear wheel ok. So, and when the slope is infinite , 
+so this is the condition , so, Kus will become 0 . So that means, this is the neutral steering. 
+So, this is another way of representing the handling characteristics taking into consideration  
+the lateral acceleration and the yaw velocity.  
+But the problem here is the measurement involves ωz, measurement involves δf, 
+measurement involves R. So, there are 3 parameters to be measured , hence with a slight 
+error may lead to some difficulty , otherwise this is another way of representing the handling 
+characteristics. So, basically handling characteristics we have considered 3 conditions : one 
+is neutral steer , the other one is over steer this third one is under steer. And all these 3 
+components they are classified based on the Kus value , is the understeer coefficient which 
+is going to give you or which is going to decide which one will , with the condition for 
+taking a turn by the vehicle. Now Kus, if you look at , it depends on the weight coming in 
+the tyre, it depends on the stiffness of the t yre at the front as well as at the rear.  
+If the front t yre gives you more Wf /Cαf value then , obvious then the rear t yre then 
+obviously, Kus will be positive that means, these  are understeer condition. Now , when front 
+weight by the cornering stiffness is lesser than the rear weight and the cornering stiffness , 
+they will lead to over steering conditions . Whether it is understeering or over steering both 
+will lead to directional instability. So, we have defined 2 critical velocities :  one is V 
+characteristic and the other one is V critical and we have also defined expression for V 
+characteristics which is nothing,  but √𝑔𝐿
+𝐾𝑢𝑠 and the other critical speed which we defined for 
+oversteer vehicle is √𝑔𝐿
+−𝐾𝑢𝑠. So, this will decide whether the vehicle is going to have a 
+directional instability or not.  
+So, in brief , we have discuss ed about 3 conditions , steering conditions : which is neutral 
+steering , understeering and oversteering and also discuss along with character istic speed 
+and critical speed.  Then we have also discussed about the handling diagram which is 
+another way of representing the handling behavior of a vehicle with operating conditions , 
+where we have taken into consideration the lateral acceleration and the yaw velocity. We 
+can refer to W ong's book on Theory of ground vehicles to give you som e more information.  
+Thank you.  

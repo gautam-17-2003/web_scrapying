@@ -1,0 +1,195 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 10 
+Rheological Properties of Viscoelastic Food (Contd.)  
+ 
+Hello everyone , welcome to the  NPTEL  online certification course on Fundamentals of 
+Food Process E ngineering , we will continue with the viscoelastic properties of food 
+today . So Rheological  Properties of Viscoelastic  Food that we have started in the last 
+class , we will continue in that . 
+(Refe r Slide Time: 00:41)  
+ 
+Kelvin -Voigt models :  
+This is the spring and dashpot attached in parallel network just the opposite case of 
+Maxwell, where it is connected in series. So, this is showing the simple creep behaviour.  
+Simple Creep behaviour is exhibited  by the strain beginning to increase rapidly but the 
+rate of increase diminishes over time in the form of an exponential decay.  
+ Spring and a dashpot connected in parallel  
+So, it can be observed that  since  any applied force will be there , immediately the vi scous 
+material will respond and try to flow . Now since the  strain  or the flow will be observe d, it will have similar effect in the spring as well ; so, both will try to expand or strain in 
+similar fashion.  
+Now because of this  linear relation of this spring , it has a linear relation with stress and 
+strain , so, it will try to take away some amount of force t hrough it. As a result , this 
+dashpot will show the  diminishing rate of the  increase in the flow behaviour . So, 
+eventually the exponential decay will be see n. 
+ All strains are equal to each other  
+ So, γ = γ spring = γdashpot  
+ Total shear stress caused by the deformation is sum of the individual stresses  
+ τ = τ spring + τdashpot  
+ τ = Gγ + μ γ˙ 
+ (Refer Slide Time: 04:05)  
+ 
+So, another advancement over the K elvin model we will see here , what happened that the 
+phenomena of creep  has been explained by  the Kelvin Voigt model , but sometime it has 
+been seen that the proper behaviour may not be fully express ed by the K elvin model 
+therefore,  Burger model is introduced where som e advancement  over the earlier model is 
+been  done in this form . Burger model  
+Here  a spring  and a dashpot are in series  which  has been combined with spring and 
+dashpot in parallel . So, it will show sudden initial elastic behaviour , when applied to a  
+constan t stress σ. Then it will show exponential retarding that will increase because of 
+this parallel effect of spring and dashpot , and then a perpetual linear increase in the flow 
+will be observed . So, here Kelvin model sandwiched between an external spring and  an 
+external dashpot . 
+So, E 0 and E R is the spring constant of the initial and  here in this combine d model , η0 is 
+the coefficient of viscosity of the external dashpot . 
+(Refer Slide Time: 06:24)  
+ 
+So, in the  Burger model ,  
+ External spring allows the initia l elastic deformation to occur in response to the 
+applied stress, while the external dashpot allows for the perpetual linear increase 
+in strain over time so long as the applied stress remains.  
+Burger model used to predict strain as a function of time by  
+ So, this str ain is because of the first elastic component that is the spring , the exponential 
+decay part is because of this combined model of spring and dashpot , and the last part is 
+because of this dashpot . Modulus of elasticity is stress versus strain ; if we try to have the 
+reverse  function that is strain versus stress that is called the compliance . 
+(Refer Slide Time: 08:25)  
+ 
+So, here J is been used to measure the creep compliance , that is the strain versus stress 
+for the creep test that we are getting . So, here J 0 that is the initial  elastic compliance that 
+we are getting  J 1 which is increasing exponentially  that is 1/μ0; and then after time t  1 it 
+is decreasing initially becau se of the elastic component  J0 and then exponentially because 
+of J 1.  
+So, some part is instance recovery because of the elastic nature and because of the  
+Kelvin model , after the elastic nature we  are getting some  exponential  decay in the 
+recovery  and some part which is because of the dashpot , is lost completely . So, this will 
+be the compliance overtime behaviour . 
+Here also if we plot 
+  that is shear rate over time . So, t = 0 path one w hich is showing 
+the elastic deformation , and then path 2 or curve 2 is showing the creep flow  which  
+means,  the flow is increasing continuously , then recovery of initial elastic deformation 
+that is  3 and 4 shows the permanent deformation . (Refer Slide Time:  11:04)  
+ 
+Dynamic Test (Oscillatory Test)   
+In rotational viscosity measurement device we have seen where a constant angular speed 
+or constant angular motion is provided. But w ith an oscillating mode, both viscous and 
+elastic properties of a material can be  measured simultaneously.  
+ Rate controlled -stress is measured at a constant strain  or  
+ Stress controlled -deformation is measured at a constant stress amplitude  
+ Usually, a sinusoidal strain is applied to the sample, causing some level of stress 
+to be trans mitted through the material. Then, the transmitted shear stress in the 
+sample is measured   (Refer Slide Time: 13:20)  
+ 
+We provide  a sinusoidal oscillation  
+  
+So, we will plot it  γ0  is the  magnitude the maximum  point and with respect to the 
+different ω it is being changed from  following the  Sinusoidal pattern . 
+So, this is the  shear strain that we applied and then what is the stress will be to maintain  
+that strain that  will be analysed . So, cosine function for the resulting sh ear rate will  be  
+ 
+ 
+That means we can observe a  90 ° shift in the shear rate .  
+ shear rate function follows the deformation function with a phase shift of 90◦.  
+ elastic material will show a shear stress which is proportional to the shear 
+deformation (strain),and  
+ a viscous material will show a shear stress which is proportional to the  shear rate.  
+  (Refer Slide Time: 16:52)  
+ 
+Ideal elastic , viscoelastic and ideal viscous  
+ So, this 3 kind of material when exposed to oscillatory test what will be th eir shear 
+stress and deformation behaviour . So, shear stress is showing in this plot , for the ideal 
+elastic materials since  stress will be proportional to strain  so, it will follow by similar 
+kind of plot  so, δ = 0 so, δ signifies the phase shift that is equal to  0.  
+Now for the viscoelastic , there will be a phase shift  so, that δ can be observe d; however, 
+for the ideal viscous nature the δ will be  90 °. So, 90 °phase shift will be observed in case 
+of ideal vis cous material whereas, ideal elastic will show δ equal to 0 and in between 
+them any value can be  observed in case of the viscoelastic material . So, the material will 
+have a phase shift between  0 and 90° for  the biological material or real material . (Refer Slide Time: 18:36)  
+ 
+ complex shear modulus : characterize both the viscous and the elastic properties 
+of a material by measuring the phase shift δ only.  
+ In case of viscoelastic material , it does not have a fix  modulus like modulus of 
+elasticity , so followi ng has been introduced, Complex shear modulus is  
+ 
+  
+G’ for the elastic component, and  G’’ for the viscous component   
+As we have seen that the deformation which is curve 1 and the shear stress observed that 
+is curve 2 has a phase shift of δ.  
+ The phase sh ift then simply is  
+ 
+So, in any oscillatory test if we can have the  value of tan δ, we can find out what will be 
+the component of  G’ and G” in that . So, if G”  is that is for the viscous component  so, 
+that is  0. So; that means, tan δ = 0. So, δ is 0 so; that means, it is pure elastic material . So, phase shift does  not observe d there and if we are getting  the higher value  so, that 
+shows that G”  has a significant effect.  So, the viscous component will be there .  
+And in the similar fashion we can calculate als o the  complex viscosity , where the re will 
+be kind of a real viscosity and imaginary viscosity ; real viscosity for the viscous 
+component and imaginary viscosity for the elastic component . So, instead of  G we can 
+also express  in terms of the complex viscosit y. 
+(Refer Slide Time: 22:08)  
+ 
+Dynamic mechanical analysis (DMA) :  
+It is done  in various food material or two or different polymer material, to understand the 
+the textural behaviour of that. So, what we do here is that, instead of the rotational 
+movement that we have replaced by the oscillatory mechanism, here the uniaxial force is 
+being done in the method of oscillation . 
+ Instruments which perform oscillation in an uniaxial or linear direction.  
+ closely related to texture testers.  
+ assumption that temperatur e was always maintained constant and known.  
+ Certain types of experiments have been devised specifically for the purpose 
+studying the effect increasing temperature on rheological behaviour of materials.   
+(Refer Slide Time: 24:11)  
+ 
+We can think of a problem  here the problem has been ta ken from  taken from S haheen 
+book  ok.  
+(Refer Slide Time: 24:32)  
+ 
+Problem  
+The creep analysis results were obtained for wheat flour dough by applying a constant 
+stress of 50 Pa for 60 s on the sample. The data are given in Table  E.2.9.1. Using creep compliance data, determine the viscoelastic parameters, G 0, G 1, μ1, and μ 0 of a Burger 
+model.  
+Burger Model is  
+ 
+The Burger model in terms of creep compliance is:  
+ 
+Solution:  
+In Burger model , there is a spring to which  force is  applie d, that is constant stress σ = 50 
+Pascal .  
+In the  data table , deformation of whea t flour dough with time up to  60 s is given.   
+So, in Burger model  γ= τ0 / G0 is because  of the initial spring stress . 
+Then because of the combined parallel system of the  Kelvin model, the exponential 
+decay term will be there (τ0/G1) × (1- exp (-t/ λret), where  the creep  will be retarding .  
+In terms of creep compliance  we can write this equation as  J (t), just we have taken the 
+inverse  that is the  strain versus stress . So, divid ed by τ0 are getting this  
+ 
+  (Refer Slide Time: 29:20)  
+ 
+First the creep complian ce with respect to time  will be plotted , and we  can get that 
+initially there is a curvature  or exponential increas e and then a little bit of straight  
+section . So, from the straight  section data if we plot that by subtracting the initial stress 
+that is J  0, then we will get this equation by linear regression . 
+ 
+And from this data J - J 0 with respect to time , we can get the intercept and slope value . 
+So, we can get the values of J 1 and μ 0. Again which is the  non-linear  part or that is the 
+gradual increase that section , we will plot with respect to time  so that the  part of the 
+Kelvin model  (the parallel  arrangement of the spring and the  dashpot ) that section can be  
+can be  calculated  from  this cha rt. 
+ 
+ λ ret will be given by  
+ μ 1 is the  viscosity coefficient of the dashpot  1 and this is the  spring constant of the 
+spring 2 that is attach in parallel dashpot.  
+So, we are getting the retardation  time as 5.21 second .  
+So, will just put all th e values that we  are get ting from the equations and also from the  
+straight and curved  section  in 1st graph , that is from the curve  section with respect to 
+time. So, we will get finally,   
+ 
+So, from  this creep behaviour that we are getting  J 0 from  this plot, then once we get this 
+value . So, J 1 will be  calculated from 
+ plot. 
+ 
+λret  is calculated from the equation.  μ 0 which is coming from the  inverse of that  slope  
+that we are getting . 
+So, using  that, we can find the equation of the  creep compliance of the d ough sample . 
+Thank you  all. 

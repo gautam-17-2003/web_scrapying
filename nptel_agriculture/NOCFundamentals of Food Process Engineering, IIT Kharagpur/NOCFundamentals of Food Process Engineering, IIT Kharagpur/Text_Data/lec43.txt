@@ -1,0 +1,186 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 43 
+Mechanical Separation Techniques (Contd.)  
+ 
+Hello everyone. Welcome to NPTEL online certific ation course on Fundamentals of 
+Food Process Engineering .  
+(Refer Slide Time: 01:15)  
+ 
+Constant pressure filtration  
+The pressure may change because of the deposition of the cake on the  filter medium . So, 
+if you know the deposition increases so; obviously, the pressure drop will increase ok.  
+Now, if the pressure drop increase s that will going to affect the rate of flow. So, 2 cases 
+may occur, either the rate we want to make constant ok, or we want to make the pressure 
+drop constant ok. So, both the cases wha t will be the  method of analysing the parameter 
+of the  cake and also the filter media . 
+By reversing the previous equation,  
+ So, the equation  has been reversed  in terms of dt by dV now, and  A has taken to the 
+other side and finally, we got this equation and can be simplified in the form of (Kp V + 
+B). 
+Now,  it has been interpreted as dV amount of  filtrate has been passed through the  
+filtration system in dt time through the cake as well as through the filter medium.  
+A is the cross sectional area of the filte r medium.  
+ μ is the viscosity of the filtrate.  
+α is specific cake resistance of the cake that has been deposited ;  
+c s= kg of the solid present per m3 of the filtrate. V is the volume of filtrate that has been 
+pass through in time t  
+(- ΔP) is the total pressure dro p across the flow line that is through the cake plus the filter 
+media and R  m is the resistance of the filter media . 
+ 
+Similarly,  
+  
+So, K p is in the unit of s/m6 and the unit of B is s/m3.  
+Now, for constant pressure, α that is specific cake r esistance we need to have constant 
+and incompressible cake, because if it is compressible then; obviously, the pressure will 
+not be constant. So, that is why it is considered as incompressible cake.  
+V = volumetric  flow, volume of the flow that has been ta ken place in time t.  
+These are the  only variable in this equation to maintain the constant pressure.  
+ So, α need to  be fixed and incompressible cake has to be assume d. Only thing V and t 
+these are variable . 
+So, by integrating 
+  
+ to obtain the time of filtration in t second ; so, if we take dt and the other side we take dV. 
+So, we will get  the expres sion as  
+ 
+So, this is the time required for constant pressure fil tration.  
+It can be represented as  
+ 
+So, getting this kind of expression a linear pattern  will be obtained . By plotting t by V 
+with respect to V; so, we can get a linear equation in the form  of mx + c. So, from the 
+slope and the intercept we can  have the values of other parameter, that is required here  
+As already mentioned that the V is the total volume of filtrate that is collected in t 
+second. So, V is in m 3 volume of the filtrate.  
+(Refer Slide Time: 08:38)  
+ 
+So, then to calculate the time for constant pressure  process ; where α and R m is necessary . 
+Data of the V collected at different time t these are obtained. So, with that I can plot t by 
+V that is s per meter cube divided by V that is fi ltered volume in meter cube . So, then we 
+can get one straight line, the slope will give us the value of K  p/ 2 and intercept will be 
+the value of B. And since the K p/ 2 and B these are related with α and R  m, as we have seen in the in the previous equation . So, 
+  
+ 
+So, Δ P are constant we can get that. So, area is known to us so, then  α value and here  the 
+Rm value. So, this way it can be calculated . So,  this is how for the case of a constant 
+pressure filtration we can calculate the  time, and all  other  parameters like  specific cake 
+resistance and  resistance due to filter medium . 
+(Refer Slide Time: 10:16)  
+ 
+Constant rate filtration ; 
+ So, when the filtration starts actually , there is a n initial  stage of filtration . It frequently 
+happen, that filter resistance is large relative to the resistance of the filter K . Filter  
+medium resistance is large compared to the resistance of the filter K, because the cake is 
+thin in the initial stage right . So, this condition the resistance offered to the flow is 
+virtually constant , and filtration  proceeds at the more or less constant rate.  
+So, initially when the deposition of the cake is not there , at the onset of this deposition, 
+that time the resistance offered by the filter media is high compared to the resistance  of 
+the cake  and constant  rate of filtration prevails.  So, this can be  seen as  
+  
+ 
+So, K V the unit is in N/m5, and C is N/m2 
+(Refer Slide Time: 12:42)  
+ 
+For incompressible cake KV and C are constant characteristics of the slurry  and cake , rate 
+of filtr ate flow and so on. Now, a plot of pressure that is ΔP versus the total volume of 
+filtrate collected that is V gives a straight line. So, in the previous case when we have 
+plotted the constant pressure filtration, that time t / V was only the variable. So,  t / V was 
+plotted with V now since  we are dealing with the constant rate filtration. So, pressure 
+drop varies here with the volume V. So, it will be plott ed to get a straight line . 
+So, for a constant rate since dV / dt will be fixed. So,  the slope of the l ine as K V and the 
+intercept is C . The pressure increases as the cake thickness increases , and the volume of 
+the filtrate collected into this . So, with that the pressure  will increase, and the equation 
+can also be rearrange in terms of Δ P and time t; as we have  done for the Δ P versus V, 
+we can calculate ΔP and t as variable. And any moment during the filtration, the total 
+volume V is related to the rate and the total time t by the following equation.  
+So, 
+  So, rate of filtr ation into time, that will give us the total volume of the filtrate that has 
+been pass through.  
+And    
+  
+So now, Δ P with respect to t can  be plotted. And here the specific cake resistance is not 
+a constant . 
+(Refer Slide Time: 15:22)  
+ 
+Problem - Based on the constant pressure process .  
+The data for a slurry in water at 298.2 K that is 25 °C. These are reported as follows at a 
+constant pressure process; where the pressure was 338 kN/m2.The filter area of the plate 
+and frame press was a 0.0439 m2, and the slurry concentration was c s that is kg /m3, that 
+was 23.74 m3. Calculate the αand R m. So, specific cake resistance and filter media 
+resistance; from the experimental data given where t is in time in second and V which 
+the filtrate volume collected in m3.  (Refer Slide Time: 17:21)  
+ 
+First, t/V vs V ,  
+So, from that the intercept calculate  B, that is equal to 6400 s/m3.  
+And the slope K p/ 2 = 3.00 × 106  s/m6.  
+K p = 6.00 × 106  s/m6. 
+(Refer Slide Time: 18:50)  
+ 
+Given that at 298.2 K the viscosity of the water is 8.937 × 10 -4 Pa.s.  So, by substituting  this data,  
+                               
+ . 
+α =1.863×1011 m/kg  
+Rm= 10.63×1010 m-1 
+ (Refer Slide Time: 21:29)  
+ 
+Types of filter and filtration mechanism  
+(Refer Slide Time: 21:33)
+   Now the basic requirement for filtration equipment are  
+1. mechanical support for the filter media.  
+2.  Flow accesses  to and from the filter medium,  
+3. provision for removing the excess filter cake .  
+Filter selection  
+1.The most important factor as we know is specific cake resistance  
+2. If the cake has to be washed, the rotary drum is to be preferred to the rotary leaf  
+ 3. If a high degree of washing is required, however, it is usually desirable to re pulp     
+          the filter cake and to filter a second time  
+ 4. For free -filtering materials, a rotary vacuum filter is generally most satisfactory  
+(Refer Slide Time: 22:37)  
+ 
+Filter Media  
+The function of the filter medium is generally to act as a support for the filter cake, and 
+the initial layers of cake provide the true filter.  
+Filter must meet the following requirements : 1. It must retain the solids to be filtered, giving a reasonably clear filtrate.  
+2. It must not plug or blind.  
+3. It must be resistant chemically and strong enough physically to withstand the  
+    process conditions.  
+4. It must permit the cake formed to discharge cleanly and completely.  
+5. Sterile filtration  imposes a special requirement since the pore size must not   
+    exceed the dimension of bacteria or spores.  
+ (Refer Slide Time: 23:45)  
+ 
+Filter aids  
+The object of the filter aid is to prevent the medi um from becoming blocked and to form 
+an open, porous c ake, so reducing the resistanc e to flow of the filtrate. The particles must 
+be inert, insoluble, incompressible, and irregular shaped.  
+ filter aids: diatomaceous silica, perlite, wood cellulose, or other inert porous solid  
+ The filter aid may subsequently be  separated from the  filter cake by dissolving 
+away the solids or by burning out the filter aid. If solids have n o value, they and 
+the filter aid are discarded together.  So, because filter aids are getting mixed up with the  solids or the deposition ; so, both are 
+discarded if it if they are not required if the solid cake is not required . 
+(Refer Slide Time: 24:53)  
+ 
+Mechanism of Filtration  
+Filters are divided into three main groups:  
+• Cake filters.  
+• Clarifying filters.  
+• Cross flow filters.  
+Featuress  
+ surface filter s are used for cake filtration in which the solids  are deposited in the 
+form of a cake on the up -stream side of a relatively thin filter medium.  
+ Cake filters separate relatively large amounts of solids as a cake of crystals or 
+sludge, as illustrated the fi lter medium has a relatively low initial pressure drop.   (Refer Slide Time: 25:39)  
+ 
+  In a depth filter the particles are smaller than the medium openings and hence 
+they proceed through relatively long and tortuous pores.  
+ Clarifying filters differ from sc reens in that the pores of the filter medium are 
+much larger in diameter than the particles to be removed.  
+ Clarifying filters remove small amounts of solids to produce a clean gas or a clear 
+liquids.   
+ The solid particles are trapped inside the filter medi um or on its external surfaces.  
+ In cross flow filter the feed suspension flows under pressure at a fairly high 
+velocity across the filter medium.  
+(Refer Slide Time: 26:19)   
+Thank you . 

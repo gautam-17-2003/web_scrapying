@@ -1,0 +1,341 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 05 
+Food Rheology (Contd.)  
+ 
+Hello everyone. Welcome to the NPTEL online certification course on  Fundamentals of 
+Food Process Engineering. Today we will continue with the topic Food Rheology,  that in 
+the last  few classes we were discussing about. So, we have discussed about the fluid food 
+in the last class . Fluid food in the sense what are the differ ent kind of fluid  food and what 
+are the different models that we can use for them. We know that basically we can divide 
+them into Newtonian  and non Newtonian  fluid, and the again another category is time 
+dependent  fluid flow behavior . So, there are differe nt model  we have learnt it in the last 
+class.  
+Now, today we will see that there are few application of those kind of food rheology in 
+the industry, ok. So, this is very important to know because  when you deal with the  
+different food processing industry, th en rheology has an important role in designing the  
+various equipments used for processing, ok, and so, therefore, we will discuss it here.  
+So, today’s  discussion is based on mostly the application of  rheology in the fluid food 
+processing.  
+(Refer Slide Time : 01:47)  
+ So, we will discuss the application of rheology in processing and handling . The first 
+thing if you  go to any  fluid food processing industry, so, there are many pumping system 
+and tubing system you need to design through which you are fluid food is moving, ok.  
+So, what happened that  in our  momentum transport classes, some of you might have 
+done that, so,  momentum transfer classes we have learnt the different relation of  you 
+know pressure drop and the flow velocity inside a pipe, right . So, that is  basically  Hagen  
+Poiseuilles equation. So, those equation when we deal with the velocity profile, velocity 
+profile depends on type of fluid, ok, and also the pattern of flow, that is whether it is  
+laminar flow or turbulent flow ok . 
+So, in this application section we will we will couple  those equations with the 
+rheological equation or rheological modeling of the fluid food . And that will help us to 
+understand basically the velocity distribution in case of a pipe flow or  if you want to see 
+the residence time distribution  in a in a processing  vessel, ok.  
+So, first we will see this one  velocity distribution. We know that in general case , if you  
+consider this as a pipe, ok. So, this is a pipe , a cross section we have taken, and we are 
+considering a steady st ate condition of flow of Newtonian  fluid  in a laminar flow. So, 
+then we can get  this kind of a parabolic profile , this is the velocity profile, if we can 
+consider  this is as the center point . 
+So this is R=0 and this is the  inner boundary that is r 0 that is the maximum radial 
+distance for the wall. And here the stress profile also we can see, so, stress will be 
+maximum at the wall th at is τw, and stress will be τw = 0, ok, let us see this is the z 
+direction, this is r direction . So, this is the velocity profile and shear stress profile inside 
+a pipe flow for laminar steady flow condition.  
+Now, when we deal with some different kind of fluid, then what will be the velocity 
+profile, and what will be the stress profile? That will he lp us to  design those systems, . 
+So, these two  things we can learn from that, now in general velocity profile  if you want 
+to express we  can write this equation that v z, ok, velocity in the z direction  will be  
+vz=  dvz
+dr r0
+rdr 
+ So, the general representation of the velocity in the z direction . Similarly,  stress  will be 
+σrz ok that is the stress because of the z directional flow in the r direction what will be the 
+stress. So, that we want to measure, right, and that  is equal to σw; that is,  
+σrz=σwr
+r0=−r
+2dP
+dz 
+Here  vz is a velocity in the axial direction, r is the radial coordinate , r0 is the radius of the 
+tube, σrz in the shear stress at any radius r as a mention , ok. And P is the pressure and z is 
+the axial coordinate, ok, now from this  we will see what e lse we can calculate . 
+(Refer Slide Time: 07:20)  
+ 
+Let us now considered that instead of Newtonian  fluid , we are taking a power law fluid, 
+ok. So, for the power law fluid w e can model it like stress (σ) that is equal to this is shear 
+stress here,  
+σ=Kγ n 
+So, of course, the power law model we know that n is not equal to 1, if n becomes one 
+this will become the Newtonian  fluid . 
+So, po wer law model if you remember  that in the fluid food rheology we have seen that 
+the behavior  in the  in the shear stress verses shear diagram will be like this way, or this 
+way right.  (Refer Slide Time: 08:28)  
+ 
+So, n<1 and n> 1 the r elationship between t he maxi mum velocity v zm and the averag e 
+velocity (vz) , for the design of length of a holding tube of a pasteurizing system ; this is 
+where the interest lies now; that is, when you need to design the pasteurization system 
+and basical ly the holding tube. So, the idea is we need to keep the fluid food in the 
+holding tube for a certain length of time, . 
+So, if in the tube section, if your flow is  the most common behavior  if it is a parabolic 
+flow, and then there is certain point  to certai n point there is a length of the holding tube, 
+ok. So, your liquid food has to pass from this point to this point, and it should stay there 
+for the required length of time. So, that the  all the area the farthest area of the product 
+can be heated, and that the target microorganism will be killed  as the aim would be right.  
+So, we need to see that what is the time required for the f luid to come fro m this point 1 to 
+point  2 or to cross the required length, right . For that we need to analyze the what is  the 
+average velocity, and what is the maximum velocity, right.  
+Because  your maximum velocity point may reach there early, but  the all other points in 
+the tube may not reach  to that extend with the short time and if any such thing happens 
+that the whole flu id is not exposed to the required temperature for a  for the required 
+duration of time then the contamination may be there. So, for that we need to know the 
+relation between the maximum velocity, and the average velocity for the particular kind 
+of fluid , ok. (Refer Slide Time: 10:40)  
+ 
+So, for non-Newtonian  fluid z directional velocity can be simplified by this equation . 
+Now how we have got that? In the initial equation of v z, we need to put the value of v z in 
+terms of  in terms of this equation, which rela tes with the  you know the flow behavior 
+index, ok.  
+So, this derivation is  done in the momentum transfer. So, all of you who are taking that 
+course or already have done that  may know this thing, here we will just focus on the 
+application, but you can get th is in any  unit operation on momentum transfer book for 
+example, Geankoplis (Refer Time: 11:43) also you can get this. So, what is the important 
+part here, that we have got the value of or the expression of velocity in terms of this n; 
+where this n  will differ for different food, ok, different fluid food, right . 
+So now, we can get this expression of v z, ok, and r 0 and r is known to us for any distance  
+if you want to calculate the v z we can do that. And from this we can get also the 
+expression of average velocity, ok, averaging over the whole cross sectional area  and the 
+maximum velocity. So, maximum will be at this center,  so, maximum velocity we can 
+calculate by  calculating the v z at R=0. So, the ratio of maximum to the average is  
+vzm
+v z=3n+1
+n+1 
+ So, if we know the value of n we can get the idea that in what ratio, this will vary and  
+based on that we can decide then how long the product should be there in the holding 
+tube o r what will be the length of the holding tube . 
+Now, for the Newtonian  and pseudo plastic fluids in laminar flow maximum velocity  at 
+most may be what if it is Newtonian  n=1. So, twice the average velocity will be the 
+maximum vel ocity, right? So, for the Newtonian  and pseud o plasti c; where n< 1 fluids in 
+the laminar flow maximum velocity will be at most equal to twice the average velocity.  
+If it is pseudo plastic, it may be even less than that at most it will be there twice the 
+average velocity; however, if we  deal with dilatant s fluid where n> 1, ok. So, then the 
+maximum velocity would be more than twice the average velocity, ok. That means, the 
+fluid of the other part which is not in the maximum  velocity area needs more time to 
+cross the  one point to the other . So, that length of the holding t ube we need to design or 
+other residents time we need to provide in such a way so that  all the fluid will be exposed 
+to the proper temperature of the pasteurization. So, therefore, the understanding of 
+rheology  of different  fluid food is very important . 
+(Refer Slide Time: 14:57)  
+ 
+Next is if you want to analyze the volumetric flow rate. So, volumetric flow rate what we 
+can do? Simply we can integrate . Q= 2πrvzr0
+0dr So, from this instead of  expressing in terms of velocity, substituting for the shear rate, 
+appropriate expressions from different rheological models one can derive the relation of 
+Q and the pressu re drop, ok.  
+So, Q which is the volumetric flow rate  that relates the  the area and the velocity, right? 
+Velocity has a relation with the pressure drop that we can get from the Hagen  Poiseuill e 
+equation . 
+∆P=32μvL
+D2 
+where L is the length o f the pipe , v is the velocity, μ is the viscocity or apparent viscoc ity 
+or effective viscocity and D  is the diameter of pipe.  
+From this we can relate, we can derive the equation relating to Q and the pressure drop. 
+So, so here in this equation, what we have done that we have change the velocity to the 
+shear stress expression. Shear stress and shear rate expression  and thus we ar e relating 
+the volumetric flow rate and the pressure.  
+(Refer Slide Time: 17:25)  
+ (Refer Slide Time: 17:29)  
+ 
+Now, for Newtonian  food where in n= 1, a small increase the radius of the tube will 
+results in a major  reduction in the magnitude of the pressure gradient. How we are 
+getting this? When we relate the ΔP with the flow velocity Q we are getting this kind of a 
+relation . 
+∆P
+L∝Qn
+r03n+1 
+ 
+Where,   ΔP/L that is pressure drop across length or we can take unit length , Q is the 
+volumetric flow rate,  n is the flow behavior index & r 0 is radius  of the tube . So, if n=1 
+then this ΔP will vary r 04, so, that means, sm all increases in the radius r 0 of the tube will 
+result in major changes in  the pressure radiant . 
+Now if it is a highly pseudo plasti c fluid, ok, where n =  0.25, then increasing the pipe 
+radius does not have profound effect on the pressure gradient. So, these understanding 
+are important, because when you are handling any fluid food in an industry, and you 
+want to design so, you need to see that what is the pressure  drop, ok, or what is the radius  
+and what  the flow rate you want to  maintain, ok . 
+So, all these are very related so, if you change one dimension consequently your other 
+dimension will be significantly vary. And that also vary from different fluid so, you cannot take the same geometry  same pressur e drop for two  different fluid, whose 
+rheological behavior is totally different, ok. So, you have to design specifically each and 
+every section for similar kind of fluid . 
+(Refer Slide Time: 19:58)  
+ 
+Now, another thing is energy requirement for pumping. So, you have understood about 
+the flow velocity, you have understood about shear stress that we are getting at the valve 
+or at any radial distance. And also  you have understood that flow rate and relation of the 
+flow rate  with the , you know pressure drop. Right now energetic requirements for 
+pumping that another important thing . 
+So, basically we will deal with the mechanical energy balance so, energy required to 
+pump a liquid food through a pipeline, for this what we need, first we will  write an 
+equation for the  steady state flow of an incompressible fluid where density constant. So, 
+the mechanical energy balance equation can be  written as  
+gz1+P1
+ρ+vz12
+α=gz2+P2
+ρ+vz22
+α+Ef 
+Where , ‘g’ is the acceleration due to gravity, ‘Z’ is the height above a r eference point , 
+‘P’ is a pressure , ‘ρ’ is constant, because of incompressible fluids and  ‘v’ is the fluid 
+velocity . So, potential energy, pressure energy, kinetic energy, pump work and again the same for 
+the different elevation if it there is energ y loss because of friction. So, above difference 
+point Z, we need to see the point 1  and point 2, where the elevations are to measure the 
+potential energy changes . 
+Now ‘W’ is the work output per unit mass. So, this is  of our requirement of important, 
+but we can calculate this only when we deal with all other terms. This all the terms we 
+can calculate will put in this equation balance it and get the value of W. ‘Ef’ is the ener gy 
+loss per unit mass, and ‘α’ is the kinetic energy correction factor. So, we know that there 
+are certain values in the momentum transfer it has been given that  what  will be the value 
+of ‘α’ if it is a laminar flow, what will be if it is a turbulent flow, ok. And so, this is the 
+energy requirement now one by one will see that how each term can be  solved . 
+(Refer Slide Time: 22:59)  
+ 
+So, let us see the system is like this, ok, this has been taken from book of Steffe and 
+Morgan , and here  this is a source from where the pump is need to come this material to a 
+certain amount of height at another distance in the section 2. So, section 1 to section 2, 
+this pump is used to transfer the liquid food, ok, now in order to correctly calculate the 
+energy  required for pumping of a fluid food in a specific piping and equipment system. 
+So, this system is a specific in the sense is dimension ; it is you know diameter length of 
+each section, what are the fittings? There like any bend or any fittings anyone valv es, ok. So, all those  should be properly identified and the loss of each section should be 
+calculated . 
+So, velocity is at the entrance and exit of the system. That is the first thing we need to 
+know. Now this we can calculate because if we know the volumet ric flow rate  ‘Q’ and 
+we need to know the  diameter of the pipe in the inlet and exit, ok. Product of pipe area 
+and velocity  will give volumetric flow rate  i.e. πd2v/4. So, if you know the volumetric 
+flow rate and we can get the velocity, right. Then comes the energy loss due to friction in 
+the pipe and the valves and fittings.  
+So, energy loss that the term E f, ok, so how we can calculate? Energy loss again we are 
+we are g etting it in the form of ΔP/ρ i.e. the friction head  in that sense we are getting it . 
+So, we need because of viscous loss, ok, and also other loss in the in the pipe friction, 
+and the loss for the fittings right. So, equation we are getti ng for the loss due to  friction 
+in the pipe  is 
+Ef=2fLvz2
+D+ kfvz2
+2b
+1 
+(Refer Slide Time: 25:58)  
+ 
+The coefficient k f that will give us the value of all the; I mean, pressure head loss in each 
+and every fittings and will add this to get the total loss in the  friction head, ok. So, if is 
+the friction coefficient for ‘a’ fitting and ‘b’ is the number of valves or fittings, right?  (Refer Slide Time: 26:35)  
+ 
+So, friction loss in the pipe many fluid foods are non-Newtonian . So, fricti on loss that is 
+pressure drop for these fluids in straight pipe and in the fitting may be estimated using 
+the fanning friction factor method, ok. So, then if it would have been a laminar flow, we 
+can straight away use the Hagen  Poiseuille  equation and calc ulate the term ΔP/ρ. we can 
+get the head loss, ok, but since it is a non-Newtonian  fluid and we need to calculate by 
+the fanning friction factor method  as given below . 
+∆Pf
+ρ=2fLvz2
+D 
+Now, for laminar flow condition, generalized Reynolds  number  (GRe) can be calculated 
+from the equation.  
+GRe=Dnvz2−nρ
+8 n−1 K 4n
+3n+1 n
+ 
+We know that Reyno lds number is given by:  
+Re=ρvzd
+μ 
+ So, again the derivation you can get the momentum transfer course. So, this is the 
+generalized Reynolds  number and most of the cases when we are dealing with the non-
+Newtonian  fluid, we need to use this generalize pronounce number to find the fanning 
+friction factor, from the chart or if you want to use  this for the  further analysis.  (Refer Slide Time: 28:40)  
+ 
+So, how we can do that  fanning friction factor in laminar flow case inside it tube, this can 
+be calculated as 16/ GRe that is gen eralized Reynolds  number . Normally we w rite f as 
+16/GRe , here in the case of non-Newtonian  it will be generalized Reynolds  number.  
+Now, we can calculate the fanning friction factor  from a chart which relates the Reynolds  
+number, ok, either for the Newtonian  which is purely ‘Re’ or generalized Newtonian  
+generalized Reynolds for the non-Newtonian  and in the lamina r region. That is why we 
+are getting a straight line here in the lamina r region.  
+From this chart we will see whether fiction factor ‘f’ value is, and then will put into the 
+previous equation we are calculation the Δpf/ρ, and then we can get the friction loss. This 
+kind of chart when we have first  you know this has been developed by moody for 
+Newtonian  fluid in the laminar and turbulent flow, and it has been later  prepared for the 
+generalized Reynolds  number or you know non Newtonian  fluid as well.  (Refer Slide Time: 30:01)  
+ 
+So, then  there is kinetic energy loss term. So, what we do in the equation of  mechanical 
+energy balance, kinetic e nergy loss i.e. v z2/α, we need to find the correction factor value 
+properly based on the laminar flow or  turbulent flow we often put  this. And if it is a 
+special case for Herschel  Bulkley  model, that ‘α’ in laminar flow depends on both  the 
+flow behavior index, and also the dimensionless yield stress as defined  above . 
+So, that means, if we Herschel  Bulkey  fluid we know that they need an initial stress that 
+that thing we have discussed in our previous class of the  Herschel  Bulkley  model, which 
+comes under the non-bingham  kind of model. So, for all these cases experimental or 
+empirical values can be used in places as per the requirement.  
+For you need to know first plotting the behavior  of the  fluid in the shear stress versus 
+shear rate  diagram, and to know that what kind of behavior  it is, whether it is Bingham  
+plastic non-Bingham  plastic and what kind of then based on that you calculate the 
+generalized Reynolds  number and also find the ‘α’ value accordingly. And finally, all 
+this thi ng we need to put in mechanical energy balance to find the value of ‘W’. 
+So, there are few cases which are experimentally calculated that when frozen 
+concentrated orange juice sample, which has no yield stress,  then we have got the value 
+of α=1 for a case of mildly share thinning behavior.  (Refer Slide Time: 31:59)  
+ 
+So, magnitude of the coefficient for a fully open plug valve,  a Tee with the flow form 
+line to the branch, because when we added to Tee join because that is bypassing one line 
+from t he main flow lines for a branch is creating. And a 90 ° shot Elbow as a function of 
+generalized Reynolds  number, ok. So, it has been it has been tasted on apple sauce,  to 
+calculate the friction loss coefficient for fittings . 
+So, as I said that based o n different Reynolds  number or different fluid all this coefficient 
+will change, the cell will be changed. So, here in this particular case for we have found 
+for the , for Newtonian  fluids, k f increases with decreasing the value of generalized 
+Reynolds  number. Here  kf is coefficient we use for the friction factor.    
+So, the regression equation for the 3 fittings that we have got is: 
+Kf =30.3GRe-0.492 
+Kf =29.4GRe-0.504 
+Kf =191GRe-0.896 
+  (Refer Slide Time: 33:50)  
+ 
+So, selection of pumps and the sizing of pipe for non-Newtonian  fluids. So, preliminary 
+selection of a pump based on the volumetric capacity of the pump. And often this kind of 
+thing we can get from the manufacturers data they provide this with this pump. Also the 
+effective viscosity is  related to the efficiency of the pump, ok, this kind of graph has 
+been given or  this has been developed to identify the effect of viscosity on the pumping 
+capacity, right . So, effective viscosity obtained by assuming that the Hagen  Poiseu ille 
+equation for laminar flow of Newtonian  fluids is : 
+ηe= D∆P4L 
+32QπD3   
+ If we try to related this mass flow rate then:  
+ηe=fm
+4πD 
+So, this we can relate the flow rate and viscosity  effective viscosity . (Refer Slide Time: 35:12)  
+ 
+And effective viscosity  can be calculated from either the port size of a pump or the 
+dimensions of the assumed pipe, ok  
+So, if suppose we know we know the pipe and we can calculate the  flow is laminar or 
+turbulent, then bas ed on that we can calcu late ‘ηe’ or we can straight away use the Hagen  
+Poiseuille  equation, for that pressure drop an d then we can calculate the ‘ηe’. Now based 
+on the magnitude of ‘ηe’the suitability of the pump volumetric size must be verified from 
+the plots available of effective viscosity verses the volumetric flow rate.  
+So, it is emphasized that pump size is assumed bases on the volumetric pumping 
+requirement, and also this assumption should be verified by actual calculation, right, 
+using that in actual case . 
+(Refer Slide Time: 36:15)   
+And last is a pump discharge pressure if you want to calculate that. So, using again this 
+equation, we will take P 1 that that is that is our requirement that is what will be the  
+discharge pressur e we want to calculate, where P 2 that is our  atmospheric pressure we 
+can take elevation to what to what  you know transfer in that we can calculate total 
+energy loss because o f friction.  We have to calculate prior  because based on that value 
+that depends on many factor as I said that why friction and all the fittings . So, that need 
+to be calculated first and then we can find what is the value of  this discharge pressure, 
+ok. Ultimately we are calculating  it again from the mechanical energy balance . Energy 
+loss due to friction  (Ef) value coming  for this particular case is 329.0  j/kg and discharge 
+pressure  (P1) is coming 4.42 ×1015 Pa. 
+So, this is how the understanding of fluid behavior will to help t o eventually design the 
+whole system, starting from the velocity distribution, then residence time in a processing 
+channel volumetric flow rate, then pressure drop then the whole energy balance pump 
+requirement  volumetric flow rate requirement of pump , ok, and then finally, the 
+discharge pressure . 
+So, here we will stop, and in the next class we will start the  viscoelastic food.  
+Thank you.  

@@ -1,0 +1,177 @@
+Traction Engineering  
+Professor Hifjur Rah eman  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 28  
+Measurement of Theoretical Velocity, Actual Velocity and Slip for a Pneumatic Wheel  
+Hello everyone, this is professor H Rah eman from Agricultural and Food Engineering 
+Department, IIT , Kharagpur.  I welcome you all to this NPTEL course, Traction engineering. 
+This is lecture 28 where I will try to cover how to measure theoretical velocity, actual velocity 
+and a par ameter called slip for any pneumatic wheel.  
+(Refer Slide Time: 00:53)  
+ 
+The concept which I will be going to cover is, the theoretical velocity, actual velocity and w heel 
+slip. These parameters are important because the output from a tractor in terms of dr awbar 
+depends on the wheel slip . More the wheel  slip, more will be the power which is lost. So, that , 
+that way we are getting lesser power , the power which can be utilized will be reduced and if you 
+cause the wheel to slip to a lesser value say 2 percent , 3 percent again , we are losing the power 
+because of the rolling resistance.  
+So, there is an optimum slip value . Maybe it is varying from 10 to 15 percent or 15 to 20 percent 
+where we are getting maximum output from the wheel. So, that is why wheel slip is impor tant. 
+When you try to mention or when you try to carry out certain tractive  performance  test, slip is one of the important parameter , features to be mentioned . This much power is developed by a 
+tractor or this much power is developed by a single wheel  at this slip, without slip, it does not 
+have any meaning.  So, this is the importance of slip. So, how to measure slip ? We have to have 
+theoretical velocity, we have to have actual velocity , if you know these 2 velocities, then you can 
+find out what will b e the  value of slip.  
+(Refer Slide Time: 02:33)  
+ 
+ Now, I will show you a slide where a wheel is rotating without any pull that means pull is 0, it is 
+just simply rolling over the soil surface. And now, it is not developing any pull or power because 
+pull i s 0. 
+(Refer Slide Time: 02:58)  
+ 
+ 
+Now, I will show you another slide where a wheel is rotating and we are applying certain pull . 
+When you apply certain pull and then the wheel will interact with soil and it will develop some 
+force which is a tractive  force, okay. So, pull when it is developed, it is developed because of the 
+interaction between wheel and soil . If there is no interaction, there will be no pull develop.  So, when there will be interaction , there will be possibility of slip of a wheel.  That mea ns we will 
+try to move forward but we are pulling it from pulling the wheel from backward.  So, thereby 
+there will be interaction between pull and wheel, wheel and soil, and then finally the wheel is 
+going to slip.  So now , I will demonstrate how to find out  these parameters like theoretical  speed, 
+actual speed and knowing these two parameters, you can derive the value of slip.  
+So, the setup how I have utilized to measure theoretical velocity and actual velocity that I am 
+going to demonstrate now.  
+(Refer Sli de Time:  04:20)  
+ 
+  
+ 
+It is i mportant  because at a particular slip , we are getting maximum productive efficiency that 
+means the output power is maximum for a given input power. And same is the case with a 
+coefficient of traction, the pull is also maximum  at a particula r slip. So , that is why we are 
+interested in finding out what is the slip at which we carried out the tractive performance test. So , 
+for measuring slip, we need to know the value of theoretical speed, we need to know the value of 
+actual spee d.  
+So, we measure  the actual speed using a proximity setup which is present here.  This is the 
+proximity switch and this is the object when the object comes closer to this proximity switch, 
+then the switch will sense its presence and will give a signal and  that signal we ar e going to record in a computer with the help of a data acquisition  system and these signals are to be 
+recorded along with the time.  
+So, if you know how many signals are coming for a given duration of time, then you can find out 
+what is the speed.  So, this m etal object which is mounted to this arm, this is mounted on a roller 
+and that roller is going to roll over this rail. So, that means, this will give you the actual speed . 
+This is the setup which will be utilized for measuring theoreti cal speed we have tak en power 
+from the axle using a chain and sprocket transmission and this plate is attached to a shaft .  
+So, the RPM of the axle is equal to the RPM of this plate and then this plate , there are eight 
+spikes provided and on the top of thi s there is a proximity  switch.  So, when the sp ikes or these 
+spikes comes in contact closer to the proximity switch , a pulse will be generated that means, in 
+each revolution, there will be eight spikes or eight times the spokes will come in closer to the 
+proximity switch.  
+So, if  you know the number of pulses and the time which are recorded in the computer through a 
+data equation system, then you can find out how much is the speed of that axial speed.  So, which 
+is nothing but your theoretical speed. So, if y ou know the RPM and the n we know the rolling 
+radius, so ωr will give you the theoretical speed . 2πN will be the ωr and r is the rolling radius, 
+then you can find out what will be the theoretical speed. So, per revolution there will be eight  
+pulses and knowing the  time and the pulses, we can find out the RPM.  
+(Refer Slide Time: 07:11)   
+For measurement of pull, we need to know the pulses which are coming related to actual velocity 
+the pulses , which are coming related to the theoretical veloci ty. So, I can show you t he plot how 
+the pulses are varying with time for theoretical velocity . This figure shows you and this is , this 
+figure shows you are the pulses are varying for actual velocity . With the time  we are getting 
+more pulses in actual veloc ity as compared to theoreti cal velocity. And this has been done for a 
+pull of 44 kg. So, I will show you how to calculate the actual velocity. So, in case of actual 
+velocity, we are getting 27 pulses and for a duration of 11 seconds. So, that means 27 minu s 1, 
+we are neglecting 1.  
+(Refer Slide Time: 08:09)  
+ Assuming that we have started at that 0. So, 27 minus 1 divided by 11. So, that will give you the 
+number of pulses per unit time. So, if you know the radius of that wheel and which the spike is 
+mounted,  then you can calculate th e actual velocity and the radius of that wheel on which the 
+spike is mounted is 0.2825 , 4.4 centimeter . So, 2 × π × r × (27-1)/11. So, that will give you the 
+actual velocity which comes around 0.6677 m/s.  
+Similarly, for theore tical velocity, we measured number of pulses to be 17 in a duration of 10.6 
+seconds.  So, 17 minus 1, 1 we have neglected assuming that you have started at the beginning we 
+are getting a pulse. So, 17 minus 1 divided by 8 , we are d ividing 8 because there wil l be a 1 
+revolution , in 1 revolution that will be 8 pulses. So, 17 minus 1 divided by 8 and the time 
+duration is 10.6 second, so that will give your number of revolutions per second.  
+So, 2πr will give you the distance travel led in 1 revolution. So, distan ce travel led in 1 revolution 
+multiply by number of revolutions per second. So, that will give you the theoretical velocity 
+which comes around 2.7465.  So, now, theoretical  speed is known, actual speed is known. So, to 
+find out s lip, it is nothing but , (Vt - Va)/ Vt, theoretical velocity if you denote as V t, actual 
+velocity if you denote as V a, so (Vt - Va)×100/ Vt.  
+So, that will give you slip percent, so (0.7465 - 0.6677 )×100/0.7465 . So, that wa y it gives a slip 
+of around 10. 55 percent. So, for a pull of 44 kg and for a loading condition that means, total 
+weight coming on the wheel as 1400 kg and a soil condition where the cone index is 630 kilo 
+Pascal, we are getting a slip of 10.55 percent.   
+So, for measuring slip , the arrang ement which are made is quite accurate and we have calibrated 
+it manually also by putting a check mark how many revolutions it is making and then finding out 
+the time . So, number of revolution  by time we measure so that way we have already calibrated 
+these  proximity switch output to the actual output. So, this will give you a mechanism by which 
+you can acquire data related to slip which is a very important parameter while evaluating the 
+tractive performance of a wheel, or a t yre, thank you.  
+(Refer Slide Tim e: 11:34)   
+For measuring theoretical velocity , we have utilized a proximity switch and there are 8 spikes 
+which are fixed to a plate which is attached to a shaft, so when there is complete revolution of 
+that shaft you will have 8 spikes because the proximi ty switch is going to sense those spikes and 
+thereby it will give a signal and that signal is in the form of spikes.  
+So, the output will be like this . There will be spikes at regular intervals and what we are 
+measuring is the number of spikes and the time duration.  So, once you know the number of 
+spikes and the time duration , from there you can find out what will be the theoretical velocity. 
+For example, here we have got so many spikes now, I have indicated a spike with red  one and 
+another spike with red one  here.  
+So, the difference between these 2 is nothing but your , the time duration which is 11 , 10.6 
+second.  Now, what are the number of spikes we count if you count it 1 2 3 4 5 6 7 8 9 10 11 12 
+13 14 15 16. So, 16 spikes , one spike I have not counted in the  beginning so 16 spikes plus 1, 17 
+so 17 minus 1 that will give you 16 spikes, and in 1 revolution of the shaft, there will be 8 spikes.  
+So, I have divided by 8, I have divided it by 8 . Now, the time for getting that 1 6 spikes will be 
+11.6 minus 1, so 10. 6 seconds.  So, time we know, number of spikes we have counted, then we 
+try to find out the theoretical speed by knowing the radius of that shaft, that wheel, this shaft is 
+attached to the wheel. So, whatever is the rota tion of the wheel or RPM of the wheel , same RPM 
+will be there for the shaft. So, in 1 revolution, it is covering 2 πr distance.  So, for these many revolutions 16 by 8 that means it is giving you 2 revolutions. So , 2 
+revolutions into 2 πr divided by th e time that will give you, what is the  theoretical speed. So, the 
+important thing here is , how many spikes and what is the time if you know and what is the radius 
+of the wheel rolling radius, then we can find out very easily what will be the value of theor etical 
+velocity. So, next thing is how to measure the actual velocity.  
+(Refer Slide Time: 14:30)  
+ 
+In the setup, there is a proximity switch and there is only 1 spike. So , in each revolution, that will 
+be only 1 spike for measuring the actual velocity and that spike is mounted over a roller whic h is, 
+which will be rolling over a rail in the soil b in, which I have demonstrated in the video. Now, I 
+will follow the same procedure, how many spikes what is the duration to get those spikes that 
+means the time dif ference . 
+If I know then I can find out w hat will be the value of number of revolutions, then when I know 
+the radius of that wheel on which the spike is mounted, so 2πr will give you what is the distance 
+it is covering in 1 revolution. So, number of revo lutions into 2 πr, divided by the time  that will 
+give you what is the velocity and that velocity is taken as the actual velocity.  
+So, I have measured at 2 places, one place is for theoretical velocity and the other places is for 
+actual velocity, okay. So , now, actual velocity , if you count , I have started from 0.8 and have gone up to 11.8 seconds, and in between I am getting 27 spikes. So, 27 minus 1 by 11. So, that 
+will give you know 27 minus 1, sorry 26 by 11 into 2 πr. 
+So, this is why, this is 26, so 26 by 11 , this is number of revolutions pe r second, then I have 
+multiplied the distance in 1 revolution, this many this much distance it has covered, so that way I 
+am getting actual velocity as 0.6677 m/s. So, after getting these 2 parameters , 2 values, that is 
+theoretical velocity an d actual velocity, the next thing is how to compute slip.  
+(Refer Slide Time: 16:51)  
+ 
+So, I have measured pull, I have measured actual velocity and what is the theoretical velocity. 
+So, these from this data when I  try to plot actual velocity versus pull, t hat mean pull is on the x 
+axis and actual velocities in y axis, then what you can observe is in case of theoretical velocity, it 
+is a constant value almost constant whereas, in case of actual velocity it is going down.  
+So, when we increase the pull there will be more interaction between wheel and soil thereby 
+there will be more slip. So, as a result, when there is more slip, the actual velocity is reduced 
+from the theoretical velocity by a more amount.  
+(Refer Slid e Time: 17:42)   
+ 
+You can see here this di fference here and this difference here, they are not same as you increase 
+pull towards higher side there will be more and more of slip. So, now, how to find out that slip, if 
+I know the value of theoretical veloci ty, if I know the value of actual velocity, then theoretical 
+velocity minus actual velocity by theoretical velocity into 100, that will give you what is the slip 
+in percent. So, that way I have calculated slip.  
+(Refer Slide Time: 18:28)   
+Now, the next sli de, pull versus slip. Pull is on the y axi s and on the x axis I have taken slip. So, 
+what we are observing here is pull is increasing up to a certain extent, after that , it is almost 
+reaching to a peak and remaining constant there. So, beyond that if you i ncrease slip , if you 
+increase slip , it will c ome down that means, initially pull will increase as the slip is increasing 
+and then it is reaching to a peak.  
+And then after that , it is going down if you further increase slip that means, if you further 
+incre ase pull, so we are getting a peak around 25 l ike that. In this patch you are getting a 
+maximum slip. So, this is the procedure which has to be followed for finding out slip. And if you 
+want to know how pull is varying with slip or how actual velocities va ry with pull, then we have 
+to have data relate d to pull and actual velocity then we can plot it to know how the velocity 
+actual velocity is varying and how the pull is varying with slip. Thank you.  

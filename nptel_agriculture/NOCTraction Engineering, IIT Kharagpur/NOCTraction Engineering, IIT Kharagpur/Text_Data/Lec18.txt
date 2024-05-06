@@ -1,0 +1,223 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  18  
+Tractive  Performance  Prediction  Models  – Wismer  and Luth  
+Hi everyone,  this is professor  H. Raheman  from  Agricultur al and Food Engineering 
+Department , IIT Kharagpur.  I welcome  you to this NPTEL  course  on Traction  Engineering. 
+This is lecture  18, where  I will try to cover  tractive  performance  prediction  models . Basically , 
+what  is developed  by Wism er and Luth?  
+(Refer Slide  Time:  0:52) 
+ 
+The concept  which  will be covered  is wheel  numeric , motion  resistance  ratio,  torque  ratio and 
+effects  of tyre soil variables  on tractive performance . So, we have  basically  derived  the 
+theoretical  equations,  which  will be necessary  for developing  the tractive  effort. B ut if you 
+look at those  equations,  those  equations  require , what  is the distribution  of normal  pressure ? 
+What is the shear stress  distribution ? So, in practical  field, it becomes  really  difficult  to do 
+that exercise . So, what  you have  to do is some  equations  or should  be, some  equations  should  
+be available .  
+So, that easily  if you know , this is the weight  which  is coming  and this is the soil condition  
+then immediately  you can say, okay , this is the available  pull or this is the rolling  resistance . 
+So, to do that, there  are scientists . They have  carried  out this kind of activities  and based  on 
+different  field data related  to tractors,  soil tyre combinations  of different  sizes,  different  soils,  then based  on the single  wheel  testing  data, scientists  Wismer  and Luth , he has developed  
+some  equations  related  to tractive performance  evaluation .  
+(Refer  Slide  Time:  2:29) 
+ 
+So, basically  what  he has done  is he tried to identify  which  are the parameters  which  is going  
+to affect  the performance  parameters . performance  parameters  means  your pull, rolling  
+resistance , tractive  efficiency  etcetera . So, he tried to identify  this, in terms  of soil 
+parameters , in terms  of wheel  parameters , in terms  of system  parameters . So, let us see what  
+are those  parameters ? Under  soil, he identified  a parameter  called  cone  index . Basically , cone  
+index  gives  the force  required  to push  a cone shape  probe  into the soil that means,  it will give 
+indirectly  the strength  of soil.  
+So, it is symbolized  as CI and its dimension  is FL-2, force  per unit area.  Next , he identified  
+what  are the wheel  parameters ? Under  wheel  parameters , Wismer  and Luth , they selected  
+tyre section  width, overall  tyre diameter  and tyre rolling  radius  and these  are denoted  as b, d 
+and r and they the units  are length  units.   
+Then  he tried to identify  what  are the system  parameters ? Under  system  parameters , he 
+identified , these  are the parameters  like load,  how much  is the load acting  on the wheel , what  
+is the force  required  to tow the whee l which is nothing  but your rolling  resistance  then, what  
+is the pull which  is developed  then, what  is the gross  tractive  force  which  is basically  the 
+summation  of pull and rolling  resistance  and while  developing  the gross  tractive  force,  what  
+is the corre spond ing slip?   So, he has identified  9 parameters  and he applied  dimensional  analysis  technique  to find out 
+the relations,  the dimensionless  your variables  to develop  that tractive  equation . So, if you are 
+applying  Buckingham  π theorem  for dimension al analysis  technique,  then 9 minus  2 will be 7 
+dimensionless  variables . So, what  are those  7 dimensionless  variables?  One is your towing  
+force  upon  W, pull upon  W, tractive  force  upon  W. So, I have  indicated  here ρ as towing  
+force  upon  W, μ coefficient  of traction,  which  is nothing  but p upon  W and μg is a ratio of 
+thrust  upon  W, tractive  force  upon  W.  
+They  are the functions  of cone  index , they are the function  of the tyre parameters , they are 
+function  of wheel  slip. Now,  these  parameters  he tried to comb ine to find out 4 different  
+dimensionl ess ratios . So, what  are those  parameters ? One is CIbd/W that means,  he has 
+combined  the strength  of soil with the size of the tyre, b and d and then W, what  is the weight  
+coming  in the, So, on the wheel.   
+So, CIbd/W, that is called as wheel  numeric.  He has combined  these  parameters , parameters  
+of soil, parameters  of wheel  and what  is the external  load which  is acting?  So, this is denoted  
+as wheel  numeric . Then  he defined  another  parameter , dimensionless  parameter  b/d then r/d 
+ratio then S, slip  is dimensionless . So, r/d, b/d. So, using  these  4 parameters  he tried to find 
+out relationship  and he developed  2 equations , one for pull, the other  one is for rolling  
+resistance . If you look at this one, CIbd, there  have  indicated  that tyre rolling  radius  r, r/d, r/d 
+for most  of the tyre is around  0.475.  
+That means,  it is basically  a constant  factor . This  is not varying  for the agricultural  tyre. The 
+other  parameters  which  are varying  is b/d and the slip. Slip again  depends  on what  is the type 
+of soil and what  tool is developed ? So, that depends  on, slip is dependent  on that. The only 
+thing  which  is left is b/d ratio. So, Wismer  and Luth , they have  taken  b/d ratio as 0.3 for all 
+combinati on of tyre, they have  tried in different  soils they have maintained  the b/d ratio is 0.3 
+and for all agricultural  tyre, they have  taken  δ/h ratio. That means,  tyre deflection  to section  
+height  ratio a 0.2. 
+So, these  are the practical  limitations . In the sense , under  these  variables,  he tried to develop  
+some  equations . Let us see what  are those equations  which  are developed  by Wismer  and 
+Luth? And then we will discuss  what  are its limitations  later on.  (Refer  Slide  Time:  8:17) 
+ 
+Now,  he has develop ed this equation , motion  resistance  ratio which  is nothing  but the ratio of 
+towing  force  to weight  coming  on the wheel.  Weight  when  I said this dynamic  weight . In 
+case of a tractor  when  it will try to pull an implement  that will be weight  transfer  from  the 
+implement  side as well as from  the front  axle. So, the weight  transfer  is there . So, that means,  
+if the starting  condition  weight  distribution  is 70:30 or 65:35 in the rear and the front  axle 
+then the 65 percent  will be increased . So, if you take only 65 percent  that means  there  are 2 
+wheels  on the rear axle.  
+So, 65 percent  of the total weight  divided  by 2. That will give you the weight  coming  on each 
+wheel.  Now,  during  pulling certain  implement , since  there  is some  weight  transfer . So, what  
+will happen ? This 65 percent  divided  by 2 has to be increased . So, we should  know , what  is 
+the dynamic  weight  which  is coming  on the wheel ? Then only we can find out what  is the 
+motion  resistance  ratio? So, these  W which  I have  indicated , written  as dynamic  wheel  load.  
+Now,  this is equal  to 1.2 divided  by Cn, Cn is your wheel  numeric , plus 0.04.  
+So, Cn is CIbd/W and CI has to be measured  following  the procedu re, which  is given  in 
+American  society  of agricultural  biological  engineers,  standard  313.2. And we have  to 
+measure  the tyre section  width,  we have  to measure  the overall  diameter . So, then only you 
+can find out the value  of motion  resistance  ratio. So, when I tried to plot it versus  different  
+wheel  numeric s. So, wheel  numeric s are varied  from  say 5 to 70 then the nature  of the curve  
+will be like this.  Initially  it is very high then afterwards  it drops  very rapidly  then it becomes  almost  constant  
+after 35. Why  it is so, and what  does it reflect ? When  I said wheel  numeric  is 5. Wheel 
+numeric  is 5 means  CIbd  for a given tyre size of the pneumatic  wheel  bd cannot  be changed , 
+only change  is your CI that means  strength  of soil. So, when  the soil is soft, what  happens ? 
+Strength  of soil is less so, the wheel  will try to sink. So, resistance  will increase . So, CIbd/W 
+will reduce  because  CI is less in soft soil. So, CI will reduce . So, it will move  to, if you are 
+taking  the centr e point  here then it will move  towards  this one or the strength  of soil is 
+reduced . If the strength  of soil is increase , it will move  towards  this right  side.  
+So, strength  of soil is reflected  by cone  index . So, that means,  if soft soil, we will get more  
+rolling  resistance . If hard soil then will move  toward  the right  side, you will get the lesser  
+rolling  resistance . Because  sinkage  is less, compa ction  is less so, rolling  resistance  is less. So, 
+basically  on hard soil, it is a tyre deflection . So, that will give rise to rolling  resistance . But in 
+case of soft soil, it is not the tyre deflection . It is the sinkage that will come  into picture . So, 
+the nature  of the curve  is well justify  looking  at the strength  of the soil.  
+But the only difficulty  is, it does not differentiate  between  a power ed wheel or a rigid  wheel  
+or a towed  wheel , it will give the same  value . If it is a power ed wheel , is it is an unpowered  
+wheel  or towed  wheel  for both the cases  it will give you same  value  of rolling  resistance  
+which  is very difficult  to say. Why ? Because  when  there  is a slip certain  amount  of sinkage 
+will be there . So, that part is not reflected . So, we will discus s in detail  what  is the other  
+difficulties ? Let us now move  to the other  equation  which  has been  developed .  
+(Refer  Slide  Time:  13:16 ) 
+  
+The secon d equation  which  he developed  is related  to gross  traction  ratio. So, gross  traction  
+ratio means  if the ratio of the tractive  force  which  is developed  at the contact  patch  divided  
+by the dynamic  weight  coming  in the wheel . So, in other  words,  we can replac e F with Q/r. 
+So, Q/r, Q is the torque  which  is acting  on the axle,  r is the rolling  radius . So, that way 
+thrust×radius  will give you Q. So, we have  replaced  F that is tractive  force  with F×r, tractive  
+force  into rolling  radius  as Q.  
+And F we are replaced , we have  replaced  as Q/r. This rolling  radius  is found  out on a hard 
+surface , hard smooth surface  at self-prope lled condition . We have  to run the wheel  and then 
+taking  the number  of revolutions . we have  to divide  it by n×2π. Suppose  we make  4 
+revolutions  then whatever  distance  it covers  D/(4×2π). So, that will give you what  is the 
+rolling  radius.   
+Now , Q/rW and W is the dynamic  weight  
+ 
+Where Cn is the wheel  numeric , s is the slip. So, once  you know  the gross  traction  ratio,  if 
+you deduct  the rolling  resistance  ratio,  then it becomes  
+ 
+That means  this is your coefficient  of traction,  this is your motion  resistance  ratio MR, RR 
+and this is μg, μ is coefficient  of traction  and ρ is the rolling  resistance .  So, when  I deduct  it then it becomes . This is the equation  for the pull which  is developed , 
+pull by W ratio 0.75 into 1 minus  e to the power  0.3 CnS, this is gross  tractive  effort , minus  
+1.2 by Cn plus 0.04. So, that will give you the coefficient  of traction . And slip, we define  as 1 
+minus  Va upon  Vt, Va is your actual  speed  and Vt is the theoretical  speed.  Now,  when  you 
+try to plot these  P by W that means,  net traction  ratio versus  wheel  slip starting  from  say 0.01 
+to 100 percent. So, and this has been  plotted  for different  soil conditions  which  are reflected  
+as wheel  numeric  are 10, 20, 30, 50 like that.  
+So, what  we observed  is when  we decrease  the slip, the nature  of the curve , what  we say, we 
+are getting  lesser slip whethe r it is at wheel  numeric  10 or whether  it is a numeric  20 or 
+whether  is at wheel  numeric  30, if I draw  a line somewhere  at 10 percent . So, this is the pull 
+which  is developed , COT.  Now , when  I incre ase the pull to, the slip to 20 percent  then you 
+can see this is the case. So, that means  after certain  slip these  values  are almost  maintaining  a 
+constant  value.   
+But in case of this wheel  numeric  when  it is 10 it is still increasing  beyond  80 percent  you 
+can say, is still increasing . So, what  does it 10 indicat es? That means  the soil is soft CI 10 and 
+CI 15 means  soil is hard. So, in hard soil the pull which  is developed  or the COT  which  is 
+developed  is much  higher  than the COT  which  is developed  in soft soil. That means,  if you 
+look at this point,  if you look at this point,  there  is a difference  of nearly  0.45,  0.5 like that.  
+Now,  20 percent  slip again  same  difference  if you look at this one, if you look at this one, so, 
+there  is a difference  of 0.45. So, we conclude  from  here that the P by W or the coefficient  of 
+traction  is more  in hard soil that means  in hard soil, the tractor  could  be able to develop  more  
+pull. In soft soil the tractor  will be developing  less pull, why? Because  the power  is lost in 
+overcoming  the rolling  resistance . So, the net pull availabl e will be less in soft soil whereas  in 
+hard soil the rolling  resistance  is lesser  hence  your pull developed  will be more  and your 
+coefficient  of traction  will be more.   (Refer  Slide  Time:  19:06 ) 
+ 
+Now,  once  you know  the coefficient  of traction,  then rolling resistance  and gross  coefficient  
+of traction  then the one most  important  component  which  is computed  while  calculating  or 
+while  evaluating  the performance  of a tyre is your tractive efficiency . So, tractive  efficiency  
+is basically  the output  by input . So, in case of a tractor  or in case of a single  wheel  output  is 
+your drawbar  power  or output  is your tractive  power  and which  is the pull into forward  speed  
+and the input  will be your axle power .  
+So, if I take the ratio so 
+ 
+So, P/ W which  is the coefficient  of traction  and the denominator  is a Q/rW, Q is the tractive  
+force  divided  by W×(1-s). So, this is basical ly derived  from  fundamental  equations . So, once 
+we know  those equations  which  have  been  developed  by Wismer  and Luth , next is we can 
+put those  values  here to find out the tractive  efficiency.   
+Now,  based  on the output  data from  Wismer  and Luth , it has been  plotted  how the pull to 
+weight  ratio is varying  that COT  is varying  which  is indicated  by these  blue lines  and the 
+tractive  efficiency is  varying  which  is indicated  by the dotted  green  lines  for different  wheel  
+numeric,  CIbd/W starting  from  say 10 to 50. So, what  we observe  here is the slip at which  
+you are getting  maximum  pull or COT  value  and the slip at which  you are getting  maximum  
+tractive  efficiency .  If I draw  a line suppose  at wheel  numeric  of 50, this is the maximum  tractive  efficiency  you 
+are getting . So, this corresponds  to your wheel  slip of say around  8 percent . Now,  the 
+maximum  pull which  you are getting  is from  this point  only 30 percent . So, there  is a 
+difference , the slip at which  we are getting  tractive  efficiency , maximum  tractive  efficiency,  
+the slip at which  you are getting  maximum  pull. Now, if you look at 20. Suppose  this is 20 
+lines,  so, maximum  we are getting , maximum  tractive  efficienc y is here which  is 
+corresponding  to slip of say around  15 percent  and the pull which  we are getting at 20 is still 
+increasing . So, maybe  around  this slip is here. 
+We need  more  power  to be developed  at the same  time we need  more  efficiency . So, what  to 
+do now? We have  to find or we have  to compromise , compromise  between  whether  we 
+require  more  pull or whether  we require  more  tractive  efficiency . So, that is why a design  
+tractive  efficiency  curve  is given . So, it is at the higher  wheel numeric  values  it is the slip, the 
+corresponding  slip is 15 percent . At lower  numeric , wheel  numeric  values  the slip is more  
+than 20-25 percent .  
+So, you have  to find out a suitable slip value  to make  a compromise  between  these  design , 
+between  the tractive  efficiency  and the COT . But nevertheless,  the equation  which  has 
+developed  by Wismer  and Luth  are very simple  in the sense only 2-3 parameters  are required  
+to compute  the perfo rmance  parameters  of a wheel.   
+(Refer  Slide  Time:  23:20 ) 
+ 
+The limitations  if you look at tractive  efficiency  reaches  a maximum  at a relatively  low slip 
+value  and then it decreases  with increase  in slip. So, maximum  tractive  efficiency  occurs  at lower  slip values  for the largest  Cn values  which  are associated  with higher  soil strengths . 
+That means  when  CI is more , cone  index  is more , you  will get better  tractive  efficiency  or 
+wheel  loading  is less than you will get better  tractive  efficiency . To get maximum  drawbar  
+power  output , the vehicle  or the wheel  should  be loaded  to cause  slip which  is occurring  at 
+maximum  tractive  efficiency .  
+Otherwise,  you will not get maximum  output . So, you have  to load the wheel  in such a way 
+that the slip should  be around  this. Suppo se in 50. So, we have  to load in such a way that the 
+slip is around  5 percent  and get the maximum  tractive  efficiency  and if you require  more  pull 
+then you have  to have  more  slip then only get maximum  pull. So that is why in  end I have  a P 
+by W ratio that is COT  ratio, coefficient  of traction  is not close  to its maximum  value  at this 
+slip.  
+If this is the maximum  tractive  efficiency , the slip corresponded  maximum  tractive  
+efficiency , at here only you are getting  0.3, whereas  at 30 percent  you are getting near to 
+0.72. So, you have  to make  a compromise  between  maximum  COT  and maximum  tractive  
+efficiency.   
+(Refer  Slide  Time:  25:17 ) 
+  
+ 
+Now , looking  at the limitations  of Wismer  and Luth  equatio n, the motion  resistance  ratio as I 
+told in the beginning,  it does not contain  a slip term. So, that is why it will predict  the same  
+value  of motion  resistance  for a towed  wheel  as well as a power ed wheel.  Applicability  of 
+equation  which  is developed  by Wismer  and Luth  is only limited  to b/d ratio as 0.3, δ/h ratio 
+as 0.2, and r/ d ratio as 0.475. So, these  are the limited  applicability . 
+If you exceed  the b by d ratio,  if you exceed  δ/h ratio or because  r/d ratio is nearly  constant . 
+So, these  are the 2 values  0.3 and 0.2. If we exceed  then applicability  of Wism er and Luth  is 
+not known.   
+And another  limitation  is if you look at the equation  given  by Wism er and Luth , maximum  
+we can develop  75 percent  of the torque  which  is applied  to tractive  force  that is another  
+limitation . So, with these  limitations,  since  these  equations  are very simple  and they can be easily  handle  so that is why it was getting  popularity  earlier . So, I took these  equations  and 
+try to discuss . Thank  you. 

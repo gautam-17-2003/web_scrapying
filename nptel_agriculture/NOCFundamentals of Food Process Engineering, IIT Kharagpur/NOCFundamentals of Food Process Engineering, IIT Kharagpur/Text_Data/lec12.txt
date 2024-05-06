@@ -1,0 +1,216 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 12 
+Thermal Processing an d Kinetics of Microbial Death ( Contd.)  
+ 
+Hello everyone . We will contin ue the last class  where we have  left. We will continue 
+from there . So, today ’s topic will be  Thermal Processing and Kinetics of Microbial 
+Death.  
+(Refer Slide Time: 00:41)  
+ 
+So, we have stopped in the  last class , in the calculation of the unsteady  state conduction 
+equatio n which is the one dimensional F ourier 's law of heat conduction . So, the solution 
+was this and using the boundary condition , we have found that  
+ 
+So, let us see the term s her e. We have seen that only first term of this equation  can be 
+taken  for calcul ation of  the temperature w here parameter Y=(T-T1)/( T0-T1 and “α” is the 
+thermal diffusivity of a material , “L” is the char acteristic length of the body or  the food 
+that we are considering and “x” is the  dimension which is related to the  distance fr om the 
+centre to the surface . 
+Y= 4
+(2n+1)πn=∞
+n=0exp − 2n+1
+L 2
+π2αt sin 2n+1
+Lπx  So, we will see  that this analytical sol ution that we have  solved now has certain problem 
+for using i n actual case because  this analytical solution  will depends on  the different 
+geometry and of ten this is very  tedious  to solve ok . And also  sometime it happens that  
+we co nsider  the parameter the a lpha thermal diffusivity as a constant parameter . So, also 
+the thermal pro perties like α depends on k , ρ, & cp. These  also varies  because of the  
+composition of the material . 
+So, there are different  cases ok , different conditions for this . The lump  parameter 
+approach that we have taken earlier  has been changed to this  but again the difficulty  of 
+solving F ourier ’s law of heat co nduction for the actual cases and  actual geometries , we 
+will further move on  to a graphical solution .  
+(Refer Slide Time: 03:37)  
+ 
+So, how we can solve in this  graphical  method is that  graphical solution has been  
+develop ed based on  certain dimensionless parameter . So, first Gurney and L urie 
+develop ed this kind of a chart ; so, based on the dimens ionless temperature parameter Y 
+against the  Fourier number (F0) as a function of  two other variabl es that is m and n . 
+So, what is  m and n? m is the reciprocal of the B iot number  i.e. 1/Bi . So, for a cylinder or  
+sphere , the characteristic length will be the radius . And n is a  dimensionless m easure of 
+the position with the within the object defined by n=x/ L. So, we have seen that x is  the 
+distance from the centre . So, that distance divided by L which is the  thickness or 
+characteristic dimension of the body . So, x/L signify the value of n ; that means, if we say  n=0; that means, it is at the cent re 
+that we want to measure and n=1 means x is L. So, L/L is 1; that means, at the surface 
+we want to  measure the  temperature  ok. So, graphical so lution if we see the Gurney 
+Lurie Chart .  
+(Refer Slide Time: 05:36)  
+ 
+So, this chart is  represented here . This is  basically for the infinite slab . So, as we have 
+seen that for different geometry , the characteristic dimension or characteristic length 
+changes because of the volume  & surface area . So, this is  characteristic  dimension is the  
+volume by surface area . So, therefore, it is changing for different g eometry . So, this chart 
+is specifically for the infinite slab  ok. So, in the x direction  the here, x is represented by 
+the F ourier ’s number i.e.  α×t/L2 ok, y that is in the ordinate . So, this is the dimensionless 
+parameter relat ing the temperature  and this  m is nothing  but inverse of B iot number and  
+so m is varying  here fro m 0, 0.5, 1, 2 and up to  infinity . 
+So, here, so, m is 0, then m is 0.5, then m is 1, 2, 6 and varies  to infinity ; however, the 
+parameter in this is varying  from  0. We have seen  that n is equal to x/ L. So, x is the 
+distance from the centre . So, n equal to  0 means , this is at from the centre . Then 
+gradually it coming  to the surface ; so, 0.2, 0.4 and 0.6 and 8 and n equal to 1, where m 
+equal to  0; that is signified by this line , the ordinate . So, this is happening for all the 
+different  ratio of the 1/Bi.  So, from this cha rt we can take the value of  the parameter;  while let us  say if we want to  
+analyze  that when a particular block  having a kn own geometry or  ok. So, this the 
+temperature of this block , initial temperature T0 is kn own to us and then we are dipping  it 
+into a temperature T1 and then we are calculating this Y value which is  (T-T1)/(T0-T1). 
+So, let us say we want to achieve a final temperature of T΄. So, when we reach the T΄ our 
+process will be stop ped. So, we put here T΄, calculate the parameter of th is i.e. the value 
+of this y and we also check the  value of B iot number , so, m=1/Bi.  
+And also the  distance from the centre , where we want  to measure th e temperature ; so, let 
+us take if you wa nt to measure at the centre . So, n will be  0 and based on this B iot 
+number block  because  this m is set of lines  here, the whole l ine representing a particular  
+m i.e. 1/Bi . So, with value required we will see n=0 and y value . So, let us say , we are 
+concerned for m=0.5. So, this is the  0 value and here is the y value . So, will connect 
+them and then see what is the x value is coming  ok. 
+So, x=α×t/Lc2, the characteristic dimension . So, α=k/(ρcp). So, K is the thermal 
+conductivity . If the  material is known to us the thermal conductivity , we can measure 
+density and specific heat is also known to us . So, then putting these  value and 
+characteristic dimension , we can measure the time required , so that the centre of this 
+food wil l attend the temperature T΄ which is required  for the proces s. So, this is how we 
+use the Gurney L urie Chart for getting the  temperature profile at different  time and 
+different  position . So, let us just  once again  think about the process we have considering 
+now; for the un steady state process and that will be eventually helpful in analyzing  the 
+heat treated preservation techniques ok . 
+So, first we have seen the lumped parameter method . So, lumped parameter method we 
+consider where the  system geometry  follows  the restriction  of the  Biot number  that is 
+Bi<0.1 and also  it signifies that the internal cond uctive resistance is very low , 
+conductivity  is very high . Also in this case , we assume that  alpha is constant  where in 
+actual case , alpha varies  and also  the measurement of the thermal property will also vary 
+and this use of lump  parameter can give us the temperature distribution with respect to 
+time but not with respect to posit ion. So, then we have come to the  analysis  using the  
+unsteady state one dimensional heat conduction equa tion that is from the F ourier ’s law 
+and then we have  derived the final form of the equation  where the dimen sionless 
+parameter Y can be related with the  dista nce x from the centre .  So, in this pattern , we can relate the temperature variation inside the foo d with respect to 
+position and  time right . So, then from the same analysis , we can , we can perform by 
+using this chart  as well just  to simplify the  tedious  process of the analytical method . So, 
+from this , we can  again move on to the next chart which is the , which is the chart for 
+infinite cylinder.  
+(Refer Slide Time: 13:02)  
+ 
+So, this is the chart for infinite cylinder in the similar way as we have analyzed  for the 
+infinite  plate . So, here is  the value of x which is F ourier ’s number and here  the Y value , 
+here the m value which is 1/Bi and m value and n value which is x/ L. So, the x is 
+signifying the radial  distance of the cylinder .  (Refer Slide Time: 13:35)  
+ 
+Also for this sphere , we can  see this chart . So, this is for a sphere and x i s again 
+represented towards x axis , in the y axis we are representing y which is dimensionless 
+temperature parameter ; m and n are as representing the  1/Bi and characteristic  or the 
+reference position of the temperature measure ment as it was for the earlier two cases . 
+Now, the difference of this chart  from the earlier two chart is that here we are  measuring  
+or a getting data for a finite  dimension for a sphere ; however, in the previ ous two cases 
+for infinite slab or infinite cylinder , we are  getting  one di mension is in  finite  
+measurement , the others are infinite long .  
+So, there is a problem for using this chart  for actual calculation because what happened 
+that in  actual food process , most of the cases , the dimensions are finite and if we use this 
+chart , so, some error we may get . Because if we are taking an  cylinder , if we can take a 
+cylinder , so, what happened that, we need to calculate the parameters  in between the 
+infinite cylinde r and infinite slab . So, in that case , the Y that is the parameter  we actually 
+need to take , we actually need to consider will come  as Y plate into Y cylinder and then 
+we relate this with  other  Fourier ’s number and the dimensions m and n. So, there is a 
+problem and most of the cases in the food sample when we go for  preservation using the 
+sterilization . 
+So, we need to have the  centre point temperature  because that is very important because  
+the assurance that no  contamination  will be there or  no microbial gr owth will be there , is very important fo r preservation of food and to as certain that , we need to maintain  the 
+centre temperature at a set  level or we can we can  perform the process in such a manner , 
+so that the centre temperature should attend the steriliz ing temperature . So, for that the 
+centre temper ature is very important . So, that is  why further  you know advancement i n 
+the chart has been done by  Heisler . 
+(Refer Slide Time: 16:47)  
+ 
+And , w e will see now , the other chart which  is called the Heisler  chart  where again the  
+Fourier ’s numb er is represented here in the x axis i.e. αt/Lc2. Where, L c is your 
+charact eristic dimension . And in the y axis , we are having dimensionless parameter Y  or 
+θ i.e. (T 0-T∞)/(T i-T∞). 
+So, initial temperature is of the body is noted by  Ti here, T∞ is the temperature of the 
+surrounding  and T0 is the  temperatu re attain ed at any  time. And what is b eing done here 
+is, the value of 1/Bi that is very important . So, that has been varied from  0 to 100. So, 
+this number has been varied  from  0 to 100 because here we are considering  the cases 
+where the conductive  resistance is very high . And also , all these  lines has been drawn 
+considering n=0. That means, x=0 because n=x/ L. So, this is the centre temperature .  (Refer Slide Time: 18:34)  
+ 
+So, we can also get  from  this chart, if we plot inverse of B iot number in the x  direction  
+i.e. on x axis and θ/θ0 in the  y direction and r/r0 will be represented by this . So, we can 
+calculate based on this , what will be the temperature distribution inside the  food. 
+So, change in thermal  energy storage can also be seen from this d ata where the  again  
+Biot number is plotted and q/ q0 that is the  heat content , change in the heat content over 
+the initial heat content q 0 i.e. Bi×Fo2 ok. So, from this chart we can get the  thermal 
+energy storage , the idea of  the thermal energy storage .  
+(Refer  Slide Time: 19:47)  
+ Now, this as I said that , this kind of  analysis will be varied for both  if we consider the 
+sterilization or else if we  consider the freezing ; So, one problem of the  similar kind has 
+been taken here  where apple of whose the diameter is  120 mm, ρ=990kg/m3, 
+c=4170J/kgoc, k=0.58 w/moc with temperature of 25 oC is placed in a ref rigerator where 
+temperature is 6 
+oC. Average  convective heat transfer coefficient over the apple  is 12.8 
+w/m2 oC. Determine the temperature at the centre of the app le after a period  of 2 hours .  
+So, let us see the solution .  
+Lc for sphere = R/3 = 0.02m  
+Bi= hL c/k = 0.44  (>0.1)  Here Bi >0.1 means lumped parameter analysis can’t be used. 
+So, use heissler charts to solve given problem . 
+(Refer Slide Time: 21:46)  
+ 
+                             1/B i=2.267  
+                            F0=ατ/Lc2=0.281  
+Temperature at centre, x/L or r/R=0  
+From Heissler chart we will calculate the parameter    (Refer Slide Time: 22:21)  
+ 
+From Heissler chart we will calculate the parameter  Y. 
+(Refer Slide Time: 23:02)  
+  (Refer Slide Time: 23:25)  
+ 
+So, using tha t, here we are getting the  temperature dimensionless  temperature paramet er 
+as 0.75 ok. So, putting all the value , we can find the T0. 
+𝐓−𝐓𝟏
+𝐓𝟎−𝐓𝟏=𝟎.𝟕𝟓 
+𝐓−𝟔
+𝟐𝟓−𝟔=𝟎.𝟕𝟓 
+                                                                  To= 20.25oC 
+So, in given problem we got  Fo = 0.281 and 1/Bi =  2.267. Somewhere  here this line for 
+all n=0 this is and w e have taken the F ourier ’s number data here and find the point where 
+these two intersects and calculate the  Y value which is the dimensionless parameter . So, 
+this is how we can use the Heisler chart for calculation of  temperature with respect to 
+different  centre points for different time in case of the unsteady state  ok. (Refer Slide Time: 25:04)  
+ 
+So, now another problem based on the Gurney L urie chart . Meat slices  of 10 mm th ick 
+initially at  a temperature of 80 oCis to be cool ed by blowing cold s air at 2 oC. Estimate 
+the time  for the centre of a slice to reach 20 oC. The properties of the material  is given 
+here k= 0.375Wm−1 K−1, ρ =1250 kg m−3, c=2130 J kg−1 K−1 & 150 W m−2 K−1.  
+Let’s see the  solution , again will find the characteristic length a nd the B iot number of 
+this. So, m=1/Bi i.e. 0.5 here. Then  α=k/ρc will calculate. the dimen sionless parameter  
+(Y) we will calcula te because we know here the  final temperature and the initial 
+temperature .  
+Lc=0.01/2 =0.005m,    Bi= hL c/k =2  (>0.1)   
+m=1/B i = 0.5  
+α=k/ ρc = 1.41×10-7m2s-1 
+Y= (20 -2)/(80 -2)=0.231  
+ (Refer Slide Time: 26:36)  
+ 
+And after getting this , F0 is obtained from t his chart . So, this is for an infinite slab . So, 
+here putting the values of Y at 0.231 and at the centre  where n= 0 and further  we can  find 
+the F ourier number  ok. 
+Read the value of x axis for (m = 0.5, Y=0.231, n=0)     
+X or F o=1.4  
+From here we can ca lculate the ti me  
+F0=ατ/Lc2=1.4   
+So, τ=248s  
+This is how using the H eissler chart and  Gurney L urie char t, we can calculate the  
+temperature profile in case of different food material when these foods  are you know 
+exposed to the higher or lo wer temperature surroundings . So, the principal , we have 
+discussed today , we will be using this one for the thermal preservation techniques that 
+we will follow in our next class ; so till then . 
+Thank you . 

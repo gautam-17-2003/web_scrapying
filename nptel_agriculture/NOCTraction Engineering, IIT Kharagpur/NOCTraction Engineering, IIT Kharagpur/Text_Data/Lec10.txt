@@ -1,0 +1,152 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 10 
+Tutorial 2 - Measurement of Shear Strength, Modulus of Sinkage and Cone Index  
+Hi everyone , this is Professor H Ra heman from Agriculture and Food Engine ering 
+Department , IIT Kharagpur . I welcome you  to this NPTEL  course on Traction  Engineering . 
+This is lecture 10 , where  I will try to take a tutorial which will  be related to measure  of, 
+Measurement of Shear Strength , Modulus of Sinkage  and Cone Index , which we discussed in 
+my previous classes .  
+(Refer Slide Time:  0:55)  
+  
+So, measurement of shear strength then  measurement of modulus of  sinkage . These are the 
+two parameters , then in the  third we are going to  take the cone index value , how to measure 
+cone index of a given  area. So, to start with , first, I will give you  a problem like a shear  
+annulus with inner  diameter 50 centimeter , outer diameter 80 centimeter. T his was  used to 
+measure shear strength of soil  and the t orque required to cause failure  of soil was recorded  as 
+500 kg meter , now how to find out  the shear  strength of soil .  
+As I said shear  annulus , so immediately  you can draw  the shear  annulus . So, now here we are 
+interested in finding  out the shear strength of soil using  this shear  annulus . So, what we have 
+to measure is the torque . So torque is given , so it is 500 kg meter  and outer radius is given 
+which is r2 and inner radius is r1, inner  radius of  the annulus .  
+So r2 is the outer radius  which is given as  80 by 2 , 40 centimeter  and r1 is the inner radius 
+which is  equal to 50 by 2 that means 25  centimeter . And we know that torque  relationship 
+which is given on the left  side,  
+ 
+So r, is r1 you have  found out , r2 you have found out , then T  is known . So, τf is to be 
+calculated , so now we  substitute th ese one and find out τf.  
+This is question number 1, how to find  out shear  strength of soil using shear annulus  or in 
+other words you can do like this . If shear strength of soil is known then  you can find out how 
+much torque is  required to  cause the soil to fail , so the same equation  shear strength is  given then you can find out how much is  the torque  on the  same equation can be utilized so  shear 
+strength is given , so you can find out  what is the value of T.  (Refer Slide Time:  3:53) 
+ 
+ 
+The second question is the data obtained  for a plate  sinkage  tests using two plates in the field  
+are as given below . So, you are asked to find out the values of  exponent of sinkage  n, kc 
+cohesive  modulus of sinkage  and kφ frictional  modulus of sinkage . So, the data which are 
+given is  sinkage for a plate size of 700 by 110  millimeter  and for a plate 2 it is given as 800 
+by 100 millimeter  and sinkage  values are given and corr esponding  pressure values are given 
+794, this is a  Newton per centimeter square , same is the case with for plate 2.  
+Now how to proceed to find out these  values n , kc and kφ. So, if you remember the Bekker 's 
+pressure  sinkage  relationship , where we have  taken that  
+ This is the relationship given by pressure , given by Bekker . So if we try to plot the pressure 
+versus  sinkage that means p versus z value  then you will get a kind of , a set of  curves  because 
+there are two plates  so you will get a set of curves  which is shown  as in this slide .  
+So this is the nature of the curve which  will be obtaining , one is, the plate 1 is this , plate 2  is 
+this, so that means , this shows that n is , n has a value greater than 1. But what is the exact 
+value ? To do that we have to take the help of  that Bekker 's pressure  sinkage  relationship 
+where  
+ 
+And,  
+ 
+Now if you plot log P versus log z then it will be a straight line . So what we have done is we 
+try to  find out the  log P and log z value then you try to  plot it and then see the nature of the  
+curve.  
+(Refer Slide Time:  6:25)  
+ 
+For plate 2 , I first calculated , you can  do either way plate 1 or plate 2, does not matter . So 
+log, sinkage  value  which is nothing but your  z value  and pressure value is p so log p and log z 
+value , I have calculated  then I tr ied to plot it . So, this will be the your plate 2 and similarly 
+for plate one I  have calculated , logp value , logz value , then I  plotted .  So what we observed here is two , these are all points which are observed  now I have best 
+fitted those points with  a straight line relationship which is  given as y is equal to this much  
+ 
+Now the plate 2 is given as   
+ 
+So, these are two straight lines so but  the slopes are not uniform , they are not  same .  
+So how to find out  n, if the slopes are not uniform then  as suggested by Bekker , you have to 
+take the average value , so slope here is in  the f irst case slope is  0.736  plate 1, 6 and in the 
+second class it is  0.3544 and take the average so whatever  comes that has to be divided by 2 
+to find out the a slope , average slope  which is equal to your exponent of sink age, n.  
+Now next thing is how to find  out kc and kφ. So each one of this curve they are  getting an 
+intercept which is equal to  or we can denote it as a 2 this is a1. Now in my previous classes 
+where I  have dealt with the pressure sinkage  test that I  have derived the expression for kc and 
+kφ but these expressions are  valid  when z is equal to 1 . When sinkage is  equal to 1 then only 
+these equations are  valid otherwise you cannot calculate .  
+So if that is the case so z, take z is equal  to 1 so then with the help of this  equation that means 
+the intercept and  the plate size which is given by b2 and b1 so taking those values we can  
+calculate directly the kc and kφ values . If you want to get rid of this  limitation that z is equal 
+to 1 then  what you have to do is you have to take  at least three  plates  of different dimensions , 
+you can take square plate , you can take  circular plate , does not matter but width of the 
+rectangular plate should be  equal to radius of the circular plate  and circular plates are better in 
+the sense , the application of pres sure is  uniform . So, when you apply load , it is uniformly 
+distributed , whereas in case of  a square plate at the corner points are  dead pockets actually . 
+These points are dead pockets  so it is better to go for circular plate  so that pressure is more or 
+less uniform .  
+So you have to take three plates so  you will get three k values  because for three circular 
+plates you  have three relationships and if you take  logarithm then you will find out three  
+relationships from which you can find  out what are the values o f K and if you  try to plot the 
+K versus 1/b and then you can find out a relationship .  This is on the y -axis you take K, on the  x axis you take 1/b then you will get some points like 
+this then you try  to best fit that one and then the intercept w ill give you kφ and the slope will 
+give you kc. So, this is how we calculated if you  apply this limitation z is equal to 1  then you 
+can utilize the method which  we described o r if you  do not want to do  that if you are 
+interested in finding  out for all o ther values of z then you  take at least three plates so that you  
+can easily calculate kc and kφ.  (Refer Slide Time:  11:31)  
+ 
+Then the next question is , a cone penetrometer with a base area of  a cone  3.23 square 
+centimeter was  used to measure the stre ngth of soil in  a research field . So, the force required 
+to push the cone  penetrometer at different depths were  noted down  and the values are given 
+in a tabular  form  below . Then the question which is ask ed is how  to find out the average cone 
+index  because the cone index is given for  different depth .  
+And the force which is  experience has been given for different  depths  that’s why I ask you to 
+calculate  - what is the average cone index for the  measured  data. So what  data are given , 
+depth data  at 0, 0 means i f you take a cone  penetrometer with a pro be at the bottom , so zero 
+lines refers to this which is just  flushing, when the soil surface is just  flushing the top surface 
+of the cone so  that becomes a zero line . So, zero reading  starts from here . 
+Now at every 25 millimeter interval , I have taken the  reading and th ese readings are given 
+here, so what readings are given , force, then how to calculate pressure so force divided by the 
+cone base area  so that will give you  pressure which is applied . So, what is the cone base  area, 
+it is giving us  3.23 centimeter square , okay.N ow we have to find out first the pressure , so in 
+the next slide  I will show you , what is  the pressure  corresponding to the force which is  
+applied at different depth .  (Refer Slide Time:  13:38 )  
+ 
+After knowing the force then we  have to calculate the pressure which is  applied which I have 
+indicated as cone  index , so cone index at each depth I have  calculated and when I tr ied to plot 
+it on a XY sheet,  graph sheet you can see , depth is taken  in the x  axis and on the y axis you 
+have  taken the cone  index value then these are  the points which will refer to different  
+observations which you took in the field .  
+Now after getting this plot what next , how to find out the cone index for the entire d epth for 
+which the penetrometer has been pushed into the soil . So, what you have to do is , we have to 
+connect this , connect this then this is the area which is to be considered , so area of this curve 
+is nothing but kilo Pascal into millimeter .  
+Now if you divide by d epth so in your case depth is 200 millimeter so that will give you what 
+is the average cone index for the entire depths of 200 millimeter . So depth and the area which 
+is computed either you can manually compute or you can take a plan imeter or you can take 
+the help of AutoCAD to find out this area , you take the image of this one , take the help  of 
+AutoCAD and then find out what is the area .  
+If you do not want to do this then take a simple graph sheet and then try to calculate the area 
+which is if you know th e scale of x axis and y axis then you can find out how much area is 
+bounded by this curve so that becomes your the numerator and then you divide by depth that 
+becomes your denominator to find out what will be the cone index , average  cone index for 
+the data  which you obtain ed.  This is referred to a particular place , now if you are interested to find out  the average cone 
+index of the entire  plot which I have drawn now . I have only  given data for one point  so you 
+have to take similar data for  different points , randomly you  can select  different points in the 
+field and then  you will have a set of data .  
+So for each point or each test points  you have to calculate the cone index  value and then take 
+the average and find  out the standard deviation and  coefficient of  variance , so that will  give 
+you the average cone index of that  particular plot . So I have only given the procedure  for 
+finding out the cone index at a  particular point  up to a particular depth  so similar exercise has 
+to be done for  several points in a fie ld so that it can  give you a better average .  
+So while you mention the average  score index you have to mention the  standard deviation 
+and the coefficient  of variance so that is a complete  specification of average  cone index in a  
+field. I hope , I have clari fied how to calculate cone index , how to  calculate the  shear strength 
+of soil  then how to find out the parameters related to plate sinkage  test that is exponent of 
+sinkage , cohesive  modulus of sinkage  and frictional modulus  of sinkage . So this will help yo u 
+in further  enhancing your concepts which are  covered in my lecture class .  
+(Refer Slide Time: 18:01 )  
+  
+So in brief I can say I can conclude  that the attempts are made to describe  the concepts of 
+measuring  shear strength , measuring modulus of sinkage  and cone index , thank you . The 
+reference can be Theory of Ground  Vehicles , Soil Dynamics Tillage  and Traction  by Gill and 
+Vandenberg , that is all. 

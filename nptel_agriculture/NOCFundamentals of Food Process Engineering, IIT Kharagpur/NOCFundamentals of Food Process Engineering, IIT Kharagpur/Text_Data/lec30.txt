@@ -1,0 +1,334 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural  and Food  Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 30 
+Drying Technology (Contd.)  
+ 
+Hello everyone . Welcome to the NPTEL  online certification cours e on Fundamentals of 
+Food Process E ngineering . In the last class , we have discuss that drying  phenomena in 
+the constant rate and falling rate  period . In the constant  rate, we have discussed that  
+when only the convective heat transfer  will be  creating the d riving force for mass 
+transfer from the product  then what will be the drying rate . 
+And, also we have seen that when all the 3 modes  that is conduction convection and 
+radiation exist in a case , then how we can calculate the  phenomena in the constant r ate 
+drying period . 
+Also, we have seen that different kind of mechanism in the falling rate  drying . when the 
+drying rate and the falling  late period will be linearly proportional to the free moisture  
+available . And, also when the drying  rate will not be linear ; that means  the drying  will 
+basically governed by the diffusion mechanism . 
+So, then also how we can calculate the drying  time we have seen that . Now, today we 
+will start a problem that is based on the principle that we have a derived in the last class 
+we have  discuss in that , based on the drying  time calculation using the effective 
+diffusivity  and then we will move on to the other topics . 
+ (Refer Slide Time: 02:02 )  
+So, let us  see first  the problem on drying time  calculation . Average diffusion coefficient 
+moisture in a product is 3×10-6 m2/h. product is dried from 29 % ( db) to 9 %( db).product 
+(slab) of 25mm thick is dried from both sides by hot air.  Calculate  the time required for 
+drying . Given that equilibrium moisture content of the product is 4 %( db).  
+Now, we need to  find the sol ution of that we have discuss that characteristic dimension , 
+in this case that we need to use will be half of a thickness if t he drying  takes place from  
+both the side . So, here we will consider “a” i.e the half thickness of 25 mm = 0.0125mm . 
+Then  we need to calculate the free moisture  available . 
+     X1* = X 1-Xe = 0.29 -0.04 = 0.25                                                                       
+    X2* = X 2-Xe = 0.09 -0.04 = 0.05  
+Then, we need to apply this equa tion t f  
+ 
+ 
+So, putting all th at values here we are getting that t f will come 29.52 hour. So, this is how  
+based on ef fective diffusion coefficient or average diffusion coefficient , we can calculate 
+this one ok. Calculate that time according the time falling rate period . So, we call it an 
+average diffusion , because an every instant place of the product this diffusion , the rate of 
+diffusion is not constant , because the re are many factors the structure of the cell the  
+porosity , the shrinkage what happen in the product , the non-uniform  distribution of the  
+tf=4a2
+π2DLln8X1∗
+π2X2∗ 
+tf=4(0.01252)
+3.1422×3×10−6ln8(0.25)
+3.1422×0.05=29.52 hr moisture . And, and there is mini mechanism  may prevail not only  the liquid diffusion 
+always . So, together to simply the equation we consider this as a effective diffusion . 
+(Refer Slide Time: 04:50 ) 
+ 
+So, then we will see the mass and energy balance for continuous dry er. 
+So, if you see the configuration  it is like a drying  chamber is there  where the feed with 
+the rate of ‘F’ kg/hr  at temperature ’ T1’ and moisture content  ‘X1’ is entering . And, the 
+inlet air which is supposed  to be a hot air  with lesser humidity is entering with a mass 
+flow rate ‘ma’ kg/hr .  
+Because of this inter actio n of this feed  and the  air, the product is coming out  at a rate ‘P’ 
+with T2 temperature and  X2 moisture content . And, the in let air is lea ving with a 
+temperature T1 and mass will be same and humidity W2 will increase . And, also there 
+maybe heat loss to the ambien t because it is not an insulated system . So, maybe some 
+heat loss to the surrounding may happen there . 
+So, ma is the mass flow rate of the air in kg/hr  .F, P and Md are mass flow rate of the 
+feed, product & of dry solids . T1, T2, Ta1 &T a2 = temperature of feed, product, inlet & 
+exit air . And, W1 and W2 is the humidity of the inlet and exit air, whereas  X1 and X2 
+moisture content of feed an d product in the dry basis. it is given in the fraction . (Refer Slide Time: 06:49 ) 
+ 
+Now, we need to see the equation of the mass balance . So, mass balance w ill be what is 
+coming in the drying  system and what is going out . So, simply we can  perform like this  
+mdX1+m aW1= m dX2+m aW2 
+So, if there is no heat loss , then the energy balance will be enthalpy of the inlet  feed+ 
+enthalpy of the air = enthalpy or heat content in the dried product + enthalpy in the air. 
+So, we know already that using the psychometric chart we can calculate the enthalpy of 
+the airstream provided the 2 prope rty of the airstream is known to us and in  this 
+particular case we know the temperature and humidity specific humidity . So, utilizing  
+that we can calculate the  enthalpy at the 2 point  and also  we can calculate in this manner  
+as the h 1 and h 2 which is the  enthalpy of the feed and enthalpy of the product . 
+So, if we take the reference temperature as 0.  
+h1=C pd(T1-0)+C pwX1(T1-0) 
+h2=C pd(T2-0)+C pwX2(T2-0) 
+Now, we know that humid  heat of the air is  Ca = 1.005+1.88W   
+So, by this we  can calculate all the properties . And, then we can use this to identify the 
+mass balance and energy balance in case of a continuous dryer  system . (Refer Slide Time: 09:58 ) 
+ 
+Let us take a small problem on that , if we  considered a  continuous dryer used to dry 450 
+kg dry solid/h containing 0.05 kg moisture/kg dry solid to 0.02 kg moisture/kg dry solids. 
+Solids enter  at 25oC & leaves at 60oC. Hot air having humidity 0.01 kg H 2O/kg dry air 
+enters at 94oC & leaves at 40oC.  Take, C pd=1.5kJ/kg dry solids, λ0=2501kJ/kg. Calculate  
+the mass flow rate air.  So, what is the  amount of air that is required to flow per unit time  
+so, that this much  drying  effect can be achieved ? 
+So, first we will do the ma ss balance ;  
+450×0.05+0.01m a= 450×0.02+m aW2 
+So, one relation between ma and W2 we have  created here ok . Now, the energy balance 
+would be  
+h1=Cpd(T1-0)+C pwX1(T1-0)= 1.5×25+4.187×0.05×25=42.73 kJ/kg  
+So, we are getting 42.73 kilo jo ule per kg ok . So, this is the enthalpy of the inlet feed . (Refer Slide Time: 12:42 ) 
+ 
+Similarly , we can calculate h2 which is coming here 95.02 kJ/kg . Here  we need to take 
+the temperature 60 °C and the reference will be  0. Now, for the incoming air we are 
+getting  121.24kJ/kg . Similarly, we need to calculate the entha lpy of the outgoing stream . 
+So, W2 will b e factor that is changing . In terms of W2, we are getting this relation .  
+ha2= (1.005+1.88× W 2) (40 -0)+2501× W 2 =40.2+2576.2 W 2 
+Now  putting all the values  in into the energy balance equation  we can get  1 relation 
+between m a and W2. Now, solving these two relations  we can get the values of W2, 
+which is the humidity of the exit air and also the mass flow rate of the air required . So, 
+W2 is coming  0.02279  kg H 2O/kg & ma is coming  1054.7kg/h . (Refer Slide Time: 14:06 ) 
+ 
+Now, just we look into the different types of dryer and we would not  discuss in much 
+detail , but just we will see that , what are the different mechanism available , and what are 
+the different drying  methods available . So, basically  conduction convection and radiation 
+these three  are the modes based on we can  you know dry the material . 
+So, conduction drying  that is drum dryer and rotary dryer these 2 are exclusively work 
+on the principle of conduction heat transfer . If, we look into the c onvection heat transfer 
+this is the most common method for  normally used for t he drying  mechanism , because 
+that the cabinet dryer , which is also called the tray dryer . That is  most co mmonly used 
+also we can use that tunnel dryer , spray dryer , spouted bed dryer and fluidized bed dryer . 
+So, this different configuration and different geometry has been developed for ease of 
+handling of the product  based on the quality  of the product  required and also the c apacity 
+of the product required . Then there is radiation drying  like sun drying , which is y ou 
+know continuing since ancient times and  this is very simple people just spread over the  
+you know clean cloth or the grass or the floor for basically grain drying this is used in 
+some places . 
+Solar dr yer is  one radiative  radiation drying  based on  the natural energy available . The 
+microwave drying , which is also becoming very popular because of  it is efficient drying 
+operation . So, we will see  some of the se dryers now . (Refer Slide Time: 16:02 ) 
+ 
+So conduction drying , which is contact drying  convective drying we have already 
+explain that , how it has been done and  in maybe in the in the detail you might be  you 
+know reading in your heat transfer  so, I am not going to  go into the detail of  that. 
+(Refer Slide Time: 16:21 ) 
+ 
+So, solar dryer s no fuel or mechanical energy is required in this case , drying  cost is 
+there fore low as compared to the mechanical drying  , but the probl em is that 
+uncontrolled and non-uniform  drying  because for the solar  radiation there is no certainty 
+of the intensity of the radiation to be uniform  that is  one problem . So, in a single day the variation is there  of the intensity of the solar radiation and also throughout the year there  
+will be variation . 
+And, there are effects  of the wind velocity dust and all that may not be controlled  
+properly . So, there is a problem of the so lar drying of this non uniformity . There is also 
+direct and indirect kind of mechanism . So, one case is that  in the direct type mechanism . 
+So, sunlight is fall on a glass ok . And, the cold air which is passing through the product 
+will getting heated by this radiative  effect of the  solar radiation . And, the product will be 
+getting dried ok. So, hot air is going out the product is gettin g the radiative heat as well 
+and because of this he ated air also some effect  they might be  getting because of the 
+convective heat transfer as well . 
+So, there is a insulated casing is there . So, that no heat loss will be there whatever heat is 
+coming by rad iation will  be there in the in the chamber  itself. Whereas,  if we see the 
+other method . So, which is kind of an  indirect drying . So, indirect in the sense first we 
+utilize  the solar radiation to heat the air and that air is again passing  through  the grain 
+bed or  the bed of the food material for drying  by the convective mechanism . So, there is 
+an inlet and exhaust of the air and that the drying shelves are there . So, hot air i s going to 
+the going to the material  and then how this is how they dry the product ? 
+(Refer Slide Time: 18:40 ) 
+ 
+The most common dryer which is based on convective drying mechanism  is the cabinet 
+dryer . It consists of a closed compartment in which the tra ys containing  product  are kept and the tra ys rest on a shelf  with adequate spacing between them . So, that the heated air 
+can blow through or can pass through  the food material , and heated dry air circulates  
+between the shelves . 
+So, look into the cabinet dryer system  one is the drying  chamber this one is the drying 
+chamber , two is the drying trolley . So, this has been given the drying  trolley  is given 
+where  the trays are there.  Drying  trays  are there  is a heat exchanger , because whatever 
+air is coming through this duct there is a blow er, which is  you know taking the air from 
+the ambient and it is pulling inside it is passing through the heat exchanger . 
+That heat exchanger is increasing the temperature of this  air the cool air or fresh  air that 
+is coming . So, the temperature is increasing and when this air is passing over the weight 
+surface of the food , its humidity is also increasing  ok. So, at 4 there is a circulation fan , 
+which is circulating the air again 6 is a control panel . So, by this we can control the 
+temperature of t he air stream . How much we need to heat it? Ok. Then what should be 
+the, you know flow rate of the of the air stream that also we can control by this . 
+And there is a exhaust damper also , now in such kind of a mechanism there are . So, 
+many designs  you know p arameter that we can change or the efficiency that we can  
+generate for that matter we can do some recirculation of the exit air , because the exit air 
+is having high humidity and inlet air is most of the time is very dry . In this case  so, to 
+keep the produc t quality better , because when the product is exposed to very  very low 
+humidity and high temperature environment  so, it may happen that the outer surface will 
+shrink much higher rate ok . 
+So, to control the quality of the material sometime we circulate the  exit air  and mix it 
+with the inlet air to some extent . And, then we can operate the dryer . So, this kind of 
+optimization , we can perform based on the quality of the product . (Refer Slide Time: 21:31 ) 
+ 
+And, there is a tunnel dryer . So, this is  one kind of a continuous  drying method  it 
+consists of a long tunnel through which trucks carrying the stack of tray can travel with 
+or against the  stream of the drying air. So, how the  flow rate of the air will be there , I 
+mean the direction of the air can be control  that is  again our design  issue that  we can  
+always work on to increase the  efficiency . So, there is a  tunnel  dryer operate in co 
+current counter , current or mixed current fashion as  I was telling that the flow of the 
+material and flow of the air will have a similar d irection or opposite direction or you 
+know  perpendicular direction , all this can happen and this is a  very efficient and  
+continuous system . 
+So, it is being used in many  food processing operation  so, also works on the convective 
+mechanism . So, air is coming through and then passing through a heat exchanger and 
+then it flows over the surface and then goes out of the exit duct. (Refer Slide Time: 22:47 ) 
+ 
+So, just to some extent different than the tunnel dryer where the belt is operated inside  a 
+tunnel  in a belt dryer , it can operate in the  in the open as well or  it can  it can  operate in a 
+close  chamber . Metal belt or conveyor heated by the contact or  radiation by the hot 
+element install on both the side . So, that we can use , there is a  feeding pu mp, which is in 
+a control  rate put the product on the wet product on the surface of the belt . 
+And, there is a conveyor belt we can adjust the speed of the belt and as long as it reaches 
+the end of the belt the drying will complete . So, we need to design th e length of the belt 
+and wi dth of the belt dimensions in such a way . (Refer Slide Time: 23:43 ) 
+ 
+That so, that by the time the product reaches to the  other end t he product will get dried 
+and at the end we can c ollect  the dry  product there is a  discharge ro ll we have attach  
+here. So, by that or  any kind of discharge mechanism we can put . So, by that the control  
+rate of the product will come out . And, sometime  if we want to you know break the 
+material , because if it kind of a slurry  or material which has been  which need to be  you 
+know fragment in then we can add a crusher roll at the end . 
+So, that will crush it in a small bits form or powder form we can get the product out of 
+the chamber . And, if the product is heat sensitive we can perform this op eration under 
+vacuum as well . So, that the boiling point of the water will lower  so lower temperature , 
+we can dry the  product and the product quality of the heat sensitive material will retain . 
+So, we just we need to add  one vacuum pump here and then  we will run it for the 
+required  level of the vacuum . Foam -mat drying this is a method by which a liquid food 
+concentrate  along with the suitable fo aming agent  and this is whipped to form stable  
+foam and is subjected to dehy dration in the form of a mat or foam . 
+Foaming agent we use G lycerol Monostearate , egg albumin , groundnut , protein isolate . 
+So, rate of drying in this process is  comparatively very high , because of an  enormous 
+increase in the liquid gas interface . Because , since we are creating foa m so, there is 
+enough surface area available for the air to dry the material and the product quality is 
+also very good in this case . (Refer Slide Time: 25:54 ) 
+ 
+Fluidized bed drying , this the product pieces are suspended in a heate d area throughout 
+the time  required for the drying . So, this arrangement is done basically to increase the 
+area of contact between the air and the product to in to be increase . So, that the product 
+will be in a fluidized state and air  should pass t hrough all the pore spaces available  
+through the product . And, by that the drying will be fast and the quality of the product 
+will also be good . 
+Because  it is not that from  one side only it is getting the heat and the charring effect or 
+the heat induced dama ges happen  in the lower section and the upper  section is quite good 
+and the drying rate is very slow at the upper section . So, in those kinds  of phenomena , 
+we want to avoid this utilizing  the fluidized bed drying . And therefore, it results in 
+uniform and ra pid drying mechanism . It can be applied to particulate  solid non sticky 
+food with a particle size within the range of  0.05 to 10 mm depending on the density . 
+So, when the bottom the hot gas hot flue gases coming and then  it is a perforated a 
+perforated tra y is there on , which the product is  kept and through those perforations  the 
+hot air is coming . Then we can we can continuously fill the  wet material from  one side 
+and the dry material we can take out from the other side . (Refer Slide Time: 27:27 ) 
+ 
+Puff drying , this process is accomplished by exposing a relatively small piece of product 
+to high pressure and high temperature for a short time . And, after which the product is 
+moved to atmospheric pressure . So, the products produced by the puff drying  have  very 
+high porosity with rapid rehydration characteristics . 
+So, we are exposing into high pressure and high temperature for a short time after which 
+the product is moved to atmospheric pressure . So, maybe because of this sudden release 
+of the pressure ther e is expansion in the volume may happen to the product . And, 
+because of that lot many pores  generated and the product quality is improved . (Refer Slide Time: 28:17 ) 
+ 
+Osmotic dehydration , this is used for partial removal of the water from plant tissue by 
+immersion in a hypotonic solution . So that means, if the concentration of the solution in 
+which we are dipping  the food material is higher than the food . So, the moisture from the 
+food will  go to the sol ution . So, this is  how the osmoti c dehydration happens . High 
+retention of the vitamin and minerals by this method because there is no change in the 
+temperature level . So, we need not to expose the food to high temperature . So, that is  
+why the vitamin and minerals and the color fl avor taste all will retain  in the food . 
+And, osmotic dehydration the solute used is generally sugar syrup with fruit slices or 
+cubes and salt or brine with vegetable . This is done  because there is a chance that while 
+doing the  osmotic dehydration this is a two way transfer . So, as the moisture  is moving 
+out of out of the food material o r the cell of the food to the hypertonic solution . 
+Similarly , the solute of that solution may enter into the food matrix . 
+So, therefore, we need to use such produ cts that if they come into the  in the product also 
+the product will be in good quality and condition . And, that is  why there also  one can 
+think of doing optimization  that, how much  how much  transfer of salt or sugar in the 
+product is allowable . 
+So, these are some  kind of  osmotically dehydrated  fruits and vegetables these are 
+available in the in the market also , like for the  Amla, Papaya and some raisins  
+pineapples , mango , all such slices have been dried using the osmotic dehydration . So, the color  and flavor  will be intact little bit change in the salt and sugar concentration may 
+happen . 
+(Refer Slide Time: 30:27 ) 
+ 
+Rotary dryer s, this is consists of a metal cylinder with inlet flight . So, the feed is entering 
+from  one end and the p roduct is  you know passing from the from the bottom side . It will 
+move along with the movement of this rotary dryer to the other section . And, the air  is 
+also entered  from the in let section airflow will be utilized  to dry the material , and from  
+the exhaust section the air is going out and the dried product will be collected . 
+So, in the in this case the cylinder we kept slightly inclined . So, it will help in the better 
+passage  or flow of the product . And, the material is fed in the  high end  discharge at the 
+low end . Hot air is blown in a co  current or countercurrent direction , we can provide this 
+and there  are flights to proper you know circu lation of the produc t inside the rotary 
+dryer . (Refer Slide Time: 31:42 ) 
+ 
+In the drum drying w hat happens that the horizontal metal cylinder  is heated by steam 
+condensing inside right , and the outside  the layer of the dried  product is getting 
+deposited . So, as drum is rotating the feed is stick to the wall of the drum and as it rotates 
+and it the product is coming to the other end there is a knife attach at this end .  
+So, that is scratching out all the material that has been stick to the surface  and it is 
+collected  by another  conveying system . Also, here also after collecting that we can grind  
+those material i f needed and all this heat transfer is by conduction mechanism as we have  
+already mentioned that drum is operating on a  conduction heat tra nsfer mechanism . 
+So, all the steam is giving the heat that is conducted through the metal wall of the drum 
+and coming to the product giving the required  heat for the moisture  evaporation and the  
+material is get dried . So, temperature of the cylinder wall  is generally  120 to 155 °C 
+vacuum is applied to highly heat sensitive material . So, that you know it can be dried at a 
+lower temperature ; tomato puree , milk, skim milk , whey , beef broth , yeast , coffee , and 
+malt extract all these things  can be dri ed by this mechanism . (Refer Slide Time: 33:26 ) 
+ 
+In the drum dryer  we can have single and double drum feeding  method . So, roll feeding , 
+nip feeding , or dipping method spr aying, and splashing different kind of method maybe 
+there . 
+So, we can see that the discharge mechanism here the feed is here  that we can give by  on 
+the surface of the product . So, here the two roles are moving in opposite direction . So, 
+these  are the different arrangements . These  are dip method that we have just now  
+discussed. So, here those two are moving in the direction of  one another and in the dip 
+method , this is moving in opposite direction . So, any kind of  method can be there . (Refer Slide Time: 34:24 ) 
+ 
+Spray drying , which is again very important drying mechanism in  which we first 
+partially concentrate the liquid matrix and then , we enter into  drying chamber . It is 
+consists of a drying chamber atomizer through , which very fine and minute particle of 
+the liquid drop let us , we deve lop and then it is  release in the chamber . 
+There is a feed pump which control the liquid flow rate , there is a cyclone  separator and 
+also there is a  system of  air spring in here . So, heated air we pass through there is a twin 
+screw kind o f nozzle from  one nozzle the air stream is entering or release in the in the 
+chamber and the other , the droplet are introduced in the chamber . 
+So, here the inlet air temperature is 200 to 250 C° drying of the liquid food products i s 
+generally perform in spray drying . Because , then that only we can make  atomize  here 
+production of the milk and whey powder , coffee  creamer ,cheese powder , instant coffee 
+and tea that we can develop . Spray  drying  mechanism is done basically on the  on the 
+principle of that adiabatic saturation . And, the condition in the drying chamber is such 
+that the particle when released from the atomizer will be exposed to the heated a ir 
+condition  200 to 250 °C. 
+And, instantly getting dried  so, the moisture  will evaporate and the particle will come to 
+the you know  downward . So, before hitting the wall it should be completely dry . So, that 
+it would not  stick to the wall and will come to the bottom and through the cyclone 
+separator it can be  collected and separated . So, the drying is very fast air and therefore, the heat sensitive material  is used in  the 
+spray drying , it is one of the most practice method in the specially the  milk powder  
+drying industry or some case the the fruit pulp powder also can be used , but there is a 
+problem that because of because those material develop  a stickiness . 
+Those  material s cannot be handled  very efficiently  in spray drying . However, we can g o 
+for other heat se nsitive  drying methods like drum drying or  vacuum drying , where the 
+heat sensitive material can be handle at the end if  require  we can  we can develop the 
+different  different fraction of the powder as per the requirement . 
+So, this is all about the  drying  technology , we will stop here and definitely we will take 
+question if  anyone of you have any questions . So, we will definitely address them so . 
+Thank you . 

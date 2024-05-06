@@ -1,0 +1,222 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 15 
+Thermal Processing and Kinetics of Microbial Death (Contd.)  
+ 
+Hello everyone , welcome to the  NPTEL online certification course on Fundamentals of 
+Food Process E ngineering . Today  this is our last class of chapter 3 that is Thermal 
+Processing and Kinetics of M icrobial  Death. So, we have discussed about  the therma l 
+destruction curve and mic robial survival curve  D value  z value and also certain  problem  
+we have done . 
+(Refer Slide Time: 00:54)  
+ 
+Today  we will continue  with some more topics  in that . So, first is spoilage probability . 
+So, you know spoilage  probability is very important , whenev er we want to process  set of 
+cans or any food material , because we  want to make the probability always  < 1, because 
+if it is 1  that means, there is a chance of contamination . So, we always want to lower it 
+from the  absolute value . So, we can  calculate  in this manner that  if n1 and n 2 are the 
+initial and final number of  viable  microorganism  per container respectively . So, number 
+of container s in the batch is ‘r’. So, then we can write it as F that is the  process time, D is the decimal reduction time at 
+that temperature .  
+F=D log rn1
+rn2  
+  
+So, we can write in this way  so the number of container  in batch if it is  ‘r’. So, out of r 
+what is the probability of spoilage of can? So, what is the number of can that may be 
+spoil  after this treatment as  well so that we need to find . Now if the objective is to reduce 
+the population to single organism per batch . r×n2 is the final  microbial load in each 
+batch. r  contai ner in each batch and in each container there are n2 number of 
+microorganism . So, to a single organism per  batch indicates r×n2 =1. So, putting r×n2 =1 
+in above  equation we can get : 
+F=D log(rn1) 
+So, from here if we calculate  1/r that indicates the chances  of one container spoilage out 
+of all  r right . So that means finally, we want to calculate  1/r; that means, the chances of 
+spoilage of one can out of the r number of cans . 
+1
+r=n1
+10F
+D 
+(Refer Slide Time: 04:42)  
+ 
+So, if we take one example on that , estimate the spoilage probability at the end of a 
+process in which an initial microbial population of 2 × 105 organisms per container  is subjected to heating at 118◦C for 45 min. The decimal reduction time for the organism is 
+D118 = 3.5 min.  
+So, we need to find the spoilage probability that is  1/r. an initial population of  2 × 105 
+organisms per container  this is n1. F118 that is  the process time is given 45 minute . So, we 
+are giving a processing  to those containers for 45 minutes at  118 °C, D118 is 3.5 minute . 
+So, what will be the final  microbia l load ? So F/D is sterilizatio n value  that is 12.857.   
+1
+r=n1
+10F
+D 
+  
+r value we got is 3.6 × 107 that means, 1 micro -organism is present in 3.6 × 107 
+containers . So, the probability is very low 3.6 × 107 containers . So, there is a chance tha t 
+1 microorganism in  those  containers may be alive that can  cause the contamination . So, 
+the probability is very very low . 
+(Refer Slide Time: 07:31)  
+ 
+So, then sterilization value  and lethality of a process ; sterilization value  we are 
+discussing since  the last class i.e. S = number of decimal reduction = log(N 0/N)  
+In a constant temperature process, S and F values can be easily converted between each 
+other .   
+S=DT
+FT F0 value is a measure  of the sterilizing value  of a process . 
+Now, it can be thought of as  time required at a temperatu re of 121 °C to reduce the 
+microbial number by the same amount as the actual process be ing considered . So,  F0 
+value it is thought of  as the time required at a temperature of  121 °C because this is our 
+reference temperature  in a Celsius scale . So, at 121 °C to reduce the microbial number  by 
+the same amount as the  actual process  is bein g considered for example, let us say 114 °C 
+and the process time we have calculated . So, we want to calculate that F0 value ; that 
+means, what is the time required to proc ess it towards  the same microbial destruction at  
+121 °C. 
+(Refer Slide Time: 09:02)  
+ 
+And what is lethality factor or L value ? It is defined as the time at 121.1 °C which i s 
+equivalent in sterilizing value to one  minute at some other temperature . 
+That means if we  want to  destroy the number of micr o organism at  any temperature  in 
+such a ratio i.e. log of  (N0/N). So, that the process time at that tem perature is 1 minute 
+only, so the same  microbial destruction if we want to cause at  121 °C. So, this time 
+required at  121 °C will be term ed as lethality factor . So, FT/F0; FT is the process time  at 
+any other temperatur e. L-value can be  expressed as  FT
+F0=L=[10]T0−TT
+z Where , T0 is the  reference  temperature  TT is the temperature at which the processing has  
+been done for 1 minute , and z is the  temperature dependence of that particular micro  
+organism . 
+So, an example is th at A product is held at a temperature of 118°C for a period of 12 
+minutes. Ignoring other heating and cooling periods, what is the F o value of this process? 
+So, considering held at a temperat ure. That means this is only the holding time we know 
+that for any kind of heat treatment  we need to first  heat it then we try to maintain that at a 
+particular  temperature s during holding  period . And then, gradually it is being cool ed. So, 
+here i gnoring th e heating and cooling period we want to  focus on only the ho lding period 
+i.e. at 118 °C for 12 minute we need to find the  F0 value for this process . 
+So, the lethality value for  118 °C will be 0.490 . So, we can calculate the  L value . L value 
+is 0.490 that is each minute at  118 °C contribute to 0.490  minute to the F0 value . F0 value 
+means the processing is done at  121 °C. Therefore, the F0 value of this process  will be  
+12×0.490 that is  5.9 minute  ok. So, if this  product is held at a temperature of  118 °C for a 
+period  of 12 minute  and if we want to do the  same processing same destruction of  
+microbes at  121 °C that is our reference temperature as  Celsius scale we need  5.9 
+minutes . 
+(Refer Sli de Time: 12:31)  
+ Now, coming to the general method for process calculation : in a real retort processes , the 
+temperature of the product is not constant . We have mentioned that it first follow the 
+unsteady state heat transfer , the temperature that is being given to the food material is 
+first increase the temperature to the  required temperature  of the processing . 
+Then it is to be hold  or maintaine d at that condition for certain period and then gradually 
+it cools down  ok. So, to calculate th e F0 value of such  process , the contribution of the 
+varying temperature must b e converted to the equivalent  F0 value . That means, if you 
+know the process is being  gone through various temperature . And then we want to 
+convert it  to F0 value  so, what that all temperature ti me combination will  mean or they 
+will contribute to the  F0 value . 
+So, individually at each temperature we want to calculate them , and then we need to sum 
+up them to get the final  F0 value . So, this is achieved by  based on the  L value i.e. 
+lethalit y value . So, graphical and numerical integration bo th methods  can be used to 
+calculation of this lethalit y value . 
+(Refer Slide Time: 14:08)  
+ 
+First we wi ll see the graphical method . So, what we do is first we will draw a graph of 
+the product temperature ver sus time . Now this temperature will be  changing with respect 
+to time as initially heating then holding and then the cooling period will be there . So, it 
+will change with time . So, after that we will calculate the  L value for each temperature . So, lethality value that is one  minute processing at that temperature , will be equivalent to  
+lethality value  at 121 °C so, that we will calculate first  and plotting the lethal rate against 
+time. So, then we can produce this kind of a plot where we have plotted the lethal rate in  
+y axis and the time in minute in the x axis. And then calculating  the area under this curve  
+we can find the total  process calculation or the total process time or  F0 value . 
+(Refer Slide Time: 15:40)  
+ 
+Now, since the  graphical method is very tedious . So, the easy method for this  calculation 
+process  in case of this unsteady  heat treatment method is numerical  integration method . 
+So, what  we do is , lethality is computed by multiply ing the lethal rate by the time 
+interval . 
+So, we take very small small time interval , and lethality the average lethality  at each 
+temperature , each time  combination  is been multiplied with that  to get the accu mulated 
+lethality during the entire heating and cooling . i.e.  
+lethality  =F0= L dt= 10T−T0
+z dtt
+0 
+𝐹0= 𝐿∇𝑡𝑡
+0 
+(Refer Slide Time: 17:05)   
+Process  calcul ation for commercial sterilization . 
+Ideally the temperature if we  look into  the profile of temperature , we know that it has to 
+start from  a certain product temperature and as the heating continu es it should increase . 
+Then, at the start of the  holding it sh ould maintain that particular temperature  TM at 
+which the processing should be  done ideally . And then, it lowers again to cool it . 
+However , the actual product temperature may deviat e from that basically the center  
+temperat ure, which is the slowest heating  point . For example, if you are dealing with  the 
+can then the center  axis of that can  may achieve  the heat very slowly . So, that is the 
+farthest point where the heat  may reach at  a later time and then the center point may be 
+shown by this kind of a curve . 
+Where the surface may attain  the temperature of the  processing , but the center may attain  
+it at a later period of time or may  not fully attain  it may be slightly lower than that . So, 
+the tem perature of the slowest heating point does  not reach to TM. So, the operat or time t p 
+is basically the difference between the ti me at the end of product heating , that is  here we 
+have stopped heating  up to this point and then we have started holding . So, from here to 
+when the retor t reaches a stable heat ing medium temperature ; that means, when the 
+product core that is our slow est heating point has reach the  stable temperature let us say 
+as this section . So, that tim e is called the operator time t p. 
+Now beyond that when it attains it can  again start de creasing or lowering  that depends on 
+the condition  to condition . (Refer Slide Time: 19:33)  
+ 
+So, example that  D121 =1.1 minute,  z value  = 11°C ,  Initial count =105 /g, and the largest 
+container to be used is 1000 g. spoilage probability at the end one container per 10,000. 
+Temperatures at selected points in the process are as follows:  Calculate minimum 
+holding time to achieve desired result . 
+First heating  is being done , then holding , then cooling . Heating it has started from  0.5 
+second the temperature has reached to 104 °C, and then temperature  at 1.3 second is 
+111°C like that  when it is being done at 6.5 second it is  138 °C. When it reaches to the 
+holding section 8.3 second and till  it is it is hold up to  12.3 second  the temp erature is 
+maintained here at 140 °C, then cooling start from  12.9 second  and goes up  to 16.2 
+second where th e temperatu re has reduced to 106 °C. 
+So, calculate the minimum holding time to a chieve the  desired result . That means, the 
+probability at the end of  one container per 10000  container , and als o each container is 
+having  1000  gram product . (Refer Slide Time: 21:35)  
+ 
+So, what we  need to do first we calculate N0. So, N0 is 1000  gram and initial load  is 105. 
+So, initial load per container is  108. Now the final  microbial  population expected is  
+1/10000  or 10-4. 
+Sterilizing value = log (108/10-4) = 12  
+ So, basically  12 log cycle reduction  we want . Now F value at  121.1 °C is S×D121.1. Then  
+we need to find out lethal rate .  
+lethal  rate (LR)=[10]T−140
+z 
+The maximum lethality that will be offered in  the holding section  is 140 °C. So, lethal 
+rate we  need to find . Now if we want to plot it starting from  the midpoint of the can of 
+each can , the midpoint we want to measure first , that with increasing time in second what 
+is the condition of the midpoint . And based on that using above  equation  we will 
+calculate the lethal rate first . So, we can see that at 7.8 it has reach ed to the temperature 
+of the midpoint  139.4  °C and then  it has been constant or held at this temperature . So, 7.8 
+to 8.8, 9.8, 10.8 to 11.8. 
+So, till 4 second it has been hold  at this condition  and if we consider the total processing 
+time starting from the heating to the cooling . So, the total lethality  if we  try to find we 
+are getting that F140 is 6.505  second . So, this total has been done at  different temperature 
+we have converted them all to the  lethality of with respect to the 140 °C. So, this is coming 6.505 second  if we you know calculate them all . If we calculate the m all the  total 
+we will get the  value as 6.505  second  using this equation of lethal  rate. 
+Now, F121 will be  calculated:  
+ F121=F140[10]T−T0
+z=6.505 ×[10]140−121
+11 =347  s=5.79 minutes  
+So, we have seen that 13.2 minute was given as F121 right . So, 13.2 minute  is being given 
+and he re the additional 7.41 minute at  121 °C is st ill required.  So, F140 the process time 
+for 7.41 minute at 120 °C will be : 
+F140=F121[10]121−140
+11 =7.41×0.0187 =0.139 minutes  
+So, what we have done ? Then first lethal rate we have calculated total lethal  rate at  140 
+°C than this much lethal rate will be e quiva lent to how much in the  121 °C. So, that is 
+coming 347 second , but the F121 for 12D inactiva tion has come 13.2 minutes . So, then 
+the remaining  7.41 minute at  121 °C we need to  provide to the product he at treatment  for 
+this much time . Now this  121 °C temperature exposure for  7.41 minute is equivalent to  
+0.139  minute at  140 °C. So, total t ime will be total time will be 4 second that we have  
+hold it  plus 8.31 second that  we are getting from here ok. 
+Then  we are getting that  this is that time required for h olding at this temperature of F140 
+to ach ieve the destruction of  12 log cycle for this particular micro  organism . 
+So, we will stop here  chapter three  has been completed and we have  given  the reference 
+in our course outline . However , I would like mention that we  have referred  the book of 
+Toledo  for this section of the micro bial death kinetics  and also the Zeki berk and PG 
+Smith. So, you can refer those problems has been taken f rom there , and there  are lot 
+many  exam ple problems and  problems in the  reference is also given . And we will also 
+provide you some sets of  numerical  that you have to s ubmit as assignments . 
+Thank you . 

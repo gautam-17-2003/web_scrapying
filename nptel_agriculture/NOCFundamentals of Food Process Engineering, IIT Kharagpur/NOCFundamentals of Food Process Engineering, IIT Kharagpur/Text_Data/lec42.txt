@@ -1,0 +1,247 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 42 
+Mechanical Sep aration Techniques  (Contd. ) 
+ 
+Hello, everyone . Welcome to NPTEL online certifi cation course on Fundamentals of 
+Food Process Engineering . In the last class , we have started the chapter on Mechanical 
+Separation Technique , today we will continue  in that . So, mechanical separation 
+technique deals with the separation of different  phases of the material  by the use of some 
+mechanical force . And it has a difference with the  separation based on the size that we 
+did in screening or with the membrane separation  where the selected  permission is takes 
+place normally . So, in that mechanical separa tion we have  discussed in the last class and 
+today we will continue with the  topics first that is filtration . 
+Filtration has enormous used in  food processing  industry many methods for example,  
+filtration of juice , different kind of slurry  and although  this kind of filtration when we 
+use a slurry and we want to separate it from the solid and the liquid part . So, based on the 
+requirement sometime the slurry is important , sometime the liquid which is  after filtering 
+we are getting that is important or sometime s both are important . 
+(Refer Slide Time: 01:48 ) 
+ 
+So, filtration may be defined as the separation of solid from liquid by passing through a  permeable  medium . So, we can  see how the arrangement look like . This is the  frame is 
+there or support is there for f ilter medium and there is a filter medium this one , this one 
+is the filter medium . And as the slurry comes over the filter medium  the liquid will 
+filtered through it through the filter medium and the slurry will be deposited on the  top of 
+the filter medium  and as time will continue the deposition of slurry will , deposition of 
+cake will increase  and because of that  the pressure differential will also change . 
+So, initially since the  there was no deposition  so, filter rate of filtration was very high 
+and as th e deposition increases , so, the rate will further lower . So, therefore,  with time 
+we need to remove the  filter cake  that is  being deposited on the filter medium . 
+The suspension of solid and the liquid to be filtered is known as the slurry  and the filter 
+medium used to retain the solid that is in the form of cake . So, the valuable stream for 
+the filter maybe the fluid or the solid or both and the driving force  across the filter 
+medium and the cake is basically responsible for the filtration process  to occur . 
+(Refer Slide Time: 03:47 ) 
+ 
+So, next we will see  that rate of filtration which is  actually the most important parameter 
+for us who wants to  know the  process or want to design any process . So, the rate of 
+filtration should be  maintained properly  the fluid passes through filter medium which 
+offers resistance to  its passage , under the influence of a force which is the pressure 
+differential across the filter . So, to cause the rate of  filtration  we need driving force 
+divided by resistance . So, if the driving force increases . So, rate of filtration will increase and if the resistance increases driving  rate of filtration will decrease . 
+Resistance arises from the filter cloth or mesh or filter bed and to this the added 
+resistance occur because of the depo sition of the cake . Filter cake resistance is obtained 
+by multiplying the specific resistance of the filter cake that is the resistance per unit 
+thickness  because as the deposition of cake increases  so, it offers resistance  in a higher 
+scale  from the initi al condition . So, if we know the specific cake resistance we can 
+analyse better that how it going to affect  the rate of filtration . 
+(Refer Slide Time: 05:22 ) 
+ 
+Now, coming to the theory of filtration , that is what is the mechanism behind  filtration . 
+So, here we will assume that with start of the filtration if we continue it for a time , let us 
+say t second  then the deposition of cake will occur and the length of that deposition let us 
+say L meter . 
+So, in that we have taken a section a very small section  of having length d L in the cake  
+across the area A of the of the filter medium . So, the slurry is  coming and it is  you know 
+flowing  in a cross flow situation as we have taken . So, deposition of slurry will be more 
+in this case . So, in that deposition which has occurred in time t second we have taken a 
+small section d L across the area A in m2 and also we want to  interested in the  calculation 
+of the linear velocity of the filtrate which is here V m/s, linear velocity . 
+Now, with that we will start  calculating the c ase for a for pressure drop across the  filter cake. Now , for that we will start from the approach that we normally take when we try to 
+analyse any pipe flow . So, when we want to analyse pipe flow for any fluid in laminar 
+condition , and in that we want to h ave a distance  pressure drop across a distance Δ L. So, 
+then we use Hagen –Poiseuille  equation for laminar flow  in case of a pipe and there we 
+use there we try to make a relation between the pressure drop ΔL which is  P1 - P2, 
+pressure drop with the diameter of the pipe and the velocity of the fluid  and also the 
+viscosity of the fluid . 
+So, similarly  here what we will do is we try to first  you know equate this with that 
+particular case that is ΔL across the length  L that is  equal to 32 μv by D2 which is 
+Hagen –Poiseuille  law. So, the basis is first this law , then what we assume that is instead 
+of flowing a fluid through the whole pipe if we fill it with fill it with the  particle of  
+similar  dimension  and pack it completely if you pack this completely and we assume that 
+there is a  we assume that the pores  betw een them will frame like a channel linear channel  
+and through that we want to  flow the fluid and also we want to measure that if the 
+laminar flow prevails then what will be the pressure drop . 
+So, this kind of analysis  you will  read in transport phenomena  when you try to analyse 
+the porous media flow etcetera . So, from that concept we will try to  relate this pressure 
+drop for the  filter cake . 
+(Refer Slide Time: 09:28 ) 
+ 
+So, now,  if we will relate it  by this equation  v =
+  
+dv/dt  =  small amount of  liquid which has been filtered in time dt  
+A = cross sectional area . So, this will give us the idea of linear velocity . 
+(Refer Slide Time: 09:55 ) 
+ 
+So, then what we will do is , now the velocity through a packed bed that has been given 
+by the Carman -kozeny  equation as  I mentioned that when you deal the porous media 
+flow you will get to know this equation Carman -kozeny equation and Blake-Kozney 
+equation . So, there are different equation which relates the  pressure drop across the 
+length of  L in a porous media  and the velocity , also if this equations has been developed 
+for laminar flow as well as for the turbulent flow . 
+Here we will use the equation for the laminar flow  and the relation is such that  
+ 
+We consider the cake as the as the packed bed  
+  = the pressure drop across the  bed, or cake  
+ L is the length that has been deposited  So, this parameters are  k1 is the constant whose value generally taken as 4.17 for random 
+particles of definite size and shape . μ is the viscosity of the filtrate in Pascal s.  
+V = linear velocity based on filter area in m/s = 
+  
+ε= is void fraction or porosity of the cake .  
+L = thickness of the cake in meter , S0 is the specific surface area of particle in m2 of the 
+particle area  /m3.  
+ = pressure drop in the cake in N/ m2 or Pascal . So, this is the relation now we try to 
+relate this with other equation that we can derive from the particular case where  the 
+figure we have drawn that the deposition of the cake and the filtrate . So, relating those 
+equa tion we will try to get some idea of the pressure drop across the cake . 
+(Refer Slide Time: 12:47 ) 
+ 
+So, how we can  develop that first we have seen that what will be the flow of fluid 
+through that ; that means, about the  filtrate that has been passed through . Now, we try to  
+establish a material balance to get some idea then how the deposition of cake has 
+occurred .So, for that a material balance through the filter cake we have developed  that is  
+you know  L is the length of the  cake. So, if I draw the figure her e, this is the filtered 
+medium , and in that  L is the length of that deposition , this area is A, this is the whole 
+area of the cake  and there is a porosity that is ε.   
+So, ε is the void through which the liquid will pass . 
+If c s multiplied at the right side  and in left side  here ρp, where ρp is the density of the  
+cake that has been deposited and c s is the kg of the solid per  meter cube of the filtrate . 
+So, then we will get this  material balance . 
+So, the length of  L × cross sectional  area that is the V (1-ε) that is giving the cake which 
+is there into density that is the mass of deposition of the cake will be equal to the volume 
+that has been passed through because t his volume also contain c  s kg/m3 of the solid 
+material . So, this volume plus the volume which is  you know retaining the cake in the  
+pores  
+   . So, this is the idea that we are  getting from the mass balance . 
+Now, using this equation  and the pre vious equation where we have  got the , you know 
+Blake-Kozeny equation relating the pressure drop with the length and  other parameter . 
+So, with this equation  we are getting this final equation  
+ 
+which is  
+   = v 
+-ΔPc = pressure drop across this cake  
+So, what we have did , what we have done is that we have replace d this L from above 
+equation  and from the previous equation ( Blake-Kozeny equation ) we have replaced  L 
+and then we have tried to express  this in terms of v , which is the linear velocity . So, then 
+we are getting this equation . So, all the parameter k 1, ε, S0, μ that we have expressed c s, , 
+A,  ρp. 
+Now, this equation can be further represented as Δ Pc / Resistance .  
+Δ Pc the driving force .  So, resistance  =
+    . 
+k 1 specifically for the bed of particle or the size of the particle if they are uniform .  
+So, based on that cake property only porosity also of the property  for cake only , ρ p is the 
+density of the cake , S0 is the specific sur face area of the particle  per unit volume . So, all 
+these represent the property of the cake specifically . Therefore, we have  combin ing 
+express this in terms of α and call it specific cake resistance , multiplied with μ that is the 
+property of the filtrate t hat is going out  
+c s that is kg of solid per meter cube of the filtrate into volume V by A. 
+So, this is how we can express this as driving force  by resistance . So, therefore, we have 
+taken all these factor as alpha  
+ 
+And  
+  
+  
+So, this is reducing in that way we have kept minus sign by R which is the resistance . 
+(Refer Slide Time: 19:23 ) 
+ Now, for the filter medium resistance what we can write ? We have seen now then how 
+filter cake resistance can be form ed, but definitely some resi stance will be provided by 
+the filter medium as well . So, for that what we will do is  we use a factor R m.  
+Similarly, we have calculated for the filter medium resistance as dV/ dt /A. Similarly , 
+because that linear velocity we assume that will be fixed fr om the cake also and as well 
+as for the filter medium as well . So, that will be instead of ΔPc now ΔPf 
+ 
+So, μ is the viscosity and Rm is the resistance of the filter medium to filtrate the flow in 
+per meter  and this includes the resistance to flow of the piping leads to and from the filter 
+and the filter medium resistance , ΔPf is the total pres sure drop across it . 
+Now, since the resistance of the cake and the filter medium are in series because the 
+slurry is coming into first the deposition of the cake is there , then there is the filter 
+medium is there , and then the  clear liquid is going out . So, they are in series , so, we can 
+club those two pressure ΔPc and ΔPf to find the total pressure drop across it . 
+ 
+ 
+ (Refer Slide Time: 22:06 ) 
+ Now, filter cake compressibility  so, all the cake formation that is deposited on the  
+surface on the on the  above of that medium and depositing in the form of a cake. So, that 
+maybe sometime compressible as well also most of the cases we take it as 
+incompressible , but we can find the factor of compressibility . So, what is that  with some 
+filter cake the specific cake resistance that is α we have taken varies with the press ure 
+drop across it . So, this is because the cake becomes denser under the higher pressure and  
+so, provides fewer and smaller passage for flow . That means, the pressure drop  and 
+porosity has a relation and the packing is more  mean s pressure is more . So, the porosity 
+will be  changing  and the effect is spoken as the compressibility of the cake because when 
+the pores  are small  that means it has the compressibility is there . 
+So, it is usually possible to express the voidage e  z at a depth of z . So, at a depth of  z in 
+the cake if we take a d  z sections , so, what will be the porosity . So, that will be a function 
+of the pressure drop from the  top phase where the slurries coming into the z depth what 
+is the pressure at the z depth . So, based on that, this porosity wi ll be varying . 
+So, therefore, we can define 
+  
+ (Refer Slide Time: 24:08 ) 
+ 
+Now, also if you look into the expression  of the α that we h ave related with the constant 
+k1 with the porosity which the  density of the cake  so, all the parameters were there . So, 
+here α is the specific cake resistance  under the pressure  P, Δ P is the pressure drop across 
+the filter , α0 is the specific r esistance of the cake under the pressure drop  of 1 atmosphere , and s is the constant for the material call the compressibility . So, here when 
+the s relate the compressibility  that means, s can be change for a different kind of a 
+pressure . So, the value of s can be change if it is the compressible cake . 
+So, from the equation that we have developed for the specific cake resistance we have 
+seen that α has a relation that is α = f (ε,S0 ,ΔP) 
+S0 = specific surface area = surface area of the particle per unit  volume of the particle  
+If ΔP changes porosity changes and for that α is also change . So, this is the factor . 
+So, constant pressure experiments at v arious pressure drop develop the relation between 
+α and ΔP. So, if you want try to get an idea then how Δp is going to effect the specific 
+cake resistance , then what we need to do at different constant pressure we need to 
+perform the  filtration operation a nd then we need to see that what is the  value of this  
+resistance coming . So, constant pressure experiment at various pressure drop and thereby 
+we can develop a relation between  α and ΔP.  
+So, if α is coming independent of (-ΔP) that is pressure drop the sl udge is incompressible  
+and usually α increases with ΔP, specific cake resistance increases with  increase in ΔP 
+since , most of the cake are somewhat compressible and empirical equation of ten, we use 
+that is   
+ . 
+ The compressibility constant s is  0 for incompressible sludge or cake  and the constant s 
+usually falls between  0.1 to 0.8, for the incompressible cakes . (Refer Slide Time: 27:20 ) 
+ 
+Factors affecting the rate of filtration .  
+So, the rate of filtration is proportional to the pressure differ ence across both the filter 
+medium and the filter cake . So, the pressure drop can be achieved in a number of ways 
+first one is gravity , where a pressure difference could be obtained by maintaining a head 
+of slurry above the filter medium  and depend on the density of the slurry . 
+Another method is by vacuum the pressure below the filter medium may be reduced 
+below atmospheric pressure by connecting the filtrate receiver to a vacuum pump . So, 
+thereby we can create the pressure drop and third thing is centrifug al force . The 
+gravitational force could be replaced by centrifugal force in particle separation . So, all 
+three  forces are huge in different kind of  filtration mechanism to cause the pressure drop . (Refer Slide Time: 28:36 ) 
+ 
+And, another thing that is the rate of  the area of filtering surface that has an effect on  rate 
+of filtration  and the another important parameter is the viscosity of the filtrate . So, 
+normal assumption is that it increase in the viscosity  of the filtrate  the resistance of the 
+flow will also increase , and increase in the viscosity of the filtrate will increase the 
+resistance of flow . Obviously, because if it is a thick viscous liquid , it will not flow  so 
+easily , so that the rate of filtration is inversely proportional to the viscosity of the fluid;  
+so, that is  why rate of filtration is inversely proportional . So, if viscosity increasing rate 
+will decrease . 
+Probable solution - By raising the temperature of the liquid t he rate of filtration may  be 
+increase . Now, in a practical case we should keep in mind that if we raise the 
+temperature whether  any heat sensitive compound will degrade or it will  it can handle 
+the filter  medium that we are using . So, looking into all that  we can apply either point 
+one. 
+Second is dilution is another alternatives . So, in the case where we  can not apply 
+temperature we can go for dilution of the slurry . So, in that it will  have the  effect in the 
+rate filtration . Another point is the resistance  of the filter cake . So, definitely resistance  
+will going to affect the rate and the resistance from the filter medium and initial layers of 
+cake. So, this will also have effect on the  factors . So, we will stop here  and we will 
+continue in the next class .  Thank you . 

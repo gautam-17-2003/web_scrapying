@@ -1,0 +1,179 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology  Kharagpur  
+Lecture  16  
+Tractive  Effort  and Slip of a Track  
+Hi everyone,  this is Professor  H. Raheman  from  Agricultur al and Food Engineering  
+Department , IIT Kharagpur.  I welcome  you to this NPTEL  online  certification  course  on 
+Traction  Engineering.  This is lecture  16, where  I will try to cover  tractive  effort  and slip for a 
+track .  
+(Refer  Slide  Time:  0:47) 
+ 
+ 
+The concepts  covered  will be again  slip as well as tractive  effort.  As you know , a track  has a 
+bigger  contact  area. I f you look at the figure,  which  is shown  in this slide,  it has a bigger  contact  area. So, the maximum  tractive  force  which  is developed , is denoted  by F max which  
+is equal  to shear  stress , maximum  shear  stress  into area.   
+Now,  when  I say tractive  effort  developed  that means,  it is a component  of shear  stress , shear  
+force  which  is developed  by the contact  patch  and shear  force  is nothing  but the shear  stress  
+which  is developed . And if you know this relationship  between  shear  stress  and shear  
+displacement  then knowing  the displacement , you can find out, what  is the shear  stress  which  
+is developed  and knowing  the contact  area and shear  stress , you  can calculate , what  is the 
+shear  force  which  is developed  in the contact  patch .  
+And the equation  which  is given  here, the maximum  thrust  which  is or tractive  effort  which  is 
+developed , which  will be equal  to contact  area A into shear  stress  tau max. So, in other  
+words,  I can write as A×c + W tanϕ. So, here A is the contact  area, c is the cohesion  and W is 
+the weight  acting  on the track  and ϕ is the angle  of internal  friction . So, if we look at this 
+equation  when  a track  is operated  in sandy  soil, pure sandy  soil, there is no cohesion . So, area 
+has no role, it is the W which  plays  or it is the weight  which  plays  the most  of the things  that 
+means  it controls  the maximum  thrust  which  is developed .  
+Now , if it is a clay soil, then area comes  into picture  and W has no role, but the equation  
+cannot  be applied  for all conditions . It is only giving  you maximum  thrust,  if you are or 
+anybody  is interested  to find, what  is the thrust  developed  along  the contact  patch,  then we 
+have  to know  what  is the shear  displacement  under  the track  at the interface  between  soil and 
+track . So, to predict  the relationship  between  thrust  to tractive  slip, or track  slip, we have  to 
+examine  the development  of shear  displacement  beneath  the track .  
+So, it is very simple  in the sense  because  shear  stress is a function  of shear  displacement . So, 
+you have  to find out what  is the shear  displacement  at the contact  patch.  If you look at the 
+figure,  there  you can see I have  indicated  1, 2, 3, 4, 5, 5 points . One is just at the beginning . 
+Because  this track  is moving  in a direction  which  is given  by this arrow  and this is the 
+power ed wheel  which  is driving  and these  are the rollers  for being  tension . At point  1, point  
+2, point  3, point  4 and point  5. Point  5 is the endpoint , point  1 is the beginning  of shearin g.  
+Now , the shear  displacement  which  is developed  at point  1 and the shear  displacement  which  
+is developed  in subsequent  points  they are not same . Why  it is so? Why there  is a variation  in 
+the shear  displacement ? Because  the link which  is shearing  at point 1 is just coming  in 
+contact  with the soil whereas  the link which  is present , link means  link in the track  which  is present  at point  2 or present  at point  3 or present  at point  4, they are shearing  the soil for a 
+considerable  period  of time.   
+That is why shear  displacement  is more  as you move  towards  the rear end of the track  that 
+means  is the first point  is the beginning  point,  last point  5 is the rear end, front  end, rear end. 
+So, as you move  towards  the rear end, your shear  displacement  is increasing  which is 
+indicated  in this figure . And it reaches  a maximum  value , because  after that there  is no 
+contact , again  the track  will be, the links  will be not in touch  with the soil. So, when  the 
+moment  it leaves  the soil, it comes  to this position , there  is no shear displacement  developed  
+by this link.  
+So, the maximum  which  is developed  is at this point  at the rear end and the minimum  which  
+is developed  is at the front  end. Now , how to find out the shear  displacement ? So, again  we 
+know , what  is the slip velocity ? What is the slip velocity  which  is present ?  
+(Refer  Slide  Time:  6:09) 
+ 
+The slip, we can be defined  as  
+ 
+ω is the angular  speed  of the sprocket  and r is the radius  of the sprocket  which  is driving . So, 
+ωr will give you virtually  the theoretical  speed  which  is denoted  as Vt. So, I can write  as  
+ So, V is the actual  velocity  and the difference  between  theoretical  speed  and slip speed  is 
+denoted  as Vj. So, i can written  as Vj/Vt; where  i is the slip of the track  and ω is the angular  
+speed , V is the actual  velocity  of the track , Vt is the theoretical  speed  of the track  and Vj is 
+the speed  of slip of the track . Then suppose  I am interested  in finding  out shear  displacement  
+at a point  which  is at a distance  x from  the front  end of the contact  area.  
+So, before  that let us know  what  is the slip velocity  Vj? Vj, when  it is acting  opposite  to the 
+directio n of motion,  that means  the track  is slipping, when  it is acting  along  the direction  of 
+motion,  then the track  is skidd ing. So, I have  indicated  here Vj direction  indicated  here the 
+track  movement . So, these  are in opposite  direction,  so, the track  slips.  Now,  Vj does not vary 
+along  the track  length,  since  link cannot  stretch,  so, the track  cannot  stretch . So, that is why 
+we assume  that Vj is not varying , it is constant .  
+So, slip velocity  is constant  below  the track  and Vj is opposite  to the direction  of travel.  Now,  
+if you are interested  in finding  out shear  displacement  at distance  x from  the front  end of the 
+contact  area. So, this is the point  say A now,  which  is at a distance  x. Then,  
+x = Vj×t 
+Vj the slip velocity , t is the time the contact  time. So, now,  t will be equal  to, if t will be equal  
+to, if Vt the theoretical  speed , then  
+ 
+Now,  if you substitute  this expression  in this equation,  then j that is shear  displacement  will 
+be equal  to, 
+ 
+So, that is equal  to Vj/Vt we have  already  expressed  that this is equal  to the slip. So, instead  
+of Vj/Vt, I have  written  i. So, j = i×x which  indicates  that shear  displacement  is a function  of 
+slip, shear  displacement  is a functio n of distance  or the point  under  consideration,  what  is the 
+distance  of this point  from  the front  end. So, if you look at this equation  again  then what  you 
+can observe  is that, this shear  displacement  is linearly  varying  with i. It is varying  from  front  
+to the rear end of the contact  area linearly  and with increase  in slip, its value  is increasing  and 
+that is what  is reflected  in this figure  a 10 percent  slip, 30 percent  slip, 50 percent  slip, 70 
+percent  slip, 100 percent  slip. So, how this displacement  is varying ? So, j is on the y axis. So, this figure  shows  that shear  displacement  is a function  of slip is a function  of distance . Now , 
+suppose  I increase  this distance  to this point,  so, this is the point  B. So, now,  this will be the 
+displacement . If I draw  a vertical  line, this will be the shear  displacement .  
+So, the next question  is what  we will do with shear  displacement ? Once  you calculate  shear  
+displacement  what  next?  So, next is to find out what  is the relationship  between  shear  stress  
+and shear  displa cement  which  is existing .  (Refer  Slide  Time:  11:12 ) 
+ 
+ 
+ So, in nature  what  we have  observed ? There  are 3 categories  of relationship  available , one is 
+for loose  sand, saturated  clay and most  of the disturbed  soils and the other  one is for organic  
+terrai n and the third  one is for a compact  sand, silt and loam . So, you can take either  of these  
+equations  which  can be utilize d to find out, what  is the relationship  between  shear  stress  and 
+shear  displacement . So, once  you finalize  this, then we have  to find out, what  is the shear , 
+thrust  force  developed ? 
+Suppose , for example,  we try to find out, we tried to take the relationship  that is the in loose  
+and a saturated  clay where , relationship ,  
+ 
+ 
+ 
+So, here σ we have  considered  as the normal  stress  which  is acting  on the track  and that is 
+uniform  along  the track , it is not changing . So, if that is the case then thrust  force  will be 
+equal  to, how do you find out thrust  force?  Once  you know  the relationship  for tau.  
+So, we tried to plot tau versus  the displacement  at 10 per cent slip, this will be the curve  and 
+at 50 percent , this will be the curve.  So, like that you will get a series of curves , by varying  
+the slip. Now , if you want  to find out thrust  force  then you have  to find out the area under  this 
+curve . So, area under  this curve  means  you have  to multiply  shear  stress  with the area. So, 
+what  I have  done  is,  
+ 
+Now,  if I integrated  by putting  the relationship  between  τ and τmax then this is the relationship  
+which you are taking . So, this has to be integrated  now. So, what  finally  you will be getting  
+is, if we integrate . So, you will get an expression  for thrust  force  for a loose  soil. For a loose  
+soil what  will be the thrust  force ? Now,  the final expression  for this will be  
+ 
+I can write  as W since  we have  assumed  p = W/bL , assuming  that the pressure  is constant  
+beneath the  track .  So, W is the weight , b is the width  of the track , L is the length  of the track . So, W/bL  will 
+give you what  is the contact  pressure . So, instead  of p, I can write  W/bL . So,  
+ 
+ 
+Now,  if I take L common  out then it will be  
+ 
+This will be the final expression  for thrust . Now , if the rolling  resistance,  then you can find 
+out what  would be the pull developed ?  
+So, pull will be equal  to thrust  minus  rolling  resistance . So, if you want to  find out the 
+tractive  efficiency  then pull by weight  will give you the tractive  efficiency . Pull by weight  
+into 1 minus  s. So,  
+ 
+COT  is P/W by and CRR  is RR/W, motion resistance  by weight.   
+Now,  if you look at this equation,  it is the length  that controls  the thrust  force.  If you have  
+same  contact  area one is having  higher  length  lesser  width, the other  one is having  wider  
+width  lesser  length  than it is the length  of the track  which  controls  the thrust  force , more  the 
+length  more  will be the thrust  force  develo ped.  
+So, in design  you have  to keep  this in mind . Whenever  you got some  area try to keep  more  
+length . So, that you will get more  thrust  force  developed  and since  the length  is more  and 
+contract  area will be same  for both the cases . So, rolling  resistance  will be nearly  same  only 
+the thrust  force  will be more  so, that is why the ultimat e pull will be higher  in case of lengthy  
+track . Next  is, we are talking  about  the distribution , here very nicely  we have  assume d that 
+the pressure  is uniform . So, we have  taken  W/bL . If pressure  is not uniform , what  are the 
+other  possibilities?  So, let us now discuss,  discuss  those  possibilities .  
+(Refer  Slide  Time:  17:48 )  
+So, there  are 1, 2, 3, 4, 5 kinds  of pressure  distribution s. One is uniform  pressure  distribution  
+where  I have  indicated  p = W/bL and if that is the case then this is the thrust  force  developed.  
+Now,  in the other  case,  there  will be sinusoidal  kind of things , now you are getting  some  
+peaks  at regular  intervals,  if n is the number  of peaks,  then p can be the pressure  or the 
+normal  stress  distribution  can be written  as  
+ 
+Thrust  force  will be equal  to this one.  
+ 
+So, it all depends  on what  is the pressure  distribution.   
+Now,  similarly,  when  the pressure  distribution  is minimum  0 at the front  end of the track , 
+maximum  at the rear end of the track , then  
+ 
+If pressure  distribution  is maximum  at the front -end, minimum  at the rear end then  
+ 
+Similarly,  if the pressure  distribution  is gradually  changing , reaching  to a peak , starting  from  
+the front  end and at the rear end, it is again  coming  to 0 then   
+So, on the right  side I have  given  for all these  5 conditions,  what  will be the expression  for 
+tractive  force . These  are all derived  based  on that integratio n where  the pressure  distribution  
+is to be substituted  by this and then you have  to integrate  it and finally,  the expression  is 
+given  here. So, what  do you conclude  from  here is thrust  which  is developed  under  a track  
+depends  on what  is the pressure  distri bution  and it depends  on what  is the shear  stress -shear  
+displacement  relationship . If you can find out this relationship  for different  conditions,  then 
+we can find out what  is the thrust  developed  by integrating  along  the contact  area and then if 
+you know  the shear  stress  we will try to find out the shear  force  by multiplying  with the area.  
+(Refer  Slide  Time:  20:31 ) 
+ 
+  
+So, this is how we will try to find out the tractive  effort  for a track . So, only thing  is one has 
+to know  what  is the pressure  distribu tion and what  is the shear  stress  shear  displacement  
+relationship  then one can find out what  is the thrust  which  will be developed . 

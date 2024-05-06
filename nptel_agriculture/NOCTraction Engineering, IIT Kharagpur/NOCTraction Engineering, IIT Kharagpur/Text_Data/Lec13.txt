@@ -1,0 +1,154 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 13: Motion resistance of a track  
+ 
+  Hi everyone, this is Professor H. R aheman  from Agricultural and Food Engineering 
+Department from IIT Kharagpur.  I welcome you all to this NPTEL certification course 
+on Traction  engineering.  This is lecture 13, where I will try to cover how to find out 
+motion resistance of a track .  Track  and wheel, these are the two important traction  
+systems which are used for developing traction i n case of a tractor or crawler tractor or in 
+case of high HP tractors.  
+ 
+So, the concept will be , how to find out motion resistance of a tr ack? That means , how 
+much fo rce is required to tow this tr ack.  So , the tr ack is basically assumed to be similar 
+to rigid footing and the tr ack, if you look at the right -side figure , there I have indicated a 
+track.  So , it will have certain amount of l ugs, but the l ugs are not that prominent as in 
+case of a wheel. So , it has certain width which is not visible in this diagram.  
+ 
+ So in the cross section , I have given width as B and length as L and it will be carrying 
+certain amount of weight W and there will be rollers to give tension to this tr ack so that 
+during engagement with the soil that means during shearing action which the tr ack is 
+going to create during operation , so, the belt has to be in tension or the tr ack has to be in 
+tension . That is why , we have provided these rolle rs. So here , what we have assumed is , 
+the normal reaction during the interaction process with the soil the reaction will be 
+exerted on the tr ack by the terrain , and here we have assumed that the pressure is uniform 
+throughout the contact . That is an important assumption you can say. And the normal 
+reaction exerted on the tr ack by the terrain can be equated to that beneath a sinkage plate 
+at the same depth in a plate sinkage test. So , this is very important.  
+ 
+So, the normal reaction will be equal to your pre ssure beneath a sinkage plate which is at 
+the same depth as that of the n depth at which the tr ack is moving. So, the assumptions 
+are, the tr ack layer does not tilt in operation . That is number one assumption , and the load 
+on the tr ack is uniformly distributed.  If it is not uniformly distributed then the reaction 
+which you are getting at the soil tr ack interaction surfaces , it may not be uniform. So , that 
+is why we say load on the tr ack is uniformly distributed and the tr ack layer  does not tilt 
+during opera tion. The contact area very simpl e, I have done , this is  the length and this is 
+the width.  
+ Length and width multiplication will give you how much will be the contact area and the 
+force which I have indicated F here , is the thrust force. But we are not interested in 
+developing thrust force . Now we will be discussing about that little later. So , only what 
+we can discuss is , how much is the force required to tow this forward.  So , we know that 
+in a plate at sinkage test  
+𝑝=𝑘 𝑍0𝑛 
+𝑝=𝑊
+𝑏𝑙 
+If plate has to be sunk into a depth of z 0 then pressure at that depth will be equal to  
+𝑍0=(𝑝
+𝑘⁄)1𝑛⁄
+=(𝑊
+𝑏𝑙.𝑘)1𝑛⁄
+ 
+Now P , as you have assumed that the pressure is uniformly distributed that means load is 
+uniformly distributed. So , weight divided by area , that can be denoted as pressure. Now I 
+substitute here , W is the normal load which is acting on the tr ack, then b is the width of 
+the tr ack and l is the length of the tr ack in contact with the soil.  
+ 
+Now , the work which is done in compacting the soil along the tr ack length l and it will 
+make a r ut of width b, because wheel width is B. So , this is your width B which is 
+denoted as B.  So , it will make a r ut in the bottom surface when it is in contact with the 
+soil so that area is equal to B into L.  Now , what will be the work done in making a r ut of 
+depth Z0?   
+𝑊.𝐷.=𝑏𝑙∫𝑝𝑑𝑧𝑍0
+0=𝑏𝑙∫𝑘 𝑧𝑛𝑑𝑧𝑍0
+0=𝑏𝑙 𝑘 𝑍0𝑛+1
+𝑛+1 
+ 
+=𝑏𝑙
+(𝑛+1)𝑘1𝑛⁄ (𝑊
+𝑏𝑙)𝑛+1
+𝑛 
+ 
+This is the work done expression. Now , if I want to tow this tr ack to a distance ‘say L’ in 
+a horizontal direction . And then the work done in towing this tr ack by a force which is 
+called towing force that will be equal in magnitude to the motion resistance due to torque 
+and compaction. So , let me repeat again. If I want to tow this tr ack to a distance L by 
+applying a force which is called towing  force then that towing force will be equal in 
+magnitude to the motion resistance. Why?  Due to compaction of soil.  
+ 
+And, if that is so , then I can write , work done in compacting the soil will be equal to your 
+towing force. Towing force , if you denote it as R , it has to be to wed for a distance l. So,  𝑊.𝐷.=𝑅.𝑙 
+𝑅×𝑙 =𝑏×𝑙
+(𝑛+1)(𝑘𝑐
+𝑏+𝑘∅)1(𝑛)⁄  ×[𝑊
+𝑏𝑙](𝑛+1)𝑛⁄
+ 
+R=𝑏
+(𝑛+1)(𝑘𝑐
+𝑏+𝑘∅)1(𝑛)⁄  × [𝑊
+𝑏𝑙](𝑛+1)𝑛⁄
+ 
+R=1
+(𝑛+1)𝑏1𝑛⁄(𝑘𝑐
+𝑏+𝑘∅)1(𝑛)⁄  ×[𝑊
+𝑙](𝑛+1)𝑛⁄
+ 
+ 
+ 
+So, contact area we have taken as  length of the flat person L 1 × section width. So, W by 
+L2 × B, so, that means more or less they are similar . Then the question arises , which one 
+will give you lesser rolling resistance when they are carrying the same parameters nearly 
+same expressions because P gr(n+1)/n, (W/ BL)(n+1)/n. Then the question arises , which one 
+will give you lesser rolling resistance and why? So, if you think little bit , this BL for 
+track and BL1 for wheel , they are not same. Usually , the tr acks are longer and width of 
+tracks are longer whereas, the section width of wheel or contact length of a flattened 
+portion of the wheel , they are much smaller than the contact length and section width of 
+track.  So , that means , this area of the wheel is , if you denote it as area of wheel and if 
+you denote it as area of tr ack. 
+ 
+So, area of wheel is much -much less than area of tr ack. For the same load , your contact 
+pressure is more in case of wheel and in case of tr ack, it is less . That means , there will be 
+more compaction in case of wheel and hence , there will be more rolling resistance. So, 
+that is the reason a tr ack gives lesser rolling resistance as compared to your pneumatic 
+wheel. Now, if you compare with a rigid wheel , rolling resistance of tr ack and rolling 
+resistance of a towed rigid wheel. So, what is the difference? Here , you are not getting 
+anything related to pressure . You are only getting in terms of W , in case of in terms of 
+diameter , and the section width B and the modulus of sink age is K, so, it is difficult to 
+compare in fact.  
+In the previous case , these are similar . So, that is why , I made it very clear , which one 
+should give you lesser rolling resistance. But if you look at now this equation , it is 
+W(2n+2 )/(2n+1 ). This is very -very high , whereas , it is only W(n+1)/n. So, that itself gives you 
+that, yes tr ack is better than rolling resistance of a rigid wheel. If the weight is same the n track is going to give you lesser rolling resistance.  
+ 
+Now, coming to the diameter , as we increase the diameter , the rolling resistance of towed 
+rigid wheel reduces because is the negative , the power (2r)-(n+1)/(2n+1 ). Here also , the 
+area(n+1)/n. But the area which is obtained in case of a tr ack and the area which is obtained 
+in case of a towed wheel they are also different. The area of a tr ack is much -much higher 
+than area of a towed rigid wheel. Because , towed rigid wheels , its width cannot be more 
+than say 5 centimeter , 2 inches , whereas , track width is much more than that . And length 
+of the tr ack is even , if it is kept same as the diameter of the towed wheel then definitely , 
+At will be higher than Atrw. 
+ 
+So, that means tr ack, rolling resistance of a tr ack is lesser than the rolling resistance of a 
+rigid wheel. Now, comparing the modulus of sinkage , because this is same for you , 
+cannot change the soil conditions. So, it is K1/L whereas , it is K-1/(2n+1 ). So, there is a n 
+advantage here. Advantage means , -1/(2n+1 ). 
+ 
+So, this will give a little higher resistance. Denominator is 2 n+1, whereas , it is in the 
+numerator,  it is only 1 /n. So, that way if you compare again , the rolling resistance of a 
+track can be seen to be lesser than the rolling resistance of a rigid wheel. So, in total , we 
+can say , rolling resistance of a tr ack will be always lesser than the rolling resistance of a 
+pneumatic wheel when they are operated in the same soil condition , in the same under 
+same weight , and same is the case with rolling resistance of a rigid wheel.  
+So, in this lecture , what I have done is , I have tried to derive expression for rolling 
+resistance of tr ack. Then , we tried to compare the rolling resistance of pneumatic wheel 
+and rigid wheel  expression which we derived earlier , and then we had a comparison 
+individually , and then what we conclude from here is that rolling resistance of a tr ack is 
+lesser than the rolling resistance of a pneumatic wheel or rigid wheel. So, briefly , if I 
+conclude about this lecture , I have made an attempt where I derived the equation for 
+predicting motion resistance of a tr ack, then I tried  to verify how it is different from 
+pneumatic wheel or towed rigid wheel and you can refer the book theory of ground 
+breaking by Wong J Y. Thank you.  
+ 

@@ -1,0 +1,164 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 40: Tutorial - 8 
+Hi everyone, this is Professor H. Raheman  from Agricultural and Food Engineering 
+Department.  I welcome you all to this traction engineering course.  This is lecture 40 where I 
+will try to give a tutorial on how to compute slip angle, understeer coefficient and verify the 
+slide slope stability of  a tractor while moving across a slope.   
+So, the concepts will be a computation of lateral force and slip angles developed by a tractor. 
+Then we will be finding out under steer coefficient to decide the steering condition whether it 
+is under steer, over steer or neutral steer.  Then we will try t o verify the stability of the tractor 
+while moving across a sloppy land.  So, I will discuss three problems.   
+The first problem is a 6 -16 tractor tyre has a cornering stiffness of 133.30 kilo Newton per 
+radian and a camber stiffness of 229 Newton per radian.  The camber angle at which the tyre 
+is fitted to the axle is 4 o.  If both the cornering force and camber thrust are acting in the same 
+direction and they are linearly related to slip and camber angle respectively, then determine the 
+total lateral force developed for a slip angle of 3 o.  So, what we have to do in this problem is, 
+we have been given the data re lated to cornering stiffness of front that is tyre 6 -16 and the 
+camber stiffness.   
+So, we know that total force which is developed side force developed is dependent on the lateral 
+force due to slip angle 𝐹𝑠𝛼 plus lateral force due to camber angle  𝐹𝑠𝛾. So,  
+𝐹𝑠=  𝐹𝑠𝛼+ 𝐹𝑠𝛾 
+ I have put a plus sign because I have indicated that they are acting in the same direction.  So, 
+that is why I have put a positive sign.  If I have indicated that they are acting in opposite 
+direction then obviously, I have to put a minus sign depending o n their directions.  Now what 
+is given is, they are linearly related obviously, t hese slope, the slip angle is 3o and the camber 
+angle is 4o.  So, obviously, at a smaller angle, we know that a side force is linearly related to 
+the cornering stiffness.  
+So, what you can write is  
+𝐹𝑠𝛼= 𝐶𝑠𝛼×𝛼=133 .33 ×3×𝜋
+180 𝑘𝑁 
+Similarly, for finding out the side force due to camber angle, we have to take the camber 
+stiffness.  So, 𝐹𝑠𝛾 which is the side force of the lateral force developed due to camber angle.  
+So, I can write as  
+𝐹𝑠𝛾= 𝐶𝑠𝛾×𝛾=229  ×4×𝜋
+180  𝑁 So, what we get is in Newton, what we have got here is in kilo Newton.  So, change the units 
+then add it that will give you the total lateral force which is developed by a 6 16 tractor tyre 
+with the given data.  So, basically you have to see that what is t he relationship since it has been 
+given that it is linearly related.  So, it becomes easier for you to calculate the lateral force.  And 
+the second thing which has to be seen is whether the directions of this lateral force that is due 
+to slip angle and the  lateral force which is developed due to camber angle whether they are in 
+the same direction or they are in the opposite direction. So, that has to be seen then only you 
+can easily calculate what is the total lateral force.   
+The next problem is related to the steering.  A two-wheel  drive tractor which has a total weight 
+of 18.2 kilo Newton , it has a wheel base  1.85 meter with a static weight distribution of 30 
+percent at the front axle and 70 percent at  the rear axle . The cornering stiffness of each of the 
+front tyre is given and that of  the rear tyre is given.  So, what you are been asked to find out is 
+draw conclusions for the slip angle of front and rear tyres ok.  So, what you have to find out is 
+first the understeer coefficient . For finding out the understeer  coefficient, what you have to do 
+is, k us is nothing, but weight coming on the front  wheel divided b y c, the cornering stiffness  
+𝐾𝑢𝑠=W𝑓
+𝐶𝛼𝑓−W𝑟
+𝐶𝛼𝑟 
+So, now in this data which are given we have to find out these values then only you can compute 
+k us.  So, what data is given , cornering stiffness is given for the front tyre and the rear tyre.  So, 
+these values are given.  
+So, 𝐶𝛼𝑓 is given as 38.92 and 𝐶𝛼𝑟 is given as 36.25 and W f and W r we have to find out.  So, 
+how to find out Wf is the weight coming on each of the wheel.  So, the axle weight now you 
+have given the distribution with a total weight.  So, 
+W𝑓=0.3×18.2/2 
+for the rear axle ,  
+W𝑟=0.7×18.2/2 
+So, you know 𝐶𝛼𝑓 you know W f you know 𝐶𝛼𝑟 you know W r. So, if you substitute in this 
+equation that will give you a value.  So, if the value is positive that means, this is an understeer 
+condition.  If value is negative this is an overst eer condition.  If  the value is 0 then it is neutral 
+steer.  So, we have to draw  conclusion about slip angles.  
+So, slip angles are nothing, but α.  So, α is nothing, but F by c s F , lateral force by Csf so that 
+means, what is the lateral  force developed by C sf.  So, first we have to find out 𝐾𝑢𝑠. Once you 
+know the 𝐾𝑢𝑠 value then we will find out whether  it is a neutral steer , understeer or oversteer.  
+Now, if it is neutral steer the turning radius , the other component which I ask is turning radius  
+is constant.  If it is understeer the n turning radius will be decreasing and if it is oversteering  
+that means , when the 𝐾𝑢𝑠 value is negative it is oversteering that means, the turning radius is  
+increasing.  So, that is the conclusion you have to find out.  Now, he is asking the determine the speed 
+above which the tractor exhibit directional instability .  So, when we find out 𝐾𝑢𝑠 that will 
+indicate whether you are in understeer oversteer condition. If  you are in understeer condition,  
+then you have to calculate the Vcharacteristic speed  which is nothing. B ut in this case , what we 
+observed is , we are getting a 𝐾𝑢𝑠 value  which is negative that means  that means it  is an 
+oversteering condition.  So, oversteering condition means we have to find out the critical speed.  
+So, critical speed , Vcritical will be equal to √𝑔×𝐿
+−𝐾𝑢𝑠. 
+So, since 𝐾𝑢𝑠 you got a negative value.  So, when you substitute here , you will find out the 
+velocity some value.  So, roughly around it is coming 13.1 m/s so that means, this is the critical 
+speed  beyond which if you exceed then there will be directional instability.  Suppose the data 
+which are given that will lead you to a value of k us positive.  
+So, what will happen if is a positive value that means, the turning radius is decreasing.  So, you 
+have to calculate b characteristics which is nothing, but √𝑔×𝐿
+𝐾𝑢𝑠.  So, that will give you a value 
+which will indicate the limit beyond which if you exceed that  is going to give you directional 
+instability.  I hope I have clarified.   
+ 
+Then the third problem will be related to the side slope stability. A tractor fitted with 6 16 tire 
+in the front axle and 13.6  28 tire in the rear axle . It has a total weight of 2400 kg with a weight 
+distribution of 35 percent and 65  percent at the front and rear axles , respectively.  The tra ck 
+width 1.2 meter and it is cg is at a height of 0.8 meter from ground and this tractor  is moving 
+across a sloppy land, which is 20o with the horizontal.  The front tire has a cornering stiffness , 
+camber stiffness.  The rear tire has a cornering stiffness of this much.  The camber angle at 
+which the tire is fitted with the front axle is given.  If both the cornering forc e and camber 
+thrust are acting in the same direction and they are  linearly related to slip and cambe r angles 
+with a slip angle of 4o for the front tires  and 3 o for the rear tires . Verify whether the tractor is 
+stable during operation against  overturning and sliding.  So, for overturning we have to find out 
+𝑡𝑎𝑛𝛽  value.  
+So, 𝑡𝑎𝑛𝛽  is nothing, but 20o, beta is given as 20o.  Now you have to find out  
+track  width  
+height  of c g from  the ground 
+If 𝑡𝑎𝑛𝛽  value is greater than this, then there is a possibility of overtu rning.  So, in our condition 
+track width is given as 1.2×0.8/ 2.  So, if you take tan inverse of this value , then  this will give 
+around 36o. Whereas, 𝑡𝑎𝑛𝛽  will give you a value around 0.36  and and this value is around 0. 5 
+something.  So, that means 𝑡𝑎𝑛𝛽  is lesser than this expression.  So, the vehicle is stable , it is 
+not going to overturn.  So, this is one condition.   The second condition is; we have to verify the stability against sliding . We have verified that 
+the vehicle is stable  against overturning.  Now for  sliding, we know that there is a vehicle or 
+tractor is moving. c  g is here.  So, it will have a component 𝑊sin𝛽 and this is lateral force , 
+which is developed at the  rear wheels . Similarly,  lateral force will be developed at the front 
+wheels.  Now 𝑊sin𝛽 has to be supported by this lateral force.  So, now the second component 
+we have to find out , what is the total lateral force acting on  the tractor or the vehicle.  So, to 
+find out total . There will be two front wheels , there will be two rear wheels , assuming that  each 
+of the front wheels will be developing the same lateral force.  So, for the front wheel, we have 
+to calculate lateral force for the front wheel . We have to  calculate lateral force due to slip angle . 
+This has to be added with lateral force  due to camber angl e and they are linearly related, the 
+thrust is a linearly related.  
+Total lateral force for front wheel =  lateral force due to slip angle  + lateral force due to camber 
+angle . 
+=1000 ×133 .2×4×𝜋
+180+229 ×4×𝜋
+180 
+This is the lateral force , which is developed at the front wheel.  This has to be multiplied with 
+2 to find out the total lateral force developed by the front wheels.   
+Similarly, you have to find out the lateral force which is developed at the rear wheel since  there 
+is no camber angle in case of a tractor at the rear wheels.  So, we are only considering lateral 
+force due to slip angle only.  So, it is given rear wheels cornering stiffness is given as 90.  
+=1000 ×90×3×𝜋
+180 
+ So, this has to be multiplied with 2 to find out the total lateral force developed by the 2  rear 
+wheels.  Now, since total lateral force you have to find out for the tractor.  So, that will be 
+summation of this force plus this force.  So, that will be equal to , at least equal to 𝑊sin𝛽. W 
+is given as 2400× 9.81× sin𝛽. 
+So, this should be equal to at least then only the vehicle is not going to slide.  If it is higher than 
+these two summations,  then the vehicle is going to overturn.  If it is lesser than these two then 
+the vehicle is stable.  So, let me repeat this one.  The first case is we have to find out regarding 
+the overturning.  
+For overturning we have to find out 𝑡𝑎𝑛𝛽  value should be greater than  T by 2 H, ok.  So, this 
+condition has to be satisfied.  If 𝑡𝑎𝑛𝛽  is less than this value,  then there is no overturning.  Now, 
+the second condition of instability is your sliding.  So, that will come , this 𝑊sin𝛽 component 
+should be lesser than this side force which is developed by the tractor.  Since the tractor has 4 
+tires and we assume that each of the front wheel will develop  the same lateral force and each 
+of the rear wheels will be developing the same lateral  force.  So, we try to find out what is the 
+lateral force developed by the front e ach of the front wheel .  So, since front wheel has both slip 
+angle and camber angle so you have to find out lateral force  due to slip angle and you have to 
+find out lateral  force due to camber angle.  And since the cornering stiffness and the camber stiffness are given so by multiplying this. W e can find out , what is the total lateral force acting 
+on each of the wheel.  Then we multiply with 2 to find out what is the total force from the front 
+wheels.  
+And in case of rear wheel , since there is no camber . So, only you will calculate the lateral force  
+which is developed due to slip and we follow the same procedure because the slip angle  is 
+given and the cornering stiffness for rear tires are given.  So, whatever value is obtained that 
+has to be multiplied with 2 and the summation of these  2 forces should be greater than this 
+𝑊sin𝛽  then only there will be no sliding otherwise  there will be sliding.  So, in brief I have 
+discussed how to calculate lateral force, then how to calculate the steering characteristics  that 
+means whether the vehicle is understeer, oversteer or neutral steer.  And basically this is 
+calculated taking into consideration the understeer coefficient which is  a function of weight 
+distribution and is a function of the cornering stiffness.  Then we try to calculate the side slope 
+stability for 2 conditions , one is yo ur overturning the other  one is sliding.  
+I hope these 3 problems is , they are going to help you in understanding these concepts, concepts  
+of over steering, under steering, side slope stability.  Thank you.  You can refer to theory of 
+ground vehicles by Wong J Y.  

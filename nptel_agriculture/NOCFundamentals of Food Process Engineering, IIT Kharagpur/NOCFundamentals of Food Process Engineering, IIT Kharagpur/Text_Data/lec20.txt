@@ -1,0 +1,315 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 20 
+Evaporation and Concentration (Contd.)  
+ 
+Hello everyone , welcome to NPTEL  online certificati on course on Fundamentals of 
+Food Process Engineering . We will continue today with the topic evaporation and 
+concentration . So, in the last class we have  seen that how we can design the single effect 
+evaporator and we can calculate the  steam economy and he at transfer area or heat 
+exchanger area .  
+Today  we will continue  with the design of  multiple effect evaporator also , but before 
+going into that  we will just look  into a few cases , where evaporator is used effectively . 
+So, first is the biological material . Which is very heat sensitive material and for them we 
+use often evaporator to make them concentrated for example, milk, fruit juices, etc.  
+(Refer Slide Time: 01:15)  
+ 
+So, these materials they contain fin e particles and  suspended matter in the solution  and 
+what happen that  during evaporation sometime these material can be deposited in the 
+surface of the liquid side . And if they are not clean ed properly then maybe bacterial 
+growth can generate  and the contamination will be high so the equipment  the evaporato r 
+should be design ed in such a way proper cleaning  can be done .  So, all this biological material  that we are talking about , they exhibit a small boiling 
+point rise when concentrated  because they have the suspended solids in the fin ely 
+dispersed form or ha ve the large molecules that are  you know  dissolve d. So, they 
+generally  provide a very less  rise in the boiling point because their nature is not like  
+sodium hydroxide solution  or NaCl solution .  
+(Refer Slide Time: 02:50)  
+ 
+So, the amount of degradation  of biological material during evaporation that is basically 
+a function of temperature and length of the time . 
+So, we have to  design in such a way  so that th e heat sensitive material does  not expose  to 
+the temperature for a  longer time . So, we will design  or we will take the heat transfer 
+area a smaller one  so, that way we can  design . And another thing we can operate the 
+evaporator chamber under vacuum  so that the boiling point will  come down . So, another 
+one case  is we can operate under vacuum , another  is we c an keep the time of contact 
+low. So, we can see few equipments that are  used for a biological material one is long 
+tube vertical evaporator that is specifically used for the condensed milk . 
+So, the reason is when we use this  long tube vertical evaporator s. They  become 
+concentrated as they come down they will become concentrated . So, heat transfer will be  
+difficult . So, and because there , because their high viscosit y mobility is also a problem , 
+that is why we use the long tube vertical evaporator for them .  Then there is falling film evaporator , these are  mostly used for the fruit juices . Agitated  
+film evaporator those are used for antibiotics , fruit juices and gelatin also  because all 
+these cases we need a continuous agitation  to increase the heat transfer  because towards 
+the end of  evaporation as they  become concentrated  they may stick to the surface and  
+reduce the heat transfer coefficient .  
+There is also heat pump  cycle evaporator for fruit juice milk and pharmaceutical  because 
+these a re very heat sensitiv e materials . Natural circula tion type short tube evaporator  
+these are used for sugar solution .  
+(Refer Slide Time: 05:35)  
+ 
+Now,  we will discuss the design of multiple effect evaporator , let us first see the 
+configuration of multiple effect evaporator . So,  here we  are considering three effects , 
+triple effect evaporator and  here this is forward feed evaporator  i.e. forward feed triple 
+effect evaporator . 
+So, this is the first effect  ok, this is the second one and this is  the third effect . So, we can 
+observe t hat first , in the first effect feed is entering the mass flow rate  of the feed is 
+ , 
+xf is the concentration of solid in the feed stream T f is the temperature of feed that is 
+entering in the first e ffect.  
+So, in the first effect temperature is  T1 this is the  saturation vapor  temperature or boiling 
+tempera ture at the pressure , let us say if the pressure is  P1 in the first effect  and here one side of the heat exchange  surface  this feed is there  and the other side there is  steam . So, 
+this is the h eat transfer area across which this heat transfer is taking place , where the 
+overall heat transfer coefficient including the steam  side and the material or the 
+conductive material or the surface  through which this you know heat transfer heat 
+exchange is taking place .  
+So, the conductivity of that material and the convective heat transfer in the liquid side . 
+So, together we have calculated this U1 and 
+  is the mass  flow rate of the steam that is 
+entering at a temperature Ts. Now, this steam  is co ndensed here  going out by this stream 
+and whatever evaporation takes place in the first effect that is causing this vapour  flow 
+rate 
+  from the first effect and that is coming out from the first effect entering into the 
+second one .  
+Where as, the concentrated f eed or concentrated liquid that is coming out by the 
+evaporation of feed that is going to enter to th e next effect . So, what is happening in the 
+next effect as  we have discuss , that the pressure in the first effect is higher than that is in  
+the second one and eventually the second one the pressure is higher than the third  one. 
+So, to the high pressure side , from the high pressure to the low pressure we are sending 
+the feed. So, no requirement of  pump is there  so feed is going from first to t he second 
+effect and again from the  concentrated liquid which is coming from the second effect is 
+going to enter into the third one . From the third we a re finally, getting the product  which 
+is very high in the concentration of the solid that is x p and comi ng out at a temperature  
+T3.  
+So, T3 is the  temperature that is  with respect to the pressure P3 in the chamber and again  
+T2 is th e temperature which is prevailing in the second effect corresponding to the 
+pressure P 2. 
+  is the vapour  that is gen erated in the second effect and that is utilised in 
+the third effect for heat exchange with the  input stream or input feed which is entering 
+from the second effect to the third one , this vapour  which is generated in the third  effect 
+finally, goes to the co ndenser . 
+So, this is the  total system  so eventually this x f which is the concentration of solid in the 
+feed will be concentrated in the x f1, further concentrated in x f2 and we are getting product  xp that is highly concentrated . So, utilising the same steam  
+we are now generating 
+vapour 
+ , 
+  and 
+ .  
+So, we can see that how we are increasing the steam economy as well and in more  
+general cases we consider that these  three effects are equal in size  i.e. heat trans fer area 
+available are same . And that is in most of the cases a design criteria  for the iteration that 
+we perform  that when this area  are almost close to each other or wit hin a variation of 10 
+% we shall stop further  iteration . 
+So, that will be our final d esign of the  multiple effect evaporator . Now, let us see how we 
+can step by step perform the overall balance , solid balance , enthalpy balance and finally, 
+design the  system . 
+(Refer Slide Time: 12:05)  
+ 
+So, there are fe w design steps we will follow them one  by one , first is use the  overall 
+component balance to completely determine the feeds  and product streams , the se 
+numbers are fixed and are not changed  by iteration .  obviously, numbers will be fixed of 
+the in feed and the product streams  because you know t he number of effect that you are 
+going to design , if it is a three effect system . So, one feed stream is entering , one 
+concentrate from the first , another from the second and lastly  from the third . 
+So, three  concentrated streams are coming  out and similarl y the vapour V1, V 2 and V3. 
+So, those are not going to change through the whole  system , I mean their number does  not change  but value may change  as you perform iteration one  after the  other . So, 
+calculate the total amount of vapor vaporiz ed.  
+Vtotal =V 1+V 2+V 3 
+Normally  we consider that equal amount of vapor  is generated . i.e.  V1=V 2=V 3. Then use 
+component and material balance to get estimates for the remaining flow rates within the 
+system and the composition of the intermediate streams .  
+So, what we are doin g in the third step that is component and material  balance to get 
+estimate from the remaining flow rates within the system and the composition of the 
+intermediate stream . That means, we need to know the  fraction of the solid in the  streams 
+that is coming o ut and that can be done by the component balance and  the overall  
+material balance .  
+And once we get the concentration we know that concentration has a relation with 
+boiling point rise. Although  the biological material we have seen that  they does not 
+provid e very high boiling point rise . But to identify  how much amount of elevation is 
+there or to understand how a boiling point elevation  effect  the operation  in a multiple 
+effect evaporator  we will solve . Now including boiling point rise  however, small the 
+value maybe because that will help you in  designing a system where actually there exist 
+a, significant amount of boiling point elevation right . 
+(Refer Slide Time: 15:23)  
+ So, from the known outlet concentration and pressure in the last effect , determine the 
+boiling point in the last effect then determine the overall temperature drop between the 
+steam and the saturation temperature of the last effect . The overall temperature drop 
+between the steam and the saturation temperature of the last effect  
+∆𝑇𝑎𝑣𝑎𝑖𝑙𝑎𝑏𝑙𝑒=𝑇𝑠−𝑇3− 𝐵𝑃𝑅 
+ So, if you want to understand that how this is generating. So, we know that T s is the 
+temperature of the steam that is entering in the first effect. Now, the boiling point in the 
+first effect corresponding to let us say  pressure P 1 is T 1. So in the first effect we are 
+getting this much ΔT i.e. ( Ts - T1). The vapor is coming out at this  T1 temperature  and 
+that is going to enter in to the second effect as steam . 
+So, in the second effect we are getting T1 - T2 where  T2 is the boiling point temperat ure 
+corresponding to pressure P 2 in the seco nd effect now this vapor that is coming out at  T2 
+will enter into the third effect . So, in the third effect we are finally getting, T2 -T3 that is 
+we are getting Ts - T3 when there is no boiling point elevation.  Now, if boiling point 
+elevation happens or i t occurs then in the first e ffect, in the first effect what will be the 
+concentration because of that some boiling point elevation will be there, similarly; in the 
+third effect as well and  in the fourth effect as well . 
+So, when  T1 comes out it includes tha t boiling point elevation, but when it enters in the  
+next effect . So, in the next effect the effect of that elevation is not there. So, that we 
+cannot consider there, that that is why what we do? That the total difference will be total 
+ΔT that we can get w hen the boiling point rise exist will be   
+ΔT = T s - T3 – (BPR 1+BPR 2+BPR 3) 
+∆𝑇𝑎𝑣𝑎𝑖𝑙𝑎𝑏𝑙𝑒=𝑇𝑠−𝑇3− 𝐵𝑃𝑅 
+So, this is how we  can calculate the total Δ T available.   (Refer Slide Time: 20:06)  
+ 
+ (Refer Slide Time: 20:18)  
+ 
+Then allocate the overall drop amo ng the various effects since the areas are the same . So, 
+we will consider that all the areas of the three effects  will be same . So, the temperature 
+difference in each effect is roughly , inversely proportional to the overall transfer 
+coefficients .  
+ U1ΔT1= U2ΔT2= U3ΔT3 
+Where, U 1, U 2 and U 3 are overall transfer coefficients of 1st, 2nd and 3rd effect . ΔT1, ΔT2 
+and ΔT3 are the temperature difference in all the three effect respectively . So, definitely since the temperature of steam that is  being entered and th e pressure that is 
+inside the chamber all are different . So, U1, U 2, U 3 will be different . However , the 
+temperature difference in each effect is roughly inversely proportional to the overall 
+transfer coefficient . So, that means, we can write here  
+∆𝑇1= ∆𝑇 1𝑈1 
+1
+𝑈1+1
+𝑈2+1
+𝑈3 
+So, use the ΔT and boiling point rise values to obtain estimate of all the temperatures in 
+the system and we can start with the steam entering in the first effect, right. So, if you 
+think about that how we can derive this you can calculate like this that, if we identi fy the 
+total effect that is actually you know because this is equal amount of heat transfer is 
+taking place where in all the effect . So, what we can write: q = UA Δ T. 
+So, here we can write that, q = U 1A1(Ts1 -T1).   I can write (Ts1 -T1) = q/(U 1A1).  
+Simil arly, T1 –T2) = q/(U 2A2).  
+T2 –T3 = q/(U 3A3). 
+So, if we add now all these equation all the three equation. So, we are getting  
+q = ( Ts1 -T1) U1A1 = q (1/U 1+1/U 2+1/U 3)/A 
+ΔT U = 1/U 1+1/U 2+1/U 3  
+ (Refer Slide Time: 27:45)   
+So, if there is boiling point eleva tion exist so we can calculate this  
+          T1= Ts 1 – ΔT1 
+          T2= T 1 – BPR 1– ΔT2                                                               Ts2 = T 1-BPR 1 
+          T3= T 2 – BPR 2– ΔT3                                                               Ts3 = T 2-BPR 2 
+T1, T2, T3 these are the saturation temperature for the effect 1, 2, 3 and T s1, Ts2 and Ts3 
+are the temperature of condensate leaving the effect 1, 2 and 3 . 
+(Refer Slide Time: 30:02)  
+ Now, solve the set of equation that is made up of one ent halpy balance for each effect ok , 
+then check whether the  V1, V 2, V 3 are close to each other and then  we can have the new 
+values if they are not each other the iteration will goes on .  
+(Refer Slide Time: 30:24)  
+ 
+Finally, will solve for heat transfer rate a nd area in each effect  
+                                      q1=Sλs 1                        A1=q1/(U 1ΔT1) 
+                                      q2=Sλs 2                        A2=q2/(U 2ΔT2) 
+                                      q3=Sλs 3                        A3=q3/(U 3ΔT3) 
+Compare the areas. If they are not equal, you need to repeat the calculation. Begin by 
+using the areas you obtained to revise the temperature estimates. The recommended 
+approach is to use the ratio of the calculated heat transfer area for a n effect to the 
+arithmetic mean of the calculated areas.  
+∆𝑇1 𝑛𝑒𝑤=∆𝑇 𝐴1
+𝐴𝑚𝑒𝑎𝑛  
+Similarly  we will calculate ΔT 2 and ΔT 3 because , see ΔT 1 surface area  will be 
+proportional to heat transfer , I mean if the area is higher . So, higher amount of heat 
+transfer will be there and since we have  we can calculate that the ΔT 1 in that is the 
+change of temperature in the first effect proportional to the area .  Finally , Capacity of multiple effect evaporators:  q = q 1+q2+q3 
+ (Refer Slide Time: 31:55)  
+ 
+So, just q uickly  I will discuss problem that is a triple effect forward feed evaporator is 
+being used to evaporate sugar solution having 10 % wt solids to a concentrated solid of 
+50 %. Boiling point rise is governed by this equation  BPR, °C=1.78x+6.22x2, where x is 
+the weight fraction of the sugar in the solution . Saturated steam at 205.5  kPa is entered in 
+the first effect . Pressure in the vapour space of third effect is given that is 13.4 kPa that 
+means, corresponding to this we can calculate the temperature in the  third effect . Feed 
+rate is given , temperature is given , cp is again by concentration equation is given and  U1, 
+U2 and U3 is given . So, if the each effect has the same surface area , calculate the area  and 
+the steam used , and the steam economy . (Refer Slide Time: 33:06)  
+ 
+So, steps will be this way , first is pressure temperature in the last effect because the 
+pressure is given . So, the temperature correspondingly we can calculate , overall balance 
+to find the vap our and liquid content . So, then solid balance t o find the concentration in 
+each effect from the concentration we can calculate boiling point rise and temperature 
+drop. Finally, calculate the specific heat and from that enthalpy , from the heat balance 
+we can find out actual V, S and L and check with wha t we have assume . Then calculate 
+the total heat transfer area of the evaporator and if you are getting within 10% variation 
+we will stop otherwise the iteration will continue . 
+(Refer Slide Time: 33:58)  
+ So, first, in 13.4 kPa saturation temperature we hav e calculated . So, this saturation 
+temperature from the steam table is coming 51.67  °C. Now, equation for the boiling point 
+rise in the effect 3 where the concentration of weight fraction given is 0.5. So, we will 
+find the boiling poin t rise in the third ef fect using that concentration formula . we are 
+getting now  T3. 
+Then  we are making an overall balance of total feed : F= L 3 + V1 + V 2+ V3.  So, by doing 
+the balance  of the solid concentration we are getting , what is the amount  of L3, right . 
+F×X F = L 3 ×0.5 + (V1 + V 2+ V3) ×0.  
+We will get L 3 here. Putting  into L3 we are calculating V by taking equal V in all the 
+cases . So, we are getting 6048  kg/h here . 
+(Refer Slide Time: 35:24)  
+ 
+So, third effect we have  calculated this L3 and this  is a forward feed evaporator . So we 
+need to calculate TS3, TS2 and T S1, we have calculated  T3, now we will calculate  T2 and 
+T1 how because we need to identify the boiling point elevation in all the effect . (Refer Slide Time: 35:53)  
+ 
+So, we will first calculate , what is L1 and do the  balance on L1. 
+So, L1+ V 1 = 6048 + L 1  
+Now  again  using that L 1 value , L1 = V 1+L2. So, we will calculate L2 and then again using 
+L2 this will be L1 and this will be L2, so using that we can calculate . So, this is V3 and L 3, 
+we can calculate L3. L3 = 4536  kg/h. 
+Now, making a solid balance on the effect 1, 2 and 3 and solving for X.   We will 
+calculate ‘X’. So,  in the first effect 22680  ×0.1 = L 1×X 1 = 16632  ×X 1. So, X1 = 0.136 . 
+Similarly, X2 is 0.214  and X3 is 0.500 . 
+(Refer Slide Time: 37:10)   
+Use in this equation to find the boiling point rise in each effect  1, 2 and 3. 
+BPR, °C=1.78x+6.22x2 
+Finally , ΔTavailable  = T s1 - T3. 
+(Refer Slide Time: 37:34)  
+ 
+So, then we know that temperature  difference in the first effect will be : 
+∆𝑇1= ∆𝑇 1𝑈1 
+1
+𝑈1+1
+𝑈2+1
+𝑈3 
+ Similarly ΔT 1, ΔT2 and ΔT 3 will calculate . So, calculate the boiling point of the solution  in each effect  so T1= Ts1 - ΔT 1 because Ts1 
+at which the liquid has condensate because of the  because of the boiling point elevation . 
+So, T1= Ts1 - ΔT1 = 121.1 - 15.56  = 105.54 . 
+Now, how we have calculated here 15.56 . However, we have considered this after first  
+trial that the temperature higher amount of  you know difference we are getting in the first 
+effect . So, that is why we have increased this a bit propor tionately and reduce the other 
+temperature drop in t he ΔT2 and ΔT 3.  
+So, here T1 is 105.54,  similarly  we have calculated  T2. T2 = T 1 – BPR - ΔT2 and that we 
+are getting 86.84 . So, T2 is 86.84  and Ts2 will be that is the condensate from the second 
+effect will be T1. That means, what is entered minus BPR 1. So, that we are getting 
+105.18 . 
+(Refer Slide Time: 39:37)  
+ 
+Similarly, for the third effect we have calculated that  T2 - ΔT3 that is the difference in the 
+third effect . So, T3we are getting 54.12  so T3 that will be that 86.84 - (BPR) 86.19 . 
+The temperature in th e three effect,  now we have calculated . So, Ts1 that the steam has 
+entered  T1 that vapour that has gone to the next effect as Ts2. So, it has been reduced 
+because the boiling point elevation has been  deducted then  T2, the effect temperature in 
+the in the s econd one that is going as  T3 , again boiling point rise has been removed from 
+this value and similarly for the third one .  (Refer Slide Time: 40:34)  
+ 
+So, heat capacity again formula is given . So, all the heat capacity we will calculate and 
+will use that  0 °C as datum temperature . 
+(Refer Slide Time: 40:46)  
+ 
+To make a ll the heat balance in the first effect , second effect and third effect . So, in the 
+first effect  
+H1 = H s2 (saturation enthalpy at Ts2) + 1.884  ×BPR . So, H 1 we have calculated . So, λS1= Hs1 (vapour saturation enthalpy ) - Hs1 (liquid 
+enthalpy ). Effect 2 we are getting 86.84  that is  T2, Ts3 is 86.19 , boiling point rise is 0.65. 
+So, H2 = H s3 +1.884  ×0.65.  
+So, that is H2 the steam that is  entering  λs2 that we have calculated in the second effect . 
+So, like this  heat transfer in all such effects we have calculated .  
+(Refer Slide Time: 42:02)  
+ 
+And using that  enthalpy finally, we can calculate that V1, V 2, V 3 that all the effect what 
+we are getting right . 
+So, this way doing the overall balance , solid b alance and enthalpy balance . (Refer Slide Time: 42:25)  
+ 
+We can calculate the  total vapour that is generated and also calculate the total heat 
+transfer area . So, once we got all the values of steam  we can calculate the q 1, q2, q3 that is 
+the heat tr ansfer and find out the area A1, A 2, A 3. So, if the area are almost equal within 
+the 10 % variation our iteration stops here , so. 
+Thank you . We will stop here . 

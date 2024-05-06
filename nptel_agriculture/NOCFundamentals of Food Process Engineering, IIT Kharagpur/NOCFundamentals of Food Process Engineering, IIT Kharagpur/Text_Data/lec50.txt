@@ -1,0 +1,224 @@
+Fundamentals of Food Process Engineering  
+Professor Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 50  
+Mixing and Agitation (Contd.)  
+ 
+Hello everyone, welcome to the NPTEL  online certification  course on Fundamentals of Food 
+Process Engineering. So , today is the las t section of the mixing and agi tation chapter that we will 
+cover.  
+(Refer Slide Time: 00:37)  
+ 
+So, in the previous classes of this particular topic we have dis cussed about the introdu ction of 
+mixing and agitation  process , mechanism of solid mixing , that particular solid or powder mixing 
+and mixing index , how we can d efine the uniformity in the mixing process , then mixers  for dry 
+powder,  cohesive solids and also the liquid mixing . In the liquid mixing different flow patterns 
+how we can control them a nd what are the kind of agitator that are used, what is  the power 
+requirement for a liquid mixing , how we can control the vortex formation , all such things we 
+have discussed.  (Refer Slid e Time: 01:19)  
+ 
+ 
+Today  we wi ll just continue for the power requirement section a bit more . In the last class w e 
+have seen  that for power requirement of N ewtonian fluid and  if this is r otated inside the tank of 
+baffle d or un  baffled  condition, s o what will be th e power requirement and how the different 
+power requirement can be you know related with the dimensionless parameters for dimensionless 
+number those are based on the geometry of the tank and also on the fluid properti es.  
+Now, this power requirement they depends on many factors  for example that what will  be the 
+circulation , velocity , viscosity of  the fluid and d ensity of the fluid. all those will hav e an 
+important effect on that.  So, we will see today that power  requir ement for non -Newtonian fluid. Now , the power input to 
+a non -Newtonian liquid may be estimated based on the apparent viscosity, w e know that for the 
+non-Newton ian liquid we ca n express the shear stress and shear rate behavior by this factor and 
+again  we can  write them as : 
+ 
+For the Newtonian fluid what we hav e done that we have calculated Reynolds number and 
+Froude number also, so this Reynolds number and some power factor correlation we did and 
+those correlation empirically has been defined for different kind of geometry o f the impeller and 
+that helped us to calculate the power in a particular mixing phenomena.  
+Now , when we want to use this, so instead  of the viscosity term t hat we have used in the 
+Reynolds number now  we need to use the apparent viscosity.  So, in non -Newto nian fluid , 
+apparent visc osity varies with she ar rate  then mu  that is the appa rent viscosity is expressed:  
+ 
+Metzner and Otto developed  relationship on that  i.e.  
+ 
+ ‘μa’ is the apparent viscosity , ‘Da’ square is the diameter of the agitator or impeller , ‘ρf’ is the 
+density of the fluid , ‘N’ is the revolution per second of the impeller , ‘ϒavg’ is avg shear rate ,  ‘β’ 
+is  dimensionless shear rate constant  and ‘n’ is the flow b ehavior index.  
+Power  number formula is similar to that of Newtonian fluid that we have developed only wit h 
+some change some modification w e have done here because of the non -Newtonian fluid.  
+(Refer Slide Time: 06:35)   
+μa=τ
+γ =Kγavgn−1 
+μa=τ
+γ =Kγavgn−1 
+NRe= ρfNDa2
+μa=ρfDa2
+Kβn−1Nn−2  
+So, here we can see that for power requirement of non -New tonian fluid here w e have Reynolds 
+number with respect to the apparent viscosity and here we have power number P/ρN3Da5. So, if 
+we see the difference between Newtonian and non -Newtonian there is a in the viscous region 
+there is not much  effect, in the transition layer actually  we have some e ffect and again in the  very 
+high Reynolds number we can observe . The change i s not that much prominent. So, for the non -
+Newtonian we are getting a lower power number i n the transition region. This correlation has 
+been developed for six blad e fat flat agitator with disk.  (Refer Slide Time: 07:34)  
+ 
+Now, correlation for density and viscosity of mixture. So , empirical relationship are available for 
+both the density and t he viscosity of binary mixture. So , what are these correlation ? This 
+correlations are available for both density and viscosity of the binary mixture. So , now we have 
+seen that when the fluid is there and for the Newtonian and non -Newtonian how the viscosit y 
+will be changing , now for the mixture how this density and viscosity can evolve that we will see 
+now.  Empirical relationships are available for both the density and the viscosity of binary 
+mixtures  
+ 
+Where  ν is the volume fraction and the subscripts c and d represent the continuous and dispersed 
+phases, respectively . Volume  fraction of both the case multiplied wit h the respective density of 
+the contin uous phase and disperse  phase will give the total density of the mixture .  
+Now, for a n un baffled vessel and for baffled  vessel, what will be the case ?  For an un baffled 
+vessel : 
+ 
+For a baffle d vessel :  
+ 
+(Refer Slide Time: 09:54 ) 
+ρ=ρcVc+ρdVd  
+μ=μcVcμdVd 
+μ=μc
+Vc 1+ 1.5μdVd
+μc+μd    
+ 
+Now , we have a problem again,  pseudo  plastic  mixture (i.e. n<1) if you remember in our 
+rheology class  we have seen that non -Newtonian can be straight away differentiated into pseudo 
+plastic and dilated. Pseudo  plastic mixture is prepared by mixing two liquids in the vo lume tric 
+ratio o f 60:39.9, al ong with 0.1%  emulsion .  
+Now, a for baffle d agitat ion tank having 1.2 m  diameter with 6 -blade turbine t hat is 0.8 m  dia 
+rotating at 200 rpm  is used for agitation . A draft tube is installed to facilitate higher shear rate , so 
+we have seen this that how the draft tube is helpi ng to mix it properly consequently  power 
+requirement increases 20% due to installment of draft tube . Calculate the total power 
+requirement. Use empirical relation for non newtanian, 6 blade turbine:  Np=0.4486 (N Re)0.4587 So, empirica l relation for non -Newtonian 6 -blade turbine  this is given , this is the power number, 
+so you know power correlation earlier w e have tak en from the chart here di rectly t he relation has 
+been given we will use this one now.  
+So, now continuous phase is liquid A and dispersed phase is liquid B.  for liquid A and B the K 
+value are 8 & 6, ‘n’ is 0.63 and 1.3, Densit y is 959 kg /m3 and 105 0 kg/m3, avg shear rate is 10N 
+and 38N(D a/Dt)0.5. Where  N is the revolutio n in revolu tion per second here it is given in rpm, so 
+we wi ll change it .  
+(Refer Slide Time: 13:14)  
+ 
+So, first we have conve rted the rpm to rps i.e.  3.33 rps, then for liquid A we need to calculate 
+average shear rate and apparent viscosity : 
+                                                γ = 10N = 33.3 s-1 
+ 
+Similarly , for liquid B :        γ =38N(D a/Dt)0.5 =38×3.33(0.8/1.2)0.5 =103.31 s-1 
+  
+Then the mixture a pparent viscosity for the  mixture w e need to calculate . So, putting all the 
+value we are gettin g 6.05 Pa .s.  
+ 
+μc=Kγavgn−1=8 33.3 0.65−1=2.35 Pa.s 
+μd=Kγavgn−1=6 103 .3 1.3−1=24.12 Pa.s 
+μ=μc
+Vc 1+ 1.5μdVd
+μc+μd  =2.35
+0.6 1+ 1.5×24.12×0.6
+2.35+24.12  =6.05Pa.s Volume fractions are given t hen density of mixture  is:  
+ 
+Then our aim is to  find the Reynolds number. So, putting all  values we are getting the Reynolds 
+number  as 350.3.  
+ρ=ρcVc+ρdVd=0.6×959 +0.399 ×1050 =994 .4kg/m3 (Refer Slide Time: 16:26)  
+ 
+So, empirical relation for non -Newtonian fixed blade  turbine has given  as N P = 0.4486(NRe)0.4587. 
+so putting the value of N Re we will calculate what is N P that is the power number, so from the 
+power n umber will calculate the power requirement . 
+ 
+ (Refer Slide Time: 17:32)  
+ 
+P=NpρN3Da5 
+P=6.59×994 .4×3.333×0.85=79.29kW  
+Now , the next thing i s scale -up of agitator  system . Now, since we have seen suppose in a 
+laboratory scale a small liquid mixture or  agitated when we are designing, s o once we have got 
+all the shape facto r and the parameters fluid  parameters done , power requirement calculation is 
+being done , then if we want to scale up this process for an industrial scale, so w hat we should 
+look for ?  
+First is we nee d to go by geometric similar ity, s o geometric similarity means that a single ratio 
+between small -scale and large -scale applies to  every length dimension,  I mean what scale we are 
+increasing one dimension w e will increase in the similar scale or similar f actor increase for all 
+other d imension , the next is that kinetic similarity. I n that two  geometrically similar unit have 
+constant ratio of velocity at corresponding point along with similar flow pattern.  
+So, when the similar flow pattern is existing for example the axial flow or radia l flow, but these 
+are sa me and to geometrically similar t hat means let us say both are round bottom ta nk having 
+the same kind of same let us say 6 blade flat d isc impeller is attached to both of them and with a 
+constant ratio of the of the Velocity. So , kinetic similarity we can maintain to upscale it .  
+Third is the dynamic similarity that is all corresponding forces at counterpart location in  two 
+geometrical similar unit s bea r a constant ratio , all corresponding forces a t counterpart location in 
+the two ge ometric similar units bears  a constant ratio. So , putting th at the dynamic similarity  can 
+be ass essed for the two systems.  So, that means ba sically the corre sponding forces we can see 
+that are equal in the different cases.  So, for example in at the end of the impeller tip  you have measured the velocity , well  impellers 
+velocity  you know, so what will be the fluid velocity at the tip that you have analyzed ? For 
+example, t his wil l be your  large -scale impeller dia,  so from thi s point is if what will be your  
+velocity of the impeller and it has the you know  radial a nd tangential direction,  if you consider 
+the velocity of the of the fluid , so that also you need to calculate that this sho uld be similar when 
+we have the large -scale system.  
+So, at this point if you want to analyze what will be the force ? So, this will  be the same for the 
+other upscale version or else if you for example the any  places you consider that other impeller 
+tip or what is the in that draft tube section , so all corresponding forces at the counterpart location 
+in the t wo geometrical similar units bears  the constant ratio. So , maintaining these cases  we c an 
+upscale the systems.  
+So, in that e qual liquid motion  we can ma intain or equal suspension of the solid that we can 
+maintain . So, third is t hat equal rate of mass transfer.  So, we can see that for making this  
+dynamic similarity we can go for this kin d of systems like liquid motion w e maintain or we 
+maintain the suspens ion concentration of solid that we are suspending and we want mixing them 
+properly that we can maintain the  equal rate of mass transfer that also we can see or we can 
+maintain by this d ynamic similarity. So , these are the thing  keeping  in mind when  we want to 
+upscale these systems .  
+(Refer Slide Time: 22:26)  
+  
+So, scale up ratio  is: SR = (V2/V1)1/3 
+Also H=D, where H is liquid level  inside a  tank, D is the vesse l diameter . Using  this S R all new 
+dimensions are calculated , SR is if thi s factor we are maintaining , so in this f actor onl y will 
+upscale or downscale the system . 
+SRDa1=D a2,  S RJ1=J2 etc 
+So, thus  we can maintain the similarity between  them and to  determine the agita tor speed :  
+N2=N 1(1/S R)n=N 1(D1/D2)n 
+For equal liquid motion : n=1, then    i.e πD1N1= πD2N2 
+For equal suspension solids  ‘n’ is 3/4 and for equal rates of mass transfer : ‘n’ is 2/3                         
+i.e ρ1/V1= ρ2/V2 
+so these three other cases how we can do the scale up for a agitator. So, in this case while doing 
+scaling up S R is V 2/V1, so that means the r atio of t he volume in the  second one divided by the 
+first one, so that is eventually the ratio of D 2/D1. Therefore  we have used this one V2/V1 is 
+nothing but D2/D1. SR will be  (D2/D1)1/3 with that we can upscale t his case based on these three 
+parameter w here n =1 for equal liquid motion, n= 3/4 for equals suspension of t he solid and n=2/3 
+for equal rate of mass transfer.  
+(Refer Slide Time: 25:29)   
+Now , condition of an existing agitation  system is as follows. So , the condition given as tank dia 
+Dt is 1.83 m , agitated dia D a is 0.61 m , J1 which is the width of a baffle  that is 0.15 m , N 1 =1.5 
+rps, density  929 kg/m3, viscosity 0. 01 Pa .s. Scale  up the agitation  system for volume 3 times the 
+existing one for the following objectives.  
+So, this you can see it will be very beneficial for those who want to work thi s in an industrial 
+scale system y ou want to upscale th is, so ho w we can solve this?  This is the problem of a scale 
+up based on equal liquid motion. So, first we will consider this case Dt = height of the liquid 
+level  (H).  
+V1= 3.142(1.83)3/4 = 4.813 m3 
+Then  V2 we need three times the existing volume, s o we have  calculated that. Finally S R will be       
+SR=(V 2/V1)1/3=1.442 .   
+Da1 is known to u s with this f actor will change , so D a2 will b e:  Da2= S RDa1=0.88m    Similarly ,  
+J2 = S RJ1=0.216m . (Refer Slide Time: 27:26)  
+ 
+N2 =N 1(1/S R)n 
+There are three cases , equal liquid motion , equal m ass transfer an equal suspension, s o for all 
+cases  ‘n’ is defined . For equal liquid motion: n=1 , then 
+`   N2 = N1(1/S R)=1.5/1.442=1.04rev/s  
+ Reynolds number that will be :  
+  
+So, we are ge tting very high Reynolds number, s o it shows the  turbulence region . Now, from the 
+graph we look for the value of N P. So, this is the correlation,  correlation for this pow er number 
+with respect to N Re, so we are getting a v ery high range somewhere here corresponding to t he 
+value of the R eynolds number w e are get ting a very high range and that f or thi s particular flat 
+blade turbine which is showing by curve  one, w e will straight away see what is the value of this 
+number is coming.  
+So, power number has been taken  as 5 and power requirement is 5×929×1.043×0.885 =2.757  kW. 
+So, this is how we can calculate the power requirement and we can scale up also the process . So, 
+here we wi ll end the discussion related to the Mixing we have once agai n we can remember that 
+we have covered the importance of mixing and what is the case for a solid mixing , cohesive  
+powder mixing , mixing index d etermination  then liquid mi xing, different flow pattern, the power 
+NRe= ρfNDa2
+μ=929 ×1.04×0.882
+0.01=74819  requirement in liquid  mixing  for baffle d and  un baffled  tank for Newtonian and non -Newtonian 
+fluid also for the di fferent mix kind of an d scale -up of a system.  So, we will stop here and will 
+continue with another chapter in the next class. Thank you.  

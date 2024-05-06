@@ -1,0 +1,225 @@
+Traction  Engineering  
+Professor Hifjur Raheman  
+Agricul tural and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 21   
+Effect of tyre parameters on tractive performance of tyre  
+Hi everyone, this is Professor H Raheman  from Agricul tural and Food Engineering Department , 
+IIT Kharagpur. I welcome you all to this NPTEL course on Traction Engineering.  This is lecture 
+21 where I will  try to cover the effect of tyre parameters on the t ractive  performance of a tyre.  
+(Refer Slide Time: 00:48) 
+ 
+ The concept which will be covered is , by varying  the diameter, width  and stiffness of the tyre , 
+how it is going to affect the tractive performance ? Those things will be discussed in this class.  
+(Refer Slide Time: 01:06 ) 
+ 
+Some of the questions whic h will come to our mind is , do you have sufficient information on 
+tractive  performance of t yre? That is required  so that the vehicle designer or user can balance the 
+cost of providing larger tyres for the vehicles  against what is the benefit he i s gaining . So, to get 
+this information, we need to study or we need to know , what is the effect of varying wheel  
+parameters on tractive  performance?  
+So, what diameter or what width  of tyre carrying  a given load in a given soil condition beyond 
+which  with increase i n tyre diameter or with increase in tyre width, there is no further 
+improvement in tractive performance . That means  there is minimal improvement in tractive  
+performance. So, do this kind of exercise or to gather this information , we need to know what is 
+the effect of varying wi dth or varying diameter  so that we can calculate the tractive  performance . 
+When I say tractive performance , obviously, the questions which will come to our mi nd is what 
+are the parameters I a m going to study ? The first parameter is yo ur rolling resistance , the second 
+parameter is your coefficient of traction and third parameter is c oefficient  of gro ss traction.  In 
+fact, coefficient of gross traction  is nothing but summation of coefficient of rolling resistance 
+plus coefficient of tract ion.  
+(Refer Slide Time: 03:00 )  
+So, w hen you are interested in finding out coefficient  of rolling resistance then what are the 
+equations available and how can I utilize these equations ? The most important or most 
+commonly used equations  nowadays is your Brixius equation  which we discuss ed in our 
+previous classes. And the re is the rolling resistance  expression has been given as  
+ 
+Brixius  has also given an equation for c oefficient of gross traction  in terms of torque ratio. So, 
+which is given as  
+ 
+So, knowing these two equations , the third equation which is nothing but the traction  ratio that 
+can be computed.  But in this equation the important thing is what is Bn? And how do you 
+calculate B n? As you know Bn is nothing bu t the mobility num ber and mobility  number can be 
+calculated if you know the strength of the soil that is core index and the tyre section width and 
+the tyre diameter. In fact , tyre diameter has to be derived from a tyre section with knowing the 
+aspect ratio .  (Refer Slide T ime: 04:50 ) 
+ 
+So, first thing is , I will  try to calculate mobility number and mob ility number is nothing but  
+ 
+So, here the parameters which are going to affect the mobility number is cone  index then sec tion 
+width , diameter, W is the weight coming o n the wheel, then δ/h ratio, b/d ratio, these are the 
+parameters which are going to affect .  
+Now , for a given tyre, suppose in the market we have tyre sizes starting from 12 .4-28, 13.6-28 
+16.9-28, so,  what is the diameter , corresponding diameters ? If we know then we can take one 
+such wheel and then what is the load coming in the axle if we know then we can calculate and 
+δ/h ratio you have to assume 0 .2.  
+So, in this class I will try to explain what w ill happen if I increase b keeping d and δ/h constant . 
+Then increasing d , keeping b  constant and δ/h constant. So, how it is going to affect the rolling 
+resistance that is motion resistance  ratio and the torque or gross traction ratio?  Again , in the end I 
+will try to cover by keeping b and d  constant. I will  try to vary the tyre stiffness , tyre stiffness 
+means nothing but the δ/h ratio. So, usually we take 0.2 but will vary this and we will  see how it 
+is going to affect those traction  paramete rs.  (Refer Slide Time: 06:41 ) 
+ 
+ 
+So, what I have  done is I have  taken a 13 .6-28 tyre, is a bias ply tyre , which will give you a 
+diameter roughly around 1 .27 meter and the section  width  is 0.345 meter . And for wheel  slip of 
+10 per cent and δ/h of 0.2, I tried to vary the diameter. So, I varied the diameter  starting from 1 
+meter to 2 .4 meter and this exercise was carried out for three different soil conditions . As I said 
+soil condition is represented by CI and CI is nothing but 1000  kPa which is corresponding to 
+hard soil CI 500 means 500 kPa means, it corresponds to medium soil and CI 250 kPa means it 
+corresponds to soft soil.  So, these are the three typical soil conditions and there I will  try to see how the COT  is varying 
+and COT  was calculated as I said in the beginning in th e previous slide , COT  is nothing but mu 
+and this is the formula which will be used and taking this, I have calculated and then plotted .  
+So, these are the three curves  which I got the blue , black one is corresponding to CI  of 1000 kPa 
+and the orange one is corresponding to 500 kPa and the blue one corresponds to  250 kPa. So, in 
+all these three cases what you can observe is , by increasing the diameter from 1 to 2.4 meter  
+there is inc rease  in coefficient of traction but the rate of increase is less in hard soil and more in 
+soft soil and medium soil is in between , lying in between.  
+So, that means there is a benefit but the benefit is reduced after 2 meter, if you go beyond 2 
+meter in s oft soil, there is not mu ch increase, if you go beyond 1 .8 meter, there is no increase in 
+case of medium soil a nd in case of hard soil after 1 .6 meter 1.7 meter there is not much gain in  
+coefficient of traction.  
+Now, next thing is the COT . How it is varyi ng with the width, tyre width?  So, here what we have 
+done is we ke pt the wheel diameter as 1 .27 meter and then we vary the section width  starting 
+from  0.25 to 0.5 and this exercise was carried out for three different soil conditions again , hard 
+soil, mediu m soil and soft soil, a nd what you observed is COT  in all these three  conditions were  
+increasing.  
+The increase is more in case of soft s oil whereas, it is very minimal in case of hard soil and the 
+medium soil is lying  in between. So, that means there is a  benefit in increasing the tyre width  
+about beyond 0 .4 meter . In case of hard soil or in case of a medium  soil there is not much gain, 
+and in case of soft soil  even increasing the width to 0 .5 meter has some benefit. So, in all these 
+two cases I have kept δ/h ratio a s 0.2.  (Refer Slide Time: 10:37 ) 
+ 
+  
+Let us now see , how the coefficient of rolling resistance is affected , because only coefficient of 
+traction will not help you , we have to also see what is the effect of this tyre diameter an d tyre 
+section wi dth on coefficient of rolling resistance.  So, the left side figure what I have  done is I 
+have  taken diameter as 1 .32 then varied  the, no I have taken section width . as 0.345 meter and 
+then varied the diameter from 1 to 2.4 meter and keepin g δ/h constant that is 0 .2 and the weight 
+coming on the axle I have taken as 7.5 kN. So, the reason is , in a two wheeled tractor the normal 
+weigh t is 2400 kg so, that taking 65 per  cent 35 per cent weight  distribution in static co ndition 
+we come to a value of 7 .5 on each of the wheel , rear wheels .  
+Now, what we observed here is again coefficient of rolling resistance is decreasing . It is 
+decreasing for the three soil conditions soft , medium and hard when you increase the diam eter 
+from 1 meter to  2.4 meter, but the rate of decrease is more in case of soft soil as compared to 
+hard soil . No doubt there is decrease in coefficient  of rolling resist ance, but the rate of decrease 
+is reducing with increasing soil strength that means f rom soft  soil to hard soil  if we move at , the 
+rate of decrease is reduced .  
+Similar , exercise we have carried out for tyre section wi dth that means I have kept  diameter is 
+1.27 meter , diameter I have taken  1.27. δ/h as 0.2 and then vary the section width from  0.25 to 
+0.5 meter and this exercise was carried out taking into consideration the soil condition . Soil 
+condition mean s the CI value I changed to  1000 kPa then 500 kPa and 250 kPa.  So, if you look at this figure we can see there is  a reduction , reduction is more in soft soil and it 
+is medium in 500 kPa cone index soil and the rate of decrease  is less in case of 250 kPa that 
+means sorry , in case of 1000 kPa. So, in hard soil again the gain is a little lesser a s compared to 
+your soft soil.  
+So, these are the two parameters, then the third most important parameter is stiffness, tyre 
+stiffness . Usually the tyre stiffness is expressed as δ/h ratio. The more softer  the tyre , there will 
+be more deflectio n, harde r the tyre, deflection is less . So, that i s why δ is taken as this indication 
+for tyre stiffness. So, δ/h ratio you have taken , so, this tyre stiffness is nothing but δ/h ratio.  
+So, in this Brixius equation  while calculating the mobili ty num ber we keep the diameter as 1 .327 
+meter and section wi dth of the tyre  as 0.345 meter and only we  vary δ/h starting from  0.18 to 
+0.45 and this exercise was carried out for three different soil conditions 1000 kPa, 500 kPa, and 
+250 kPa. So, what we observed is , in case of hard  soil the lowest  side figure , lowest curve  we can 
+see the rate of decrease in coefficient  of rolling resistance is very minimal . You can see at 0.18 it 
+was 0.061, at 0.4 you can see it was 0.058 like that  where as, in case of a medium soil there it is 
+little higher . That means rate of decrease in rolling resistance is little higher as compared to hard 
+soil.  
+Now, in case of soft soil , yes you are getting maximum benefits that means, if you go on 
+increasing the δ/h ratio beyond 4 .4 still it is decreasing. So, there is a substantial benefit which 
+can be obtained in soft soil if you increase the tyre stiffness. Now, if you look at the right -side 
+figure where I have  indicated the COT  value coefficient of traction  value.  How it is varying with 
+tyre stiffness?  So, again tyre stiffness I have varied  from  0.18 to  0.446 a nd then for three 
+different soil conditions, I tried to carry out using the Brixius equation  what will the value of 
+COT . Now, what you observe n ow, yo u are getting maximum value of COT  when the soil is 
+hard, but by varying the stiffness from  0.18 to 0.3 at 0.32 after that, there is no gain , almost 
+constant . Whereas in case of medium soil, the increase in COT  is still continuing beyond  0.4 up 
+to 4.41 sti ll you a re getting benefit and in soft  soil even beyond  0.46 also that means, when the 
+δ/h ratio value is beyond  0.46 still we are getting some benefit.  
+(Refer Slide Time: 17:45 )  
+So, let us now put in a tabular form , what is the benefit which  you g et when we try to increase 
+the b value , when you try to increase the d value , when you try to increase the stiffness . All those 
+things are summarized in this table. So, let me go through this . The table in the first case, this is 
+referring to coeffic ient o f rolling resistance. So, coefficient of rolling resistance, how it is 
+changing, when you are keeping b fixed? T hat means  section width  fixed, δ/h ratio fixed and 
+only varied the diameter from 1 to 1.8 meter, then the reduction in coefficient of  rolling 
+resistance  in hard soil is only 21 .64 per  cent and in medium soil it is 30 .4 per  cent and in soft soil 
+it is 38 .68. That means  maximum reduction is possible in soft soil and minimum reduction is 
+possible in hard soil. In the second case, I kept d that i s diameter as 1 .22 meter and then vary 
+section width from  0.3 to 0.45 k eeping δ/h ratio as 0.2. So, what I observed is , there is a 
+reduction in coefficient of r olling resistance . It was only 7 .22 per  cent, and in medium soil 9.72 
+per cent and in hard soil 13.04 per cent.  
+So, that means as compared to b and d  there i s more reduction in increasing d  as compared to b . 
+So, if you look at this 30 .4-9.72, 38.68-13.04. So, there is more benefit in increasing the diameter 
+rather than increasing the secti on w idth. Now, the third component whichever it is δ/h ratio, 
+where I kept this section width  as 0.34 meter and d iameter  1.22 meter and then what I observed 
+is there is a reduction, reduction in coefficient of rolling resistance in hard soil as well a s med ium 
+soil and soft soil . In hard soil the reduction is 13 .61 per  cent, in medium soil the reduction is 
+17.45 per  cent and in soft soil  it is only 23 .27. So, that means, there is a benefit in increasing δ/h 
+ratio, but the benefit is more in case of  soft soil as compared to hard soil.  So, this is one part of the story that means, only coefficient of rolling resistance we have 
+observed . Similar exercise also we carried  out for the coefficient of traction and coefficient of 
+traction . What we observed is, by keeping b constant a nd δ/h constant 0 .2 and varying d  from 1 
+to 1.8 meter, you can see the ch ange in coefficient of traction.  It is only , there is an increase , 
+increase  in only 4 .62 per  cent. Whereas, the increase  in case of soft soil is 26 .08 per  cent. S o, 
+there is an increase but the  increa se is more in s oft soil.  
+Now, by keeping d constant  δ/h constant, width varied  be from 0 .3 to 0 .45 meter and what we 
+obser ved is there is a n increase of 1 .38 per  cent in hard soil . That means  there is ab solute there is 
+no much gain 1 .3 it is no gain, but there is certain amount of gain like very minimal gain, 
+coefficient of  traction that is around 6 .1 per cent and in soft  soil is around 19  percent  and keeping 
+b as 0 .34 meter , diameter as 1 .22 meter, when I increase the δ/h ratio from  0.18 to 0.46, again in 
+hard soil  the increase in coefficient  of traction is only 1 .86 per cent is very minimal. And in 
+medium soil, it was 7 .63 per  cent and in hard soil sorry,  in soft soil  it is 29 .59 per cent. So, the 
+benefit if you want to really gain then increasing diameter or increasing section width  or 
+increasing δ/h ratio.  The benefit is more in case of soft soil as compared to hard soil. A s usual, 
+whatever you have observed  in case of co efficient of rolling res istance, the dia meter has more 
+influence in reducing coefficient of roll ing resistance . Similar observations also we have we got 
+in case of coefficient of  traction.  Here  you can again see , the reduction is 26  per cent as 
+compared to increase in b it has on ly 19 per  cent and δ/h ratio that is giving very high value 29  
+per cent.  So, what we observed from these calculations based on Brixius equation  is, there is a 
+benefit in increasing these tyre parameters, but the benefit is mostly gain in case of soft soil and 
+in case of hard soil  there is no much gain.  
+And if your tractor is spending  most of the time in medium to soft soil, there is a possibility that 
+yes, we can go for increasing the tyre diameter rather than increasing the section width  and in 
+addit ion to tyre diameter if we can increase the δ/h ratio to say 0.4 then the benefit will be still 
+better. 
+(Refer Slide Time: 23:47 )  
+We have to calculate the rear axle dynamic weight then based on that and using  Brixius equation  
+you have to find out di fferent traction  parameters like COT , CRR  then tractive  efficiency then 
+you have to calculate from COT  what is the pu ll available and then what is the draft required by 
+the implement. So, once all these parameters are calculated, next thing is the dynamic weight 
+which is coming at the rear axle and part half of that will come on each of the wheels.  
+So, the dynamic load on the tyre whether it exceeds the maximum load carrying ability of the 
+tyre that condition has to be checked. If it is yes, then the tyre is not suitable for tractor . I can 
+straightaway reject this size of tractor . If it is no , then the next is whether the weight on the front 
+axle is more than 20  per cent of the total weight or not, t his will help you in steering that means 
+front wheel weigh t utiliz ation factor this much of weight is required minimum weight for easy 
+steering . If this condition is no , if weight on the front axle is not more than 20  per cent then we 
+have to say that the tyre is not suitable for the tractor to operate in this gi ven conditions, then 
+what you have to do is you have to add ballast that means you have to add weight . Once you add 
+weight again the we have to go back to check whether the total weight coming in the wheel is 
+lesser than the load carrying ability of the tyre or not , if no, then again we check the weight 
+whether the weight on the front axle is more than 20  per cent or not . If those conditions are 
+satisfied, t hen we have to go for checking whether the p ull which is developed by the tractor 
+keeping a power res erve of 50  per cent is equal to the draft which is required by the tillage  
+implement . In our case it is a mouldboard plough  and when this condition is satisfied that the 
+next check is that the p ull should be available at  less than or equal to 20  percent  of the wheel slip that is important.  If wheel slip  is more than 20  per cent,  then it is not recommended. So, we have 
+to say that the tyre is not suitable for the tractor to operate for the given condition.  
+So, to reduce slip, again we add weight and again t he sam e exercise will  be carried out . That 
+means, you a re going back to again check whether the tyre is able to carry this load or not then 
+the front axle weight all this checking’s  if it is satisfied, then we go for saying that the tyre is 
+suitable if the se thr ee conditions are satisfied, then will the tyre be suitable for the tractor to 
+operate that means pull is greater than the p ull required  and wheel  slip is less than 20  percent  at 
+the front wheel utilization front wheel  utilization  factor is more than  20 percent .  
+So, we go for we can say that the tyre is suitable for the tractor  to operate in these con ditions and 
+then you compute COT  tractive  performance and cost. So, that could be a possibility that two 
+three tyres  may satisfy this operating requirem ent li ke whatever conditions we have imposed. So, 
+in that case, we have to find out the least cost of the tyre  and which is satisfying these conditions.  
+So, that tyre can be selected if you a re getting little benefit in by paying some slightest increase 
+in price  then that is also preferred. So , the main thing is the technical requirement which you 
+discuss that those parameters has to be satisfied. So , in this way, we can carry out selection of a 
+tyre okay.  (Refer Slide Time: 28:06 ) 
+ 
+And this what you can  summa rize here is the Brixius  equation, it is the ASABE  draft equation 
+and the front rate utilization factor  and the wheel slip these are the four factors which will control 
+how to select a tyre for a given soil conditions and operating condition. Thank y ou.  
+ 
+ 

@@ -1,0 +1,105 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian  institute of Technology, Kharagpur  
+ 
+Lecture  - 24 
+Heat Exchangers (Contd.)  
+ 
+Hello everyone , welcome to NPTE L online certification course on Fundamentals of 
+Food Process Engineering ; we are discussing now  Heat Exchanger ok. 
+(Refer Slide Time: 00:46 ) 
+ 
+So; we have already covered  few topics  including the  definition , types of heat exchanger , 
+then we have discussed the analysis of heat exchanger .  
+(Refer Slide Time: 05:59 )  
+Heat exchanger effectiveness and number of transfer units (NTU):  
+To determine the inlet and outlet temperatures for a particular heat exchanger, the 
+analysis done more easily by a using a method based on heat exchanger effective ness 
+and number of transfer units (NTU).  
+The heat exchanger effectiveness (ε) is defined as the ratio of actual heat transfer to the 
+maximum possible heat transfer.  
+ 
+The actual heat transfer of heat exchanger is given by:  
+ 
+So, actual heat transfer means the  heat transfer from the hot fluid to t he cold fluid that we 
+are getting ; that means, the m Cp Δt for the hot fluid or m Cp Δt for the cold fluid . So, 
+effectiveness ε that is equal to actual heat transfer by maximum possible heat transfer  so 
+Q /Q max.  
+ (Refer Slide Time: 08:40 )  
+The maximum p ossible heat transfer will occur if the outlet temperature of the fluid with 
+smaller values of heat capacity (C h or C c) is equal to the inlet temperature of other fluid.  
+So C h or Cc which is  respectively the heat capacity of hot fluid and cold fluid  which  is 
+equal to (ṁ h × Cph ) and (ṁ c × Cpc ). Now if the flow rate the hot fluid is less or if the 
+specific heat that is heat required to  increase per unit temperature for that particular fluid 
+is lower  so Q will  be lower and similar is the case of cold fluid .  
+ So we can  say, 
+ 
+Q max will be minimum among these two values.  
+ 
+So heat transfer is given by the following equation,  
+ 
+ (Refer Slide Time: 15:17 )  
+Number of transfer unit method (NTU):  
+Heat exchanger effectiveness is a function of several variables. But it is in convenient to 
+combine them in a graphical form. Heat exchanger effectiveness can be expressed as a 
+function of three non dimensional parameters, which is known as NTU method.  
+Dimension less parameter:  
+1. NTU = (UA/C min) 
+2. R = C min/ C max 
+3. Flow arrangement.  
+U = overall heat transfer coefficient  W/m2 °C, A is the area m2, C min that is ṁ (mass 
+flow rate) ×  CP (specific heat ).  
+(Refer Slide Time: 16:40 )  
+Effectiveness of parallel flow heat exchanger   
+The heat exchange dQ through an area dA is given by:  
+                                                
+  
+So, U into d A that is the elemental area  multiplied with temperature difference between 
+the hot and cold fluid  so this difference  is the driving force for moving d Q amount of 
+heat through the d A amount of area from t he hot fluid to the cold fluid . So, for the hot 
+fluid we can write ; ṁh Cph dth and we are putting minus sign , because  it is reducing with  
+increasing A that is equal to ṁc (cold fluid flow rate ) × Cpc × d tc so this is increasing 
+towards  increasing A.  
+So, Ch and Cc heat capacity of the hot and cold fluid respectively .  
+ 
+  (Refer Slide Time: 21:31 ) 
+ 
+Integrating we get,  
+ 
+ 
+We know,  
+ 
+ 
+ 
+ So, th2 will be the lower temperature than th1, similarly tc2 will be higher than t c1 because , 
+tc1 is going to  increase to tc2. So basically , this is kind of the  fraction that we are  
+achie ving by the ratio of C min /Cc so, if it is very close to this  so, we can get  
+effectiveness  higher .  
+So, because  if effectiveness will be 1 in that case C min will be equal to Cc and this  tc2 will 
+be eventually  th1 so this is how we have found out th2 and tc2. Now, in the previous in this 
+case that we are we are getting th2 minus t c2 here we will substitute these two  equation s. 
+So, from here th2 - tc2 we will put th ese two equation s to remove this value t h2 and t c2 
+right . 
+ (Refer Slide Time: 26:56 ) 
+ 
+Elimin ating t h2 and t c2 from the above equation we get,  
+ 
+Now the thing is which one is minimal Ch or Cc based on that we can define 
+effectiveness , 
+1. If C c > C h, then,   
+2. If C c < C h, then,  
+ 
+Combining both the two equation we get,  
+ 
+ 
+(Refer Slide Time: 30:36 ) 
+ 
+The effectiveness of parallel flow heat exchanger is given by,  
+ 
+In this case the temperature of the both the fluid decreases along the length of heat 
+exchange. So the heat flow equation is given as follows:  
+ 
+Rest of the derivation approach is same as parall el flow case. So, the final derived 
+equation is follows:   
+Thank you . 

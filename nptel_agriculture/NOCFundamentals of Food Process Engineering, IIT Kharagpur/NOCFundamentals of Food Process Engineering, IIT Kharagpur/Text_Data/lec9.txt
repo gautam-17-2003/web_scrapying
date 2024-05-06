@@ -1,0 +1,194 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 09 
+Rheological Properties of Viscoelastic Food  
+ 
+Hello everyone , welcome to the  NPTEL online ce rtification course on Fundamentals of 
+Food Process E ngineering . We will continue with the viscoelastic properties of food 
+today . So, Rheological Properties of Viscoelastic F ood that we have started in the last 
+class will continue with that. As I said that  visco elastic food can be characterized by the 
+stress relaxation behavior , creep behavior . So, the test of stress relaxation and creep can 
+be performed to understand the behavior  of viscoelastic food . And along with that 
+another  study is the  oscillatory  study, so that we will also see in this class .  
+(Refer Slide Time: 01:16)  
+ 
+Stress relaxation test  
+In viscoelastic material , if we apply constant strain on it fo r a long time , then with time 
+the stress require to maintain that strain  will die down gradually o r that will decrease 
+gradually . So that means,  the stress required maintaining  the strain initially will be 
+reduced as the time  will pass , so some  deformation or some flow will be there . So the 
+time required to  get the full relaxation behavior  is called th e relaxation time and that time 
+varies from different food products . So, let us see this figure first , what we are doing is initia lly from the  0 condition , we are  
+moving onto in t he time scale in the x direction . At t = 0 we are a pplying a constant 
+strain  γ0 and we are maintaining that strain through out. So, an idea l elastic material will 
+require  the constant stress to maintain the strength because in  case of ideal elastic 
+material stress is proportional to strain , so the stress will be constant as long as the strain 
+is maintained as γ0. 
+Now  in the ideal viscous material , it will start flowing instant ly and if it is viscoelastic 
+material with elastic property in higher degree , so initially when the strain is applied to 
+γ0, stress is been reached to  the maxim um value and then gradually this stress will 
+decrease . So, this stress will decrease to some extent not fully and then it will maintain or 
+try to come to a constant level after that . How ever if it is  visco elastic liquid  then the 
+curve  will exponentially de cay to a high er degree compared to the visco elastic  solid and 
+eventually come to  0 condition of the stress . 
+Since the viscous material which is  ideal viscous or pure viscous material , respond 
+immediately with applied stress and start flowing . So, when the material flows it tries to 
+dissipate that energy that comes into it a nd it flows completely it does  not come back to  
+its initia l situation ; that means, it does  not have the property of storing that energy . 
+So, it will try to dissipate that and eventually c ome to the  0 stress condition whereas, the 
+material which has a high solid content compared to the viscous material  in that case  
+some amount of  decay  we will observe ; however, it will retain some amount of energy  
+and it will recover to some degree with res pect to the elastic property in it  and σe that is 
+the residual stress will remain there . 
+So, stress in case of visco elastic material , will follow this pattern  
+ 
+σ0 = initial stress , where  t R is the stress relaxation time .  
+So, if t = t R , 
+  
+                  
+  
+So, relaxation time will be obser ved when the material  when the stress in case of a 
+viscoel astic material has reached to 36.8 percent of  it is initial  stress . 
+So, time constant mathematically is the reciprocal of the first order rate constant in a  
+simple first order exponential decay reaction . So, elastic and viscous effect on material  
+we can  perceive that in such a manner like; in elastic material the molecules that  are 
+combined to form that elastic material , are having a strong attraction force a nd when we  
+strain them or we apply a constant stress,  they try to  oppos e it by having strain ed in the 
+materi al. But if we apply the stress  within the elastic limit ; that means,  no rupture or  
+break will be observed , this energy is stored in the material  and when we  remove  that 
+stress , it is come to  it is initial condition that  is the elasticity . 
+Now,  when we consider the  viscoelastic material  or in that the viscous effect will be 
+visible along  with the elastic property . So, in case of viscous material , the m olecules in 
+the viscous material are  connected by the non-covalent  forces , Vander Waal forces  and 
+when some constant stress we apply on them  these  bond energy will try to  reorient and 
+they form some  different kind of  Vander Waal forces , non covalen t forces  again , but  
+they also release some amount of energy . So, that energy dissipates  in the form o f heat ; 
+which is  not recoverable . While try to  regain the initial condition or the stress is 
+removed , we cannot  get back to the initial situ ation because the lost energy is not 
+recoverable ; however, to some extent the  bonds will have certain amount of energy  so, 
+that it can get back in case of the viscoelastic material .  (Refer Slide Time: 11:14)  
+ 
+Mechanial model to represent viscoelastic material  
+In viscoelastic m aterial it will have both the properties of  elastic  nature and viscous 
+nature .  
+So, elastic model that is spring model , it has been considered that spring can express the 
+ideal elastic nature . So, spring when  applied by a constant force F, it expands  and the 
+deformation x can be related with the applied force in this manner ;  
+F = K x where K is the spring constant that is almost equivalent to  elasticity.  
+On removal of  the force F, the spring tries to come to  its initial condition . So, an ideal 
+solid elemen t obeys Hooke’s  law that is shear stress proportional to strain γ and there is a 
+proportionality constant G that is called the elasticity  or elastic modulus .  
+τ =Gγ 
+Viscous property  
+Viscous p roperty is explain ed by dashpot and in case of a dashpot  when the force is 
+being applied on , it tries to move  or flow and dissipa te that energy . So, the behavior  that 
+we can  get here that is the force will be proportional to constan t C into dx / dt.  
+ So, the flow  is being express ed by dx / dt, the rate of extension varies linearly with force  
+F acting on the system  . 
+So, this will follow  the Newton’s  law of viscosity   
+ 
+ 
+μ is the dynami c viscosity .  
+So, combined ly spring and the dashpot  may be used to describe different kind of 
+visco elastic behavior . 
+(Refer Slide Time: 14:40)  
+ 
+Maxwell mode l  Spring and dashpot are connected linear ly in a series . So,  here stress relaxation  of 
+viscoelastic liquid e specially polymeric liquid can be express  as; initially when the stress 
+is applied  so it will come to the spring , so, spring will expand following the elasticity . 
+So, it is dir ectly proportional to the applied stress , so, stress  will be fe lt when the force is 
+applied  on it. Now as this  force will be transferred to the dashpot , it will try  to flow and 
+dissipate that energy  so, and gradually  it will come to a constant state . Asymptotically 
+exponential ly decay will be observed over tim e.  
+So, this is a  Maxwell model that can express the stress relaxation behavior  of viscoelastic 
+liquids  in which , first because of this elastic property an d then viscoelastic liquids. So, 
+almost  complete dissipation is there , but the stress is not coming to 0 because some 
+elastic behavior  will be there . 
+So, in the series arrangement when any stress  is applied, stress is  equally transmitted to 
+the dashpot as well as the spring , but the strain will be different for  spring and the 
+dashpot . So, in the series ar rangement , total she ar strain can be expressed as the 
+summation of the strain  in the spring and the dashpot .  
+γ = γ spring + γdashpot  
+So, differentiat ing this to get the rate  
+  
+because it will have both elastic and viscous property . 
+So, we know that for th e elastic material τ = Gγ and for the  viscous material we had  
+ 
+So, if in this equation differ entiating  with respect to time  
+we, we wi ll get we will get this   
+Now, consider ing this equation ,  
+ 
+λrel= relaxation time  
+ 
+μ is the  viscosity  of the material , and G will be the  elastic modulus of the spring . 
+(Refer Slide Time: 20:25)  
+ 
+So, again  we have got this expression  
+ 
+ For a constant strain γ, shear rate, γ˙ becomes zero ,  integrating with respect to 
+time,   
+t = stress relaxation time  
+ Describes the gradu al relaxation of stress (from τ 0 to zero) after the application of 
+a sudden strain. This relationship helps determining the relaxation time (λ rel), 
+which is the time it takes for the stress to decay to 1/e (36.8%) of its initial value.  
+ (Refer Slide Time:  22:12)  
+ 
+Maxwell model has been modified by adding another spring in parallel to analyze  the 
+behavior  of equilibrium stress . 
+ Not suitable for many viscoelastic materials since it does not include an 
+equilibrium stress ( τe).  
+ A parallel spring connected to  the Maxwell element.  
+ The stress relaxation equation  
+ 
+  
+  
+G0 = elastic modulus or spring consta nt here and γ0 is the strain ,  
+ 
+In many viscoelastic materials , it has been found that the full  dissipation of energy may 
+not happen;  some may be retained insi de the material because of the  elastic behavior . So, 
+if we take that  τ will not become completely τ 0. So, therefore, this equilibrium stress 
+conce pt has been introduced here.  
+(Refer Slide Time: 25:13)  
+ 
+Combined mechanical Models  
+a seven -element Maxwell m odel (three Maxwell elements and a free spring) used to 
+model cooked potatoes.  
+The stress relaxation data of osmotically dehydrated apples and bananas were modeled 
+using two terms Maxwell model.  
+Osmotic pretreatment decreased relaxation time of dehydrated  samples, showing that 
+sugar gain increases viscous nature but decreases elastic nature of fruits.  So, relaxation time decrease showing that the sugar gain increases the viscous nature, but 
+decreases the elastic nature of the fruits, that is why relaxation  time decreases.  
+ 
+So, this different kind of complexities in a model  is useful for  different kind of  food 
+material  and their behavior , their cooking  behavior , their swelling behavior , gelling 
+behavior . 
+ (Refer Slide Time: 27:28)  
+ 
+ Creep test : 
+ The corollar y to stress relaxation is strain retardation or creep i.e., how strain 
+responds over time to a constant applied stress.  
+ Creep test can be performed in uniaxial tension or compression.   
+So, here we maintain a certain strain or deformation for longer period of time, and the 
+amount of stress needed to maintain that strain  is measure d over the time period . Here a 
+constant stress  is applied  and with time , strain  in the material  is observed .  
+Now  for the el astic material elastic material, stress is proporti onal t o strain and when we 
+withdraw that stress , we can gain the  initial nature of the material . So, for ideal elastic 
+material strain will be constant till the stress disappears . So, then it will recover  its initial 
+condition instantly . In ideal viscous materia l, they will show steady flow behavior  when t he stress is constant 
+strain will increase over time . And when we remove the stress , the flow  which already 
+has happened , will be there and it will maintain that  one. So, initial condition will not g et 
+that is it will maintain the deformation when we take out the stress by maintaing  that 
+flow. 
+Now, if it is a viscoelastic material , it will have certain property for which the flow  will 
+takes place and also it has certain properties for which the elastic behavior  will be 
+visible . So, it will f low, but when we remove the stress , it will try to regain  its initial 
+condition . So, partial recovery will be possib le following the exponential decay curve 
+and some amount of permanent deformation will be there because of  it is viscous nature , 
+with amount of  recovery.  
+So, how the material the strain response over time because of applied stresses  that is the 
+creep behavior . So, we can see that for the visco elastic material under the same stress for 
+a long time , the material will deform permanently or show a creep behavior .  
+Thank you . 

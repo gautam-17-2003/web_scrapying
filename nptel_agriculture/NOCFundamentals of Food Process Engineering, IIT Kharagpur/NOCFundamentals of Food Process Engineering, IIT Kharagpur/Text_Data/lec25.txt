@@ -1,0 +1,135 @@
+ 
+ Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 25 
+Heat Exchangers (  Contd.  ) 
+ 
+Hello everyone , welcome to NPTEL  online certification cou rse on  Fundamentals  of 
+Food Process E ngineering . So, today  we will continue with the topic of Heat Exchanger . 
+This is the last class on heat exchanger , where we will  see the remaining things we have 
+discussed most of the  parts of the heat exchanger the important  aspects of the design . 
+(Refer Slide Time: 00:52)  
+ 
+Effectiveness when R = 0.  
+In certain cases temperature does not  change where the phase change is involved e.g  the 
+condenser and the evaporator . So,  in case of condenser , hot fluid temperature does not  
+change . In the temperature profile  along the length or  along the surface area , we will find 
+that t h will be constant and t c will be varying . Now,  we are getting R  as the cap acity ratio 
+this is C min /C max.   
+ (Refer Slide Time: 02:47 ) 
+ 
+1. When R = 0 (Condenser and boiler)  
+So, then what will happen that when your  when your temperature of the hot fluid 
+does not  change , so the maximum possible  transfer will be (t h1 - th2 )/(th1 - tc1). So, t h1 
+- th2 becomes 0,  because they do not  change . Similar thing happen in cas e of the  
+evaporator , the temperature of the col d fluid will be constant tc1 - tc2 = 0. A nd the hot 
+fluid will eventually decrease t h1 to t h2.  
+For both parallel flow and counter flow we got:  
+ 
+2. When R = 0 (Condenser and boiler)  
+For parallel flow:  
+ 
+ 
+For cou nter flow:  
+ 
+  
+ 
+ 
+ (Refer Slide Time: 04:48 ) 
+ 
+Application of  heat exchanger   
+Oil industry ,  
+ for heating or cooling , for refining  
+ edible oil cooler , and heater ,  
+ esterification of biodiesel all other application .  
+Dairy products - pasteurization  and steriliz ation  this happens .  
+Egg products  heating and cooling of egg   
+Fruits and jam processing - heating in order to lower the product ’s viscosity or heating 
+and cooling mechanism .  
+Viscous liquid always  put in the inner tube , for easy  cleaning and sanitation as these are  
+important part s in the food industry . So, after every processing , it is to clean the 
+equipments properly  and do the CI P process . Different stage s of cleaning takes place  to 
+avoid  dirt or  deposition in the  inner tube or outer tube .  
+ And if it is the re from microorganism , it may grow  and spoil or contaminat e the food . 
+So, sanitation is very important and keeping that in mind the design of the heat  
+exchanger will be such that it can be cleaned. B ecause , these  material has many 
+dissolved particles or  materials into the liquid  for that the viscosity is also very high . So, 
+it is to be  pump ed.  
+ Then in the S auce industry , heating in order to lower  the products viscosity ; 
+sterilization for the seafood cooling.  
+ Sterilization  for meat -based product and prepare d dishes heating , and cooling  we 
+need to perform , then recovery of fat , protein etcetera . This is also being done  
+using the heat exchanger . 
+(Refer Slide Time: 09:56 ) 
+ 
+Tubular heat exchanger  - two concentric  tube is there.  
+From the inner tube generally th e liquid which is to be processed that is entered . And in 
+the other the annular spaces the processing  is being done using  the hot  fluid or the cold 
+fluid as the requirement may be .  
+Shell and tube heat exchanger - There may be sometime bundle of tube  insid e or in the 
+inside one single tube kind of configuration is also available . Shell and tube heat 
+exchanger this is also very commonly  used particularly , in case of condenser and  
+ evaporator . We use shell and tube heat exchanger , because they can withstand th e large 
+variation  of pressure as well .  
+And there also may be single  shell pass , single tube pass or  different configuration , like 
+one shell pass , two tube pass or two shell pass , four tube pass like different  
+configurations are there , the baffles are ther e.  
+Plate heat exchanger is very common in the regeneration section of the milk pasteurizer  
+this has very  flexibility in terms of increasing or decreasing  the capacity of the plant . So, 
+you just need to  add more number of  plate s, which we cannot do, in cas e of area that 
+geometry like shell and tube or double tube like that . So, there is flexibility . 
+Scrapped surface heat exchanger - Suitable for  very sticky material e.g  fruit pulp 
+concentration . It consists of  a central shaft and a scrapper  with scrapping su rface of the 
+heat exchanger . It avoids the  deposition and  thereby the heat transfer coefficient  can be 
+maintained . Because if deposition happens , so heat transfer will be lowered , that will 
+offer a  scale deposition and re giste r resistance to heat flow . And that material which is 
+stick to the wall will be  burnt eventually . So, that is why scrapped surface heat exchanger 
+is used in those cases .  
+(Refer Slide Time: 12:55 ) 
+ 
+Conclusion:  
+1. Heat exchangers find a variety of applications in various bioprocess indust ries.  
+ 2. In Food industry, for production of juices, hazel nut pastes, yoghurts and other 
+products, ethanol production and beverage Industry for production of wines, beer, 
+ethanol, vinegar. Cryogenic processes, sterilization techniques and 
+pharmaceutical Indu stries also employ heat exchangers to a large extent.  
+3. The limitations in each industry are different and according to each modification 
+are made in the design of the exchanger.  
+So, what we can do ? One thing if  the phase changes  involve , we can design  multiple pass 
+shell and tube heat exchanger to increase the surface area ; or else we can design the 
+compact heat exchanger  as with the fin. S o depend ing on the requirement , design can be 
+done.  
+(Refer Slide Time: 14:18 ) 
+  
+ In a certain double pipe heat exchanger  hot water flows at a rate of 5 0000 kg/h and gets 
+cooled from 95℃ to 65℃. At the same time 50000 kg/h of cooling water at 30℃ centers 
+the heat exchanger. The flow conditions are such that overall heat transfer coefficient 
+remains constant at 2270 W/m2 K. D etermine the heat transfer area required and the 
+effectiveness, assuming two streams are in parallel flow. Assume for the both streams cp 
+= 4.2 kJ/kg. K  
+ (Refer Slide Time: 15:33 ) 
+ 
+In the configuration , both stream s are parallel . So, we have drawn the  temperature profile 
+along the length  or along the  surface area . So, temperature of the hot fluid inlet was  95 
+when  it is reducing to t h2 that is 65 and inlet temperature of the cold one is 30 °and tc2 is 
+to be calculated .  
+  
+  (Refer Slide Time: 16:52 ) 
+ 
+Now, if we want to calculate the area , we need the  temperature drop between the two 
+fluids and for that  log mean temperature difference between these two fluid s is  
+ 
+ 
+  
+  (Refer Slide Time: 18:18 ) 
+ 
+ 
+ 
+ 
+So, it was given that it is a double  pipe heat exchanger . So, it will look  like this with the 
+surface area of heat transfer that we are getting. So, this is actually  2 π r l = 32.95  m2. 
+ 
+Thank you . 

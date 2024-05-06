@@ -1,0 +1,152 @@
+Traction Engineering  
+Professor : Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 37: Lateral force developed by an unpowered tractor wheel  
+ 
+  Hi everyone, this is Professor H. R aheman from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL  course on Traction  Engineering.  
+Today is lecture 37, where I will try to cover the lateral force developed by an unpowered 
+tractor wheel.  
+ 
+  In my previous class in lecture 36, where I tried to discuss about the cornering force, where  I 
+have given examples related to car tyres and truck tyres. The reason is , we do not have much 
+literature related to cornering force  developed by the tractor  tyres. So, there are very little 
+literature available and in IIT Kharagpur , we have conducted a study how  to measure the lateral 
+force developed by an unpowered tractor wheel, so that I am going  to discuss today. So, 
+basically,  I will try to find out what are the factors which are affecting the lateral force  
+developed by an unpowered wheel.  
+ 
+  Unpowered wheel means is the tractor front wheel. In a two-wheel  tractor the tractor front 
+wheels are unpowered wheels. And then we will try to develop equations , how to estimate the 
+coefficient of lateral force  from which we can find out what will be the lateral force developed 
+for a given soil  condition. As you know that the lateral force developed when camber angle is 
+0, depends on slip angle, it  depends on normal load, it depends on type of tyre. So, the 
+experiments which you conducted , first we tried  to develop a set up where you can vary  these 
+parameters.  
+ 
+  Parameter means the slip angles, parameters mean  the normal load and the inflation pressure , 
+is because we are talking about contact patch , the lateral force which is developed at the contact  
+patch.  So, obviously,  the normal load and the inflation pressure both are responsible for 
+developing  a contact for developing a contact area ok.  More the load, lesser the pressure, more 
+will be the contact area, so likewise.  So, the set up which we developed I have given you 
+different views in addition to that I hav e given you isometric view, there will be a wheel 6 -16 
+8 ply rating wheels which are normally  provided in a 2-wheel  drive tractor.  And there is a 
+provision to vary the slip angle.  
+ 
+  So, you can see in the figure top view there is a plate given , ok, where the axle of the wheel  
+can be rotated. If you change the positions , that will give you different slip angles. So, slip 
+angles can be varied from 0 to 40 °. The one end of the axle , which is fitted , on which the wheel 
+is fitted is supported on this  plate, the other end is supported , is supported on a transducer , extended octagonal ring  transducer which is a pivoted at one at one point, so that you can easily 
+rotate the  wheel. The axle of the wheel is inserted into this extended octagonal ring transducer.  
+ 
+  So, there is a b ush to which the axle can be inserted then whatever force side force is  coming 
+that will be recorded. So, this is the kind of arrangement . I will show little bit how the forces 
+are recorded. So, when you try to pull the wheel forward there will be forces acting.  So, I have 
+resolved these forces.  The side force is the Pcos α + Fssinα, where Fsin α, where F is nothing, 
+but the pulling or the rolling resistance we can say.  
+ 
+  So, we are interested about the side force Pcos α and F sinα. So, summation of Pcos α+Fsinα, 
+so that will be the total side  force which is acting on the wheel and that has to be measured by 
+a Wheatstone bridge extended  octagonal ring transducer , where the Wheatstone bridge are , 
+principles are , Wheatstone bridge principle is used to measure the forces. The axle is inserted 
+in this bush  and one end is mounted on the frame, so that you can easily  change the position of 
+the axle. So, thereby you can change the slip angle. Now once you know the arrangement then 
+what are the parameters we try to vary.  
+ 
+  So, this study has been conducted in a sandy clay loam soil where the properties are given 
+here, are listed here like what is the coarse  sand percentage, fine sand percentage, silt, clay , 
+then what is the b ulk density, a moisture content, cone index value, cohesion, frictional angle . 
+C and ϕ values are given. So, we try to study the lateral force measurement in a sandy clay 
+loam soil at a cone index value of 456  kPa which is nothing but your medium soil , soft to 
+medium soil and then at  a moisture content of 13 percent.  And the parameters which we varied 
+is normal load, then inflation pressure . Normal load we  vary from 1.6 kN to 2.6 kN, then 
+inflation pressure we varied from 165 kPa to 207 kPa and the slip angle which we tried is from 
+0° to 30°. 
+ 
+  0° means , the wheel is vertical we are not changing . 5°, in steps of 5 °, we studied and the 
+parameters we measure are the lateral force, rolling resistance, tyre deflection and tyre contact 
+area. Now when you try to plot the lateral force versus slip angle for this condition  which I  just 
+now told. So, you can see that lateral force is increasing at a faster rate than it is slowing down 
+and thereafter  somewhere it is increasing , somewhere it is going down. So, lateral force is a 
+function of slip angle , is a function of normal load , more the load more  the lateral force . And 
+the relationship between lateral force and the slip angle is linear  up to a certain degree of slip 
+angle beyond that the relationship is irregular. Why it has happened ? Because irregularity is 
+because of the accumulation of soil , because the  soil on which we tried to test , it is a soft soil.  
+ 
+  So, virtually the wheel is dragging some amount of soil in the front because of that , when 
+there  is accumulation of soil the resistance will increase. So, the lateral force will increase. So, 
+that is the reason why there is an increase or decrease in the lateral force at a higher slip  angle.  
+So, this is the case when the inflation pressure is 165 kPa. Now increase the inflation pressure to 186 kPa and I tried the same experiments that means I varied the same variables like normal 
+load and slip angle and what we observed is the same trend up to 10 ° the lateral force is 
+increasing at a faster rate they are almost linear , the lateral force and slip angle they are related 
+after that somewhere it is decreasing , somewhere it is increasing , the reason is same.  
+ 
+  Now if you compare figure A with figure B the difference is the lateral force which is  
+developed at an inflation pressure of 165 kPa and the lateral force which is  developed at 186 
+kPa they are not same. The force which is developed with maximum load you can say 2.6 kN 
+is roughly around , maximum force is around 2000 N whereas , in case of 186 kPa it is around 
+1700  N. The reason is the contact area . Since the lateral force is developed at the contact patch , 
+more the contact area more will be the lateral for ce and lesser the contact area lesser will be  
+the lateral force developed.  The same exercise we tried with 207 kPa and what we observed 
+same thing that lateral force  is increasing with increase in slip angle up to certain degree and 
+beyond that there is either it is constant or decreasing or increasing.  
+ 
+  So, from these three figures what we can conclude is lateral force is a function of normal load, 
+is a function of inflation pressure  and slip angle for a given tyre and in a given soil condition 
+that is to be taken otherwise no it is also dependent on ah soil condition.  So, once you identify 
+then how to estimate this lateral force ? So, what we did is we tried to define a parameter called 
+coefficient of lateral force.  What is it?  It is the ratio of lateral force to normal load.  So, when 
+you try to plot the coefficient of lateral force for three different conditions, conditions  mean  
+three different inflation pressure for three different , three  different normal loads . What we 
+observed here is it is basically an exponential relationship  which is fitted for all these three 
+conditions whether it is a inflation pressure  165 kPa, whether it is an inflation pressure of 186 
+kPa or whether it  is an inflation pressure of 207 kPa. 
+ 
+  In all these cases the curves are merged into one curve and that can be expressed by this 
+equation . Cαf which is nothing but the coefficient of lateral force ok is equal to a×(1-e-Bα) where , 
+α is the slip angle in degrees ok.  Now C αf is dimensionless because lateral force by normal 
+load, it is a dimensionless.  So now it becomes easier for us to estimate the lateral force because 
+if C αf is related to  α by a simple equation if you know α then you can estimate the coefficient 
+of lateral force provided we know the values of a and B.  So, we try to find out now what are 
+the values of a and B.  So, these values are listed in this table which I am going to show now.  
+ 
+  For different inflation pressures , we try to find out the values of a, B and the relationship  the 
+equations which we developed , what is it is R2, what is the standard error  of estimate.  So now 
+what we observed here is with increase in inflation pressure , the coefficients are decreasing 
+whereas B is increasing in the third digit we can see 1.174, 0.175, 0.176 and  the R2 value is 
+very high and standard error estimate is also very low.  
+   So that means if you know A value B value , simply put these values  in that equation and then  
+find out what is the coefficient of lateral force.  But we then try to develop that instead of 
+calculating individually if you can relate this  A and B with inflation pressure as we saw that 
+this is varying . So, we try to correlate these values of A with inflation pressure and what we 
+obtained is , they are linearly related  to the inflation pressure. A can be written as , A is related 
+to the inflation pressure by an equation : -0.0028P+1.1725 .  
+Similarly,  B can be related to inflation pressure : 4×10-0.5P+0.1668  that means  if you know the 
+inflation pressure in this equation the pressure is in kPa. So, immediately we will find out . Once 
+you know the pressure at which you are going to  operate then the A and B values can be 
+calculated then these values  can be substituted in  that equation as C αf lateral force is equal to 
+A×(1-e-Bα) and what is the slip angle if you know , immediately you can calculate what is the  
+value of C αf. Now, we know what is the load acting on the wheel so C αf × load will give you 
+the lateral  force which is developed at the contact patch. So, in brief what we have done is we 
+try to find out what are the parameters which are  affecting then we try to study how these 
+parameters are influencing the lateral force for  a tractor front tyre which is 6 -16, 8 ply rating 
+tyre and we tried in a particular soil condition in a soft soil and then we try to find out how this 
+lateral force can  be estimated.  
+ 
+  So, the equation which we developed this has to be a verified whether it is applicable to the 
+experimental values which are done later or not on the basis of experimental values which are 
+used for developing the equation . To verify this model , we tried it  by conducting some more 
+experiments and what we observed is very good result that means R2 is nearly 1 and then we 
+can confirm that the equations which is developed , that is  exponential relationship which we 
+developed between the coefficient of lateral force and the slip angle can be utilized for 
+estimating the lateral force developed by a tractor tyre. So, in brief the lateral force which is 
+developed by a tractor and powere d wheel is found to be a function of slip angle , is a function 
+of normal load , is a function of inflation pressure for any particular soil condition and  we tried 
+to study this lateral force by varying this parameter . Then we tried to develop  an equation and 
+we found that an exponential relation be sufficient to estimate the coefficient of  lateral force 
+for an unpowered tractor front wheel at a slip angle between 0 to 30°. So, this indirectly a study 
+which we conducted at  IIT Kharagpur that has been discussed since no much literature related 
+to tractor tyres are available that is why I pre sented it. So, this has been taken from one of the 
+papers which  I published  in a journal of Terra mechanics in the year 2014. Thank you.  

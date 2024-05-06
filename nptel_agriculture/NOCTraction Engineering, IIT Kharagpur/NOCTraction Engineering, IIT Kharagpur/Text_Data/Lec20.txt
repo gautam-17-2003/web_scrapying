@@ -1,0 +1,219 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  20  
+Tutorial  4: Tractive Performance  Estimation  
+Using  Brixius  Model  
+Hi, everyone,  this is Professor  H. Raheman  from Agricultural  and Food Engineering  
+Department,  I welcome  you all to this NPTEL  course  on Traction  Engineering.  This is lecture  
+20, where  I will try to do some  tutorials  related  to computation  of tractive performance  using  
+Brixius  model.   
+(Refer  Slide  Time: 0:51) 
+ 
+So, what  I will cover  here is, how to find out the dynamic  weight  on the front  and rear axle of 
+a tractor.  Then  I will try to compute  the tractive performance  parameters  of a tractor  using  
+prediction  equations.   (Refer  Slide  Time:  1:07) 
+ 
+The first problem  is, a 50 hp 2WD tractor  with a total weight  of 2400  kg has the option  of 
+fitting  either  13.6-28 or 16.9-28 tyres  on the rear axle.  So, you have  to select  a suitable  tyre 
+size, if the tractor  is to be operate d most  of the time in horizontal  surface  areas  where  with an 
+average  cone  index  of 200 kPa and with the static  weight  distribution  of 35 and 65 per cent 
+on the front  and the rear axles , respectively.   
+And the δ/h ratio is to be taken  as 0.2 and the aspect  ratio is to be taken  as 0.75 and there is 
+no weight  transfer  during  its operation  in the field.  That means,  here the basic  aim is to find 
+out what  is the equation  which  you are going  to utilize  for computing  this or for selecting  a 
+suitable  tyre. So, it is the again  the coeffic ient of rolling resistance  that is the main  parameter  
+and coefficient  of gross  traction . These are the two parameters  which  can be utilized  to select  
+a suitable  tyre.  
+So, as you know  Brixius  equations . First thing  is, you have  to come  up with the mobility  
+number.  So, mobility  number , for calculating  mobile  number  we have  to find out what  is the 
+tyre diameter.  So, tyre diameter,  there  are two tyre specifications  are given  one is 13.6-28 
+tyre, the other  one is 16.9-28 tyre. So, if δ/h ratio is 0.2 and aspect  ratio is 0.75. So, diameter  I 
+can easily  calculate  (1.06×28+2×0.75×13.6).  
+Again , I multiply  with 0.254.  So, that will give you 1.27 meter . The same  procedure  I follow  
+to find out for 16.9-28 tyres , 1.06×28+2×0.75×16.9×0.254  that will give us 1.397  meter . So, 
+this is the diameter . Now,  the section  width  we have  to calculat e. Simply  multiply  13.6, so, 
+here will be 13.6×0.254  and here it will be 16.9×0.254.  So, first to calculate , suppose  this tyre is Bn1 and this tyre is Bn2. So, mobility  number  for tyre 1 is denoted  as Bn1, mobility  number  
+of tyre 2 is denoted  as Bn2. So, we calculate   
+ 
+So, W will be equal  to, for single  wheel  you have  to calculate , since  the tractor  is operating  
+on horizontal  surface.  So, weight  is given , distribution  is given . So, 2400×0.65. So, that will 
+give you the weight  coming  in the rear axle and 2400 ×0.35 that will give you the weight  
+coming  in the front axle.  So, half of that will be your W. So, by this way we calculate  
+mobility  number  and then you can compare  the mobility  numbe r itself.  So, which one is 
+higher  or which  one is lower . Then we calculate  the rolling  resistance  or motion  resistance  
+ratio.  
+So, that is nothing  but 
+ 
+Now , in this case, since  slip is not given  so what  we will do is, you can assume  is the slip 
+value  of 10 per cent and then come  to rolling  resistance  for wheel  1, rollin g resistance  for 
+wheel  2, and then compare  which  one will give you lesser  wheel  resistance . So, the wheel  
+which  is giving  lesser  resistance  that is better . Further , what  we can do is we can compute  the 
+coefficient  of gross  traction  to ensure  that yes, we have more  tractive  effort.   
+So, first thing  is mobil ity number , second  thing  is rolling  resistance , third  is optional . From  
+rolling  resistance  itself  we can conclude  that this tyre is better  which  one is giving you a 
+lesser  rolling  resistance  ratio. But you can always  calculate  the coefficient  of gross  traction  
+from  there  also you can conclude  which  tractor  is giving  you more  coefficie nt gross  traction  
+and the difference  from  there  you can calculate  to find out which  one will give you more  
+power  or more  pull. So, from  there , you can make  a selection  which  tyre is better . Next 
+problem  will be related  to dynamic  weight.   (Refer  Slide  Time: 6:55) 
+ 
+ 
+A 2 wheeled  tractor  with a gross  weight  of 19 kN has a wheel  base of 2.1 meter  and is fitted  
+with 6-16 tyre at the front,  13.6-28 bias ply tyre at the rear axle. And on a level  ground , the 
+center  of gravity  is located  at a distance  of 75 cm from  the rear axle.  The tractor  will be used 
+for ploughing  a farm  land with an average  cone  index  of 1000  kilo Pascal  using  a 2-bottom  
+mould board  plough.  The total pull on the plough  in the vertical  plane  is 250 kg and it is at an 
+angle 15° with the horizontal  when  operated  at a depth  of 15 cm.  
+Then  the point  of resistanc e, cente r of resistance  is located  at 125 cm behind  the centerline  of 
+the rear axle of the tractor  and 15 cm below  the wheel.  So, what  you have  to compute  is the 
+coefficient  of traction,  tractive  efficiency  of the tractor  when  the slip is 20 per cent and δ/h 
+ratio is 0.2. So, as usual  the first thing  is you have  to calculate  the diameter . You have  to calculate  the section  width. Then comes  your there  is some  weight  transfer.  So, first you have  
+to draw  the tractor  this is R2 and this is your CG.  
+So, weight  is acting  19 kN and line of pull say it is saying  15° with the horizontal . So, line of 
+pull is somewhere  here and it is 15 cm below  the ground . If this is the ground  surface  suppose  
+this is the line of pull and so, line of pull like I can resolve  at this point  into two components , 
+vertical  component  or horizontal  component . Then  what  is given  is this is making  an angle  
+15°. So, that means,  this component  will be Pcos15° and the vertical  component  is Psin15°.  
+Now,  we have  to find out what  is the dynamic  weight because  of the pull. So, we have  to take 
+moments  about  R1 so that you can find out what  is the dynamic  weight  at the rear wheel.  
+Similarly,  we have  to take moment  about  R2 and then find out what  is the dynamic  weight  on 
+the front  axle.  So, now if you take, suppose  these  are the points  A and B. Now , take moments  
+about  B. So, Pcosα, Pcos15°×0.15, this distance  is from  the ground  is 15 cm. So, 0.15, this is 
+positive  and then Psin15° this is also positive.  So, this is acting  downwards so  this is 
+negative .  
+So, -Psin15° and this is at a distance  from  the center  is given  as 125 cm from  the rear of the 
+rear axle, center  of the rear axle. So, 1.25 meter  so, into 1.25 then W is again  positive.  So, W 
+is 19, W you can take as 19 kN into this. This distance  is at a 75 cm that is 0.75. Then  R1 is 
+negative , -R1×2.1. wheel  base is given  as 2.1 meter. So, if you solve  it, so, you will find out 
+expressi on P is given  as 250 kg. So, you will find out R1 has some  value.   
+So, similar  exercise  you have  to carry  out for by taking  moment  about  B. This is taking  
+moment  about  A. Similarly,  by taking  moment  about  A, so we will get an equation . 
+Equilibrium  of momen ts will be, if we are taking  this is again  positive  Pcos15°×0.15 then P 
+sin is, -Psin15°×1.25. Now , W will be oh sorry  about  B, About B so, Pcos15° is okay , this is 
+minus  okay.  Now , W will be minus , W this is about  B. So, W minus  W into distance  will be 
+2.1 minus  0.75 and then R2+R2×2.1 this is the equation .  
+Now,  from  here we can find while P is given.  So, knowing  a W is given  so, we can find out 
+what  is R2 value . So, these  are the dynamic  weight . These R2 and R1, these  are the dynamic  
+weight . Sorry R1, these  are the dynamic  weight  coming  in the front  and rear axles  
+respectively . R1 in the front  axle, R2 in the rear axle.  So, then half of that, if you say that it is 
+on a horizontal  surface  then half of that will act on each of the wheels . Next  thing  is we have to calculate  the coefficient  of traction . Once you decided  what  is the dynamic  weight, next 
+thing  is calculate  the coefficient  of traction .  
+For calculating  coefficient  of traction,  you have  to take the torque ratio given  by Brixius . 
+Then coefficient  of rolling  resistance  given  Brixius  and again  we have  to calculate  the 
+mobility  number . So, they are CIbd/W. Again, CI is given , b is given , d is given  and W will 
+be coming  whatever  R2 value  we are getting here divided  by 2 and for front  wheel  it will be 
+R1/2.  
+In case of a front  wheel , we will only calculate  the coefficient  of rollin g resistance.  Because  
+this is a two wheel drive  tractor. T he torque  or the tractive  effort  is only developed  at the rear 
+whee ls. So, Psinα which  I have  given , h is 1.25 plus, I have  1.25+2.1. You are taking moment  
+about  B, so plus 2.1. So, that will be so.  
+(Refer  Slide  Time:  15:04 ) 
+ 
+Now,  after knowing  the dynamic  weight , next thing  is we have  to calculate  Bn. Bn for front 
+wheel , Bn for rear wheel  and where  the δ/h value  is given  as 0.2. So, now,  for calculating  the 
+rolling  resistance  ratio or motion  resistance  ratio for front  wheel , since  there  is no slip so 
+directly  you can write  as [(1/Bn)+0.04]. So, whate ver value  you are getting  just multiply  with 
+the 2. So, the total motion  resistance  of front  axle. That means  for both the wheels  in the 
+front.  So, this expression  into 2.  
+Similarly,  for calculating  the motion  resistance  ratio of rear wheel,  we have  to take a slip into 
+consideration    
+So, slip we can take as 12 per cent is given.  So, substituting  here, so this will BnR, BnR. So, 
+now you will find out what  is the motion  resistance  of a single  wheel  provided  at the rear axle 
+then you multiply  with 2. 2 on this side, 2 on this side. So, that will give you motion  
+resistance  of 2 rear wheels.  Next , thing is what  is the power  which  is developed ? That means  
+gross  traction  ratio.   
+(Refer  Slide  Time:  16:49 ) 
+ 
+So, for calculating  gross  traction  ratio we will again  take the help of Brixius  equation  which  
+is given  as Q/rW is equal  to, here W is your dynami c weight  and whatever  value  we are 
+getting  as R2, R2, will be equal  to R2/2 will be equal  to Wd in one wheel . So,  
+ 
+So, in this equation , Bn we have  calculated . Bn for the rear wheel and s is given  12 per cent, 
+0.12. So, just putting  it you can find out one of the wheels, what  is the torque  ratio and if you 
+multiply  with 2 that will give you a total tractive  force  developed  total gross  traction  in the 
+rear wheels.   
+So, you know  the gross  traction . You know  the rolling  resistance.  So, the net traction you can 
+find out. Net traction  ratio will be, this is only for the rear wheels  not front  wheels.  Now,  for 
+the total rolling  resistance  we have  to consider  both rolling  resistance  of 2 rear wheels  as well 
+as rolling  resistance  of both 2 front  wheels.  So, we calculated  net traction  ratio, we calculate d motion  resistance  ratio. The next thing  is, we have  to find out tractive  efficiency.  So, for 
+calculati ng tractive  efficiency,   
+ 
+So, μg, I have already  calculated  this value.  So, this will be a total μg. μ is the net traction  
+ratio. So, that will give you what  is the tractive  efficiency  of the tractor  while  carrying  out the 
+ploughing  operation  in the given  condition.   
+So, basically  you have to consider  in a 2-wheel  tractor  the power  which  is developed  is only 
+from  the rear axle not from  the front  axle.  That means , the rear wheels  are responsible  for 
+developing  power , tractive  power . And for calculating  the total rolling  resistance  you have  to 
+take sum of the 4 wheels  not only 1 wheel  and the 2 wheels  and the rear axle that you have  to 
+take into consideration .  
+(Refer  Slide  Time:  20:02 ) 
+  
+The next question  is related  to track.  A tracked  vehicle  with uniform  contact  pressure  weighs  
+155.68 kN and it has the option  to be fitted  with tracks  of same  contact  area which  is 7.2 m2 
+but different  dimensions . One set of tracks  with width to length  ratios  1:3, the other  1:4.5. 
+The vehicle  is to be operated  over a terrain,  which  is characterized  by the expon ent of sinkage  
+n as 0.5. Coefficient  modulus  of sinkage  0.77 kN/mn+1, kϕ friction al modulus  of sinkage  51.91  
+kN/mn+2 and cohesion  as 5.17 kPa, angle  of internal  friction  11° and modulus  of sinkage  
+shear  modulus  of sinkage , shear  deformation  modulus  as 5 cm.  
+Under  these  conditions,  we have  to find out which  one is the suitabl e pair of tracks  which  has 
+to be recomm ended.   
+So, here what  we have  to do is a track ed vehicle  that means,  there  will be 2 track s and area 
+sum of the areas  of the two tracks are 7.2 m2. That means,  each area will be 3.6 m2. But one 
+track  is having  length  to width  ratio, if this is w this is L, width:length  ratio in one track  it is 
+1:3. The other  track  it is 1:4.5. So, now,  we have to find out what  is the width.  So, area will 
+be w×L. So, w will be equal  to L/3. So, L/3×L is equal  to 3.6 m2.  
+So, now,  from  here we have  to find out what  is the value  of L? Similarly , here 4.5, (L/4.5)×L 
+is equal  to 3.6 m2. So, this is better . If I write  L1, L1, w1, so L1 will be equal  to how much ? 
+So, once  you know  L1, once  you know  L then you can find out what  is its width  w and w1. 
+Now , I have  decided  the dimensions  of the track  for two different  conditions . The next step is 
+what  is the sinkage  z0. So, if this refers  to vehicle  A, this refer to vehicle  B, 1:4.5 then vehicle  
+A,   
+Now,  p is nothing  but weight  divided  by w×L and in this case, this will be weight,  weight  
+will be remaining  same  only the dimension  will change  that was area is also same.  So, that 
+does not make  much  differe nce. So, pressure  will be same  for both the tracks.  So, p is given , 
+kc value  is given , b will change, b means  this will be here w and in this case it will be w1. So, 
+better  I should  write  w. So, that it becomes  
+ 
+So, kc value is given  kϕ values  given , w we have  calculated  from  here. So, you can calculate  
+z0. The next thing  is what  will be the rolling  resistance ?  
+ 
+ 
+And z0 you can substitute  here raised  to the power  n plus 1 by n divided  by n plus 1. So, this 
+way you can calculate  for rolling  resistance  of first track , rolling  resistance  second  track , 
+which  is having  a length  and width  to length  ratio as 1:4.5. So, once  you calculate  rolling  
+resistance  then you can compare  which  one is giving  you lesser rolling  resistance . Then 
+comes  your, what  is the gross  tractive  effort  or thrust  which  is developed  that is important  
+thrust  which  is developed  by the two track s even though  their area is same .  
+(Refer  Slide  Time:  25:40 )   
+So, you can utilize  this equation  F is equal  to, this is the tractive.  So, this is the tractive  force  
+which  has developed .  
+ 
+W here is the weight  in each track . K is the shear  deformation  modulus  which  is given  as 5. 
+So, length  of the track  we have  already  calculated.  So, yo can calculate  F for different  values 
+of slip at 10 percent , 20 percent , 30 percent  can go up to 40 percent  and c value  is given , ϕ is 
+given , A will be remaining  same for both the cases.   
+So, this value  is giving  you the tractive  effort  developed  by a single  track . So, if you want  to 
+find out the total tractive  force  then you multiply  with 2. So, twice  of this will give you the 
+value  of a total tractive  force.  You know the rolling  resistance  of 2 different  types  of track s. 
+We know  the total tractive  force . Again, also rolling  resistance  you have  taken  for one track , 
+so you have  to multiply  with 2. So, we know  the tractive  force , you know  the rolling  
+resistance  then you have  to compare  at different  slip value s or what  are the tractive  force  you 
+are getting  for track 1. What are the tractive  force you are getting  for track 2 and then 
+wherever  you are getting  higher  torque , higher  tractive  force that you have  to select .  
+To confirm  that once again  you have  to check  the rolling  resistance  for both the track s. That 
+means,  you have  to carry  out comparison  of tractive  force  for both the track s and the rolling  
+resistance  for both the track s. Then from  there , wherever  you are getting higher  tractive  force  
+and lesser rolling  resistance  that has to be selected , that has to be selected.  So, obviously,  will come  to an end in the sense , the track  which  is having  higher  length  will give you better  
+tractive  force  and lesser  rolling  resistance  this will be the conclusion  from  this problem.   
+So, I have  solved  3 problems,  which  are related  to one is related  to utilizing  the Brixius  
+equations  for finding  out to suitable  tyre size. The other  one is related  to find out the dynamic  
+weight  how to utilize  dynamic  weight  in Brixius  equation?  And the third  one is related  to 
+track , how to calculate  rolling  resistance  and tractive  force  developed  by a track and then you 
+can compare .  
+(Refer  Slide  Time:  29:01 ) 
+ 
+So, using  the tractive performance  equati ons developed  by the Brixius  such as coefficient  of 
+traction , motion  resistance  ratio and tractive  efficiency  of a tractor can be computed.  Thank  
+you. 

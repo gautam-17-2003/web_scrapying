@@ -1,0 +1,202 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 15: Tutorial 3 – Computation of rolling resistance of rigid wheel and pneumatic 
+wheel  
+ 
+  Hi everyone, this is Professor H. R aheman from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL online course on Traction 
+Engineering. This is the lecture 15, where I will try to take a tutorial related to rolling 
+resistance. That means, how to find out rolling resistance of a rigid wheel as well as a 
+pneumatic  wheel.  
+ 
+ So, the concept will be , how to find out rolling resistance of a rigid wheel on a horizontal 
+as well as inclined surface, how they are different , and then finding out the rolling 
+resistance of a pneumatic wheel. When I say , pneumatic wheel means there will be two 
+modes of operation, one is rigid mode and the other one is elastic mode ; and how to find 
+out rolling resistance in these two modes of operation that we are going to discuss with 
+the help of simple problems. Now, if you look at the problem which are given here , if a 
+free rolling rigi d wheel of diameter 80 cm, section width 10 cm and the total weight 10 
+kg. This has to be operated on a horizontal surface with shear deformation modulus 2000 
+N/mn+2 and exponent of sinkage as 0.5. Under these conditions , you have to find out what 
+is the force required to tow the wheel. So, the information which are given as very clear . 
+One is diameter which is given as 80 cm, the other one is section width which is given as 
+10 cm, b is given as 10 cm and weight which is acting on the wheel is 10 kg. Now, if a 
+wheel is there and we want to find out the rolling resistance . This is a horizontal surface , 
+as I said so, then the first thing is , what is the sinkage and what equation we are going to 
+utilize.  
+ 
+ Since the diameter is more than 80 cm. So, we can conveniently apply B ekker's equation 
+for finding out rolling resistance.  So, which is nothing,  
+𝑅= 𝑏𝑘𝑍𝑜𝑛+1
+𝑛+1 
+and we are interested in because Z 0 is not known. So, we have to find out what is the 
+value of for Z 0. Now, this is W ok.  
+  So, expression for Z 0 will be , if you look at the B ekker's equation. So, Z 0 is nothing, but 
+this will be equal to  
+𝑍𝑜=[3𝑊
+𝑏𝑘√2𝑟(3−𝑛)]2
+2𝑛+1
+ 
+Now, in the problem the value of k is given , shear deformation modulus. So, k is given as 
+2000 N/mn+2 and exponent of sinkage n is given as 0.5. So, now, you have to substitute 
+this value . That means, weight is given , k value is given , b value is given , diameter that is 
+2r is given , 3 minus n , n is given. So, now, you substitute these values and find out what 
+is the , what is the value for sinkage. So, once you know sinkage , you substitute in this 
+equation . Rolling resistance is equal to (bkZ0n+1)/(n+1). So, we will find out the value of 
+rolling resistance. So, rolling resistance is nothing, but the force required to tow the 
+wheel.  
+ 
+ So, that is will be the force required to tow the wheel and it comes out to R or the towing 
+force comes out to 71.178 N . Since weight is less , sinkage is less , so obviously, the 
+rolling resistance will be less. So, it is basically the first thing which you look into this , is 
+this rigid wheel , free rolling rigid wheel and there is no power. So, it is a towed wheel.  
+ 
+ So, we immediately apply B ekker's equation, but in B ekker's equation , there are certain 
+limitations which are to be looked into. So, limitations is sinkage should be a low and the 
+diameter should not be less than 50 cm. So, so , that way it is satisfying , diameter is 80 cm 
+and sinkage you can verify from here and then apply B ekker's equation to find out what 
+is the rolling resistance. Now, next thing is , if the same wheel is to be towed off on an 
+inclined surface , that means, now the surface is no more horizontal. So, it has been 
+inclined.  
+ 
+ So, the new setup will be like this and this inclination is given as 15 °. What will be the 
+force required to tow the wheel on the slope? So, for this , you have to draw it . This is the 
+wheel. Now , weight I said  10 kg. So, it will have 2 components. So, this is θ. 
+ 
+ So, this component will be 𝑊cos𝜃 and this component will be 𝑊sin𝜃 . I want to tow 
+the, move the wheel upward against the slope. So, what to do now? We have to find out 
+again , because this wheel is satisfying B ekker's theory that is rolling resistance theory. 
+So, we will use the same equation . R will be equal to  
+ 
+𝑅= 𝑏𝑘𝑍𝑜𝑛+1
+𝑛+1 but this is only for horizontal surface. Now, this in the surface is inclined and there is a 
+component is acting along the slope 𝑊sin𝜃 against the direction of travel , opposite to 
+the direction of travel.  
+ 
+ So, that means, the rolling distance will be no more the expression which I have given 
+for horizontal condition. So, rolling resistance  will be  
+𝑅𝑅=𝑏𝑘𝑍𝑜𝑛+1
+𝑛+1+𝑊sin𝜃 
+So, this is the additional component which will come into picture. Now, what is Z0 in this 
+case? How to find out Z 0? For a horizontal s oil surface , we calculated Z 0 is  
+𝑍𝑜=[3𝑊cos𝜃
+𝑏𝑘√2𝑟(3−𝑛)]2
+2𝑛+1
+ 
+ 
+ So,B is known , k is known , because these are not going to change and exponent of 
+sinkage is not going to change. So, W sinθ, we know θ. So, you can calculate W sinθ and 
+then immediately you can find out the Z 0 value and then substituting in this equation , this 
+will be the final value which is required to tow the wheel upward along the slope. Now, if 
+somebody will say , I will move this one downward then the difference will be how 
+much? So, instead of plus W sin theta , because we are rolling it the opposite direction , so, 
+this will be -Wsinθ, ok. 
+ 
+ So, that is the difference . This component is acting downwards. So, it will be minus 
+because we are rolling downwards. So, these are the difference we have to take into 
+consideration. I hope , I have clarified in the sense first you have to see whether the 
+whether the conditions which are given are applicable to the B ekker's limitations which 
+are given within that or not. If it is satisfying then you take the help of B ekker's equation 
+and the derivations which are , which we have already done for sinkage that we take and 
+find out and from that sinkage then find out what is the rolling resistance.  
+ 
+  And if it is an inclined surface then look at the , first you have to draw it very neatly and 
+then see whether we are moving upward or downward because that W will be now 
+reserved into two components , one is horizontal component , that the other one is vertical 
+component and  that vertical component is responsible for developing that sinkage. So, 
+the vertical component will be W cosθ. So, instead of W , we have to replace with W cosθ 
+and if you are moving upward then the horizontal component has to be added , and if you 
+are moving downward then the horizontal component W sin theta is to be deducted. So, 
+this is all you have to keep in your mind then only you can solve this problem.  Now, next problem is , a two -wheel drive tractor when it is fitted with a  13.6-28 tyre at 
+the rear axle carrying a load of 15 kN and this has to be operated in soil with a pressure 
+sinkage parameters  exponent of sinkage n as 1, frictional modulus of sinkage k ϕ 1520 , 
+1520 k N/mn+2 with both the wheel sharing equal load. Then two inflation pressures 70 
+and 100 kPa are proposed.  Now, the corresponding pressure due to carcass stiffness is 20 
+and 35 k Pa, respectively. So, what is asked is to find out the rolling resistance of rear 
+tyres for both the conditions and then from there you have to suggest which inflation 
+pressure is to be used. So, when I say it is a pneumatic wheel.  
+ 
+ So, the first thing which you have to look into is , what is the mode of operation . There is , 
+there are two modes of operation ; one is rigid mode , the other one is elastic mode. If it is 
+in rigid mode then you have to follow B ekker's equation , if it is elastic mode you have to 
+follow others , other formulas which I am going to derive which we have already derived 
+in our theory classes. So, to find out the mode of operation , we have to first find out what 
+is the critical ground pressure.  What is given , n value is given , n is 1, kϕ is given as 1520 
+kN/mn+2. Since kc value is not given , that means, kc is assumed to be 0.  
+ 
+ So, kϕ value , K = (kc/b) + kϕ. So, now, since kc value is not given , we assume as to be 0. 
+So, this component will be 0 . Now, kϕ will be equal to K. Now, for finding out the critical 
+ground pressure , critical ground pressure , so, we denote it as P g critical , PGRc. 
+𝐶𝑟𝑖𝑡𝑖𝑐𝑎𝑙  𝑔𝑟𝑜𝑢𝑛𝑑  𝑝𝑟𝑒𝑠𝑠𝑢𝑟𝑒 , 𝑃𝐺𝑅𝑐=𝑘12𝑛+1⁄ [3𝑊
+(3−𝑛)𝑏√𝐷]2𝑛2𝑛+1⁄
+=100  𝑘𝑃𝑎  
+ 
+So, the axle has to carry a load of 15 kN. So, W will be equal to 15 /2 and the other thing 
+which is given is , both the wheels are sharing the same load . That means, equal load. So, 
+that is why , I have divided W as axle weight divided by 2.  
+ 
+ So, that way you get 7.5 kN. Now, to find out b and D. So, the tyre is a bias platter and 
+since no aspect ratio is given.  So, we assume that aspect ratio as 0.75. So, now, find out 
+the section width b and diameter D. So, section width b will be equal to how much? It is 
+given as 13.6.  So, 13.6 × 2.54. So, that will be in centimeter and for finding out D , we 
+have already given that formula in the theory class. It is 1.06 times nominal rim diameter , 
+which is here 28 , this is in inches. So, I have to convert it into centimeter or meter then 
+plus 0.75 , which is the aspect ratio into 2 × 13.6 into … this  is in inches , again multiplied 
+2.54. So, that way we will get a diameter of 1.27 meter , ok. 
+ 
+ So, D is now calculated , b is calculated. Now, substituting here , you have to find out and 
+exponent of sink is given. So, this comes out to be 100 k Pa critical ground pressure. Now, 
+two inflation pressures are suggested ; one is 70 k Pa. So, Pi is 70 and corresponding carcass stiffness is 20 psi. So, Pc corresponding to 70 is 20 kPa. 
+ 
+ The other condition , Pi is 100 kPa and P c is 35 kPa. So, P i + Pc in the first case is 90 kPa 
+and in the second case P i + Pc will be equal to 135 kPa. 
+𝑃𝑖=70 𝑘𝑃𝑎 ,𝑃𝑐=20 𝑘𝑃𝑎  
+𝑃𝑖+𝑃𝑐=90 𝑘𝑃𝑎 
+𝑃𝑖+𝑃𝑐<𝑃𝐺𝑅𝑐 ≈𝐸𝑙𝑎𝑠𝑡𝑖𝑐  𝑚𝑜𝑑𝑒  𝑜𝑓 𝑜𝑝𝑒𝑟𝑎𝑡𝑖𝑜𝑛  
+𝑍0=(𝑃𝑖+𝑃𝑐
+𝑘)1
+𝑛
+,𝑅𝑅= 𝑏𝑘𝑍𝑜𝑛+1
+𝑛+1×2 
+ 
+So, now the second condition says , 𝑃𝑖=100  𝑘𝑃𝑎 ,𝑃𝑐=35 𝑘𝑃𝑎  
+𝑃𝑖+𝑃𝑐=135  𝑘𝑃𝑎 
+𝑃𝑖+𝑃𝑐>𝑃𝐺𝑅𝑐≈𝑟𝑖𝑔𝑖𝑑  𝑚𝑜𝑑𝑒  𝑜𝑓 𝑜𝑝𝑒𝑟𝑎𝑡𝑖𝑜𝑛  
+𝑍𝑜=[3𝑊
+𝑏𝑘√𝐷(3−𝑛)]2
+2𝑛+1
+,𝑅𝑅=𝑏𝑘𝑍𝑜𝑛+1
+𝑛+1×2 
+ 
+  Now this is the rolling resistance for a single wheel . If you want to find out rolling 
+resistance for a single wheel , so, that means, you have , this has to be multiplied with 2 . 
+Same is the case here , multiplied 2. Now you verify , where  the rolling resistance is more 
+than accordingly . We reject that one the , where the rolling resistance is less , that has to be 
+taken and then that , corresponding to that what is the inflation pressure that has to be 
+recommended for continuous operation. So, while calculating the rolling resistance , there 
+are 2 things to be seen ; one is what is the mode of operation . Once you decide the mode 
+of operation , that means, we have to first find out what is the critical ground pressure and 
+then knowing the inflation pressure and the pressure due to carcass stiffness , if some of 
+these 2 pressures are lesser than the critical ground pressure then we recommend , we say 
+that the wheel is operating in elastic mode . If it is more than critical ground pressure , we 
+say that this is operating as a rigid wheel. So, if it is in under rigid wheel , then we apply 
+Bekker's equation to find out what is the rolling resistance and if it is in the elastic mode 
+then we first find out Z0 sinkage , taking into consideration the sum of inflation and 
+carcass pressure and the modulus of sinkage and then from there we find out what is the 
+rolling resistance.  
+ 
+  Hope , I have clarified this problem. So, in brief , I can summarize , in this tutorial , I tried to cover the concepts of computing rolling resistance on a horizontal as well as inclined 
+surface , where how to take the component of weight , that is important in inclined surface. 
+So, once you decide that , then it becomes easier for you to calculate the rolling resistance. 
+So, if it is rolling down , then the component , that is sin θ component of W , has to be 
+deducted . If it has to be rolled up , then the cos θ component is to be taken up. Similarly, 
+we tr ied discuss about the rolling resistance of a pneumatic wheel , where we discuss ed 
+what is the rigid mode, how to find out rigid mode , then what is the elastic mode and how 
+to decide that the wheel is in under elastic mode . And once you decide that , then 
+following the equations which are given , you can find out what is the rolling resistance. 
+So, the inflation pressure and the carcass stiffness pressure gives to carcass stiffness 
+which gives minimum rolling resist ance that has to be recommended for using the using 
+in the tr ack. Thank you.  

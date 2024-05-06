@@ -1,0 +1,139 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 22 
+Heat Exchangers (Contd.)  
+ 
+Hello everyone , welcome to NPTEL  online certification course on  Fundamentals of 
+Food Process E ngineering . We will continue with the topic of Heat Exchanger today . 
+(Refer Slide Time: 00:31)  
+ 
+ (Refer Slide Time: 01:17)  
+ Analysis of heat exchanger  
+Following parameters are important to design the performance of an heat ex changer :  
+ Overall heat transfer coefficient (U)  
+ Surface area.  
+ Inlet and outlet temperature (t 1 & t 2) 
+We need to increase the temperature from t c1 to t c2 and for that what is the amount of  hot 
+water or any hot fluid is needed , what will be the temperature  then the surface a rea 
+available for heat transfer is very important . Because if surface area changes  then 
+obviously, the rate of heat transfer changes . Because no rmally the rate of heat transfer is  
+expressed as q=UA ΔT. 
+(Refer Slide Time: 03:14)  
+  (Refer Slide Time: 03:34)  
+ 
+So, now considering the figure that we have seen just now , that the hot fluid is entering 
+and the cold fluid is also  entering and those  2 have a similar direction . So, they are in the 
+parallel fl ow direction . (Assuming no heat loss)  
+Now,  
+Heat given up by hot fluid,                                                    Q = m h cph (th1-th2) 
+Heat picked up by cold fluid,                                                Q = m c cpc (tc2-tc1) 
+Total heat tran sfer rate in heat exchanger,                             Q = UA
+      
+Where,         
+   = log mean temperature difference.  
+                     
+  = mass flow rate.  
+        Cp = specific heat of a fluid.  
+        
+= temperature rise or drop across the heat exchanger.  
+.  (Refer Slide Time: 08:01)  
+. 
+LMTD (log mean temperature difference):  
+It is defined as that temperature difference which, if constant, would give the same rate 
+of heat transfer actually occurs unde r variable condition of heat transfer.  
+Assumptions:  
+ Steady flow  
+ Specific heat, mass flow and U is constant  
+ Heat exchanger is perfectly insulated - no heat loss to the ambience.  
+ No phase change of fluid during heat transfer  
+ Heat conduction is axial direction  is negligible  
+ No changes in potential and kinetic energy   (Refer Slide Time: 10:12)  
+ 
+Logarithmic temperature difference for parallel flow:  
+In parallel flow, the hot fluid and the cold fluid are moving in a similar direction and in 
+temp erature profile acr oss the area the difference between these  2 fluids are  
+θ1= th1 – tc1 and θ 2= th2 – tc2 . 
+We consider an elementary area dA in heat exchanger. The rate of flow through this 
+given by,  
+dQ = U  dA (t h-tc) = U  dA 
+   
+The hot fluid is cooled by d th (-ve), whereas cold fluid is heated up by d tc (+ve). Ove rall 
+energy balance is given by,  
+d
+  
+Here, Δ t is the temperature gradient between hot and cold stream .  
+The lowering of the temperature is happen . So, we are considering this as negative 
+whereas, dtc if you consider that is the change , the differe ntial change in the cold stream 
+in the temperature that is positive .  (Refer Slide Time: 12:27)  
+. 
+ 
+               
+ 
+  
+ = heat capacity or water equivalent of hot fluid.  
+ = heat capacity or water equivalen t of cold fluid.  
+ 
+ and 
+  are mass flow rate of hot and cold fluid  
+Subtracting above two equations we get,  
+ 
+ 
+ 
+  (Refer Slide Time: 13:40)  
+ 
+ 
+ 
+  
+Q = C h (th1-th2) = C c (tC2-tC1) 
+Or, 
+  
+  (Refer Slide Time : 16:55)  
+. 
+Substituting,  
+  
+ 
+ 
+ 
+Here,  
+ 
+ 
+ = log mean temperature (LMTD).   (Refer Slide Time: 18:49)  
+. 
+Logarithmic temperature difference for counter flow  
+In the counter flow, the 2 fluid streams are moving in opposite directio n and the hot fluid 
+and the cold fluid temperature distribution across the area  will be  
+θ1= th1 – tc2 and θ 2= th2 – tc1  
+Difference  between  θ2 and θ1 are almost constant or there is not much variation between 
+them . So, hot fluid is reducing temperature . So, d th is again  negative and dA  while  across 
+the area if we go here also it is negative b ecause the flow direction is now reverse . 
+For counter flow heat exchanger energy balance equation is given as follows:  
+d
+   (Refer Slide Time: 20:47)  
+ 
+   
+ 
+ 
+ 
+                 
+ 
+ 
+ 
+ Q = -Ch (th1-th2) = Cc (tC1-tC2)  (Refer Slide Time: 24:29)  
+. 
+Special case, when  (θ1 = θ2 = θ ) for counter flow:   
+The equation becomes, Q = U A 
+  
+LMTD for a counter flow heat exchanger is always greater than parallel flow heat 
+exchanger. But when, the temperature difference between 
+  and 
+  is small, in that case 
+arithmetic mean temperature (AMTD) is used.  
+ 
+So, generally  LMTD  for counter flow heat exchanger is greater ; that means, if log mean 
+temperature difference,  we are getting higher . So, area can be reduced right . So, 
+therefore, for the counter f low we can  require less area compare to the parallel flow  for 
+the same temperature  distribution if we have .  
+Thank you . 

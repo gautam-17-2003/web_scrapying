@@ -1,0 +1,199 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agricultural and Food Engineering Department  
+Indian Institute of Technology Kharagpur  
+Lecture 23  
+Comparison of single tyre with dual tyres  
+Hi everyone, this is Professor H Rahman, from Agricultural and Food Engineering department IIT 
+Kharagpur. I welcome you all to this NPTEL course on Traction engineering.  
+(Refer Slide Time: 00:48)  
+ 
+This is lecture 23rd, where I will try to compare the performance of a single tyre with dual tyres.  
+(Refer Slide Time: 00:56)  
+ 
+Means, the concept which will be covered is how to compare and on what basis you should 
+compare. Should I go for comparing tractive efficiency or should we go for comparing coefficient 
+of traction or should we go for comparing rolling resistance? So, we wi ll discuss in detail. Usually 
+rolling resistance, coefficient of traction both are dependent on a number called mobility number. 
+If you are concentrating on Brixius equation, then there is a number called mobility number which 
+combines both soil parameter s, fuel parameters and the weight which is coming on the tyre.  
+(Refer Slide Time: 01:38)  
+ 
+So, this is expressed as  
+𝐵𝑛=𝐶𝐼𝑏𝑑
+𝑊×(1+5𝛿
+ℎ)
+(1+3𝑏
+𝑑) 
+Since rolling resistance is a function of mobility number, coefficient of traction is also  a function 
+of mobility number and of course, productive efficiency, which is the ratio of coefficient of traction 
+to coefficient of gross traction, so, that is also a function of mobility number. Hence, instead of 
+calculating rolling resistance or calcula ting coefficient of traction or calculating productive 
+efficiency, what we have to do is simply we have to calculate the mobility number and then 
+compare the mobility  number of a single tyre with a dual tyre. So, that is good enough to indicate 
+that which tyre is good or bad. That means, higher the mobility number better will be the 
+performance. So, a tyre having higher mobility number will give you better performance.  
+(Refer Slide Time: 03:04)  
+ 
+So, what I will do is, I will take an example in the sense I will take a single tyre and then I will 
+take 2 tyres of same dimensions. That means if a single tyre if I took so, this is having width b, 
+diameter D. I will take a dual tyre, so that means 2 tyres will be there. So obviously their dimension 
+will change. So, this is b 1 this is b 1, so, summation of b 1+b1 should be equal to b and diameter will 
+remain same.  
+So, now I try to find it, find the mobility number. These are denoted a single tyre, this is dual tyres. 
+Here we are maintaining the dimensions same that means, twice b 1 will be equal to b and diameter 
+for single will be equal to diameter of dual. So, the weight which is coming in a single wheel tyre, 
+if it is W so, here it will be W 1; W/2, W /2. That means W will be shared by the 2 tyres. So, only 
+the weight  will change. So now, for finding out the mobility number of a single tyre, so, that will 
+be equal to  
+𝐵𝑛𝑠= 𝐶𝐼𝑏𝐷
+𝑊×(1+5𝛿
+ℎ
+1+3𝑏
+𝐷) 
+Now, for mobility number of dual tyres , it will be ,  
+b will be equal to twice b1 or we can say you can find out mobility number of 1 tyre then you 
+multiplied with 2 that is also possible.  
+𝐵𝑛𝑑=2×(𝐶𝐼𝑏1𝐷
+𝑊2⁄×(1+5𝛿
+ℎ
+1+3𝑏1
+𝐷)) 
+b1×D/d, ’d’which I have written in small , and  that is capital D that is diameter, capital D. So,  
+So, now, if I want to find out which one is better, then I can take the ratio B ns by B nd. So, obviously,  
+𝐵𝑛𝑠
+𝐵𝑛𝑑= 𝐶𝐼𝑏𝐷
+𝑊×(1+5𝛿
+ℎ
+1+3𝑏
+𝐷)
+2×(𝐶𝐼𝑏1𝐷
+𝑊2⁄×(1+5𝛿
+ℎ
+1+3𝑏1
+𝐷)) 
+So, now, if you simplify this one, so, this will cancel out now, this will be 4W . So, W, W will 
+cancel out so, CI, CI will cancel out because we are operating in the same soil and D will also 
+cancel out. so, what is remaining is  
+𝐵𝑛𝑠
+𝐵𝑛𝑑= 𝑏
+4𝑏1×1+3𝑏1
+𝐷
+1+3𝑏
+𝐷 So, this ratio . If it is lesser than 1 that means, dual tyre is performing better than the single tyre. If 
+this ratio is higher than 1, that means single tyre is performing better than a dual tyres. This is the 
+case when the tyre dimensions are remaining same whatever dime nsions we follow for single tyre, 
+same dimensions we are following for dual tyres.  
+That means the combined width will be equal to the width of the single tyre. So, if you look at the 
+ratio here, obviously, we are dividing with a higher number in the denominator, so it will be always 
+lesser than 1 this ratio is always less than 1 that mea ns dual is better than dual tyres are better than 
+single tyres if same dimensions as that of a single tyre is maintained for dual tyres. Now, the other 
+extreme case is, when the dimensions are different somewhere somebody selects a 13.6-28 tyre  
+and somebo dy wants to use dual tyres of different dimensions, may  be diameter is less or the more. 
+So, then we have to find out which diameter will give you better performance.  (Refer Slide Time: 09:17)  
+ 
+So again, we will try to draw a single tyre. So , this is having width b1, diameter d1 , and duals  will 
+have some, I will take some smaller ones. So , this is , ‘d2, b2’. ‘b2, d2’ that means summation b2 
+plus b2 is not equal to b1  and d2 is not equal to d1. This is the condition. In the first case, we 
+decided that twice b2 will be equal to b1 and D  remain same, but in this case, we will decide in a 
+different way.  
+Now again we will take the help of Brixius number. So, Brixius number, sorry mobility number, 
+mobility number for single tyre will be equal to, mobility number of single tyre will be equal to  
+𝐵𝑛𝑠=𝐶𝐼𝑏1𝑑1
+𝑊×(1+5𝛿
+ℎ
+1+3𝑏1
+𝑑1) 
+Assuming that weights is acting same in both the tyres whether it is single whether it is dual, so, 
+that means  W by 2 will be shared by 1 tyre. Now, for dual  tyre, mobility number will be  
+𝐵𝑛𝑑=2×
+(  𝐶𝐼𝑏2𝑑2
+𝑊2⁄×(1+5𝛿
+ℎ
+1+3𝑏2
+𝑑2)
+)   
+Now, if I want to find out the ratio Bns/Bnd, then again , So, that means here it will become  
+  
+𝐵𝑛𝑠
+𝐵𝑛𝑑= 𝐶𝐼𝑏1𝑑1
+𝑊×(1+5𝛿
+ℎ
+1+3𝑏1
+𝑑1)
+2×
+(  𝐶𝐼𝑏2𝑑2
+𝑊2⁄×(1+5𝛿
+ℎ
+1+3𝑏2
+𝑑2)
+)   
+So, if I simplify further, so, since they are operating in the same soil condition, when you try to 
+compare and assuming that the δ/h ratio is remaining same for both the cases then this can be 
+simplified as  
+𝐵𝑛𝑠
+𝐵𝑛𝑑= 𝑏1𝑑1
+4𝑏2𝑑2×1+3𝑏2
+𝑑2
+1+3𝑏1
+𝑑1 
+If you want that Bns should be greater than bnd, that means mobility number of a tyre 1 is to be 
+greater than the mobility number of dual tyres then be this component this ratio  
+𝑏1𝑑1
+4𝑏2𝑑2>1+3𝑏1
+𝑑1
+1+3𝑏2
+𝑑2 
+If this condition is satisfied then single will be better than the dual tyre. If this is not satisfied, that 
+means  
+𝑏1𝑑1
+4𝑏2𝑑2<1+3𝑏1
+𝑑1
+1+3𝑏2
+𝑑2 
+then the duals are better than this single tyre. If duals are better, or if y ou want the dual tyres should 
+behave and perform in a better way, then what should be the diameter for a given section width? 
+So, to do that exercise, I will show you an example, where it will be clear how to find out the 
+diameter which is required to make  the dual tyres performance better than the single tyre.  
+(Refer Slide Time: 15:02)   
+Now I am taking the mobility number ratio on the y axis then I vary the diameter of dual tyres 
+starting from that means the b2 value, b2 value I vary from 0.1 to 2, these are in meters. Now, 
+section width I have taken initially say 0.2 suppose, initially i t have taken 0.2, then corresponding 
+to this I tried to find out for different diameters. Section width I have varied from 0.2 to 0.4, 2 
+section width I have taken and diameter d2 I have varied from say 0.7 meter to 2 meter.  
+So, initially I took b2 as 0.2 Then I tried to change the value of d2 and found out what is the bn 
+dual. Now take the ratio from the single. The derivations which I derived for single tyre, so, if the 
+ratio whatever I found, I try to plot it for different values of diameter for a section width of 0.2, I 
+varied 0.8, 1, 1.2 like that, then I tried to plot it. So, this is for section width 0.2 meter. Similar 
+exercise I carried out for b2 is equal to 0.4 meter. So, and then I varied the diameter from 0.7 to 
+1.2 and then I got this line.  
+So, if duals had to be equal to single tyres, then the ratio is 1. So, there is a minimum thing. So, I 
+draw a horizontal line here, so, wherever it does the 2 graphs, 1 is for 0.4 meters, the other one is 
+for 0.2 meter. So, there I draw 2 verticals to touc h the x axis. That means, it will indicate what 
+should be the minimum diameter required so that the dual will behave like a single tyre. That 
+means, performance of dual tyres will be equal to the single tyre. So, what I observed here is, for 
+a section widt h of 0.4 meter the diameter is around 1.1 meter and for a section width of 0.2 meter 
+the diameter is around 1.3. So, diameter should be around 1.3. So, this is the minimum diameter 
+so, you have to have a diameter more than this then only the dual will perf orm better than the 
+single wheel. So, this is how we will, we are going to decide the dimensions of dual tyres, if we 
+are interested to replace the single tyres.  
+So the simplest way of calculating this is, you do not have to compare the rolling resistance or you 
+do not have to compare the coefficient of traction or you do not have to compare the tractive 
+efficiency. All these 3 parameters, they are strongly depende nt on mobility number, if you are 
+using brixius equation for evaluating its performance. Hence, instead of calculating all those 
+values, we just compare the mobility number that is sufficient to compare the performance.  (Refer Slide Time: 19:13)  
+ 
+Briefly, I tried to compare the performance of single tyre with dual tyres  when they are of same 
+dimension. That means the diameter or width of single tyre is equal to diameter and width of dual 
+tyres then I varied the diameter and width of dual tyres. They are not same as single tyres, so for 
+both the cases I have given the exp ressions. Then the second thing I tried to find out what should 
+be the minimum diameter if you are changing a single tyre to dual tyres. So , for different sections 
+width, I have found out I have plotted and that gives you an idea how to compare the performa nce 
+of a dual tyre with a single tyre.  
+(Refer Slide Time: 19:58)  
+ 
+So, you can refer to some of these books that will help you further to calculate this performance. 
+Thank you.  
+ 
+ 
+ 

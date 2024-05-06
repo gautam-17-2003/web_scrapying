@@ -1,0 +1,231 @@
+Fundamentals of Food Process Engineering  
+Prof.Jayeeta Mitra  
+Department Of Agricutural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 38 
+Size R eduction (Contd.)  
+ 
+Hello everyone. Welcome to the NPTEL online certification course on Fundamentals of 
+Food Process Engineering. So, we will continue with Size Reduction today.  
+(Refer Slide Time: 00:35)  
+ 
+In our last class, we have discussed the particle size distribution and today will solve 1 or 
+2 problem on particle size distribution and also we will see the energy requirement in 
+size reduction.  (Refer Slide Time: 00:59)  
+ 
+So, we have seen that , what are the different equivalent diameters  and what are the 
+different methods  of particle size analysis. Out of that, which  is the most common we 
+often used in food industry or in the lab analysis of the food sample for the particulate 
+size distribution. So, we refer the sieve analysis mostly and we h ave mentioned that how 
+the sieves are stacked in one another.  There are different standard. Mostl y we follow the 
+(Refer Time: 01:24) Tayler standard sieve analysis method by a set o f sieves are ther e. 
+The largest openings are at the top and the lowest opening we are getting at the bottom. 
+Then, at the bottom end, we are getting a pan and which is just collector. There is no 
+perforation in that.  
+So, also this all such screens they are categorised that mesh per square inch size for the 
+opening per square inch thereby they are defined. So now, the particle size distributio n of 
+a sample was measu red and  the data are given . So, we need to calculate different you 
+know diameters and the different quantitative parameters of those distribution.  
+So, here we will determine the number length mean particle diameter and length v olume 
+mean particle diameter. So, the expressions of this are  given in the previous slide. So,  
+here we will just apply the equations today . This is the data given the size band in μm 
+and number of particles . For the size band  of 0-4 μm number of particles  is 30. Simi larly 
+for 4 - 8 μm its 40, for 8 - 12 μm it’s 90 and so on. So, if you look into the distribution, you can see that there is unimodal frequ ency distribution you will get  if you try to draw 
+the frequency with respect to the particle size diameter plot. So, that is how it looks like.  
+(Refer Slide Time: 03:31)  
+ 
+Now, number length mean particle diameter is expressed by : 
+𝑥1,0=  𝑥𝑁 
+ 𝑁 
+Now, length v olume mean particle diameter  is: 
+𝑥3,1=   𝑥3𝑁 
+  𝑥𝑁  
+So, these are the formula. Now, we need to calculate this parameter. We have x that is 
+the size we are having in μm. 
+Now, if you look into that,  we ha ve we have this size fraction . So, we are taking the 
+mean of this size fraction because we need to have one particular size that that we need 
+to take as ‘d’ or ‘x’. So, we will always take the mid value or the mean value of this size 
+distribution. So, that is why we have taken here 2 , 6, 10, 14, 18, 22, 26 and 30. Now, 
+corresponding number of the particles in the earlier class, sometime you may get this ‘x’ 
+in terms of ‘d’ and ‘x’ were used to re present the fraction.  So, here since it is used to see the express the diameters, so, I am just mentioning it 
+before that you will not confused with that. So, here ‘x’ is the characteristic dimension or 
+the equ ivalent dia of the p article that  has been written on the particular sieve size.  
+So, 2  μm is having 30 numbers, 6  μm having 40 numbers, 10 μm having 90 numbers and 
+so on. So, summation in is the total number of particle that is 540 . We need to use ‘∑xN’ 
+here for length mean particl e diameter calculation . Similarly, we got ∑x3N = 3.47×106. 
+So, then we need to plot thi s value in the equation. So, number length mean particl e 
+diameter is coming as 8660/540. i.e 16.04  μm.  
+So, if you go by length mean diameter, so we are getting the mean particle size 
+somewhere here between 14 and 16. So, 100 and 120 par ticles there and if this is the 
+number of particles are in between somewhere,  the size fraction will come.  If you go by 
+length volume mean particle diameter. So, you are getting  
+𝑥3,1= 3.47×106
+8.66×103=20.02 𝜇𝑚 
+ 
+So, this is the line somewhere the, this side ok. So, we can see that the based on different 
+diameter, we are getting slightly different mean size and the number fraction. So,  here 
+will get somewhere in between these two . So, this is how we can represent our data.  
+(Refer Slide Time: 07:35)  
+ Now, fineness modulus again one very important concept  in particular solid analysis. So, 
+fineness modulus is an emp irical figure obtained by adding the total percentage of the 
+sample of an aggregate retained on each of the specified series of siev e and dividing the 
+sum by 100 . Adding the total percentage of the sample of an aggregate retained on each 
+of the sieve of  a specified series of sieves and then dividing by 100. That will give the 
+value of fineness modulus.  
+Fineness modulus indicate the uniformity of grind in the end resultant product. So,  the 
+average particle size of D P in mm represented in terms of finenes s modulu s: 
+DP=0.135 (1.366)F.M 
+So, uniformity is defined by fineness modulus. Now, once we have the value of fineness 
+modulus, the average particle size D P can be determined by this equation . 
+(Refer Slide Time: 09:02)  
+ 
+So, let us have one case analysis for that, we have a sieve number 100, 70, 50, 40, 30, 20 
+15 and pan. So,  7 sieves and a pan this is the standard configuration that we are h aving 
+for this particular sieve.  Then  weight of the material retained on it in the gram. So, all 
+have passed through the 100 number sie ve. So, this is 0, then 1.0 g  retained on 17 
+numbe r sieves 16.7 g  retain ed on 15 number sieves 36.7 g  retain ed on 40 number sieves 
+82.2 g  retained on 30 number sieves and 96 g retained on 20 and so on finally, in the pan 
+we are getting 8.7  g. So, total is 249.7 g. Now, we need to see that from the total how much percentage is this. 
+So, first if we go from the bottom pan, we can be considered as 0 and number e ach of the 
+consecutive a upper sieves 1 , 2, 3 up to 7.  
+Now, in the pan what is retained that is 8.7  g. So, if we calculate the percentage retained 
+based on the total sample that is 3.5 %, then the 8  g it will be 3.2 %, 96 g  will be 38.4  %, 
+82.2 g is coming 32.88  %. So, like that will calculate all the percentage that is retained 
+(Refe r Time: 11:44) . So, total material  that is retain ed on the s ieve that we will count 
+here. only those retained on the sieve will take the total based on that and calculate the 
+percentage material retained on each sieve, then we will add then. So, it is coming 274.2 
+total percent material retained . 
+Now, fineness modulus and averag e size will  be 274.2/ 100. So, we are getting 2.74. So, 
+if this is the fineness modulus. So, what will be the D P?  
+DP=0.135 (1.366)2.74 
+So, we are getting 0.315 mm.  
+(Refer Slide Time: 12:29)  
+ 
+Now, energy requirement. So, since we are increasing the surface area by reduction of 
+the size of the particle, in so, in the very beginning section w e were  discussing the 
+introduction of size reduction, we mention that our most important goal that is  to 
+increase the surface area. Now, increase of surface area involved energy requirement right, because whenever we want to do any sort of w ork, so, we are giving certain 
+amount of energy in the particle, initially which is make them strain.  
+So, that energy which we are applying that is stored in the particle and when it b reaks 
+into smaller particles.  That energy is released in terms  of creating the surface area, and 
+also in terms of creating the heat . So, if we want to analyse the energy requirement we 
+can calculate first one parameter that is the crushing efficiency which is very often we 
+used and it defined as the surface ene rgy created by crushing divided by the energy  
+absorbed because of crushing . 
+So, the input energy required to reduce the size of the particles solid depends on the 
+energy absorbed by the solid, and also there are certain frictional losses will be there a nd 
+certain material, which is the equipment or the other rotating part of the machines that 
+will absorb certain amount of applied energy. So, because of those frictional losses will 
+take also the mechanical efficiency ‘ηm’ into considera tion. 
+So, the input energy that will give  will reduce the size of the particle ok depending on the 
+energy absorbed for creating the surface and also the mechanical efficiency of the 
+process, which takes into account of frictional losses. Now the energ y transferred to the 
+materi al is store d in the particle as  I say internal stresses, when the stored energy is 
+released because of particle fracture part of it increase surface energy resulting from the 
+surface area an d some are released as the heat energy.  
+(Refer Slide Time: 15:08)  
+ So, temperature rise becau se that heat energy is released  that means that will cause the 
+temperature rise of the particle that are generated  smaller particles are generated, l arger  
+surface area created . The temperature rise may be an important technological iss ue with 
+heat sensitive products,  thermoplastic substances and also the material with high fat 
+content. So, this problem is address by air or water cooling of the mechanism, usi ng the 
+cryogenic such as the liquid nitrogen or cryo milling.  
+So, you might have heard that in case of mini spice grinding, this c ryogenics grinding i s 
+approach  is being taken because the spices are mostly having very heat sensitive 
+components and antioxida nts etc . So, to preserve we need an environment which is very 
+chill environment . For sometime pre cooling environment or in the casing we need to 
+circulate the liquid nitrogen to reduce the effect of the temperature generation during the 
+size reduction.  
+So, that total energy can be expressed as  
+𝐸=𝐸𝑎
+𝜂𝑚=𝑒(𝐴𝑝−𝐴𝑓)
+𝜂𝑚∗𝜂𝑐  
+So, ‘e’ is the surface energy per  unit area , j/m2. Ap and Af are the surface areas per unit 
+mass of the product and feed, respectively, and η c is a crushing efficiency.  
+(Refer Slide Time: 17:17)  
+ So, energy ‘dE’ required to produce small change ‘dx’ that m eans, the  dimension of the 
+material that is  being  reduced to the amount of the ‘dx’ of the unit mass of material can 
+be expressed as a power function of the size of the material.  
+𝑑𝐸
+𝑑𝑥=−𝐶𝑥−𝑚 
+So, always it is inverse of the material size becaus e as small we want to perform the size 
+of the material larger amount the energy is required.  
+So, that is why, it is a normal convention to have the energy required per unit change 
+dimension is always proportional to the inverse of some power of the linear dimension of 
+the characteristic dimensions.  
+So, there are three  different laws of size reduction that is used basically for addressing 
+the different size fraction. So, one is the Rittenger’s law. This is based on the assumption 
+that the energy  required is proportional to the new surface area produced that is the 
+surface area . i.e m =2. 
+𝑑𝐸
+𝑑𝑥∝ 1
+𝑑2 
+So, we are getting integration :  
+ 
+Where,  KR is Rittenger’s constant , Xp is the dimension  of the product  and  Xf is the  
+dimension of the feed.  
+E=KR 1
+Xp−1
+Xf  (Refer Slide Time: 19:14)  
+ 
+So, another law which is Kick’s law and in this law is based on the assumption that the 
+energy input is proportional to the size redu ction ratio or linear dimension. i.e. m=  1.  
+𝑑𝐸
+𝑑𝑥=−𝐶𝑥−1 
+By integrating this, we are getting  
+ 
+Where,  Kk is Kick’s  constant , Xp is the dimension  of the product  and  Xf is the  dimension 
+of the feed.  
+Last one is the Bond’s equation. Bond proposed that the work input is proportional to the 
+square root of the surface volume ratio of the product.  So, here m =3/2 and after 
+integration we are getting energy requirement  
+ 
+E=KklnXF
+XP 
+E=2Kb× 1
+ XP−1
+ XF   (Refer Slide Time: 20:28)  
+ 
+So, X f and X p are in m. Bond’s constant K b =5W i.  
+Wi is the work index and is defined as the energy required to reduce unit mass of a 
+material from an infi nite size to a size where 80 % of the material is below 100  μm.  
+ 
+Xf and X p are in mm . 
+Rittinger’s equation  tends to apply for fine grinding and Kick’s  law for course grinding 
+Bond’s law valid for the intermediate grinding.  
+(Refer Slide Time: 21:22)  
+E=0.3162 Wi× 1
+ XP−1
+ XF   
+So, here we will take one example where Sugar crystals were ground from an  average 
+Sauter diameter of 500μm to powder with an average Sauter diameter of 100μm. The net 
+energy consumption was 0.5 kWh per ton. What would be the net energy consumption 
+for grinding the crystals to 50μm powder: a.) according to Rittinger’s law b.) ac cording 
+to Kick’s law.  
+So, net energy consumption in the first case is 0.5 kWh per ton  we need to find E 2. Now, 
+applying the Rittinger ’s law we can apply this equation  
+ 
+ (Refer Slide Time: 22:32)  
+ 
+E=KR 1
+Xp−1
+Xf   
+ 
+So, from that, we can  get the Rittinger’s constant K R = 62.5 kWh .μm/ton. Now, using 
+that we will calculate that what will be the you know energy requirement for Rittinger’s 
+law by making the particle to smaller size of  50 μm. So, here we are getting 1.125 
+kWh /ton.  
+Coming to t he Kick’s law,  
+ 
+ 
+ 
+We will stop here and will continue in the next class.  
+Thank you.  
+0.5=KR 1
+100−1
+500  
+E=KklnXF
+XP 
+E2=0.5×ln(50050 )
+ln(500100 )=0.715kWh /ton 

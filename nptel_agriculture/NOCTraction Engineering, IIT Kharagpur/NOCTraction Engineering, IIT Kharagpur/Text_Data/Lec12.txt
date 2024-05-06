@@ -1,0 +1,183 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 12 
+Rolling resistance of a pneumatic wheel  
+Hi everyone , this is Professor H  Raheman from Agricultural and Food Engineering  
+Department from IIT Kharagpur , I welcome you all to this NPTEL  course  on Traction  
+Engineering . Today I will try to cover Rolling  resistance of a pneumatic wheel . As you know 
+that wheel and  track,  they are  the two traction  devices which are  commonly used in a tractor . 
+So that  is why  we are considering wheel and in  subsequent class we  will consider how to  find 
+out rolling  resistance of a tr ack.  
+(Refer Slide Time:  1:06)  
+ 
+ Now, here the concept will be how to find  out rolling resistance of pneumatic  wheel . So when 
+you consider wheel , rolling  resistance it will be because of three  things , one is due to flexing 
+of tyre, the other  one is due to soil compaction and the  rolling resistance  could be due to  
+bulldozing . So either all three are present or any  one of them will be present so both will , that 
+will contribute towards the rolling  resistance .  
+So when the wheel runs on the hard  surface , the first component that is your tyre flexing  will 
+be the main component for  rolling resistance . So, for this reason the inflation pressure  in 
+wheels  for on -road vehicles are kept  relatively high. When the t yre runs on a soft soil or on 
+yielding  surface the last two components  that is your soil compaction  and bulldozing these 
+are the two  components that will contribute  towards the rolling resistance . And compaction 
+resistance decreases as  inflation pressure decreases  why, because  when you decrease the  
+inflation pressure , the contact area is  increased so ground pressure is  decreased hence 
+compaction resistance  is decrease d.  
+So therefore , for off -road condition the  inflation pressure should be as low as  possible  and 
+coming to the bulldozing  resistance  this is basically caused by soil being  thrown up and 
+carried along in front of  the wheels  which will form a bow wave . So it increases rapidly with 
+increase in  width to diameter ratio  so wheels with lesser width diameter  should be used to 
+prevent bulldozing . So this is the background of  rolling resistance of a pneumatic wheel.   
+(Refer Slide Time:  3:23)  
+ Then, in case of a pneumatic wheel , it behaves in  two different modes during  operation , the 
+first mode is in rigid mode , the second mode is in elastic mode . Rigid mode means the rolling 
+resistance,  the tyre will simply sink into the soil , it is not flattened .  
+So, if the ground is sufficiently soft  and the sum of the inflation pressure pi  and the pressure 
+which is produced by  the stiffness of the carcass pc is greater than the maximum pressure , the 
+terrain can support at the lowest point  of the t yre circumference  then the t yre will remain like 
+a round like a rigid wheel . So this  is referred to as rigid mode of  operation .  
+That means p i inflation  pressure plus pressure which is exerted  by the carcass  due to carcass 
+stiffness , if sum of these  two is greater than the pressure which  the terrain can support then it 
+behaves  like in a rigid mode . If the terrain is f irm and the t yre inflation pressure is low . So 
+what will happen , a portion of the  tyre will be flattened  which is indicated in this figure . If 
+you look at the right corner , this one , the portion is flattened ; this condition is referred as 
+elastic  mode of operation . So now we have to see first , whether the  wheel is in elastic mode 
+or whether the  wheel is in a rigid mode .  
+(Refer Slide Time:  5:15)  
+ 
+So if the t yre behaves like it  is a rigid rim  then you have to use the same  Bekker's equation 
+what we have utilized  in case of a rigid wheel and the normal  pressure at the lowest point of 
+the tyre is given by  
+ 
+Now if you substitute for  z0, just now we have de rived for rigid wheels so  then it becomes   
+This pressure is now called critical  pressure because this is the pressure  which will be utilized 
+to demarcate  whether the wheel is in rigid mode of  operation or to whether the wheel is in  
+elastic mode of operation . Now that is denoted as p ground critical , ground pressure critical . 
+If the sum  of the inflation pressure p i and the  pressure which is produced by the  stiffness of 
+the carcass pc is greater  than ground pressure critical p gcr, then the tire will remain round like 
+a rigid  wheel and the rolling resistance will be  equal to  just like the rolling resistance of a  
+rigid towed  wheel.   
+ 
+So the behavior will be similar to  the behavior  of a towed  rigid wheel  that means rolling  
+resistance expression will be same . Now when sum of the pressu re p i and pc is lesser than 
+ground critical pressure  then a portion of the  tyre circumference  will be flattened and the 
+contact  pressure in the flat portion  will be  equal to p i plus pc.  
+(Refer Slide Time:  7:41)  
+ 
+So if contact pressure is p i+pc then the sinkage we can calculate ,  
+ and R we can calculate ,  
+ 
+just like in plates sinkage  test. Now if I substitute  this z0 so  
+ 
+So for  z0, if I substitute for p, I have  taken p i+pc. Now the equation becomes  rolling resistance  
+will be equal to  
+ 
+That means rol ling resistance depends on  what is the inflation pressure , it depends what is the 
+pressure stiffness  of carcass , the pressure due to  stiffness of carcass . Then it depends on  the 
+section width of the  tyre and the  cohesive modulus of sinkage k c and the frictional  modulus 
+of sinkage  kØ and exponent of sinkage  n. So, average  tyre which will be , average ground 
+pressure of the  tyre that will be equal to , the problem associated with this p i+pc is, difficult to 
+measure  pc because it varies with load , it varies  with the type of  tyre, it varies with  inflation 
+pressure .  
+So, what B ekker have  suggested is , instead of pi+pc, it can take ground pressure pg. This 
+ground pressure value is available  from the tyre manufacturer ’s data So it will be easier for us 
+to calculate . So if we are taking a ground pressure  then the equation will be ,  
+ 
+And z0 also you can similarly do , instead of p i plus pc, I can write  
+ 
+Now how to find out average ground  pressure  on a flat portion  the tyre, the average ground 
+pressure of  the tyre will be equal to the load  carried by the  tyre divided by the  corresponding 
+ground con tact area . If you  know the ground contact area or if you  can find out the ground contact area  knowing the load , we can find out what  will be the ground pressure . Load 
+divided by area that will give you  the ground pressure and then utilizing  this equation you can 
+find out the  rolling resistance .  (Refer Slide Time:  11:17 )  
+ 
+ 
+  
+Now if you look at , this is the potion  which is flattened, this is the portion which is remaining 
+in curved shape.  So ent ire thing is entering into  the soil so that means there is a flat portion,  
+there is a curved portion  and the width we have taken as  b. Section width of the tyre  we have  
+taken as  b. Now the contact patch if you  denote it as lt. For a wider t yres like terra t yres lt 
+may be lesser than  b because if the se are wider t yres. So section width is  greater than the 
+contact patch . So, if that is the situation  then we have to take  lt instead of  b for all those 
+equations which you have  derived for  sinkage or for rolling  resistance . So I have derived 
+expression  for lt so 
+ 
+If I take a s this is the deflection  δt, so and this is the radius . So this is your δt and this is your 
+radius r  so now  expression for  lt. So lt will be  this distance . This is your lt, so  
+ 
+So you have to take  either  b or l to lt depending on which  one is lesser . So, if lt is lesser then 
+you have to take  the value of  lt instead of  b in z0 as well as while calculating the rolling  
+resistance  along the flattened portion  the pressure wi ll be equal to  pi+pc which you have taken 
+as ground pressure . And the W which is  applied , that is carried by the wheel . So that will be 
+carried or supported by two  components . Now so W will be equal to W 1+Wcu that means a 
+portion of  weight  will be supporte d by the flattened portion  and the rest will be supported  by 
+the curved portion.  Now if I denote this flatted  portion as AB and the curved portion as BC  so 
+flattened  portion W1 will be equal to  if b is the width  and if you know the  ground pressure so into your l1 so this is area into pressure that will  give you directly the  value of W 1. Now for 
+finding out the  weight which is supported by the curved  portion, we have to proceed in a 
+similar way as  you have done for the rigid wheel . That means , in the  contact  patch , the 
+curved  contact patch  which is indicated as BC  the radial force acting will be d N. So it will 
+have a component dW; it will have a component d R. dR is related to your rolling resistance 
+and dW would be related to the vertical load  which is suppor ted. Now d W will be equal to , if 
+I take a small element  subtending  angle dθ which I have  indicated in this . So that area 
+whatever force is  acting so that is indicated as d W2 and  
+ 
+Now x is equal to , ‘x’ I have indicat ed here, x will be equal to  rsinθ Now, 
+ 
+ 
+Now we  substitute for this in here , so it becomes   
+ 
+Now x square wil l be how much .  
+ 
+Now if I simplify this one , so this will  become   
+ 
+Now for shallow  sinkage  or for  this expression with respect to the  diameter is very very low  
+so you can neglect this . So we can  approximate as  
+ 
+Now x will be how much ,  
+ 
+Now if I diffe rentiate this expression , so what I get is  
+ 
+Now substitute for  dx,  will be equal to minus (2r/2x)×zdz. So 2-2 will be cancel out . Now substitute  for x, so it 
+becomes  
+ 
+So now you substitute for dx in this  expression  here. So it becomes   
+ 
+Next is , if I assume that  t=z0+δt-z, then dt/dz = -1 or dt = -dz. So now I  substitute for -dz as dt 
+so I can remove this  minus sign , so if this becomes   
+ 
+So dW2 will be now finally I can write  as, if this is clear then I can directly  write as   
+ 
+Now this is the expres sion. Now this term can be expanded by  binomially and only keeping 
+the first  two terms and neglecting the other terms , so this can be finally written as   
+ 
+ (Refer Slide Time:  21:13 )  
+ 
+So, what we will be getting is  expression , so we  will be getting final ly   
+So this will be the final expression for  the load which is carried by the curved  portion .  
+So total weight  will be equal to W1+W cu. We have expression for Wcu. We have expression 
+for W1  
+ 
+ 
+ 
+So this is a  series of equations available .  
+So what  you have to do is , first you have to assume a value of  δt which is the deflection part 
+then calculate l1. So assume a δt, calculate  l1, then find out W 1 and Wcu. Then summation of 
+this W1 and Wcu should satisfy this condition . If this condition is not satisfie d, then you have 
+to change the value of δt till we get the convergence .  
+So this is , this could be an iterative  procedure by which we can carry out and  find out what is 
+W. Once you know W then  you can find out knowing the rolling  resistance divided by W th at 
+will give  you coefficient  of rolling resistance .  
+So this way you can find out the rolling  resistance , coefficient of rolling  resistance for a 
+pneumatic wheel  when it  is in  rigid mode of operation or when it is in  elastic mode of 
+operation .  
+(Refer Slid e Time:  24:57 )   
+ 
+So in this lecture I tr ied to derive the  equation for predicting rolling  resistance of a pneumatic 
+wheel  both in  rigid mode as well as in flexible mode  of operation . In addition , equations are 
+being derived for finding  out weight carrie d by the different  section of the wheel . Different 
+section  means there will be a flat portion , there will be a curved  portion .  
+So what will  be the weight which will be carried on  the fl at portion and what will be the  
+weight which will be carried at the curved portion . You can refer to the book like Theory of  
+Ground Vehicles for further enhancing  your knowledge . Thank you .  

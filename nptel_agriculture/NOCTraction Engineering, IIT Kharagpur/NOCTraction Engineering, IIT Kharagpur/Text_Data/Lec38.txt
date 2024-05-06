@@ -1,0 +1,251 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 38: Steering of wheeled vehi cles and steady state handling of front wheel 
+steered vehi cles 
+ 
+  Hi everyone.  This is Professor H. R aheman from Agricultural and Food Engineering 
+Department. I welcome you all to this NPTEL online certification course on Traction  
+Engineering. This is lecture 38 where I will try to cover the steering of wheeled vehicles 
+and steady state handling of front wheel steered vehicle. The concepts which will be 
+covered is steering geometry and the steady state handling of front wheel steer ed 
+vehicles.  
+ 
+  Now, when I say handling characteristics, so handling characteristics of a road vehicle 
+refer to its response to steering commands and to environmental inputs. Inputs could be 
+wind gust;  it could be road disturbances which will affect the direction of motion. So, 
+there are two basic issues which are associated with vehicle handling.  The first one is the 
+control of the direction of motion of the vehicle. The second one is the ability to s tabilize 
+direction of motion against external disturbances. So, first I will see the vehicle as a rigid 
+body. It has 6 degrees of freedom, tran slation along X, Y and Z axis and the rotations 
+about this axis. So, which are clearly indicated in this figure . There will be a translation 
+about x axis, this one is the X axis and Y axis lateral velocity and Z axis is your vertical 
+velocity and the rotations are called roll velocity, yaw velocity and pitch velocity. With 
+respect to X axis, it is roll velocity ; with respect to Y axis, it is pitch velocity ; with 
+respect to Z axis, it is yaw velocity. So, this is the vehicle axis system on which I have 
+indicated these forces and the moments which are acting. Then during turning what 
+happens, the vehicle body rolls and this roll motion may caus e the wheels to steer, 
+thereby it will affect the handling behavior of the vehicle. So, before we move into the 
+steering, let us first see what is the steering geometry of a vehicle.  
+ 
+  So, I have indicated , this is a four wheeled vehicle that means the front wheel are 
+steered and if I dr aw perpendicular to all these wheels, they will meet at a point O that is 
+the center of rotation . And I have connected O with CG of the vehicle. So, that is 
+indicated as R which is nothing but your turning radius and the wheel base is indicated by 
+small b and the tr ack width is indicated by small t , and δi that is the steer angle of the 
+inside front wheel. We are taking a turn to the right.  So, that is why δi is the steer angle 
+of the inside front wheel which is also called major steer angle. Similar to δi, there will be 
+an angle δo which is called steer angle of the outside front wheel and it is called minor steer angle.  
+ 
+  Now if you look at the right -angle triangle OFC, then  
+𝑐𝑜𝑡𝛿𝑖=𝑥
+𝑏 
+Similarly, if you look at the right -angle triangle OED,  
+𝑐𝑜𝑡𝛿𝑜=𝑡+𝑥
+𝑏 
+So, now if I take the difference between  
+𝑐𝑜𝑡𝛿𝑖−𝑐𝑜𝑡𝛿𝑜=𝑡
+𝑏 
+This is the perfect steering conditions where the all the four wheels are rolling and this is 
+what is required, but in practice we never achieve this.   
+Next , we will see what is the steady state handling performance. When I said steady state 
+handling performance, this is concerned with the directional behavior of a vehicle during 
+a turn under non time varying conditions. For example, a steady state turn is a v ehicle 
+negotiating a curve with constant radius and at constant forward speed , we are not 
+changing the forward speed, we are not changing the constant radius, so that is called 
+steady state handling. When the vehicle is negotiating a turn at moderate to higher speed, 
+the effect of centrifugal force which is acting at the CG of the vehicle can no longer be 
+neglected. So, what will happen , to balance the centrifugal force, the t yre must develop 
+appropriate cornering force.  
+ 
+  This cornering forces are developed at the contact patch of the front wheels as well as 
+the rear wheels. So, because of this , side force will be acting at the t yre and the t yre will 
+produce a slip angle. So, let us now see , this I have taken the , I have represented this 
+figure assumi ng that both the wheels are developing the same cornering force and I have 
+indicated only one wheel, one on the front, the other one on the rear and both the wheels 
+that is the minor steer angle and the major steer angle are assumed to be same. So, these 
+are some of the assumptions I made to which has been made to simplify, so that you can 
+derive the fundamental equations related to steering or handling characteristics. So, the 
+first assumption is , a vehicle is negotiating a turn at a constant speed and the  forces which 
+are acting on the vehicle will be obviously the centrifugal force and the forces acting 
+through the t yres. 
+ 
+  And here the major steer angle of the inside front wheel and the minor steer angle of the 
+outside front wheel they are almost the same and so the forces on each of the front and each of the rear wheels are the same. So, then the forces shown acting on these t yres are 
+simply twice the forces which are acting on each of the wheels. So, here I have indicated 
+the centrifugal force which is equal to W V2/gR and the vehicle is taking a turn at the 
+steering angle , I have indicated as δf and the forces which are acting will be the side force 
+Fsf which is on the front wheel and the side force F sr which will be on the rear wheel. And 
+the slip angles corresponding to the front wheel is αf, this angle and the slip angle at the 
+rear wheel will be alpha αr and the steer angle that is δf, the angle by which the vehicle is 
+turned is δf. Now, if you look at this diagram , I have indicated the wheel base as L and 
+the distance of CG from the front center of the wheel that will be equal to L 1 and the rear 
+center of  the wheel from the cg the distance is L 2. 
+ 
+  Now, the angle which is sustained that means, if you draw two lines , perpendicular lines  
+to these two wheels , they will meet at a point O and the distance from O to CG is denoted  
+as R which is the turning radius and the angle OA , this triangle OBA , this is the right  
+angle triangle and the angle substrate at center that is AOB , 
+∠𝐴𝑂𝐵 = 𝛼𝑟+𝛽 
+Similarly, the angle on the other right -angle triangle that is OBC. So, angle BOC , 
+∠𝐵𝑂𝐶 = 𝛿𝑓−𝛼𝑓 
+ That means, δf is the steer angle , α is the slip angle and β is the angle by which the 
+vehicle has turned. So, summation of this will give you the total angle τ. So, now the slip 
+angle of the front and the rear wheels , as I told in the beginning that this will be equal to 
+αf and αr. 
+ 
+  So, when a vehicle is negotiating a turn at the moderate at higher speed the four tires 
+will develop appropriate slip angles to simplify the analysis the pair of t yres and an axle 
+are represented by a single t yre with double the cornering stiffness. And β I said , is the 
+angle between the direction of motion and the vehicle cg. Motion of the vehicle CG is the 
+direction of , the angle between the direction of motion of the vehicle CG and the vehicle 
+center line. And δf is the steer angle of the front wheels and O is the instant aneous  center 
+of turn. So, I have indicate d those forces.  
+ 
+  Now I said τ will be equal to , for small angles you can take , assume to be a n arc of the 
+circle. So, that becomes , 
+𝜏=𝐿
+𝑅 
+L is the wheel base and R is the turning radius. Now this will be equal , 𝐿
+𝑅= (𝛼𝑟+𝛽)+𝛿𝑓−(𝛼𝑓+𝛽) 
+ So, -β, +β plus, they will cancel out. So, ultimately what we are getting is ,  
+𝛿𝑓= 𝐿
+𝑅−𝛼𝑟+𝛼𝑓 
+ Now we will try to find out , what are the forces and moments which are acting by 
+resolving the forces which are acting on the wheel into the , into two components one is 
+parallel to the radial line the other one is perpendicular to the radial line ok. So, and then 
+taking the algebraic sum of forces and moments we will try to develop the fundamental 
+equations ok. Let us now see , what are the forces which are acting parallel to the radial 
+line. So, the first thing will be WV2/gR is the centrifugal force . Then this will be , if we 
+look at the front wheel then it will have a component Fofsin(δf-β), ok. 
+𝑊𝑉2
+𝑔𝑅+𝐹𝑜𝑓sin(𝛿𝑓−𝛽)= 𝐹𝑠𝑓cos(𝛿𝑓−𝛽)+𝐹𝑜𝑟𝑠𝑖𝑛𝛽+𝐹𝑠𝑟𝑐𝑜𝑠𝛽  
+So, F sr is the side force which is acting at the rear wheel and F or is the basically the rolling 
+resistance of the rear wheel and F sf is the side force which is acting on the a front wheel 
+and F of is the rolling resistance of the front wheel. So, this will be the summation of 
+forces or the forces acting parallel to the radial turning radius. Similarly, we have to find 
+out what are the forces acting perpendicular to the turning radius. So, resulting the forces 
+perpendicular to the turning radius , what we get is  
+𝐹𝑠𝑟𝑠𝑖𝑛𝛽= 𝐹𝑜𝑟𝑐𝑜𝑠𝛽+𝐹𝑜𝑓sin(𝛿𝑓−𝛽)+𝐹𝑠𝑓sin (𝛿𝑓−𝛽) 
+ Now, taking moments about the C G and then equating it to 0 , as there is no external 
+moment applied at the C G. So we , what we get is ,  
+𝐿1𝑐𝑜𝑠𝛽[𝐹𝑜𝑓sin(𝛿𝑓−𝛽)−𝐹𝑠𝑓cos(𝛿𝑓−𝛽)] + 𝐿1𝑠𝑖𝑛𝛽[𝐹𝑜𝑓cos(𝛿𝑓−𝛽)+𝐹𝑠𝑓sin(𝛿𝑓−
+𝛽)]+𝐿2𝐹𝑠𝑟 = 0 
+So, these are the three equations which we got from by resolving the forces parallel to the 
+turning radius , perpendicular to the turning radius and then taking moments about the 
+CG. And the , so, what happens exactly is , this δf and β they are not very high angles , they 
+are very small angles. So, you can approximate , is closer to 0.  
+ 
+ So, that means, this sin components will be more or less 0 and the cos components will 
+be 1. So, the equation 1 will be resolved as : so, this can be written as  
+𝑊𝑉2
+𝑔𝑅= 𝐹𝑠𝑓+𝐹𝑠𝑟 This will be equation number 3 and the equation number 2 will be equal to , the sin 
+component , will be 0 , ok. So, that means,  
+𝐿1𝐹𝑠𝑓=𝐿2𝐹𝑠𝑟 
+ So, these are the equations which you got from here . When we assume that the α, assume 
+means this δf and β, they are small . That is why you have resolved this 1 , 2, 3 equations 
+into 3 , 4, and 5 ok. Now, from this equation number 5 , we can say that  
+𝐹𝑠𝑓=𝐿2
+𝐿1×𝐹𝑠𝑟 
+Now, if I substitute this value in equation number 3 , so, then it will become ,  
+𝑊𝑉2
+𝑔𝑅= 𝐹𝑠𝑓+𝐹𝑠𝑟 
+𝑊𝑉2
+𝑔𝑅= 𝐹𝑠𝑟[𝐿2
+𝐿1+1] 
+  Now, from equation 5 , what we got is  
+𝐹𝑠𝑓=𝐿2
+𝐿1×𝐹𝑠𝑟 
+𝐹𝑠𝑟=𝐿1
+𝐿2×𝐹𝑠𝑓 
+So, if I substitute in the equation number 3. So,  
+𝑊𝑉2
+𝑔𝑅= 𝐹𝑠𝑓[𝐿1
+𝐿2+1] 
+𝐹𝑠𝑓=𝑊𝐿2
+𝐿1+𝐿2×𝑉2
+𝑔𝑅 
+So, now this W ×L2/(L1+L2) is nothing, but what is the weight acting on the front axle , 
+because we have taken F sf is the total weight which are acting on the both the wheels. So, 
+I can write as  
+𝐹𝑠𝑓=𝑊𝑓𝑉2
+2𝑔𝑅 
+because I assume that W f is the weight acting on the each of the front wheels ok.  
+ 
+  Now similarly , I will find out  𝐹𝑠𝑟=𝑊𝑟𝑉2
+2𝑔𝑅 
+ 
+So, now if I substitute this one in this equation , this equation … So, before that , we have 
+to find out what is the relationship between the F sr and F sf with the slip angle. Usually , Fsf 
+is related to the slip angle , Fsf is related to the slip angle. That means, the cornering 
+stiffness into slip angle.  
+ 
+ Similarly , Fsr is the (cornering stiffness of the rear wheel ) × αr. So, I can substitute here 
+for F sf. So, F sf = (cornering stiffness in the front wheel , Cαf) × αf,  
+𝐶𝛼𝑓×𝛼𝑓=𝑊𝑓𝑉2
+2𝑔𝑅 
+𝛼𝑓= 𝑊𝑓𝑉2
+2𝐶𝛼𝑓𝑔𝑅 
+ 
+Similarly , I will find out expression for αr which is nothing  
+𝛼𝑟= 𝑊𝑟𝑉2
+2𝐶𝛼𝑟𝑔𝑅 
+ 
+ Now , if I substitute this value , this value in this equation , so, finally, what we get is ,  
+𝛿𝑓= 𝐿
+𝑅−(𝑊𝑅𝑉2
+𝐶𝛼𝑟𝑔𝑅−𝑊𝐹𝑉2
+𝐶𝛼𝑓𝑔𝑅) 
+𝛿𝑓= 𝐿
+𝑅−𝑉2
+𝑔𝑅(𝑊𝑅
+𝐶𝛼𝑟−𝑊𝐹
+𝐶𝛼𝑓) 
+ 
+This (WR/Csr - WF/Csf), this is nothing, but is called as understeer coefficient.  
+ 
+ So, δf, that is the steering angle is a function of wheelbase L , is a function of the turning 
+radius R, it is a function of the speed at which is taking a turn , it is a function of the 
+weight distribution , it is a function of the cornering stiffness of rear and front tyre. So, 
+this is the fundamental equation governing the steady state handling behaviour of a 
+vehicle. Now, I will show you another handling behaviour which is nothing, but how the tractor is behaving or what is the stability of tractor when during while moving on a side , 
+side slope. So, we will discuss about side slope stability now. So, the vehicle is moving 
+across a slope . The slope of the surface is β from the horizontal and the wheel has a tr ack 
+width t and the CG height is h from the ground level , ok. 
+ 
+  Now tan β = t/2h ok. When the tanβ > t/2h, t is the tr ack width , h is the height of the CG 
+from the ground , then the vehicle is going to overturn. Now, the other thing which are 
+going to verify , is the whether the tractor will slide down . Why it will slide down ? 
+Because the forces which are developed at the contact patch both are the rear wheels as 
+well as the front wheels. They should oppose the weight component which is acting here 
+Wsinβ. 
+ 
+ So, that is why I have written Wsinβ will be greater than Fsf + Fsr. Then what will happe n 
+the tractor will become unstable and it will slide down the slope. So, these are the 2 
+conditions which are to be verified when the tractor is moving across a slope ok. So, 
+when I said Fsf means that the total side force acting , when I said Fsr means is the total 
+side force acting on the rear wheels . Fsf is the total side force which is acting at the front 
+wheels. That means, you have to take side force of the front wheel both the wheels and 
+side force of both the rear wheels. So, now I will try to summarize what exactly we 
+discuss ed in this class.  
+ 
+ We discuss ed the fundamental equation which is the which governing the steady state 
+handling behaviour of the vehicle and where we found out that the st eer angle which is 
+required to negotiate a given curve , how it is dependent on wheel base, how it is 
+depende nt on turning radius, forward speed and understeer coefficient of the vehicle. And 
+in fact, it also depends on the weight distribution . Understeer coefficient is nothing, but 
+weight divided by the cornering stiffness. So, that is why in other words we can say , it 
+also depends on the weight distribution on the front and the rear wheels and the steering 
+stiffness of the front and rear t yres. Then we also discuss the handling characteristics of 
+the vehicle , how it is dependent to a greater  extent on the relati onship between slip angles 
+of the front and rear t yres. Then we also discuss ed the side slope stability of the tractor 
+and it what we observe that is the side slope stability we have to check two conditions.  
+ 
+ The first condition is the overturning and that is dependent on the track width and the 
+height of the CG and the second one is the sliding down of the tractor which is dependent 
+on the side force. That means, the side force which are developed or the lateral force 
+which are developed at the front and the rear t yres that should be sufficient to support the 
+a sin component of the  weight of the vehicle. So, you can refer to Wong's book theory of 
+grand vehicles to further improve your knowledge on this. Thank you.  

@@ -1,0 +1,179 @@
+Traction Engineering  
+Profes sor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 11 
+Rolling resistance of a rigid towed wheel  
+Hi everyone, this is Profes sor H Rah eman from Agricultural and Food Eng ineering 
+Department , IIT Kharagpur . I welcome you all to this NPTEL course Traction Engineering . 
+This is the lecture 11 where I will try to cover Rolling resistance of a rigid towed  wheel .  
+(Refer Slide Time:  0:50)  
+ 
+ 
+As you know , towed wheel  means , the concept that is Bekker 's theory of rolling resistance 
+will be applied to find out the rolling resistance of a rigid towed  wheel . The towed wheel is 
+nothing but where torque is not acting . Simply , it is used to support the weight or to carry the weight . Now the figure which I am showing here is the  towed wheel . Since torque is absent , 
+so there is no shear stress acting at the soil and wheel interface , only the radial stresses are 
+acting . So that is why I  have indicated radial stresses along the periphery .  
+So dN is a radial force, it is not stress . Actually the radial force which is acting corresponding 
+to an angle d theta that means we are considering a  soil element with angular interval of d 
+theta , so this is the  arc of a circle , so that becomes the length will be r d theta and b is the 
+width of the wheel . So, b into r theta will give you area of this element , this arc, area of this  
+arc.  
+Now to move this wheel forward , we require to  tow it, that means R which is indicated here 
+is the rolling resistance and W is the vertical load which is acting and small r is the rolling 
+radius . As there is no deflection , so rolling radius will be equal to D by 2 , diameter by 2 and b 
+will be the width of the wheel.  Now as per Bekker ’s theory , the assumption is the terrain , the 
+terrain or the  soil reaction present at all points on the contact patch is purely radial and is 
+equal to the normal pressure beneath a horizontal plate at the same depth in a pressure 
+sinkage test .  
+That means we know that in the pressure sinkage test ,  
+ 
+So, here z is the sinkage k is the modulus of sinkage and n is the exponent of sinkage . So, to 
+calculate the value of R, what we have to do is , this R will be equivalent to the work done per 
+unit length in pressing a plate of width b into the ground to a depth  z0.  
+So, suppose the entry angle  θ0 is given as here , this line joining the  soil surface with the 
+center line , then at any angle  theta we are considering a small element of circumference of 
+the wheel which is subtending  an angle dθ. So this is subtending  an angle dθ, so dθ will be 
+the ar c of that  area will be  
+ 
+and the radial force which is acting d N,  
+ 
+ 
+ So, that will be the radial force, then this radial force will have two components ; one is the 
+vertical component which is denoted as dW,  the other one is the horizontal component dR. If 
+you are going to integrate the total horizontal forces acting on this contact patch then we will 
+find out what will be the rolling resistance .  (Refer Slide Time:  5:35)   
+ 
+ 
+ Now looking at this figure , we are going to find out expression for total ro lling resistance . 
+Now dR will be how much , here R, what you have considered is the compaction resistance as 
+the motion resistance of rigid wheel  is due to the vertical work done in making a r ut of depth 
+z0, so dN have re solved into dR and dW.  
+  and  
+  
+ 
+So now this has to be integrated and p also we know that  
+ 
+So now if I substitute for p , so it becomes  
+ 
+This is the expression for d R.  
+ 
+Okay, now if you look at this figure r is the rolling radius and  
+ 
+ 
+Now if substitute this rsinθdθ in this equation , so this becomes  
+ 
+ 
+This is the expression for rolling resistance , that means rolling resistance is a function of tyre 
+width or the wheel width , is a function of exponent of s inkage  n, is a function of modulus of 
+sinkage  k, is a func tion of z which is sinkage .  
+The incremental vertical force dW, if you , the incremental vertical  force d W, so that will be 
+equal to the vertical component of dN. So this is nothing but d N cosθ, so dN we have already 
+derived as p×br dθ, so this will be your vertical component of dN. Now if we substitute again 
+for  
+   
+so it becomes  
+ 
+So, now we know that x which is corresponding to this point , so if I denote it as A and B, so 
+and center as O, so AB is equal to x and x will be equal to rsinθ in the right angle  triangle 
+OAB . I can write , as x is equal to rsinθ , now dx/dθ will be equal to rcosθdθ . Now I substitute 
+this rcosθdθ here, so this equation becomes now  
+ 
+Now x square is how much ?  
+ 
+ 
+ Now r2-r2 will cancel out , so it becomes  
+ 
+Now, for soil sinkage wh en the sinkage is low , z0 minus  z will be very -very low value , so you 
+can neglect this .  
+ 
+ 
+Now if I differentiate again this one , so 2xdx will be equal to -2rdz. Now I have to substitute 
+for dx from here , so from here dx will be equal to -2rdz. This I ca n write as –r/x. For dx, I can 
+write  
+ 
+So now I have to substitute this one here in this equation . So, the assumption for the limit will 
+be that is applicable to  soil sinkage , so I can write dW as finally , I can write as  
+ 
+Now let t = (z0-z), so   
+Or, 
+ 
+ 
+So, now further if I simplify  
+ 
+So now for  z, if I substitute  z we have taken here t = z 0-z, for z if I substitute  z = z0-t or this 
+way, z = z0-t.  
+Now I substitute in this equation ,  
+ 
+So, this has to be integrated after expanding this term  (z0-t)n. Now if I expand it and only 
+considering the first two terms and neglecting the rest of the terms , so what I get is   
+ 
+This two term I  will take and the rest of the terms I will  neglect .  
+Now if I substitute for , so it becomes ,  
+ 
+So that will be the final ex pression . Now this has to be integrated from , so this has to be 
+integrated from 0 to W that means 0 to this has to be integrated from 0 to  z0.  
+(Refer Slide Time:  18:18)    
+So the final expression for W will be  
+ 
+This has to be integrated and final express ion will be  
+ 
+This is the expression for W.  
+So you have already defined for rolling resistance and  so coefficient of rolling resistance will 
+be equal to R/W , so the expression will be  
+ 
+Now R expression we know  
+ 
+Now I substitute for  z0,  
+ So this is the expression for  z0, this is the expression  for R , this is the expression for W and 
+this is the expression for coefficient of rolling resistance . So now finally if I substitute for  z0 
+in this equation ,  
+ 
+Now if I want to express individually like what i s the effect on b, what is the effect o f k like 
+that. So this becomes  
+ 
+This is the expression for R.  
+Now in this expression , it clearly indicates that rolling resistance is a function of wheel width, 
+it is a function of modulus of sinkage , it is a funct ion of diameter , it is a function of weight 
+and it is a function of exponent of sinkage . Now if you look at b and k they are all negatively 
+related that means b, k and the diameter that means if diameter we are increasing it is going 
+to reduce rolling resi stance , if you are increasing section width that means width of the wheel 
+then it is al so going to reduce the rolling resistance . So let us now see how th ese are affecting 
+the rolling resistance for different n values .  
+(Refer Slide Time:  22:23)  
+ 
+So when  we keep everything constant only vary b then   
+When I keep everything constant only v ary k then  
+ 
+When I keep everything constant only vary diameter then it becomes  
+ 
+If I keep everything constant only vary W then  
+ 
+So now if I vary n from half to 2, so, that itself will show you how b, k, D, and W they are 
+going to influence the rolling resistance . So, what we conclude from here is , increasing b or 
+increasing D because , soil you cannot change , k is related to  soil, so b and D if you only 
+consider then  that is going to , both of these values are going to reduce the rolling resistance 
+but increasing diameter will have a more effect , will have more effect in reducing the rolling 
+resistance as compared to b.  
+(Refer Slide Time:  23:48)   
+ 
+Now there are certa in limitations . Bekker  has proposed while applying the Bekker ’s Theory 
+to decide the rolling resistance or to determine the rolling resistance of a towed wheel,  the 
+limitations are the equation for rolling resistance which has been derived we have only taken 
+two terms of that binomial expansion , so as a result what happens , this equation works well only when the values of n is within 1.3 . If you increase the value of n beyond 1.3 th ere would 
+be consid erable error .  
+So if you want to reduce the error then you have to take more terms of that expansion , at least 
+five terms  should be taken instead of two . Then the other limitation is , this equation is 
+applicable to moderate sinkage that means when z 0 that is sinkage  is less than equal to D by 
+6, one sixth  of the wheel diameter . Then the third limitation is the prediction of rolling 
+resistance for smaller wheels that means lesser than 50 cm in diameter is not accurate . Then 
+the last limitation is the predict ion of sinkage z0 in dry sandy  soil is not accurate because 
+there  could be a significant amount of sinkage and slip as sociated .  (Refer Slide Time: 25:20)  
+ 
+ 
+So in brief , we can say in this lecture attempts are made to derive the Bekker ’s equation for 
+predicting rolling resistance of a towed  rigid wheel and we have al so discussed the limitations 
+in applying the Bekker ’s theory for predicting rolling resistance . You can refer to  some of the 
+books like Wong J Y Theory of Ground Vehicles and Soil Dynamics in Tillage and traction 
+by William R Gill and Jay Vanden  Berg. Thank you . 

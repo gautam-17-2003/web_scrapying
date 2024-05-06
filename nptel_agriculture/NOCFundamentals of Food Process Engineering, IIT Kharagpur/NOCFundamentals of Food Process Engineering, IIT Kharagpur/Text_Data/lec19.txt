@@ -1,0 +1,238 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 19 
+Evaporation and Concentration (Contd.)  
+ 
+Hello everyone , welcome to the NPTEL  online certifi cation course on Fundamentals of 
+Food Process Engineering . We will continue today with the topic of Evaporation and 
+Concentration . In the previous classes  of this particular chapter we have discussed that 
+what are the different types of evaporators ? 
+And what kind of evaporators is typically used for  what kind of application ; we have 
+discussed a bit of that . And also we have discussed  the boiling point elevation  in the last 
+class and  single effect evaporator , multiple effect evaporator . And basically what are the 
+different way by which we can increase the effectiveness in the evaporator ok . 
+So, today we will actually  solve few numerical , we will see how we can calculate the  
+heat and mass balance in evaporator and find out steam economy  or effectiveness etc. 
+So, let us starts with those topics . 
+(Refer Slide Time: 01:45)  
+ 
+So, the first thing we need to know when we start  solving  problem is overall heat transfer 
+coefficient . Overall heat transfer coefficient  to give you an understa nding because you might have learn this in your  heat transfer courses  that if there are  multiple or series of 
+phases  are there through which heat is being transferred  so, every section  offers cer tain 
+resistance to heat transfer . When  we are analyzing  them together , we call them the 
+overall heat transfer coefficient . So, overall heat transfer coefficient includes the 
+conductive  conduct ivity and also the effect of convective heat transfer . Say for example,  
+if you have a s urface  like this which is  actually a metal  that is separating  two steams here 
+let us say in one side there is  steam  and the other side maybe water . 
+So, in water side the convective heat transfer coefficient will be there  let us  say h o. Then 
+heat has to be conducted through this wall where  the conductivity is “k” and in the inner 
+side where the water whose  convective  heat transfer coefficient is hi, where heat q is 
+being transferred across it . 
+So, we will see now how we  take the value of overall heat transfer coefficient  ok. 
+(Refer Slide Time: 04:21)  
+ 
+So, the overall resistance to heat transfer is th e sum of  three  resistances in series  namely 
+that of the condensing steam film , that of the s olid wall  and that of the boiling liquid . 
+Because in evaporator we have  that from the very  starting of discussion related to 
+evaporator ; that there is if we  can take this kind of an evaporat or, where  steam is  coming 
+and steam  is getting condensed  and feed which is coming into the evaporator . So, there it is being boi led and the concentrate is coming out from the  bottom, vapour  is 
+going out from the top . So, the steam which is coming  is condensing over a surface . We 
+have seen that  there are may be  short tube evaporator s or vertical long tube evaporator s 
+or simply  jacketed kind of open pan evaporator . 
+In any kind of evap orator the steam condense s in one side  of a surface  and the liquid that 
+is being evaporated and subsequently con centrate  solution will be prepared . So,  that is 
+why in series we have t o take the condensing steam film  and the resistance  of the solid 
+wall and that of the boiling liquid . 
+(Refer Slide Time: 06:31 ) 
+ 
+So w e can write in th is way : 
+1
+𝑈=1
+ℎ𝑠+𝐿
+𝑘+1
+ℎ𝑏 
+Where , U is the ov erall heat transfer coefficient, h s is the convective heat transfer 
+coeff icient in the st eam sid e, L is the  thickness of the  surface or thickness of the wall, k 
+is the thermal conductivity of the ma terial  and h b is the convective heat transfer 
+coefficient of the boil ing liquid . 
+So, this is how we can calculate the overall heat transfer coefficient and ultimate ly we 
+know that in the heat trans fer we might have read this term  “q”. The total heat transfer is 
+given by:                                                          q=U A ΔT  where A is the  area surface area of evaporator , U is this overall heat transfer coefficient  
+and ΔT is the t emperature difference that is  you know  across which the heat transfer is 
+happening or occurring . 
+So, this is basically the difference between the steam that is conde nsing and the liquid 
+that is boiling . So, that two temperature difference is designated by  ΔT. 
+(Refer Slide Time: 08:34)  
+ 
+So, the heat transfer coeff icient o f condensing steam in shell side  is normally very high 
+compared to the liquid side . We can check this like when the st eam is entering steam is 
+coming at a temperature , let us say  TS generally we use saturated stea m or  somet ime 
+superheated steam mostly we use saturated steam . So, we will  measure  the latent heat of 
+condensation at that  saturation temperature . 
+So, we have seen that the heat t ransfer coefficient that is ‘hS’ of the condensing steam  is 
+normally very  high compared to ‘hb’ which is the convective heat transfer coefficient in 
+the boiling l iquid side . The resistance of the scale on the liquid side and the liquid film 
+coefficient which is usually inside the tube ; now what is this  Resistance of the scale ? 
+Now since we are using  evaporators to concentrate the  dilute soluti on. So, some time 
+what happen  that th ese dilute  solution s when they  become concentrated , deposition of 
+the solid material  in the form of scale  happens on the surface where  the heat tran sfer 
+occurs . So, because of that  there is resistance generate unless we clean them properly time to time . So, that will offer a resistance  in the in the  liquid side of the system of the 
+evaporator . So, because o f scale deposition  again the heat transfer will reduce . 
+(Refer Slide Time: 10:44)  
+ 
+So, we will see now that  few typical values of overall heat transfer coefficient . You will 
+get them in  the books also . If we consider  long tube  vertical evaporator the, their natural 
+circulation  that is the liquid which is coming by natural gravitational flow we are not 
+using any pump over there . In that case the overall heat transfer coefficient is 1000  to 
+2700 W/m2°C. And for long tube vertical evaporators with forced circulation , then the 
+overall heat transfer coefficient will vary from  2000 to 7500 W/m2°C. 
+If we use short tube vertical evaporators , overall heat transfer coefficient  is 750 to 2500 
+W/m2°C. If we use agitated  film evaporators with low to medium viscosity liquid 
+(viscosity <1 poise ) then overall heat transfer coefficient can be used in between this 
+range that is 1800 to 2700 W/m2°C. And for high viscous , high viscous solutio n we will 
+use 1500 W/m2°C. So, because it is obvious that in  case of high viscous sample ; it is very  
+you know  difficult to transfer heat  even if we  employ  agitation in between  them to 
+increase the heat transfer coefficient .  
+Falling film evaporator  where viscosity < 0.1 poise  overall heat transfer coefficient  is 
+500 to 2500 W/m2°C. And for rising film evaporator s; the overall heat transfer 
+coefficient values vary from  2000 to 5000 W/m2°C. So, based on the requirement like when we use very heat  sensitive  liquid fruit juices etc . 
+So, that time we  use the short tube  evaporator s. When  our product  is not heat sensitive  
+then we can use long tube  vertical evaporator . So, based  on our requirement we can 
+choose the different kind of evaporators . 
+(Refer Slide Time: 13:57 ) 
+ 
+Now  coming to the design of single effect evaporator . So, let us see first the mechanism  
+that will happen in a single effect evaporator . So, in a single effect evaporator ; that 
+means, only one evaporator effect or chamber is there  in that steam is entering . 
+So, steam  is entering at temperature  TS and having the enthalpy HS and this steam will 
+condense here  inside the evaporator and t he condensate which is coming out  at a 
+temperature  TS and having the enthalpy  HCS; whereas the feed which is entering at  TF 
+temperature . Water  will be evapo rated from here and concentrated juice will come out 
+from the bottom . So, that feed will separate int o two streams ; one is the concentrate and 
+another is the vapor  that is coming out . 
+This single effect will operate at a constant pressure  PV and based on this  constant  
+pressure  PV. The saturation temperature or boiling point that we can se e from the steam 
+table . So, from this  steam table which is the  actually the  property tab le for the saturate d 
+water vapo r. We can see this value of temperature  TV corresponding to pressure  PV. Now ‘F’ which is mass flow r ate of the feed i n kg/s,  ‘V’ which is the  mass flow rate of 
+the vapor  in kg/s, ‘L’ which is the mass flow rate of the concent rate which is coming out 
+from the evaporator  in kg/s. and we have  ‘S’ which is the flow rate of the steam in kg/s. 
+So, we can observe that the steam that is entered s ame amount of the steam is coming 
+out. Only  the latent heat of condensation is being provided  across the heat transfer 
+surface in the single effect evaporator . And that heat is being taken by this feed and 
+vapor  ‘V’ kg/s is coming out and even tually the  remaining heat is with concentrate . So, 
+the concentration  XF concen tration of the solid in the fee d was definitely lower than the 
+concentration of solid in the  concentrate that is coming . 
+XF, XL = fraction of solids in the feed & concentrate  
+TF, TS= temperature of feed & steam entering, oC 
+Tb = boiling point temperature = T V + boiling point raise   (T V = T b, if there is no b.p.r )  
+TV = saturation temperature at P V  
+PV = operating pressure of evaporator   
+PS = pressure of entering steam  
+ (Refer Slide Time: 18:53 ) 
+ 
+Now as  I said in the previous slide that there  will be a temperature  ‘TV’ that will be 
+corresponding to the vapor  pressure  prevail ing in the evaporator chamber  that is  ‘PV’. 
+Now we have learned then there may be boiling point  elevation because of increase in  
+the concentration of the solid in the  solution . So, now  we will see that what will happe n if there is boiling point raise  in the  chamb er in the  in the solution . So, what  will happen ? 
+Tb = boiling point temperature = T V + boiling point raise   (T V = T b, if there is no b.p.r ).  
+So, then before solving this we will assume there will be no heat  loss. That means, 
+whatever heat the steam is supplying  is condensing . The total heat will be utilized by the 
+solution that is the feed  to be evaporate and to become concentrated.  So, there is no heat 
+loss. 
+And also we can consider t hat if  the feed that is entering in the effect is close to the 
+saturation  temperature or  the boilin g point temperature corresponding to the pressure that 
+is inside the evaporator . So, we can consider the sensib le heat requirement as negligible . 
+Now  since we have considered that steam  losses it  is latent heat only and first we will  
+look into the mate rial balance that is  ‘F’ the feed  which will be  giving us  two streams 
+namely  steam vapor  and concentrated liquid .               
+Material balance:  F = V+L  
+Solid balance:  F.X F = L.X L 
+Now making the energy balance or heat balance :  
+Total  heat that has entered will be equal to total heat that has come out . 
+Heat content in (Feed + steam) = Heat content in (Concentrate+ Vapor + condensate)  
+F.H F + S. H S = L.H L + V.H V + S.H CS 
+ (Refer Slide Time: 22:50)  
+ 
+So, we can again take steam in this side : S (H S - HCS) = L.H L + V.H V - F.H F    Heat transfer in evaporator = q = S (H S - HCS) = S λ  
+Now this is the  this is the  heat that is being transferred in the evaporator and it is 
+transferred through the area “A” in that again the series  system , one side there is steam  
+and the other side there is boiling liquid fine . So, we have  calculated the overall heat 
+transfer coefficient  ‘U’ i.e. UA(T S-Tb) 
+So, Heat  transfer in evaporator = q = S (H S - HCS) = S λ = UA(T S-Tb)  
+Calculating  this ‘A’, we can find out  what will be the area requirement of the eva porator ; 
+that means  the size of the evaporator . 
+(Refer Slide Time: 26:12)  
+ 
+Where, U= overall heat transfer coefficient                 A= area of heat exchanger  
+             λs= latent heat of vaporization at T S 
+HF = enthalpy of feed = c F (TF- 0oC) 
+HL = enthalpy of c oncentrate = c L (Tb- 0oC) 
+cF, cL= specific heat of feed & concentrate (for dilute solution its value is = 4.18 kJ/kgoc) 
+HS, Hcs , HV are determined by using steam table (if not given in problem)  
+HS = enthalpy of saturated steam (in steam table: enthalpy of saturated vapor at T S or P S)  
+Hcs = enthalpy of condensate steam (in steam table: enthalpy of saturated liquid at T S or 
+PS) 
+HV = enthalpy of vapor (in steam table: enthalpy of saturated vapor at T b ) Now how we can calcu late enthalpy of the feed ? We need  to know another  property that 
+is specific heat.  Specific  heat that is the heat required for per unit mass of the product t o 
+increase the temperature by 1°C. So, HF = enthalpy of feed = c F (TF- 0oC) 
+ (Refer Slide Time: 27:34)  
+ 
+ 
+Similarly we can calculate enthal py of concentrate : HL = c L (Tb- 0oC) 
+Concentration  ratio (R) that means  how much we have concentrated fro m the initial 
+concentration . R=X L/XF. Now steam economy that is how much steam we have  utilized  
+and what amount of steam we have generated ok ; that means, we have evaporated that 
+much water from the liquid . So, economy  or effectiveness we always calculate based on 
+what we are getting divided by what we have given to the system or wh at is the input to 
+the system . The steam economy of the evaporator  is given by  
+steam  economy =vapor
+steam  rate 
+ (Refer Slide Time: 29:35)  
+ 
+Let’s  see one example: So, this is our  XL, this is our  XF the specific heat of the feed and 
+the concentrate is  3.9 and 2.3 kJ/kg°C  respectively.  The steam pressure is measured to be  
+304.42 kPa. We will refer  steam table to identify what will be the  Tb or saturation  vapor  
+saturation temperature at this pressure . The inlet  feed temp erature is  43.3 °C this is our  
+TF, the p roduct inside the evaporator boils at  62.2 °C.  So, this will be our  Tb. So, steam 
+pressure is  given  so TS is not given . Overall  heat transfer  coefficient is assumed to be  U 
+= 943 W/m2°C. Assume  negligible boiling point elevation . Calculate  the mass flow rate 
+of concentrated product and steam requirement . So, we need to calculate  L, S, steam  
+economy and  heat transfer area . (Refer Slide Time: 32 :25) 
+ 
+Pressure  of the steam is  given  so from the steam table we will find out  what is the 
+saturation temperature  TS. Tb is given  i.e. inside the  evaporator what is the temperature . 
+Boiling  temperature  U is given also . We need to know to find the  ‘L’ that is the  mass 
+flow rate of the concentrate .   F.X F = L.X L  
+Because feed is given to us  XF and XL that is the concen tration of the solid in the feed  
+and the concentrate is given . So, we can calculat e L first; so L is coming  0.098 kg/s. So, 
+what will be  ‘V’ then? We know that  V = F - L; so, that is  0.57 kg/s. 
+Then coming t o the energy balance or heat balance :        Sλ = L.H L + V.H V - F.H F    
+So, all the mass flow rate  multiplied with their respective enthalpies . So, HF will be 
+what ? We know that HF = c F (TF- 0oC).  So it is coming around  168.9 kJ/kg . 
+Similar ly we will calculate HL, HL = c L (Tb- 0oC) = 2.3 (62.2 – 0) = 143.1 kJ/kg  
+So, we know  F, we have calculated HF, we know  V and we know  L and HL right , we also 
+know  this HV from th e steam table . we can get this one from the steam table . So, putting  
+all the values here because this is coming from the latent heat of condensation and this is 
+coming because vapor  is generated at a  temperature of  Tb. So, what is the  enthalpy at the 
+temperature , we can get from the steam table . (Refer Slide Time: 35:30)  
+ 
+So, HS is the enthalpy of saturated  vapor at 134 °C that is  2725.9. Enthalpy  of the 
+saturated liquid we are getting HV is the enthalpy of saturated vapor  at 62.2 °C i.e. T b. 
+And also p utting all this value we can calcu late the value of  S that is  0.64 kg/s. 
+So, steam economy will be  what ? The vapor that is evaporated is  0.57 kg/s and the steam 
+that is being used is  0.64.  So, steam economy is  0.85 ok. So, we can see that  since it  is a 
+single effect evaporator , we can not get economy higher than 1. However , if we use 
+multiple effect evaporator , that means  the same vapor  if we used to evaporate  liquid from 
+the concentrated solution in the next effect and eventually in the third effect as well.  So, 
+the vapor that is the water evaporated  from the liquid from the same amount of steam 
+utilization will increase . Therefore, steam economy for the multiple effe ct will be always 
+greater than 1. 
+Now area of the  heat exchanger will b e so, we know that the equation t hat we have seen 
+q =q×S = UAΔT. So, here the  ΔT = T s -Tb. And here rate of ma ss flow rate of steam is  
+0.64 kg/s and this is the  value of HS minus HCS,  so we are getting the area as  20.4 m2. (Refer Slide Time: 37:55)  
+ 
+So we will stop here ; we will continue  in the  next class . 
+Thank you . 

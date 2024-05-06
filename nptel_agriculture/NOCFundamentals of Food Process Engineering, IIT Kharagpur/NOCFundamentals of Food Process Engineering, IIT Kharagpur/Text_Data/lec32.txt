@@ -1,0 +1,257 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 32 
+Freezing & Freeze Drying  ( Contd.  ) 
+ 
+Hello everyone , welcome to the NPTE L online certificat ion course on Fundamentals of 
+Food Process  Engineering .  
+Now in today ’s class we will see  one very important  thing that is freezing time 
+calculation . In freezing we can preserve the initial texture , structure and quality of the 
+food material . 
+The time requ ired for freezing  is calculated with  the most commo n method that is  
+Plank ’s equation . 
+(Refer Slide Time: 01:30 ) 
+ 
+Plank’s equation for  freezing time calculation  
+Let us take a block of food material  and in that we will consider one direction for the 
+transfe r of heat or  removal of heat and the other  2 dimension maybe of infinite  length . 
+So, in this particular  figure we are considering this  x dimension  for transfer of heat . So, if 
+this block is exposed to  cold air which is of sufficiently low let us say  T a; T a which is sufficiently low temperature and when we expose this blo ck to that  temperature from 
+both the side , so, it starts formation of the ice layer  in both the side . And as we move 
+towards the centre the ice front  will also come to the  middle  of the bl ock and eventually 
+it will freeze  from both the side . 
+The freezing can take place from both the side , but it may  also happen  that from one side 
+it is only open to the cold air and the other side is kept on a plate . So, in that case we will 
+consider only fr om one side heat removal . 
+The other cases is th at mainly sensible heat transfer is neglect ed in this particular case ; as 
+Plank’s equation  does not account for sensible heat removal  zone ; it only consider s the 
+latent heat removal because it takes the assump tion that the initial temperature of the  
+food sample will be at  freezing temperature . 
+So, this is one drawback and the other cas e is when we start the process of latent he at 
+removal and by the time the process  end; there is a huge  change in the  property of the 
+food. Because the density , thermal  conductivity and specific heat will change  when we 
+convert it from the water to  ice, but in this particular case in  Plank’s equation they 
+considered all this property to be constant from the  start of the freezing  process to the 
+end of the freezing process . 
+ (Refer Slide Time: 05:50 ) 
+ 
+ Assumptions:  
+  Heat transfer is one directional  
+  Food material is made of pure water  
+  Initial temperat ure of food is equal to its freezing temperature  (sensible cooling 
+in not included ). 
+ Properties of frozen food material (k) is same even for wide temperature range  
+ (Refer Slide Time: 06:48 ) 
+ 
+Steps for freezing time calculation  
+ Consider an infinite slab of thickness a. the initial temperature of the slab is the 
+same as the initial free zing point of the material, T F.  
+ The slab is exposed to a freezing medium (e.g., low -temperature air in a blast 
+freezer) at temperature T a 
+ After some duration of time, there will be three layers: two frozen layers each of 
+thickness x and a middle unfrozen layer.  
+ Consider the half slab, freezing font moves towards the centre.   we consider the rate of heat transfer, q, from the moving front to the surrounding 
+freezing medium.  
+ 
+A = the area cross sectional area through which the transfer is taking place . 
+T F is the freezing temperature and  T a = the temperature of the air . And the denominator 
+represent the 1/U where U = overall heat transfer coefficient , h = convective heat transfer 
+coefficient , kf = conductivity of the heat through the frozen food and  x is the thickness 
+which it has already passed . 
+So, so once  the surface  is taking heat in the form of convective heat transfer then this 
+heat has to pass through the frozen  material which is of thickness  x and kf is the  
+conductivity . So, we know that Δx /kf is the  resistance and  1 / resistance is the transfer  
+coefficient .  
+(Refer Slide Time: 10:39 ) 
+ 
+Now, in this case heat is taken out from the material . So, deduction of the heat removal 
+will be from the centre to towards the direction of the freezing front . So, the moving 
+front advances with a velocity of  dx/ dt. If we assume  that this will be the rate of 
+propagation of the ice front  towards the  direction of the centre  and the heat  generated is the latent heat of fusion  L. So, whatever heat we are removing that is causing the phase  
+change from the liquid  to the ice formation . 
+So, we can have this expression that the transferred  heat that we are taking out that will 
+cause  latent heat of  fusion . 
+ 
+So, we are getting this q  that we will equate  with the heat transfer th at has had happened 
+because of conduction first from the  frozen layer and then conve ction to the  air outside . 
+So, all the heat generated at the freezing front must be transferred out to the surrounding 
+medium . So that means, this much heat we need to extra ct to freeze  the layer .  
+ 
+ (Refer Slide Time: 13:00 ) 
+ 
+And from this  if we consider that  freezing front  moves into the centre of the slab from 
+the surface ; we can say  if we integrate this  dt from  0 to tf that is when the total  material 
+will be frozen .   
+a/2 - because  the half thickness we need to reach by the time  the other half will also be 
+frozen  because from both the side this  freezing  is taking place . 
+Now integrating we obtain the expression of freezing time  
+ 
+(Refer Slide Time: 14:03 ) 
+ 
+So, the gene ralized  Plank equation for any regular shaped food product can be written as 
+follows  that  
+ 
+t f = freezing  time  
+Tf = freezing temperature  
+Ta = freezing air temperature  a = thickness or diameter of the product from which we are extracting th e heat or 
+remo ving the heat ,  
+h = convective heat transfer coefficient at the surface , 
+k f = thermal conductivity of the frozen  material .  
+ρ f = density   
+L f = latent  heat change  that is kJ/ kg. 
+P’, R’ are the constants related to the geometry of food products.  
+ (Refer Slide Time: 15:02 ) 
+ 
+• For infinite plate, P’ = 1/2, R’ = 1/8  
+• For infinite cylinder, P’ = 1/4, R’ = 1/16  
+• For infinite sphere, P’ = 1/6, R’ = 1/24  
+Infinite  cylinder = the length of the cylinder can be infinite dimension , but radius will be 
+fixed . So, this will be  the representation of freezing time using the Plank’s equation . 
+(Refer Slide Time: 15:50 )  
+Pham’s Equation for freezing  time calculation  
+Limitation of  Plank’s equation  
+So, afterwards many  experimentation have been  have been done on  this f reezing process 
+to identify the exact freezing time that can  you know accommodate both the sensible 
+period , as well as the  latent heat re moval  period . So, one such equation which is 
+developed in  2001 by a scientist called  Pham and his equation is very reasonable  in terms 
+of calculating this  freezing phenomena exact freezing time behavior . 
+In the  Plank’s equation the limitation is we are con sidering only the latent heat transfer . 
+Because initially the assumption was Tf the freezing point temperature of the food , and 
+specific heat , thermal conductivity are taken constant . And also density values  for frozen 
+food are difficult to locate  or to me asure . Although the  initial temperature of many food 
+has been  tabulated and that are generally lower than  0°. So, the thermal conductivity kf 
+should be for the frozen product and accurate values are not readily available for most of 
+the food material . 
+(Refer Slide Time: 17:35 )  
+So, for this method  we will apply the  Pham’s method that is easy and reasonable method 
+for food freezing and thawing time calculation  that is the re verse of freezing method . 
+So, this is used for both sensible cooling before and afte r freezing  and used for the  finite  
+size object of irregular shapes  and very limited assumptions  we need for this method . 
+One is the freezing air temperature is constant ; so, that is any how we need to consider 
+the freezing a ir temperature constant . Then initial product temperature is also constant ; 
+here we  are not mentioning that initial temperature is at freezing temperature , but it 
+should be any constant temperature . 
+Now, the final temperature of the product is uniform and define d. So, up to what extent 
+or till what temperature we need to  freeze it that has to be specified . Another  surface 
+convective heat transfer occurs ; so, this are the assumptions that we need to  take and 
+what w e found is that  if we consider  Pham’s method  that temperature and  here we ar e 
+considering  heat removal . 
+So, what we can get initially temperature is being lower ; then sensible heat transfer is 
+happen ed and then fur ther lowering of the temperature . So, if this initial temperature is  
+let us say  Ti and when the freezing start and it reaches to the minimum extent . 
+So, we are getting that  mean point as Tfm that that is called  the mean freezing 
+temperature  and up to the extent that we need to finally,  go that is also  mention ed by T c. 
+So, here we can measure that when the sensible  heatin g starts ; what is the removal of 
+heat, till we need to attain  the minimum frozen temperature . And also the additional heat removal that we need to  extract that also we can calculate  
+and all this  3 temperatur e T i , T fm and T c will be taken in the equatio n. So, that we can 
+start from the initial to the final not only we are considering the  sensible  heat removal 
+portion . 
+So, for that  we will  proceed like this . 
+(Refer Slide Time: 21:20 ) 
+ 
+The time for  freezing of any simple shaped object is calculated  from t his equation  
+ 
+ 
+And Bi is nothing  but the Biot number . h = convective heat transfer coefficient , l = 
+characteristic dimension of the object , k= conductivity of the material . So, it is actually 
+the ratio of  conductive resistance to the convective resistanc e at the surface . 
+In the final expression  where d c is the characteristic dimension or shortest distance to the 
+centre  or the radius , E f is the  shape factor, an equivalent heat transfer  dimension . Ef = 1 
+for an infinite slab , E f = 2 for an infinite cylind er and  E f = 3 for a sphere . So, actually this factor states that  what will be the time required  if we compare a slab 
+with any irregular geometry .  
+The pre cooling period where freezing has  not been done  that is  the sensible cooling 
+occur ed. So, precooling  period is
+  
+So, Tfm was mean freezing temperature , T i was the initial , ρu is the density  of the 
+unfrozen material and c u is the specific heat of the unfrozen material .  
+Phase change and post cooling period       
+  
+So, we have taken the mean freezing time as the reference and at this point we are 
+considering that all the latent heat required and after freezing the post cooling  heat 
+removal . 
+Lf = latent heat of fusion .  
+ 
+ 
+Ta is the temperature of the air to which it is ex posed for freezing.  
+(Refer Slide Time: 25:27 ) 
+ So, using experimental data obtained from freezing a wide variety of the foods , Pham 
+determine d the equation for the mean freezing temperature  
+Tfm=1.8+0.263T c + 0.105T a 
+T c that is the temperature to which we  need to finally, freeze it or  the final temperature  
+of the product   
+T a = temperature of the  air. 
+Then depend ing on the factor  E f useful in determination of the freezing time for an 
+infinite slab , infinite cylinder or a sphere is being done . And it can u se for other shapes 
+as well for example, the rectangular rod , rectangular brick which are commonly 
+encountered in the freezing of food . 
+(Refer Slide Time: 26:30 ) 
+ 
+ (Refer Slide Time: 26:39 )  
+Different types of freezers  
+Air blast freezer  
+The cold air , a very low temperature air is circulated  over the surface of the  food product  
+and while  it is while  the product is exposed in the blast of the  cold air; it will freeze . 
+In many situations, the product size and/or shape may not accommodate plate freezing. 
+For these situations, air -blast freezing systems become the best alternative.  In Air -blast 
+freezers, the product (packaged) is placed in the room, and the low -temperature air which 
+is cooled by indirect contact with refrigerant is allowed to circulate around the product 
+for the desire residence of freezing time. Air blast freezer may operate in batch or 
+continuous mode. In continuous mode, the product is carried on a conveyor that moves 
+through a stream of high -velocity air  and that high velocity air is being circulated over 
+the refrigerant . So, the chilled  air is coming over the surface of the material  while 
+moving through the conveyor belt  and thereby they will frozen . 
+. 
+ 
+ 
+ 
+ (Refer Slide Time: 28:16 ) 
+ 
+Plate freezer   
+It is very common in case of the food i ndustry. Product is held between plates & cooled 
+by the refrigerant supplied around the plate ( -40°C). In some cases, plate systems may 
+use single plates in contact with the product. Plate -freezing systems can be operated as a 
+batch system with the product pl aced on the plates for a specified residence time or 
+operates in a continuous mode by moving the plates holding the product through an 
+enclosure.  
+So, both the systems are available either  continuous  system or batch system and  it is 
+mostly used for the regu lar shape of the product , block  of the food to freeze it  
+completely . 
+Heat removal it is  takes place from the one side ; we will apply the equation  for 
+calculating the freezing time and when we use both  the both plat es and compress the 
+material  within that . So, then h eat removal will be from the both sides accordingly we 
+need to calculate the freezing time . 
+(Refer Slide Time: 29:42 )  
+Fluidized bed freezer  
+In this system product is on the conveyor belt the product is coming in and gradually 
+moving towards the  exit section . While the cold air is passing through the perforated 
+plates from the bottom  and because of this high velocity air the product will  be in a 
+fluidized state  and will be exposed to the  chilled temperature air or cold temperature air . 
+And while this whole surface is exposed to that it will be  it will be  frozen and coming 
+towards the exit . 
+The solids to be frozen are fluidised by refrigerated air at temperatures of −30◦C or less. 
+The particles are frozen independently and very rapidly to give a free -flowing IQF 
+(Individually Quick Frozen) product. Rapid freezing rates in a fluidized bed lead  to 
+relatively little loss of moisture and therefore both a greater product yield and a better 
+product quality.  
+ (Refer Slide Time: 31:27 )  
+Immersion freezing   
+The product is carried into a bath of liquid refrigerant and is conveyed through the liquid ; 
+while the refrigerant changes from liquid to the vapor  and absorb the heat from the 
+product . So, the most common refrigerant for this  purpose are nitrogen and carbon 
+dioxide . For typical products  the freezing time is shorter than the air blast freezer . 
+(Refer Slide Time: 32:04 ) 
+ 
+So, freezing system can be of indirect and direct contact type ; in the indirect system there 
+is no direct  contact between the product and cooling me dium ; for example, plate freezer . So, inside the plate the refrigerant  is circula ting and the refrigerant is lowering the 
+temperature of the plates and then plates  in turn the  used to lower the temperature of the  
+product .  
+Where as, the direct contact type  systems are those  will operate more efficiently since 
+there are no barrier to the  heat transfer between the refrigerant and the product . 
+So, in all cases for the system design  to achieve a rapid freezing  and the term ind ividual 
+quick freezing we can a pply. So, for example, immersion freezing ; so this is such method 
+where direct contact  of the food with the refrigerant is taking place . So, very fast and 
+instant  freezing can  occur .  
+Thank you . 

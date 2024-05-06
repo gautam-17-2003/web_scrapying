@@ -1,0 +1,295 @@
+Fundamentals  of Food  Process  Engineering  
+Prof. Jayeeta  Mitra  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  Of Technology,  Kharagpur  
+ 
+Lecture -29 
+Drying Technology  (Contd.)  
+ 
+Hello everyone . Welcome  to NPTEL  online  certification  course  on Fundamentals  of 
+Food Process  Engineering . We are continuing  the topic  of Drying Technology . In the last 
+class  we have  discuss  the constant  rate drying  period , how to calculate  that and drying  
+characteristic  curve , which  is the drying  rate versus  moisture  content  and also the 
+moisture  content  versus  time curve . Now, today  we will continue  with this topic . So, 
+drying  time calculation  for the constant  rate period  we have  done  in the previous  class  
+for only convection . 
+(Refer Slide Time: 01:07 ) 
+ 
+And, today’s cl ass we will  see the constant  rate period  for combined , conduction , 
+convection  and radiation . 
+But, before  going  to that I would  like to remind  you the equation  that we have  developed  
+in yesterday’s  class . So, for constant  rate drying  we have  found  that if we want  to 
+calculate  the drying  rate.  
+ 
+R=−Wd
+AdX
+dt  
+else we can calculate  the constant  at drying  period  or the time record  for having the 
+constant  rate drying  phenomena  by integrating above equation.   
+For example, when  we perform  the constant  rate drying , let us see this is a bed of wet 
+food material  and constant  rate will prevail  till the surface  of the food will have  some  
+moisture  i.e. the free moisture  availab le at the surface . And, let us say this is the air 
+which  is havin g the temperature  T, humidity  H and mass  flow rate let us say ma, where  
+the surface  is having  the temperature  Ts & humidity  Hw or HS. So, what  happened  that in 
+this case if the air velocity  or air temperature  or humidity  changes . So, these will  going  
+to affect  the constant  rate drying  period . 
+For example, we know  that the heat is coming  from  the air, to the wet food material  by 
+convectio n because  we have  developed  the equation  for convection  now, but the similar  
+equation  can be derived  for other  heat transfer  mechanism . So, if we considered  that the 
+amount  of heat q that is coming  from  the ambient  air to the product .  
+ 
+Now, this time will perform  in the wet bulb temperature  always . So, this was the case 
+and then we have  seen that h, which  is the convective  heat transfer  coefficient  is relate d. 
+h is related  to G, which  is nothing , but mass  velocity ( ρv). So, “ρ” is the density  of the 
+moist and hot gas that is that is passing  over the food product  and “v” is the velocity . So, 
+naturally  if the velocity  “v” increases ; that mean s, the heat transfer  will increase . So, if 
+heat transfer  increase , then the drying  rate will be faster  constant  rate Rc will be faster  
+and time required  for that drying  will reduce . If the humidity  is increasing  so; that means, 
+the gradient  of moisture  transfer  will reduce , because  that the difference  Hw - h will be 
+lowered . 
+So, in that case the Rc that is rate of moisture  evaporation  will be reduced . And, since  we 
+are considering  the convective  heat transfer  coefficient  and the moisture  transfer  from  
+the surface  only, the thickness  does not  cause  any direct  effect  only it will prolong  the 
+the time, but does not  change  the rate of constant  heat moisture  transfer  or moisture  
+removal  during  the constant  rate drying  period . However, if we increase  the temperature  
+qc=hA(T−Ts) of the air which  is used for the drying  phenomena  then the gradient  T- Ts this will be 
+increasing . 
+And, because  of that the drying  rate will be faster . So, then we can see that all the 
+parameter  that is the air velocity . Then air temperature  air humidity  all have  effect on the 
+constant  rate drying  period . Now, in the previous  class  we have  considered  that only 
+convective  heat transfer  is the mechanism  by which  we are utilizing  the heat of the dry 
+and hot air to dry the surface  of the food material  by constant  rate drying  mechanism . 
+Now, if we think  about  all 3 modes  that means  that conduction , convection  and radiation  
+right . So, if all the 3 mode  contributing  in a case where  heat transfer  is occurring  and 
+drying  is taking  place  from  a wet food surface . 
+Then, how we can calculate  the heat transfer  rate and the constant  rate drying  so, that we 
+will see now. So, let us consider  a case where  there  is a wet solid . Solid as a food 
+material , which  is a wet solid  material  and that is kept on a metal  tray, the food is kept on 
+a metal  tray and the block  of food is exposed  to a hot and dry gas or air stream . So, air 
+stream  is passing  over the surface  of the wet food material  and also the same  air is 
+passing  below  the metal  plate  where  the food is being  kept. 
+Now, what  will happen  that the convective  heat transfer  from  the air stream  to the wet 
+surface  of the food will be one mode  of heat transfer ? And the same  you know  air that is 
+passing  below  the metal  plate  as well. So, that will also first heat the metal  tray and then 
+from  the metal  tray it will be conducted  from  the bottom  side to the upper  food material . 
+And, also within  the food it will be transferred  by conduction  mechanism . And, apart  
+from  convection  and conduction , if we talk about  another  method  that is the radiation . 
+So, if you have  some  source  of hot radiating  surface . So, that is giving radiation  heat to 
+the food material . So, radiation  heat qR which  is also coming  to the surface. 
+Obviously  since temperature of radiative  source  that TR is much  higher  than the surface  
+temperature  of the food right . So, now, we need  to combine  all the mechanism  of the 
+heat transfer  that is convecti ve qC, conductive  qK and radiative  qR. All this heat transfer  
+will cause  evaporation  and drying  from  the surface . So, first let us consider  the 
+convective  heat transfer . Convective  heat transfer  by convec tive heat transfer  from  the 
+air to the food surface  will be 
+ 
+qc=hA(T−Ts)  
+Where, ‘T’ is the temperature  of the air stream  or gas,  ‘Ts’ is the temperature  of the 
+surface , ‘h’ is convective  heat transfer  coefficient  and ‘A’ heat transfer area.  
+Then, next we can consider  the radiative  heat transfer  and it is given by the equation:  
+ 
+ 
+Where  ‘σ’ is the Boltzmann  constant  (5.67 ×10-8), ‘Ɛ’ is the emissivity  of the material , 
+‘TR’ is temperature of radiative  source  and ‘Ts’ is the temperature  of the surface .  
+So, convective  and radiativ e heat transfer  we have  expressed . Now, if we want  to express  
+the conductive  heat transfer  that is from  the bottom  from  the bottom  this conduction  heat 
+is coming  through  the metal  tray to the food material .  
+ 
+Now, we have  taken  ‘U’ instead  of a conductivity , because  here we need to take the 
+combine  effect  of convective  heat transfer  from  the gas to the metal  body , then 
+conduction  from  the metal  through  the food and also through  the food conduction  from  
+the bottom  to the top surface  that is the Ts right . So, we have  combined  all the resistances  
+together  and convert  to the overall  heat transfer  coefficient  U. So, the expression  would  
+be 
+ 
+Where,  hc is convective  heat transfer  coefficient  
+Lm is height  of the metal  tray  
+km is thermal  conductivity  of the metal  tray  
+Ls is the thickness  of the food and ks is the thermal  conductivity  of the material  
+Then, we can calculate  the constant  rate by this method . Constant  rate is actually  the 
+amount  of moistur e removed  per unit area per unit time. So, that will be equal  to 
+Rc=q
+Aλs 
+ 
+qR=hRA(TR−Ts) 
+hR=5.67×10−8ε(TR4−Ts4)
+(TR−Ts) 
+qk=UA(T−Ts) 
+1
+U=1
+hc+Lm
+km+Ls
+ks Where,  q is the total heat trans fer and λs is laten t heat of vaporization . Since  ‘q’ is 
+combination  of all three modes . So, togethe r we can write   
+Rc= hc+U  T−Ts +hR(TR−Ts)
+λs 
+Now, this much  heat is utilized  to evaporate  the moisture . So, that the humidity changes  
+from  H to Hs because  that is  the difference . we have derived  in the previous  class  that 
+amount  of heat transfer  is will be equal  to amount  of moisture  evaporated  into the latent  
+heat of vaporization . Using  this one now we can generate  this expression . i.e. 
+Rc= hc+U  T−Ts +hR(TR−Ts)
+λs=kyMB(Hs−H) 
+ 
+Where,  H is the humidity  of the entering  gas, Hs is the humidity  at the surface , MB is the 
+weight  of molecular  weight  of the air and ky is the mass  transfer  coefficient . The factor  
+h/kyMB is called  the psychometric  ratio. 
+So, this is how we can develop  the relation  in case of combined  conduction  convection  
+radiation , we can develop  the expression  of the moisture  transfer  with the heat transfer . 
+(Refer Slide Time: 17:59)  
+ 
+And, then we wil l move  on to the falling  rate period . Now, when  constant  rate will end 
+and the falling  rate will start we have  discuss ed a bit of that in the curve  of the drying  
+rate versus  moisture  content . So, we have  seen that there  is a constant  rate. So, if we 
+express  the drying  rate with moist ure content . So, we are getting  a constant  rate first and then it starts  dipping  there  may be you know  different  pattern . For example, you may 
+find a linear  path instantly . And, then you may get a second  fall in the curve  as well. So, 
+the point  when  constant  rate completes  and the falling  rate starts  so, this point  we can 
+measure  the moisture  content  and that is called  the critical  moisture  content  Xc. 
+So, this signif ies that there  is no more  free moisture  or the layer  of moisture  available  on 
+the surface  of the food. So, constant  rate constant  rate drying  does not  occur at that point  
+and from  this point  falling  rate drying  starts . So, before  this falling  rate the controlling  or 
+the governing  property  would  be the air velocity  or air humidity  temperature  etc. and the 
+drying  happen  at the wet bulb temperature . Now, the moment  constant  rate completes  
+and falling  rate starts .  
+Let us say this was the food and the air is coming  over it. So, the surface  has started  
+increasing  the temperature  from  the wet bulb temperature . So, initially  when  the constant  
+rate drying happens  the temperature  was fixed  at the wet bulb. Now, whatever  heat is 
+transferred  from  the air to the surface  of the product  is not utilized  for evaporation  of the 
+moisture , because  the moisture  is not available  freely  at the surface . Therefore, the 
+temperature  of the surface  starts  increasing , temperature  of the food starts  increasing  and 
+from  that point  the falling  rate starts . 
+Now, the falling  rate may continue  as proportional  to the moisture  content . So, R may be 
+proportional  to the moisture  content  ok. It may be linear  and may not be linea r, but first 
+we will consider  the case of linear . we can consider  a case where it is linear  and passing  
+through  0; that means, there will be no intercept  in the in this case and lastly , we will 
+also see that if the curve  is not linear . Then, how we can define  the case of you know  
+falling  rate falling  rate moisture  transfer . And, in this falling  rate the moisture  which  
+needs  to travel  from  the bottom  of the food material  to the surface . 
+in this case the moisture  is not uniformly  distributed  in the food, because  of mainly  the 
+food is most  of the time is not a homogeneous  entity. And, because  of the drying  also 
+there  may be some  change  in the structure  may happen  some  force  mayb e collapse . So, 
+somewhere  maybe  the capillary  may build  up. So, to the capillary  diffusion  the moisture  
+can transfer  or some  somewhere  the moisture  can be transferred  to the vapour , because  
+of the vapour  diffusion . So, many  mechanism  can prevail  during  the falling  rate period  
+and it is very difficult  to identify  exactly , what is the mechanism  or how much  amount  of moisture  exactly  travel  by which  mechanism  so, that it needs  to come  from  the you know  
+come  from  the core of the food to the surface . 
+And therefore,  the rate of mois ture removal  is reduced  in a signific ant manner. So, all 
+such happens  during  the falling  rate period . So, basically  the rate of drying is decreasing  
+as the free moisture  decreases . So, free moisture  is actually  the moisture , which  is in 
+excess  of the EMC  present  in the food. So, now, what  we can do is for drying time 
+calculation  we can go by different  method , one of the method  is by graphical  
+interpretation . So, in that what  we can do is we can plot  1/R versus  X. 
+And, then we can integrate  for the different  X, that we are getting  having  the range  of X1 
+to X2 where  X1 and X2 both are lower  than the critical  moisture  content  Xc because  only 
+below  Xc moisture  content  the falling  rate starts . So, here what  will happen  that we can 
+plot it? So, the way we have  calculated  the constant  rate drying  period . the way we have 
+calculated  for the constant  rate now the similar  thing  we have  we have to do for the 
+falling  rate as well. 
+ 
+Now, when  the rate is a linear  function  of X that mea ns, the R=aX+ b and  dR=adX . The 
+process  will be like if the drying rate in the falling  rate zone  is you know  it is coming  
+linear  function  then we can take any 2 segment  as X1 and X2.  
+ 
+Since R 1=aX 1+b and R 2=aX 2+b:    a=(R 1-R2)/(X 1-X2)  & R= R C(X1-Xe)/(X C-Xe)   
+Final expression for time of falling ra te period   
+ 
+Where,  Wd is weight of dry matter R is the rate of the falling  rate period , Rc is the 
+constant  rate, Xc is critical  moisture  content  & Xe is equilibrium  moisture  content . So, 
+this will be the expression  of falling  rate time period  for drying mechanism , if we 
+consider  that the drying  rate is proportional  to the free moisture  content  or it is a linear  
+funct ion of the free moisture  content  in this fashion  aX+b. 
+tf=Wd
+A dX
+RX1
+X2=Wd
+A×area  under  the curve  
+tf=Wd(XC−Xe)
+ARCln(X1−Xe)
+(X2−Xe)  
+tf=Wd
+aA dR
+RR1
+R2=Wd
+aAlnR1
+R2 (Refer Slide Time: 29:38)  
+ 
+Now, another  case will be when  the rate is a linea r function  to the origin . i.e. R=aX and  
+dX=dR/a . 
+ 
+In this case X1=X C and R 1=RC therefore Slope  (a) =RC/XC. Expression  for falling rate 
+period is given by  
+  
+Here  RC/R2=X C/X2 so above equation becomes:  
+ 
+if we consider  that the slope  is not linear , if we plot the drying  rate versus  moisture  
+content . So, the slope  is not linear  in that case, we can considered  that this is because  of 
+the diffusion  mechanism  right . 
+So, for the diffusion  mechanism  since , the mass  transfer  is here the governing  function  is 
+the diffusio n mechanism  in the falling  rate. The structure  or shape  of the material  
+changed  because  shrinkage  has happened . So, therefore,  this drying  rate in case of the 
+falling  rate period  governed  by the diffusion  mechanism , will be presented  by Fick’s 
+second  law of diffusion , which  is which  is the diffusion  equation  for the unsteady  state 
+unsteady  state diffusion . 
+tf=WdXC
+ARClnRC
+R2 
+tf=Wd
+aA dR
+RR1
+R2=Wd
+aAlnR1
+R2 
+tf=WdXC
+ARClnXC
+X2 So, using  that liquid  diffusion  of moisture  in the falling  rate, we can we can write  the 
+expression  as  
+ 
+So, we generally  take the first term only there are other  terms  where , but when  we 
+consider  that long time diffusion  mechanism . The first term will give us reasonable  
+accuracy  in the calculation  and also we can consider  we can consider  Xe as 0. So, in that 
+case simply  we can express  this in terms  of X/Xc. So, that has been  done here in this 
+equation . function  t has been  considered  as a as a time record  in the falling  rate period  
+that is tf So, here “a”that is  the characteristic  dimension  and it is taken  as a half thickness  
+for the slab, when  drying  occurs  from  both the slide  both the sides . And, if it is from  one 
+side only we can take the thickness  as the dimension  “a”. 
+And, if it is a you know  cylindrical  object . So, most  of the cases  if we deal with the 
+infinite cylinder  we can take the radius  as the dimension  and for sphere  also we can take 
+the radius  as a charact eristic  dimension . So, eventually  we are getting  that the time here 
+will vary based  on the free moisture  available  that is X1/Xc. So, Xc that is the critical  
+moisture  content  or here it is X2 star that will be fixed  for a particular  case. So, it will 
+vary only with the free moisture  that is X1 as Xc or here X1*that is available  and also it 
+will vary with the diffusivity  DL. And the characteristic  dimension  ‘a’ that will also be a 
+signific ant parameter  in this kind of falling  rate calculation . 
+(Refer Slide Time: 35:10 ) 
+ 
+tf=4a2
+π2DLln8X1∗
+π2X2∗ Now, if you see one problem  where  Mango  slices  were  dried  from  40 % to 10 % in 2 
+hours  the drying  rate remains  const ant up to 15%, if the EMC  is 2 %.calculate  the total 
+time required  to dry from  40 % to 4 %.  all moisture  contents  are represented  in dry 
+basis . So, here 2 phases  are 2 rate period  are involved  constant  rate and falling  rate. 
+So, first we will have  to see that what  is the constant  rate period  here? So, it has been 
+ment ioned  that 40 % to 10 %. So, 0.4 minus  0.15 this much  has been  removed .  
+For constant rate period: t c = (0.4 -0.15)W d/AR c =0.25W d/AR c 
+So, these  2 hours  will combine  the constant  rate as well as the falling  rate period . So, that 
+is equal  to  
+ 
+ 
+So, for the second  case,  
+ 
+we can get that is 3.15 hour. So, instead  of 2 hour if we need  to further  dry it from 10 
+percent  to 4 percent  we need to extend  this much  time 1.15 hour extra . 
+So, we can see that as the falling  rate time increase  because  more  moisture  we need  to 
+evaporate  in the falling  rate zone  time requirement  will be significantly  higher , because  
+the rate and the falling  rate drying  period  will be very much  less. We will stop now we 
+will continue  in the next class . 
+Thank  you. 
+2=tC+tf=0.25Wd
+ARC+Wd(0.15−0.02)
+ARCln0.15−0.02
+0.1−0.02 
+Wd
+ARC=6.3874  
+t=tC+tf=0.25Wd
+ARC+Wd(0.15−0.02)
+ARCln0.15−0.02
+0.04−0.02 

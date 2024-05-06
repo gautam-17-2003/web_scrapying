@@ -1,0 +1,233 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 36: Cornering Properties of tyres  
+ 
+  Hi everyone. This is Professor H. Raheman  from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL course on Traction Engineering. 
+This is lecture 36, where I will try to cover on cornering properties of tyres.  The concepts 
+which will be covered in this c lass will be slip angle, cornering force, cornering stiffness, 
+cornering coefficient, self -aligning torque, camber thrust, camber stiffness and the equations 
+for estimating total lateral force.  
+ 
+  So, before starting, the slip angle, let us see now the axis system which has been defined by 
+society of automotive engineers, which is shown in this figure where there will be three forces, 
+three moments and two angles associated. Three forces, one is i n x direction, y direction and z 
+direction. X direction is the longitudinal force, y direction is your lateral force and z direction 
+is your normal weight or the normal force. And the moments which are acting about x axis is 
+overturning moment, about y axi s is rolling resistance moment and about z axis is aligning 
+torque. And the two important angles which are associated with this cornering force, now I am 
+going to explain.  
+ 
+  The first one is slip angle, is the angle formed between the direction of wheel travel and the 
+line of intersection of wheel plane with the ground or with the road surface. So, which is 
+indicated by an angle α in this figure. So, this is the angle α which is denoted as slip angle. And 
+the other important angle is your camber angle, it is the angle between the x -z plane and the 
+wheel plane. So, which is denoted by γ. So, this is shown here. So, γ and α they are associated 
+with the cornering properties of tyre.  
+Now, when I said cornering properties that means, when a wheel is moving, there is no applied 
+force at the center of the wheel or neither we are trying to turn the wheel so, it will move in a 
+plane parallel to the wheel plane. But the moment you apply a fo rce at the center which is 
+denoted here by F s side force.  
+ 
+  So, it will no longer, the wheel will no longer move in the wheel plane, it will move in a plane 
+which is denoted as OA in this figure. OA, which is making an angle alpha in the wheel plane. 
+This is because when you apply a side force, there will be a fo rce developed at the contact 
+patch. So, this force is called a lateral force and we denote it as F yα.  So, F yα is the lateral force which is developed at the ground contact patch and when the camber angle is 0, we can call it 
+a cornering force.  
+ 
+  So, the lateral force which is developed at the contact patch is also called cornering force. So, 
+then the camber angle is 0. So, what happens exactly, why this wheel is not moving in the 
+wheel plane it is, moving at an angle it is because of the lateral  elasticity, lateral elasticity of 
+the tyre. So, when the tyre is moving with uniform speed in the direction of OA, the side force 
+is applied at the wheel center and the cornering force is developed at the ground contact patch. 
+This side force and the corn ering force which are developed they are not collinear.  
+ 
+  So, you can see in the figure I have indicated, there is a gap between the point at which the 
+side force is applied and the line of action of a lateral force. So, that difference, the distance 
+between these two lines of forces is indicated by tp, and tp is called the pneumatic trail and 
+because of these, there will be a torque developed. The torque is called aligning torque or self -
+aligning torque. So, what is its role?  Its role is to bring back the wheel into the normal position 
+after you take a turn. So, it is one of the primary restoring moments which help the wheel to or 
+the tyre to return to the original position after negotiating a turn. So, now we will try to find 
+out what are the parameters which are going to affect this self -aligning torque.  
+ 
+  So, if you look at the left figure which is the cornering characteristics of a bias ply and a radial 
+ply car tyre. So, you must be wondering why I am discussing about car tyre. Because we do 
+not have many literatures available related to tractor tyres. S o, that is why I have taken car tyres 
+and truck tyres, ok.  The left figure shows the cornering force versus slip angle. So, what you 
+observe here is, the cornering force increases linearly with increase in slip angle up to a certain 
+value of slip angle af ter that the rate of increase is decreased and then it rises to a maximum 
+value, ok.  
+ 
+  So, same is the case with a radial tyre. It first increases at a faster rate, then the rate of increase 
+is slow down then it becomes almost constant. So, it reaches to a maximum around 16 °, beyond 
+12° it reaches a maximum and the linearity between the cornering force and the slip angle is 
+up to 4 °. After that, it is not linear, this is non -linear. So, what we conclude from here is that, 
+the type of tyre which is going to influence the cornering force. Now, we plot cornering force 
+up a normal load with slip angle for a truck tyre. For two different tyres, one is your, the lower 
+one is the bias ply tyre and the upper one is your radial ply tyre.  
+ 
+  So, the same trend has been observed, ok. Now, the cornering force, how it is dependent on 
+normal load that we are going to see, at different slip angles. This is for again a car tyre. So, 
+the slip angles are varied from 2 °, 4°, 6°, 8°, 12° and then 20 °. And, if you look at the figure, 
+this has been, this study has been carried out at an inflation pressure of 147 kPa and the tyre 
+size is 5.6 -13.  So, the normal load has been varied from 0 to 5 kN.  We can see , this figure 
+clearly indicates that for a given slip angle the cornering force increases, but the rate of increase is very slow. 2 °, 4°, 6°, the rate of increase is very slow.  So, it increases with increase in normal 
+load, it increases with increase in slip angle.  At a particular load if you draw a vertical line you 
+can see with increase in slip angle the cornering force is increased.  That  means, now we come 
+to a conclusion that cornering force is a function of normal load.  
+ 
+  In the earlier slide we come to a conclusion that cornering force is a function of type of tyre.  
+Now, we come to a conclusion that cornering force is a function of normal load, is a function 
+of slip angle.  Now when it is dependent on load, when the veh icle is taking a turn, there will 
+be weight transfer, weight transfer from the outer side to inner side or from the inner side to 
+outer side depending on the direction of rotation or direction of movement.  So, what will 
+happen?  Suppose the inner side get s more load inner tyre or in the inner wheel gets more load 
+and the outer wheel will be getting lesser load.  Since cornering force is dependent on the load 
+so, the wheel having more load will develop more force, wheel having less load will develop 
+lesser force.  
+ 
+  But if you take individual wheel then, if I take 2 wheels at a time then it will develop a force.  
+If one wheel is developing F y then the 2 wheels will develop 2 Fy.  But now if the wheels are 
+mounted on axle and you are taking a turn so, the side which is getting more load will develop 
+more force. So, I have indicated this one as F yo and the side which is ah experiencing lesser 
+load will develop lesser cornering force.  If you take summation of these two then what will 
+happen?  This (Fyi + Fyo)/2 will be lesser than F y. 
+ 
+  So, for a pair of tyres on an axle to develop the required amount of cornering force to balance 
+a given centrifugal force during a turn the lateral load transfer results in increase in the slip 
+angle of the tyre. So, that means the cornering force developed is less so, we have to slip more 
+to develop more force, lateral force. Now, to compare the cornering behaviour  of different 
+tyres, to compare the cornering behaviour  of different tyres, we defined a parameter called 
+cornering stiffness. What is it?  This is defined as the derivative of cornering force with respect 
+to slip angle at 0 slip angle. So, 
+𝜕𝐹𝑦𝛼
+𝜕𝛼|
+𝛼=0=𝐶𝑜𝑟𝑛𝑒𝑟𝑖𝑛 𝑔 𝑠𝑡𝑖𝑓𝑓𝑛𝑛𝑒𝑠𝑠  
+ 
+  Now we try to plot cornering stiffness versus normal load for car tyres, for truck tyres of 
+different sizes.  So, this bottom 3, these are the car tyres and the upper 3 curves are for the truck 
+tyres where I have indicated R L. So, R L is nothing, but the rated load of the tyre.  So, what we 
+observe from this figure is they are carried out at different pressures starting different loads and 
+different same pressure is one the car tyres are kept as 165 kPa and the rated loads are varied 
+for different sizes of tyre. So, what we observe here is for car tyres the cornering stiffness is 
+increasing up to a particular point after that it starts decreasing.  
+   That means, up to rated load it is going to a maximum and then after that when you increase 
+load further the cornering stiffness is decreasing, but same is not the case with the truck tyres, 
+beyond rated load also the cornering stiffness is increasing.  So, now we try to plot cornering 
+coefficient that means, we define another parameter since a load, cornering stiffness is 
+dependent on a load.  So, we try to define a parameter called cornering coefficient and the 
+cornering coefficient is nothing, but corn ering stiffness divided by normal load.  And then we 
+try to plot cornering coefficient versus percent rated load. So, what we observe here is 50 
+percent, 100 percent, 150 percent, 200 percent like that.  
+ 
+ So, what we observe the cornering coefficient is going down. That means, it is decreasing with 
+increase in a percentage load on the tyre. Then you try to see what is the effect of different 
+tyres on cornering coefficient when you try to vary the inflation  pressure, whether it is a bias 
+ply tyre, whether it is a bias belted tyre or whether it is a radial tyre. We try to verify how these 
+tyres are ah developing the cornering coefficients at different inflation pressures. The inflation 
+pressures we varied fro m 110 to 330 kPa and what we observed is shown here, where it is 
+clearly indicated that the radial tyres are giving you better cornering coefficient as compared 
+to your bias tyre or bias belted tyre. If you like to compare bias tyre with bias belted tyre then 
+bias belted tyre is giving you more cornering stiffness as compared to bias tyre.  
+ 
+ And for the 3 tyres when you increase the inflation pressure the stiffness or the cornering 
+coefficient is increasing. So, cornering force, then we try to plot with self -aligning torque at 
+different normal loads and at different slip angles. So, what we o bserve here is the cornering 
+force increases with increase in self -aligning torque or in other words the self -aligning torque 
+is increasing with increase in cornering force because  self-aligning torque is nothing, but the 
+product of cornering force into pneumatic trail . So, this has been plotted for different slip 
+angles. So, whether it is 2 °, 4° or 6° or 8°, what we observed is aligning torque is increasing 
+with increase in load.  
+we varied from 4.45 kN to 6.23 kN. So, cornering force increases with increase in normal load 
+and the self -aligning torque is also increasing and the slip is also increasing. With increase in 
+slip angle you are getting more self -aligning torque.   
+Now we try to plot self -aligning torque versus normal load for 2 different tyres one is the bias 
+ply truck tyre the other one is radial ply truck tyre. If you look at the bias ply truck tyre what 
+you observe is it is going to a peak with increase in normal  load self-aligning  torque is 
+increasing then after sometime starts decreasing. Same is the case for  all loads.  
+ Now if you look at the slip angle self -aligning torque is decreasing with increase in with 
+increase in, sorry with decrease in normal load. For a given slip angle if you increase normal 
+load then your self -aligning torque is increasing. Same is the case w ith 2°, 4°, 8°. But in all 
+these cases, in all normal load cases, what you observed is, it is reaching to a peak whether it 
+is 8896 N or whether it is 17792 N, it is reaching to a peak and after that it is going down. So, 
+and that peak is achieved roughly around 6 ° between 4 to 8 °. So, you can take a 6 °.  
+Now if you look at the radial ply tyre, the trend is same it is reaching a peak the, but the peak 
+is not that, the peak is little prominent here as compared to your bias ply tyre. So, the characteristics or the behaviour  of the tyre gives you the self -aligning torque whether it is 
+increasing or decreasing it depends on the normal load and it also depends on the slip angle. 
+But what we observed here is, the peak is reaching between 4 to 8 °, somewhat around 6 °. So, 
+between 2 to 4 you can see, there is a sharp rise which is not there in case of a bias ply tyre ok. 
+So, the decrease in aligning torque at higher slip angle is mainly due to the sliding of the tyre 
+tread in the trailing part of the contact patch.  
+ 
+ As a result,  that will shift the point of application of the lateral force which is developed at the 
+contact patch, hence the pneumatic trail is reduced, hence the self -aligning torque is reduced. 
+Let me repeat this one, why there is a decrease in aligning torque with  increase in slip angle, 
+this is because there will be sliding of the tread in the trailing part of the contact patch which 
+results in shifting of line of application of the lateral force thereby the pneumatic trail is reduced 
+hence the torque  which is the product of lateral force into pneumatic trail that is reduced.   
+So, what you can conclude from this brief discussion is the longitudinal force which affects the 
+aligning torque significantly. In general, the driving torque increases the aligning torque for 
+any slip angle and the inflation pressure and normal load also have noticeable effects on the 
+aligning torque. So, this we have discussed only about slip angle.  
+ 
+ Now, we will discuss about the camber angle.  The camber angle as I said it is the angle ah 
+between the exit plane and the wheel plane and this is provided to give steering comfort you 
+can easily rotate it. The load coming on the wheel is divided into two  components since it is 
+not vertical. So, that is why the camber angle which is denoted here and the kingpin inclination, 
+which is shown here, they are responsible for an easy steering. So, when a wheel is cambered 
+and we try to rotate it then what will ha ppen. It will try to rotate about a point O about this 
+point.  
+ 
+  But if you restrict this instead of rotating about O then what will happen? A lateral force will 
+be developed at the contact patch and that force is called camber thrust and that force is 
+developed in the direction of the camber. So, here the direction i s like this.  So, force will be 
+developed in the bottom like this and the contact patch and the camber thrust acts ahead of the 
+wheel centre  unlike your cornering force. Cornering force always acts behind the wheel centre  
+whereas, camber thrust acts ahead of the wheel centre .  Now, we try to see a which are the 
+factors which are affecting camber thrust.  
+ 
+ Obviously, it is a normal load, it could be your camber angle. So, we try to find out what is 
+the effect of normal load on camber thrust. So, camber thrust has been tried for 0 °, 2°, 0° means 
+there is no camber angle , it is vertical . 2°, 4°, 6°, 8° and 10 ° and the load has been varied from 
+2.7 kN to 8 kN. So, what we observed , with increase in normal load at the camber thrust is 
+increasing and for a particular or for any normal load we tried the camber thrust is increasing 
+with increase in camber angle.  
+  So, camber thrust is a function of both normal load, is a function of camber angle. So, we try 
+to define a terminology  called camber stiffness. What is camber stiffness? Similar to your 
+cornering stiffness  that means, derivative of camber thrust with respect to camber angle at 
+camber angle  is equal to 0. So, that is called camber stiffness.  So, now, we try to plot camber 
+stiffness versus normal load for different tyres , ok. 
+ 
+ So, what we  observed from here is with increase in normal load from 10,000 to 50,000 N, the 
+camber  stiffness is increasing for a 11 -22 tyre, for a 12 -22 tyre or for a 15 -22.5 tyre and all 
+these tyres are inflated to the same inflation pressure.  So, now, we know that there will be 
+lateral force developed, but the lateral force which is  developed due to slip angle and the lateral 
+force which is developed due to camber angle, they  are not of equal magnitude. Always the 
+lateral force which is developed because  of the camber is always lesser than the lateral force 
+which is developed  because of the slip angle.  
+ 
+ So, since there are two lateral forces developed.  So, now, question arises how to find out the 
+total lateral force. So, total lateral force is  nothing, but the summation of two lateral forces 
+which are developed. One is F yα which  is nothing, but a cornering force where the camber angle 
+is 0 and F yγ which  is the lateral force or the camber thrust developed at the contact patch when 
+the slip angle is 0. I have put a plus or minus sign the reason is, they may not be in  the same 
+direction. The lateral force which are developed because of the slip angle or because of the 
+camber angle, they may not be in the same direction.  
+ 
+ If they are in the same  direction we add it and if they are not in the same direction then we 
+deduct it they  are opposite to each other then we deduct it. So, that is why I put ± symbol.  
+Now, for small angles the as we saw in some of the slides that cornering coefficient Cα and 
+camber cornering stiffness and camber stiffness Cα and Cγ, they are linearly related to the slip 
+angle and a camber angle. So, that is why I have written , Fyα = Cα×α. So, this condition the 
+second equation which I have given is applicable only when the slip angle is small.  
+ 
+ So, when slip angle is small, you can express the total lateral force in terms of camber stiffness 
+in terms of  cornering stiffness. Knowing the slip angle and a camber angle we can find out 
+what  is the total force developed. So, in brief what we have discussed is what is the lateral force 
+developed and how it is developed and what are the parameters which  are affecting this forces 
+ah that has been discussed and shown in different slides  for tyres which are not related to 
+tractors rather it they are related to  cars or trucks. Thank you. This is the reference.  

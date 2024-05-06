@@ -1,0 +1,271 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 14 
+Thermal Processing and Kinetics of Microbial Death (  Contd.  ) 
+ 
+Hello everyone , welcome to NPTEL  online certification course on Fundamentals of 
+Food Process E ngineering . Today we will continue our 14th lecture that is the 
+continuatio n of our third chapter that is Thermal P rocessing and Kinetics of Microbial 
+Death. So, in the last class we have  discuss about the various thermal processing that is 
+being done for preservation of food such as blanching , pasteurization and sterilization . 
+Today we will focus on the microbial death kinetics during thermal  processing . 
+(Refer Slide Time: 01:02)  
+ 
+We know that normally any reaction whether it is  physical , chemical or microbiological 
+reaction it  is very convenient to identify the pattern of change of concentration with time 
+or temperature . Basically , this condition of microbial  count with time at various 
+temperatures  is termed as kinetics of microbial death and  we have seen that the kinetics 
+of microbial death follows a definite pattern like , we have seen that the chemical reaction  
+generally categoriz ed into  zero order reaction o r first order reaction and  so on. So, 
+although the  zero order reaction is not much  common in  food processing phenomena , 
+very less cases we are  getting based on the zero order kinetics . However , the first order kinetics is  very common  nutrient degra dation follow s this first 
+order kinetics and  so, is in case of the microbial  destruction . Now when a suspension of 
+microorganism is heated at constant temperature the decrease in  number of viable 
+organism follows first order reaction . That means, the nutri tional loss  during thermal 
+processing , which is also treated as first order reaction has the nature like this . That rate 
+of degradation or rate of number of viable microorganism  with respect to time will be 
+proportional  to the number of viable count s. 
+So, if we elaborate the case for thermal destruction of microorganism , let N is the 
+number of viable organism , k is the first order rate constant for  microbial inactivation , 
+then we can write.  
+dN
+dt=−kN 
+The minus sign showing that number of microorganism will be decrease with time . Now 
+integrate above equation:  when t=0 N=N 0 and t=t then N=N           
+                                                              
+ 1
+𝑁𝑑𝑁=−𝑘 𝑑𝑡𝑡
+0𝑁
+𝑁𝑜 
+  (Refer Slide Time: 04:25)  
+ 
+Log e (N/N 0) = -kt 
+If you want remove that –ve sign. Then               Log e (N0/N) = kt  Now if we plot these survivors  in y axis and time in the x axis . So, we can get a n 
+exponentially decay  kind of  curve . And if you plot microbial viable microbial  count in 
+the log scale with respect to time , then we can get a straight line . And the slope of this 
+straight li ne will give us the value of ‘k’ that is the first order r eaction rate kinetics 
+constant . So, this curve is known as the survivor curve that is log of viable micro 
+organism count with respect to time . 
+Now, if you want to see the effect of this , the gradient of survivor curve increases 
+markedly with temperature ; that means, if we increase the temperature the microbial 
+count will decrease . So, the slope will be  higher . So, that is why we can get the survivor  
+curve increased markedly with temperature . 
+(Refer Slide Time: 06:29)  
+ 
+Now, we look into the important parameter that is called the decimal reduction time . In 
+terms of microbial death kinetics  D value has enormous important . It is defined as  the 
+time required to reduce  the number of microorganism  by 1 log cycle or by 90 percent or 
+by a factor of 10 at a given temperature . So,  D value will change if we change the 
+temperature . 
+Higher values of D imply that at a given temperature the micro  organism has higher 
+resistance to thermal death . Now if we plot  the number of microorganism number of 
+viable microorganism in the log scale with respect to time . So, we can get that the time 
+required to reduce the viable microorganism by 1 log cycle that is termed as a D value .  By definition, t= D   when   N 0/N = 10  
+Then,         D = 2.303/k   
+So, this is how we def ine the decimal reduction time . 
+(Refer Slide Time: 09:11)  
+ 
+ Now we will see certain interesting phenomena , when we have different pattern of 
+microbial destruction curve  if we plot the similar way like viable microorg anism in the 
+log scale in the y axis, and in the x axis the time in minute . So, let see; what are the 
+different kind of curve we may get . First curve  which is the simple first order 
+inactivation curve , and it shows that the from the start of heat processing the viable 
+microorganism  start decrea sing and we can easily calculate the  D value that is the one 
+log cycle  destruction time , at a particular temperature  
+ If we look into the curve B here in this section we can find initial little  increase or a little  
+flat portion  and then it start decreasing . So, this initial increase that we can observe here  
+this is because there are certain heat resistant spore  they may get activated during the 
+start of or the onset of the thermal processing and as the  as the severity of the hea t 
+treatment increases  so, those again start decreasing.  
+So, therefore, after certain period of time they  follow the first order  distraction . Now 
+look into the third  plot that is initial lag in the in activation curve . So, initial l ag if it 
+observe d there  will be this kind of a  pattern that we may  see in the microbial destruction 
+curve  and after that lag period it follows the  first order destruction . So, this lag period is ; obviously,  lower than the decimal reduction time normally  and almost 90 percent 
+destru ction may happen in this zone  and then it start decreasing . So, this kind of pattern 
+is visible when the initial lag in the inactivation curve will be observed . 
+ The fourth  one if we look into this pattern , this has a  two distinct slope  here. So, we can 
+get the  D value for first this section a different  D value and from here to here, a different 
+D value . So, these indicate that  there are  two microorganisms , which have the different 
+heat resistance to thermal death at the same temperature . So, the D value of which  is 
+lower will first show the destruction curve  and then the  D value for which it is higher  
+will follow the next . 
+So, in such case  we can  write the microbial inactivation  requirement the time for both the  
+two microorganism and then we can  analyse that what will be the  D value for those 
+different combination . So, if we  write the equation for this .  
+So, for the normal destruction the curve  will be simply          log N 0/N = t/D.  
+If we consider the  case of initial  lag in th e inactivation curve , then we can write it as:       
+N0/N = 1+ (t-tL)/D  
+So, this tL is the lag time . Obviously  here, t>tL. 
+After that if we  consider the  mix cultur e. So, then the total microbial count viable 
+microbial count  after processing time  t will be  given by:  
+N=NA0[10] −t
+DA+NB0[10] −t
+DB 
+Where  NA0 and NB0 is the initial microbial count of  micro be A and B respectively at the 
+start of  processing and then after time ‘t’. So, when we consider that  DB if since  DB is 
+higher , the thermal death time for the second microbes is h igher  or if we consider as D2 
+here it is hig her, than this second term does  not have significance for the lower time  
+period when ‘t’ is small . So, then only the first term prevail  that is showing by first part 
+of the curve . And in the next section where the time is  significantly higher than it shows 
+that importance of the next curve  will be shown , that is because of the seco nd or more 
+heat resistant micro organism . 
+Coming to the last plot  that is tailing  of an inactivation curve , this is because if the 
+number of microorganism is very high . So, towards  the end of the logarith mic cycle that  
+it will follow will form a tail  like structure with increasing time . So, it can be avoided if  
+initial load of the microorganism can be reduced . (Refer Slide Time: 16:29)  
+ 
+So, let us  take one numerical example , the following data were  obtain ed from a thermal 
+resistance experiment conducted on a spore suspension at 112 °C.calculate the  D value of 
+microorganism at a given temperature . So, what is given simply ? Time is given and 
+number of survivors is given . What we can do is  we can  plot the number of survivors in 
+log scale in the y axis and in the x axis we can plot the time  and simply measure the time 
+required to  reduce the number of microorganism by 1 log cycle . 
+So, what we can do is the first plot the log of N microbial  populati on with respect to time 
+and we can measure the  D value here we are getting  4.1 minute s. (Refer Slide Time: 17:28)  
+ 
+So, next is  half-life period what is half-life period ? So, this method of expressing the rate 
+of a reaction is commonly used in radioisotope  decay . So, for that case  it is very 
+common . It is the time required for the reactant to lose half of its original concentration ,  
+By definition, t= t 1/2   when   N 0/N = 2 . That means, we have  made the number of viable 
+microorganism half of the initial microbial population . So, then t1/2 i.e. time required to 
+make the microbial population , half of its initial microbial population will be  
+ t1/2 = ln(2)/k = 0.693/k   
+ (Refer Slide Time: 18:30)  
+  Next is thermal death time that is F value . So, for we are  talking about that  total 
+processing time and that depends on a particular temperature , because mi crobes have 
+different resistance to thermal destruction at different  temperature . So, total tim e required 
+to accomplish a stated reduction in the population of microorganism at a given 
+temperature is termed as  F value . So, this time can be expressed as multiple of  D value , 
+because we know that one log cycle reduction takes a time which is represente d by D 
+value , but one log  cycle reduction is not enough to preserve the food material . Normally 
+there are  fixed number of logarithm ic cycle  that is being stated for any food preservation . 
+For example commercial sterility is being done by  12 D  that is 12 log cycle reduction s. 
+That means, if one log cycle reduction takes a time D. So, n log cycle or any log cycle 
+reduction will be multiplied by that number with the  D value . For example, 99.99  percent 
+reduction  in microbial  population would  be equivalent to 4 log cycle reduction i.e. F 
+value  = 4D. So that means, we can change this 99.99  percent to the probability value and 
+we want to  initially if it was 1. Now it will be 1-0.9999  and that is eventually coming  
+1/1000 . So, that is  104 so that means, F=4D. 
+So, that is the total process time is F = D log 10 (N0/N)  
+If you r emember our earlier equation  log 10 (N0/N) = t/D, now we can w rite D log 10 
+(N0/N) = t, and this ‘t’ is eventually F value for the total process time when we strictly 
+define that how much log cycle reduction we want in a process . And this number of log 
+cycle reduction is also called the sterilizatio n value and sometime it is expressed as  “S”. 
+So, D×S = F value or  the total process time . (Refer Slide Time: 21:51)  
+ 
+So, let us take one example  the most probable spore load in a canned food is 100 and the 
+D0 of the spore is 1.5 minutes.  Calculate a target F 0 for a thermal process such that the 
+probability of spoilage is 1 in 100,000. If under the same conditions C. botulinum type B 
+has a D 0 of 0.2 min, would the target F 0 value satisfy the minimum 12D process for C. 
+botulinum ? Assume an initial spore  load of 1 per can for C. botulinum .    
+Now the case is  that whenever we say that  D0 value or  F0 value , we want to mea n that 
+reference temperature . So, at a Celsius scale we mean the  referen ce temperature as 121°C 
+and in the Fahrenheit  we make it  250 °F. So, here we want to  calculate that  F0 at 121°C 
+and D0 at 121°C is given as 1.5 minute . So, N0 that is  the spore load is 100 and the  
+probability of spoilage is 10-5.  
+F0 = D 0 ×S = 1.5×7 =10.5 minutes   
+Now, the second case it is mentioned that for the C botulinum sterilization value is  12 
+and F0 = 0.2×12 =2.4 minut es. So, would the target  F0 value satisfy the minimum  12 D 
+process of c . Botulinum ? the answer will be yes because it will  always consider that 
+within this time . (Refer Slide Time: 24:38)  
+ 
+So, next is temperature dependence of reaction rate . Temperature dependence o f reaction  
+rate is expressed in terms of Arrhenius  equation as the temperature dependence of any 
+chemical react ion also expressed in terms of Arrhenius  equation .  
+k=𝐴0[𝑒]−𝐸𝑎
+𝑅𝑇 
+Now, generally it happens that with increasing temperature , the reaction become faster . 
+So, that is activation energy become slower that  is why -ve sign has been incorporated . 
+“A” is a constant here and its units a re the same as those of the reaction rate constant k , 
+which in turn depend on the order of the reaction , R is universal gas constant its value is 
+8.314 kJ.K-1.kmol-1. ‘T’ is the absolute temperature in K and  Ea is activation energy in 
+kJ.kmol-1.  
+Now if we plot the  ln k with respect absolute temperature . So, we are getting a slope 
+which is a straight line from the slope we can get the value of activation energy because 
+we know the value of R. 
+k=𝐴0[𝑒]−𝐸𝑎
+𝑅𝑇 
+So, if the reaction  has happened at  two different  tempe ratures  like T1 and T2. k2
+k1=[e]Ea
+R  T2−T1
+T1T2   (Refer Slide Time: 28:19)  
+ 
+temperature coe fficient  Q10 it is nothing  but the ratio of k2/k1 number of times a reaction 
+rate changes with the  10 degree c hange in temperature ; that means, if you look into the  
+previous equation when  T2-T1=10 then k2/k1 one can be represented as  Q10. So, if the 
+reaction rate doubles with a  10 degree , then the  Q10 will be 2. So,  Q10 by definition we 
+can write :    
+k2
+k1=Q10 
+if T 2 – T1 = 10oC, then Arrhenius  equation for two temperatures become  
+ Q10=[e]Ea
+R  10
+T1T2  
+Now we can also see that if graphically we want to express the rate of reaction  in the y 
+axis and temperature in the x axis. the reaction which does  not change with tempera ture. 
+That means, the rate will remain same if we increase the temperature that is represented 
+by this red line , and where the  Q10 or the  reaction  rate changes with a factor of  2 that is 
+this deep blue line ; and the light blue line showi ng the reaction ra tes change with the  10 
+degre e change in the temperature by 3 times ; so most of the biochemical reaction and 
+physiological processes fall within this range .  So, here we can write : k2
+k1= Q10 T2−T1
+10 (Refer Slide Tim e: 31:06)  
+ 
+Next is Z value which is the thermal resistance constant , it is defined as the temperature 
+change required to change the  D value by a factor of  10 or 1 log cycle . D value  versus 
+time if it is plotted in a logarithmic scale , the graph looks very similar to the survivor  
+curve and this  one is called  the thermal death time plot . The straight line on the graph 
+means that if you change the temperature by a certain amount , the D value will change 
+by a factor of 10. So, it is like if we plot this  tempera ture here and  D value  in a in a  log 
+scale  here. 
+So, we will get this kind of a plot from where at a particular temperature we can 
+calculate the log D  and at another temperature . And, we can  get the value of ‘z’ that is  
+increase in temperature needed to cause  one degree destruction  or one log cycle 
+destruction in the microbial count . (Refer Slide Time: 32:28)  
+ 
+So, here it is this is the z value as  plotted  there that the chan ge in temperature needed in 
+°C to cause one log cycle reduction . We can plo t this as ΔT vs (log D1- log D 2). From fig. 
+                                                           slope = z = 𝑇2−𝑇1
+log𝐷𝑇1−log𝐷𝑇2 
+ We know already   D1/D2=k2/k1   then above equation becomes     
+ 
+D1
+D2=k2
+k1=[10] T2−T1
+z 
+For bacillus stearo thermophil lus, z value is  10°C, D121 is 4 minute . That means, at 121 °C 
+if the processing time is  4 minute  the same microbial destruction if you want to  cause  at 
+111 °C. So, that time requirement will be 40 minutes and the same microbial  destruction 
+if you want to  cause  at 101 °C it will  take 400 minutes . (Refer Slide Time: 33:58)  
+ 
+So, there is an  example n a laboratory experiment it was found that heating a suspension 
+of spores at 120°C for 100 seconds results in a 9 -log killing of the spores. To achieve the 
+same reduction at 110° C, 27.5 minutes are needed. Calculate the decimal reduction time 
+at the two temp eratures, the z value, the  energy of activation and the Q 10 of the thermal 
+inactivation process at these temperatures.  
+For 9-log killing of the spores  at 120°C : D120 = 100/9 = 11.11 seconds,   
+Similarly  at 110°C:                                  D110 = (27.5×60)/9 = 183.33 seconds  
+ (Refer Slide Time: 34:53)  
+ Z value we can calculate by the formula : 
+D1
+D2=k2
+k1=[10] T2−T1
+z 
+we can calculate the z . So, z is coming 8.21 °C. An activation energy we can calculate 
+from this  equation:  
+z=ln⁡(10)×T1T2
+EaR  
+ 
+E is coming here 350.6×103 kJ/kmol.K . Finally, the Q 10 value is calculated from this 
+expression :  
+ Q10=[e]Ea
+R  10
+T1T2  
+ 
+So, it is coming 2.8. So, for 10 degree increase in temperature the reaction rate w ill 
+increase by  2.8 times . 
+So, we will stop here  we will continue in the next class . 
+Thank you . 

@@ -1,0 +1,102 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  34 
+Optimum  ballasting  of a front  wheel  assisted  tractor  
+Hi everyone,  this is Professor  H. Raheman from  Agricultural  and Food  Engineering  
+Department,  IIT Kharagpur.  I welcome  you all to this NPTEL  online  course  on Traction  
+Engineer ing. This is lecture  34 where  I will try to cover  optimum  ballasting  for the front  
+wheel  assisted  tractor . And I said front  wheel  assisted  tractor  means  it is four wheel  drive  
+tractor  where  the tyre sizes  are not same  like normal  four wheel  drive  tractor .  
+(Refer  Slide  Time:  01:02) 
+ 
+So, I will try to cover  the concept  is, what  is optimum  ballasting , how to obtain  optimum  
+ballasting  in case of front  wheel  assisted  tractor .  (Refer  Slide  Time:  01:14) 
+ 
+As I said front  wheel  assist ed tractor , from  the outside  it looks  like a two wheeled  tractor .That  
+means , the front  wheels  are smaller  and the rear wheels  are bigger.  But they are powered  
+wheels  unlike  your two wheeled  tractor  where  the only the rear wheels  are powered  wheels.  
+So, now,  I want  to find out what  is the optimum  ballasting  conditions  in case of a front  wheel  
+assist ed tractor ? Let W1 be the dynamic  weight  on the front  axle.  And W2 be the dynamic  
+weight  on the rear axle.   
+So, I will take the help of Gee-Clough  equations,  who has developed  a set of equations  for 
+predicting  the performance  of a tractor  or performance  of a wheel , based  on data obtained  
+from  170 field conditions.  So, that is a huge  number.  So, he has developed  a, basically  four 
+equations  you can see. One is related  to (CT)max, the other  one is related  to CT, the third  one is 
+related  to k(CT)max and the fourth  one is mobility  number . He has also developed  application  
+for rolling  resistance  which  I have  not included  here,  because  we are not interest ed for the 
+rolling  resistance.  
+Now, if you look at the equation,  whether  (CT)max, CT, k(CT)max, they are all functions  of 
+mobility  number  and the mobility  number  he defined  in a different  way  
+ 
+CI is the cone  index , bd, b is the section  width  of the tyre, d is the diameter  of the tyre, W is 
+the dynamic  weight  of the wheel,  
+ is the tyre deflection  under  load on a hard surface  and h is 
+the section  height . Now,  if we look at (CT) max, it is  
+ 
+and CT can be related  to (CT)max when  exponential  relationship   
+ 
+this k is the rate constan t, k(CT)max is given  as  
+ 
+ (Refer  Slide  Time:  04:04) 
+ 
+Now, with the help of this, I will try to derive  the equations  for optimum  ballasting  for a front  
+wheel  assist ed tractor.  Now,  mobility  number  for the front  wheel , assuming  that weight  is 
+equally  distributed  among  the front  axle among  the wheels  mounted  on the front  axle and 
+similar  is the case in the rear axle.  So, mobility  number  M1 if I denote  it as the mobility  
+number  related  to front  axle tyres then 
+ 
+So, for a given  size of tyre and for a given  soil condition  the inflation  pressure  is varied  with 
+loads  so that del by h remains  constant.  So, I can write  this as this, all these  factors  are almost  
+constant  except  W. So, I can write  this as a constant  K1 divided  by W1. Here  I have  taken  W1 
+by 2 because  W1 is the weight  which  is coming  in the front  axle.   Similarly,  for the rear tyres the mobility  number  I denoted  as M2  
+ 
+Again, for a given  tyre size and given  soil conditions , I can take this as a constant  K2 divided  
+by W2. So, the maximum  pull which  we can develop  will be equal  to (CT)max. We know,  
+(CT)max is nothing  but pull upon  dynamic  weight.  So, now,  if I multiply  (CT)max with W 
+dynamic  load then I can get P. So, from  here I can say P will be equal  to (CT)max into W.  
+Now,  the total pull which  will be developed  by the tractor  will be summation  of the pull 
+developed  by all the rear axle tyres and the front  axle tyres. So, what  I will do is, pull 
+maximum , this will be 
+ 
+where  (CT1)max refers  to the coefficient  of traction , maximum  coefficient  of traction  for the 
+front  wheel  and (CT2)max refers  to coefficient  of traction  of the rear wheel .  
+We have  got the expression  for (CT)max,  
+  
+ For (CT1)max – 
+ 
+For (CT2)max – 
+ 
+Then  
+ 
+ Now, we have  to substitute  for M1, in previous  case we have  calculated  M1 is nothing  but K1 
+by W1 and M2 is nothing  but K2 by W2. So, 
+ 
+So, for maximum  efficiency  we are recommending  from  Dwyer  equation  ballasting  
+recommendation   
+ 
+So, W will be equal  to 1.79 Paxle by V for a given  tractor  and for a given  forward  speed  this 
+part is a constant  now,  for a given  tractor  this is a constant  which  I can represent  as K3.  
+(Refer  Slide  Time:  11:10 ) 
+ 
+Now,  pull maximum , I can write  as maximum  will be equal  to 0.796  K3. So 
+ 
+ 
+ 
+ 
+ If K1 is equal  to K2, what  does it mean?  That means , the front  wheel  and the rear wheels  are 
+same  and W1 will be equal  to how much , K3 by 2.  
+So, once  you find out W1 when  the wheels  are not same  in size, then you find out W2 which  
+is nothing  but K3 minus  W1. So, that will give you the required  weight  to be maintained  in the 
+rear axle and W1 will give you the required  way to maintain  the front  axle to maximize  the 
+output . Output  is nothing  but your pull. So, this is the way how to find out what  is the 
+optimum  ballasting  condition  which  will give you the maximum  output.   
+So, what  we can do here is we have  got the recommendation , recommendation  from  Dwyer  
+and based  on that recommendation,  we are calculating  for the four-wheel  drive  tractor  or the 
+front  wheel  assisted  tractor.   (Refer  Slide  Time:  16:36 ) 
+ 
+ 
+So, in this class  I tried to discuss  how to find out the optimum  ballasting  required  for a front  
+wheel  assisted  tractor  and how much  will be the weight  on the front  axle as well as the rear 
+axle to get the optimum  ballasting  that has been  derived.  Thank  you. 

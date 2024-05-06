@@ -1,0 +1,371 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 28 
+Drying Technology (Contd.)  
+ 
+Hello everyone , welcome to the NPTEL  online certification course  on Fundamentals of 
+Food Process Engineering . We in the last class we  have discuss  the Drying Technology 
+and in that , we were discussing the different psychrometric processes ok . And how we 
+can describe them  and describe the ai r properties in the psychrome tric chat. 
+(Refer Slide Time: 00:48 ) 
+ 
+today we will see that  first moisture  content  so, since we are  dealing with the drying 
+phenomena and  drying we normally perform  to reduce the moisture content . And with 
+that we are lowerin g the water  activity to increase the shelf life of the product because , 
+moisture content is a important phenomena all the contamination or the degradation of 
+the food material  is caused by principal ly the moisture content ok. 
+So, all the microbiological  contamination or enzyme  enzymatic degradation if you want 
+to decrease  so, first of all we need to lower the moisture content . Then this is very 
+important that how we can express the moisture content or how we can calculate the 
+moisture content ? So, moisture content can be expressed either percentage wet basis or 
+by percentage dry basis .       
+In wet basi s:                                   M.C (%w.b)=𝑀𝑤
+𝑀×100  
+In dry basis:                                   M.C (%d.b)=𝑀𝑤
+𝑀𝑑×100  
+Here  M represents  the total weight of product  i.e. weight of the moisture present in the 
+product plus weight of the bone dry material .  
+Mw= weight  of moisture present in the product,    
+Md =bone dry weight or weight of dry matter   
+Now, in this one form to the other we can convert ok , so, how we  do that . So, the relation 
+between moisture content wet basis  and moisture content dry basis .  
+                                       M.C (%w.b) =𝑀𝑤
+𝑀×100 =𝑀𝑤
+𝑀𝑤+𝑀𝑑×100  
+ Divide both 
+  & D r By  “Md” 
+𝑀.𝐶(%𝑤.𝑏)=𝑀𝑤
+𝑀𝑑
+𝑀𝑤+𝑀𝑑
+𝑀𝑑×100  
+𝑀.𝐶(%𝑤.𝑏)=𝑀.𝐶 (𝑑𝑏)
+1+𝑀.𝐶 (𝑑𝑏)×100  
+Similarly, we can convert this moisture content dry basis to  wet basis as well . 
+𝑀.𝐶(% 𝑑.𝑏)=𝑀.𝐶 (𝑤𝑏)
+1−𝑀.𝐶 (𝑤𝑏)×100  
+So, always moistu re content in the dry basis is  higher than the moisture content wet basis  
+because the denominator is reducing . So, always we are getting this as higher value . (Refer Slide Time: 03:44 ) 
+ 
+And then , we will see that if we are given that certain condition  that we need to dry the  
+product to achieve the safe storage level , then how we can perform . So, let us take  500 
+kg of  paddy dried  from 20 percent  moisture content wet basis to 15 percent  moisture 
+content wet basis . We need to calculate the amount of water  that nee ds to be removed 
+during drying .  
+Amount of water in feed (M w1) = 500 × 0.2 = 100 kg  
+Bone dry weight = 500 – 100 =400 kg  
+Now amount of the water finally, after drying  will be how much  that we need to 
+calculate ? So, let us say some amount of moisture will remain that is Mw2. 
+Amount of water in product:                0.15(400 + M w2) = M w2 
+                                                   Mw2 = 70.588 kg   
+ Water evaporated (w) = M w1 – Mw2 = 100 -70.588 = 29.41 kg  
+This kind of calculation is very common because , most of the time when we want to 
+store any grain , food, we need to know that what is the safe  storage moisture level and 
+we can convert it to dry basis or wet b asis. And then we finalize that how much moisture 
+needs  to be taken out ? (Refer Slide Time: 05:47 ) 
+ 
+Now, moisture determination method,  there are many direct and indirect met hod of 
+moisture determi nation . So, in the  direct method , we use mostly h ot air oven , vacuum 
+oven , then Brown duvel distillation method , infra red method. In all this mechanism  like 
+what we do in the hot air oven ? We keep  2 gram  of the sample and then we keep it at 
+almost 105±2 °C for 24 hour. And then we measure that what is the bone dry weight of 
+the material and initial weight was known to us  so, we can calculate that , what is the 
+moisture content ?. 
+And similarly , there are certain indirect methods , where  we are not directly measuring 
+that by gravimetric method that what is the amount of moisture is evaporated ? But some 
+indirect measurement technique we are using for example, where measuring the 
+electrical resistance in the universal moisture meter  ok. Then we can measure the 
+dielectric  method and also the chemical method  so, electrical resistance in the sense that 
+moisture  is having certain amount of conductivity ok . 
+ So, if the moisture  is reducing  so, that can offer the electrical resistance we can measure 
+because of the changing mo isture level . So, universal moisture  meter  measures that 
+changing electrical resistance , because of the changing moisture content . Similarly , the 
+dielectric method we know that dielectric  property that also depend on the moisture 
+content because , moisture  has a dipole  rotation . And then because of the  orientation and reorientation of the moisture  the water  
+molecules , the dielectric heating mechanism  will change  so, because of that we can 
+measure the , what will be the moisture content in this method .  
+Similarl y, some material are there , they can absorb moisture . So, they are  hygroscopic 
+material , they can absorb moisture and based on  change of their weight we can measure 
+that how much amount of the motion has been  taken or absorbed by them . So, there are 
+certain indirect method and certain  direct method for determination of the moisture we 
+can use any of them as per the availability . 
+(Refer Slide Time: 08:35 ) 
+ 
+Equilibrium  moisture  is the moisture content of the pro duct in equilibrium with the 
+surrounding air at given set of temperature and relative humidity . So, this is because that 
+the ambient always have a fixed temperature and relative humidity  and any product  if we 
+keep in the ambient it will try to  come to equilibrium with the ambient ok . 
+So, the moisture content  of the product in equilibrium with the surrounding air at a given 
+set of temperature and relative humidity that is called the equilibrium moisture content . 
+And this equilibrium moisture content chang es with different RH. So, it will be  more 
+clear if we  if we , draw the diagram of equilibrium moisture content versus equilibrium 
+relative humidity ok . And this particular curve  is drawn generally at a particular 
+temperature and it is fix for a particular product as well . Because the products having different kind of  you know different structure  some are 
+having very loose structure , some can have the property of absorption  of the of the 
+moisture in a higher amount . So, they show the hygroscopicity or  you kn ow formation of 
+the lump and many  different  quality . 
+So, because of that , when we want to  calculate that what will be the EMC  or Equilibrium 
+Moisture Content , we need to draw the curve of equilibrium moisture content with 
+respect to water activity or equil ibrium relative humid ity at a particular temperature . 
+So, that is why this is called the isotherm  and moisture  sorption is that because , when we 
+perform the drying  operation  so, the product is losing moisture . And generally  when  we 
+dry we make the powder in a grounded form because , if those are very you know the 
+very fine particle , then they have more surface area . And the more surface area can 
+absorb the  more am ount of water from the am bience . 
+So, in that condition , if those product we expose  to increa sing water activity or 
+increasing relative humidity ambience at a particular temperature . So, the product try to 
+absorb moisture . And if we keep it at different changing  water activity or changing 
+relative humidity  environment at a constant temperature , at a constant temperature  so, it 
+will show this kind of a plot  which is called the sorption isotherm . 
+So, this sorption isotherm can give us the idea, that corresponding to  corresponding to  
+what relative humidity , what will be the EMC  value ok ? So, as the relative humidity will 
+change , equilibrium moisture content will be changed at a particular temperature . If we 
+change the temperature , then maybe we are getting a differ ent kind of sorption isotherm . 
+So, the main purpose of this is sorption isotherm  can give us an idea , whether the 
+material gain or lose moisture ; that means, if we know  the sorption isotherm of a 
+particular product . And let us say  the moistur e content of the product is now  5 percent 
+wet basis  and or let us say 15 percent wet basis . And then  we expose this product to a 
+higher amount of  relative humidity  so, the chances are that this product will absorb 
+moisture right  and will reach  from 15 let us say 30 percent in due course of time . 
+Now, if the product moisture  is having higher valu e and it is  kept at a condition which is 
+very low relative humidity , then the product may be  loosing the moisture . So, whether 
+the material will gain or lose moisture  that depends on the sorption isotherm behavior . So, what is the rate of moisture remov al? That we can  guess  out of this plot and also it 
+will help us to determine the dr ying characteristics .  
+(Refer Slide Time: 13:47 ) 
+ 
+Now if we see the  different moisture content in a bit detail , so, there we can get the 
+bound moisture and unbound moisture  these two basic classification . So, this is a relative 
+humidity versus moisture content curve  at a particular temperature  so, this kind of a 
+curve  we are getting . 
+when the relative humidity is 100 percent and if the moisture content in the in the x axis 
+we have moisture content . So, then this moisture  where we get the free moisture  
+available  so, this is called the unbound moisture  and rest of the moisture  is called the 
+bound moisture . 
+So, from the unbound moisture , which is the moisture  exert the vapor  pressure equal to 
+that of the pure water  And the bound moisture  which is physically or chemically bound 
+to the solid matrix and it exert  the vapor  pressure less than that of the pur e water at the 
+same temperature . 
+Now, if we further  lower t he moisture content  so, corresponding to a particular relative 
+humidity , let us say  this point A we are  getting the moisture content . So, that is the EMC  
+that is the equilibrium moisture content  so, at this condition excess of the free moisture  
+excess of the EMC  is called the free moisture . And if we consider at 100 percent  relative humidity  so, as I said that  bound  moisture  is 
+equal to the free moisture .  
+(Refer Slide Time: 16:28 ) 
+ 
+Now we will see the hysteresis effect  so, what is hysteresis effect ? This is actually when 
+we perform the drying  operation ? So, then we decrease the moisture content of the 
+product  so, initially if the moisture content was at this point when  it has drying  has been 
+perform and moisture content has been reduced to very low value . 
+Now after that if that  dried material is exposed to increasing water activity  so, again it 
+starts absorbing moisture right . So, it will try to absorb moisture , but these two curve  will 
+not similar . They will be there will be a de viation between these two plot and this 
+difference in the desorption  and absorption curve of the equilibrium moisture content 
+verses  ah; relative humidity at a specific temperature is called the  hysteresis effect . 
+So, if we look into this cha rt carefully , in the  in the b eginning of the water ac tivity zone  
+that is 0 to 0.3 almost , in this zone  the moisture  is strongly bound with the  molecular 
+structure . So, these are the monolayer moisture content , beyond  0.3 to around 0.75,  here 
+in this zone , in this  water activity zone the moisture is less stro ngly bound , less strongly 
+bound and layers and capillary adsorbed water is there , beyond 0.75 the water is in the 
+form of solvent and the free water . So, this water can be very easily removed ok , then there is a the process of water removal 
+will be bein g slowed in this  the second zone which is of the 0.35 to 0.75 water activity 
+zone and as we move towards higher  water activity . So, pressure is also increasing and or 
+temperature also increasing  so, temperature we can have different  temperature , 
+difference  option isotherm . 
+(Refer Slide Time: 18:59 ) 
+ 
+ Now method to determine the EMC,  one is the static method and another is the dynamic 
+method . So, in the static method ; what we do ? Temperature of the air is maintained  by an 
+oven and relative humidity of the a ir is also maintained by the use of different 
+concentration of  solution . Basically , we use  different salt solution to maintain the 
+different  you know water activity . 
+And there is a dynamic method ; which is the desorption method and isoteniscopic 
+method ? So, in the isoteniscopic method what we do is ? We keep  we take a isoteniscopic 
+which is kind of  u tube  and that is immersed in a liquid that is  being heated at a particular 
+temperature that is again connected with a bulb . 
+And here we measure the  you know different pressure , vapor pressure and  corresponding   
+water activity of that ok . So, by measuring that there is a manometer  attached to that , 
+which measures the different pressure  level , because this is connected the u tube  is 
+connected with it ok. And we sometime release the pressure  so, that it will  take the vapor  
+out of  it and again let us  keep it to come to the equilibrium situation . So, in that , we measure the  change in the vapor  pressure time to  time and corresponding  
+the water activity . So, with that , we can relate  the different  we can calculate the different 
+water activit y and moisture content relation .  
+(Refer Slide Time: 21:12 ) 
+ 
+Now, there are different  models available those are the  equilibrium moisture content 
+models that works for different ran ge of the relative humidity , as we have seen that , the 
+if you follow th e range of relative humidity the curve pattern changes . So, in different 
+different section , different equations , which have been  some are  derived empirically  or 
+some are based on the  physical principles . 
+So, these are the certain models one is the Kelvin  equation that is based on the capillary 
+condensation theory . And valid for RH >95%,  
+ln 𝑃𝑣
+𝑃𝑣𝑠 =2𝜎𝑉 𝑐𝑜𝑠𝛼
+𝑟𝑅𝑇𝑎 
+Harkins  Jura equation that is based on the potential field theory valid for very low 
+moisture content region that is RH < 30 %. 
+ln 𝑃𝑣
+𝑃𝑣𝑠 =𝑑−𝑒
+𝑉2 
+ Chung pfost  equation that is again potential field theory  valid for RH: 20 -90%. . So, we 
+can see that  this equatio n has a very wide applicability.  
+ ln 𝑃𝑣
+𝑃𝑣𝑠 =−𝐴
+𝑅𝑇exp⁡(−𝐵𝑀) 
+Henderson  equation , which is valid for all relative humidity range works on the Gibbs  
+adsorption principle .  
+1-rh= exp[ -CTMen] 
+So, in all th is equation  RH is the  equilibrium relative humidity in the decimal , capital Me 
+which is the EMC i.e. equilibrium moisture cont ent in dry basis percent,  T is the 
+temperature in degree Kelvin , c and n are the product constant varying  with the 
+materials, Pv is the vapor  pressure of grain , Pvs is the saturated vapor  pressure  at that 
+condition , σ is the surface tension , V is the volume of moisture , α is the angle between 
+the moisture  and the capillary and r is the radius of the cylindr ical capillary , capital R is 
+the universal gas constant and Ta is the absolute temperature . 
+So, using all these  model  we can we can get the idea if the  so, in this model for example, 
+if we use the Henderson  equation . So, if RH is known to us we can find o ut the 
+equilibrium moisture content value at that condition and  accordingly we can , we can 
+store it for a required  relative humidity and temperature ambient . 
+(Refer Slide Time: 24:24 ) 
+ If temperature of grain and relative humidity are 30oC & 10%. The value of “C” and “n” 
+are 3.11 ×10-7 K-1& 3.03 respectively. determine the EMC value using Henderson 
+equation.  
+So, temperature is given and  RH is given  C is given n is given  so, we will just put in the 
+equation  Henderson  equation . So, we will get the final value of e quilibrium moisture 
+content as 10.14  percent dry basis  ok. So, if this is a safe  condition of storage at th is RH 
+level . So, if we  give higher than this obviously, the moisture  the product will lose 
+moisture  and if we keep lower than this it may absorb moisture .  
+1-rh = exp[ -CTM en] 
+                        ln(1-0.1) = -3.11 ×10-7 (303)M e3.03 
+                          Me=10.14% (dry basis)  
+(Refer Slide Time: 25:37 ) 
+ 
+Now coming to the drying rate curve , so, for any drying  expe riment the assessment of 
+the drying rate is very important . Most of the cases ,  in the in the food material  of very 
+high moisture content , although we are not getting very  elongated  or very prolong  
+constant rate drying  generally , we get very short  constant rate drying and then we find a 
+falling rate drying . 
+So, if we normally see , the moisture content versus time plot , the first plot where 
+moisture content percentage dry basis has been plotted against time in hour. So, starting 
+from ABC  to E this will be the normal  drying curve will look like this and if we plot the drying  rate R with respect to moisture content . Then we can follow ABCD  and E, this 
+will be the pattern of the drying rate curve . 
+Now, if we consider  when the air is coming on the water film, which is surrounded the 
+product . So, outside moisture will first  evaporate  and the inner moisture  will try to 
+defuse to the surface ok , till that flow is  you know exist ; we are getting the constant rate . 
+And when the inner  moisture also received to the pockets and the shrunken  cells and the 
+flow of the moisture  is not  very very high from the inner layer to the surface . And the 
+surface moisture receive s, that time the falling rate starts , falling rate  is again governed 
+by many principal  like diffusion , liquid  diffusion , capillary diffusion , etcetera  so, 
+initia lly, the product temperature may be higher  maybe higher or lower than  the drying 
+air temperature  or ambient temperature . So, for the initial adjustment  period , we can 
+observe where either  the product  will gain or  lose temperature little bit . And then  it starts 
+you know constant drying rate  start. 
+So, the time till we are getting the  free moisture available at the surface or the rate of 
+evaporation is equal to the rate at w hich the moisture  is coming from the inner layer to 
+the surface , exist then we are getting the constant rate. And after that , when we reach to 
+the critical moisture content Xc corresponding to the this point C, then the falling rate 
+starts . 
+Again they maybe  different  phase of the falling rate  we can see , here in this particular 
+case we are getting two distinct falling rate one is C to D and another is D to E. So, 
+finally, when it reaches to E that is corresponding moisture content XE is the  equilibrium 
+moisture content at the RH and temperature condition prevailing in the drying chamber . 
+So, in the in the falling rate , if we see that the first thing like C to D. So, here the change 
+in moisture , because of the un saturated surface dry ing this is called the first falling rate 
+and in the second  phase this is internal movement of the moisture . So, that controls the 
+drying  so, we are not getting a very straight line here, but a little curved surface we are 
+getting . So, these are the  mechanism , that the inter nal movement when it takes the 
+control of the of the rate of moisture  movement , then we are getting the curve pattern . 
+So, this is how we can calculate the drying curve , now most of the time  if we want to 
+want to plot the moisture content versus time , we g enerally plotted  with the free moisture . So, in that case we find the equilibrium moisture content at that condition and  
+what we can do is initial moisture X0 minus  if we  do XE so, that will give the free 
+moisture . 
+So, based on  free moisture versus time , we can  calculate the  you know  drying rate  we 
+can draw the drying rate curve also based on that or we can draw the moisture content 
+versus time plot also based on free moisture . So, this we have already mentioned that XC 
+is the critical moisture content , where the constant rate completes and the falling rate  
+starts and EMC  is the  final moisture content , equilibrium moisture content with the 
+temperature and relative humidity of the d rying air . So, beyond this we can not lower the 
+temperature in a drying  experi ment . So, always the, the moisture content will be 
+corresponding to temperature and relative humidity of the drying air . 
+ (Refer Slide Time: 31:01 ) 
+ 
+Now, drying  time calculation , so, we can divide the whole process of drying into 
+constant rate and the falling  rate period . So, for the constant rate period , since the  rate is 
+constant in this case , so, if we know that , what is the change in the moisture content  at 
+any instant ok ? Because moisture content we express in kg H2O/kg dry matter . 
+Change  in moisture content with respect to time can be given by  
+ 
+If we integrate this  with boundary  conditions applied :  t=0 X=X1 & t=t X=X2  
+R=−Wd
+AdX
+dt  
+we can think of this condition like when the wet surface is there this maybe of grain  or 
+any food surface . So, when the air is passing over that the air  will give the heat  so, that 
+the wet surface will start drying  and moisture will evaporated  in the form of a flux which 
+is NA and it is again  mix with the air stream . 
+So, the moisture flux  which is mixing with air stream  will cause increase in the humidity 
+of the air, product will be getting dried . Drying will happen at a temperature of wet bulb, 
+that is t w and Hw is the humidity of the surface , H is the humidity of the air stream that is 
+used for the drying . 
+So, then, if we want to analyze  the heat and mass transfer that happened in case of drying  
+because , we know that drying is a simultaneous heat and mass transfer operation . So, the 
+product i s getting dried  so, the mass is removed from the product and getting mixed with 
+the dry air . And simultaneously , the heat is  coming from the dry air to the product and 
+utilizing  the heat the produc t moisture will b e evaporated . 
+ So, if we consider that what is the amount of heat that is coming from the air to the 
+surface ? That will be given by:  
+q= hA(t 1-tw) 
+Now, the material  the moisture will be evaporated taking the latent heat of vaporization .  
+            q=M ANAλwA  
+So, this we can write and finally, if we want to chan ge this mole fraction to the humidity  
+so, then we can write  
+          q = λwAk yMB(Hw -H) 
+So, then we are getting this equation  so, that is this much amount of heat required for  
+evaporation of the moisture Hw to H and this heat is coming from  this heat that is  the 
+convective heat transfer from the air  to moisture .  
+ 
+This Rc equation , if we put into this equation t c. Then , 
+ 
+tc=Wd
+ARc X1−X2  
+Rc=q
+Aλw=h(T−Tw)
+λw=kYMB(Hw−H) 
+tc=λwWd
+Ah(X1−X2)
+(T−TW)=Wd(X1−X2)
+kyMBA(Hw−H) Now , the h  is convective heat transfer coefficient , that can be further  related to the mass 
+velocity (ρ.g) of the air stream because , we need to know that what will be the 
+convective he at transfer coefficient of the air to the  moisture .  
+h=0.0204G0.8 (if air flowing parallel to drying surface)   
+h=1.17G0.37 (if air flowing perpendicular to drying surface)  
+ 
+(Refer Slide Time: 39:35 ) 
+ 
+Grains are dried in a pan (0.25× 0.25×0.01m). Heat transfer is only due to convection of 
+air (velocity 5m/s) flowing parallel to surface of material. Temperature & humidity of 
+incoming air 60oC & 0.01 kg H 2O/kg dry air. The wet bulb temperature of air is 25oC. 
+Humidity & latent  heat at T w is 0.025 kg H 2O/kg dry air & 2450kJ/kg. calculate the total 
+rate of evaporation.  
+So, first we need to find what is the  humid  volume here 
+V= (2.83 +4.56H) ×10-3×(T+273)=(2.83+4.56×0.01) ×10-3×333=0.9575  
+volume we have calculated and kg will be amount  of 1 kg air plus kg of moisture present 
+in that air. So, 1 plus H by so, we are getting 1.0547  is the density of air kg per meter 
+cube . 
+ρair= (1+H)/V = 1.0547   
+ (Refer Slide Time: 41:24 ) 
+ 
+Next will be  G, which is  the air velocity  so, here air is flowing  parallel  
+G = air velocity ×  ρair = 5.2735 kg/m2s = 18984.6 kg/m2h 
+h= 0.0204 G0.8 = 0.0204 (189840.8)=53.99 w/m2K 
+Constant  drying rate is calculated as follows  
+ 
+Total rate of evaporation = R c × c/s area  
+                          = 2.5722 ×0.25 ×0.25 = 0.161 kg H 2O/h  
+We will stop here.  
+Thank you . 
+Rc=q
+Aλw=h(T−Tw)
+λw=53.99(60−25)3600
+2450 ×10−3=2.572 

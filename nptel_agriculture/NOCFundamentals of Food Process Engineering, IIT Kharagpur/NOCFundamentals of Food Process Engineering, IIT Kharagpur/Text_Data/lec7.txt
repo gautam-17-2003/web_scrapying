@@ -1,0 +1,240 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 07 
+Measurem ents of Rheological Properties (Contd.)  
+ 
+Hello everyone , welcome to the  NPTEL  onlin e certification course on Fundamentals of 
+Food Process E ngineering . Today we will move on to the measurement using the 
+rotational viscometers . 
+(Refer Slide Time: 00:49)  
+ 
+Rotational viscometer   
+This can handle very well  the Newtonian as well as the non -New tonian fluids . The fluid 
+is generally getting sh eared  between  2 component s of the measuring system . And if the 
+agitation is being done in the rota tional system  so, the shear  rate will be actually depend 
+or will be proportional to the rotational speed of th e system . So,  using this we can 
+measure the shear stress for different changing shear rates and also the shear rate  can also 
+be measured by varying length of time.  
+So, the effect of time wil l also be observed on the fluid ; that is why we can h andle the 
+different kind of non -Newtonian fluid  which can behave differently over a range of shear  
+rate or  maybe constant shear  rate for the prolong time . So, that is why this is very useful ; and the rotational viscometer s are of different kind of geometries , but the two most 
+common ly used are Searle type and couette type.  So, in Searle type sy stems two 
+concent ric cylinders are there , the inner  cylinder rotates  is rotated and the outer is fixed . 
+In couette type system the inner  cylinder is fixed and the outer is being  rotated . In any 
+kind of rotational system used for measurement , the basic principle will remain same . 
+The torque  required moving  the inner cylinder at a constant speed and the shear stress 
+that the fluid will exert on the rotating element will be balanced  and that will be similar 
+for both kind of  system . 
+(Refer Slide Time: 04:12)  
+ 
+Rotational viscometer  
+Concentric cylinder viscometer  
+ assumptions for mathematical model development  
+1. Flow is laminar and steady.  
+2. Radial and axial velocity components are zer o. 
+3. The test fluid is incompressible.  
+4. The temperature is constant.  5. End effects are negligible.  
+6. There is no slip at the wall of the instrument.  
+ (Refer Slide Time: 05:29)  
+ 
+So, the principle is that there is  a cup which is still l that is being fi xed with some  
+arrangements , but the inner cylinder or the bob , that is rotating with the constant angular 
+velocity  and inner radius of bob is  R i , inner radius of the outside  cup that is Ro. As the 
+bob will rotate , fluid will be in between  R i to R o and is getting sheared in between these  
+2 concentric cylinders . 
+So, continuous shearing or the change of the shear rate can be provided on the fluid kept 
+in between and also for different time it ca n be applied . Now the torque required to rotate 
+this inner cylinder  at a constant angular  velocity will be  M. The force that will oppose  
+that torque will be the shear  force , which will be provide d by the liquid held .  
+From force balance we can write that  
+ 
+ is the area where the shear stress τ is being applied  and it is acting at a distance  r 
+from the centre . So, we can write that  
+ Now since the inner cylinder  is rotating and the outer is fixed , then t he shear stress  or the 
+shear rate will not be similar  in all the annular spaces.  So, it will  be higher  at the inner 
+radius because there  the inner  cylinder is rotating with a constant  angular speed ; 
+however, the stress at the outer wall will be  or the outside of that  liquid level , which is in 
+contact with the fix cylinder that will be less .  
+So, the stress that is coming on the  inner cylinder  is  
+ 
+where  h is the height of the liquid film . 
+To get the ex pression of shear  rate 
+  , because as we move on to  radial direction 
+the velocity will be decreasing , because the outer  cylinder is sti ll and the i nner is 
+rotating . 
+Now  this velocity v can be replaced to tangential  velocity with the angular speed .  
+So, we can write this  
+  
+Now we also know that 
+  will be a function of τ  that is shear stress .  
+So, we can write the differential angular speed 
+  
+now we need to find the expression of dr from  the relation 
+  
+ 
+ So, taking dr as constant, and derivative with respect to τ  
+ 
+So,  
+ So, finally, this will be getting cancelled and we can get  and here also was
+ .  
+So, we are getting finally, 
+  
+(Refer Slide Time: 16:47)  
+ 
+So, let us now  write it clearly that  
+  
+ Now since ω which is angular velocity of the  inner cylinder , that may vary  from  Ω that 
+constant at R i to 0 at the R o. So, similar things will happen with the stress  as well . So, 
+stress will be max at  R i and it will be minimum at Ro. So, we can integrate this as .  
+ 
+ Now solution of this kind  of a proble m will depend on 
+ , which  will again  vary with 
+different kind of solution . This if it is  Newtonian then there will be  shear  rate that is  
+shear stress by dynamic viscosity ; if it is  power law fluid then the relation will be  
+different  from shear stress that is divided by k1/n. So, as 
+  will vary for diffe rent kind 
+of fluid  food sample , then solve of this equation the final result of this equation will be 
+varying . (Refer Slide Time: 19:01)  
+ 
+So, now,  we will see  the cases  ok. So, this we have we have already solve d this doing the 
+force balance  so we have come to this stage now.  
+(Refer Slide Time: 19:08 ) 
+ 
+And if it is  Newtonian  it will be 
+ .  
+So, that is such that 
+  
+Integrating  this over Ω to 0 for τ i at Ri and τ o at Ro.  So, here it will be  
+  
+ Again this τ is related with the torque . So, the expression will be  
+ 
+So, finally, we are getting this equation that angular speed  
+ 
+So, from this we can get the i dea of the dynamic viscosity μ. 
+Now let us see if it is non -Newtonian then considering power law fluid , we will get this 
+kind of expression  by taking 
+  
+ So, then putting t his into this equation function and in a similar way integrating  putting 
+the values from thi s equation τ, and the torque required we are getting this equation that 
+is 
+  
+k = the flow behavior  index of the power law, n= the consistency index .  
+So, in this way we can  now plot the shear stress and shear rate and the  relation between 
+them  can be found  out and then  calculate the dynamic viscosity . (Refer Slide Time: 24:11)  
+ 
+ Simple Shear Approximation :  
+ small gap between the cylinders compared to the radius  
+ shear stress can be taken as constant  
+we can measure the  shear  rate 
+  
+that is if we are measurin g at a distance R i and the angular  speed is constant that is Ω. 
+R o - R i = the radial distance were  the li quid is .   And 
+  
+And here we can  take the shear stress as  
+  (Refer Slide Time: 26:04)  
+ 
+ Newtonian Approximation :  
+ Shear stress at the inner cylinder  
+      
+  
+ 
+ rearrangement gives Margules equation  
+ 
+ Power La w Approximation : 
+ Shear stress at the inner cylinder  
+ rearrangement gives Margules equation   
+ (Refer Slide Time: 27:24)  
+ 
+So, like this way  we can  get the shear rate versus shear stress  data in case of the 
+rotational viscometer and can measure the viscosity .  
+Cone and plate viscometer  
+So, from the diagram  it can be observed that a cone is there  on a circular  flat plate ; in a 
+way that apex  will be perpendicular on the plate . The  cone is moving with the angular 
+velocity and the gap between the cone and plate w ill be filled by the liquid . 
+So, this kind of arrangement is  very much suitable for the  shear thinning behavior  and 
+the plastic fluid behavior . The gap  is usually very  less the angle w hich it makes the cone 
+make the  angle with the parallel plate  and that a ngle is generally very small θ generally 
+kept lower than 5 °. So, if it is lower than 5 ° then it is considered  that the shear stress 
+and shear  rate in the gap or  the angular space or the space for the fluid will be exposed to 
+the constant shear rate and constant shear stress . 
+So, we can handle the shear thinning fluid and  plastic  fluid here , but then also carefully 
+we have to do this because there is a chance that the shear thinning fluid will come out 
+when we  operate at a higher  shear stress or  shear  rate. So, constant temperature maintenance here is  another problem , because of the plate  geometry and material 
+containing the large  particle cannot be used here , because the  place  available  to put the 
+liquid is very small . 
+(Refer Slide Time: 30:21)  
+ 
+Principle of  determining the  viscosity  
+The cone is rotating with the constant angular velocity  and we measure the shear rate 
+  
+by the amount it moves in the angular  direction that is  if we measure  at a distance  at a 
+radial distance r .  
+So, 
+  
+θ is the angle between the co ne and the plate and if the theta  is very small instead of tan 
+θ, we can take only θ here.   
+Since, here also the torque will not be same in all the places , it will vary from centre 
+where R = 0 to the  R = R the outside  radius or the  whole radius of the  cone ; so 0 to M 
+dM if we indicate the torque . 
+ So, dr a small flui d element here we are considering and the τ which is the shear stress 
+that is being  applied by the fluid to oppose the rotational movement , and it is acting at a 
+distance r .  
+So, then from here we can fin d this expression  for stress   
+ 
+So, then the rheological properties can be determined after selection of the  specific 
+model . So, from the specific model , if we pl ot the shear stress versus shear  rate 
+ we can 
+get a curve from which the viscosit y can be calculated . So, for the  Newtonian fluid  we 
+can get the relation  for shear stress  
+  
+here we can we have put directly the sh ear rate 
+ , tan θ has been reduced  to θ as the angle 
+is very small and if it is for the for the non  Newtonian fluid that is a power law fluid . 
+ 
+(Refer Slide Time: 34:46)  
+ 
+ Parallel Plate Viscometers  
+So, another similar kind of measurement method is the parallel plate vi scometer , here the  
+2 parallel plates are there ; one is a rotating plate which is having a constant rotational 
+movement and the lower plate which is fixed , in between there is  liquid of height  h is 
+kept and the radius is r . So, as the upper  plate is  circula r plate that is rotating , the stress is  
+offered by the liquid whi ch is kept in between . So, here the shear rate is not constant in 
+the fluid  during the  deformation , but changes as a function of distance from the centre . 
+So, again 
+  
+So, again we will integr ate 
+ 
+ 
+. So, τ R that is the shear stress at the  extreme outer radius and this 
+ R is the shear rate 
+there . M is the torque th at is equal  to move the  upper circular plate at to rotate it  at a 
+constant angular speed Ω. 
+(Refer Slide Time: 36:59)  
+ So, this is called the Rabinowitsh Mooney equation . 
+And for a  Newtonian fluid we will just apply the  linear relation between shear stress and 
+shear  rate put it in that equation .  
+ 
+ 
+In non Newtonian field, 
+  
+ 
+(Refer Slide Time: 37:45)  
+ 
+ 
+ 
+  Single -Spindl e Viscometers (Brookfield Viscometer) : 
+In this spindle is rotating continuously in the li quid; spindle size and the speed  can be 
+varied here to  measure it s effect and the spindle selection is done by trial and error  by 
+doing some initial measurement . And v iscosity o f the  Newtonian fluids is used  to 
+calibrate this generall y where  the Newtonian oil is used , and the viscosity of  Newtonian 
+fluid can be measure d very well by this Brookfield  viscometer . The steady state 
+deflection is noted and a conversion chart is provided to est imate the apparent viscosity 
+under  the test condition . So, the determination of the appa rent viscosity at different speed 
+that is different shear  rate can be done , but the shear stress shear rate  data cannot be 
+presented ; so only apparent  viscosity that can be  calculated . 
+(Refer Slide Time: 39:29)  
+ 
+Thank you . 

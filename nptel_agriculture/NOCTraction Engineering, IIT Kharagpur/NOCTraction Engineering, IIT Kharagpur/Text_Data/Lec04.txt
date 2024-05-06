@@ -1,0 +1,213 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultur e and Food  Engineering  
+Indian  Institute  of Technology , Kharagpur  
+Lecture  – 04 
+Tractive  Performance  Parameters  
+Hi everyone.  This is Professor  H. Raheman  from  Agricultural  and Food  Enginee ring 
+Department,  IIT Kharagpur.  I welcome  you all to this NPTEL  online  course  on Traction  
+Engineering.  This is the Lecture  4 where  I will try to cover  different  tractive  performance  
+parameters.   
+(Refer  Slide  Time:  00:47)  
+ 
+So, concept  is slip, motion  resistance  ratio,  net traction  ratio,  gross  traction  ratio,  tractive  
+efficiency,  power  delivery  efficiency.  These  are the parameters  which  are associated  with a 
+tractor  or a track  during  operation  in the field.  So, if you want  to evaluate  the performance  
+then these are the parameters  to be studied.   (Refer  Slide  Time:  01:20)  
+ 
+Under  traction  parameters , there  will be travel  reduction  ratio which  is otherwise  called  slip, 
+the net traction  ratio which  is otherwise  called  coefficient  of traction , then tractive  efficiency,  
+gross  traction  ratio which  is otherwise  called  coefficient  of gross  traction  then motion  
+resistance  ratio which  is called  coefficient  of rolling  resistance.   
+(Refer  Slide  Time:  01:46)  
+ 
+Now,  I will discuss  in detail  how we define  slip, how we define the other  parameters  in order.  
+Now  slip, as you know  everyone  says the wheel  slips. What exactly  is happening  is, the 
+wheel  is not covering  the same  distance  as it is supposed  to cover.  So, if the original  velocity  is Vt that means , original  means  there  is no load applied  to the wheel , simply  we roll the 
+wheel . So that, if we denote  it as Vt. 
+And when  you apply  load, because  of the interaction  with the soil and tyre, there  will be 
+slippage  of wheel.  So, wheel  will not cover  the same  distance , so it will cover  lesser  distance , 
+so speed  is reduced  so that we denote  as Va. So, that difference  is expressed  with respect  to Vt 
+and that is expressed  as percentage.  Now,  this is very simply  I have  written  
+ 
+Actua lly, what  happens , if we are moving  a tractor  or if you are moving  a wheel , single  wheel  
+at angular  speed  of ω; ω is the angular  speed  and V is the forward  speed , ω is the angular  
+speed  and V is the actual  speed.  So, in one second,  so the distance  covered  in one second  will 
+be 
+ 
+So, this is the basic . So, when  there  is load,  when  there  is no load, so these  two will be 
+different.   
+Now  slip, I can define  as in the other  way  
+ 
+So, 2ᴨ/2ᴨ, if I cancel  out, so  
+ 
+So, when  angular  speed  remain s same  then this is same  as slip which  is defined  earlier.  So, in 
+this equation , the main  important  thing  is, we should  confirm  that ω is remaining  constant . 
+So, that is the important  thing.   
+And the slip, generally  we consider  at zero condition;  zero condition  means , zero condition  
+refers  to self-propel led condition . So that becomes  a zero slip and slip is occurring  because  of 
+tyre flexing,  because  of improper  interaction  between  the tyre and the soil, because  of these tyres  sticking,  because  of the shearing  within  the soil. So, these  are the factors  which will try 
+to influence  slip, more  the pull more  will be  the slip. 
+The best concept  is, without  slipping , a tractor  cannot  develop  tractive  force.  So, slip has to 
+be there.  Now , question  arises  how much  slip?  So, that depends  again  on the soil condition,  
+again  on the type of tyre. So, roughly  we say,  within  20 percent  is the allowable  slip where  
+you can get maximum  tractive  effort.   (Refer  Slide  Time:  06:49)  
+ 
+Next  is, we will discuss  the other  performance  parameters , motion  resistance  ratio or in other  
+words we call it coefficient  of rolling  resistance.  So, if you look at this figure , this is the 
+pneumatic  tyre operating  on a soft soil, this one and this is the pneumatic  tyre which  is 
+operated  on a hard surface.  What  is the difference ? If you look at, the tyre is deflected . In a 
+soft soil, tyre has sunk , there  is deflection as well as the tyre has sunk  that means it has 
+entered  the soil. 
+Whereas  in case of hard soil, the tyre is only deflected.  So, the rolling  resistance  in both the 
+cases  are not same . In a soft soil, since  tyre has sunk  into the soil, so rolling  resistance  for the 
+same  operating  condition  will be little higher , whereas  in case of a hard surface , since  tyre 
+has not sunk  only it has been  flattened  so the rolling  resistance  will be little lesser  than the 
+rolling  resistance  which  is experienced  in soft soil.  
+So, from  this discussion , what  you can conclude  is, yes, rolling  resistance  which  is nothing,  
+but sum of the forces  acting  opposite  to the direction  of motion.  If you look at this figure, you 
+can see the R has been  indicated  opposite  to the direction  of travel . This is the direction  of 
+travel  and the R has been  indicated  opposite  to that. So, this R depends  on certain  factors  like 
+what  will be the tyre flexing, how much  is the sinkage,  how much  is the bulldozing  and how 
+much  soil is adhere d to the tractor  tyre.  
+So, we define  rolling  resistance  divided  by ‘W’ as coefficient  of rolling  resistance  that means  
+we measure  rolling  resistance  then divide  by W. W is the weight  coming  on the wheel . That 
+becomes  coefficient  of rolling  resistance.   (Refer  Slide  Time:  09:24)  
+ 
+Now,  the other  parameter  is net traction  ratio or in other  words  we call it coefficient  of 
+traction  which  is nothing  but the pull which  is developed  divided  by weigh t. But weig ht here, 
+I have  indicated  as Wd; Wd means  dynamic  weight.  The tractor  which  I have  indicated  in the 
+right  side and this is the single  wheel.  In case of a single  wheel , we can take Wd as equal  to 
+W itself.  But in case of a tractor,  we cannot  take W which is the weight  of the tractor  in the 
+denominator.  The reason  is, if it is a two-wheel  drive  tractor  there  will be distribution  of 
+weight;  distribution  of weight  to the front  axle there  will be weight  distributed  to the rear 
+axle.  So, if total weight  is W, then we can divide  it. So, W is divided  in front  axle plus rear 
+axle, capital  R. So, but in case of a single wheel  it is the same  weight . 
+Whereas  in case of a two-wheel  drive  tractor , only the rear wheels  are powered  wheel.  So, we 
+are not concerned  about  the front  wheel . The net traction  ratio will be related  to the rear 
+wheels.  So, in rear wheels  what  happens , when  we try to pull certain  implement , there  will be 
+weight  transfer  from  the front  wheel  to the rear wheel.  There  will be weight  transfer  from  the 
+implement  side to the rear wheel.   
+So, that means , in a static  condition  when  there  is no implement  attached  then the weight  
+distribution  that means  the weight  coming  in the rear axle is Wr. In the dynamic  condition  
+that Wr does not remain  as Wr, some  additio nal weight  is coming  from  the front  wheel  side, 
+coming  from  the implement  side. So, the  
+ So, while  calculating  the coefficient  of traction , you have  to divide the pull which  is 
+developed  with this dynamic  weight , not the static  weight  which  I have  written  as Wr. So, 
+that is the difference  for net traction  ratio in case of a single  wheel  and in case of a tractor.   
+(Refer  Slide  Time:  12:30)  
+ 
+Now  coming  to gross traction  ratio, this is the total tractive  force  or thrust  which  is developed  
+at the interface  of soil and wheel  divided  by the weight.  It is in the same  way, weight  means , 
+if it is a single  wheel  then we simply  divide  it by weight , if T is the thrust  which  is developed  
+then thrust  divided  by weight.  If it is a single  wheel  whatever  weight  is coming  on the wheel , 
+I can directly  take as W.  
+But again , if you look at the tractor  rear wheel , when  it is used for pulling  and implement  
+during  that time there  will be weight transfer  from  the front,  there  will be weight  transfer  
+from  the implement  side to the rear axle.  So, what  will happen , the initial  distribution  which  
+is denoted  as Wf and Wr that will no longer  remain  as Wf and Wr. So, Wf will be reduced , that 
+is the weight  coming  on the front  axle will be reduced.  
+Weight  coming on the rear axle will be increased  because  of the weight  transfer  from  the 
+implement  side, because  of the weight  transfer  from  the front  axle.  So, the new weight  which  
+I denote  as Wr, better we can write  Wdr. So, for a tractor , we can define  the coefficient  of 
+gross traction   
+ 
+ and we know  that thrust  is equal  to your pull and the rolling  resistance.   
+So, that means  pull plus rolling  resistance  will be equal  to thrust.  Now,  if I divide  W 
+throughout  the equation ,  
+ 
+ 
+This W is the dynamic  weight  if we are talking  about  tractor.  So, then this ratio is called  
+coefficient  of gross  traction . This is GTR  which  is equal  to 
+ 
+ 
+ 
+P/Wd nothing  but COT , coefficient  of traction  or coefficient  of net traction  then, R/W d which  
+is nothing  but coefficient  of rolling  resistance.   
+So, in other  words  I can say, GTR  will be equal  to coefficient  of net traction  NTR  or we can 
+say COT  plus coefficient  of rolling  resistance.  So, here one thing  I have  to take into 
+consideration  that ‘W’ should  be dynamic  weight . It is not the static  weight  whereas  in case 
+of the single  wheel  we can do in the same  way. But here, it will be simply  the W. There is no 
+weight  transfer  in case of a single  wheel.  So, we can take these  as  
+ 
+This W is not the dynamic  weight.  Here , the dynamic  and static  weight  they remain  same.   
+(Refer  Slide  Time:  16:30)   
+Next  is tractive  efficiency . This is a very important  parame ter while  evaluating  the 
+performance  of a tyre or a tractor.  So, as the name  implies  tractive  efficiency.  So, efficiency  
+means  there  will be some  output,  there  will be some  input.  So, output  by input  is your 
+efficiency.  Now,  what  is tractive  efficiency?  It is the drawbar  power  divided  by the axle 
+power  and it is expressed  in percentage.   
+So, in other  words  we can say, the tractive  efficiency  indicates  how much  of the axle power  is 
+being  utilized  as drawbar  power.  So, what  is drawbar  power ? If somebody  is interested  to 
+find out what  is drawbar  power , it is the power  available  at the drawbar.  So, power  available  
+at the drawbar  will be equal  to power  available  or the drawbar  this will be equal  to  
+ 
+Va is the actual  velocity.   
+So, this becomes  your powe r available  at the drawbar.  Now,  what  is axle power?  Input  axle 
+torque , it is denoted  as T. 
+ 
+omega  is the angular  speed.  So, I can write  this expression   
+ 
+So, this input  torque , I can write  as thrust into rolling  radius.  Now,  if I substitute  here, so  
+ 
+ T is nothing,  but your  
+ 
+Suppose  I denote  it as  
+ 
+So, this ωr is nothing,  but your theoretical  speed . If omega  is the angular  speed , multiply ing 
+the rolling  radius  that will give you theoretical  speed.  So,  
+ 
+Vt is theoretical speed . So, I can write  in other  words ,  
+ 
+because  earlier  we have  defined   
+ 
+So, now I am substituting  in this equation  so that gives  you P by thrust .  
+ 
+Further,  if I want  to express  in terms  of coefficient  of traction  or in terms  of coefficient  of 
+gross  traction  then what  I can do is, I just simply   
+ 
+This W is dynamic  weight  in case of tractor,  in case of single  wheel  it is the same  weight . So, 
+this P/W, we have  already  defined  as coefficient  of traction  which  is COT , then Thrust/ W, 
+which  I have  defined  as coefficient  of gross  traction  CGT , ‘×(1-s)’.  
+So, tractive  efficiency  is the ratio of  
+  
+That means , it takes  care of pull, it takes  care of the thrust.  It takes  care of the slip which  is 
+associated  while  developing  thrust.  So, this is a composite  parameter . We can call which  
+takes  into account  the different  other  parameters  which  are associated.   
+Next  is one more  performance  parameter  I am going  to define , which  is called  power  delivery  
+efficiency . It is again  efficiency.  So, that means output  by input,  but here I will take the 
+output  as drawbar  power,  but input  will be no more  limited  to axle.  It will be extended  to 
+engine.  (Refer  Slide  Time:  21:21)  
+ 
+Power  delivery  efficiency , which  is defined  as the ratio of drawbar  power  to engine power.  
+Now,   
+ 
+So, I just multiply  in the numerator  and denominator , axle power  by axle power.  So, if I take  
+ 
+So, the first ratio drawbar  by axle power  is nothing,  but your tractive  efficiency.  And the axle 
+power , engine  power  will take care of the transmission  efficiency.  So, it is a product  of two 
+efficiencies ; out of this engine  power  how much  power  is converted  to drawbar  power  that 
+can be determined  by utilizing  this parameter.  So, the tractive  efficiency  is a component  of 
+this power  delivery  efficiency  whereas  power  delivery  efficiency  gives  you the overall  
+efficiency.  
+If engine  power  is say ‘x’, out of that x, how much  power  is converted  to drawbar  power . So, 
+that is the way by which  you can calculate  power  delivery  efficiency.  There  are details  of 
+variation  of this power  delivery  efficiency,  tractive  efficiency  and coefficient  of traction,  
+coefficient  of gross  traction  and coefficient  of rolling  resistance,  variation  of these  parameters  
+with slip, we will be discussing  in the coming  lecture.   
+So, in brief  what  I can say, we have  discussed  different  performance  parameters  which  are 
+associated  in evaluating  the performance  of a single  wheel  or in a tractor.  So, if you are utilizing  these parameters  to evaluate  performance  for tractor , then we have  to be very careful  
+in the sense , we have  to always  go for taking  the dynamic  weight.  If you by mistake  take the 
+original  weight  that means without  weight  transf er, then all your calculations  will be wrongly  
+interpreted.   
+So, the two difference s you should  take into consideration ; one is how much  weight  is 
+transferred  and that should  be reflected  in your coefficient  of traction  or coefficient  of gross  
+traction  or coefficient  of rolling  resistance.   
+(Refer  Slide  Time:  24:17)   
+ 
+So, in brief , in this lecture , I attempted  to describe  the different  tractive  performance  
+parameters  which  are useful  in evaluati ng the performance  of a tractor.  
+(Refer  Slide  Time:  24:30)    
+Then, these  are the books  which  you can refer  where  you can get some  more  information  how 
+to calculate  those  things  and that will give you a better  idea about  this tractive  performance  
+parameter.  Thank  you. 

@@ -1,0 +1,234 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  17  
+Tractive  Effort  and Slip of a Pneumatic  Wheel  
+Hi everyone,  this is professor  H. Raheman  from  Agricultural  and Food Engineering  
+Department,  IIT Kharagpur , I welcome  you all to this NPTEL  online  certification  course  on 
+Traction  Engineering.  This is lecture  17, where  I will try to cover  how to find out tractive  
+effort  and slip of a pneumatic  wheel , when  I said it is a pneumatic  wheel.   
+(Refer  Slide  Time:  0:53) 
+ 
+So, the obvious  questions  will come  to our mind  is, whether  it is operated  in rigid  mode  or 
+whether  it is operated  in elastic  mode . So, now,  the concepts  which  will be covered  will be 
+tractive  effort  and shear displacement . As you know  that tractive  effort  is related  to shear  
+displacement  hence,  we will cover  these  two concepts  with respect  to pneumatic  wheel.   (Refer  Slide  Time:  1:25) 
+ 
+Now,  if we look at these  two wheels,  both are pneumatic  wheels , but one is written  as rigid  
+mode , the other  one is written  as elastic  mode . The difference  is when  the pressure  due to 
+carcass  stiffness  and pressure  due to inflation  of air or the air inflation  pressure  when  the 
+summation  is greater  than the pressure  which  the terrain  can support  at the lowest  point  of the 
+tyre circumference  then the tyre will remain  like a rigid  wheel. I t will remain  round  like a 
+rigid  wheel . So, that means,  this will behave  like a solid  towed  wheel  or solid  powered  wheel .  
+Now , when  the wheel  is powered,  it becomes  powered  wheel.  So, now,  our discussion  will be 
+confined  to powered  wheel  as we are interested  in finding  out tractive  effort.  Now,  the second  
+option  is elastic  mode.  Again,  the inflation  pressure  and the pressure  due to carcass  stiffn ess, 
+if it is less than the pressure  the terrain  can support , then the tyre will be flatten ed at the 
+contact  point . So, this condition  is called  elastic  mode . So, these  are the two conditions  which  
+are shown  in the right  corner  one is rigid,  where  the circumference  of the tyre is perfectly  
+round.  Whereas,  in the second  case,  it is not round  rather  it is flattened  at certain  portion .  
+So, if it is in rigid  mode,  how to find out the tractive  effort,  if it is in the elastic  mode,  how to 
+find out the tractive  effort that we will discuss  separately.   (Refer  Slide  Time:  3:19) 
+ 
+Now,  when  it is in rigid  mode as I said this will be equivalent  to a power ed rigid  wheel  and 
+for power ed rigid  wheel  the main  thing  is tractive  effort  which  we have  already  derived . So, 
+we will follow  the same  procedure . So, when  we talk about  tractive  effort  that means,  what  is 
+the shear  stress  which  is developed ? And shear  stress  is a function  of shear  displacement , 
+where  it is developed ? It is developed  at the contact  patch  where  the wheel is in contact  with 
+the soil. So, this is the face where  the shear  stress  will be developed.   
+Now,  to find out shear  stress,  we should  know  what  is the shear  displacement ? And to know  
+the shear  displacement , we need  to know  what  is the slip velocity ? So, these  are all 
+interlinked . So, what  is slip velocity ? Slip velocity  is the difference  between  the theoretical  
+speed  Vt and the actual  speed  V. So, if you consider  a point  here as A, then at that point,  the 
+theoretical  speed  will be Vt = ωr, if r is the rolling radius  ω is the angular  speed,  then Vt = ωr 
+and the actual  velocity  is V.  
+Now,  if you take a tangential  component  here at the point  A parallel  to Vt then V will be, the 
+component  will be Vcosθ, because you have  considered  the point  A at an angle  theta. So,  
+ 
+So, you have  to analyze  this slip velocity  how it is varying  or from  there,  we will find out 
+what  is the corresponding  shear  displacement  and then try to correlate  the shear  stress  with 
+shear  displacement.  Now,  for finding  out the shear displace ment  from  the slip velocity,  we 
+know  that shear  displacement  will be equal  to x × Vj.  So, if I take this one  
+ 
+I take Vt common  then it becomes , 
+ 
+V/Vt is nothing  but slip i. So, indirectly  I can write  that 
+ 
+Vt = ωr. So, 
+ 
+ Now , this is at the point  A. Now , if you want to find out throughout  the contact  surface  or 
+from  the contact  surface  from  A to the point  where  the wheel  is just entering  the soil, if you 
+denote  it as B then this has to be integrated,  okay. T his has to be integrated  from  θ to θ0.  
+So, by doing that we will finally  develop  equation  for shear  displacement , 
+ 
+That means,  displacement  is a function  of the entry  angle  θ0 which  is denoted  here. Which is 
+shown  in this figure  and θ0 is called  the entry  angle and θ the point  where  we are interested . 
+Now , once  we know the  shear  displacement  next thing  is how to correlate  this shear  
+displacement  with shear  stress ?  
+(Refer  Slide  Time:  7:11)  
+So, in nature what  we have  observed  is there  are three  different  categories  of relationship  
+available  are found . One is related  to loose  soil, the other  one loose  soil or saturated  clay and 
+in disturbed  soil and the other  one is in organic  terrain,  then the third  one is in compact  sand 
+silt and loam. So, these  are the three relationships  which  we have  discussed  earlier  and the 
+relationship  in these  three  conditions  like loose  sand, saturated  clay,  
+ 
+Where, τ is shear stress and τmax is maximu m shear stress. The maximum  shear  stress  is 
+described  as 
+ 
+It is a function  of cohesion . It is a function  of angle  of internal  friction  of soil and the normal  
+stress  which  is prevailing . So,  
+ 
+Now,  in case of organic  terrain , 
+ 
+So, this Kw is nothing  but the shear  displacement  where  the maximum  shear  stress  occurs  and 
+the third  relationship  is,  
+So, these  are the three relationship s available . So, now,  depen ding on our soil condition  we 
+have  to select  one relation ship. Then once  you select  the relationship , next is how to find out 
+shear  stress ? 
+(Refer  Slide  Time:  9:05) 
+ 
+So, shear  stress  which  will be developed  at the curved  portion  will be equal  to τ. I have 
+indicat ed as τ(θ) here. Because , from  which  angle  we are going  to what  is the distribution  of 
+shear  stress  that is important . So,  
+ 
+Now,  again  I replaced  tau max. I have  taken  this for the loose  sand or the saturated  clay.  
+So, c+σtanϕ. Again σ, ϕ, I have  taken  as σ(θ), knowing  we have  to know  the pressure  
+distribution , whether  it is constant  or it is varying.  So, all those  factors  will come  into picture.  
+Now,  I replaced  that displacement  with the equation , 
+ 
+So, this will be the final expression  for shear  stress . But shear  stress  is not important  what  we 
+are interested  is to find out the shear  force .  
+So, in a solid  wheel  or rigid  wheel , shear  force  will be equal  to. So, these  are the shear  stress.  
+Now , I find out this shear  force  here.  So, we have to multiply  the area. So, areas  we have  considered  a point  A so area of that elemental  area, dA will be equal  to if b is the width  of the 
+wheel , dA = b ×rdθ. 
+Now,  this has to be integrated . So, τ×dA will give you thrust  force . So, r×bτθdθ, this will give 
+the shear  force . But we are not interested  about  the shear force,  we are interested  in finding  
+out the thrust  which  is the horizontal  component  of shear  stress, shear  force  which  is 
+developed  at the contact  patch .  
+So, this is your F, this is your shear  force . So, horizontal  component  will be Fcosθ, sorry Fc = 
+Fcosθ. So, this has to be multiplied  rbτθ.dθ. So, this has to be integrated  from  theta  to theta  0 
+depending  on in which  area you are interested  to find out the thrust  force . So, this will be the 
+expression  for finding  out thrust  in case of pneumatic  wheel  when  it is behaving  like a rigid  
+wheel  that means,  it is moving  in a rigid  mode .  
+(Refer  Slide  Time:  12:23 ) 
+  
+ 
+Now the other mode is elastic mode.  So, let us see now,  what  happens  to the elastic  mode if 
+part of the wheel  will be flatten ed and another  component  will, which  will be curved  one. 
+That means,  we have  to consider  the shear  displacement  along  the flat portion , we have  to 
+consider  the shear  displacement  and the curved  portion . So, I have  differentiated  or 
+demar cated, you can say the flat portion  as AB and the curved  portion  as BC. Now,  to find 
+out the shear  displacement  or shear  stress  on the flat portion , we need  to know  what  is the 
+shear  displacement  in the flat portion?   
+And similarly,  for finding  out the shear  stress  on the curved  portion , we have  to find out what 
+is the shear  displace ment  in the curved  portion . So, if at B the total shear  displacement  is 
+denoted  as jB and which  is denoted  a jB. And at a point  suppose  x, starting  from  point B. So, if we are interested  in finding  out what  is the displacement  at this point ? Then I have  denoted  
+that as ∆j, ∆j.  
+So, total displacement  up to point  x will be jB+∆ j. So, this jx is nothing  but the cumulative  
+shear  displacement  at a distance  x from  the point  B. Now,  we will consider  two things  one is 
+the curved  portion  the other one is the flat portion . Let us now see how do we develop  this 
+shear  stress  in curved  or flat portion?  
+(Refer  Slide  Time:  14:11 )  
+ 
+ 
+Let us come  to the flat portion . So, basically,  we want  to find out the slip velocity . If the track  
+is moving  at a velocity actual  velocity  V and Vt is the theoretical  speed  of the track . Then  Vt-
+V will give you, the speed  of slip of the track  if which  is denoted  as Vj. If this direction  is opposite  to the direction  of forward  movement , then it is positive  and then it is called  slip. If 
+it is opposite  to the theoretical  the actual  speed  or direction  of travel  then it take as skid .  
+So, here the theoretical  speed  is nothing but ωr, where  ω is the angular  speed  of the sprocket 
+or the driver  which  is drivin g the track  and r is the rolling  radius  of that driver.  Now,  shear  
+displacement  which  is denoted  as jx at a point  located  at a distance  x from  the frontal  area of 
+the contact  area, frontal  portion  of the contact  area. So, that becomes , if you know  the slip 
+velocity  times  t, then that will give you what  is the shear displacement  during  that time. So, 
+Vj× t and t = x/Vt.  
+So, t is the duration  for which  the track  is in contact  with the soil, the link is in contact  with 
+the soil. So, now 
+ 
+ 
+ 
+So, it is basically  slip into the distance  from  the front  end of the track . Now,  if you are in. So, 
+that means,  the flat portion  will behave  like a track  and the shear  displacement  will be 
+calculated  or computed  as we have  followed  for computing  the shear  displacement  in case of 
+a track .  
+So, in a pneumatic  wheel,  we will consider  that shear  displacement  in this flat portion  would  
+be equal  to i×x. Now , the total lengt h, if we denote  as L which  is the contact  length . So, if 
+this is the contact  length  then total displacement  will be i×L. If you are interested  up to this 
+point,  then the distance  you have  to know . So, at x, it is written  as ‘ix’ and we have  already  
+known that the displacement  at point  B because  of the curved  portion , this is the 
+displacement .  
+So, the total displacement  will be again  summation  of jB+iL. Now,  next thing  is, only shear  
+displacement  will not help you, we have  to find out what  is the shear  stress  which  is 
+prevailing  under  the flat portion  as well as on the curved  portion ? (Refer  Slide  Time:  17:36 ) 
+ 
+So, for the curved  portion, again  we have  to find out what  kind of soil is there ? If it is a loose  
+soil, if it is a organic  terrain  or if it is a compact  sand then we have  three  different  kinds  of 
+relationship  available . So, based  on that, we have  to find out the relationship  between  shear  
+stress  and shear  displacement . So, in this case,  I have  taken  the loose  sand where , 
+ 
+displacement  on the curved  portion  divided  by K, shear  deformation  modulus  K.  
+Now,  if you know  the normal  distribution  then τmax I can write  as c+σtanϕ or, 
+ 
+So, θ0 is entry  angle , this is your θ0 and θ is here. T hat means  corre sponding  to point  B, the 
+angle  is θ from  the vertical  and corresponding  to point  C, the angle  is θ0. So, now the 
+displacement  I have  replaced , jB I have  replaced  with 
+ 
+So, this will be the expression  for shear  stress .  
+Now , next thing  is what  is the shear  force  which  is acting ? So, shear  force  will be again  
+acting  tangent  to the surface , the contact  surface , suppose  at point  p. Now , the shear  force  
+will be equal  to whatever  shear  stress  we develop ed multiply  with the area. Area will be 
+equal  to rb.dθ. So, this has to be integrated  from  θ to θ0, from  θ to θ0. So, that will give you the value  of shear  force  and the cos component  of that will be taken  to find out the tractive  
+effort . So, tractive  effort  will be this rb×τ×θ×cosθ.dθ. This has to be integrated  from  θ to θ0.  
+So, that will finally  give you what  is the tractive  effort . That means,  now you have  find out 
+tractive  effort  at this point  because  of the curved  portion.  Again , for the flat portion , we have  
+to find out the suitable  relationship  if it is a loose  sand then again  we take 
+ 
+If you are interested  to find out shear  stress  up to the point  x from  the front  end of the flat 
+portion , then I replace  τmax with c+σ(θ)tanϕ and 
+ 
+So, I have  replaced  this jx with ix. Now,  since  we are interested  for the total length,  so, that 
+means,  this will be equal  to 
+ 
+ So, this will be equa l to this, instead  of x you can take l. Now , the thrust  force  develop ed will  
+be, this has to be integrated  from  this point  to the endpoint  that means  from  point  B to the 
+point  A. So, I have  multiplied  the area with the shear  force . So, that means  b×dx the area that 
+has to be integrated  from  0 to l. So, this will give you thrust  force  for the flat portion .  
+So, now,  the total thrust  force  will be the sum of the thrust  force  which  is developed  in the 
+curved  portion , sum of the thrust , the thrust  force  which is develop ed at the flat portion.  So, 
+this is the final expression . So, that means,  up to this point  we are considering . So, from  here 
+to here, then from C to B and B to A. So, finally,  the total thrust force  will be rb×τ(θ)cosθ.dθ. 
+This is to be integrated  from  theta  to θ0 plus b× into 0 to lτθdx. This is the final expression .  
+So, what do we come  to know  that the important  thing  in case of a pneumatic  wheel  is what  is 
+the mode  of operation ? Once  you decide  the mode  of operation  based  on what  is the pressure  
+which  is exerted  on the ground  and the pressure  the ground  can sustain ? Then we decide , 
+what  is the mode  of operation  whether  it is in rigid  mode or whether  it is in elastic  mode . So, 
+once  it is decided,  then it becomes  easier  for us to find out the thrust  force  which  is 
+developed . So, the procedure  is first, if it is a rigid mode  than first find out, because  the soil 
+will behave  like a rigid  wheel  without  any deflection,  then we have  to follow  the same  
+procedure  what  we followed  for rigid  wheel .  So, you have  to find out the shear  stress -shear  displacement  relationship . So, before  that we 
+have  to find out the shear  displacement , taking  slip velocity  and from  there , once  you find out 
+the shear  displacement  then we have  to select  a suitable  relationship  depending  on which  soil 
+conditions  the wheel  is operated.  Now,  after getting  the suitable  relationship,  then we find out 
+the shear  stress  which  is developed  and then the shear  stress  has to be multiplied  with the 
+contact  area knowing  the width  and radius , we can find out the contact  area and this has to be 
+integrated  for the portion  which is inside  the soil. So, that you can find out the thrust  force .  
+If it is in elastic  mode , then there will be two sections. T wo sections  in the sense , we have  to 
+find out for two sections,  one is the curved  section  the other  one is the flat section . And the 
+curved  section  will follow  the same  way as you followed  for the rigid  wheel . And flat portion  
+we will follow  the procedure  which  we followed  for finding  out the shear  displacement  in a 
+track .  
+Basically,  it is linearly  related , the shear  displacement  is linearly  related  to slip value  and the 
+distance  from  the front  end of the track . So, once  it is decided  the next thing  is what  is the 
+shear  stress  shear  displacement  relationship . Now,  taking  both shear  stress -shear  
+displacement  relationships  we find out what  is the shear  stress . And then it has to be 
+multiplied  the area to find out the shear  force . So, in the curved  portion , the shear  force  is 
+acting  at an angle . So, the cos component  that means  horizontal  component  has to be found  
+out and then this has to be added  with the flat portion  to finally  get the total tractive  force  
+which  is developed  by a pneumatic  wheel  in elastic  mode .  
+So, we need  to know  the relationship . The important  things  are we need  to know  the 
+relationship  and the pressure  distributi on beneath  the curved  portion  or beneath  the flat 
+portion , then only it will be in a position  to carry out this integration.   
+(Refer  Slide  Time:  25:53 )  
+I hope  I have  clarified  and I have  made  an attempt  to clarify  all these  things  and you will be 
+in a position  to derive  equations  for predicting  shear  displacement  and from  there  we can find 
+out what  is the tractive  effort  of a pneumatic  wheel . Thank  you. 

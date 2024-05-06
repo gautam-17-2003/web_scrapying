@@ -1,0 +1,298 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 37 
+Size Reduction (contd.)  
+ 
+Hello everyone, welcome to the NPTEL online certification course on  Fundamentals of 
+Food Process Engineering. We will continue today with the topic of Size Reduction , and 
+we have started this in our last class.  
+(Refer Slide Time: 00:34)  
+ 
+We have discussed about the introduction related to the requirement of size re duction , 
+objective of size reduction in the  food processing and industrial scale o f food processing 
+operation.  We have also learn that how to define a single particle in a in a mixture of a 
+bulk so lid, what are the different  equivalent diameter by that we can express the particles  
+in a bulk mixture  and also we have  learn this concept that there is a need to identify the 
+distribution of particles in the bulk solid mixture, because not a single size is available  
+mostly in case of this .  
+So, there is a distribution of different size  is available most of the time a nd we need to 
+find that the predominant size fraction in that mixture. So,  we will today discuss in detail 
+the particle size d istribution, and also other topics  in this particular  chapter that will  
+cover with due course of time.  (Refer Slide Time: 02:06)  
+ 
+Now , we will start  particle size distribution today . In the last class if you remember that 
+there are different kinds  of equivalent diameter that  we have expressed  that is based on 
+the sieve size opening through which the particular diameter of the  particle  pass or  
+equivalent diameter particle should pass, or we have seen the based on the settling 
+velocity, or based on the size fraction we can we can differentiate . 
+So, there are many methods  to find the  different particle sizes  or distribution of particl e 
+sizes. The very common one is the microscopic  analysis by which the different sizes can 
+be easily separated. There are other methods one is elutriation , settling or sedimentation  
+and there is laser  diffraction  based on that also we define the equivale nt diameter.  The 
+most common one and easiest one is the  sieve analysis . 
+In the sieve analysis also there are many  standard sieves are available  one of which is the  
+Taylor series which is the US standard based and in that  if we considered the distribution 
+based on the sieve analysis. What we do is; we keep the product on the perforated 
+screens or sieves and then  there are certain sequence of steps are there that we put a stack 
+of the sieves and then we vibrate it for a certain amount of tim e. 
+So, what will happen that the particle sizes which is lower than the  equivalent diameter 
+of the perforation will come down to the  next lower fraction of the sieve, and which is 
+the bigger one will retain on the upper s ieve.  Now , in most of the time  100 % efficiency may not be reached . So, some  fraction of the 
+particle may retain on the  sieves on the upper sieves and some will pass through. So, 
+those will retain on the sieves may have fraction of  the particle which is having the size 
+lower than the opening of the screen, but even though they will not pass through the 
+screen . So, the efficiency of the screening is defined as th e ratio of the mass of material  
+which passes the scr een to that w hich is capable of pass ing. This is an important 
+parameter in you know understanding t he particle size distribution . 
+So, efficiency is based on the size of the material , what will be the size fraction  based on 
+that the efficiency is defined. It may be assume that the rate of passage of the particle of 
+a given size to the screen is proportio nal to the number or mass of the particle size on the 
+screen at any instant . So, this is important because this will form our basis of analys ing 
+the different particle size . 
+So, if we want to  express this  in terms of a mathematical expression let us consider that 
+‘w’ is the mass of particle  mass of a p articular  size. On the screen at any time ‘t’ then we  
+can write : 
+ dw/dt = -kw 
+‘w’ is the mass retained on a sieve on a part icular sieve at any instant.  Since  this will 
+reduce with  time we have kept a minus sign here.  ‘k’ is the constant for a given si ze and 
+shape of the particle  for a given screen. So, this is how the rate of  passage of a particle 
+we can define . (Refer Slide Time: 07:35)  
+ 
+So, then  mass of a particle  if we consi dered in this session that is w 1 is the mass retained 
+on a particular size of  screen or sieve  at an instant when t  =0. After  time‘t’  if the mass is 
+a reduced to w 2. So, the mass which is already passed through will b e w 1- w2, which is 
+passing the screen at any time . So, if this is happen, then we can write  
+ln (w2/w1) = -kt 
+So that means, it is exponentially reducing the number of the mass fraction of the m ass 
+of the material on a particular sieves  is reducing in a fashion of exponential  decay curve 
+on a particular size of the  screen . 
+So, w 2 that is remaining at any time will be : 
+w2 = w 1×e-kt 
+ ‘k’ will depend on a particular size of th e sieve and the material.  Now, quantitative 
+indicatio n of the mean size is important  and quantitative integration  is a in the sense that 
+what are the different fraction and what is the mean size I mean the size which is 
+dominating a fraction. So, we need to define  the mixture in terms of that particular size 
+and the result of a size analysis can most conveniently be represented by means of 
+cumulative mass fraction . So, cumulative mass fraction curve  in which the proportion of 
+the particle ‘x’ smaller than a  size‘d’  is plotted against the size ‘d’. So, this is cumulative 
+mass fraction x is showing the cumulative mass fraction . So, if we considered that at any instant the ‘x’ fraction which is smaller than t he size ‘d’. 
+So, as we move from zero  to th e higher size if any instant we reach. So, the fraction 
+which is the left  side of that will indicate that the size smaller than that particular size 
+‘d’. So, here  this representation is a result of the sieve analysis which is cumulative one . 
+So, we have adde d the fraction which is larger than this particular size ‘d’, so then 
+further we can say that.  
+(Refer Slide Time: 10:41)  
+ 
+If we take the size frequency curve , size frequency curve in the sense the fractio n of 
+having a particular size d d. So, if we take the size fr equency curve and then plot with 
+respect to the size d so this  is a curve. The slope  dx/dd of cumulative fraction  plotted 
+against  particular size ‘d’. So, the slope of that curv e when we have plotted with respect 
+to the particular size we are getting this curve which is called the size frequency curve . 
+So, there are many benefit of this curve , this can tell us many thing that  one is the mos t 
+frequently occurring size is then  can be shown by the maximum of this curve . So, the 
+fraction we are getting at maximum poin ts here the frequency is higher  that means, the 
+particle size of this particular fraction will be higher  mass fraction in the who le 
+distribution . 
+So, for naturally occurring material that curve will generally have a single peak and for 
+mixture of the particle there may be as many peaks  as components in the mixture. So, 
+what happened that when there are different  mixtures or different compositions are there . So, those have different size fraction so it may happen that in one lot one particular size 
+is having dominated. So, we may get  different or more than one  peak in the frequency 
+curve size . 
+Now, if the particles are formed by crushing larger  particles. The curve may have two  
+peaks one is the  characteristic of the material  because the material has a certain 
+orientation and upon getting a  similar kind of food they have a tende ncy to break  in a 
+definite size . So, other is the characteristic of the equipment; so the way the force is 
+coming it will have a tendency to make the particle in a definite kind of shape. So, 
+because of these two  you have we may get to definite high frequency  plot in th is 
+frequency curve.  
+(Refer Slide Time: 13:30)  
+ 
+Now, mean particle size so , now we need to express one particular size to express the lot 
+of a distributed  bulk particulate solid material  and this expression of the part icle size of a 
+powder or granular  material, in terms of a single linear dimension is often required . 
+So, considering that because we have taken the single linear dimension is equivalent 
+diameter most of the time . So, considering all particles are of same s ize unit m ass of 
+particle consisting of ‘n1’ particl e of c haracteristic dimension ‘d1’. Similarly ‘n2’ particle 
+of size ‘d2’ constituting a mass fraction ‘x1’. So on is the basis of determining the  
+particular size, be cause we will assume that the each fraction will have which is passed 
+throug h letters a particular sieve . so that means, those having  lesser size than this particular opening of the screen. So, similarly a particular size  linear dimension has been 
+fixed wh ich is dimension d 1, d2 etc. For each section x 1, x2 etc and the number of  those 
+particle also is define as n 1, n2 like that . 
+So, the n we can express that suppose x 1 that one fraction now we want to expres s which 
+is having the size of d 1.  
+x1= n1k1d13ρs  
+So, when we want to express in terms in terms of the volume. So, linear dimension cube 
+we need to express . So, k1d13 is defining the volume of one  particular material . Now 
+n1k1d13ρs will give mass fraction of the particle  in that. Now , suppose if we do  all 
+summation I mean ∑x1. So, ∑x1 =1.  
+∑x1 =1=ρsk1∑n1d13 
+‘ρsk1’ is the constant parameter which is based on the particular  sieve and the material.  
+If you want to  calculate ‘n1’from this equation for a  particle of d 1 dimension in the 
+fraction x 1 will be : 
+n1=x1
+k1ρsd13 
+ Refer Slide Time: 17:21)  
+  So, now if the size distribution can be represented by a continuous function, then  instead 
+of ‘x’ now we write ‘dx’. So, ‘dx’ is the continuous fraction if we take very very small 
+amount of  increment in that. So, ‘ds’ fraction because of the ‘dn’ number of  particle. If 
+that fraction increased by ‘ds’ amount so, that is because of number of ‘dn’ increase in 
+that size.  
+dx = ρs k1d3dn  
+then,  
+dx
+dn=ρsk1d3 
+Now  we can integrate from fra ction 0 to 1.  
+ dx1
+0=1=ρsk1 d3dn 
+Here, ρs is the density of the particle;  k1 is a constant value depends on the s hape of the 
+particle . So, this is how we can represent the size distribution in a continuous function . 
+(Refer Slide Time: 18:53)  
+ 
+Now different mean particle size we will explain now, first one is the volume mean 
+diameter ‘dv’. So, volume mean diameter is e xpressed as  dv= d dx1
+0
+ dx1
+0= d dx1
+0 So,‘d’ is a particular  diameter or the dimension and ‘dx’ is the  mass fraction that is  
+increasing . Expres sing this relation in finite difference form we can write  
+dv=  d1x1 
+ x1=  x1d1  
+So, d 1 is a particular dimension x 1 is the mass fraction of that particular dimension . 
+Now in terms of particle nu mbers if you want to express rather than the mass fraction.  
+dv=ρsk1  n1d14 
+ρsk1  n1d13 =  n1d14 
+  n1d13  
+So, all whenever we want to express the particle numbers in the form of the particle 
+number  will recall the  previous expression a nd try to relate with that. So, the previous 
+expression for ‘x1’ was   
+   x1= n1k1d13ρs  
+When  we converted it to dx so t hat time will convert this to d 1. This concept we will use 
+every time whenever  we try to express in terms of  number distribution of the particle 
+right. So, we were in the volume mean diameter.  
+(Refer Slide Time: 21:46)  
+ Now , next will be mean volum e diameter  (dv΄) which is represented  this way  
+𝑘1𝑑𝑣′ 𝑛1= 𝑘1𝑛1𝑑13 
+Volume  of all particles  will be equated to all the fractions of the particle  
+Finally , we are getting : 
+dv′=   n1d13 
+ n13
+ 
+Now , also we can  write it in this form of  mass fraction basis  as all other thing density 
+and k will be cancel led. 
+dv′=  𝑥1
+  𝑥1
+𝑑13 3 =  1
+  𝑥1
+𝑑13 3 
+(Refer Slide Time: 23:30)  
+ 
+Now , if instead of the fraction of the total mass the surface area in each fraction is 
+plotted against the size. If you remember  we hav e plotted  this in particular size ‘d’, and 
+the cumulative mass fraction  we have taken as ‘x’ and then we have plotted. Now , 
+instead of ‘x’ we can plot the surface area ‘A’ or we can represent it by ‘S’ etc. 
+So, if we do so, that instead of a fraction of the total mass, if the surface in each fraction 
+is plotted again size. Then similar curve is obtained although the mean abscissa ‘dS’ is then the surface mean diameter. So, the size ‘d’ that we have obtained  that will be here 
+the surface mean diameter right. So, if we plot the surface area with respect to the  
+diameter  of the different particle. The mean abscissa ‘dS’ that will get that will represent 
+the surface mean diameter.  Now, what will be the expression for that?  
+(Refer Slide Time: 24:50)  
+ 
+dS will be:   
+dS= n1d1S1
+ n1S1=  n1k2d13 
+  n1k2d12 =  n1d13 
+  n1d12  
+So, k 2 is a constant whose value depends on the particle shape as it is  same for all other 
+cases. And d S is also known as the Sauter mean diameter, and it is the diameter of the 
+particle with the same spec ific surface as that of the powder.  Specific  surface means the 
+surface area to the volume. So, then it is  also represented in the mass fraction basis.  
+dv′=  𝑥1
+  𝑥1
+𝑑1 3 =  1
+  𝑥1
+𝑑1 3 
+(Refer Slide Time: 26:58)   
+Then the size of the particle  dS΄ which is  such that if all the particle are of this size the 
+total surface area will be the same as of th e mixture.  
+𝑘2𝑑𝑆′ 2 𝑛1= 𝑘2𝑛1𝑑12 
+Finally , we are getting : 
+dS′=   n1d12 
+ n12
+ 
+ If you substitute the n 1 with the value of x 1 there is a mass fraction basis.  
+dS′=   𝑥1
+𝑑1 
+  𝑥1
+𝑑13 3
+ 
+(Refer Slide Time: 27:44)   
+So, there are many representation of this  another is the length mean diameter . i.e. 
+dl= n1d1d1
+ n1d1=  𝑥1
+𝑑1 
+  𝑥1
+𝑑12   
+So, a mean length diameter or arithmetic mean diameter (dl΄) may also be defined by  
+𝑑𝑙′  𝑛1= (𝑛1𝑑1) 
+ If you want to express in terms of  in terms of mass fraction that will become  
+dl′=  𝑥1
+𝑑12 
+  𝑥1
+𝑑13   
+(Refer Slide Time: 28:41)   
+Now , we solve a problem on that  a sugar crystal has the form of a rectangular prism, 
+with dimensions 1×2×0.5 mm. Calculate the  diameter of the sphere  having the same 
+volume, the same surface area  and the same surface/volume ratio (Sauter diameter)  
+So, what we need to do; first we need to calculate volume of crystal.  Because  this is one 
+rectangular one, so we have calculated 1 mm3. 
+Surface  area of the crystal = 2(1×2+2×0.5+0.5×1)  = 7mm2 
+So now, you got the surface area and also got the volume. For first, t his volume  should  
+equivalent  to volume of sphere whose diameter ‘dV’.  
+𝜋𝑑𝑉3
+6 =1 
+We are getting dV = 1.2 4 mm 
+Second is diameter of a sphere with same surface area.  
+𝑑𝑆= 𝑆
+𝜋=1.49 
+Here  we get 1.49 mm. And the last one is the Sauter diameter that is ratio of the surface 
+area to volume. So, we know that surface area  we have got 7  mm2 and volume is 1  mm3. 
+So, Sauter diameter will be 1.17 mm.  So, we can also  try to identify that which area is coming minimum, which dimension is 
+coming minimum if we take the different specific  equivalent diamete r. So, what is the 
+minimum diameter in which case it is coming that we can calculate.  
+(Refer Slide Time: 31:12)  
+ 
+Now, food material often  consists of different size, to characterize such particulate 
+material it is necessary to determine their particle siz e distribution as  we are doing now. 
+So, method for determination of particle size distribution include many that we have 
+discussed already. Out of that sieve analysis is the simple technique commonly used for 
+the determination of particle size distribution  and for  quantitative evaluation of the 
+fineness of the powder . (Refer Slide Time: 31:52)  
+ 
+So, this is the sieve  analysis set look like, a weighed amount of the material is placed on 
+top of a  stack of the nested mesh sieve  with opening size decreasing fro m top to bottom.  
+Generally  this size changes with a powe r of 2 , 21/2, 21/4 like that. The assembly of sieve is 
+mechanically shaken or vibrated for a period of time.  
+The amount of powder retain on each sieve is then weighed and recorded. So, particles 
+are counted  based on arithmetic or number mean distribution or also the mass mean 
+distribution we can  calculate.  
+(Refer Slide Time: 32:37)  
+ Then a frequency distribution curve as I mentioned that the dx/dd with particul ar size is 
+plotted and  which give the particular particle size , the percentage of the total particle 
+either on number or mass basis against that size so, that we can identify that which is the 
+mode of the distribution. Alternatively, that data can be plott ed as a cumulative 
+distribution, in which either the cumulative  percentage undersize or the cumulative 
+percentage oversize is plotted against the size .  
+When  we see this curve so we are gettin g 50 % of the size lower than this particular . Or 
+if this one is the undersize and if we go by this curve so we will get the percentage 
+oversize of that  particular material. So, like that for each size. if we suppose get thi s one  
+that means, this much fraction has already passed through this particular diameter 
+opening so that way we can analyse . 
+So, both the way cumulative mass fraction and f requency distribution is done a nd from 
+this we can get very good insight of  distribution of the particle, in terms of how many 
+fractions are dominating , which is the maximum size , which is the mean surface  
+diameter ? So many conclusions  we can  take out of this particle size analysis, particle size 
+distri bution analysis . So, we will stop here and we will continue in the next class.  
+Thank you.  

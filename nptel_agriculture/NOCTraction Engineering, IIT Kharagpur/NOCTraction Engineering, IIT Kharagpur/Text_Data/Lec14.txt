@@ -1,0 +1,177 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture 14: Tractive effort and slip of a powered rigid wheel  
+ 
+Hi everyone. This is Professor H. R aheman  from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL course on Traction  
+Engineering. This is lecture 14, where I will try to cover tractive  effort and sl ip of a 
+powered rigid wheel. When I said it is a powered rigid wheel that means, a rigid wheel 
+which is powered which is moving at an angular speed omega.  
+ 
+  So, the concepts which will be covered will be your sl ip and tractive effort. So, if you 
+look at this figure in the left corner, I have shown a powered whe el with a rolling radius R 
+and it is moving with an angular speed ω and V is the actual speed , which I have indicated 
+here. So, since it is powered that means, it will be developing a shear force along the or 
+shear stress along the contact area. These are , this is the contact area where you can develop 
+the shear stress because of the interaction between wheel and soil.  
+ 
+  Now if you want to develop tractive force which is developed by the rigid wheel, then we 
+need to know what is the shear stress developed . And, shear stress is a function of  shear 
+displacement. So, we have  to find out what is the shear displacement at the contact area, 
+then only you can find out what is the shear stress developed . And, shear stress into the 
+contact area  so, that will give you the thrust or the tractive effort which is developed by a 
+rigid wheel. So, shear displacement which is developed along the contact area of a rigid 
+wheel will be decided based on this analysis of slip velocity. Whereas, at slip velocit y that 
+means, difference between theoretical speed and actual speed , both are in the sa me plane, 
+then only you can find out the difference and then that is denoted as 𝑉𝑗. 
+ 
+  Now if you consider that wheel is rolling. So, 𝜃0 represents the angle at which the wheel 
+is in touch with the soil and this is called entry angle. And we will now consider a poin t 
+‘say A’ which is making an angle 𝜃 with the vertical. So, at ‘A’ the peripheral speed will 
+be equal to ωr, ω is the angular speed, r is the rolling radius. So,  peripheral speed will be 
+ωr and this will be equal to your 𝑉𝑡 which is theoretical speed.  
+ 
+  Now, at this point the actual velocity is given as V. Now , if you resolve this into this plane  
+so, this angle will be equal to how much? 𝜃. So, V if is resolved in this plane , then it 
+becom es Vcos θ . So now,    
+𝑉𝑡−𝑉cos𝜃=𝑉𝑗 
+ 
+  So,in other  words , you can say slip velocity is nothing, but the tangential component of 
+the absolute velocity at any particular point where you are interested in finding out the 
+slip velocity ok.  
+Now if I substitute , V in by i, i in the sense we know slip velocity is nothing, but  
+𝑖=1−𝑉
+𝑉𝑡 
+where i is the slip, V is the actual velocity and V t is the theoretical velocity. So, from 
+here,  
+𝑉=(1−𝑖)𝑉𝑡 
+𝑉𝑗=𝑉𝑡−(1−𝑖)𝑉𝑡cos𝜃=𝑉𝑡[1−(1−𝑖)cos𝜃] 
+you can find out  
+𝑉=(1−𝑖)𝑉𝑡 
+Now and Vt is nothing, but 𝑤𝑟, is the theoretical speeds.  
+𝑉𝑗=𝑤𝑟[1−(1−𝑖)cos𝜃] 
+So, if you look at this equation , now the slip velocity is a function of angular speed, is a 
+function of rolling radius, is a function of angle theta and is a function of slip.  That 
+means, for a given wheel and given operating condition that means, where the angular 
+speed is given , then slip velocity is a function of theta and slip. Now from the slip 
+velocity , you have to find out what is the shear displacement, shear displacement which is 
+occurring at the contact area. So, if j is the shear displacement along the wheel soil 
+interface , then j can be written as : j is the shear displacement, displacement then this can 
+be written as V j × dt. 
+ 
+  So, if you want to find out for the entire contact area , then this has to be integrated from 
+say θ to θ0, if I am considering from point A ok.  
+𝑗=𝑠ℎ𝑒𝑎𝑟 𝑑𝑖𝑠𝑝𝑙𝑎𝑐𝑒𝑚𝑒𝑛𝑡 =∫𝑉𝑗.𝑑𝑡𝜃0
+𝜃 
+=∫𝑤𝑟[1−(1−𝑖)cos𝜃].𝑑𝑡𝜃0
+𝜃 
+𝜃=𝑤𝑡 𝑑𝜃
+𝑑𝑡=𝑤 
+ 
+ 
+𝑑𝜃
+𝑤=𝑑𝑡 
+=∫ 𝑤𝑟[1−(1−𝑖)cos𝜃].𝑑𝜃
+𝑤𝜃0
+𝜃 
+=∫𝑟[1−(1−𝑖)cos𝜃].𝑑𝜃𝜃0
+𝜃 
+𝑗=𝑟[(𝜃0−𝜃)−(1−𝑖)(sin𝜃0−sin𝜃)] 
+ 
+ 
+ The next question is , what is the relationship between shear stress and shear 
+displacement?  In nature , from the experimental observation what you observed is , there 
+are three relationships normally existing.  So let me show those relationships between 
+shear stress and shear displacement. So , in case of a loose sand or saturated clay or most 
+of the disturbed soil , the relationship between shear stress and shear displacement  
+𝜏(𝜃)=𝜏𝑚𝑎𝑥 (1−𝑒−𝑗
+𝑘⁄); where 𝜏𝑚𝑎𝑥is written as 𝑐+𝜎(𝜃)tan∅, 𝜎 is the normal pressure.   
+ 
+  Now for organic terrain , the relationship between shear stress and shear displacement is , 
+𝜏= 𝜏𝑚𝑎𝑥 (𝑗
+𝐾𝜔)𝑒𝑥𝑝 (1−𝑗
+𝐾𝜔) 
+where Kω is the shear displacement where the maximum shear stress occurs. Now , if it is 
+a compact sand or silt and loam , then the relationship is  
+𝜏= 𝜏𝑚𝑎𝑥𝐾𝑟{1+[1
+𝐾𝑟(1−1/𝑒)−1]𝑒𝑥𝑝 (1−𝑗
+𝐾𝜔)}×[1−exp (−𝑗/𝐾𝜔)] 
+where Kr is the ratio of residual stress to the maximum shear stress and τmax and Kω is the 
+shear displacement where the maximum shear stress occurs. You know you can choose 
+any one of these equations and then find out the shear force which is acting. Once you 
+know the shear stress then we will find out what is the shear force acting. So,  shear stress 
+will be supposed  for example, we take shear displacement in loose sand or in most of the 
+disturbed  soil, that is the relationship is ,  𝜏=𝜏𝑚𝑎𝑥 (1−𝑒−𝑗
+𝑘⁄) 
+=(𝑐+𝜎𝑡𝑎𝑛∅)(1−𝑒−𝑗
+𝑘⁄) 
+  If I take this relationship then the equation will be so, shear stress distribution wil l be 
+like  
+𝜏(𝜃)=𝜏𝑚𝑎𝑥 (1−𝑒−𝑗
+𝑘⁄) 
+=(𝑐+𝜎(𝜃)tan∅)(1−𝑒−𝑟
+𝑘[(𝜃0−𝜃)−(1−𝑖)(sin𝜃0−sin𝜃)]) 
+ 
+  Shear force will be like this.  So,shear force will be equal to the shear stress into area.  
+So, I can write shear stress ,  
+𝑠ℎ𝑒𝑎𝑟 𝑓𝑜𝑟𝑐𝑒 =𝜏(𝜃).𝑑𝐴  
+𝑑𝐴=𝑏𝑟𝑑𝜃  
+𝑠ℎ𝑒𝑎𝑟 𝑓𝑜𝑟𝑐𝑒 =𝑏𝑟 𝜏(𝜃) 𝑑𝜃 
+  So, this will be the shear force. Now, for finding out tractive force , you have to resolve 
+into two components. One is the horizontal component and this horizontal component is 
+denoted as tractive effort ok.  So, tractive effort will be denoted as F , will be equal to this 
+shear force which you got cos component of that one ok.  So, 𝑏𝑟 𝜏(𝜃)cos𝜃𝑑𝜃 
+  
+ So, this has to be integrated from 0 to θe. So, this becomes a tractive effort.  
+𝑇𝑟𝑎𝑐𝑡𝑖𝑣𝑒  𝑒𝑓𝑓𝑜𝑟𝑡 ,𝐹=∫𝑏𝑟 𝜏(𝜃)cos𝜃𝑑𝜃𝜃𝑒
+0 
+Now, while evaluating the performance of a power rigid wheel , we have to find out in 
+addition to tractive effort other parameters like what is the drawbar pull ok, then what is 
+the weight, the expression for weight and then we can find out what is the wheel torque 
+and of course, we can find out other forces like coe fficient of traction and coefficient of 
+gross traction CGT . So, for finding out pull , then we have to find out what is the rolling 
+resistance ok. So, if you know thrust, thrust minus rolling resistanc e will give you the 
+drawbar pull.  
+ 
+  Now because of the weight , there will be soil reaction . The radial force will be acting 
+and it will have two components ok. So , the, this horizontal component of radial force , 
+this is radial force, the horizontal component of radial force will be equal to your rolling 
+resistance. So, first we have to calculate the vertical component one vertical component is from the shear force, the other vertical component is from the radial force. So, summation 
+of that will give you , what is the weight. So, weight will be equal to  
+𝑊=𝑟𝑏 [∫𝜎(𝜃)cos𝜃𝑑𝜃𝜃𝑒
+0+∫𝜏(𝜃)sin𝜃𝑑𝜃𝜃𝑒
+0] 
+ 
+ 
+  Now for drawbar pull , this will be equal to P and this is tractive effort which is nothing, 
+but  
+𝐷𝑟𝑎𝑤𝑏𝑎𝑟  𝑝𝑢𝑙𝑙 ,𝑃=𝑟𝑏 [∫𝜏(𝜃)cos𝜃𝑑𝜃𝜃𝑒
+0−∫𝜎(𝜃) sin𝜃𝑑𝜃𝜃𝑒
+0] 
+for the wheel torque , if you know the tractive effort then tractive effort multiplied with 
+the rolling radius. So, that will give you the wheel torque. So,  
+𝑊ℎ𝑒𝑒𝑙 𝑡𝑜𝑟𝑞𝑢𝑒 =𝑟𝑏∫𝜏(𝜃)𝑑𝜃𝜃𝑒
+0 
+ So, these are the expressions which you can calculate. The only thing which we need to 
+know is , what is the distribution of shear stress, what is the distribution of the normal 
+stress . Then only you can find out the shear force, then what is the p ull which is 
+developed, what is the vertical load which is acting. Now, one scientist , he found out the 
+shear stress and normal stress distribution and he measured and derived from this formula 
+and then what he observed is very interesting thing, interesting in th e sense , this is the 
+measured and predicted shear stress and normal stress in compacted sand at a slip of 22.1 
+per cent. If you look at this figure , then the procedure which we followed for finding out 
+shear stress and normal stress distribution along the contact area is quite close . We can 
+say, the measured and the pre dicted values are quite close. Hence , the procedure which 
+we followed is on light. So , in this lecture attempts are made to derive equations for 
+predicting tractive effort for a powered rigid  wheel and that the important components are 
+the shear displacement and we have derived a n expression for slip velocity and slip 
+velocity from where we tr ied to find out what is the shear displacement and knowing the 
+shear displacement and shear stress relationship , we can establish what is the shear stress 
+which is prevailing in the contact area. Now, knowing the shear stress then we try to 
+multiply the contact area so that we can find out what is the tractive effort developed.  
+ 
+  So, you can refer to the books like the theory of ground vehicles by Wong J Y and soil 
+dynamics in tillage and traction by William R Gill and G Vandenberg. Thank you.  

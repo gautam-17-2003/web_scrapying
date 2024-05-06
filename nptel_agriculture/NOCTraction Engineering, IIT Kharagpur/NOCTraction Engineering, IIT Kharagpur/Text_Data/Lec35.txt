@@ -1,0 +1,163 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Department  of Agricultural  and Food  Engineering  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  5 
+Tutorial  
+Hi every one, this is Professor  H. Raheman from  Agricultural  and Food  Engineering  
+Department,  IIT Khar agpur. I welcome  you all to this NPTEL  online  course  on Traction  
+Engineer ing. This is lecture  35 where  I will take a tutorial  how to find out the optimum  
+ballast  level . And what  will happen  when  you cross  this optimum  ballast  that means  in over 
+ballast  or under ballast,  then how it is going  to affect  the performance  for a 35 hp tractor  
+working  at a forward  speed  of 1.25 meter  per second.   
+(Refer  Slide  Time:  01:13) 
+ 
+So, mainly  I will try to highlight  the optimum  ballasting  conditions  based  on the 
+recommenda tions given  by Dwyer then I will try to find out what  will happen  if you over 
+ballast  it and if you under  ballast  it.  (Refer  Slide  Time:  01:34) 
+ 
+So, when  engine  power  is 35 hp, weight  of that tractor  is 2400  kg with a static  weight  
+distribution  of 65 percent  on the rear axle and 35 percent  on the front  axle.  So, this is the two- 
+wheel  drive  tractor . So, I have  given  you the transmission  efficiencies . If you are moving  
+from  flywheel  to PTO  or flywheel  to axle, we need  to find out how much  will be the axle 
+power  if the engine  power  is 35 hp. So, what  I have  done  is, I have  taken  35 hp converted  to 
+kilo Watts, so multiply  with 0.746. And then I multiplied  with the transmission  efficiency,  
+that means , I have  converted  the flywheel  power  to PTO  power  and then from  PTO  power  to 
+axle power , I multiplied  with 0.96. So, that way I am getting  20.80  kW.  
+So, for an engine  power  of 35 hp, I am getting  20.8 kW for the axle and the tyre specification  
+is which  is fitted  to the rear axle is 13.6-28. This is a bias ply tyre. So, section  width  is 0.34 
+meter  and overall  diameter  is 1.27 meter  and the deflection  ratio we have  taken  as 0.2 and 
+considering  an aspect  ratio of 0.75, we will verify  the ballasting  conditions  on a medium  soil 
+where  the cone  index  is 500 kPa.  
+So, as I said the main  thing  is the mobility  number.  So, we follow  the mobility  number  
+developed  by Brixius . So, 
+ 
+ So, all the equation  developed  by Brixius  I have  noted down  here,  a ρ is the motion  
+resistance  ratio and μg is the gross  torque  ratio or the coefficient  of gross  traction  and the difference  is difference  of gross  coefficient  of traction  and motion  resistance  is nothing  but 
+your coefficient  of traction COT which  is denoted  as μ. (Refer  Slide  Time:  04:10) 
+ 
+And tractive  efficiency  is nothing  but the axle power  by, sorry  drawbar  power  by axle power  
+or in other words,   
+ 
+s is the slip. And drawbar  power  maximum  if you want  to calculate  then axle power  has to be 
+multiplied  with tractive  efficiency  and theoretical  speed  of operation  we have  taken  as 1.25 
+m/s. Now, what  is the DPactual, that means  drawbar  power  actual ? So, that you have  taken 
+from  the coeffi cient  of traction  side.  
+Since  there  are 2 wheels  so, I multiplied  with 2, W is the dynamic  weight  on the rear axle on 
+one of the wheels  and mu is the coefficient  of traction  of one of the wheels.  So, coefficient  of 
+traction  is nothing  but μ is the coefficient  of traction , that  is nothing  but P/W. So, W×μ will 
+give you P. So, Drawbar power  will be equal  to W×μ×Vt×(1-s), Vt × (1-s) will give you the 
+value  of Vactual. So, P × V will give you drawbar  power . I have  multiplied  with the 2 that 
+means  for 2 wheels  I multiplied  by 2 so, P × V will give you drawbar  power  developed  by 
+your tractor . These are the governing  equations  based  on which  I am going to discuss .  (Refer  Slide  Time:  06:20) 
+ 
+Now, for optimum  ballasted  condition  that means,  I followed  the Dwyer’s recommendation  
+which  is nothing  but W/P, W is the dynamic  weight,  P is the axle power  this is equal  to 
+1.79/V. So, for 35 hp tractor  we calculated  that axle power  is around  20.8 kW. So, 20.8 kW is 
+the actual  power , Paxle. Now, these  the actual  speed  we have  taken  as 1.25 meter  per second  
+under  this condition . What should  be the weight  optimum  weight  so, that will extrac t the 
+maximum  power  from  the tractor. So, W from  this expression  W will be equal  to (1.79/V)× 
+Paxle.  
+So, Paxle is known , V is known,  so, I will find out what  is the value  of W and based  on that we 
+try to plot the blue line gives  you the maximum  power  and this orange  color  line gives  you 
+the actual  power  which  is delivered  by the tractor.  So, to get this blue color  line, what  we 
+have  to do is, the tractive  efficiency  has to be multiplied  with axle power  that is it and tractive  
+efficiency  has to be multip lied with axle power.  So, this has been  plotted  for different  slip 
+values  starting  from  0.05 that means  5 percent  slip to up to 22 to 23 percent  slip.  
+So, what  we observe  is, at one point , the actual  power  which  is transmitted  but the tractor  is 
+crossing  the maximum  power  which  a tractor  is able to deliver.  So, that point  I have  indicated  
+is occurring  at a slip of 18 percent  and the power  which  we are getting  is 13.35  kW.  (Refer  Slide  Time:  09:01) 
+ 
+ 
+Now,  I will show  you if I reduce  this weight,  if I increase  the weight  or reduce  the weight , 
+both the conditions  I am going  to check  now.  So, weight  required  is 14.9 kN. Now I will 
+increase  the weight  by 60 percent  that means,  initially  it was the optimum  loading  condition  
+was 14.9 kN now, I have  increased  by 60 percent  so, that becomes  23.84  kN and I carry  out 
+the same  exercise . That means  I tried to plot the maximum  power  able to be transmitted  by 
+the tractor  which  is denoted  by the blue line and the actual  power  which  is delivered that is 
+represented  by this orange  line.  
+So, what  I observed  now is, it is touching  at a point  both the curves are  meeting  at a point , 
+this point  which  refers  to a slip of 11 percent  and the power  maximum  power  is only 10.45  
+kW.  (Refer  Slide  Time:  10:23) 
+ 
+ 
+  
+Now,  what  happened , I tried to decrease  the weight  instead  of 14.9 kN, I have  decreased  the 
+weight  to by 40 percent . Now,  the weight  has become  5.96 kN. So, again  I carried  out the 
+same  exercise , that means,  blue line is for maximum  power  which  a tractor  is able to transmit  
+and the orange  line is the power  which  is actually  transmitted.  So, what  we observe  is, there  
+is a huge  difference  that the tractor  is able to develop , transmit  16 kW, but we are only 
+utilizing  6 kW, 10 kW is lost and the maximum  power  which  are utilizing  is at a slip of 25 
+percent  which  is not permissible,  7 kW or 25 percent  which  is not permissible.   
+So, if you compare  these  three,  initially  we are getting  an optimum  ballasting  conditi on. We 
+are getting  somewhat  13.35  kW at 18 percent  slip, sorry 18 percent  slip. So, optimum  
+condition  13.35  kW at a slip of 18 percent  and in the over ballasting  condition , we got 10.4 
+kW at slip of 11 percent . This is over ballasted  and corre spondingly  this over ballasting  
+condition , if you draw  the line, it is only 10 kW, maximum  power  is only 10 kW.  
+Now,  under  ballasted  condition , maximum  power  is 16 kW, but it is only utilizing  6 kW at 
+slip of 25 percent  and if we look at the optimum  condition , the maximum  power  developed  is 
+around  14 kW. This is 14 kW. So, this is the difference  is you are getting  if you are, this is 
+optimally  ballasted.   (Refer  Slide  Time:  13:50 ) 
+ 
+So, look at these  figures  now,  so, that itself indicates  what  is exactly  happening.  So, you are 
+closer  to 14 kW, the maximum  power  where , which  a tractor  is able to transmit . Whereas  in 
+case of over ballasting  condition,  we are developing , only we are utilizing  only 10.4 kW. We 
+are supposed  to get 14 kW, but we are not develop ing 14 kW. There is a loss. At under  
+ballasting  conditions , we are only utilizing  6 kW. we are supposed  to utilize  14 kW.  
+So, whether  it is over ballasted, whether  it is under  ballasted, in both cases there  is a 
+reduction  in power  which  a tractor  is able to transmit . So, both are not suitable.  So, always  
+we try to maintain  a weight  which  is closer  to the optimum  ballasting  condition,  so that we 
+can extract  maximum  power  from  the tractor , otherwise  there is a loss.  (Refer  Slide  Time:  15:15 ) 
+ 
+ 
+Now, let us see one more  problem . What weights  would  be recommended  for a 45 hp 2 wheel  
+drive  tractor  with a total weight  of 2400  kg to get the maximum  output  from  a tractor  when  it 
+is operated  at 4 kilometer  per hour? Assume  static  weight  distribution  as 65 percent  on the 
+rear axle and sorry  this is 35 percent  on the front  axle. So, how do we recommend  this? Total  
+weight  is given  as 2400  kg and weight  distribution  given  as 65, this is 35 percent  in different  
+on the front  axle and 65 percent  on the rear axle then it is to be operated  at a 4 kilometer  per 
+hour. So, there  is actual  speed , we need  to operate  the tractor  at 4 kilometer  per hour.   
+So, the recommendation  is, if it is a 45 hp tractor , what  is the power  which is available  at the 
+axle you have  to find out. What is the axle power ? How  do you find out? You need  to know  
+the transmission  losses.  So, if I put this, this is the transmission  losses . That means  45 hp into 0.746, that becomes  a kW, then I multiply  with 0.82 to 0.84. Suppose,  I take 0.83 so, that will 
+give you power  at the PTO  and then I again  multiply  with 0.96 so, that will give you axle 
+power . Since  we have  to follow  the Dwyer’s recommendation  for optimum  ballasting .  
+So, dynamic  weight  by axle power will be equal  to 1.79/V, V is the actual  speed.  So, that 
+means , P axle is known  from  here, then W has to be found  out. So, 1.79/V, V is nothing  but 
+your 1.4 kilometer  per hour so, 40 by 36, 1.11 meter  per second.  So, this into P axle so, that 
+will be the dynamic  weight  which  is to be given  in kilo Newton.   
+Now,  understand  the condition , you have  got 65 percent  of the weight  so, that means  2400  
+into 9.81 into 0.65 so, divided  by 2 that will give you weight  on each wheel . So, suppose  this 
+is the W rear 1. Now, we are getting  a value  of W from  here.  So, I multiply  9.81 that will give 
+you a N then I should  divide  by 1000  so, that will give you a kN.  
+Now,  this is the weight  on the axle, dynamic  weight  on the axle.  So, I will divide  by 2 to find 
+out what  is the dynamic  weight  required  for getting  the optimum  ballasting . So, W/2 so, now 
+we will find out what is the difference  between  these  two, (W/2)-Wr1. So, that is the amount  
+of weight  which  has to be added  to either  of the wheels . That means,  you have  to add to each 
+of the wheels  not either  of the wheels . You have  to add this amount  of weight  to the rear 
+wheels  then only you can get the optimum  ballasting  condition  and we can able to develop  
+maximum  power . The tractor  can able to trans mit maximum  power .  
+So, the main  thing  is, first we have  to convert  the engine  power  to axle power  because  the 
+Dwyer’s recommendation  is based  on axle power . So, that is why we have  to convert  the 
+engine  power  to axle power , if drawbar  power  is given  then from drawbar , we can also 
+convert  to axle power  taking  the tractive  efficiency  into account . But since  in this, problem  is, 
+engine  power  is given  so, directly  we multiply  with this transmission  ratios  to find out what  is 
+the axle power , then once  you know  the axle power  following  the Dwyer’s recommendation  
+W/Paxle is equal  to 1.79/V. So, we know , at what  speed  we are going  to move  in the field.  So, 
+that will decide  how much  should  be the dynamic  weight  on the rear axle.  
+Now, dynamic  weight  on the rear axle, if you find out from  this equation  because  Paxle, axle 
+power  is known , velocity , a forward  velocity  is known.  So, now,  you find out what  is the total 
+axle weight  dynamic  then divided  by 2 to find out what  is the total weight  coming  on each of 
+the wheels , that is a requirement . Then what  is coming  in the actual  condition  which  is 
+nothing  but from  the starting  weight  distribution  we can find out. Since this is given  in kg, so, I have  multiplied  with 9.81 into 0.65 by 1000 , so, make  it kN then divided  by 2 to find out 
+how much  the weight  which  is coming  on the one of the rear wheels.   
+So, now,  the difference  of W/2 and then weight  which  is coming  from  here which  is denoted  
+as Wr1 so, that will give you how much  is the extra  weight  which  is required  and that has to 
+be added  to the wheels  of the rear axle.  So, I have  given  you how to recommend  the optimum  
+ballasting  weight , so that it can extract  maximum  power . Then also have  a discus  if you are 
+overloading  it or you are under  loading  it then how it is going  to affect  the performance  of the 
+tractor.   
+(Refer  Slide  Time:  23:15 )  
+ 
+So, this will give you a more  or less an idea how to go for ballasting  two wheel  drive  tractor  
+to get the maximum  output  from  the tractor.  That is all. Thank  you. 

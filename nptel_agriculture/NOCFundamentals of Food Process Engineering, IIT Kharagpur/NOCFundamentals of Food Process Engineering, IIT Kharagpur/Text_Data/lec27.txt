@@ -1,0 +1,253 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of  Agricultural and Food  engineering  
+Indian Institute of Tec hnology, Kharagpur  
+ 
+Lecture – 27 
+Drying Technology (Contd. ) 
+ 
+Hello everyone . Welcome to the NPTEL  online certification cours e on Fundamentals of 
+Food Process Engineering . In the last class we have started  Drying Technology . Drying 
+is a very important unit operation for  food processing and we have started the basic  
+understanding of  drying mechanism  the different objective of drying. 
+And, then we have moved on to the  psychrometric , which is  the import ant study related 
+to the moist  air properties . And, it is very important for  identifying the air condition s, 
+when we  expose any  food material to the convective drying or any drying  experiment 
+where we use the dry air to remove the moisture from the food product . 
+So, today  we will continue with the different  psychrometric  properties and  different  
+operation , different  conditions , when drying , heating , humidifica tion, all this phenomena 
+happen  then w hat is the condition of the drying air  and also we will  see the  further  drying 
+mechanism , and the different rate of the drying process . For example, the constant and 
+falling rate . 
+So, let us  start from the psychome try. (Refer Slide Time: 01:59 ) 
+ 
+Psychrometric  properties : we have discussed wet  bulb temperature , dry bulb 
+temperature , then humidity  ratio, specific humidity , humid volume , and then  enthalpy . 
+So, today we will see that  wet bulb tempera ture in a bit detail . 
+Wet bulb temperature is the  temperature measured by thermometer whose bulb is 
+covered with wet cloth . That means, when we normally measure the  temperature  in a dry 
+bulb situation , where we do not  cover the bulb of the thermometer with  a wet cloth that 
+time the normal temperature of the air that we can measure is called the dry bulb 
+temperature . 
+Now, when we cover ed wet  week  the bulb of the thermometer , then what happened is 
+that it will try to come to an equilibrium situation , because all the moisture  will 
+evaporate when it  comes in contact with the dry air. So, the air  starts to get saturated . 
+However, since the moisture  takes  the latent heat of vaporization from the  thermometer  
+liquid  itself. 
+So, the temperature  is reducing and that can be shown here by a lowering in the 
+temperature . So, this is calle d the difference of this dry bulb and wet bulb is called the 
+wet bulb depression . And, thereby the wet  bulb temperature is always lower  than the dry 
+bulb temperature . Wet bulb temperature can be obtained  from following equation:                                       
+𝐇−𝐇𝐰
+𝐭−𝐭𝐰=𝐡𝐌𝐁𝐤𝐲 
+𝛌𝐰  
+Where,   h/M Bky= psychrometric ratio  
+h= convective heat transfer coefficient  
+MB=molecular weight of air  
+ky= mass transfer coefficient  
+t, tw = dry bulb & wet bulb temperature of air  
+H1,Hw = humidity ratio  
+λw =latent heat of vaporization at t w  
+Now, if we look into the  psychrometric  chart . So, the horizontal line at the bottom  is 
+showing the dry bulb  temperature . And, this ordinate is showing the humidity  ratio that 
+is kg of moisture H2O per kg dry air . This yellow line is showing the constant enthalpy 
+line and his orange line is constant wet bulb line. 
+For example, if we take a dry bulb  temperature here . And, then for this dry bulb  
+temperature , if we cover the  cover the bulb of the thermometer with the wet cloth . Then  
+we try to make it equil ibrium then it follows this  wet bulb line  and reaches this 100 
+percent saturation . So, if we measure the wet bulb temperature that will be here . So, this 
+will be  tw where  this will be  t. 
+Now, there is  a slight difference between  line of constant wet bulb  and line  of the 
+constant enthalpy . However, in many cases we cons ider them  equal , but there is a little 
+difference , this is  because the constant wet bulb line  we can get this  situation by many 
+combination of humidity and dry bulb  temperature . So, we can take  any humidity ratio 
+value and any temperature that will  follow this constant wet bulb line. 
+Now however, when we talk about enthalpy , that is enthalpy of the dry air plus  the 
+enthalpy of the water vapour  so, it has been seen that a little difference we can observe 
+between these two values . Therefore, when we consider ed the  difference of  enthalpy 
+from a fixed point  so, better to considered  that enthalpy directly from that point and  the 
+other point when we finally, reaches . So, the difference between these two will give us 
+the enthalpy difference  of those two point s, but that does not  follow the  exact line of the 
+wet bulb  temperature . (Refer Slide Time: 08:24 ) 
+ 
+So next is , what are the parameters that we can read from the psychrometric  chart . 
+Psychrometric chart although  available for different pressure and temperature condition , 
+but mostly that we used for the drying  air analy sis that is ranging from  0 to 50 °C at 
+atmospheric pressure . 
+Although , as we  have develop  different  condition , different psychrometric  chart for 
+different conditions ; for example, minus 40 to 10 °C or even  very high temperature as 
+well, but for our need we will consider this one and if the chart has been drawn at 
+atmospheric pressur e. And, we know any two properties  of this  moist ai r. So, the all 
+other property we can calculate . For example, if we know the dry bulb temperature  and 
+any other condition . For example, the relative humidity ok , then all other condition we 
+can calculate . 
+So, here we can see that the green  slanting  line these are  the wet bulb line . The white line 
+these are call  the specific volume line  and the line which is  making this  curve line 
+towards the  left end  that is saturation curve  or the relative humidity line . First one is 100 
+percent saturation and then as we move towards the  right side the relative humidity is 
+reducing . The vertical straight line these are the dry bulb temperature line  and saturation  
+curve is the 100%  relative humidity  curve . (Refer Slide Time:  10:26 ) 
+ 
+So, we will see that how from two data of the any property of the psychrometric chart we 
+can calculate the all other  another properties . For example,  here in this psychrometric 
+chart , we have  we have taken a condition th at is dry bulb temperature  is 32 °C and 
+relative humidity is 60 %, determine the remaining psychrometric properties . 
+So, in the  dry bulb  temperature  line that is this  ordinate , we can first see the 32 °C. So, 
+this is here 32 °C and then when it reaches to 60 % RH. So, we will draw a vertical line . 
+And, then we come to this point that is 60 percent relative humidity . And, then we 
+horizontally move  to the right to find out  the specific humidity . 
+And at this point  we will get the specific humidity . Here the unit has been  given as gram 
+moisture  per kilo . So, here we are getting 18 we can convert it to kg moisture per kg dry 
+air as well. 
+And, then from this point  we can calcula te that , what is the  value of the humid  volume ? 
+So, we follow this slanting  line we can see that this is coming around v =0.89 m3/kg. So, 
+humid volume that we can get from this line , also we can get the enthalpy , if we draw a 
+line straight away through the  constant enthalpy line . So, we can  find that enthalpy is 
+coming 78 kJ/kg air.  
+So, this is how we can calculate all the  parameters  of the psychrometric  chart . Now, then 
+what  we can calculate is wet  bulb temperature and dew point temperature . So, what is wet bulb temperature ? Now, we have to follow the  constant wet bulb  line. Which is  
+many a  case is just to be taken  as similar to the enthalpy line  and then we need  to reach 
+the 100% RH line or saturation  line. 
+So, here we will follow that and  when  we reach the 100% saturation and then we draw a 
+vertical line . So, this vertical line is coming 25 °C. If you follow that from this point , 
+which is  the jun ction point of the  60% RH and 32 °C dry bulb temperature . We will 
+move along the  constant wet bulb line and when we reach the 100 percent saturation we  
+draw the vertical lin e. And, then we can find out what is the wet bulb temperature and  if 
+we go by cons tant wet bulb  line we can see that , the humidity is also increasing  right 
+when humidity is also increasing . 
+So, what is dew point temperature that if we  do not  increase the humidity of that  air, but 
+that air b ecomes saturated with the moisture  present in it? Then what we can do  we 
+shoul d lower the temperature of it , with the constant specific humidity and then when  it 
+reaches the 100% saturation . Then, we can draw a vertical line  to find  the temperature . 
+So, this temperature is coming 23 °C. So, DPT D ew Point Temperature is 23 °C, wet 
+bulb is 25 °C, enthalpy is 78 kJ/kg dry air , and specific volume is  0.89 m3/ kg. So, in this 
+we can calculate the different properties of the psychrometric chart . 
+(Refer Slide Time: 15:09 ) 
+ Now, there are different processes that we can very clearly show in the psychrometric  
+chart . Because many time we need only the sensible heating or cooling mechanism . And, 
+in many process , what we can do is cooling and humid ification that is the temperature of 
+the air is reducing at the same time moisture content is increasing , or cooling and  
+dehumidification that is moisture  is also  getting lower ed with lowering of temperature . 
+Then heating and humidification heating and deh umidification and mixing of a ir streams . 
+So, if we look into this psychrometric  chat. So, if we follow the sensible heating , it will  
+go through  this line . Sensible  coolin g will be lowering of the dry bulb  temperature  so, it 
+will follow this line . If, we say that heating and humidification  so, heating if we move 
+towards the right direc tion that is heating . And, since here  humidification is needed . That 
+means, the moisture  content & specific humidity should increase . So, this will follow this 
+line, the reverse could be dehumidification with cooling . So, we will follow this line  and 
+humidification and cooling . 
+. So, temperature should be reduced at the same time  humidification will be there . So, we 
+will follow this line and dehumidification with with desic cant will follow this line , and 
+humidifying and dehumidifying  without change in temperature . So, this is this vertical 
+line. Now, we will see  these  processes . 
+(Refer Slide Time: 17:16 ) 
+ 
+First, let us see  sensible cooling . Ok. So, what happened during this process ? The 
+humidity of the air remain  constant , but it is temperature dec reases as it flows over the cooling coil . When  the air is passing to the co oling coil  whatever humidity  it has it will 
+retain that  however,  its temper ature reduces . So, sensibly  the temperature is  reducing and 
+since temperature is reducing the ir energy of this  air will change .So, how much will be 
+the change ? So, that we can calculate  
+                                       Qc=m a(ho- hA) = m acpm (To – TA) 
+During  sensible heating this process the humidity of the air remain constant , but  its 
+temperature increase s as it flows over a heating coil . So, here just the  reversing we can 
+observe that , since when the air gets cool. So, its energy reduces  i.e. ma(ho- hA) when it  
+increases the temperature of the air i s increases , that time the energy will be  positive . So, 
+energy will be gained by the air . So, this is the condition , now to change in enthalpy we 
+can get by this equation . 
+                          Qh=m a(hB- ho) = m acpm (TB – To) 
+(Refer Slide Time: 19:53 ) 
+ 
+During  cooling and humidification  process that the air temperature drops and  its 
+humidity increases . 
+So, cooling and humidification  means  the air temperature will be drop  but the humidity 
+will increase . This happen in case of spr aying of cold water o n the  stream  of air. So, 
+what happened that the air  which is entering from the inlet side having the temperature 
+T0, moisture content  W0, enthalpy h o, and the mass of the air is m a. So, this ai r when  flows  over the spray  of the water  then its temperature, moisture content & enthalpy 
+changes only the mass of the air  remain constant . 
+ Now, if we see this behavior that in let air  enters T0 i.e. the dry bulb  temperature . It has 
+passed to th e water  spray . So, its humidity increases  from WO to WE. Humidity  was WO 
+initially . 
+Now, this is WE and the temperature change to TE; so if not fully saturated after certain  
+increase  of the RH may happen . So, corresponding to  whatever  the moisture has been 
+added to it we will  calculate ; what is the exit temperature of what is the dry bulb  
+temperature now . 
+And, then if we  want to know the difference in the enthalpy . So, we will take the 
+difference of the first point and  when it reaches in the second point . So, what is the 
+difference in the enthalpy that also we can calculate from this ? And, if we  want to find 
+the DPT  that is if this  is the air  is saturated with whatever moisture , it has then it has to 
+follow this direction . 
+And should  reach the 100 %RH  line here  and then we  find out the dew point 
+temperature . So, in this case the temperature of the  exit air should be within the  dew 
+point temperature and the inlet temperatu re. So, it should be higher than the dew point , 
+but lower the inlet air temperature . 
+(Refer Slide Time: 22:53 ) 
+ just now we have seen that cooling and humidification , now, when moist air is cooled 
+below  it is dew point . So, if it cools below  it is dew then some moisture will condense  of 
+the air and leave s the air stream as liquid . As a result both the temperat ure and the 
+humidity ratio of the air decreases . 
+So, what happened we can see in the psychrometric chart that cooli ng and 
+dehumidification . In the initi al condition one when the dry bulb  temperature was DBT1, 
+that time when if the air gets c ooled, it reaches to  condition 2. So, first it will come to  
+this condition DBT1, but since it reaches  you know  100% R H some moisture  will be 
+condense . 
+So, then we can calculate that , if those  moisture will be condense out then with the 
+remaining  moisture  initial the specific humidity was he re. Now, when some amount of 
+condensation has occurred then , the humidity has reduced from here to here . So, the dry 
+bulb temperature of the exit will be this one  and enthalpy if you want to know . 
+So, enthalpy at the first one we will foll ow the constant e nthalpy line . So, h1 and in the 
+second position also we will follow the constant enthalpy lines . So, we will get h 2. 
+Because  some has been some  moisture has been condense d. So, they have  release the  
+heat to the ambience . So, we are getting  slightly lo wer in the  enthalpy value . 
+So, this kind of  phenomena  we can observe in the air conditioning system . Although , in 
+our case most of the time when we perform the drying operation . So, the air  has to take 
+the extra  moisture of the food s. (Refer Slide Time:  25:25 ) 
+ 
+So, most of the time  we are interested in the humidification of the  humidification of the 
+air and the dying of the product , but since the psychrometric  chart deals with all the  
+required ope ration ; so we are just giving  understanding of that how w e can calculate ? 
+Next process is heating and humidification  if you want to per form here is a heating coil 
+when  through which the  air when enters , it will first get heated and then again flows over 
+the water spray . And, then because of that  it is temperature and  the humidity  specific  
+humidity  both increases . 
+So, it is follow this line ok . And, we can calculate the difference in the enthalpy .  
+ma (W D –Wo) = m w  
+Qh= m a (hD-ho) - mw.hw  (Refer Slide  Time: 26:46 ) 
+ 
+Heating and dehumidification , in this process the air temperature  air temperature 
+increases and  it is humidity decreases . So, in this process what happened that  when  air is 
+coming and it is crossi ng through a  heat exchanger . So, it is taking the heat . So, 
+temperature is increasing . And, then it moves over the desiccant rotors . So, that is taking 
+away the moisture of it. So, that we are getting  the dry  and heated air out of the system . 
+So, it wil l follow  from this point  if you consider  from this point to  heating and 
+dehumidification point 2 . So, we are  getting the dry bulb  temperatu re here , we are 
+getting a lowering  of the  humidity and also we can assess the difference in  the enthalpy 
+between these two point . (Refer Slide Time: 28:02 ) 
+ 
+Then  mixing of air streams ; so, mixing of air streams  also important in certain cases of 
+the drying operation , where  we want to  recirculate some amount of the exit air with the 
+inlet air . Because , in some  hot air drying  this kind of phenomena is being done to make 
+the product quality better , because if we use  excess amount of  hot and  dehumidified  air 
+and sometime case hardening in all this phenomena may happen . So, that is  why this 
+kind of  recirculation or mixing of the air stream may be done . 
+So, what happened in this case that during this process 2 stream  having the mass flow 
+rate ma1 and ma2 and also having different moisture content a nd enthalpy are getting 
+mixed . And, most of the time they will end up in a int ermediate condition .  
+So, we can calculate the  mass , humidity & enthalpy  by using following equations.                   
+ma1+ m a2 = m a3 
+ma1W1+m a2W2= (m a1+m a2)W 3 
+ma1h1+m a2h2= (m a1+m a2)h3  (Refer Slide Time: 29:49 ) 
+ 
+So, if we  take an example , air at  20 °C, 40 % relative humid ity is mixed  adiabatically 
+with air at  40 °C , 40 % RH in the ratio of 1 kg of former with 2 kg of the latter on the 
+dry basis . Find the final condition that is h umidity and enthalpy of the air . 
+So, what we can do from the psychrometric  chart for the condition one , because we 
+know that 2 condition  if it is given . So, we can ca lculate all other conditions . stream 1 is 
+at 20 °C, 40 % relative humid ity. So, we can calculate  what is the humidity of that from 
+the ch art? So, we are getting  0.0058 kg H20/g dry air  and also we have calculated 
+enthalpy of that . Similarly condition  2nd 40 °C, 40 % RH corresponding to that what is 
+humidity specific immunity and what is the enthalpy ? 
+So, we will  use this equation to solve the  humidity of the final stream and also  we will 
+use this equation that is mass into enthalpy  balanc . So that; that will give us the value of 
+what will be the enthalpy of the stream that is after mixing . 
+So, we will stop  we will continue in the next class . 
+Thank you . 

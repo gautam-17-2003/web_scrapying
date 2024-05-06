@@ -1,0 +1,244 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 24  
+Performance Evaluation of a Walking Tractor Fitted with Track  
+Hi everybody, this is Professor H. Raheman and from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL course on traction engineering. 
+This is lecture 24 where I will try to give a description about how to evaluate  the performance 
+of a walking tractor when it is fitted with track? Wheels and tracks, these are the two common 
+traction devices which are usually fitted with tractors.  
+(Refer Slide Time:  1:03)  
+ 
+When I say walking tractor, means this study is confined to the power tiller. Since, power tiller 
+is operated by a human being who has to either walk behind or who has to sit on a frame to 
+control or to guide the operation of the power tiller. So, that is why we call it walking tractor. 
+Since the person has to walk behind the power tiller usually, in the power tiller a person has to 
+or the operator has to walk behind so that is why we call it as a walking tractor. So, the concept 
+which I take is the motion resistance, pull, tractive efficiency, slip, net traction ratio. These are 
+the parameters which will be considered for evaluating the performance of a walking tractor 
+when fitted with rubber tracks.  
+(Refer Slide Time:  1:59)  
+ 
+So, this is the power tiller which has been converted to be fitted with tracks. And the tracks 
+details are given in the right figure where the lug height, lug angle etcetera are given and the 
+pitch of the lug all those things are given and the tyre tread p attern and the lug patterns which 
+are provided in the track, they are nearly same. So, now the track, walking tractor has been 
+replaced with a track on both the sides and for mounting the track we require some 
+modifications in the power tiller. That means we have to provide an idler in the front and this 
+is the driver roller that is fitted to the axle of the power tiller. That means this is powered. The 
+front one which is idler is not powered. And to keep tension on the track we provide some 
+intermediate ro llers here and here so that during operation, the torque is perfectly horizontal on 
+the surface on which it is going to work.  
+(Refer Slide Time:  3:15)  
+ 
+So, the details of walking tractor, what is this engine, what is mass? So, engine is, VST Shakti 
+is the model 130 DI and this is a diesel engine, 4 stroke diesel engine and is the horizontal one 
+and it develops 9.7 kW or 2400 RPM, its total mass after modification, that means after 
+attaching the track comes down to 530 kg initially it was 430 kg with the pneumatic wheel. 
+When you replace the pneumatic wheel, because of these arrangements, its weight has been 
+increased to 530 kg. Then these are the dimension s of the track, width of the track is 0.15 meter, 
+contact length is 0.78 meter and then diameter of the front idler, diameter of the rear drive 
+wheel and diameter the road wheels all are mentioned like 0.34 meter, 0.55 meter and 0.11 
+meter.  
+(Refer Slide Time:  4:18)  
+ 
+So, to measure different tractive parameters, we need to have some instrumentation, 
+instrumentation for measuring what is the pull which the power tiller the walking tractor is 
+going to develop and how much you pull it is required to tow this power tiller for that also it 
+needs kind of loadcell. So, that is I have indicated here a loadcell which is attached to a frame 
+which is mounted to the power tiller chassis and this is kept horizontal during operation so that 
+whatever pull we are getting that is almost  nearly the horizontal component that is equal to 
+your draft. Then the important component, other important component is the wheel actual 
+wheel speed. For measuring actual wheel speed , you need to know what is theoretical speed. 
+And then you need to know what is actual speed? So, for this what we have done is, for 
+measuring theoretical speed, we have put on spikes here. You can see a lot of spikes are present 
+and are fixed to a sprocket  which is attached to this rim and then we have a proximity sensor, 
+which will try to sense these spikes so that it can give a signal to the in the output. Basically, a 
+proximity strategy is nothing but it senses the presence of any metallic object like th ese spikes. 
+So, once it senses then it gives a signal. So, that signal or the spike which you are getting and 
+the output will be counted and the time duration if you know, then you can find out what is the 
+speed of operation. Similar exercise or similar ar rangement has to be made for measuring the 
+actual velocity. So, but in power tiller since there are one drive axle and there is no axle in the 
+front, the front one is idler which is provided. So, what we have done is, we have put a separate 
+wheel which is a towed wheel and this is mounted to the walking tractor chassis. So, that speed 
+again has to be measured using his proximity. So, that will give you what is the actual velocity. 
+So, actual velocity, theoretical velocity then that will give you what the co rresponding slip. So, 
+we need to know slip, we need to know pull, then only calculate the drawbar power and we 
+utilize  this loadcell for measuring the rolling resistance.  (Refer Slide Time:  7:09)  
+ 
+That means, I will show you the setup. How did you measure the rolling resistance? So, we 
+have measured pull by using a loadcell and you have to measure rolling resistance or the motion 
+resistance by using the same loadcell, but the arrangement is a little  different. If you look at the 
+top figure, the power tiller is used to pull a tractor that means, this is going to give you the 
+drawbar pull performance for different conditions. Now, the lower one is a set of where the 
+power tiller is kept behind and, in the front, there is a tractor. So, this kind of arrangement is 
+meant for measuring motion resistance that means, how much force is required to tow this 
+walking tractor that has to be measured. So, for which we put a tractor in the front and closer 
+to the t ractor we put a loadcell. So, and with the help of wire we tried to connect the power 
+tiller with the loadcell and the tractor in the loadcell. So, the power tiller is kept idle in neutral 
+and then the tractor is going to pull it at a certain speed, speed could be 1 kilometer per hour or 
+speed could be 2 kilometers per hour. Then we try to find out what is the output from the 
+loadcell and that is recorded in a data acquisition system and that is recorded in and computed 
+through a data acquisition system. So , by this we can find out how much is the force required 
+to move this power tiller. So, that becomes your motion resistance.  
+Now, if we look at the top figure, we are interested in finding out pull developed by the walking 
+tractor for different conditions. Different conditions mean maybe a different slip value. So, 
+how do you control slip here? Here, basically you are not contro lling slip, the power tiller is in 
+the front, tractor is in the back side and the loadcell is in between that means it is closer to the 
+power tiller so that the line of pull is almost horizontal and the loadcell one end of loadcell is 
+connected to the trac tor and the other end is connected to the power tiller.  
+So, when you try to find out what is the pull developed? So, you have to run the tractor at a 
+speed which is lesser than the speed at which we want to operate the power tiller so that the 
+tractor can exert some pull. So, by reducing the tractor speed, you can vary the pull and that 
+pull has to be measured along with the wheel slip.  
+So, that will give you how much drawbar power which is developed by the power tiller. So, 
+this data related to pull and the slip. Slip means the actual velocity and the theoretical velocity, 
+all these information  they are collected through a data acquisition system and stored in a 
+computer. These are the basic instrumentation which is required to carry out this kind of study.  
+(Refer Slide Time:  10:30)  
+ 
+Next, the data which you obtained that we tried to plot. The first is motion resistance. So, 
+motion resistance versus travelling distance, this has been plotted for three different soil 
+conditions. That means, we varied the soil condition starting from 250  kPa to 1000 kPa. The 
+average value I am talking about. So, that means, when this soil cone index is 250 kPa plus or 
+minus 50 that we take as soft soil when the soil cone index is 500 ±50 kPa then we take as 
+medium soil and when the soil condition is 1000 ±50 kPa, we take as hard soil. And for these 
+three different soil conditions what we have measured is, the motion resistance and the values 
+are 1012 in 250 kPa that means, soft soil; 775 Newton in medium soil and 620 Newton in hard 
+soil. Soft soil gives maximum motion resistance as compared to hard soil, same is the case for 
+motion resistance ratio. It is the maximum in case of soft soil and minimum in case of h ard 
+soil. Why it is so? It is basically due to sinkage of track in the soil. Since the soil is soft, it may 
+not sustain the weight of the track. So, that might be some kind of compaction and sinkage. So, 
+that creates or that require more force to tow a walking tractor.  
+So, when the soil is hard, the sinkage is less. So, we require less power to tow it, only less 
+forced to tow it. So, that is motion resistance is less in case of hard soil. This is one of the 
+parameters which you are interested and this was found that roll ing resistance variation or the 
+motion resistance variation with slip is not that much, it is very minimal. So, that is why in all 
+calculations, you have taken this as the motion resistance for different pulling conditions.  
+(Refer Slide Time:  13:02)  
+ 
+Now, coming to drawbar pull. The pull which is sent by the loadcell that we try to plot versus 
+wheel slip. Again, for three different soil conditions we got three curves: the green one is for 
+hard soil and red one is for medium soil that is 500 plus or min us 50 kilo Pascal and the blue 
+one is for soft soil. So, nature of the curve is similar in all these three soil conditions. That 
+means, it initially increases at a faster rate then slowly it reaches to a peak after that it remains 
+almost constant. So, the pull which is developed in hard soil and the pull which is developed 
+in soft soil, they are not same. There is a variation, variation in the sense there is a difference. 
+So, at different slip values starting from 15, 20 and 25 per cent, I have given the pu ll values, 
+the drawbar pull which is developed. So, if you look at this, the maximum drawbar pull is 
+developed in 1000 ±50 kPa. That means, in hard soil, pull developed is much higher than the 
+pull which is developed in soft soil whether it is 15 per cent slip, whether it is 20 per cent slip 
+or whether it is 25 per cent slip. So, this is because of the rolling resistance, because  rolling 
+resistance is more in case of soft soil.  
+Even if the tractive effort developed by the power tiller is same, because of the higher rolling 
+resistance, much power is lost due to that, then the net pull is reduced. That could be a reason. 
+Now, if you look at the medium soil it is lying in between th ese two soil conditions one is the 
+hard soil the other one is the soft soil. Now quantified, how much is the reduction. So, we can 
+see here, pull developed by walking tractor was higher in hard soil condition and a decrease in 
+the soil as the soil became s oft. So, peak tractive efficiency which is derived from this pull and 
+coefficient of a rolling resistance, so, together we have to take to find out peak tractive 
+efficiency. So, that values, it has been indicated like 51.15 per cent and what is the 
+corresp onding slip. Similarly, in medium soil it is 63.3 per cent and what is the corresponding 
+slip and in hard soil it is 70.7 per cent at around 10 per cent slip. So, for three different soil 
+conditions it has been given.  
+(Refer Slide Time:  16:06)  
+ 
+ 
+And let us now see the nature of the curve. This is tractive efficiency which is nothing but  
+pull by tractive effort which is nothing but  
+𝑃𝑢𝑙𝑙(𝑃)
+𝑃𝑢𝑙𝑙(𝑃)+𝑅×(1−𝑠) 
+So, I have not written W here , because W remains same that is cancelling this one. So, only I 
+have taken P plus, P by P plus RR rolling resistance motion resistance. So, the nature is tractive 
+efficiency is reaching to a peak value after certain slip.  
+So, if you draw a line here, this is the slip. Here it is getting this in this slip it is getting 
+maximum. Then after that it is slowly going down and the rate of decrease is more in case of 
+hard soil. So, the nature of the curve is same. Initially it rise s to a peak  at a faster rate then , it 
+goes down. So, the initial reduction in tractive efficiency is because of the power which is lost 
+due to overcome the rolling resistance. And after 20 per  cent slip, whatever reduction is there 
+is because of the wheel slip and the track slip. So, the power is lost because of the higher slip. 
+So, that is the reason we are getting a peak at the particular value or in a particular range of slip 
+value.  
+(Refer Slide Time:  17:48)  
+ 
+So, the maximum tractive efficiency which is developed by the track was 51.15 or the slip of 
+16.8 per cent and that is in case of a soft soil, here 16.8 somewhere here and for medium soil 
+it is 0.63 so, at slip of 11.85 somewhere here and for hard soil we are getting a maximum value 
+of 70.7 at the slip of 9.0. So, slip at medium, slip at hard soil they were close. So, that means 
+within 10 to 11 per cent or 12 per cent we are getting the peak values, whereas in case of soft 
+soil we are getting a peak value b eyond 15 per cent but nevertheless it is lesser than 20 per 
+cent. Our maximum target is 20 per cent.  
+(Refer Slide Time:  19:02)  
+ 
+Let us see, now the plot, the different plot where we will see the effect of all the parameters, 
+performance parameters that means in y axis we have traction ratio and slip ratio and on the x 
+axis we have net traction ratio which is nothing but your coefficient of traction. That means the 
+dotted lines are indicating the tractive efficiency for three different soil conditions: the green 
+one is indicating 4000 kilo Pascal, the red one is indicati ng for 500 kilo Pascal average and the 
+blue one is indicating for soft soil. And the lower three solid lines, the green one is 4000 kilo 
+Pascal (this a slip value) and the red one is for 500 kilo Pascal (this is slip value) and the blue 
+one solid line is i ndicating the slip value.  
+So, tracks usually achieve peak tractive efficiency or higher NTR that means higher Net 
+Traction Ratio. If you look at the peak value, it is somewhere here in hard soil and in case of 
+medium soil it is somewhere here and in case of soft soil it is somewher e here. That means, the 
+NTR value maximum we are getting is 0.3 in case of soft soil, in case of medium soil it is 
+0.3637 like that and in case of hard soil, that is beyond 0.4. So, I have summarized the 
+performance parameters like maximum tractive efficie ncy, slip at maximum tractive efficiency, 
+what is the NTR at maximum tractive efficiency and the efficient NTR. This is one parameter 
+which I have found out from this curve.  
+So, if you look at the values, again maximum tractive efficiency values are given. So, it is 
+maximum in case of hard soil and it is minimum in case of soft soil and the peak which you 
+are getting in soft soil is at the higher slip that is 16.8 percent and the peak 0.707 which you 
+are getting is at a track slip of 9.96 percent in case of hard soil. And the corresponding NTR 
+you can see, it is more than 0.42 in hard soil, it is 0.366 in medium soil and 0.29 is roughly 
+equal to 0.3. Now, I have defined the ter minology efficient NTR range. That means, if you look 
+at the curve, we can see that you are not getting the peak at a particular point. you are getting 
+a peak at a wider range of NTR. This is the range you can say for medium soil and for hard soil 
+this is the range.  
+So, that range I have taken as the efficient NTR range. That means, the track is able to develop 
+maximum tractive efficiency for a wider range of pull values. So, when I said NTR, NTR is 
+nothing but P by W. That means for the pull value of 24 per cent to 3 7 per cent, there we are 
+getting the maximum tractive efficiency in case of a soft soil; in case of medium soil, it is 
+varying from 27 per cent to 43 per cent and in case of hard soil the range is still larger in the 
+sense 31 per cent to 47 per cent. That means the track will perform better for different pulling 
+conditions, which is not the case in case of a pull type tractor.  
+So, the three parameters if you look at coefficient of traction, then tractive efficiency and the 
+other parameter is slip. And let me discuss a little bit about slip. If you look at slip, nature of the curve, we can see, traction ratio is varying with slip. So, it is reaching to a peak then it is 
+going down, is reaching to a peak then going down. That means, the slip is increasing in case 
+of soft soil to get the maximum peak of a tractive efficiency,  the slip is more in case of soft soil 
+as compared to hard soil. So, that is the reason why the tractive efficiency is less. So, higher 
+slip means most of the power is lost in overcoming the rolling resistance. So, that is why you 
+are getting a lesser trac tive efficiency.  
+(Refer Slide Time:  24:26)  
+ 
+If you summarize this one, what we discussed, these are all field experimental data, so that is 
+why from there we concluded like this rubber track experience the higher motion resistance in 
+soft soil and the loss due to motion resistance decreased with inc reasing strength, soil strength. 
+The pull which is developed by walking tractor was higher in hard soil condition and a decrease 
+as the soil become soft. Peak tractive efficiency which is obtained as 0.51 at 16.8 per cent, 
+0.633 at 11.85 per cent and 0.707  at 9.96 per cent track slip for three different soil conditions 
+like 250 kilo Pascal, 500 kilo Pascal and 1000 kilo Pascal.  
+The peak tractive efficiency, it was higher at higher NTR values and this higher peak tractive 
+efficiency was prevailing for a wider range of NTR, that is the plus point in case of a track. 
+Then the maximum tractive efficiency, which is obtained which I ha ve already discussed, I 
+think, so, that is maximum is 51 per cent in case of soft soil and in case of hard soil it is 70 per 
+cent and the slip is within the limit of 20 per cent, because in case of wheels we usually take 
+wheel slip to be 20 per cent, withi n 20 percent. But what we are observing here is, in case of a 
+track maximum is obtained at less than 20 per cent.  
+(Refer Slide Time:  26:18)  
+ 
+ 
+So, in this lecture what I have attempted is, I tried to discuss about the measurement techniques, 
+how to measure the different performance parameters, tractive performance parameters like 
+rolling resistance, pull and slip and then tried to discuss about t he data which is obtained, the 
+data which are obtained related to a walking tractor fitted with tracks and then we tried to 
+discuss what is the nature of the curve and how the tractive efficiency is varying and how we 
+observe the important thing which was observed is the range of tractive efficiency maximum 
+tractive efficiency values.  
+So, that is more important. That is all, thank you.  
+So, this study has been taken like this field experiment data was related to the experiments 
+which he conducted at IIT Kharagpur and some of the papers we have published and based on 
+this data we have discussed this thing that is all. Thank you.  
+ 

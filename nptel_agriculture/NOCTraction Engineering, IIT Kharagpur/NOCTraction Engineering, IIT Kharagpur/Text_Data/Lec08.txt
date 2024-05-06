@@ -1,0 +1,198 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Agricultural  and Food  Engineering  Department  
+Indian  Institute  of Technology,  Kharagpur  
+Lecture  08 
+Measurement  and Characterization  of Terrain  Response  
+Hi everyone . This is Professor  H. Raheman from  Agricultural  and Food Engineering  
+Department , IIT Kharagpur . I welcome  you to this NPTEL  online  course  on Traction  
+Engineering . This is the lecture  8, where  I will try to cover  Measurement  and 
+Characterization  of Terrain  Response . 
+(Refer  Slide  Time:  0:54)  
+ 
+The concep ts which  will be covered  are terrain  characterization , plate  sinkage  test, sinkage  
+modulus  of cohesion,  then sinkage  modulus  of internal  friction . So we will try to find out 
+how to utilize  this terrain  characterization , which  will help you in evaluating  the performance  
+of a vehicle .  (Refer  Slide  Time:  1:20)  
+ 
+Measurement  of both normal  pressure -sinkage and shear  stress -displacement  relationship  is 
+of prime  importance . Why we call it as of prime  importance  because  the load is acting  on the 
+wheel  and the wheel will cause  certain  soil compaction , and thereby , rolling  resistance  or the 
+motion  resistance  is developed .  
+Now when  a torque  is applied  to the wheel , a shearing  force  will be initiated  or a shearing  
+force  will be developed  at the tire or the wheel -soil interface . So we need  to know  what  is the 
+pressure , which is applied  through  the wheel . So, that there  is sinkage  in the soil, sinkage  of 
+the wheel  in the soil, or we need  to know  what  is the stress  it is developed  because  of the 
+torque  which  is supplie d to the wheel  and the corresponding  shear displacement . 
+So these  are the two parameters , which  are to be studied  and the most  used technique  to study  
+these  two tests are your Beva meter  technique . It comprises  of two sets of tests,  one is your 
+plate  penetr ation  test, the other  one is shear  test.  (Refer  Slide  Time:  2:48)  
+ 
+So let us now see, what  is this plate  penetration  test and what  is the shear  stress , shear test? 
+Plate penetration  test, if you look at this figure , there  are plates  of different  sizes  that are to be 
+forced  into the soil and then we try to measure  how much  is the pressure , which  is required  to 
+force  this plate  into the soil. Now question  arises  what  sizes of plate  are to be inserted  into the 
+soil? So size of the plate  should  simulate  the contact  area of tire.  
+So, and the aspect  ratio can be maintained . Aspect  ratio means  the height  to width  ratio 
+should  be more  than 5 to 7. And the minimum  width  can take as 5 centimeter , but 
+nevertheless , it should  be, should  not be less than 10 centimet er; that is the minimum  width  of 
+the plate  we have  to take. Now different  sizes  of plate , they are to be inserted  into the soil 
+with the help of a hydraulic  cylinder  and how much  is the force , which  is required  to push  
+that soil, that plate  into the soil that force are to be recorded , continuously  and what  is the 
+corresponding  sinkage ? So in this figure  there  are two plates  indicated  b1 and b2, and the 
+pressure  which  is recorded  that is indicated  for different  depths  in this graph , D versus  Z for 
+two differ ent plates .  
+The other  test is your shear  test. Shear  test means  in lecture  7 we tried to discuss  about  the 
+shear  annulus . So basically  this is a shear  annulus  plate  which  has to be rotated  for different  
+normal  loads and what  is the corresponding  torque , which is required  to cause  failure  to the 
+soil that is to be recorded .  So there  should  be a torque  meter , there  is a hydraulic  loading  cylinder  and how much  torque  
+is required  to cause  rotation  of this plate  that has to be measured , either  you can put a torque 
+meter  or you can put a sensors  to measure  that. Now knowing  the torque  and the outer  
+diameter  the expressions  which  we give in case of lecture  5, so you can find out what  is the 
+torque  required  to cause  shear  failure .  
+That means  if you plot torque  versus theta you can see after some  time the nature  of the curve 
+will be almost  static  or it will try to go down . So this has to be done  for 2, 3 different  plates , 
+minimum  3 plates . If you take 2 plates  I will discuss  what  are the limitations , if you take 2 
+plate , so you have  to take minimum  3 plates . So this is all about  the beva meter  technique , let 
+us now see what  is the pressure -sinkage  test? How we can handle  those  data which  is, which  
+are obtained  from  this pressure  sinkage  test.  
+(Refer  Slide  Time:  6:04)  
+ 
+Now, the pressure -sinkage  data if you plot it can take different  shapes , which  are shown  in 
+the right  hand  corner . If n is less than 1, then the tendency  it is going  down , if n is 1 it is a 
+straight  line at an angle  of 45 degree , if n is greater  than, sorry , if n is less than 1 this is going  
+down , if n is greater  than 1 it is going  up and if n is 1 it is almost  a straight  line.  
+So the relationship  can be described  by an equation , which  is given  by Bakker’s that is 
+ 
+So k is the modulus  of sinkage  and z is the sinkage  and n is the exponent  of sinkage . So now, 
+when  you try to find out what  is k? So, what  we observed  is  
+ 
+Where kc is the sinkage modulus  of cohesion  and k phi is the sinkage modulus  of internal  
+friction  and b is the width  of the plate . That means  in a plate  b is the smaller  dimension , so 
+this is b.  
+(Refer  Slide  Time:  7:43)  
+ 
+Now, for two plates if you try to collect  data, then we try to relate ; for plate  1, we will get a 
+relationship  
+  
+And for plate  2 
+ 
+So this if you look at, if I take log on both the sides  then  
+ 
+Now  log P1-log z, if you try to plot you will get a straight  line plot like this which  is shown  
+here for a plate  b1, for a plate  b2, where  b2 is dimension  is greater  than b1. Now, after getting  
+these  plots , the next thing  is how to find out this kc, k phi and n. Now, slope  of these  two 
+plots  will give you the exponent  of sinkage.  But question  is whether  the two plots  which  you 
+get for the two plates , are they parallel ?  
+If they are not parallel  then what  value  of slope  you are going  to take? So, if they are parallel , 
+it is very simple . Any one slope  you can take as the exponent  of sinkage , but if it is not 
+parallel , if these  two lines  are not parallel , then what  you have  to do is you have  to take the 
+slope  of individual  lines , then take the average  of the slope  and then find out what  is the 
+average  slope  that represents  the exponent  of sinkage .  
+Now after finding  out the exponent  of sinkage,  then question  is how to find out kc and k phi. 
+So, in this plots  what  you can see there  is an intercept , if you look at this equation  or this 
+equation , the intercept  is nothing  but your log k. So I have  indicated  for plate  b1, the intercept  
+as a1 and for b2, the intercept  as a2. Now at z is equal  to 1. So, what  will happen ? So this 
+component  will be 0, this component  will be 0.  
+(Refer  Slide  Time:  10:18 )  
+ 
+ 
+ 
+ 
+But the limitation  of this kind of expression , which  you derived  is, it is only applicable  when  
+the sinkage  is 1, z is equal  to 1, then only you can derive  this. But all the time you may not 
+get sinkage  as 1. So in that case how to find out kc and k phi.  
+(Refer  Slide  Time:  12:37 )  
+ 
+So that’s why, in the beginning  I said at least you have  to take 3 plates  and the plate -sinkage  
+test has to be carried  out for 3 sizes  of plates , whether  it is a rectangular  plate , whether  it is a 
+circular  plate , does not matter , but if you are taking  a circular  plate , then the radius  should  be 
+equal  to the width  of the rectangular  plate . So now if you are taking  3 plates  then you will be 
+getting  three  k values ,  
+.  
+So in that case, for three  plates  you will get three  k values . Now if you try to plot these  k 
+values  versus  1 upon  b, so then you will land up with, t hese are the points  which  you get and 
+then you best fit a line passing  through  these  points  and extend  it to touch  the y axis. So now 
+the intercept  will give you directly  k phi, and the slope  will give you kc. So this is a little 
+simpler  and free from  error  in the sense , for any depth  you can find out the kc and k phi value  
+by using  three  plates .  
+(Refer  Slide  Time:  14:06 )  
+ 
+So, now this has been  proposed  by Bakker’s, so let us now see, what  is the limitation  of this 
+Bakker's pressure -sinkage  equation ? P is equal  to kz to the power  n. The value  of kc and k 
+phi, they are dependent  on n. If we vary n that dimension , the unit will change , and this is 
+applicable  to soil, which  is to be homogeneous . If it is a non-homogenous  soil then 
+applicability  of this equation  is not known .  
+(Refer  Slide  Time:  14:47)  
+ 
+So another  scientist , named  Reece, he tried to modify  that equation . So he developed  an 
+equation    
+Where n, kc dash and k phi dash they are all dimensionless  and gamma  is the wet density  of 
+the terrain  and b is the width  of the plate  and z is the sinkage . Now he tried to prove  the 
+principl e parameters  which  are used, the principl e features  of this equation  here he tried to 
+verify .  
+And what  he has done  is, he has carried  out different  plate -sinkage  tests by taking  plates of 
+different  sizes , starting  from  1 inch to 4 inch and with the aspect  ratio of 4.5, then what  he has 
+done  is, initially  he tried in a clayey soil. So if it is a clayey soil means , the equation s simply  
+implies  that k phi is 0, so that means  p versus  z by b, if we will plot, irrespective  of which  
+size of plate  you take, the curve  will be similar . Similar  means , they will merge  into one  
+curve , so which  is indicated  in this figure .  
+Now he has taken  a sandy  soil, where  c is equal  to 0. So if that is so that means  the pressure  
+required  to cause  penetration  depends  on the size of the plate . When you increase  the plate  
+size then pressure  will increase . So, this pressure  versus  z by b ratio, when  it is plotted  you 
+can see for different  sizes  of plates , these solid  lines , these  are the plots  which  you obtained .  
+So that means  whatever  equations  he has developed  that is fitting  to the experimental  
+findings . Now what  he has done  is in dry sand, he calculated , he measu red and verified  these  
+are the solid  lines  are the plots  for the dry sand, and in that dry sand he tried to add certain  
+water . So by adding  water  what  happens , the c value  is not changed  rather , some  cohesive  
+force  will come  into picture  and the pressure  which will be required  that will be increased .  
+And that is what  he has obtained . You can see 13 millimeter  plate  and 13 millimeter  plate , 
+when  water  is added . So there  is a difference , so this is the pressure  versus  z by b plot, when  
+moisture  is added . So that is reflected  in this equation . Similarly  for 25 millimeter , you can 
+see, when  it is a dry sand you are getting  this line, when  moisture  is added , you are getting  a 
+line this.  
+So the features  which  are observed  experimentally , those  features  are reflected very nicely  in 
+the equations , which  are developed  by Reece . But again  this equation  is suffering  from , the 
+limitation  is that it has to be applied  in a homogeneous  soil. And for non-homogeneous  soil 
+the pressure -sinkage  relationship  of terrain  using  a smaller  size plate  may not be extrapolated  
+for a larger  size plate . So these  are the limitations .  
+So we discuss  about  the two equations  which  are available  for finding  out the pressure -
+sinkage  relationship ; one is Bekker's equation , the other  one is Reec e equation  and those  are 
+applicable  to homogeneous  soil. Now if the soil is non-homogeneous  like organic  muskag e, 
+so in that case what  will happen  to this pressure -sinkage  relationship ? So let us now see that.  
+(Refer  Slide  Time:  19:03 )  
+ 
+So organic  muska ge means  there  will be vegetative  cover  on the top surface  and on the 
+bottom  surface  there  will be  peat,  a saturated  peat.  So if, that is the soil condition , then the 
+pressure -sinkage  test with a plate  of radius  10 centimeter , shows  this kind of curve.  Initially , 
+there  will be resistance  which  will be offered  by the vegetative  cover , then after the 
+vegetative  cover  is about  to fail, then what  will happen ? 
+The lower  saturated  peat or clay that does not offer  that much  of resistance , so it will start 
+decreas ing. Okay. So here the relationship  is indicated  by 
+ 
+For z is the sinkage , kp is the stiffness  parameter  for the peat and mm is the strength  
+parameter  for the surface  mat and Dh is the hydraulic  diameter  of the contact  area. So, which  
+is equal  to 4A/L, where  A is the area and L is the perimeter  of the contact  patch .  
+So utilizing  this equation  we can find out the pressure -sinkage  relationship  for organic  
+terrain . What we have  considered  here is, the organ ic terrain  has two layers , as I said, the one 
+is the surface  mat or the vegetative  cover , this is idealized  as a membrane  like structure , 
+which  means  that it can only sustain  a force  of tension  directed  along  the tangent  to the 
+surface  and it cannot  offer  any resistance  to bending .  
+And the peat is assumed  to be a medium  that offers  a resistance  proportional  to its 
+deformation  in the vertical  direction . So we discuss ed, the two equations  which  are used for 
+finding  out the pressure -sinkage  relationship  for homogeneous  soil. Then the other  
+relationship  is for the muskage  or the vegetative  cover  with peat below .  
+(Refer  Slide  Time:  21:28 )  
+ 
+ Now one thing  I like to say here is the plot in case of k versus  1/b, here the k value  is the, 1 
+by k is equal  to. This is for finding  out kc and k phi and that means  the cohesive  modulus  of 
+sinkage  and the frictional  modulus  of sinkage  and exponent  of sinkage . So this is all about  the 
+Terrain  response .  (Refer  Slide  Time:  22:24 )  
+ 
+So in brief  I can conclude  that attempts  are made  to describe  the bevameter  technique , which  
+is used for measuring  modulus  of sinkage  and exponent  of sinkage  and these  are required  for 
+evaluation  of off-road vehicle  and terrain  characterization .  
+(Refer  Slide  Time:  22:42 )  
+ 
+So you can refer the books  like ‘Terra mechanics  and Off-Road Vehicle  Engineering ,’ then 
+‘Off-Road  Vehicle  Engineering  Principles’ for further  clarification . Thank  you. 

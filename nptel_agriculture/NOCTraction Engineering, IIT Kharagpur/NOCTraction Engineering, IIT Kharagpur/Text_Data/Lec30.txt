@@ -1,0 +1,242 @@
+Traction Engineering  
+Professor Hifjur Rah eman   
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 30 
+Measurement of Tracti ve Efficiency  
+Hello everyone, this is Professor H Raheman from Agricultural and Food Eng ineering 
+Department . I welcome you all to this NPTEL  course on Traction  Engineering . This is 
+Lecture 30, where we will try to cover on measurement of Tractive  Efficiency . 
+(Refer Slide Time: 00:43)  
+ 
+The concepts which I am going to cover is , what are the paramet ers which will be affecting 
+tractive  efficiency like pull, actual velocity and thrust and how to measure tractive efficiency 
+when you get data related to these three parameters. So, the set up which will be used will be a 
+single wheel  tester and there  we will try to v ary pull, to vary the load , to vary the inflation 
+pressure.  In fact, tractive efficiency is a function of load , is a function of pull, is a function of 
+soil condition , is a function of inflation pressure.  
+But for our purpose what I  will do is, I will keep the load and soil condition same only , and 
+inflation pressure also I  will keep the same and I  will only vary the pull so that what is the 
+corresponding sl ip you are going to measure and then knowing the pull values, actual 
+velocity values , slip value and the torque how much you have supplied and the rolling radius 
+of the wheel . We can utilize those values to find out tractive efficiency . (Refer Slide Time: 02:10)  
+ 
+Now, I  will show you how to evaluate the performance of a tractor t yre. So, th e set of which 
+is available here is a single wheel  tester, only one will be tested at different operating 
+conditions . When I said operating conditions, that means you have to vary the load , you have 
+to vary the inflation pressure you have to vary the soil co ndition . Soil condition means the 
+moisture content as well as the strength of soil that is cone  index.  
+(Refer Slide Time: 02:38)  
+  
+ 
+So, to vary the load , what we have done is we have added some external weights , it has its 
+own, the set up has its own weig ht and suppose you want to test at 1400 kg then the extra 
+weight which is required , we have to put it on this platform so that the entire weight comes 
+on the wheel. Now, to vary the inflation pressure, we can put more here or you can remove 
+air by which you  can vary the inflation pressure of tire . 
+Then the power has to be supplied , that is the important thing . Power has to be supplied to the 
+axle of the wheel. So, we have taken basically from a n electric motor , three phase AC motor , 
+so, 1450 RPM has to be c onverted into RPM which is corresponding to 2.5 or 3.5 km/h . 
+So, we have made some transmission arrangement, where the gears are , this sprocket  chain 
+and sprockets are provided which will give the positive drive , so there is absolutely no slip 
+and then there is a gearbox.  So, finally, we want more torque and low speed. So, that is possible with the help of this gearbox and the chain and sprocket drive . Then in addition to 
+that, we need to measure the theoretical speed as well as actual speed.  
+So, for measuring actual speed, we have a proximity sensor here and there is a roller here 
+with a metal bar . So, when the wheel moves forward, this is going to rotate and this bar 
+which is provided here, when it comes in the closeness of this proximity switch , then there 
+will be a signal sent to the output so that output will be stored in the computer.  
+So, you will basically measure the number of pulses and the corresponding time . So, number 
+of pulses divided by time that will give you actual velocity . Then the  most important thing is 
+how much pull you are going to apply . 
+(Refer Slide Time: 04:36)  
+ 
+ So, we have to apply pull. For applying pull, we have a brake drum dynamometer , and a wire 
+is wound over this and the end of the wire has to be connected to this fr ame with the help of a 
+loadcell, so that load cell will give you how much pull you are going to apply . 
+(Refer Slide Time: 04:53)  
+ 
+  
+So, we are connecting the wire which is wound around the back drum and then it is connected 
+to the ring type load cell. So, now we  will apply load by using some external weight. So, this 
+is a brake drum dynamometer . When I put some weight that means that will give tension to 
+this wire. So, thereby it will try to exert pull on the total frame.  
+So, this frame is attached to the frame of the wheel. So, indirectly we are pulling the wheel 
+from behind. So, that is going to give you how much pull you are applied and then 
+corresponding to that pull how much will be the slip that we are going to measure . (Refer Slide Time: 05:38)  
+ 
+We have to apply a power to the axle of the wheel , to measure that power to the axle of the 
+wheel , we need to know how much torque is coming. So, for measuring torque , we have 
+installed a torque meter here and that will give you how much is the torque whic h is coming 
+from this electric motor . Then knowing the transmission efficiency, we can find out how 
+much torque is supplied to the wheel.  
+(Refer Slide Time: 06:02)  
+  
+And next is the theoretical speed , the theoretical arrangement  is again the proximity sw itch 
+with eight spikes here which are provided . Each spike when it comes in closeness to the 
+proximity  switch  then there will be a pulse generated and that pulses  will be counted and that 
+pulses will be recorded in the computer directly.  
+And knowing the t ime and the number of pulses we can find out how much is the theoretical 
+speed of that wheel.  So, we have a transmission here system , so you  have maintained  same 
+gear ratio, so that whatever is the RPM of the wheel, same RPM is provided to the shaft,  
+where  this flat shaped plate is attached . So, there are eight spikes .  
+So, that means , in one complete revolution, we  will get eight spikes . So, eight spikes means 
+one revolution . If you know the time then you can find out what is the revolution per unit 
+time. Now , I will show you what is the soil condition before starting the experiment on 
+tractive performance of a t yre. (Refer Slide Time: 07:08)  
+ 
+ 
+So, you can see the soil bin, it is very label ed and we have already measured the cone  index , 
+the cone  index value , our cone  index value is coming around 630 kilo Pascal . So, we will 
+start by switching on the power supply to the motor . Now, you have switch  in power to the 
+motor . So, power is transmitted , the wheel is moving, pull is applied and we will measure t he 
+actual speed, theoretical speed, pull and torque simultaneously . 
+Now, you can see the pull is perfectly horizontal. Now , you can see the pull is perfectly 
+horizontal that means the line of action is perfectly horizontal. And we have already 
+measured the  different parameters like pull, actual speed, theoretical  speed , torque, and then 
+you can see the soil bin condition . After the operation you can get a clear print of the single 
+wheel, you can see the footprint , footprint of the t yre. So, if you  are interested in finding out how much is the sinkage  that also you can measure, 
+because we know the level of the soil before and now how much it has inserted that means 
+how much is the sinkage we can check the sink age by using a pointer . 
+(Refer Slide Time: 08:37)  
+ 
+  
+The data which  you are acquired through a data acquisition  system they are transferred to a 
+computer and these are the direct plots . I can show you , plot of pull versus time , theoretical 
+velocity that means number of pulses which are coming versus ti me, then what is the number 
+of pulses coming for measuring actual velocity these three plots directly they are coming to 
+the computer . 
+And in addition to that, we have plots of pull versus time , this is pull  versus time. So, you can 
+see how the pull is var ying. So, you have to take the average pull, so you  are getting a big 
+pull here. So, and the minimum pull because this cyclic type of thing which is happening. So, 
+either you have to take maximum pull all you have to take the other is pull, so it is better  to 
+take maximum pull because since you have exerted maximum pull, so corresponding to that 
+there will be certain amount of slippage.  
+So, you are taking maximum pull here and then we measure d torque . So, this is how torque is 
+varying . So, you can take the a verage torque or you can take the maximum torque. So, we 
+have the data related to pull , we have the data related to torque , we have done data related to 
+the actual velocity which is coming around 0.703 m/s and we have data related to theoretic al 
+speed which is coming around 0.73 m/s. 
+So, now with these values, next thing is how to find out the coefficient of traction, then we 
+have to find out what is the tractive efficiency. So, for finding out coefficient of trac tion we 
+need to kn ow the value of pull and the weight , weight total is coming on the wheel as 1400 
+kg. So, once we find out what is the maximum pull, then pull divided by weight will give you 
+coefficient of traction . Then to find out the tractive efficiency, we need to know  the coefficient of traction value then 
+we need to know the torque value because it is the ratio of drawbar power to axle power. So, 
+axle power we can calculate by knowing the torque and the RPM, so Tω will give you the 
+axle power and for drawbar power w e know the pull we know the actual velocity, so 
+(P×Va)/Tω. So, that will give you the tractive efficiency . 
+When you will multiply with 100 so that will give you tractive efficiency in percentage . That 
+means, we have measured coeffic ient of traction , we have measured slip, we have measured 
+tractive efficiency, these are the parameters which are required to find out to the tractive  
+performance of a wheel.  
+(Refer Slide Time: 11:38)  
+ 
+ Now, I will take the cone penetrometer reading afte r operation of the tire . Now, he has  made 
+it zero. So, this shows  the zero level . Now, he has pushed the cone penetrometer  into the soil. 
+So, that will give you how much is the strength of soil after operation of the tire . 
+(Refer Slide Time: 12:05)  
+ 
+ 
+We t ry to measure the sink age level after the operation of the tire. So, initially I will take the 
+depth of the soil surface which is not disturbed with respect to this rail  and then again,  I will 
+take the depth with respect of that route which has been formed with respect to that . So, first I 
+am getting 21.5 , 21.5. (Refer Slide Time: 12:35)  
+ 
+ 
+Now, I  will take the depth of that rod which is found at the center . What is the depth with 
+respect to the rail ? So, it is 19.5 . They will also measure the cone index after the operation of 
+the tyre. We measure d the cone index value before the operation of the tyre and again,  we 
+will measure the cone  index value after the operation  of the tire. And the difference will give 
+you what will be the compaction level aft er the operation of the t yre. (Refer Slide Time: 13:10)  
+ 
+ 
+Now, I am going to show you how to measure the cone  index after the operation of the tire . 
+So, we will follow the same procedure what we have followed in case of cone  index 
+measurement before the  operation . That means , initially we  will see that the cone  base should 
+be flushed with the soil surface . So, that becomes the zero condition.  
+So, you can see there is no reading. Now, when I start this , we can see the cone index value is 
+increasing as well  as the depth is also increasing.  (Refer Slide Time: 13:42)  
+ 
+When I say tractive efficiency, it is basically how much power is obtained for a given input 
+power that means it is the ratio of output power to input power. So, naturally efficiency will 
+be alway s less than 100  percent . So, what is that input power ? What is that output power ? 
+Output power usually  call it as drawbar  power , drawbar power is nothing but the product of 
+pull into actual velocity , P × Va. 
+And what is that input power ? How much power i s given to the axle ? So, that we have 
+measured using a torque transducer . So, torque transducer will indicate how much torque we 
+are supplying . Knowing the theoretical speed,  we can calculate what will be the value of 
+input power or the ax le power. So, if I put this in a different way, dr awback power is equal to 
+pull into velocity , actual velocity V a. 
+And axle power has taken as thrust , thrust means the force which is developed because of the 
+interaction of wheel with soil . When you are trying to give powe r to the axle of the wheel and 
+the wheel will try to move forward , it will interact with soil . As a result , there will be thrust 
+force which will be developed at the contact patch , contact patch of wheel and soil . And this 
+is developed because of the interact ion. 
+So, that thrust force is nothing but torque divided by the rolling radius of that wheel. So, if I 
+want to calculate thrust, thrust is nothing but torque which you  are applying to the axle , 
+which is applied to the axle divided by the rolling radius of t he wheel. So, for measuring the 
+rolling radius of the wheel, we have to first find out how much distance the wheel is covering 
+in one revolution.  So, if I measure that , then divided by 2π, that will give you rolling radius . This has to be 
+carried out at ze ro slip. That means, we are not applying any pull. Simply we are rolling the 
+wheel and then finding out how much distance it is covering in one revolution. Now, after 
+knowing the distance covered in one revolution, so, this is nothing but 2πr. 
+Now, I am dividing it to 2π, so that gives you radius of the wheel or the rolling radius , rolling 
+radius of the wheel. Now  torque , I said we have utilized the torque transducer, so directly we 
+will get the value of torque . So, torque divided by r will give you t hrust. Now, if I substitute 
+those values in this equation , pull we have  measured utilizing a ring transducer, then thrust  
+we have measured indirectly by utilizing a torque transducer and then dividing the torque 
+data with rolling radius.  
+So, we will get th e data of pull and thrust . Then the other parameter which is required is , 1-s, 
+so this 1-s comes from here Va/Vt. We have calculated slip = (Vt – Va)/Vt. Now, for replacing 
+Va/Vt, what I  have  done is , 1-Va/Vt = slip(s) . So, this implies , Va/Vt = 1-s. So, I  have  replaced 
+Va/Vt by 1-s. So, either you can utilize directly this Va value or Vt value or you can utilize 
+slip value both are possible.  
+Now , once you know th e slip value , once you know the pull value , once you know the thrust 
+value, then utilizing this equation, you can immediately find out what will be the tractive 
+efficiency. So, the data which we acquired that is for  a 13.6-28 tyre which is subjected to a 
+load of 1000 kg and a t inflation pressure of 14 psi.  
+(Refer Slide Time: 18:26)  
+ Now, these are the data which I got , torque data , then pull data , Va actual velocity , Vt 
+theoretical velocity and slip is computed from Va and Vt and thrust is obtained by knowing 
+the radius of the wheel and torque , torque data you got , torque divided by the radius of the 
+wheel that will give you the thrust value. Now, utilizing that equation, we tried to find out the 
+tractive efficiency at each of these points.  
+So, those data I have  plotted here on the right side . We can see slip , that is on the x axis and 
+tractive efficiency data on the y axis. So, what I obtained here  is, the tractive efficiency is 
+increasing at a very faster rate reaching to a peak, then with further increase in slip, the 
+tractive efficiency is going down .  
+That means , there is a particular value of slip or a range of slip, very narrow range we can say 
+where we are getting the maximum tractive  efficiency which is in this case is around 45 
+percent . So, what happens at th is point and what happens at this point, why the tractive 
+efficiency is very low at this point, which is corresponding a  slip of say 3  percent  and here 
+this 25  percent .  
+So, on the lower side of slip, whatever pull is developed , that is being utilized for o vercoming 
+the rolling resistance. So, that is not a  useful power , that is a power which is lost. So, rolling 
+resistance , the power which is pull, which is developed minus rolling that is the power which 
+is available to be utilized . I said power because I m ultiplied Va. 
+So, that means, there is an optimum slip value where you are getting maximum . Beyond that 
+if you increase , the tractive efficiency value decreases because the power is lost because of 
+the wheel . The soil is no more offering any resistance , so that is  why we are not that , wheel  is 
+not able to develop that much pull. So, whether it is a low slip, whether it is a higher slip, 
+both are not suitable for developing maximum tractive  efficiency.  
+So, tractive efficiency is such a parameter , it varies with s o many operating , it is varying with 
+so many parameters like soil condition , then what is the load coming on the wheel , then what 
+is the inflation pressure and then pull. If soil condition is hard , for the same pull will develop 
+more tractive efficiency or more power . If load is more , wheel will develop more power .  
+If inflation pressure is more , wheel will develop less power because inflation pressure , wheel 
+will decide along with the load how much will be the contact area , contact area of the t yre. If 
+contact area is more , wheel will develop more force or more tractive force . If contact area is 
+less, wheel will develop less tractive force. So, if the load and inflation pressure  together will control what will be the contact area and accordingly the power which is developed wil l be 
+decided .  
+Then the fourth parameter is your pull. So, these are the parameters which will control how 
+much power you  are going to develop , useful power.  So, we are therefore combining these all 
+parameters and expressing tractive efficiency and this is  expressed for a given soil conditions 
+for a given slip. So, if I say tractive efficiency 50  percent , it has no meaning you have to 
+mention at what slip you are getting this 50  percent , that is important.  
+So, basically, this is the parameter which will g ive you how much will be the useful power 
+we are getting from a tractor or from a single wheel  for a given input power.  So, it is always 
+preferable that one should mention at what soil condition at what moisture content you have 
+carried out the test that i s important for a  tractive efficiency.  
+You have to mention what is the soil type , what is the soil condition , means  strength of soil , 
+cone  index value , then what is the moisture content , then you have to mention Okay , under 
+these conditions, I have develope d a tractive efficiency of this for a given wheel.  

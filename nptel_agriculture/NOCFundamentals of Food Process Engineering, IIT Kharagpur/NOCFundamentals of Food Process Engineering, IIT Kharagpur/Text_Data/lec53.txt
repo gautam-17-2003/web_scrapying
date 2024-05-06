@@ -1,0 +1,266 @@
+Fundamentals of Food Process Engineering  
+Professor Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur   
+Lecture 53  
+Leaching and Extraction  
+Hello everyone, welcome to the NPTE L online certification course on Fundamentals of F ood 
+Process Engineering.   
+Leaching is basically when the solid component comes into contact with  a solvent and a 
+particular solute  from the solid is being separated because that sol ute has a particular affinity 
+towards the solvent bu t when instead of solid we use 2  liquid phase , 2 liquid phase and 1 
+component from 1 liquid will be extracted by the other liquid then we call it extraction or solvent 
+extraction . We can separate the particular component without application of heat . So, for h eat 
+sensitive material L eaching an d Extraction is very important and it is also important when we 
+have very dilute solution of a particular component that we want to separate and in food,  there 
+are many applications of Leaching and E xtraction . 
+So, both the  method either solid -liquid extraction or liquid -liquid extraction, these 2 are very 
+important in food processing . We have seen that green tea extraction , if you want to develop 
+green tea from the green tea leaf powder o r granules or if the caffeine, if  the coffee beans are 
+used for extraction of the caffeine.  So, all this are application of Leaching and E xtraction is used 
+when some let us say some component of the oil or flavor  that we want to separate by utilizing  
+some oth er solvent and then we call it E xtraction.  
+So, basically for oil we definite ly use that Solvent Extraction T echnique and all these 2 cases we 
+need to know few conditions and few parameters.  So, some of them we have discussed in our 
+previous two classes;  one is the equilib rium condition be cause these 2  separation techniques are 
+actually the molecular transfer techniques , the solute  molecule is moving from 1  phase to the 
+other because of the difference in the chemical potential or difference in the concentration.   
+So, this molecule transfer will occur unless there equilibrium  will be established.  So, when the 
+equilibrium will be established, then  the transfer of the solute from one phase to the other will 
+stop. So, that equilibrium for single stage leaching operation was discussed .  In multi stage leaching  similar to single stage operation  it is assume d that the  rate of transfer will 
+be same in each phase and eventually the equilibrium will be attained.  So, in this 2 stream when 
+the chemical potential of a particular so lute will be similar, th en the equilibrium will be 
+achieved. Ideally it is assumed that for a finite period of time the contact between the slurry and 
+the solvent is taking place. So, for that we have to make this contact for  a longer time ; for an 
+infinitely long time, so that th is equilibrium will be reached. So, in ideal case we may get some 
+deviation. So the concentration or the fraction of the sol ute in the slurry and solvent and in the 
+extract may be different.  
+(Refer Slide Time: 06:44)  
+ 
+In the  problem the phenomenon that h appened in a multi stage , although it is similar to the single 
+stage only and it's a counter current flow. So, in a counter current leaching from the one side the 
+the crushed bean  (solid mixture ) that is entered  and from the crush ed beans  we want to extrac t 
+the soya  oil that we want to extract and there is a solvent that is entering into the multi -stage 
+leaching apparatus from the opposite side . 
+Oil is to be extracted from soya beans in a counter current, stage contact, extraction 
+apparatus, using hexane. I f the initial oil content of the beans is 18%, the final extract 
+solution is to contain 40% of oil, and if 90% of the total oil is to be extracted, calculate the 
+number of contact stages that are necessary. Assume that the oil is extracted from the 
+beans i n the first mixer, that equilibrium is reached in each stage, and that the crushed bean solids in the underflow retain in addition half their weight of solution after each 
+settling stage.  
+So, if we take total 100 percent material is coming into the system.  So, in the first stage 18  
+percent  is the oil so, 82  percent  will be the sol id beans sol id material.  
+(Refer Slide Time: 10:56)  
+ 
+ 
+ So, in the multistage diagram and this is the V n +1 that is th e solvent entering into the nth  stages 
+and in a that is the solid material or from which we need to extract a particular component or 
+solid or oil that rate is La.  
+ 
+where V a is the solvent or the extract that tha t we are getting from here and L n is the slurry from 
+the nth stage.  
+ 
+Similarly, when we do the component  balance in that so, V  n+1 into X  n+1 that is the c oncentration 
+of the oil or solute,  the particular component that we want to separate that in the in the solvent 
+itself and similarly, xa denote that the component fraction i n the extract that is coming out  from 
+the first stage and L a ya so, y a is a fraction of that sol ute component in the fee d stream and y n is 
+the fraction of the that  solute component that coming from the nth, coming from the nth  stage 
+and from these 2  we can  eliminate V n+1 and then we develop th is equation just taking V n+1 from 
+here and then we put in the balance equation.  
+ 
+ 
+ 
+So, this is the material balance and overall mass balance or material balance and the component 
+balance on the sol ute.  
+(Refer Slid e Time: 13:44)  
+𝐕𝐧+𝟏𝐱𝐧+𝟏+𝐋𝐚𝐲𝐚=𝐕𝐚𝐱𝐚+𝐋𝐧𝐲𝐧 
+(𝐋𝐧−𝐋𝐚+𝐕𝐚)𝐱𝐧+𝟏=𝐕𝐚𝐱𝐚+𝐋𝐧𝐲𝐧−𝐋𝐚𝐲𝐚 
+𝐱𝐧+𝟏=𝐲𝐧 𝐋𝐧
+𝐋𝐧−𝐋𝐚+𝐕𝐚 +[𝐕𝐚𝐱𝐚−𝐋𝐚𝐲𝐚
+𝐋𝐧−𝐋𝐚+𝐕𝐚]  
+So, this we will use now to solve the problem . So, we can see that V n +1 is the solving entry into 
+an nth stage x n+1, the concentration the fraction of that solute in the stream Ln yn is the slurry that 
+comes out from the n th stage , X0 or xa we can we can take this as because we have used this 
+notation La ya, xa and V a right.  
+So, heavier phase, means the feed slurry that entered. So, that is we have assumed same because 
+this is the condition given that the rate of transfer will be same in  each stage, right.  
+heavier phase ; Ln+1 = Ln = ... La =L 
+Similarly, the lighter phase  
+lighter phase ; Vn+1 = Vn = ... Va =V 
+we have got this applying this to in the previous equation  
+ 
+ (Refer Slide Time:  15:33 ) 
+𝐱𝐧+𝟏=𝐲𝐧𝐋
+𝐕+𝐱𝐚−𝐲𝐚𝐋
+𝐕  
+Overall mass balance:  
+100kg raw material  there will be 18% oil, that is 82kg bean solids and 18kg oil. In the final 
+underﬂow, 82 kg bean solids will retain 41 kg of solution, the solution will contain 10% of the 
+initial oil in the beans, that is, 1.8kg so that there will be (18 - 1.8) = 16.2kg o f oil in the final 
+overﬂow,  
+Extract contains (16.2 x 60/40) = 24.3kg of solvent  
+Total volume of final overflow = 16.2 + 24.3 = 40.5kg  
+Total solvent entering = (39.2 + 24.3) = 63.5kg  
+Note that the solution passing as overﬂow between the stages is the same w eight as the solvent 
+entering the whole system, i.e. 63.5kg  
+ 
+ 
+ 
+ 
+  
+Now, note that the solution passing as overflow between the stages is the same weight as the 
+solvent entering the whole system. So, the solution passing as the overflow between the stages i s 
+the same that has entered  into the system so, that is 63 .5. Now, this we have to see in all the 
+stages what is happening.  
+(Refer Slide Time: 19:51)  
+ 
+Basis: 100kg beans   
+Mass in (kg)  
+Underflow  
+Raw beans = 100  
+    Bean solids = 82  
+         Oil = 18  
+Over flow 
+         Solvent = 63.5  
+Total = 163.5  
+Basis: 100kg beans  
+Mass out (kg)  Underflow  
+Extracted  beans +solution= 123  
+Bean solids = 82;  Oil = 1.8;solvent= 39.2  
+Overflow  
+         Total extract = 40.5;solvent =24.3  
+          oil = 16.2  
+Total  = 163.5  
+this t otal remain same in stage 1.  
+(Refer Slide Time: 21:19)  
+ 
+Analysis of stage 1  
+Oil concentration in u nderﬂow = product concentration = 0.4.  
+It is an equilibrium stage, so oil concentration in underﬂow equals oil concentration in overﬂow. Let X
+2 
+represent th e concentration of oil in the overﬂow from stage 2 passing in to stage 1. Then oil entering 
+stage 1 equals oil leaving stage 1.  
+Therefore balance on oil:  
+63.5X
+2 + 18 = 41 x 0.4 + 40.5 x 0.4; Y
+2 = 0.23; X
+2 = Y
+2 = 0.23  
+ 
+ Analysis of stage 2  
+X
+2 = Y
+2 = 0.23  
+Therefore balance on oil:  
+41 x 0.4 + 63.5X
+3 = 63.5 x 0.23 + 41 x 0.23  
+X
+3 = 0. 12.  
+So, here we can see that , then when in the in 1 stage , the solvent is entering and the extract that 
+that is coming out , the overflow that is coming out  that is entering as a solvent in the next and the 
+extract that is coming out that is entering as a solvent in in the next 1. So, like that in the first 
+stage, which is if you consider the first stage  so, the exit of the second stage is entering the 
+overflow of the second stage is entering at  the solvent in the first stage  right and eventually the 
+concentration will change in a way.  
+So, X1 that we are calculating. So, in the equilibrium stage, this will be same with the Y1. 
+Similarly, the X2 that the stage will consider that wil l similar to the Y2 and so on.  So, we  will 
+one, one after the other the stage will count.  
+ 
+Analysis of stage 3  
+X
+3= Y
+3 = 0.12  
+Therefore balance on oil:  41 x 0.23 + 63.5X
+4 = 63.5 x 0.12 + 41 x 0.12; X
+4= 0.049  
+ (Refer Slide Time: 24:17)  
+  
+(Refer Slide Time: 26:55)  
+ 
+Analysis of stage 4  
+X4 = Y4 = 0.049  
+Therefore balance on oil:  
+41 x 0.12 + 63.5 X5 = 63.5 x 0.049 + 41 x 0.049,  
+X5 = 0.00315.  
+The required terminal condition is that the underﬂow from the final nth stage will have less than 
+1 .8 kg of oil, that is, that Xn is less than 1 .8/41 = 0.044.  Now, the required  terminal condition is that the under flow from the final nth stage will have less 
+than 1. 8 kg of the oil because 90  percent  extraction should be done . So, less than 1. 8 kg now, that 
+Xn if we  try to calculate in terms of fraction, so X n is less than how mu ch X  in that the fraction  
+we want to calculate that is 1. 8 out of 41 . So, the stream has  41 kg of the solvent in that 1. 8 was 
+there.  
+So, after fifth stage, we are almost achieved the condit ion that 90  percent  extraction of the oil has 
+been done from the sample. So, this is how you can design when you want to set up any 
+extraction solvent extraction or for example, you want to have  leaching setup for that you have to 
+think about that what is your sample size and what is the flow rate and how much oil content the 
+initial sample is having and you want to separate what amount of what amount of or what 
+fraction of the oil or solute  you want to separate.  
+So based on that you can design that how ma ny stages are required  and also the efficiency 
+calculation that is by the Murphy efficiency which based on what is the extraction can be 
+achiev ed in the equilibrium condition  and if equilibrium is not achieved, so how far we can have 
+that concentr ation and  the ratio of those 2  things we can use for finding the efficiency of each 
+stage.  
+(Refer Slide Time: 29:33)  
+ 
+ Mass transfer in leaching operation:  
+ 
+where: A is the area of the solid –liquid interface,  
+b is the effective thickness of the liquid film surr ounding the particles,  
+c = concentration of the solute in the bulk of the solution at time t,  
+cs= concentration of the saturated solution in contact with the particles, M is the mass of solute 
+transferred in time t, and  
+k’ is the diffusion coefficient.  
+So, Cs - C that will work as a driving force , M is the mass of the solid transferred in time t. So 
+this is how having a diffusion means the molecular transfer process considering it as a molecular 
+transfer process , we can have this equation to find the rate of mass transfer .  
+ 𝐝𝐌
+𝐝𝐭=𝐤′𝐀(𝐂𝐒−𝐂)
+𝐛  
+(Refer Slide Time: 31:04)  
+ 
+ For a batch process in which V , the total volume of solution, is assumed to remain  
+    constant, then:  
+ 
+So, dc is the concentration gradient. So, concentration generally expressed in kg / m3 like that and 
+there  is m3so ultimately we can get the change in  the mass.  
+So, 
+ 
+So this is concentration gradient, the time t taken for the concentration of the solution to rise 
+from it  is initial value of C 0 to a value C is found by integra tion on the assumption that both V 
+and A remain constant.  
+ 
+𝐝𝐌=𝐕 𝐝𝐜  So, the thickness of the liquid film will remain constant and the interface area , the contact area 
+through which the transfer is taking place between the between the so lid material and the liquid 
+layer or liquid film  so that will constant. So, from this we can write this equation.  
+(Refer Slide Time: 32:38)  
+ 
+ 
+so, in pure solvent the concentration C0 is initially taken as 0 there is no solute,  trace of the sol ute 
+that. So, furth er from this  
+ 
+ 
+ 
+So, this is the equation of the of the change of concentration wit h respect to time in case of a 
+leaching operation.  
+(Refer Slide Time: 33:36)  
+ 
+Numerical example#3  
+In a pilot scale test using a vessel 1 m3 in volume, a solute was leached from an inert solid 
+and the water was 75 per cent saturated in 100 s. If, in a full -scale unit, 500 kg of the inert 
+solid containing, as before, 28 per cent by mass  of the water -soluble component, is agitated 
+with 100 m3 of water, how long will it take for all the solute to dissolve, assuming conditions 
+are equivalent to those in the pilot scale vessel? Water is saturated with the solute at a 
+concentration of 2.5 kg/ m3. 
+ (Refer Slide Time: 34:39)   
+ 
+Solution  
+For the pilot -scale vessel:  
+c = (2.5 × 75/100) = 1.875 kg/m3  
+cs = 2.5 kg/m3, V = 1.0 m3 and t = 10 s  
+1.875 = 2.5(1 – e-(kA/1.0b)100)) 
+and: kA/b = 0.139 m3/s 
+For the full -scale vessel:  
+c = (500 × 28/100)/100 = 1.4 0 kg/m3 
+cs= 2.5 kg/m3, V = 100 m3 Thus: 1.40 = 2.5(1 - e-0.139t/100) 
+t = 591 s (9.9 min)  
+ 
+Thank you.  

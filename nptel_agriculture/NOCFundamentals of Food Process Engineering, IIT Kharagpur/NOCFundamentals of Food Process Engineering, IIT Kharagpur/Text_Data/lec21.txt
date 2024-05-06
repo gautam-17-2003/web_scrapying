@@ -1,0 +1,183 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 21 
+Heat Exchangers  
+ 
+Hello everyone . Welcome to NPTEL  online certification course on F unda menta ls of 
+Food Process E ngineering . Today we are going to  start a new chapter on Heat 
+Exchanger . Normal  water cooled condensers or  radiator  are some common examples of 
+heat exchangers.  
+(Refer Slide Time: 01:08)  
+ 
+The topic covered will be  definition of heat ex changer , different type of heat exchanger , 
+analysis  of heat exchanger in terms of Log Mean Temperature D ifference LMTD  for 
+both parallel and counter flow heat exchanger , overall heat transfer coefficient , fouling 
+factor , correction factor , and effectivenes s of heat exchanger again both for parallel flow 
+and counter flow . Apart from this , a few application of heat exchanger in food industry 
+will be covered with  some numerical problems .  (Refer Slide Time: 02:45)  
+. 
+Heat exchanger  
+A heat exchanger is defined as equipment  which transfers  energy from a hot fluid to cold 
+fluid without allowing them to mix  and provide maximum heat transfer  rate with 
+minimum investment and running cost . 
+Let us consider a 2 concentric pipe  through which hot fluid is coming in and go ing out 
+and there is another pipe  which is surrounded  the inner tube or inner pipe through which 
+the cold fluid is flowing . So, heat will exchange over the surface of th e inside tube , 
+inside the cylindrical section or the tube . There is no mixing between t hese 2 fluid and  
+obviously, there will be temperature difference between these  2 fluid , one will be  hot 
+fluid and another will be the cold fluid  because  temperature difference should be the 
+driving force for heat flux to be  moved from the higher side to th e lower side . So, that is 
+the heat exchanger .  (Refer Slide Time: 05:03)  
+. 
+Example s 
+ Intercoole r- where there is from one side the hot fluid is entering and there is 
+tubing inside the tube there is a exit and very small fins are there inside  this system th at 
+will increase the heat transfer area.  
+(Refer Slide Time: 05:54)  
+. 
+ Condenser - condenser it may be air cool condenser or water cool  condenser . 
+From the  compressor high pressure vapour will enter in a  tube and there are  coils tubes in the form of coil th ey are  fix here in the condenser , and there is an  exit end from the 
+bottom which is going to dr yer the high pressure l iquid. So, the vapour is  condensed in 
+the condenser and the heat given or from the  refrigerant is going to the surrounding air . 
+So, that i s the heat is going to the air and here the temperature is not  changing for this 
+condensing vapour to liquid , because  only phase change happen for heat transfer occur .  
+(Refer Slide Time: 07:29)  
+ 
+Others are Automatic radiator s, regenerator . Regenerator ( basically regenerators are one 
+kind of heat exchanger where  heat exchange between  2 fluids , but phase  change does  not 
+occur right ). (Refer Slide Time: 08:33)  
+. Types of  heat exchanger  
+ Heat exchanger  can be classified in many ways  
+ nature of heat exchange  process . That means, whether heat is  being exchanged 
+via any surface or direct mixing of the  gas and the liquid is taking place .  
+ relative direction of fluid flow  
+ Design and constructional features   
+ physical state of fluid  
+ (Refer Slide Time: 09:54)  
+ 
+Nature of heat exchange process   
+ Direct contact heat exchanger (open source heat exchanger ). So, direct contact 
+heat exchanger ; that means, as the name suggest that there will be mixing of the fluid , 
+streams  
+ Indirect contact heat exchanger - regenerator  
+In direct contact heat exchanger w hen steam is entering into the open source heat 
+exchanger  and cold water is also entering into the  heat exchanger . So, the latent heat of steam will be taken by  the cold water and that is released as hot water and the non-
+condensable  gases  will be vented out . 
+ (Refer Slide Time: 12:20)  
+. 
+Relative direction of fluid motion  
+ Parallel flow or unidirectional flow - direction of the  2 fluid streams  
+  Counter flow - the fluid stream are coming from  2 different direction or opposite 
+direction . 
+The parallel flow or unidirectional flow  – In the above figure, hot fluid i s entering from 
+this inner tube. So, th1 is the inlet temperature , th2 is the  exit temperature whereas, the 
+cold fluid is flowing in the outer tube. D irection of the cold fl uid and the hot fluid are in 
+the same direction . So, this is called the parallel flow heat exchanger . Now the 
+temperature distribution will be that the inlet temperature of the hot fluid  th1 will decrease 
+to th2 where the cold fluid which is entering at  tc1 going to increase temperature  to t c2. So, 
+initially the deviation  was very high and eventually that will reduce . So, this is the 
+parallel flow or unidirectional flow . 
+In the  counter flow heat exchanger  the direction of the flow is reverse . So, in this ca se 
+the temperature distribution can be  plot in a similar way across the length. So th1 is 
+decreasing to  th2 whereas,  tc1 going to increase to tc2 and here the difference between 
+those  2 temperature are almost  similar  Δt1 and Δ t2.  (Refer Slide Time: 15:58)  
+. 
+ Cross flow  
+Cross flow heat exchanger  can be  considered as  two types i) unmixed type ii) mixed 
+type. In mixed type, flow of cold fluid ensures uniform temperature at any section. 
+Temperatures vary only in the dir ection of flow. The unmixed flow pattern of cold fluid, 
+results in non -uniform heating.  
+In mixed type heat exchanger, hot fluids are entering in the stack of pipe and cold fluid is 
+entering in a heat exchanger at a cross flow direction or the  perpendicular  to the direction 
+of the flow of the hot fluid . 
+In unmixed type heat exchanger, there are segments or baffles  provided in between  2 
+entry point of the cold fluid . So, they are not getting mixed , as they enter from one 
+channel they are exiting from the othe r. So, these baffles  are helping them to  channelize 
+unidirectional  cold fluid .  (Refer Slide Time: 10:01)  
+ 
+Types of heat exchanger    Features:  
+ In parallel flow heat exchanger the hot and cold fluid temperature difference goes 
+on decreasing  
+ In counter flow  heat exchanger the hot and cold fluid temperature difference 
+almost remain constant  
+ In case of cross flow heat exchanger mixed hot stream ensures uniform 
+temperature at any section, whereas unmixed flow pattern of cold fluid results in 
+non-uniform heating . (Refer Slide Time: 19:44)  
+. Design and constructional features : 
+ Concentric tube  
+ Shell and tube  
+ Multiple shell and tubes  
+In concentric tube heat exchanger, two concentric tubes are used for each of the fluids. 
+Direction of flow may be either parallel or counter. In case of shell and tube heat 
+exchanger, the bundles of tubes are enclosed in a shell.  So, in industry application or 
+processing plant or condenser, all those cases this kind of configuration shell and tube 
+heat exchanger is used. But it is not used in the application where very light weight 
+configuration is needed for example, radiator that is transport application or in aviation.  
+With the use of multiple tubes, the heat transfer rate is increased due to the increment in 
+surface area.  Multiple Shell and tube enhances the overall heat transfer. The shell is re -
+routed. Compact heat exchangers have lager surface area. They are employed when 
+convective heat transfer is associated with one fluid is much smaller than other fluid.  
+In case of shell and tube it is the most common configuration that is one shell pass one 
+tube pass ; that means  there is one big shell and in the shell fluid passes through  the inlet 
+of the fluid and through the tube it is going to the other side , and exiting from the outlet . 
+So, as the fluid is passing the whole shell , the fluid will  interact with the shell fluid.  
+In one shell pass one tube pass there are baffles provided not just to hold the tube 
+properly or to give mech anicals strengths for proper holding of the tubes , to com bat 
+heavy pressure and thus damage . Also these baffles  are orienting the shell fluid to a 
+particular direction . So, here the shell fluid is almost coming in a cross fl ow direction 
+with the tube flow . But if the baffles are not provided  so, then the shell f luid it is entering 
+from the inlet  side and straight away going to the other side . So, it may be counter flow 
+arrangement in this particular  case; however, through  baffles here cross flow 
+arrangements are maintained . Other configurations are one shell pass  2 tube pass or  2 
+shell pass  4 tube pass .  (Refer Slide Time: 24:40)  
+. 
+Compact heat exchanger  - to deal with the area density function . If the area density is 
+very high it is known as  compact heat exchanger . Area density is  generally  define d by 
+the surfac e area available for heat exchange divided by the volume  of the  liquid that the 
+heat exchanger is going to handle . Area density function is around 700 to 1000 for  
+compact heat exchanger  e.g plate fin or tube fin heat exchanger . 
+Fins are increasing the heat  transfer area to a very large extent . So, that is very effective  
+method and another method which is the plate heat exchanger . In plate heat exchanger 
+there are many number s of plates which are stacked consecutively and the  2 fluids are 
+channelized t hrough  different plates so there will be no mixing . It is normally used in 
+milk chilling plant or regeneration plant . The flexibility of plate heat exchanger is that to 
+increase the capacity extra plate can be attached in series which is not possible for shell 
+and tube kind of  heat exchanger . The problem also that  in th is kind of plate heat 
+exchanger 2 different state of fluid  like one vapour and one liquid  can not be used , 
+because  it will develop a huge pressure difference involved in the  handling the vapours 
+and the liquid . Because vapours are in the pressure  in the range of megapascal and for 
+the liquid it is in the kilopascal range . So, because of that large pressure variation these 
+plates  might be getting damage  which can be avoided by shell and tube  heat exc hanger.  (Refer Slide Time: 29:00)  
+. 
+Features  
+ In concentric tube heat exchanger, concentric tubes are used for fluid flow   
+ In case of shell and tube heat exchanger, the bundles of tubes are enclosed in a 
+shell and the heat transfer rate is increased as su rface area increased  
+ Multiple Shell and tube enhances the overall heat transfer. The shell is re -routed.  
+ Compact heat exchangers are employed when convective heat transfer is 
+associated with one fluid is much smaller than other fluid . 
+Suppose  one liquid  is flowing  in one stream and  hot liquid are entering in one stream , 
+with hin and h out which means th in and t h out . So, in that section if we increase the surface 
+area by using  fin, very thin protruding or extension  on the surface . 
+So, those fins are utili zed for larger amount of heat transfer , because in this side there is  
+air. So, convective heat transfer takes place and that has to be increased  to higher 
+amount . (Refer Slide Time: 30:38)  
+. 
+ (Refer Slide Time: 31:20)  
+. 
+Physical state of fluid   
+ condenser   
+ evaporator  
+In case of condenser , hot steam is entering , and coming to the liquid  state. So, there is no 
+change in the temperature . So, th will be constant throughout whereas,  tc1 that is of the liquid or air for condensing 
+that will increase its value . So, θ is the difference between those cold and hot fluid  which 
+will gradually reducing .  
+Similarly for evaporator, the refrigerant that is evaporating , that will be constant that is  
+going to  change from the liquid state to the vapour state and it is taking the  heat from the  
+air in that section for exchanging heat , but the temperature of the cold fluid will remain 
+constant . So, these are the condenser and evaporator that we can separate  based on the 
+physical state of fluid . 
+Thank you .  

@@ -1,0 +1,216 @@
+Traction  Engineering  
+Professor  Hifjur  Raheman  
+Agricultural  and Food  Engineering  Department  
+Indian  Institute  of Technology  Kharagpur  
+Lecture  22  
+Selection  of tyre 
+(Refer  Slide  Time:  00:39 ) 
+ 
+Hi everyone,  this is professor  H Raheman  from  Agricultural  and Food Engineering  Department , 
+IIT Kharagpur . I welcome  you all to this NPTEL  course  on traction  engineering.  This is lecture  
+22 where I will try to discuss  how to select  a tyre for a given  size of tractor , what  are the 
+parameters  we should  consider.   (Refer  Slide Time:  00:50 ) 
+ 
+ 
+So, the concept  will be selection  of tyre based  on tractive  performance , based  on draft  of the 
+implement  and stability  of the tractor . Stability  means  steering  ability  of the tractor.   
+(Refer  Slide  Time:  01:05 ) 
+ 
+So, the tyre in case of off-road vehicle , you have  to consider  some  of the factors , factors  in the 
+sense , what  are the information  on cost and load carrying  ability  of the various  types  of tyre 
+which  are available  in the market . Information  has to be gathered  and it is available , it is 
+available  from  the manufacturers.  So, cost and load carrying  ability  number  one, number  two is whether  we have  information  on relative  wear rates  of different  tyres, this is not very commonly  
+available . Some studies  have  been  conducted,  but not much information  is available  in this 
+aspect.  Then  the third  thing  is the cost to a farmer . If he selects  a wrong  tyre that means  if he 
+selects  a smaller  tyre, so, what  is the cost he is going to pay for that? That means  there  will be 
+more  compaction  there  will be a reduction  in crop yield.  So, this information  are available , if you 
+increase  soil compaction,  how it is going  to affect  the performance  or the yield  of the crop.  Then  
+the fourth  information  is what  is the tractive  performance  of tyre and how it is varying  with 
+changing  diameter , changing  width,  changing  stiffness . So, these  are some  of the information’s  
+which  are required . 
+This information  related  to point  four, they are not available  readily . You have  to develop  that 
+information  and how to develop  these information’s ? That we have  to find out taking  into 
+consideration . What are the different  models  available  and from  there  how do we vary so, that it 
+is going  to affect  the performance? So, varying  the tyre parameters  like section  width , like 
+diameter  and then stiffness  we have  to find out what  is the corresponding  change  in performance  
+chang e in coefficien t of rolling  resistance  change  in coefficient  of traction.   
+(Refer  Slide  Time:  03:22 ) 
+ 
+So, effect  of varying wheel  parameter  and tractive  performanc e is if we increase  the tractor  
+parameters  there  is increase  in tractive  performance  but up to what  diameter  we can increase  or 
+up to what  width  we can increase  that is not available.  So, up to what  width  or what  diameter  for 
+a given  load and a given  soil condition  we can increase  so that there  is no minima l improvement  in tractive  performance  beyond  that point,  there  should  be sufficient  amount  of increase  in 
+tractive performance , so, you can go to that extent.   
+(Refer  Slide  Time:  04:19 ) 
+ 
+So, to do with that exercise,  again  we need  Brixius equations  as I said Brixius  equation  means,  
+we need  to know  the motion  resistance  ratio we need  to know  how to calculate  gross  traction  
+ratio we need  to know  how to calculate  net traction  ratio. At the Brixius  equation  is considering  
+both δ/h ratio and b/d ratio.  Hence,  we prefer  to utilize  these  equations  based  on Brixius  findings.   
+So, again  Bn is important  mobility  number  and mobility  number  is nothing  but  
+ 
+So, taking  the help of mobility  number  we are done  different  slip values  we can find out what  is 
+the coefficient  of rolling  resistance , what  is the coefficient  of gross  traction  what  is and then 
+from  these  two we can find out what  is the coefficient  of traction . (Refer  Slide  Time:  05:50 ) 
+ 
+In a tractor  when  we try to recommend  that this tractor  should  be fitted  with this size of tyre that 
+means,  what  are the considerations  you have  to take? The first thing  is we have  to find out what  
+is the maximum  draft  which  is required  in the field.  So, number  one is what  is the maximum  
+draft  which  is required  and number  two is how much  draft  the tractor  can produce  and during  
+production  of this draft  or the while  finding  out the pulling ability,  what  is the steering  
+condition ? Steering  condition  means  whether  sufficient  weight  is available  in the front  axle or 
+not.  
+Because,  if front  axle sufficient  weight  is not available,  then the tractor  will try to float and 
+steering  becomes  difficult.  So, these  are some  of the considerations  we have  to see when  I said 
+maximum  draft  means  it is obvious  if you are operating  in a moldboard  plow which  is the 
+primary  implement,  there  will experience  more  draft.   
+So, you have  to take into consideratio n the moldboard  plow  and for calculating  the draft  we have  
+to find out what  are the equations  available  for estimating  the draft  value  of different  implements  
+many  equations  are available  but ASA BE has given  all those  equations,  it is better  to consider  
+ASABE equations  rather  than considering  other  empirical  equations.   (Refer  Slide  Time:  07:24 ) 
+ 
+So, the first thing  is we have  to find out what  is the draft  and for finding  out draft  we use this 
+ASA BE equation  is given  as 
+ 
+So, now D is the draft  of the implement  that is in expressed  in Newton , F is a dimensionless  soil 
+texture  adjustment  parameter  and I value  could  be 1, 2, or 3 depending  on the soil condition , then 
+V is the speed  of the operation  which  is expressed  in kilometer  per hour and Mw is the implement  
+width in meter , Td is the depth  of operation  in centimeter , A, B and C the machine  specific  
+parameter , A is the function  of soil strength ; B and C these are coefficients  of speed  parameters  
+and they are related  to ball density  of soil, in fact A, B and C they are related  to strength  of soil.  
+No doubt  there  are some  limitations  of this, but ASABE  itself says there  is ±50 percent  variation,  
+but still then this is the most reliable  equation  available,  so, that is why we have  taken  this 
+equation.   
+Now,  for a mouldboard  plow if you want  to find out then you have  to decide  the value  of A, B, C 
+which  are given  in that standard  and then the taking  into the forward  speed V and the depth  at 
+which  you want  to operate  we can calculate  what  is the draft  requirement  depending  on the 
+implement  width and depending  on the soil condition.   
+(Refer  Slide  Time:  09:15 )  
+The second  question  is what  is the pulling  ability  of the tractor if you know  the soil condition  
+first you have  to define  the soil condition  then in that soil condition,  what  is our HP of tractor  
+that is important  because  HP of tractor  will decide  how much  will be the weight , weight  of the 
+tractor  and then you have  to take the static  weight  distribution.  So that 65 percent  and the rear 
+axle or maximum  we can go up to 70 percent  on the rear axle.   
+Then  we try to find out the coefficient  of rolling  resistance  then you try to find out what  is the 
+gross  tractive  effort  then you try to find out what  is the coefficient  of traction  knowing  the 
+weight  you can find out what  is the pulling  ability  or pull developed  this pull should  match  the 
+pull with the pull which  is required  by the moldboard  plow that gives  you the maximum  draft.  
+So, while  calculating  the pulling ability  again  we have  considered  one parameter  that is a power  
+reserve  we can take we have  taken  us 50 percent , 0.5 why, because  ASABE  equation  itself  says 
+there is the variation  of drop from  ±50 percent  40 percent  like that. So, that is why you have  to 
+keep  a very high value  of reserve . So, 0.5×μ, μ is nothing  but P/W and then this is W so, that will 
+give you the pulling  ability  of a tractor .  (Refer  Slide  Time:  11:24 ) 
+ 
+ 
+So, this exercise is to be carried  out so, I have done  a flowchart  for this how to carry  out this 
+exercise.  So, the first thing is, you have  to gather  information  on tractor on implement  and then 
+what  are the soil conditions ? And what  are the operating  parameters ? Like what  is the speed  of 
+operation ? What  is the depth  of operation?  So, all those  information’s  you have  to gather. 
+The next thing  is we have to calculate  the tractor  rear axle dynamic  weight  because  while  
+calculating  COT or coefficient  of rolling  resistance  we need  to know  what  is the actual  weight  
+which is coming  in the rear wheel,  so, that is we are interested  in finding  out the dynamic  weight , 
+dynamic  weight  coming  in the axle.   Then, we will try to find out mobility  number  and coefficient  of traction , tractive  efficiency  and 
+the pull developed  by the tyre and the draft  requirement  of implement  that means,  here we want  
+to utilize  the Brixius  equations  for calculating  the tractive  performance  parameters  such as 
+mobility  number  is the main  then we calculate  the coeffi cient  of traction  and tractive  efficiency.  
+See, tractive  efficiency  is nothing but  
+ 
+So, once  you calculate  μ, once  you calculate  μg which  is nothing  but the torque  ratio which  is 
+given  by Brixius  then at what  slip we are operating,  so, from  there  you can calculate  what  is the 
+tractive  efficiency.  So, tractive  efficiency  then pull developed  from  there  knowing  the dynamic  
+weight  you can calculate  what  is the pull developed.  So, while  calculating  the pull developed  you 
+have  to take both the tyres into consideration.   
+So, total pull developed  then keeping  a factor  of reserve  then that becomes  here the power  which  
+is available  and that power  sorry,  that pull should  be equal  to the draft  required  by the implement  
+and this draft  requirement  by the implement  this will be computed  by using  ASABE  equation.   
+So, we have  two sets of equation  one is Brixius  for tractive  performance  and we have  ASABE  
+draft  equation  for calcu lating  draft.  So, these  are the two equations  to be followed . Next  is once  
+you know  the while  calculating  the pull coefficient  of traction  then we have  to find out what  is 
+the dynamic  weight  coming.  Now,  when  the dynamic  weight  comes  into picture,  then we have  to 
+find out whether  the dynamic  weight  the tractor  can carry  or not.  
+So, is the dynamic  load on tyre exceeds  maximum  load carrying  ability  that is one point.  If it is 
+no then is the weight  on the front  axle is more  than 20 % of total weight.  Why this is important ? 
+Because  this 20 % weight  on the front  axle is required  otherwise  the tractor will be difficult  to 
+steer,  so, this is another  requirement,  if the first requirement  the loading  abilities  okay  that the 
+tyre can able to carry  then the second  thing  is after weight  transfer,  what  is the weight  which  is 
+left on the front  axle whether  that is a more  than 20 percent  or not.  
+So, once this is satisfied , if it is yes, then we go to the pull which  is developed  by the tyre 
+utilizing  Brixius  equa tion keeping  a power  reserve.  So, once  the pull is calculated,  then that has to be a checked  with the draft  requirement , draft  requirement  by the implement  and this is 
+calculated  taking  into ASABE  equa tion.  
+Now,  if it is satisfied,  then the pull which  is developed  by the tractor  should  be within  the wheel  
+slip of 20 percent  because  as you know,  if you exceed  wheel  slip of 20 percent  your tractive  
+efficiency  is affected  considerably.  So, the pull which  is required  and which  has to be match  with 
+the draft  requirement  of the implement  that pull should  come  within  a wheel  slip of 20 percent . 
+So, that is why we have  kept a bar here that means  the wheel  slip should  be less than equal  to 20 
+percent  if this condition  is satisfied  yes then the tyre is suitable  for tractor  to operate  at a given  
+condition , given  condition  means  given  soil condition  given  operating  condition  if it is no then 
+the tyre is not suitable  for the tractor  to operate  at given  condition.   
+So, what  are the possibilities ? How do we make  this tyre suitable ? The only possibility  is we 
+increase  the weight  we can add certain  weight  which  is called  ballasting.  So, when  we add 
+certain  weight,  so, then again , we check  after adding  the weight  because  we are adding  weigh t to 
+reduce  slip. So, when  we add weig ht so, then again  you have  to carry  out the exercise  like 
+whether  by after addition  of weight  whether  the tyre is in a position  to carry  the load or not or the 
+total weight  including  ballasting  should  be less than the load carrying  ability  of the tyre.  
+Again, we check  after addition  of weight  when  you try to pull it what  is the weight  transfer  from  
+the front  as well as the from  the implement  side and what  is the dynamic  weight  which  is coming  
+on the rear axle and the dynamic  weight  on the front  axle.  If the dynamic  weight  on the front  axle 
+is less than the 20 percent  of the total weight,  then we do not accept  it.  
+So, this is the condition  which  will check  the dynamic  weight  should  be more  than the 20 percent  
+of the total weight  dynamic  weight  of the front  axle should  be more  than 20 percent  of the total 
+weight  of the tractor.  If this condition  is satisfied,  then we go for checking  the pull which  is 
+developed  the pull which  is developed  should  be developed  by the tractors  should  be greater  than 
+the draft  requirement  of the implement.  So, here again  that 50 percent  reserve  will be taken  and 
+if this condition  is satisfied  and wheel  slip is less than 20 percent  then we will say that the tyre is 
+suitable  if not then this loop will continue.   So, once  the tyre is suitable  the next thing  is you have  to find out what  is the COT?  What is 
+tractive  performance  in terms  of tractive  efficiency ? And what  is this cost? Why because ? 
+Suppose  two or three  tyres  they simultaneously  satisfy  this condition  it may be possible  that 
+there  will be two or three  tyres  which  will satisfy  this condition .  
+Then comes  your economics  part, economics  part means  what  is the cost we have  to incur  when  
+we try to purchase  those  tyres and what  is the benefit  we are getting  if say tyre A1, A2, A3 these 
+are the three  tyres we satisfy  and satisfy  this condition  and A1 is the tyre which  is giving  you 
+which  is available  at lesser  cost as compared  to A2 or A3 then it is better  to go for A1 tyre or if 
+the slide  change  in price  you are getting  little more  benefit in traction  for example  in A2 then you 
+prefer  A2.  
+So, these  are all economical  decisions,  the technical  decisions,  these  are all dependent  on 
+basically  three  things  one is what  is the draft  requirement ? And what  is the pull which  is 
+developed ? And whether the pull is developed  within  20 percent  of wheel  slip or not? And then 
+what  is the weight  coming  in the front  axle? So, front  utilization  front  weight  utilization  factor.   
+(Refer  Slide  Time:  20:23 ) 
+ 
+So, these  are some  of the things  which  has to be considered  while  selecting  a tyre. So, this is the 
+flowchart  which  I have  given.  So, the complete  flowchart , first tyre specification , implement  
+specification , soil conditions , operating  conditions , then you compute  different  parameters  
+traction  parameters  and draft value  then comes  your comparison  whether  the tyre is in a position  to carry the load dynamic  load or not? If not weight  on the front  axle is less than 20 percent  or 
+not.  
+Then  if those  cond itions  are satisfied  that means  the tyre cannot  take this load and there  is weight  
+on the front  axle which  is 20 percent  lesser  then it will say the tyre is not suitable  for tractor , if 
+these  conditions  like a wheel  can carry  the dynamic  load it is less than the load carrying  ability  of 
+the tyre and front  axle weight is 20 percent  then it goes to compare  whether  the pull is equal  to 
+the draft  which  is required  and if that is so, whether  the pull is developed  within  20 percent  or 
+not, 20 percent  of wheel  slip.  
+If this condition  is satisfied  immediately , you can say the tyre is suitable  for the tractor . So, these  
+are some  of the procedures  which  we have  to follow.  So, again  what  you can say is the important  
+thing  is we should  know  how to calculate  these  performance  parameters.  And obviously,  there  
+are many  equations  available  as I said, it is the Brixius  equation  which  has to be considered  
+because  of its inclusion  of δ/h ratio b/d ratio and the wide  range  of applicability.  So, that will 
+help you in calculat ing the tractive  performance  parameters  and that will also help in calculating , 
+what  is the pull which  is required  to be developed  by the tractor ?  
+Then  the second  important  component  is your draft  requirements.  So, though  many  equations  are 
+not available  only a few are available  out of these  few we have  to go for ASABE  draft  equations  
+where  we can give variety  of implement  can be utilized  and their draft values  can be compute d.  
+So, thing  is we have  to go for moldboard  plow why because ? This is the primary  tillage  
+implement  which  is giving  you maximum  draft  that is why I indicated  that we should  utilize  
+moldboard  plow . So, these  are the two important  equations  you have  to consider  then the third  
+important  parameter  is the wheel  slip that should  be within  20 percent  and the fourth  important  is 
+your steering  ability that relates  to the front  wheel  weight  coming  in the front  axle.    
+(Refer  Slide  Time:  23:33 ) 
+ 
+So, in brief  we can say utilizing  the tractive performance  equation  developed  by Brixius  and 
+draft  equatio n developed  by ASABE  and is available  in ASA BE standard , selection  of tyre can 
+be carried  out taking  into consideration  the front  wheel  weight  utilization  factor  that is 20 percent  
+of the total weight  of the tractors  should  be always  available  at the front  axle for easy steering.   
+(Refer  Slide  Time:  24:07) 
+ So, you can refer  summer  to the ASAE  standards  then you can use the theory  of ground  vehicles  
+book  that will help you in further  improving  your knowledge  related  to computation  of different  
+parameters  and thereby you can select  the tyre in a better  way. Thank  you. 
+ 

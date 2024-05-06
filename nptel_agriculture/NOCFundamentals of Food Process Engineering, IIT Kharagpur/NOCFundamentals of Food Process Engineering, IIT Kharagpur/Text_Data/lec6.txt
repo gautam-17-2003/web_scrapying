@@ -1,0 +1,178 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 06 
+Measurements of Rheological Properties  
+ 
+Hello everyone , welcome to the online certification  course Fundamentals of Food 
+Process Engineering . Now, in today ’s class we will see that how we can measure those 
+Rheological Properties . 
+(Refer Slide Time:  01:08)  
+ 
+Viscosity measurement  
+ Viscosity is the most important rheological property of fluid food  and if it is Newtonian 
+fluid , it is known as  viscosity and for non-Newtonian fluid , it is apparent viscosity . To 
+get a relation between shear stress and shear rate, by plotting both a straight line will 
+form for a Newtonian fluid with and that straight lin e will pass from the origin . And if it 
+is a power law model , by considering a factor  n in both the side  to get a straight line from 
+that, it will give  apparent viscosity . 
+Different methods to measure the rheological properties (viscosity ) 
+ Capillary Flow Viscometer    Orifice type viscometer ,  
+ Falling ball viscometer ,  
+ Rotational  Viscometer . 
+Under the rotational viscometer , there are different kind s of geometry which are in use 
+and all the methods under the rotational viscometer work s based on the similar prin ciple ; 
+however, there are certain difference s in the geometries . So, to meas ure the viscosity by 
+all the methods  mentioned  over here , there are certain general criteria that are  taken . So, 
+those are basically  defining the condition of the fluid  for which w e are measuring the 
+viscosi ty.  
+There are  certain  parameters which can affect the viscosity . So, while measuring 
+viscosity  the aim is  to nullify the effect of those variation s; so that the exact behavior  of 
+the fluid can be understood . So, flow should be s teady  so; that means, the velocity must 
+be constant . Flow should be lamina r as in laminar flow, the flow velocity is l ess and each 
+fluid layer is slide  by one another . In turbulent flow , the lateral mixing of the  liquid 
+layers will be there which can  hinde r the p roper viscosity measurement . 
+Fully developed flow  is considered to analyze  the velocity profile in a proper way  or to 
+relate  the viscosity , shear rate , velocity , and shear  stress  properly . Also constant 
+temperature  is taken into consideration as  temperature has  significant effect on viscosity . 
+With increase in temp erature viscosity increases  in case of  gases . However, in case of the 
+liquid sample , with increase in temperature  viscosity decreases . This phenomena is valid 
+for normal pressure ; all thoug h there are some effect of pressure as well . That is why it 
+need s to follow these general criteria  for measuring the viscosity . (Refer Slide Time: 06:10)  
+ 
+Capillary flow viscometer  
+ Simple, inexpensive, and suitable for low -viscosity fluids (Newtonian)  
+ Gravity-operated -suitable only for Newtonian fluids having viscosities in the 
+range of 0.4 to 20,000 mPa·s  
+ For viscous fluid s - external pressure required ( may be compressed air or by 
+some mechanical means ) 
+ For non -Newtonian fluids -- less suitable  
+ Suits only  if the applied external pressure is more significant than static pressure.  
+The working principle is as follows:  
+Let us say A and B are two point in the capillary tube  and we want to measure that how 
+much time it will take for a known volume of sample to pass from one point to the other . 
+And also we want to know the volumetric flow that can happen under certain driving 
+force . In capillary flow viscometer , constant shear rate is maintain ed. So, as in non-
+Newtonian fluid shear rate  is changi ng; so it is very  difficult to measure by capillary flow 
+viscometer . However, it has to  measure the non -Newtonian fluid  viscosity by capillary 
+flow viscometer , so then some external pressure  is to be  applied  and consider  that this 
+external pressure is more significant comp ared to the static pressure . (Refer Slide Time: 09:42)  
+ 
+Principle behind the viscosity measurement by capillary flow viscometer  
+ To measure the volumet ric flow rate , which  can happen under a certain  pressure 
+gradient or a certain  driving force , we need to  know the diameter of this capillary and the 
+diameter is generally kept very sma ll to cause the laminar flow only  and that can be 
+determined  by calibrating this capillary viscometer by a liquid, generally Newtonian oil 
+of which  the viscosity is known . 
+So, then we can determine the  diameter and radius , from that the  volumetric flow rate  
+can be calculated and during the calibration , the time taken by the liquid with known 
+viscosity to pass through is measured which will be a bench mark for  any un known 
+liquid  through this . 
+So, in this method we get an idea of kinematic  viscosity because it give s us some 
+indication of the  dynamic viscosity as well as the effect of den sity. Kinematic viscosity  
+(ν) is equal to dynamic viscosity  divided by the density and it also called the momentum 
+diffusivity . So, the kinematic viscosity can be represent ed as   
+ν  = c×t, where c=calibration constant and t = time  
+ Now let us imagine a  fluid element here in the capi llary tube which is consider ed as 
+incompressible laminar flow , tempe rature over the whole region is constant , then in the 
+fluid element  the Δp pressure that is acting  because of the gravitational pressure will be 
+balance d by the shear force τ and also we consider this as a fully developed flow . So, the 
+parabolic velocity p rofile will be there . 
+So, in this case if we try to balance the force ; that means, the force that is causing the 
+flow that is the pressure and the shear force that is opposing the flow  that is τ. So, 
+making a force  balance w e can write  considering the leng th L 
+ 
+So, 
+  
+In case of a p ipe flow , we consider  that at the centre , shear stress and shear rat e will be 
+equal to 0 when r  = 0 at the centre and s hear stress will be equal to τw or maximum when 
+r = outer radius R. So, therefore, we can write th e shear stress at the wall   
+ 
+Also we can write  that in case of laminar flow , inside a pipe ΔP and the velocity , 
+viscosity of the liquid c an be related by Hagen Poiseuille ’s equation .  
+So, that is equal to    
+  
+By replacing  this ΔP in the  equation ,  
+  
+ is shear  rate and μ  is the dynamic viscosity of the liquid in Pa  s. Therefore, 
+  
+where v  is the velocity of the  liquid  inside the capillary tube and  
+So, now, we can express the  shear stress and she ar rate by this equation that  
+ 
+velocity v  can be related with  the volumetric flow rate as Q/π R2 square . So, now  we are able to make a relation with  shear stress with respect to volum etric flow 
+rate Q or shear stress with respect to velocity and from th at slope we can get the dynamic 
+viscosity μ. So, therefore, we have established this relation for the Newtonian fluid     
+  
+(Refer Slide Time: 20:23)  
+ 
+Now, for the Non-Newtonian  fluid , similarly  we can find that the shear rate 
+ 
+And we can also consider h ere,  
+ 
+So, that we can conve rt this equation to   
+ 
+Taking 
+  common , we can find      
+  
+ from he re we can get this expression ,  
+ 
+where n’ is the point slope of the ln (τ w ) versus ln(γ˙ app) 
+ 
+The relation is for the  Non-Newtonian  fluid. So, that is how we can measure the 
+viscosity by plotting the shear stress and shear rate in case of the  Newtonian and Non -
+Newtonian fluid using the capillary flow viscometer.  
+(Refer Slide Time: 25:33)  
+ 
+Orifice type viscometer  
+This is used onl y for th e low viscous fluid .  
+ The time for a standard volume of fluid to flow through an orifice is measured.  
+ Used for Newtonian or near -Newtonian.   The cup is filled by dipping it into the fluid and withdrawing it. The time from 
+the start of withdrawing to the fi rst break occurring in the issuing stream is 
+recorded.  
+ (Refer Slide Time: 27:04)  
+ 
+Falling ball viscometer  
+ In this, we take a cylinder and fill it with the fluid for which we want to  measure the 
+viscosity and here  the criteria is that , we should take at least the particle  ten times smaller 
+than the diameter of the  tube to get the wall effe ct neglected . So, when we drop a ball of 
+let us say a radius  R in the tube , this will fall down because of gravity  and other than 
+gravity , there will be a buoyancy force  that will try to take the ball up  and also a drag 
+force which is act ing in the upward direction . Now if we  try to do the force balance , this 
+ball will try to come to an  accelerating  conditio n to the bottom of the tube ; however, if 
+we think of the equilibr ium condition , what will happen that the force will be in the 
+balance d condition an d the ball will come to the bottom  with a constant velocity ; it will  
+not accelerate , but it will come to a constant velocity to the ground ; that velocity is 
+considered the t erminal velocity . So, if we can measure the terminal velocity , from there 
+we can get the  idea of the dynamic viscosity of the liquid . 
+ very simple, inexpensive, and suitable for low -viscosity fluids.   Principle - measuring the time for a ball to fall through  a liquid under the 
+influence of gravity.  
+ Force applied - gravitational force, drag force, and buoyancy force  
+ Force balance: Net force (F Net) = Gravitational force (F G)− Buoyancy force (F B)− 
+Drag force (F D) 
+Equilibrium - falling ball reaches a terminal velocity ( vt) 
+ (Refer Slide Time:  30:40)  
+ 
+So, let us see first that  ok; so we will see that how in the equilibrium condition, when the 
+ball will attain the terminal velo city,  
+So, the net force is   
+ 
+In the right side part, 1st one is for gravitational force w hich is acting downward , 2nd and 
+3rd one is for  the buoyancy force  and drag force  respectively.  So, in the case of 
+equilibrium dv / dt tends to 0, since it is  coming with a constant velocity . So, v will be V 
+terminal  and then , we can write  
+  
+In the laminar  condi tion we can consider , 
+  
+ N Re which is Reynolds n umber and that is equal to   
+  . 
+We can calculate the dynamic  viscosity by taking  common π 
+ /6  
+ 
+ 
+where v t is the terminal velocity  of the particle or  the ball that is coming , DP is the 
+diameter of that , ρp is the density of the particle in kg/m3, ρf is the fluid density kg/m3 
+and g is ac celeration du e to gravity . So, here we can get the idea of dynamic viscosity . 
+So, that is how viscosity by the falling ball viscometer can be calculate d. 
+Thank you . 

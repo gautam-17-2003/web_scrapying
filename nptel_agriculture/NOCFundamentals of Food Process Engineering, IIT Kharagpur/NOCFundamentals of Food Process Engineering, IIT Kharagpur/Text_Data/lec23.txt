@@ -1,0 +1,180 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 23 
+Heat Exchangers (  Contd.  ) 
+ 
+Hello everyone , welcome to the NPTEL  online certification co urse on Fundamentals of 
+Food Process E ngineering . We were discussing about Heat E xchanger and in our last 
+class we have covered a few topic from this chapter . 
+(Refer Slide Time: 00:34)  
+.  (Refer Slide Time: 01:33)  
+. 
+Heat transfer coefficient  
+The heat trans fer coefficient or film coefficient, or film effectiveness, in thermodynamics 
+is the proportionality constant between the heat flux and the thermodynamic driving 
+force for the flow of heat (i.e., the temperature difference, Δ Tm). 
+q = heat transfer rate, W= J/s, 
+A = heat transfer surface area, m2 
+U = overall heat transfer coefficient, W/  (m2°C)  
+ (Refer Slide Time: 02:55)  
+. q = U A ΔTm   Different types of basic  heat transfer equation  
+Basically 2 very common modes are conduction and convection heat transfer . So, 
+convectio n happens when  one fluid and one surface is involved and  conduction is when 
+only heat is transferred through a solid surface  or solid wall  
+For conductive heat transfer, the equation is follows:  
+ 
+Let’s consider a  solid wall having  dx thickness and the heat  is flowing from the higher  
+side to the lower side where , T1 greater than T2. Since heat is flowing down from the 
+higher to lower side in the direction of positive x that  is why we are putting a minus here . 
+ (Refer Slide Time: 04:22)  
+. 
+For convective heat  transfer, the equation is follows  
+ 
+Suppose we have a wall , where this conduction is happening and this is a temperature  T1, 
+this is T2. However, there is a n air layer or for that matter any fluid which is flowing  
+through  the surface . So, here we can get a temperature  gradient ; here it is Ti and this is To 
+if it happens . So, the heat transfer happen in this zone is because of convection . So, heat 
+flow from the fluid to the wall . So, this is called the convective heat transfer coefficient , we can have this convective 
+heat transfer coefficient in both the side , in and out  we can term it as h i in the inlet side 
+and h o in the exit side . So, this is convective heat transfer coefficient h . 
+(Refer Slide Time: 05:44)  
+ 
+In a practical case for example, in a heat exc hanger , 2 fluids are separated by a wall  
+surface so ; that means,  the fluid has the convective heat transfer coefficient in both the 
+side of the wall , and heat has to flow through  the wall of the heat exchange su rface. So, 
+here we need both conduction and c onvection together and combine them to find out the 
+overall heat transfer coefficient .  
+So, overall heat transfer coefficient . 
+ 
+So, conductive heat transfer coefficient k  = W/m.K  
+Unit of convective heat transfer coefficient h = W/m2.K  
+overall heat transf er coefficient  (U) = W/m2.K   (Refer Slide Time: 07:18)  
+ 
+In a plane wall type configuration considering Δx A as the thickness and the fluid in one 
+side there is a hot fluid and the other side there is a cold fluid  and T1 is the temperature 
+in the hot fluid  T2 is the temperature at the surface of the  wall outer surface of the wall , 
+T3 is the temperature of the inner surface of the wall and  T4 is the temperature in the 
+cold fluid section . 
+So, overall heat transfer coefficient we can  express as  
+ 
+So, 1 / hi is actually the resistance in hot fluid side , then Δ xA/ kA = the resistance in the 
+solid wall or the surface . And 1/ ho this is the resistance in the cold fluid side , ho is 
+conve ctive heat transfer coefficient.  
+For cylindrical wall  
+If the high temperature fluid is outside let us say  T1 is the temperature . So, T1 to T2 that 
+is the outside surface of the tube , then it is conducting through  the wall and  T3 is the 
+inner surface of the tube and  T4 is the fluid which is in the  central tube, then the overall 
+heat transfer coefficient    
+So, when A can be equal , if this thickness  of the tube is very small , in that case  we can 
+consider that inside area that is  Ai will be very much equal to Ao and that is equal to A. 
+So, in that case we can omit this , which will become,  
+ 
+Now if it is not equal if you know  Ai is not  equal to  Ao that is there is a significan t 
+thickness of the  heat exchange surface is there , that time we can either define the overall 
+heat transfer coefficient based on inside surface area or we can express them based on 
+the outside surface area . 
+So, if we want to express them based on the inside surface in that case we will multiply  
+Ai in both the side . So, we will get  
+ 
+Alm = log mean surface area =(A 2-A1)/ln(A 2/ A1) 
+Now  based on the  outside surface area  
+ 
+  
+(Refer Slide Time: 15:29)  . 
+Then if L= length  of the tube, we can write  
+ 
+So, the length will be L right . So, this is how we can calculate  the overall heat transfer 
+coefficient and also you can think of that  it depends on what is the convective  heat 
+transfer coefficient value , based on that  your over all heat transfer coefficient can be 
+defined . For example, if you have in the hot fluid side let us see for this case in the hot 
+fluid side you have  h i. (Refer Slide Time: 16:21)  
+. 
+So, h i let us say  1000  W/m2K and in the cold fluid side h  o have a small  value that is  4.5 
+W/m2K and if we consider for example, the Δ x is very small . So, Δ x/k that is the 
+resistance offered by  this section will be negligible . Similarly if it happens for the tube 
+also the  middle term will be negligible . 
+So, in that case , U=1/ {(1/1000) + (1/4.5)} . So, 1/1000  can be neglect ed this as well . So, 
+answer will be  4.5 so that means, overall heat transfer coefficient is mostly close to your  
+lower convective heat transfer coefficient value . 
+So, where  thickness is very less you can alm ost neglect that one , and higher side heat 
+transfer coefficient and  in the in the other fluid where the heat transfer coefficient is very 
+low, your overall heat transfer coefficient will al ways be close to the lower side.  (Refer Slide Time: 18:31)  
+. 
+Fouling factor ;  
+In a heat exchanger, during operation, ash, soot, dusts are got deposited on the surface. 
+This phenomenon is known as scaling or fouling. Due to this deposition thermal 
+resistance increases and the heat exchanger lowers down. The effect of scal e on heat 
+transfer is specified by internal ( hsi) and external ( hso) scale heat transfer coefficients.  
+ (Refer Slide Time: 20:13)  
+. 
+ Analysis of heat exchanger  
+Thermal resistances on scale formation on inside is given by:  
+Rsi = 
+  
+h si was the  heat transfer coefficient in the scale side inside of this scale deposition   
+Thermal resistances on scale formation on outside is given by:  
+Rso = 
+  
+ The reciprocal of scale heat transfer coefficient is known as fouling factor (R f). It is 
+defin ed as:  
+ 
+The unit of fouling factor is given by m2.˚C/W.  
+So obviously, U clean will be higher than U dirty. So, we are getting a positive value that is 
+the value of the fouling factor . 
+(Refer Slide Time: 22:27)  
+. 
+So, the overall heat transfer coefficient considering the thermal resistance is given by    
+ Total  temperature difference  that is the total gradient  = t i - to  
+1 / hi = the fluid side external  resistance .  
+1/h S = resistance because of scale deposition  
+So, driving force by resistance  this will be the overall heat transfer .  
+(Refer Slide Time: 24 :17) 
+ 
+And the overall heat transfer coefficient based on the inner and outer surface  
+ 
+So, when resistance due to thickness and scaling is neglected , the overall heat transfer 
+coefficient is given by this value .   
+ (Refer Slide Time: 26:24)  
+. 
+So, foulin g factor of some fluids  this you may get in many textbook and you can observe 
+that, what are the range of this  fouling factor  Rf that is in m2°C /W. Like in for the 
+distilled water this is 0.0001,  for the treated boiler feed water that is ranging from 0.0001 
+to 0.0002 , fuel oil and crude oil this is 0.0009 , industrial liquid 0.0002 , etcetera . 
+(Refer Slide Time: 27:02)  
+. Correction factor for multi pass heat exchanger  
+For multi -pass heat exchangers the heat flow can be given as by considering correction 
+factor.  
+ 
+Correction factor can be calculated from chart. It is a function of temperature ratio (P) 
+and capacity ratio (R).  
+Temperature ratio (P):  
+It is defined as the  ratio of rise in temperature of the cold fluid to the difference in inlet 
+temperatures of the two fluids.  
+ 
+ (Refer Slide Time: 28:28)  
+ 
+Capacity ratio (R):  
+The ratio of products of mass flow rate times the specific heat is known as capacity ratio.  
+ 
+   
+                                          = [
+  
+ 
+ (Refer Slide Time: 29:47)  
+ 
+So, first case ; correction factor plot of heat exchanger with 1 shell . So, here we are 
+getting  1 shell pass  2 tube pass . So, t c 1 is entering  and t c 2 is coming out a nd t h 1, it is 
+entering  in a cross -flow situation t h 2 is coming out . So, p value can be  calculated as 
+difference in the cold fluid temperature divided by inlet of hot and cold that we have 
+calculated.  
+So, from these  2 data we can calculate the correctio n factor . So, let us say  for p is 0.4 and 
+1.5 will be the capacity ratio . So, this point  when it heat , so, corresponding to that value . 
+So, something 0.86 or so will be the value of correction factor . 
+ Similarly , correction factor for a plot of heat exchan ger with multiple shell . So, this is  2 
+shell pass 4 tube pass  the charts are available . So, in similar  way we can calculate the P 
+value and R value and from the chart we can find what will be the correction factor . So, this correction factor will include  in our equation that is  U A ΔTm and then we can 
+calculate the ex act amount of heat transfer .  
+Thank you . 

@@ -1,0 +1,327 @@
+Fundamentals of Food Process Engineering  
+Prof. Jayeeta Mitra  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 03 
+Food Rheology (Contd.)  
+ 
+Hello everyone welcome to the  NPTEL online certification course on Fundamentals  of 
+Food Process Engineering . So, we will continue with Food Rheology  today ; in the last 
+class we have seen the  material property of  solid and we have also learned the  three 
+different modulus , that is  Young’s modulus , bulk modulus and shear mod ulus. And also 
+we have  familiar with certain parameter  of the rheological  nature of the solids and stress 
+tensor also we have discussed a bit. And today  we will move further to very important 
+concept that is called the  Poisson’s ratio.  
+Now, when we have  discussed about the unidirectional  or uni  axial force ; that time  we 
+have noticed that when we are pulling  the body  from the both end in a unidirectional 
+manner the; so the elongation has happened  in the body . That means, in the direction of 
+the force , the bo dy has been elongated some deformation or some length s in hands in 
+that direction right . Now since  the body  volume  cannot be changed because we ar e not 
+exposing it to the bulk com pression  right . So,  in th is case if suppose  some  changes 
+happened  in the  longitudinal direction . So, definitely some amount of change will also 
+need to happen in the transverse direction because the volume should remain constant  
+right . (Refer Slide Time: 01:58 ) 
+ 
+So, Poisson’s ratio deals with this concept that is  because the volum e of the sample 
+cannot change under simple axial loading . If a unidirectional tensile stress increases the 
+dimension in one direction , the dimension in the transverse direction  must decrease  ok. 
+And the relative change in  the thickness i.e.   ‘Δd/d’ is called the transverse strain  and the  
+it depends on the axial strain that is Δl/l. So, the ratio of the transverse  strain to the axial 
+strain produce s a proportionality factor that is called the  Poisson’s ratio ‘μ’.  
+So, Poisson’s ratio ‘μ’ that i s equal  to transverse strain by axial strain and this is very 
+important parameter ; if we know the  Poisson’s ratio and we know that  any other  
+parameter between all the  3 modulus that is  E, K and G we can find out the other  
+parameters . So, the interrelation can be visible from this table that we have taken  2 
+material  case A and case B. (Refer Slide Time: 03:12 ) 
+ 
+So, in case A what we are getting that  μ=0.5 and case  B, μ=0 where ‘μ’ is the  Poisson ’s 
+ratio.  
+Poisson’s  ratio =transverse  strain  
+longitudinal  strain  =∆dd 
+∆ll  
+so, μ=0.5 that means the  transver se strain that is  equal to half of the long itudinal  strain in 
+the first case , where as in the second case μ=0. 
+we know  that there are different interrelation  like shear  modulus  G, bulk modulus  K and 
+Young’s modulus  E that can be expressed in terms of  these other modulus .  
+G=E
+2 1+μ  
+ 
+So G =E/3 & G  = 3*K/2 for case A & case B respectively.   
+Similarly  K that is the bulk modules . so that is coming infinity ok , so bulk modulus 
+coming infinity ; now what is the bulk modulus ? That is the rel ative  change of pressure  
+needed to cause  the relative change in the volume . That means, the pressure  the 
+requirement of the pressure will be  so high to cause the  change in the volume in this kind 
+of a sample  and here because we have got this one in G =E/3. Similarly  in case of B,   
+G=E
+2=3
+2×K 
+ 
+And further we can  get the expression of  K in terms of Poisson ’s ratio only that is  
+Poisson’s ratio in an  shear  modules ; so all the interrelation  can be generated . So, if we 
+try to find all the values of this kind of  2 material . So, from material A we are getting  K 
+is very large that we are getting from here . 
+So, the bulk modulus will be very large , ‘E’ is small  and Young’s modulus is  small ; that 
+means,  if you if you plot this stress versus strain in  this particular matter . So, we are 
+getting a very low slop e so; that means, the change  of the  change to cause a certain 
+amount of  strain  small amount of stress is required  ok. Similarly  G is also we are getting 
+small , but for material  B where  the bulk mod ulus is small . So, E we are getting very 
+large and  G also we are getting very large value  ok. So, K, G and E all we can relate with 
+their; with the other property or in terms of the  Poisson’s ratio ok; so this is the 
+expressions . 
+Now, we will move on to the  next thing that is the fluid behaviour or viscous property . 
+So, till now we have mostly concentrated on the  rheological behavio ur of the solid that 
+what happen when a solid material is  you know exposed to normal or shear stresses  ok; 
+also the concept of  stress tensor is very much appli cable to the fluid . So, now  we will 
+going to see in a bit detail that what other the fluid behaviour or viscous properties .  (Refer Slide Time: 07:39 ) 
+ 
+So fluid behaviour in a steady shear flow ; so the way in which liquid form to an applied 
+stress is flow that is  the continuous deformation with time . So, let us take  fluid which is 
+kept in between  2 thin plates and the gap s between  2 plates are very less . So, gap is very 
+less and from the rest po sition if the bottom plate is fixed to the ground and we start 
+giving the top plate of velocity . So, stop when the top plate starts moving with a vel ocity 
+v in the x  direction . So, it tries to  pull all the fluid element or the molecules that  is in 
+contact with the plate , it also try to move it along the plate ; however, the bottom plate is 
+fixed . So, all the fluid element of fluid particle that  is in contact with the bottom plate 
+will try to restrict that flow ok . 
+So, they try to have in the  same resting pos ition; so because of that  this kind of a profile 
+will generate the linear profile will generate  ok. So, if we want to measure the shear ; in 
+this case the shear rate that we can measure by how long the top plate has moved on the 
+particular point and what is  the distance between these  2 plate . So, if we consider the 
+continuous shearing at a constant rate ; that means, this top plate  is moving with the fixed 
+velocity v towards x di rection , then shear  rate that is also called the strain rate is defined 
+as 
+. So, 
+  is the shear rate or strain rate or rate of strain any  way you can express it; that 
+means, the change of shear  with re spect to time . So, d
+/dt; so it is a time dependent 
+material function , so now  d
+ is the  shear . 
+So, we can express this as  small distance if it has changed .  Poisson’s  ratio =dγ  
+dt=d dldh  
+dt=v
+h  (Refer Slide Time: 10:37 ) 
+ 
+So, now fluid behaviour in steady shear flow ; so, to completely describe the state of 
+stress or strain  three directional flow should be considered for stead y simple shear flow . 
+In the Cartesian coordinates , the stress tensor  is used to express the flow as I have 
+mentioned already in the last class .  
+Now, viscometric flow or simple shear flow ; so, what is that ; that linear relationship 
+between the shear stress  and the rate of shear strain governed by the viscosity of the 
+liquid . Now what is viscosity ? As we have seen in the in the earlier diagram that , if 
+unidirectional shear stress  is applied that is towards the x direction , the plate has been 
+moved with a vel ocity constant velocity v; then because of the fluid property it try to 
+resist the flow ok . So, that is te rmed as viscosity and if we plot the linear relation 
+between the shear stress and shear rate we will get a straight line and the proportionality 
+const ant is mu or viscosity  ok. (Refer Slide Time: 12:06 ) 
+ 
+So, here is the  expression graphical expression  that is shear rate we have  expressed in x 
+direction  and the corresponding shear stress which is expressed by  τ that is being given 
+in the  y direction . So, straight line we are getting and from the slope we can get the idea 
+of viscosity  ok. Now, those material s which  show this linear behaviour between the  shear  
+rate and shear stress is called the  Newtonian  materi al because they obey the  Newton’s 
+law of vi scosi ty.  
+τ = μ
+ 
+So, in case  Newtonian  fluid ; if we want to plot the ir viscosity  at different shear  rate; so 
+we will get a str aight line . Because from this plot  also we can see that the slope does  not 
+change ; it is a straight line . So, the slope is actually the idea of visco sity the concept of 
+viscosity . So, any point ; any increasing sh ear rate if you want to me asure you will get the 
+same slope . So, apparent viscosity  does not change viscosity or apparent viscosity  does 
+not change . Normally in case of  Newtonian  fluid ; the viscosity is represented by mu  and 
+in case of non  Newtonian,  we regionally express them by a pparent vi scosity eta  and also 
+this the slope that we are getting this  system as  dynamic viscosity .  
+So, dynamic viscosity here remain s constant for  all shear  rate. So, dynamic viscosity 
+μ=dτ/d
+. Now here are certain common  liquid  that is you know food  only or the 
+application of  different food is related with this kind of liquid s. So, in them we can see that for water this value of dynamic viscosity is  1.002;  the unit is in  Pa.s. Ethanol , we are 
+getting 1.20 milk; we are getting  2 olive oil , we are gettin g 84. So, you can see that that  
+viscosity is changing  or increasing  in this particular  material .  
+(Refer Slide Time: 15:08 ) 
+ 
+So, viscosity is therefore a property , but resist the flow of the fluid s and like we have 
+learnt about the dynamic viscosity ; we can also express the kinematic  viscosity in ter ms 
+of μ/ρ ok. So, dynamic viscosity as  I said that  Pa.s is the  unit in the in the  SI scale poise 
+in the  CGS system  and ‘ϑ’ that is the kinematic  viscosity express ed in m2/s. This is 
+actually the similar  to the  heat transferred ‘α’ that is called the thermal diffusivity and 
+also the mass diffusivity .  
+So, this is similar in case of the momentum  transfer if you consider you will express the 
+this particular parameter by the kine matic viscosity ; ρ is the density  of the fluid in kg/m3 
+and μ which is the re verse of viscosity  this is called the fluidity or flow ability ok; so 
+flowabilit y is just like 1/μ.  (Refer Slide Time: 16:17 ) 
+ 
+Now, viscosity of the fluid is a consequence of the molecular interaction within the 
+molecular structure of the material . So, this is very important because what happened 
+that why we feel the  you know viscosity will change from material to material . Because 
+there is molecular interaction playing a role and not  the molecular interaction among all 
+the material is not  of similar type ; there are  different kind of  interactive forces acting in 
+them . And molecular thermodynamics reveals that the temperature has a direct effect on 
+the molecular motion . So, there is a some kind of  tradeoff happened between the thermal  
+energy and the  molecular energy  intra molecular energy .  
+So, viscosity there fore, must also depend on temperature because some time when we 
+apply  heat to the material , what happened to the vis cosity ; for the liquid if  you have 
+observe that the viscosity lower s right and in case of the gas viscosity increases . So, the 
+inter particular  particle attraction or interaction force  reduce be cause of the thermal 
+energy and  then the viscosity lowers ; so the interaction  plays an important role .  
+So, viscosity will decrease with increasing temperature ; if no other  reaction or 
+transform ation are involved  some time  say for example, starch gelatinization  if we 
+provide heat  to the  starch  in the moist condition . So, gelatinize happen and that will  
+change the structure of the material  and gel formation will be there and the viscosity 
+increase s. So, the nature of the temperature dependency of  viscos ity can be expressed as 
+arrhenius  kind of equation . 𝜇=𝐴𝑒𝐵
+𝑇=𝐴𝑒𝐸𝑎
+𝑅𝑇 Ea is the activation energy , R is the universal gas constant ; that means, if it follows this 
+kind of an equation  and one temperature  at a particular temperature ; if we know the 
+viscosity then we can express the viscosity at any other temperatur e following this 
+behavior  right . 
+ 
+Because for a particular fluid  if you are  considering ; so activation energy will be same , R 
+will also be  same , but T will be d ifferent and  because of that the viscosity will be 
+different . So, for any fluid  we can apply this equation to  see the temperature dependency 
+of viscosity  ok. So, this is the  normal expression the units of all these parameters . So, as I 
+said that bonding energy and thermal energy ; these  2 will play a role in  you know 
+increasing or decreasing the  viscosity  ok. 
+(Refer Slide Time: 20:08 ) 
+ 
+So, next is  viscous fluids ; so viscous fluid  tend to deform continuously under the e ffect 
+of an applied stress they can be cat egori zed as  Newtonian  or non -Newtonian  fluid . So, 
+by now  what we have learned is that  if we apply a steady shear on a material  that will 
+flow instantly  those are  fluid material . But if we plot the  nature of the shear stress and  shear rate  in y and x directions 
+respectively . So,  what is the nature  of that plot ? Ok if that  nature  is linear then those  
+fluid s will be considered as the  Newtonian  fluid . And if they are not linear  then we can 
+termed as the  non-Newtonian fluid ok. So; obviously,  Newton’s law of fluid  Newtonian  
+fluids ; they we will follow the  Newton’s law of the  viscosity and viscosity is c onstant 
+and independent of shear  rate. 
+For example, gases , oils, water and most liquid that contain more than 90 percent water 
+such as  tea, coffee , beer, carbonated beverage , fruit juices and milk ok ; so, these show  
+Newtonian  behavior  right . So, definitely you need to take  a fluid element if you if you 
+consider  whole vegetable or fruit . Although sometime they consider  you k now they have 
+higher than 90 percent  water , but they cannot be considered here you have to look for the 
+fluids ok . 
+(Refer Slide Time: 22:01 ) 
+ 
+So now non -Newtonian  fluid ; so, here is the  plot that  shear rate and shear stress we have 
+plotted in  x and y dire ction respectively . So, the straight line the straight line where the 
+slope constant that comes under  Newtonian  you know that already . Now these  2 plot 
+where we are getting one curve that is changing its slope at every instant of  changing in 
+the shear rate  and as shear rate increases ok. 
+As shear rate increases , we are getting  a decrease slop e right ; similarly the other  the 
+lower curve if you can see where which  change in shear rate ; we are getting an increase  slope right . The other particular nature here we  can observe that is the  straight line , but 
+that straight line  does not pass to  origin ok. 
+So, all such characteristics that is deviating from the ideal  Newtonian  behaviour , where 
+the stress and strain  shear rate relation will be straight line and that wil l pass to the origin 
+is not being fulfill . So, these all are  comes under the  non-Newtonian fluid  ok. 
+(Refer Slide Time: 23:38 ) 
+ 
+so they do not follow the  Newton’s law of viscosity shear thinning and shear thickening  
+fluid and  they obey the power law mode l this is also called the Ostwald -de Waele 
+equation ;  
+𝜏𝑦𝑥=𝐾 𝑑𝑣𝑥
+𝑑𝑦 𝑛
+ 
+So, see τyx; that means, if we  consider the  floor is in is in x direction  you are considering 
+the flow is in x  direction ; so vx. So, the stress shear stress felt in y direction because of 
+flow in the x direction . So, that it that it indicate s a dimension in my last class as well . 
+‘dvx’ that is change in the  velocity  in the dy .  (Refer Slide Time: 24:44 ) 
+ 
+So, K is the consistency index and n is termed as the flow behavior  index . So, the unit of  
+K is in Pa.sn and n is the flow behavior  index  for shear  thinning fluids . As I said that the 
+slope is decreasing ; that means, viscosity is  decreasing wi th every increase in the shear 
+rate. So, then n  is <1 and the other case where the shear thickening happ ened n is >1.  
+(Refer Slide Time: 25:16 ) 
+ 
+So, non-Newtonian flow behavior  that is viscosity is not the same at different shear rate 
+non-linear  relationship  between shear stress and shear rate  gamma  or the flow behavior  curve  does not pass th rough the origin . That is another case happen in case of  bingham 
+plastic fluid ok. 
+So non -Newtonian fluid  that is why we c all the apparent viscosity eta  and for the purely  
+Newtonian  viscosity ; Newtonian  fluid we use  the viscosity ‘μ’ now the ratio of shear 
+stress to the corresponding shear rate is therefore, called apparent viscosi ty the ratio of 
+shear stress ok . Shear stress to the corresponding  shear rate  is therefore, called the  
+apparent viscosity at that shear rate because as shear rate changing this val ue also 
+change .  
+So, η which is the apparent visco sity that is a function of shear  rate here because at a 
+fixed shear apparent  viscosity , it will it will vary at different  shear rate . So, η at a fixed 
+shear rate  
+ because it  is a func tion of 
+  i.e. τ
+. Because ultimately what is apparent 
+viscosity ; if we  if we  plot the shear stress versus shear rate ok , then we get the slope of 
+that that is called the apparent viscosity .  
+So, this apparent viscosity is  which is , viscosity in case  Newtonian  that is fixed that does 
+not change with the shear rate . But here it is changing with the shear  rate in case of  non-
+Newtonian fluid ; so, we can write  
+ 
+(Refer Slide Time: 27:37 ) 
+ Intrinsic  viscosity can be determined from dilute solution viscosity data as the  zero 
+concentration li mit of specific visco sity ( ηsp) divided by the concentration (C). So, η and 
+ηs are viscosity of the solution and the solvent respectively .  
+ 
+ 
+ (Refer Slide Time : 28:18 ) 
+ 
+So, as I mentioned that shear thinning  behaviour , where  we can we can observe that the 
+apparent viscosity is d ecreasing with increasing shear rate. So, this is shown by  this 
+strain ; so apparent viscosity here we are plotting  is τ = K 
+ n-1. 
+So, shear thinning  is this behaviour  and the flow behaviour curve has a  convex profile in 
+which the tangential slope is de creasing that we hav e seen in our  stress versu s strain 
+shear  rate plot  ok. If you remember  the is ‘τ’ with respect to  
+. We have got this kind of a 
+plot for shear thinning and  the reverse we have got for the shear  thickening . So, shearing  
+causes  what kind of changes  in a food  ok. So, it causes entangle d long chain molecules 
+to straighten  and because of their s traighten out they become aligned  with the flow  
+reduces friction between the  2 layers and also reducing the viscosity . So, because of this 
+kind of nature some  food or  some material  show this kind  of behaviour where upon 
+higher shear or  increasing shear  rate their viscosity reduces .  (Refer Slide Time: 30:01 ) 
+ 
+So, example of  this pseudo plastic food; t hat is shear thinning  food are  fruit and 
+vegeta ble products such as apple  sauce , banana puree and concentrated fruit juice , cake 
+batter etce. So, for all this is if you put  higher shear  rate we can get the viscosity as  will 
+be reduced . Now, rheological behavior  of the food may change depending on 
+concentration . So, because  they are not  that is why the concept of the intri nsic viscosity 
+is important . Because when the concentration is high then the viscosity will change and 
+sometime it also happened that because of higher concentration sometime agglomeration 
+may also happen . So, the bonding in shears between the fluid a nd the particle  will be 
+changed and the particle interaction will increase right . 
+So this happen in case of  concentrate d grape juice where  82.1° Brix showed shear 
+thinning  behaviour ; however, diluted sample that is 52.1 to 72.9 ° Brix were found  to be  
+Newtonian . So, what happened is that  you know when see 52.1 to 72.9; so  this much 
+degree  Brix concentration when we have considered . So, we are getting a  Newtonian  
+trend  ok; that means, as shear stress  is increasing shear  rate is also increasing . Now what 
+happened that when we reac h a higher  concentration then may be  the you know the grape 
+juice in that the particle that that were emerged . So, they will be  coagulated or they  will 
+be agglomerated ok . So, because of that their interaction with the  fluid particle will be lower ed ok. So, shear 
+thinning behaviour we can observe ; so because of that agglomeration  the behaviour of 
+the liqu id will be totally changing .  
+(Refer Slide Time: 32:10 ) 
+ 
+The reverse  strain that is shear  thickening which is the behaviour where shear stress and 
+viscosity increasing at an increasing rate with increasing shear rate. So, normal ly this is  
+seen in high concentrated suspension ; for example, corn starch suspensio n waxy starch  
+that is maize , rice, barley and potato .  
+(Refer Slide Time: 32:35 ) 
+ And this also called the dilatant  behaviour that is with increasing  shear rate  the liquid 
+between the solid particle is squeeze out and  in turn more friction will be generated right . 
+So, this increasing friction account for increasing shear stress and  increasing the 
+viscosity experience as shear  rate that is also increasing , but because of squeezing it 
+causes dilation  that increase in volume  of the suspension and therefore, this phenomeno n 
+is called the dilatant  flow behaviour .  
+Now, you often may get to  get to accommodate  with this term  like true dilatancy and 
+apparent dilatancy  ok. So, true dilatancy means  that when you  apply the increasing shear  
+rate your behaviour changes ; that means, your shear thickening  happens . But when you 
+withdraw  the stresses or the sh ear rate is again  come to  0 you ca n get back the initial 
+viscosity . 
+So, those mat erials show the true  dilatancy , but certain material because of their  
+permanent structural changes may happen in them . So, when the shear rate is again 
+reduced to  0, also their viscosity  does not come to initial condition right ; so, those are 
+called the  apparent dilatancy .  
+(Refer Slide Time: 34:05 ) 
+ 
+So, simply if you compar e the apparent  viscosity with increasing shear  rate for  
+Newtonian  for lower and higher shear ; you will  get the same apparent viscosity  where  as 
+the non-Newtonian fluid ; you can not be sure of ; they may go very low  with higher shear  rate or even go  little bi t lower compared to the  Newtonian  or compared to th eir initial 
+value when the shear  rate is increasing  ok. 
+So, this is the different kind of nature  we can observe . So, therefore, the viscosity will 
+depend on the  stress condition that is shear rate and ofte n on also time in case of the non-
+Newtonian fluid . So, we will stop here  I will continue  the next class . 
+Thank you . 

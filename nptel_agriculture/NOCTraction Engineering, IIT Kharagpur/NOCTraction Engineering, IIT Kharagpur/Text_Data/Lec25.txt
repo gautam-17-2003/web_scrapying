@@ -1,0 +1,231 @@
+Traction Engineering  
+Professor Hifjur Raheman  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture 25  
+Tutorial 5 -Influence of Track Length on Performance of a  
+Walking tractor and Selection of Suitable Size of Tyre  
+for a Given Size of Tractor.  
+Hi everyone, this is professor H. Raheman from Agricultural and Food Engineering 
+Department, IIT Kharagpur. I welcome you all to this NPTEL course on traction engineering. 
+This is a tutorial class where I will try to cover how the length of track is influencing the 
+performance of a walking tractor? And then we will try to discuss about selection of a suitable 
+tyre size for a given size of tractor.  
+(Refer Slide Time:  1:03)  
+ 
+So, first these are the parameters which will be utilised for deciding the influence of track length 
+on its performance  and some of these parameters are also responsible for selecting the tyre. So, 
+that is listed all these parameters, which will be utilised in those 2 problems which I am going 
+to solve.  
+(Refer Slide Time:  1:26)  
+ 
+The problem is very short in the sense statement . I have given, a shorter track will slip more 
+than a longer one, if they are to develop the same tractive effort . This is the statement. We have  
+to justify this statement. So, in other words, what we are doing is, we are trying to say that if a 
+track is having longer length, it will always develop better tractive performance. That means, 
+it will develop more tractive effort. So, to prove that, you have to take one example : a tracked 
+vehicle with uniform contact pressure whose weight is given and it has the option to be fitted 
+with say tracks of different length, starting from 1.5 meter then we have changed to 2 meter 
+and the contact area of each track because the vehicle will have 2 tracks , so, each track contract 
+area is given . If the vehicle is to be operated over a terrain that has been characterized by an 
+exponent of sinkage n whose value is 0.5 and coefficient modulus of sinkage 0.77 kN/mn+1. 
+Then frictional modulus of sinkage is 51.91 kN/mn+2, then cohesion 5.17 kPa, angle of internal 
+friction ϕ as 11 ° and shear deformation  modulus K is 5 centimeter.  
+So, under these conditions, we have to select a suitable pair of tracks. That means, the track 
+which is giving better tractive performance that will be selected. So, since the question is, the 
+longer ones should be higher tractive effort, so, the equation which is related to tractive force 
+for a loose sand and the weight, assuming the weight of the track is uniformly distributed over 
+the ground. So, the question is F = Ac+Wtanϕ. So, this is maximum thrust. So, this is your 
+maximum thrust developed. This bracket portion and this is the portion, which is, portion is 
+due to the variation of slip and length.  
+So,  
+So, 
+𝐹=(𝐴𝑐+𝑊𝑡𝑎𝑛 𝜑)[1−𝐾
+𝑖𝑙(1−𝑒−𝑖𝑙
+𝐾)] 
+i is the slip, l is the length of the track. The rest of the things are same for both the soil. If we 
+look at the first bracketed term, W is also same whether it is a small track or the bigger track. 
+W is kept same and contact  area is also same.  
+So, this is the governing equation based on which we have to find out what will be the, which 
+one will be giving  the better tractive performance. So, what I have done is, have taken 2 -meter 
+length as a track for one track , then I tried to find out at 20 per cent slip , what is the tractive 
+force which is developed utilizing  this equation.  
+Because all the values are given ‘A’ I have taken as 1.5  meter square and length of track I have 
+taken us 2 meter and slip I have taken as 20 per cent. So, what we observed here is, we are 
+getting a tractive force of 124.23 kilo Newton. Now, I changed the length to 1.5 meter and what 
+we observed is a tractive ef fort which is lesser th en what is observed in case of 2  meter length. 
+So, what I did is, I varied the percent, a slip percentage from 20 to 30 per cent then what I 
+observed is, the tractive effort is  matching with the tractive effort which is developed in case 
+of 2 meter track. But slip is different.  
+So, again we tried at another slip value for a 2  meter track length . I changed the slip to 30 per 
+cent. So, I got a value of tractive force as 132.45. Now, to get that tractive force, again I tried 
+with a 1.5  meter length, that means I change l to 1.5 meter and what I observed is, when the 
+slip is 0.45 that means 45 per cent,  then only we are developing a tractive effort, which is equal 
+to the tractive effort developed by a 2  meter length track. So, from these 2 observations, what 
+we can conclude is, it is the length of the track which is giving you more tractive effort for the 
+same slip.  
+Now, the statement which I said, a shorter  track has to slip more than the longer one. So, if we 
+look at these, to get the same tractive effort, the 2  meter track length slips only 20 percent 
+whereas, the 1.5 -meter track length, it slips 30 percent. So, the statement is proved. To further 
+check this one, if you look at 2  meter length, at 30 percent slip you are getting 132.45 kilo 
+Newtons tractive effort. To get the same tractive effort of 132.45 kilo Newton the shorte r track, 
+that means 1.5 -meter length track has to slip by 45 percent to develop the same tractive effort.  So, the statement which is given like a shorter track which is more, is now justified from this 
+example. So, basically it is the governing equation that has  to be remembered and then we need 
+to know how to utilise this equation by the parameters like soil parameters and weight coming 
+on the track and the contact area of the track and different slip values, then only you can 
+calculate.  
+So, the next thing is, a problem which will be dealing with the selection of tires. For  example, 
+someone wants to have a tractor particular size say 55 hp. If the company people who fit the 
+tyres and that is there you cannot change it because they will say this is the best one. But if you 
+really want to analyze  which one is best one, then you have to do this exercise.  
+(Refer Slide Time:  8:48)  
+ 
+ 
+So, we have to select a tractor tyre for 55 hp tractor. So, what are, the information we required ? 
+We required to know what is the total weight, what is the wheelbase, what is the static weight 
+distribution. This is important, how much weight is coming in the rear axle and how much 
+weight is coming in the front axle? That is important . 
+So, just for convenience, I have indicated that yes, in the rear axle it is 65 percent and obviously 
+in the front axle it is the rest 35 percent. Then the other important component is, what is the 
+location of CG, how far it is from the rear axle, CG from the rear axle, distance of CG from the 
+rear axle? Then question arises, what kind of implement you are going to select?  
+So, we want that the tractor should give you maximum power. So, maximum power means, it 
+is the tillage operations which will give you maximum power. Tillage operation again, the 
+primary tillage operations related to deeper till age. for in our case, mouldboard plough is  the 
+implement which is going to give you the maximum draft and it is a clay soil which will give 
+you the maximum draft force.  
+So, we want to know the details about the implement whether it is a 2-bottom  mouldboard 
+plough or whether is the 3 bottom moul dboard plough. Once you select the plough, then what 
+should be the number of bottoms , then what is the total weight of the implement that means 
+mouldboard plough, then what depth you want to operate, what is the width, then at what speed 
+you are going to operate? These are some of the information  which you require, then the most 
+important thing is the center of  resistance, how far it is away from the center of the rear axle, 
+and how much below the ground level?  
+If this information  are available and the ang le of pull is available, then we will try to find out, 
+what is the weight transfer or what is the dynamic weight coming at the rear axle and what is 
+the dynamic weight coming on the front axle? So, before that, once you decided the implement 
+and knowing differe nt information , the next step is how to calculate the draft? ASABE equation 
+is the only equation which will give you draft computation. So, the ASABE draft equation is 
+given as this  
+𝐷𝑟𝑎𝑓𝑡  (𝐷)= 𝐹𝑖[𝐴+𝐵×𝑉+𝐶×𝑉2]𝑀𝑤𝑇𝑑 
+Where, Mw is the width, T d is the depth and V is the forward speed, A, B, C are parameters 
+which value are listed here.  For MB plough, have already decided from that ASABE standard what are the values of A, B 
+and C. Value of A is 652, value of B is 0 and value of C is 5.1 and F 1, F2, F3 these are soil 
+texture adjustment parameters, Fi 1 means F 1, means i could be 1, it could be 2, it could be 3. 
+If it is 1 then the value is, Fi value is 1, if it is F 2 then the Fi is 0.7, if it is F 3 the Fi value is 0.45. 
+So, basically it is the hardness of soil. In that way if I have to take , for clay soil, we have 
+decided these are the parameters 1 F 1 value is 1, A value 652, B value is 0 and C value is 5.1. 
+Then we try to find out what is the value at a forward speed of 4.5 km/h  and at a depth of 15 
+centimeters . This is the draft value which is found out. Then what will be the pull? So, pull will 
+be, if I draw a tractor here so, this is the ground , so, pull will be somewhere here, this is the 
+line of pull and what I am saying is, the line of pull is making certain angle with the horizontal  
+and the center of  resistance is say, distance away from the rear axle and the center of gravity is 
+also at the distance from the rear axle. This is your central gravity W and you need to know the 
+total weight.  
+So, in our case we have taken ‘W’ as 2400 kg. So, this distance is to be known and it is given 
+70 centimeter and this distance center of resistance  is 100 centimeter from the rear axle and 
+this is the ground, this is 15  centimeter and 15 centimeters below the ground level. So, there 
+will be a reaction at the front wheel, there  will be the reaction at the rear wheel. So, this pull (P), 
+I can resolve into 2 components P x which is nothing but your draft which I have already 
+calculated using the ASABE equation and the vertical component is your P y.  
+So, that P  = D/cosα. So, that will give you a pull (P) and from P we calculate P y which is nothing 
+but P ×sinα. So, that way we got 182.12 kg. So, we got the value of draft, we got the value of 
+pull, we got the value of vertical component P y. The next thing is, you have to find out what is 
+the dynamic weight coming in the front axle because we need to steer the vehicle comfortably 
+during operation.  
+So, for steering the vehicle comfortably, we need to have at least 20 percent of the total weight 
+on the front axle. So, we have to now find out, what is the dynamic weight coming on the front 
+axle and then verify whether this condition is satisfied or not ? So, for calculating the dynamic 
+weight we have to take a moment about the center of the rear axle around the central axis of 
+the rear axle. So, now, these are the 2 forces, then this is the total weight acting, this is the front 
+wheel reaction.  (Refer Slide Time:  16:39)  
+ 
+ 
+Since you are taking moment about this line, so, what we are getting is, P x ×(r+15). If you want 
+to make it in meter, 0.15 meter. Then moment because of y it will be minus. So, moment  
+because of P y will be Py×(1+0.7 ). Now, W, this is positive clockwise. So, moment du e to W is 
+W×0.7-R1×2.1. So, if the Px value is nothing but the draft, P y value is this value. So, if W value 
+is known, so, if you substitute this one from here , we can find out what is the value of R1.  
+So, now, you will verify this condition, whatever value is coming whether it is giving us this 
+condition satisfied or not. If not, that means, if not, we have to reject the case. That means, the 
+tractor is not, the tyre which is fitted is not suitable, we have to put some more weight at the 
+front. So, rolling resistance will increase. So, that means this tyre diameter is taking a role here. 
+So, you have taken R plus 15 so, tyre diameter is taking a role. So, this exercise after you finish, 
+what is the dynamic weight?  
+The next thing is, the pull which is developed by the tractor . So far , we have not calculated. 
+So, you have to now calculate how much is the pull that should be greater than or equal to the 
+draft value which is required to pull the implement. So, for finding out the pull which is 
+developed, we can take the help of Brixius equation. So, that means, you have to calculate the 
+mobility number then at different slip values starting from 5 percent, 10 percent, 15 percent, 
+we have to find out what is the pull which is developed. It cannot exceed beyond 20 percent or 
+maximum range sh ould be a maximum range of slip should be within 20 percent. So, at 
+different values of slips 5 percent, 10 percent, 15 percent and 20 percent , we have to find out 
+what is the pull which is developed using Brixius equation. Brixius equation gives you tractive 
+effort the torque ratio, so torque ratio minus rolling motion resistance ratio. So, that will give 
+you the coefficient of traction and coeffi cient of traction if you multiply the dynamic weight 
+so, that will give you the what is the pull which is devel oped.  
+So, let me repeat again, for calculating pull there is no direct equation given by Brixius . We 
+have to find out the torque ratio first, then find out the rolling resistance ratio or the motion 
+resistance ratio and the difference of these 2 will give you the coefficient of traction or 
+coefficient of net traction. So, which is nothing but P upon dyn amic weight of the dynamic 
+weight coming on the wheel or axle. Now, you multiply it whatever value you are getting just 
+multiply with the dynamic weight.  
+So, dynamic weight of the front axle we have calculated just now, similar exercise you have to 
+carry out at this line centerline of the front wheel that means, you need to know the tyre 
+diameter which is provided at the front. So, we find out dynamic weigh t of the front axle, 
+dynamic of the rear axle. Since it is a 2 -wheel tractor , so, this has to be multipl y with the 
+dynamic weight on the rear axle. So, that will give you what is the pull which could be 
+developed by a tractor and that should be greater tha n this draft requirement of the implement. 
+So, that is the third condition which has to be satisfied . 
+The first condition is  the steering ability, second condition is the draft should match, third 
+condition is the slip should be within 20 percent. If these conditions are satisfied, then only we 
+can say this tyre which is selected is good enough to carry out this till age operations. So, the 
+possibilities there could be many tyres available in the market like 13.6 -28, 16.9 -28. So, it may happen that both the tyre will satisfy this condition, all these 3 conditions are satisfied by both 
+the tyres for pulling a 2 -bottom mouldboard plough.  
+So, what you have to do is, if you really want to know here the pulling ability of the tractor, 
+then you can increase the number of b ottom of  mouldboard plough that is one possibility and 
+then carry out the same exercise and see whether these 3 conditions are satisfied or not. If not 
+one of them is not satisfied that means that tyre is not suitable. Suppose in the worst case that 
+both the tyres  which I mentioned may satisfy the 3 conditions for increasing the number of 
+bottoms of  mouldboard plough then comes the cost factor there as a fourth component.  
+So, if both the tyres are suitable, then go for finding out which one is economical . Economical 
+means, where I have to pay less to purchase the tyre. So, obviously, the smaller size will cost 
+less. So, you have to select the smaller size tyre. So, these are the procedure which has to be 
+followed for selecting a tyre. That means, initially you have to calculate for the maximum draft 
+requiring implement, how much draft is required, then we finally find out what is the pull or 
+draft which is deve loped by the t ractor using Brixius equation, then we find out what is the 
+dynamic weight which is coming, I mean  dynamic weight is required before calculating the 
+Brixius number.  
+So, in the second step, the dynamic weight calculation for the front as well as the rear wheel 
+are to be done. In the third case you have to find out the pull developed by the tractor under 
+different slip conditions. Maximum we can go up to 20 percent. And once these are calculated 
+that means the pull which is developed is within 20 percent and it is satisfying the draft 
+requirement that the implement , and the second thing is what is the steering ability that means, 
+the weight on the front axle should be mo re than the 20 percent of the total weight.  
+So, these conditions are to be satisfied. If these conditions are satisfied for say x number of 
+tyres. So, then question is, which tyre is giving you less cost that means, what is the purchase 
+price of these tyres. The tyres have a lesser purchase price you can select. So, I hope this will 
+give you some idea. So, only difficulty here is, the ASABE equation. Now, the ASABE 
+equation says that draft values which are predicted is plus or minus 50 percent. So, since we 
+do not have any go od predictive equations a vailable to estimate the draft, so, that is why you 
+are relying on the ASABE equation.  
+Otherwise, the procedure is simple. So, what we can do is a program can be developed by 
+which by giving the information like the tractor specifications CG distance will base then statics weight distribution. If those informations are given then implement informations are 
+given and the soil conditions are given then immediately it will calculate all these parameters 
+which I mentioned like draft, pull, the draft deployed by the tract or, then whether the condition 
+is satisfied, whether this draft which is of the pull is developed by the tractor is within 20 
+percent or not.  
+Then next is, what is the dynamic weight coming in the front axle, if that condition that is, it 
+should be more than 20 percent all the time, 20 percent of the total weight. If these conditions 
+are satisfied then immediately the program will say okay this is the output, output means this 
+tyre is suitable that becomes easier task.  
+(Refer Slide Time:  26:37)  
+ 
+ 
+So, basically, I attempted to calculate the influence of the, discussed the influence of length on 
+tractive performance of a track and there we found that a shorter  track has to slip more to 
+develop the same tractive effort as compared to a longer track. So, the longer track will slip 
+less. So, it is better to have a longer track to develop more draft or more tractive force and we 
+also discussed what are the procedur e to be followed for selecting a tyre for a given tractor. 
+Taking into consideration the max imum draft requiring tillage implement. That is all. You can 
+have these papers and these books where it will be helpful for you by referring this. Thank you.  
