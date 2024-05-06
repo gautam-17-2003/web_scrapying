@@ -1,0 +1,299 @@
+Micro Irrigation Engineering 
+Prof Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture-18 
+Variable Displacement Pumps 
+ 
+Hello, dear participants now we are starting lecture 18 of Micro Irrigation Engineering subject. 
+Lecture 18 deals with variable displacement pumps. These pumps are more relevant to micro 
+irrigation systems. Here in this particular lecture, we will discuss about what are the different 
+parameters which deal with variable displacement pump. We will discuss more about centrifugal 
+pumps and most important characteristics regarding selection of pump and how to match with 
+the available groundwater or well data. So that we get best performance out of the pump. So, we 
+will deal discuss in this lecture. 
+ 
+A variable displacement pump, in this pump discharge, is inversely related with pressure head. 
+So, as pumping head increases rate of discharge, or we say capacity of the pump decreases. S o, 
+variable displacement pumps require greater input power at low head because of increase in 
+discharge as the pumping head is reduced.  
+ 
+When we talk of variable displacement or variable discharge pump there are important specific 
+parameters and one of the important specific parameter is specific speed. And a specific speed is 
+often used as an index to operating characteristics of pumps. It has relationship between speed, 
+discharge, and head. Originally this index was developed in FPS unit and it is the speed in 
+revolution per minute at which a theoretically and geometrically similar pump would run in 
+proportion to deliver one gallon of water per minute against one foot of total head at its best 
+efficiency. 
+ 
+A specific speed can be related as  
+𝑁𝑠=𝑛𝑄1
+2
+(𝐻3
+4)  
+Where,  Ns = specific speed (rpm) 
+n = pump speed (rpm) 
+Q = pump discharge, U.S. (gallons per min or m3/s) 
+H = total head (ft or m) 
+ 
+Now, this same relationship exists whether in FPS system or in matrix units which are used only 
+thing that the discharge in case of FPS unit it is in gallons per minute and in matrix system, 
+discharge q is in meter cube per second and head is expressed in feet in FPS system and in 
+matrix system it is expressed in meter. 
+ 
+There are affinity laws when we deal with the pump these affinity l aws are related with total 
+head, discharge, brake horsepower, width of the impeller, speed of the pump, and diameter. They 
+are interrelated and changing the parameter the operational characteristics of the pump also 
+changes. These are beneficial when we understand fully, they are beneficial to alter the 
+performance of a single pump to match the system performance under different operating 
+conditions.  
+ 
+So, there exist definite relationship and this relationship can be given when we are considering 
+the change in speed of the pump they can be related as  
+𝑄
+𝑄𝑜=𝑁
+𝑁𝑜=√𝐻
+𝐻𝑜=√𝑃
+𝑃𝑜3  
+So, here Q refers to the pump discharge, Q o refers to original pump discharge, and N o these are 
+the pump speed but N o means that is an original . Similarly, H refers to the head and when I say 
+Ho it means it refers to original head. Now, if we are considering the effect of change  of the 
+impeller diameter then the change in the diameter means D and D o when we are considering. So,  
+𝑄
+𝑄𝑜=𝐷
+𝐷𝑜=√𝐻
+𝐻𝑜=√𝑃
+𝑃𝑜3  
+So, D o refers to the original diameter of impeller and D refers to the change in the diameter of 
+impeller. 
+ Pump parameters, a pump operate most satisfactor ily under a head and speed for which it is 
+designed. So, operating condition should therefore be determined as accurately as possible to 
+select pump well adapted to the particular condition of operation. 
+ 
+Now we are supposed to know different terminologies when we are talking of different types of 
+pumps. So, these terminologies are capacity of the pump and suction lift. Capacity refers to the 
+total volume of water pumped per unit time. It is generally expressed in liter per second. Suction 
+lift exist when source of water supply is below the central line of the pump. 
+ 
+Now here you can see this diagram, in this diagram what you see here is the source of water and 
+pump exist below the source of water. So, up to whatever level of water exists from the 
+centerline of the pump this particular term is known as static suction head. And then the water 
+lifted by the pump to the desired head from the water level of the source to you know delivery 
+side of the pump that is the center of this diameter of the delivery side of the pump is total static 
+head. So, total static head is known as static discharge head. Now if normally this kind of 
+condition it exists in centrifugal pump where the source of water is located at certain depth below 
+the ground level this pump is kept at the ground level and then the water is lifted from the source 
+at a particular level to the centerline of the pump. Here this is a static suction lift, this was static 
+suction head, so, this is static suction lift and then from the centerline of the pump to the delivery 
+side of the pump this part is known as the static discharge head.  
+ 
+So, static discharge head plus suction lift give the total static head. Now, these terms are very 
+important while we are deciding the total head of the pump. 
+ 
+Now, these terms are again you know shown here. So, this already I have explained in those 2 
+diagrams. So, static discharge head, total discharge head this has been explained. Now total 
+discharge when we say it is the sum of static discharge head plus friction and exit losses in the 
+discharge pipeline delivery pipeline plus velocity head and the pressure head at the point of 
+discharge. Total static head this already I have explained you in that particular diagram. So, now 
+it is clear. 
+  what is the friction head? The frictional head is equivalent head expressed in meter of water 
+required to overcome the friction that is caused by flow through pipe and pipe fittings. 
+ 
+Pressure head, this is a very commonly used what is the pressure head? The pressure head is 
+expressed in meter of water in a closed vessel from which pump takes its suction or against 
+pump discharg es. So,  
+𝐻𝑝=𝑝
+𝑤  
+Where Hp is the pressure head in meter, P is the pressure inside the vessel which is expressed in 
+kg per square centimeter, W is a specific weight of water in kilogram per cubic meter. 
+ 
+So velocity head, velocity head it is the pressure expressed in meter of water required to create  
+velocity of flow which can be given by 
+𝐻𝑣=𝑣2
+2𝑔  
+Where v is the velocity of water through pipe, and g is the acceleration due to gravity in meter 
+per second square. 
+ 
+Static suction lift, it is the vertical distance from the free surface and water level to centerline  of 
+the pump. Total suction lift already I have explained in the previous slide that the sum of the 
+static suction lift plus friction plus entrance losses in the suction pipe. Suction head exists when 
+source of water supply is above the cent erline of the pump as is usual case in turbine operated 
+pump. 
+ 
+Total suction head already it is explained but once again I am reading here the vertical distance  
+from the centerline of the pump to free level of the liquid to be pumped minus all frictional 
+losses in suction pipe and fittings plus any pressure head existing on suction supply. 
+ 
+NPSH in a short form we say it is a Net Positive Suction Head, total suction head determined at 
+the suction nozzle ( corrected to pump centerline) minus the vapour pressure of water at pumping 
+temperature both are expressed in meters. In pumping of liquid, the pressure at any point in the 
+suction line must not be reduced to the vapor pressure of liquid. The NPSH is a characteristic of pump and it is usually furnished with pump characteristic curves. So, this is normally supplied 
+by the pump manufacturer. 
+ 
+Now when we are expressing the total components of maximum practical suction lift of a pump, 
+means this is expressed as the atmospheric pressure (Ha) minus frictional loss (H f) minus 
+saturated vapor pressure (es) minus net positive suction head (NPSH) of pump including losses at 
+the impeller and velocity head minus F s that is a factor of safety which is usually taken at 0.6 
+meter.  
+Hs  = Ha -Hf  -es -NPSH -Fs 
+So, maximum practical suction lift of a pump for operation of a centrifugal pump without 
+cavitation, the suction lift plus all other losses must be less than theoretical atmospheric pressure. 
+Normally, a practical value it is taken as 6.5 meter. So, normally 6 to 7 meter is considered a s a 
+maximum practical suction lift of centrifugal pump. 
+ 
+A centrifugal pump is a rotary machine it consists of 2 basic parts rotary element or impeller. 
+There is a secondary element or casing. So, impeller it is a wheel or disc mounted on shaft and 
+provided with number of vanes or blades usually they are curved in shape. Th e vanes are 
+arranged in circular array around the inlet opening at the center. In some pumps diffuser 
+consisting of series of guide vanes or blades surrounds the impeller. 
+ 
+Impeller rotating inside close fitting case large in the liquid at the center and by virtue of 
+centrifugal force throws out liquid through an opening at the side of the casing. So, when this 
+impeller it gets dry from the shaft from the motor or from the engine. So, what it does when it 
+rotates it brings liquid and then throws out this particular liquid in the side of the casing this is 
+the way the then water it comes out of the pump. 
+ 
+You can see here this is a value type of the centrifugal pump. So, these are the impeller vane s 
+this is an impeller and this is the impeller vanes and this is a eye of the suction and this is all this  
+particular device it is an impeller. So, when it revolves this revolution is given by the motor, and 
+then when it revolves. So, it brings the liquid at the side and by using the centrifugal force the 
+watery comes out of the pump.  
+In case of so, underline principle is the design of impellers production of high velocity and 
+partial transformation of this velocity into pressure head. The diffuser type of arrangement is 
+another kind of the means; these you know impeller it has got diffusion types of vanes. So, water 
+it comes in the periphery of the impeller and that is creating the pressure and then water comes 
+out of this.  
+ 
+So, this is another arrangement of the guiding vanes of the diffuser type of vanes which are 
+causing the water to come inside the casing, and then it throws out of the pump delivery ends. 
+You can see the animation that it shows the how the water is being taken by the vo lute type of 
+vanes. 
+ 
+A pump is classified, it could be on the basis of the energy conversion that is volute type or 
+diffuser type it can be classified. And the basis of the number of stages it could be single stage, 
+multi stage or it can be impeller type it can be open, semi open, closed. So, when we say number 
+of stages, single stage or multi stage means we are considering the means whether how much 
+pressure we want to create pressure rate we want to create or when we are dealing with the open 
+or semi closed. So, we consider on the basis of the quality of water. 
+ 
+Now it could be another way of classifying is a single suction, double section, construction of 
+casing it could be vertically split, horizontally split, axis of rotation it could be horizontal 
+rotation or vertical rotation about the axis or it can be the drive that is a direct drive or it could be 
+geared type of drive or by using the belt drive.  
+ 
+So, there are factor for selection of pumps. These factors influence the selection of pumping set. 
+The requirement of irrigation water by the crop to be irrigated this is one parameter, another one 
+is yield of the sources of water. So, these sources of water could be open wells, it could be 
+stream, it can be river, it can be pond means that could be the source of water and how much it 
+can give water. 
+ Availability, cost, and the type of pump and then type of energy we are using. So, discharge 
+capacity of the pump by considering the crop water requirement is given by 
+𝑞 =27.78𝐴𝑦
+𝑅𝑇   
+Now, q is the discharge of pump in liter per second and then y is the depth of irrigation, T is the 
+duration of pump, A is the area of the crop to be irrigated and then the R is the at what interval 
+irrigation interval rotation period we need to give irrigation. 
+ 
+Now a very important part is matching of pump with well. So, first, we are required to construct 
+the discharge head characteristics or discharge drawdown characteristics of well. Typical 
+behavior of head capacity curve of a well is given you can see here the discharge is sho wn in 
+liter per minute and head is given in meter. So, this is the behavior of the typical drawdown 
+discharge characteristic curve of well. Now we need to match the pump characteristic with this 
+particular well discharge drawdown curve.  
+ 
+So, pump characteristic curve also called performance curve and it shows the interrelationship 
+between capacity, head, power, and efficiency of a pump. It helps in pump selection which is 
+best adapted to a particular condition. Thus it obtains relatively high efficiency with low 
+operating cost if it is properly matched or best operating conditions are satisfied. It is usually  to 
+plot the head, the power input, and efficiency on ordinates and capacity in the abscissa at a 
+constant pump speed. 
+ 
+Now we can see here these are the different curves. So, when we are seeing that head capacity 
+curve. So, this capacity practically it is a discharge which is plotted in x axis and this is a he ad. 
+So, for different speed, the behavior of the head capacity curve it looks like this. Up to c ertain 
+discharge, it is increasing the discharge the head is increasing but after certain speed it reaches to 
+a particular value then it is decreasing. 
+ 
+However, the speed causes higher head, it causes the meeting the higher head at highe r 
+discharges up to certain value. Then efficiency discharge curve when it is being plotted for 
+different RPM of a pump what we see here that the as the RPM increases there is always increase in the efficiency of the pump with increase in the discharge line but after certain discharge 
+efficiency starts decreasing. 
+ 
+The brake horsepower and discharge relationship what we see here as the RPM of the pump 
+increases the brake horsepower of the pump it also increases with the increase in the discharge 
+and there exists a linear relationship. 
+ 
+Another point is pump operating point. So if the pump, a particular head that is H and discharge 
+Q combination at which pump is operating with the pumps operating point. So, what you are 
+seeing here that a head is plotted on the ordinate and discharge capacity of the pump it is plotted 
+on the abscissa. And then when we are plotting this graph. So, this is what you are seeing a 
+typical well drawdown curve.  
+ 
+So, there is a specific static head it exist. So, this particular value is a static head and then the  
+behavior of the system curve it looks like in this point, and then when we are plotting the pump 
+performance curve and there is a point where it crosses or it meets this point is a pump operating 
+point. So, the combination at which pump is operating is the pump operating point and brake 
+power, efficiency, required net positive suction head for the pump can be obtained once 
+operating point has been determined.  
+ 
+So, a system curve that is H-Q requirement is important for any irrigation system. So the point of 
+intersection this is what we are putting it here, the point of is intersection of H-Q curve of pump 
+characteristics, and system curve is called pump operating point.  
+ 
+So, system curves are constructed by computing the heads required by the irrigation system to 
+deliver different volumes of water per unit of time. It is computed by using this equation where 
+we can say the total system head is equal to the suction lift plus the delivery side lift plus the 
+drawdown in the well plus the head loss due to friction in the pipe system. M l refers to the minor 
+losses plus operating head. 
+𝐻𝑠=𝑆𝐿+𝐷𝐿+𝐷𝐷+ 𝐻 𝑙+ 𝑀 𝑙+ 𝐻 𝑜+𝑉𝐻  
+ Operating head means when there is some device, we need that device to operate. So, operating 
+head requirement say when we have a sprinkler system which is located at a far of distance place 
+and then this requires at least say 2.5 kg centimeter square of pressure head that is or we can say 
+25 meter of water head. So, to operate that sprinkler, that operating at 25 meter we need to give 
+plus velocity head. So, all these make the total system head. 
+ 
+Now when we are finalizing the pump performance curve. So, one needs to draw all the 
+performance characteristics curve. So, foremost thing which I discussed the first we need to draw 
+the head capacity curve or drawdown capacity curve for the well. So, this is the head c apacity 
+curve for the well. And then the other pump parameters are head capacity for the pump then 
+another parameter is overall efficiency curve and the other parameter is brake horsepower versus 
+capacity curve.  
+ 
+So, horsepower efficiency these parts are shown here in this side of the ordinate, and head is 
+shown on this side of the ordinate. So, when we are plotting the curves what we are seeing that 
+what is the appropriate size? So, you see here this is the point of intersection and at this point of 
+intersection. What we observe here; this is the point where we are getting the efficiency which  
+you can see here it is about 60%. And corresponding to this is the head that is a drawdown in the 
+well and then break horsepower can be chosen from this point. So, this pump which will be 
+delivering the discharge of 1800 liter about means 1900 we can say like 1900 liter per minute the 
+corresponding values of the head drawdown efficiency they can be obtained and accordingly the 
+pump can be selected for a given set of conditions. 
+ 
+Now there are some power requirement estimations. So, these terms are associated let us try to 
+know what are those terms. So, to determine horsepower of electric motor or engine these are the 
+drive which gives to the pump. So, it could be electrical motor or engine driven pump used in 
+driving the pump. It is necessary to know efficiency of the pump, type of drive, type of power 
+unit, head under which the pump operates, and then losses in the piping.  
+ 
+So, water horsepower of a pump is given by discharge in liter per second multiplied by total head 
+divided by 76. Now shaft horsepower is given by water horsepower divided by pump efficiency . So, normally pump efficiency it is in the order of 60 to 65 %. A very good pump hardly you get 
+70% efficiency. Now, the drive efficiency is another; so, we should see that there is a minimum 
+loss due to the drive sometime you know we are connecting several belts and give a gear 
+arrangement that increases the power, brake horsepower requirement. So, this is computed by 
+shaft horsepower divided by drive efficiency.  
+ 
+So, when we are converting the kilowatt input to the electric motor. So, break horsepower 
+multiplied by 0.746 divided by motor efficiency. So, we will get input electric motor power in 
+kilowatt that can be explained. Pump efficiency, it is the water horsepower divided by shaft 
+horsepower. For direct driven pump, drive efficiency i s 100%. So, BHP equal to shaft 
+horsepower.  
+ 
+So, for this lecture, you can refer to these books and also some other books. So, let us summarize 
+the whole lecture we discussed about the variable displacement pump and affinity laws. W e 
+discussed about the parameters of pumps and centrifugal pump in detail. Selection of pump using 
+characteristics curve in detail we has discussion. And then in forthcoming lecture, we will 
+discuss about irrigation water quality. So, thank you very much, good day. 
+ 
+ 
+ 

@@ -1,0 +1,289 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture - 37 
+Numerical Examples on Drip Irrigation System 
+ 
+Dear student participants, I welcome you to lecture 37 of micro irrigation engineering subject. In 
+previous lectures we covered all the necessary equipment we dealt with micro irrigation 
+components. We covered the design of a micro irrigation system. We designed micro irrigation 
+system by taking an example. 
+ 
+We also discussed in previous lecture 36 how to design a drip emitter and we also exposed you 
+to how to use the basic fundamentals of fluid mechanics equations, continuity equation, Navier-
+Stokes theorem for the design of drip emitter, SolidWorks software how 3D printer can be used 
+to develop drip emitter. 
+ 
+To get more detailed information and to carry out more examples, numerical examples this 
+particular lecture where we will be discussing on numerical problems on the drip irrigation 
+system. 
+ 
+These problems we will be dealing with the determination of the water requirement of the crop, 
+how to determine the emitter discharge from the given weighted area, and how to evaluate the 
+drip emitters, their performance in terms of emission uniformity. 
+ 
+So let us start working by taking question 1. So in question 1, we have been given, we have been 
+given the spacing between adjacent plant rows that is 1 m. Spacing between dripping emitters is 
+0.5 m. We need to determine the area irrigated by the drip emitter if its wetting is 90%. So it is a 
+simple problem. We are required to find out the area irrigated by a single dripper. 
+ 
+And similarly, we can find out when there are large areas where more number of the dripp ers are 
+to be placed. So this way we can find out how much wetting can be made.  
+So it is a simple question. Spacing between the drippers and then row to row spacing of the plant 
+that is L equal to 1 m. This is the thing which is given. We are given spacing between the emitter 
+that is 0.5 m and then wetting percentage 90% and then number of dripper for each plant is Ne 
+equal to 1. So area irrigated by each individual dripper is, area of the plant that it is we can say 
+spacing between means the plant rows and spacing between the emission points. 
+𝐴 =𝐿 𝑆 𝑊𝑝
+100  𝑁𝑒  
+So this Wp is given to us that in 90%. And number of the dripper is Ne equal to 1. So we are just 
+substituting these values we can find out the area irrigated by a single dripper. 
+𝐴 =1×0.5× 90 
+100×1 = 0.45 𝑚2  
+So the area irrigated by a single dripper is, after substituting the values, it is coming 0.45 square 
+meter. 
+ 
+Question 2, we are given a Pan Evaporimeter data and where the value is given for the month of 
+April. Pan data, this is the pan evaporation is given 6 mm per day. And then here, we are g iven 
+data as a pan coefficient is 0.8, crop coefficient is 0.7, the individual mango plant, it has each 
+individual plant area of 25 square meter. 
+ 
+Normally, the hybrid varieties of mango plantation Amrapali now are being given high-density 
+planting, it needs continuous pruning. So 5 meter by 5 meter is the normal spacing given for this 
+Amrapali variety. So here 25 square meter is the spacing. Now if the percentage wetted a rea 
+covered by the plant foliage is 60%.  
+ 
+So here is the beauty of the drip irrigation system. We need not flood the whole area. Only the 
+effective portion which is where the root zone exists only 60% is being irrigated particularly for 
+a wide spacing crop like mango, citrus, sapota. Such type of group of crops normally, their 
+maximum range is 60%. So here it is 60% wetting is given. Determine the total crop water 
+requirement for a 1 hectare area.  
+ So we have been given pan data. A Pan Coefficient value is given. We have been given crop 
+coefficient data. We have been given each individual plant data. So we need to find out the 
+evapotranspiration of the crops. 
+ 
+So let us first once again these data have been given that pan value is 6 mm per day. Pan 
+coefficient is 0.8, crop coefficient 0.7, each individual plant area or tree area is 25 square meter. 
+When the plant is at the full maturity stage, 60% wetting is being done. And then area, a total 
+area where the plantation is done it is 1 hectare.  
+So water requirement of each plant can be estimated by using this expression  
+𝑄 =𝐸𝑇𝑜× 𝐾 𝑐× 𝑆𝑝× 𝑆𝑟× 𝑊 𝑎  
+ ETo is the evapotranspiration requirement of the crop, Kc is crop coefficient, and Sp into Sr is 
+the spacing between the plant and spacing between the rows. So this is also given 25 square 
+meter and then the wetting percentage is given as in this particular thing this is Wp. So this Wp is 
+60% this is given. 
+So we are substituting the value that  
+𝑄 = 6 × 0.8 × 0.7 × 25× 0.6 = 50.4  𝐿 𝑑𝑎𝑦−1𝑝𝑙𝑎𝑛𝑡−1  
+So this is giving the 50.4 liter per day per tree because this is mango plant which is when it has 
+reached to 60% wetting when we are giving means it is a fully matured crop and in the month of  
+April daily water it is given as a 50.4 liter per day. 
+ 
+So if I know the total number of plants, if I know the total number of plants for the whole area, 
+then I can multiply. So in 1 hectare area, we can see this is the spacing, 25 square meter fo r each 
+plant. So 10,000 square meter divided by 25 square meter. This will give us the total number of 
+plants. Then we have to multiply with the water requirement of a single plant or single tree. 
+𝑄𝑡𝑜𝑡𝑎𝑙 =50.4 ×10000
+25= 20160  𝐿𝑑𝑎𝑦−1  
+So this is the total water requirement per day plant or the 400 number of plants. Because 25 
+square meter each plant area it is being given. So that will be 400 number of plants. So one day 
+itself, this much amount of water is required. So this is the answer of this question. 
+ For more details, I can tell here if I want to make planning so then for the whole summer month 
+what will be the total water requirement and accordingly one should make a plan. One should 
+make a plan for the seasonal water requirement. One should make a plan for the annual water 
+requirement that will be the total water requirement. So we should have enough capacity for 
+water storage. 
+ 
+If it is a flowing river then also one should see whether this water will be available during 
+summer month daily or somebody wants to store water in a pond or a well or one wants to design 
+the system for using the pump. So my pump should also work. So how many hours the pump 
+will operate that can be worked out also in a day. So that should be the discharge of the pump. 
+ 
+Now, question 3, here it is given point source drippers of 4 liter capacity that has been 
+manufactured by a manufacturer, means this is the development that is the drippers are having 4 
+liter per hour capacity that is being manufactured. The performance test is conducted for 10 
+numbers of randomly selected drip emitters. So 10 number of drip emitters have been selected 
+randomly from the lot when it is being manufactured. 
+ 
+Now when they are being brought for testing, so the data which were obtained, actual design 
+discharge is 4 liter per hour. But when we are testing it in the test bench, hydraulic test bench, we 
+find that these data are available that is 3.8, 3.85, 3.6, 4.1 like this. So discharge, you can see the 
+data which are available. This is varying from 3.6 liter per hour to a maximum of 4.1 liter per 
+hour. 
+ 
+So this is the variation in this range, these 10 number of observations are obtained. So from these 
+data, we are required to determine the manufacturer ’s coefficient of variation. And then for the 
+test sample and also we need to see that whether does it qualify the particular value. 
+ 
+So what we are doing, here we are given n equal to 10. And then we need to find out the 
+manufacturer's coefficient of variation that is the standard deviation divided by q average. So this 
+standard deviation is estimated by taking each individual observation, those 10 number of 
+observations individually, and then from there, we are finding out the average.  
+𝐶𝑣𝑚=𝑆
+𝑞𝑎𝑣𝑔=√∑(𝑥𝑖−𝑞𝑎𝑣𝑔)2
+𝑛−1
+𝑞𝑎𝑣𝑔  
+Where, 
+S = standard deviation of the discharge rates of the emitter 
+qavg = average discharge rate of the drip emitters used in the test 
+ 
+These are nothing but discharge from individual observation minus the average of 10 divided by 
+the total number of observations that is your 10 minus 1 that is 9 and accordingly we will find 
+out this manufacturers coefficient of variation will be estimated. 
+ 
+So each individual value is estimated. Each individual value is estimated and we find out the 
+deviation of each individual value and then we find out the sum of these deviations. This is the 
+average value of 3.873 and then we find out the manufacturer ’s coefficient of variation. 
+𝐶𝑣𝑚=𝑆
+𝑞𝑎𝑣𝑔=√0.2046
+10−1
+3.873= 0.039  
+So for point source drip emitter, the emitter should be of excellent quality. It should be less than  
+0.05. So this qualifies the test. This is an important parameter of whether it qualifies. Now, this 
+manufacturer's coefficient of variation why does it come? Because this is a thermal processing 
+process when the particular material it is passing through the machine it is given a certain 
+temperature. So there may be some defect. There may be some malfunctioning of certain 
+components. 
+ 
+So it may not be delivering same. So this is an important test and Bureau of Indian Standard as 
+well as the American Society of agricultural engineers they have prescribed the test and given 
+this table that for point source emitter, it should be of whether it is of excellent quality, good 
+quality, very poor quality then lot should be rejected. So this when we have taken these 10 
+samples and we found out the Cvm value, this qualify, then this should be accepted for use. 
+ Problem 4 is given to determine the emission uniformity of the drip system that uses drip 
+emitters with the coefficient of discharge. Here coefficient of discharge is given as 0.35. 
+Exponent x is given as 0.6. And the coefficient of variation just now which I have explained to 
+you in the previous problem that coefficient of variation is 0.06. And then the two emitters which 
+are used for each plant. Means there are two emitters for each plant; that is the requirement to 
+meet the water requirement. And then the average operating pressure is 110 kilo Pascal and then 
+the minimum pressure it is within 95 kilopascal. So these are the observations which are given. 
+We know the discharge from a drip emitter it is a function of operating pressure.  
+ 
+So this is a function of operating pressure. So this is given by expression that  
+𝑄min = CdHx  
+So in this particular question, we have been given coefficient of discharge, we have given been 
+given the value of x as 0.6, we have been given the value of H. There are two H, one is the 
+average h, and another one is the average h. This is the minimum H that is the operating 
+pressure. This is your average operating pressure. We have been given the coefficient of 
+manufacturer's variation. And each plant is given two numbers of point source drip emitters here. 
+In case of this you ’re particularly when we want to do, so point source emitter we are 
+considering the number of drip emitters. 
+ 
+In the case of line source drip emitters, we consider the length of drippers. So there we are 
+considering all the time 1. So here, with 95 kilo Pascal pressure, when we are substituting the 
+value,  
+𝑄min = 0.35× (95)0.6= 5.38 𝐿ℎ-1 
+ 
+We get here this is 5.38 liter per hour. This is the discharge that is minimum discharge. And then 
+for the average pressure that is a Q 2 we can be found out by using these values in this equation. 
+And then it is a simple thing.  
+𝑄avg = CdHx= 0.35× (110)0.6= 5.87 𝐿ℎ-1 
+ We get 5.87 liter per hour. So these values we will be substituting in the emission uniformity 
+formula. 
+ 
+The emission uniformity formula for a drip emitter is given by  
+𝐸𝑢=100[1 −1.27(0.06)
+√2]5.38
+5.87=86.71 %  
+When we calculate we get the value as 86.71%. 
+ 
+So this is the answer for this question. This is within the permissible limit. So operating these 
+particular drippers which have been kept there, they are working nicely and then this is above 
+85%. 
+ 
+Question 5, it is also we have been given the data. We are required to find out the emission 
+uniformity in the same way. But more number of observations are available and questions have 
+been solved in a different way, some other data which have been given. So let us try to work out. 
+Data which are given there are two-point source emitters on each mango crop it has been used. 
+ 
+So Ne is the same as it was in the previous case. We are using the terrain, it is on the slope. 
+Means its slope is less than 2% and then the coefficient of variation that is manufacturer's 
+coefficient of variation, the Cvm is given as 0.07. The discharges from 15 numbers of drippers 
+which have been collected from the field are given here. So these values are also available to us. 
+So, means for 15 observations these are the observation which is given. 
+ 
+So we have been given Ne equal to 2, Cvm equal to 0.07, and just now we gave the same 
+expression, I am repeating here, emission uniformity is estimated by this equation  
+𝐸𝑢=100[1 − 1. 27(𝐶𝑣𝑚)𝑁𝑒− 1
+2] (𝑄𝑚𝑖𝑛
+𝑄𝑎𝑣𝑔)  
+So we need to find out what is Q min. We need to find out what is Q average. 
+ 
+So Q min already in the data it is given, means from the data, which you have just see here in 
+this particular data, we have got this value as 9.6. Out of the total 15 number of observations, the minimum value is 9.6 liter per hour. So this is the value which is available from the data. And 
+then all these 15 data were used to obtain the Q average. So just we have taken the sum of all the 
+observations of 15 values divided by 15. 
+ 
+So this is giving Q average equal to 9.96 liter per hour. Now simply we are substituting the value 
+and this value it is substituted by keeping this particular observation. So this is given by  
+𝐸𝑢=100[1 − 1. 27(0.07)(2)−1
+2](9.6
+9.96)=90.32 %  
+So emission uniformity is 90.32%. So this is an acceptable value when we are taking these 
+observations from the field. So this can be accepted and this is the result of this particular 
+question. 
+ 
+Question 6 is on the, let us read this particular question, a surface drip system is laid on 16 
+hectare level orchard field. A level field in an orchard and trees are planted on 7 m row spacing 
+and 5 m spacing between the rows. So row to row spacing is 5 m. And then the plant to plant 
+spacing is 7 m. Then drip irrigation system should achieve at least 85% of the design emission 
+uniformity. 
+ 
+This is the condition it is given that the emission uniformity should be greater than 85%. There 
+are 5 number of non-pressure compensating drippers that have been used for each tree 5 number 
+of drippers which have been used for each tree at a spacing of 1 meter and which operate at 1 kg 
+per square centimeter pressure. So drippers are operating at 1 kg per square centimeter. The 
+manufacturer's coefficient of variation is 0.03. Average design pressure is 4 liter per hour. The 
+hydraulic relationship for the same dripper means q with the operating pressure discharge 
+relationship is q equal to 1.33 H to the power 0.48.  
+ 
+So this is the relationship which is given. Determine the operating pressure head of the drip 
+emitter discharging minimum discharge, which is delivering minimum discharge. So for this, we 
+will find out what is the operating pressure. 
+ So from this given data, we have been once again I have given we have been given target that Eu 
+would be 85%. The average discharge of the dripper is 4 liter per hour. Then manufacturer's 
+coefficient of variation is 0.03. Each tree is given 5 numbers of non-pressure compensating drip 
+emitters. 
+ 
+The coefficient of discharge, the equation which has been given Cd is equal to 1.33 and then the 
+exponent is x equal to 0.48. This particular equation has been again repeated that this I am not 
+reading. The emission uniformity is given by this equation and then we can write actually this Q  
+min.  
+𝐸𝑢=100[1 −1.27(𝐶𝑣𝑚)
+√𝑁𝑒]𝑄𝑚𝑖𝑛
+𝑄𝑎𝑣𝑔  
+From this equation, we are changing the means rearranging the equation that Q min can be 
+written as  
+𝑄𝑚𝑖𝑛=𝐸𝑢×𝑄𝑎𝑣𝑔
+100×[1−1.27(𝐶𝑣𝑚)
+√𝑁𝑒]  
+So from here, we can get the value of Q min. 
+So just we are substituting the value that Eu is given 85%. The discharge average is 4 liter per 
+hour.  And this is the Cvm is 0.03. Now Ne equal to 5.  
+𝑄𝑚𝑖𝑛=85×4
+100×[1−1.27(0.03)
+√5]= 3.46 𝐿ℎ−1  
+So after substituting we get a minimum discharge of 3.46 liter per hour. So we can find out the 
+operating pressure by using the expression. This is already given. We have been given the value 
+of the coefficient of discharge. Then we have just now we have calculated the discharge that is 
+3.46 liter per hour. So H can be obtained. So H can be given from this expression  
+Q = 1.33H0.48 
+3.46= 1.33 (𝐻0.48)  
+𝐻 = 7.5  𝑚  
+So H is 7.5 m. So this is the minimum operating head in the emitter that will deliver the 
+discharge of 3.46 liter per hour. So this way we have estimated this particular value, the desired 
+value which was asked in the question.  
+And now you can refer to more problems for your practice by referring to these books. These are  
+the standard textbook which I have been using it in other classes also. So refer these books for 
+more detail. 
+ 
+And let us summarize this particular lecture. So we worked out the numerical problem to find out 
+the water requirement of the crop when we are using micro irrigation system that is the drip 
+system. We also worked out how much is area covered by a particular dripper or wetted by a drip 
+emitter. We worked out how to determine the emission uniformity of drippers. We worked out 
+from the given emission uniformity how to find out the minimum discharge and minimum 
+operating pressure.  
+ 
+Now in the forthcoming lecture, we will discuss about the micro sprinkler irrigation system. 
+Thank you very much for your patience in hearing. 

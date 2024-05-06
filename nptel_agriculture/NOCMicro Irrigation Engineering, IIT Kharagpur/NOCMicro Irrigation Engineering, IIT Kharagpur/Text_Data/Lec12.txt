@@ -1,0 +1,340 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture-12 
+Irrigation Scheduling 
+ 
+Hello participants, welcome to lecture 12. This lecture is on irrigation scheduling, this is an 
+important topic when we are watering to plants, why we need irrigation scheduling? So, we will 
+be mainly discussing in this lecture about what is irrigation scheduling, when irrigation is to be 
+given? And how this irrigation scheduling can be made? There are ways to provide irrigation 
+scheduling, there are strategies to give water, whether full amount of water it should be given or 
+deficient amount of water supply it should be given. And when we are giving irrigation, we are 
+considering the soil moisture constant which we discussed in previous classes. 
+ 
+When we say irrigation scheduling, we are interested to make decision that what should be the 
+quantity of water? And how often irrigation should be given? So, basically what we are learning 
+today amount and time of irrigation water supply. If it is appropriately decided, accurately 
+decided and implemented, it is going to the beneficial for obtaining maximum yield. If say for 
+crop where biomass is important, it’s leafs are important. Say there are some vegetable crops, we 
+look for getting there yield as a biomass, as a leaf of the plants, if there are say some medicinal 
+plant its leafs are important. So, why we are learning irrigation scheduling? To achieve 
+maximum yield to get maximum economic return, we are increasing the functional value of the 
+plant that how the photosynthesis activities or growth of the plant it increases when we are 
+accurately or precisely planning irrigation schedule. 
+ 
+Sometime we look from the architectural point of view, aesthetic point of view, there are some 
+certain plant which are giving the aesthetic value. And keeping the plants alive during scarcity 
+when there is a shortage of water, then can we schedule irrigation and maintain some certain 
+deficient condition that is also important. 
+ So, let us try to know some of the terminologies which deals with the irrigation scheduling. So, 
+these terminologies I can say here, say one important terminology is soil tension or suction. So, it 
+is a measure of the adsorptive forces, by which water remain in or attached with the soil 
+particles. And when we measure how much amount of water it is held by the soil particles? This 
+is measured in terms of the negative pressure or suction or tension. 
+ 
+So, it is related to the prevailing atmospheric gauge pressure of zero. So, we say that from the 
+negative pressure point of view or vacuum we say this value we are using vacuum gauge to find 
+out how much is the soil tenacity. So, bar is the unit which is used to measure soil water tension. 
+Saturation, as the term is says means soil pores are fully filled with the water. So, when soil 
+pores are fully filled with the water, the soil water tension is zero. 
+ 
+Field capacity, gravitational point, gravitational water, capillary water; these are the other 
+important terms. And these I have discussed in previous class but briefly I want to refresh your 
+knowledge. So, when we say field capacity, means soil water content after the gravitational 
+water has been removed from the soil column. So, this condition it achieved or attains in soil 
+column, a saturated soil column it attains after 1 to 3 days, means in some soil where the micro 
+pores are large. The gravitational water will be removed quicker, maybe less than a day or if it is 
+a soil pores are very fine, say clay soil where it may go up to 3 days. So, field ca pacity is 
+considered as the upper limit of plant available water. And it means under field condition it is 
+equivalent to soil water tension of approximately 0.1 to 0.3 bar. Gravitational water, when the 
+soil is free to drain or move by force of gravity, means water which can be go downward 
+movement it takes place by the force of gravity. 
+ 
+So, it is the volume of water which is available from saturation to field capacity. This water is 
+not usually available to the plants for meeting its evapotranspiration. Capillary water is 
+important, from soil water plant available point of view. So, after the gravitational water is 
+drained out from the soil column, the water which is held by the soil particles by the forces of 
+surface tension, this water is available to the plant. So, capillary water is available to plant but 
+not all water it is available for the plant. 
+ The other terminology or term which is used in irrigation scheduling, that is a permanent wilting 
+point. So, permanent wilting point that is a soil water content at which healthy plants can no 
+longer extract water from soil fast enough to recover from wilting. So, permanent wilting point is 
+considered as the lower limit of plant available water. And when we measure in terms of soil 
+water tension, the value of permanent wilting point is 15 bar. 
+ 
+Plant available water, this is given by field capacity minus permanent wilting point, this also we 
+are telling that this is an available water or total available water. Sometime we call it as total 
+available water. So, amount of water held in soil that is available to plants, and this difference 
+between the field capacity and permanent point, the difference between the field capacity and 
+permanent wilting point. 
+ 
+Now, maximum allowable depletion, sometimes we call it as also management allowable deficit. 
+So, the portion of plant available water that can be depleted before irrigation is required, this is 
+considered to be the trigger point, this particular point is a trigger point. And we are putting some 
+soil moisture value which we call it as the theta C that is a critical moisture content. 
+ 
+Now, another term is readily available water, the readily available water, the portion of water,  
+plant available water that can be used easily by the plant resulting in minimal plant soil water 
+stress. So, irrigation should be scheduled when readily available water is depleted. So, say in 
+case of turf grass, the readily available water is usually 50%. So, when we are say installing a 
+micro irrigation system mainly when we are putting the pop up sprinklers, for irrigating turf 
+grass. So, there this particular value one can use that RAW as 0.5 or 50%. The other term which 
+is coming with irrigation scheduling is infiltration rate. The rate of water which is infiltering 
+from the soil surface is infiltration rate. The value of infiltration rate or magnitude of the 
+infiltration rate, it is a function of soil type that is a soil texture; it is a function of the prevailing 
+land slope and also the available soil moisture content. 
+ 
+Now, the same thing which I explained you in previous slide, it is explained through figures and 
+this figure is you can say when the gravitational water is when the soil is fully saturated, the 
+gravitational water it is very easily to move from this one. So, plant is wilted, because all the pores are filled with the water. So, water is practically one should not allow the soil water to 
+come to the saturation. 
+ 
+So, in surface irrigation process, this is one of the disadvantage because for some time the all 
+these soils will be in this condition, when it will be saturation condition. Soil plant roots having a 
+problem of soil aeration. So, healthy plant, when you know the gravitational water is being 
+removed. So, plant may be healthy, but there is a huge amount of water wastage. Now, when we 
+call at field capacity, this is what it means when the moisture content, it means gravitational 
+water is drained out. Then it comes to the field capacity, from field capacity to the permanent 
+wilting point, this is the moisture content range. So, field capacity plant is healthy and there is no 
+wastage of water, means it is remain within the root zone of the crop, and then the soil pores are 
+partially filled with the air and also water. The available plant water when it comes to the wilting 
+point, means plant is no longer able to withdraw water. So, that is the not enough water for the 
+plant growth, it is available in the soil.  
+ 
+Now this particular figure which we are seeing here, what we are seeing that irrigation is being 
+given. So, it is following a particular irrigation interval, higher the irrigation interval, means soil 
+will be dry more, dry stage of the soil will be there. Now, initially when we are giving water it is 
+coming to this level. When you are flooding the water when you are giving more water the 
+condition comes like this and if your irrigation interval is a large then drying takes place. 
+ 
+So, plant has to undergo a condition of saturation that is unhealthy for the plant because roots are 
+not getting enough air for it is respiration activity. And when the irrigation interval in surface 
+irrigation process irrigation interval is large, then it goes to the condition of dry stage, so growth 
+of the plant is also hamper. So, this is what it is important that irrigation scheduling, means 
+irrigation interval, amount of water, if you are giving more water, more time it will take to drain 
+out the water, so that is not healthy for plant growth. 
+ 
+The other terms are root zone depth, the depth from the soil surface to the deepest root of the 
+plant is root zone depth and this is used for calculating the depth of irrigation. Unavailable water, hygroscopic water which we also call it as a water which is not available. So, water vapors, it 
+forms a very thin layer on the dry soil and then plant is no longer able to extract this water. 
+ 
+Depletion volume, depletion volume that the amount of plant available water removed from the 
+soil by plants and evaporation from the soil surface. Irrigation interval, just now which I was 
+telling what is irrigation interval? Irrigation interval, it is the number of days between two 
+successive irrigation. So, this has to be scientifically designed and the value of the irrigation 
+interval is decided based on the evapotranspiration requirement of the crop, effective rainfall, 
+and available water holding capacity of the soil and crop root zone depth. Of course then 
+management allowable depletion which I was just telling you about the MAD that is 
+management allowable deficit. 
+ 
+So, there are various ways to schedule irrigation. So, one is qualitative, means feel and 
+appearance, means getting the value of soil moisture, then crop. So, how does it by the 
+appearance, by seeing the plant, by seeing the soil, what you are feeling that whether it needs 
+irrigation. So, of course that is on the basis of the experience one can say, but by the time that 
+symptoms comes the plant already passes through the stress and that damages the crop. 
+ 
+Another one is quantitative, means when someone is making estimates by taking the precise 
+measurement in the field, or installing the gadgets to monitor the soil moisture content, taking 
+these leaf samples and taking that is the quantity arrangement. So, irrigator ’s traditional 
+approach, they are taking the soil sample and then seeing and putting this soil in the hand and 
+observing. So, this becomes on the person to person his experience. Plant appearance, as I told 
+you if the green plant leaves changes to the yellow leaves, so curling of the leaves it takes place. 
+So, sometime it becomes this is the plant appearance and then it needs irrigation. Watching the 
+neighbor whether the adjacent field whether it has been irrigated, so accordingly I should also 
+give irrigation. 
+ 
+That is how the thumb rule kind of things it is there. And are simply as and when say particularly 
+in canal commands, this is the problem water is not available at right time. So, as and when the 
+water is available, the farmers flood the field it becomes over irrigation and or when water is not there, plant has to undergo a problem of drying cycle. So, scientific approaches are soil indicator 
+based or collecting the data of the climatic data or plant indicator based or making the water 
+balances studies and then finding out how much amount of irrigation it should be given, what is 
+the status of soil moisture content. 
+ 
+So, methods which are based on the soil indicator, one is by feel and appearance, collecting the 
+sample and putting the sample in hand and then observing the soil moisture content that is based 
+on the experience this is what I am telling. Soil moisture monitoring is another way by using the 
+gravimetric method, getting the sample and then bringing the sample in the lab for drying and 
+then of getting the value in 24 hours, that what is the moisture content or by using some device 
+called neutron moisture probe. 
+ 
+Time domain reflectometry or the field domain reflectometry, I demonstrated in the Lysimetric  
+study when we were doing field demonstration we were talking about TDR or soil moisture 
+tension measurement using tensiometer. So, these are porous blocks. So, there are the ways to 
+monitor by installing the gadgets in the field installing or taking the gadget there and monitoring 
+the values. 
+ 
+Available soil water held between field capacity and permanent wilting point in the crop root 
+zone depth that is how we will be using these particular devices and then monitoring the how 
+much amount of soil moisture content is available. And then some time, we are using soil 
+moisture tension as indicator that this is the timing of irrigation. So, soil moisture tension is 
+measured with the help of tensiometer, this also I demonstrated in the field demonstration. 
+ 
+So, how to find out by using the tensiometer, so tensiometers are available in a different length  
+and they are installed in the field. And then the observations on the tensiometer is taken. So, this 
+observation is measured by using a vacuum gauge which gives the reading of what is the soil 
+water tension? And that soil water tension versus moisture content, a calibration curve is 
+established. 
+ And that calibration curve one can find out this is the value of soil moisture content. Now, if for 
+understanding the soil moisture tension is zero means when soil is saturated. Now, if it is a 10 
+bar, so value is given the not 10 bar, 10 centibar. So, when we are talking about the soil water 
+tension measurement by tensiometer, the range of measurement of soil water tension is 0 to 80 
+centibar. So, these are the values here what we are seeing that this when 0 to 10, 10 to 20, 30, 40, 
+50, 60 70, 80. 
+ 
+So, these are the ranges if our tensiometer, vacuum gauge shows reading that this is the tension 
+available. So, at this particular tension we are fixing a threshold limit that one should not allow 
+soil water tension to go beyond this value. Soil water tension should not go, so irrigation can be 
+given. So, soil water tension measurement can be done by using tensiometer.   
+ 
+Then another device what you see here in this figure is these are the resistance blocks. Resistance 
+blocks, we know there are electrodes and then on the electrode gypsum or plaster of paris is kept 
+and then these electrodes are connected by a cable. And then the one side of the cable is 
+connected with the readout unit. So, when these blocks are installed before the sowing the crop, 
+this will remain in the field. And then the value of the reading which is taken from the readout 
+unit, this is also calibrated in terms of soil moisture content. 
+ 
+And then that available soil moisture content is meter reading this is the typical graph you can 
+see, it comes like this. So, meter reading versus available or approximately soil water used, we 
+can say available soil water. So, available soil water/moisture content is this is the graph. So, if 
+this is the graph which we can interpret this graph. Suppose the available soil water content, let 
+me put this is the value let us say, at this point this is your value which is 25% water used, and 
+75% in the moisture content that is available in the soil. 
+ 
+So, at this particular value when I am putting the value is 90 is the reading, this reading, this 
+observation will be in terms of resistance or voltage. Normally this value is voltage so, millivolt 
+or it is in Ohm and this value which we are getting this is against soil moisture content. So, some 
+certain value of soil moisture content is observed and this graph can be interpreted like this, if 
+this is the value of moisture available, then remaining value when we are taking 100%. So, remaining value that is the plant it has extracted moisture content that is the interpretation. So, a 
+meter it is attached with the your electric resistance blocks and that meter is giving the value of 
+some certain numbers, that number is calibrated in terms of the moisture content in the soil. 
+ 
+The methods based on the plant indicator here again leaf appearance, a leaf water potential, 
+foliage and air temperature difference. So, these are the ways, so leaf appearance when you are 
+seeing here how the plant leaf they are showing, this is showing the symptoms as if there is a 
+need for water. If we are seeing the soil also the soil itself it is shown as a dry soil. So, if it is a 
+dry soil and then the leaves are also, so this is one by color of the leaf, it shows the indicator. But 
+there is a limitation of this one that it is showing in these kinds of symptoms after the crop has 
+already gone to a particular stress. So, it may not be good or this is not the good way, so we nee d 
+to monitor by using appropriate gadget. So, it could be by use of pressure chamber, it could be 
+and then measurement is done or thermocouple psychrometric or such type of measurement is 
+done during mid-day or the samples are from the field, it can be made the several samples a re 
+needed. And then the plant foliage temperature, air temperature as well as the air temperatures, 
+these 2 temperatures are used to find out the difference. Then from there we are finding out 
+vapour pressure deficit and then calculating the crop water stress index. 
+ 
+Plant water potential is another way, we will discuss these instrument in other class also we 
+planned that they are more detail will be. But here just briefly I am telling you that the leaf is 
+brought from the field, it is kept in a pressure chamber, pressure bomb or pressure chamber and 
+then a pressure is applied and the pressure at which the leaf sap from the leaf, it comes out, the 
+water vapour it starts appearing from this. So, that particular pressure means by excluding sap it 
+is used, so that becomes a value. So, this value is used as critical plant water, and that it should 
+not go beyond this particular pressure. So, for cotton crop the value is given as 1.2 to 1.25 Mega 
+Pascal similarly for other crops these values have been given. And of course, depending on the 
+conditions the crop is being grown. So, different species it has got different values for the plant 
+water potential. 
+ 
+The climatological data, means using the plan data is also used to plan irrigation system. So, IW 
+by CPE ratio means irrigation water requirement divided by the cumulative plan evaporation. So, if these values, of course such values are crop specific, these values when we are finding IW by 
+CPE ratio, this is also for the particular site. So, when we say IW by CPE ratio of one, me ans the 
+irrigating the crop with water that is equal to the amount of water which is lost from 
+evaporimeter. So, for different crops these values have been standardized by investigator. Such 
+values are applied mainly for the crops which are being irrigated by using surface irrigation. And 
+micro irrigation system, we are using Penman-Monteith equation or even pan data, then we 
+multiply with the pan coefficient and on daily basis that irrigation is being given. IW by CPE 
+ratio is advocated for surface irrigation only. 
+ 
+Soil water balanced approach is another way, means here we are getting the values of the soil 
+moisture depletion on a particular day. So, previous soil water soil moisture depletion values, 
+soil moisture value is used. And then evapotranspiration requirement of the crop, how much 
+amount of deep percolation it is taking place? So, amount of water which is being withdrawn 
+from the soil system. And is subtracted from the amount of water which is supplied in the form 
+of irrigation, in the form of rainfall and groundwater contribution. So, outflow minus inflow is 
+used as a soil water balance approach to schedule irrigation. So, a particular value when it is we 
+are getting, then we are triggering irrigation, means you are making the balance of these 
+components. 
+ 
+So, this particular graph when we see, it explains how the crop water stress and the available 
+moisture content they are related. So, up to certain moisture content at field capacity to the 
+critical moisture content, Ks is considered as value of 1. But beyond when the moisture content 
+depleted then the value of the crop stress coefficient is increasing and that is not desirable. So, 
+the soil water limiting condition is Ks is less than 1 when there is a no soil water stress, then we 
+say this is the value which I am telling you that theta FC to critical soil moisture content there is 
+no crop stress coefficient. 
+ 
+Management based irrigation scheduling; we are giving a specific value.  
+𝑴𝑨𝑫 =𝑨𝑫
+𝑻𝑨𝑾  
+Where,   AD = allowable depletion 
+              MAD = management allowable depletion limit   
+These values are for different crops, these are already fixed. So, if there are shallow rooted crop, 
+if there is a deep rooted crop, if there is a low value crop accordingly the value of management 
+allowable deficit has been advocated. Similarly, for the soil type, the value 40 to 60% means 
+coarse soil has got high value means the MAD value as compared to the fine textures soil that is 
+40%. 
+ 
+Now there are 2 types of a strategies which are used for supplying irrigation water, one strateg y 
+is full irrigation, here we are giving as if you see this particular graph. So, in this particular 
+graph, when we see as we keep on increasing the amount of water the yield is increasing. B ut up 
+to certain point after this when the irrigation water is supplied there is a reduction in the yield 
+which is not desired. 
+ 
+So, in this particular full irrigation strategy, the water is available readily for the plant production 
+process, plant growth process and when the cost of irrigation water is low then we are applying 
+full irrigation otherwise we can ’t supply water. So, here the excess irrigation when we are giving 
+beyond this, this is not desirable it may reduce the yield. 
+ 
+Deficit irrigation is another strategy and this is a required in today ’s thing that is how it meets the 
+partial crop water requirement with achieving optimum crop yield. So, irrigation is given when 
+the water reaches a critical value, it is accomplished by planned water plant stress during 
+growing season. Stress should be given, but it should be planned way, which growth stage stress 
+can be given, at which growth stage the irrigation is must. So, this particular deficit irrigation is 
+practiced when there is a deficit water supply. And then of course we are maintaining moisture 
+content near to the field capacity or little below the field capacity. So, the aim of deficit irrigation 
+is to maintain that moisture deficiency where we cannot compromise with the crop water use 
+efficiency. So, we want to maximize the crop water use efficiency. 
+ 
+These are some of the grow crops for which the critical growth stages, where the particular crop 
+is very sensitive to water stress. Say, Sorghum crop, boot and heading stage, wheat crop, boot 
+and flowering stage, Corn. So, here in these stages water stress should not be maintained. Similarly for the growth period in which irrigation produces greatest benefit. So, we are required 
+to see maintaining the deficit water supply, but we need to give irrigation during critical growth 
+stages, so that crop yield is not reduced. 
+ 
+Here it is explained with reference to the deficit water supply, you can see here when we ar e 
+giving water say crop is of particular depth D. So, if we divide the total depth D in 4 quarter, so 
+1st quarter, 2nd quarter, 3rd quarter, 4th quarter. So, 1st quarter of the crop root, the 40% of 
+moisture is used by the plant. Then next quarter 30% the roots which are as the deeper as you go 
+the last quarter it is only 10%. 
+ 
+So, instead of irrigating the whole crop root zone if we consider say the crop is of 1 meter length, 
+root zone depth is 1 meter. And if I am giving irrigation considering the irrigation should be 
+given to 75%, 75 centimeter considering instead of 1 meter. If I take 75 centimeter then 90% of 
+the roots will be receiving water that is the effective. So, this way we can also reduce irrigation 
+water supply. 
+ 
+So, now what we learned from this particular lecture, the irrigation scheduling is important, it 
+improves the yield, it reduces the energy cost, it also reduces the leaching of nutrients 
+particularly when we are supplying. So, less nutrients are percolating below the root zone depth, 
+it improves the quality of produce, it is more efficient, it provides way to that more efficient 
+utilization of labor. 
+ 
+In case of typical full irrigation more laborers are used. It minimizes the water logging condition 
+which is a problem, large area in our country is facing problem because of the over irrigation. So, 
+drainage requirement is not there when we are maintaining the irrigation scheduling, proper 
+irrigation scheduling, we do it assist in controlling the root zone salinity problems through 
+control leaching. And then it saved the water and also irrigates non cash crops also. So, it enables 
+the farmers to schedule water rotation among the various fields to minimize crop water stress and 
+maximizes the yield. So, these are some of the advantages of the scheduling of irrigation.  
+ So, in this particular lecture, let us summarize. We have learnt about irrigation scheduling, basic 
+terminologies which are pertinent to irrigation scheduling has been discussed. We also discussed 
+about different methods of irrigation scheduling. We also discussed these different strategies, 
+there are 2 strategies full irrigation, deficit irrigation, this also we discussed. And we also 
+discussed about the criteria for selection and implementation of septic irrigation and irrigation 
+scheduling methods.  
+ 
+So, now in forthcoming lecture, we will be discussing on soil and plant water monitoring 
+instruments. You can refer these books relevant to this particular topic of irrigation scheduling. 
+So, these are the books. And other references you can also refer these internet references which 
+may be useful for going deeper into this topic. Ok then, thank you very much.  

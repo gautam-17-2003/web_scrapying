@@ -1,0 +1,295 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture-16 
+Tutorial-03 
+Numerical Examples on Irrigation Water Management 
+ 
+Dear students, I invite you to lecture 16 of micro irrigation engineering subject. This lecture is 
+dealt with the numerical problems, which have been the theory part of the subject on irrigation 
+scheduling, and then soil water concepts which we have discussed in theory class. So, we wil l 
+work out some numerical examples. So, this is tutorial class 3. 
+ 
+Now, in this tutorial class 3, we will be working out the problem of irrigation scheduling and 
+irrigation efficiency and adequacy of irrigation. 
+ 
+So, in question 1, we have been given in this question there is a wheat crop, a wheat crop 
+requires 45 centimeter of irrigation water during 120 days irrigation period. So, crop duration is 
+given 120 days and the water requirement of the crop is 45 centimeter, how much land area can 
+be irrigated with a stream size of 20 meter per second when it is applied for 8 hours dura tion in a 
+day? 
+ 
+So, we are given the depth of irrigation is 45 centimeter, we are given the base period that is 
+irrigation period is 120 days, and then water flow rate i.e. size of the stream is 20 litre per second 
+and irrigation time is 8 hours per day. So, total discharge during the irrigation period can be 
+worked out in a volumetric form. So, 20 litre per second is the discharge, so this is applied for 8 
+hours in a day time in 1 day and then a total of 120 days is the irrigation period. So, 69,120 is the 
+total volume of water which will be delivered by the system.  
+ 
+Irrigation requirement, because we have been given 45-hectare centimeter, that can be put up  in 
+the volumetric form, that will be 45 into 10000 square meter divided by 100, because this is in 
+centimeter, so it comes to 4500 cubic meter. = 𝑄×60×60×𝑇×𝐵
+1000 
+=20×60×60×8×120
+1000 
+= 69120 m3 
+So, the area to be irrigated, from the volume of water available that is 69,120 because this is the 
+discharge which is computed from this 20 litre per second. So, this is the volume of available 
+water, and the volume of water required is 4500 cubic meter per hectare. So, this comes to 15.36 
+hectare. 
+ 
+In question 2, the bean crop is grown in a clay loam soil and it is in mid-stage, mid-stage means 
+when we look at any crop, it is given by initial stage, development stage, then crop midseason 
+stage, and then late season stage. So, this particular crop is in the middle stage. And groundwater 
+table is 5 meter below the surface. So, it is assumed in this question the capillary water rise 
+contribution from the water table will not take place particularly in this cropped area. 
+ 
+And at the beginning of the midseason stage of the crop moisture content is at field capacity. 
+This is another important information is given that moisture content at field capacity. Reference 
+crop evapotranspiration and precipitation values for 10 day period are given in the table. So, we 
+have been given from day 1 to day 10, daily evapotranspiration of the crop. 
+ 
+And then here the precipitation which has occurred, it has occurred on 5th day, day 5 that is a 5 
+millimeter of rainfall. And then on the 7th day that is 0.2 millimeter, it has occurred, and the rest 
+of the days there is no rainfall. So, we are given reference evapotranspiration and precipitation. 
+ 
+Here it is assumed that effective the root zone depth of the crop is 60 centimeter. The crop 
+coefficient at the middle growth stage is 1.05, volumetric water content at field capacity, and 
+wilting points are 36% and 18%, respectively. So, field capacity moisture content is 36% and the 
+wilting point moisture content is 18%. Crop stress coefficient, Ks is 1 and deep percolation loss 
+is considered negligible. 
+ We need to use these data to schedule irrigation on a fixed interval of a week that is at the 
+weekly level we will give irrigation. Management allowable deficit that is a MAD, this 
+management allowable depreciate is assumed at 50%. 
+ 
+So, once again I am reading the data which are given in the question, moisture content at field 
+capacity 36%, the permanent wilting point is 18%, so available water content is 36% - 18% that 
+is 18% is the available water content. Effective root zone depth is 60 centimeter, crop coefficient 
+at the mid growth stage is 1.05 and maximum allowable or management allowable depletion is 
+given as 0.5. 
+ 
+So, the total available water as I told you 18% which I can write 0.18 multiplied by 60 centimeter 
+is the depth effective root zone depth, so this is 108 millimeter, this is the total available water. 
+And management allowable depletion in terms of depth one can find out. So, 50% of 10.8 
+centimeter is 5.4, so 54 millimeter will be the allowable depletion. 
+ 
+So, the moisture content at the beginning of field capacity we do not have to be irrigation. So, the 
+moisture content in the previous day, soil moisture depletion in the previous day that is i minus 1 
+is equal to 0. So, soil moisture depletion at ith day can be given by  
+𝑆𝑀𝐷 𝑖=SMD i-1+ (𝐸𝑇𝑜𝑖× 𝐾𝑐𝑖× 𝐾𝑠𝑖)+𝐷𝑃𝑖− 𝑃𝑒𝑖)  
+Where, 𝑆𝑀𝐷 𝑖−1 is soil moisture depletion in the previous day,  ET0 is reference crop 
+evapotranspiration on a particular day, K ci is crop coefficient of ith day, K si that is the crop stress 
+coefficient on the ith day, DP i deep percolation loss on an ith day. So, this is given as zero and 
+precipitation values for the 10 days period these are available, so on the 5th day and 7th day 
+rainfall values are available to us. 
+ 
+Now, this water budgeting has been made from day 1 to day 10. So, the moisture content, soil 
+moisture depletion in the previous day was 0, ET 0 5.6 millimeter, K ci 1.05 that is in the middle 
+stage it is given in the question and that is taken as a constant for all the days, 10 days. And same 
+thing, crop stress coefficient for all the 10 days, so these are given as 1. Now, we will calculate 
+the ETc that is evapotranspiration requirement of the crop on an ith day, that is of day 1, it is 
+nothing but 5.6 multiplied by 1.05.  
+So, we will get 5.9 millimeter, deep percolation it is negligible. So, it has been taken as 0, 
+precipitation on this day is 0. So, this value is 5.9 millimeter is the soil moisture depletion on day 
+1. So, for the next day that this becomes your, for the second day is the initial soil moisture 
+content for day 2. And then at ETo is given, if you see from the table it is 5.4, this is multiplied 
+by 1.05 and this is 1. 
+ 
+So, this becomes 5.7, so 5.9 plus 5.7 it becomes 11.6. So, like this, we will be calculating these 
+values. So, this 11.6 plus 6.2 which has come from these two values by 11.6 plus 6.2 is 17.8. 
+Now, 17.8 becomes the moisture content in the previous day that becomes your initial value for 
+this to start with. So, this value plus this value will give the new value like this, and then it will 
+be subtracted in the next when you are doing it. 
+ 
+So, you are doing this calculation, and then what you are doing? You are subtracting and like 
+these values are estimated for all the 10 days. So, for management or maximum allowable 
+deficit-based scheduling, 54.2 millimeter will be the irrigation depth that would be required in 
+the morning of the 11th day. On the morning of the 11th day, 54.2 millimeter will be the depth of 
+irrigation. 
+ 
+Whereas, when we are giving irrigation based on the weekly period, so on the weekly pe riod that 
+is on the 7th day when you are doing it, this is the depth of water which will be needed on the 
+11th day after a week. So, this way one can work out these value s. 
+ 
+Question 3, we are required to calculate irrigation interval for a crop that has an effective root 
+zone depth of 140 centimeter grown in a soil which has a field capacity of 14% and the 
+permissible soil moisture depletion of 7%, the monthly evapotranspiration of the crop is 285 
+millimeter. There is an effective rainfall of 35 millimeter during the crop season. 
+ 
+So, let us try to learn from these data. We have been given moisture content at field capacity is 
+14%, soil moisture depletion is 7%, effective root zone depth D rz is 140 centimeter, effective 
+precipitation is 35 millimeter, and crop evapotranspiration is 285 millimeter in a month. And we are required to calculate the irrigation interval, from these given data we are interested to know 
+what will be the irrigated interval when will be the next irrigation we should give? 
+ 
+So, irrigation interval is determined by using this particular expression, which is given by  
+Irrigation interval =  ((𝑴𝒇𝒄−𝑴𝒄)×𝑫𝒓𝒛)+𝑷 𝒆
+(𝑬𝑻𝒄) 
+                                     =((𝟎.𝟏𝟒−𝟎.𝟎𝟕)×𝟏𝟒𝟎𝟎 )+𝟑𝟓
+(𝟐𝟖𝟓
+𝟑𝟎)=𝟏𝟒 𝒅𝒂𝒚𝒔    
+so we get an irrigation interval of 14 days. So, the next irrigation will be provided after 14 days 
+interval. 
+ 
+Question 4, here it is given an irrigation stream of 1800 litre per minute is supplied to a farm 
+daily for 24 hours. Here irrigation stream discharge is known to us, and daily this particular 
+irrigation stream is operated for 24 hours means every day 24 hours this stream is supplied. 
+Maize and wheat are the crop s, that maize has an area of 0.8 hectare and wheat has an area of 1 
+hectare and they are daily irrigated. 
+ 
+The irrigation requirement of maize is 8 centimeter means daily 8 centimeter of water is needed 
+and 12 centimeter of water is given to wheat crop. Compute the irrigation efficiency of the 
+irrigation system. 
+ 
+So, here we have been given water to diverted water from the field is 1800 litre per minute. And 
+then irrigation interval is 24 hours per day, area of maize is known to us, area of the wheat crop 
+is known to us, and then irrigation requirement for both the crops are given as 8 centimeter and 
+12 centimeter for the wheat crop. So, the irrigation requirement for the wheat crop is given by, 
+first, we will calculate the amount of water supplied to the farm is, we are given 1800 litre per 
+minute. 
+ 
+So,  
+=1800 ×60×24
+1000  
+ So, this is given in 1 hour we will multiply with 60 and then daily irrigation is given, so this will 
+be multiplied by 24 hours and divided by 1000 to convert into the cubic meter, so litre is 
+converted to cubic meter and then per minute is converted to daily in 24 hours. So, this total 
+volume of water supplied to the farm is 2592 when we calculate. 
+ 
+Then when we are calculating the volume of water required to irrigate maize crop, it is given as 8 
+centimeter. So, 8 divided by 100 it become meter and then the area is 0.8 hectare, area of the 
+maize crop is 0.8 hectares, so 0.8 multiplied by 10,000 square meter, so this will become 640 
+cubic meter. So, the volume of water required to irrigate the wheat crop, similarly we will 
+calculate, so 12 divided by 100, it will become 0.12 meter multiplied by 1 hectare. So, 1 into 
+10,000 square meter, 12 by 100 multiplied by 10,000 will give us the volume of water required 
+to irrigate the wheat crop. 
+ 
+So, the total volume of water required can be calculated, that is the total volume of water used 
+for irrigating maize and wheat crop is 1840 cubic meter. And then we have the water supply to 
+the crop, this we calculated from the stream of 1800 litre per minute, so this is 2592 and then 
+1840 divided by 2592 it gives the value of 70.99% or 71% is the irrigation efficiency. 
+ 
+So, here 71% of the water applied is beneficially utilized by the crop while 29% of the water can 
+go as a loss in the form of deep percolation or in the form of runoff or evaporation or spillage 
+that could be, so this is quite a good way of the supply of water by using this stream. 
+ 
+Question 5 is also on the efficiency side. So, a stream of 135 litre per second was diverted from a 
+canal and this water reaches the field is where it is measured only 100 litre per second from 
+which only 100 litre per second, it has been delivered to the field. So, there is a considerable loss 
+in the water through the conveyance system. An area of 1.6 hectare was irrigated in 8 hours by 
+using a stream of 100 litre per second. 
+ 
+The effective depth of the root zone of the crop is 1.8 meter; runoff loss in the field was 432 
+cubic meter. So, at the outlet at the downstream end of the field runoff was measured and it is 
+found that 432 cubic meter of water goes as runoff loss. The depth of penetration, when we measured that how much amount of water it has infiltrated below the ground level. So, it is found 
+at 1.8 meter at the upstream end that is the head end, and 1.2 meter at the tail end. 
+ 
+This is the normal thing it happens in the field when irrigation is given. So, at the upstream end, 
+there is more loss of water through the infiltration process and when it comes to the downstream 
+end, so there is less opportunity time for the infiltration to take place. So, at the downstream end, 
+it is only 1.2 meter. So, the available moisture-holding capacity of the soil is 20 centimeter per 
+meter depth of soil. 
+ 
+This is nothing but the water holding capacity or field capacity of the soil. Now, we are required 
+to determine the water conveyance efficiency, we are required to determine the water a pplication 
+efficiency, we are required to determine water distribution efficiency, 3 efficiency terms have to 
+be evaluated by using the data given in this question. 
+ 
+So, once again I am reading here, water delivered from the source is 135 litre per second, water 
+delivered to the field is 100 litre per second. So, this water which is delivered to the field is for 8 
+hours, the area of irrigation is 1.6 hectare, runoff loss is 432 cubic meter, effective root zone 
+depth is 1.8 meter. And this is already I have told you that moisture content at the field capacity 
+is 20 centimeter per meter. 
+ 
+So, conveyance efficiency is computed by the volume of water deliv ered to the field to the water 
+diverted from the source into 100. So, water delivered to the field is 100 divided by 135 into 100, 
+which gives 74% is the conveyance efficiency.  
+= (100
+135) ×100=74 %  
+ 
+Water stored in the root zone is water delivered to the plot minus runoff loss. 
+ 
+So, in this question, we know that how much amount of water is delivered to the field when we 
+have a stream size of 100 litre per second. So, this 100 litre divided by 1000 will give cubic 
+meter and then this water is supplied 8 hours. So, we are converting this is in a cubic meter, so volumetric forms. So, this will be multiplied by 60 into 60 into 8. So, we here the litre per second 
+is converted to per minute then per hour then 8 hours it has been supplied. 
+ 
+So, this will become the water deliver in the volumetric for minus 432, it has gone as a surface 
+runoff loss. It is assumed in this question that there is no deep percolation loss. So, once we are 
+assuming that there is no deep percolation loss, so 2880 minus 432, this is the active amount of 
+water is stored in the root zone depth.  
+= Water delivered to plot – runoff losses 
+= [(100/1000) × 60 × 60 × 8] – 432 
+= 2880 – 432 = 2448 m3 
+So, this way has got the value of the volume of water stored in the root zone divided by the 
+volume of water diverted to the field multiplied by 100 will give us the water application 
+efficiency. 
+= (2448
+2880) ×100=85 %  
+If we could have been given the amount of water that has lost below the root zone depth then in 
+the amount which we have got 2448, we will subtract the volume of water that has gone beyond 
+the root zone depth as a deep percolation loss. Then in that case this volume will be reduced to 
+that particular value. So, this way we are calculating the application efficiency. 
+ 
+Now, water distribution efficiency is given by 1 minus y bar divided by d bar into 100. So, what 
+is y bar? y bar is the numerical deviation from the mean value of depth of infiltration. So, this is 
+apparent, we are seeing that it is 1.8 meter minus 1.5 meter. So, this 0.3 meter is the amount of 
+water it has gone as a numerical deviation. So, at the lower end, so how much is the loss we are 
+getting 0.3 meter. 
+ 
+Average values, how we are getting average values? We are taking only two values what is given 
+in the upper stream means head end and what is the amount of water which has gone as an 
+infiltration at the downstream end so this is an average of 1.5 meter. So, this value will give us 
+the numerical value, and then accordingly we will calculate. 
+𝐸𝑑=100× (1  − 0.3
+1.5) =80 %   
+So, water distribution efficiency is 80%. This way, we calculated the problem, we calculated the 
+conveyance efficiency, we calculated water application efficiency, and we calculated water  
+distribution efficiency. 
+ 
+In question 6, we are given the depth of infiltration measured around the field and this field is 
+quite large where at every unit that when we are dividing the whole field let us say in 20 grids 
+and each grid is of some certain percentage of the total area. So, the values of each unit that is 
+when we have got the 100% area and we are dividing this are the matrix which we are seeing 
+here. So, there are 20 grids, so a 5 by 4 matrix is formed, and for each area how much it is 
+represented by infiltration rate. 
+ 
+So, it is given the 4-centimeter depth of infiltration, cumulative depth of infiltration is 4 
+centimeter, in first 5% area, then 3.5 3.4, 3.7 like these for all area is 5% each the value of 
+infiltration has been obtained. And we are required to obtain the adequacy of irrigation for the 
+field if full irrigation is given as 3.25 centimeter. 
+ 
+So, desired full irrigation is 3.25 centimeter, we are required to find adequacy, so these data 
+which we have and these data we will be putting in the descending order of the magnitude. And 
+then we will compute the percent of the field represented by each depth. So, we will compute the 
+cumulative area of each depth and we will find out the cumulative area versus depth. And then 
+from this cumulative area frequency curve, we will get the adequacy of irrigation from the graph. 
+ 
+So, what do we have a data? We have got the infiltration data of 4.3% like this as I was telli ng 
+you there is 20 number of the depth of infiltration which has been obtained and each depth is 
+representing the 5% of the total area. So, 5% you can see here and then what we are finding out? 
+We are finding the cumulative area, so 5 plus 5 10, then 10 plus 5 15, like this when you see the 
+2.6 that means 2.6 we are getting the total area it is 100% cumulative here. So, from these data, 
+we will get the cumulative frequency curve plotted.  
+So, cumulative frequency is the depth of water infiltrated versus the percentage of the field area. 
+So, this curve which is plotted this curve is nothing but a cumulative frequency curve. So, with 
+this cumulative frequency curve, we are given the full depth of irrigation that is required. So, 
+when you are plotting say 3.25 is the required depth of irrigation and which touches these or 
+which crosses the curve it is at 67% of the field area. So, the adequacy of irrigation is 67%. 
+ 
+Now, these data of adequacy of irrigation is used to evaluate or interpret the data for the 
+effectiveness of irrigation, when how the uniform water, application efficiency, and adequacy 
+these 3 terms are utilized for finding out the effectiveness of irrigation. 
+ 
+So, you can refer to these books, as well as the internet material for more examples to work out 
+more problems related to these topics. 
+ 
+So, here, let me summarize we worked out the problems related to irrigation scheduling, we 
+worked out problems related to irrigation efficiency, we worked out the problem related to 
+adequacy of irrigation. Now, in the forthcoming lecture, we will learn about water lifts and 
+pumps. Thank you very much and good day. 00,511,522,533,544,55
+5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100Infiltrated depth (cm) 
+Per cent of Field Area Adequecy of irrigation 
+Full irrigation (3.25 cm) 
+Adequecy (67 %)  

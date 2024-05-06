@@ -1,0 +1,454 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Department of Agricultural and Food Engineering 
+Indian Institute of Technology – Kharagpur 
+ 
+Lecture - 35 
+Soil Water Movement Under Drip Emitter 
+ 
+Dear participants of the Micro Irrigation Engineering subject, we are starting a new lecture on 
+soil water movement under drip emitter. This lecture is in serial order, this is the 35th number 
+lecture. We have been dealing in previous lectures about the hardware part of the drip 
+irrigation system, its installation, its operation, maintenance. And then we also discussed 
+different types of emission devices. So, the dripper is one of the emission devices. When we 
+are talking about the soil water process and particularly with drip emitters, so, we will learn 
+about the theory of water movement through drip emitters. And when for the drip emitter, 
+water is flowing through the soil considering steady-state conditions or it is an unsteady state 
+condition.  
+ 
+So, we require information that how the soil moisture is moving when the water is being 
+applied through a drip emitter which is of different application rates. So, different application 
+rates, we know that in the case of drip irrigation system, the water is coming out in the order 
+of 1 liter per hour, 2 liter per hour, 4 liter per hour, 6 liter per hour. So, how it is moving in 
+the soil? So, in the lateral direction or the vertical direction.  
+ 
+The purpose is to wet the effective root zone of the crop. But water movement takes its own 
+shape. So, time of application, as well as the discharge, is important. And when we want to 
+decide a spacing between the drip emitters in the lateral pipeline and spacing of laterals or we 
+can say spacing of drip emitter in the laterals, so, lateral to lateral spacing and plant to plant 
+spacing this matters when we are designing the drip system. So, water applied from a dripper 
+may be considered as a small circular point sources symmetry spread in all directions. 
+Symmetrically it is spreading in all the direction. So, ideally, it should be circular. But it will 
+depend upon the soil texture. When water is being applied, there is an infiltration means 
+infiltration takes place.  
+ 
+And this movement of water is 3 dimensional in nature means with respect to the 3 space 
+coordinate that is x, y, and z-direction that is the vertically downward direction. Each emitter can be considered as an independent unit, wetting the soil volume, without having any 
+interaction with the neighboring emitter, when we are considering individual emitters. So, 
+when they are sufficiently spaced. But when we are designing once we know for one 
+particular dripper, we will consider as the same spread will be there in another dripper then 
+what should be the overlap so that the uniform depth of water it is given beneath the soil.  
+ 
+The physical process involves in the case of drip irrigation system when the water movement 
+takes place. Say irrigation system when the water we are giving this is a case of unsaturate d 
+flow except when the water initially when water will flow so, movement will take place only 
+when it is in a saturated condition. But in the irrigation process, you will find that it is 
+unsaturated flow. So, we are considering the water flow under a drip trickle irrigation is 
+essentially 3 dimensional. It is a saturated and unsaturated flow problem with moving 
+boundaries separating the ponded and unsaturated area of the soil surface. Now, the emission 
+point of the drip emitter is observed that the radial area of ponded water develops in the 
+vicinity of the emitter source. This area is initially very small, but the radius becomes large as 
+time increases.  
+ 
+This means, when we keep on supplying water with the help of a dripper then the water will 
+spread, it will spread horizontally above the land surface. The effect of storage at the soil 
+surface is negligible as the ponded body of the water is usually very thin. This implies 
+instantaneous water infiltration into the soil and evaporation to the air. That is a physical 
+process it is taking place.  
+ 
+Now, you can see here a dripper is being used. And now when we are supplying water what 
+will happen? There will be ponding of water and thus there will be a thin layer of ponding of 
+water. Then water will spread in this direction, this is your radial direction. This kind of thing 
+will be a radial flow. So, this is the particular place where the ponding takes place. This is the 
+radius of the saturated water zone. Now, when we supply water naturally there will be 
+evaporation from the surface. That is from the soil surface. And also transpiration will take 
+place from the plant body or plant surface. So, transpiration and evaporation, of course, from 
+this particular area where the shading takes place. So, this becomes as long as it is not an 
+open surface. So, these 2 components are put together, and that we call it evapotranspiration. 
+But, when it is not affected, so, from the open surface evaporation will take place.  
+ Now, when we continue to supply water, you may find that the wetting bulb forms. This is 
+the wetting bulb. And as we continue, then the wetting bulb will continue to develop. And we 
+are seeing that this is continuous. Now, we consider when we are making theoretical analysis, 
+we consider that this particular dotted line area, this is the boundary which we call a control 
+volume. This is a control surface or control volume where we take it and then the water 
+beyond this particular control volume means there is no flux. Means, water from this area 
+from this part to this part, no water transport takes place. So, this is the ultimate when you 
+have taken this particular boundary when we are considering this is your ultimate total radius 
+of saturation.  
+ 
+So, soil water content immediately beneath when the water is being given, the soil water 
+content beneath the ponded area is always equal to the water content at saturation. Since this 
+saturated place is the only place where the water can infiltrate into the soil and we refer to 
+this area as a zone of saturated water entry. So, this part is being told that this part is known 
+as a zone of saturated entry. And this is the radius part of the area.  
+ 
+Now, a very simplified equation, if someone wants to know without going to the typical 
+analytical process of the water moment, then one can simply put it a simple relationship of 
+the infiltration. So, when water is being given through the drip system naturally it is wetting 
+the soil. So, moisture content when it is being if we are measuring the soil water content after 
+the irrigation has been given that moisture content and shape of wetting volume is taken as a 
+hemispherical.  
+ 
+So, initial moisture content that is your theta dry and then the moisture content after the 
+irrigation has been given. So, the difference in soil moisture content multiplied by this 
+particular volume of the hemisphere can be given by the total amount of water supplied by 
+the drip emitter. So, the total amount of water supplied by the drip emitter is nothing but the 
+discharged rate multiplied by the time of application.  
+𝑞𝑡= (2/3)𝜋(𝑟 𝑓)3(𝜃𝑤𝑒𝑡− 𝜃𝑑𝑟𝑦)  
+Where,  
+q = the emitter discharge rate (L3T-1),  
+t  = elapsed time for water application 
+rf = the radius of the wetted volume (wetting front position)  
+This is a simple form someone wants to know what will be the volume of the wetting.  
+ 
+Now, soil water movement through drip system one can consider different cases. So, one case 
+is when the water from the point source means when the water is coming from a dripper 
+which is kept above the land surface and then water is coming drop by drop when it is falling 
+this is a point source system. This particular thing which you see here is a point source 
+emission system. And then water is coming drop by drop and then it is forming the case.  
+ 
+Now, in this particular case, we are considering that it is a steady-state case. Now, when we 
+are considering that the surface ponding takes place that is another way where how much the 
+water which is going as a surface ponding. And then line source means when the drippers are 
+kept as it is inline drippers. Particularly in the inline dripper, it forms a very small step of 
+wetting of the land surface. So, normally it is put up below the soil surface, we call it as a 
+buried dripper. And then here we are considering as if the flow process means the change in 
+the soil moisture content is independent of time. But here we are considering in transient case 
+that as if the moisture content changes with time and this is for the unsteady-state case. 
+Another one is not the function of time, when we say the steady-state case, this is not the 
+function of time. So, these 3 cases are considered when delta theta by delta t is consi dered as 
+a 0. Here, delta theta by delta t has a relationship with the movement of water.  
+ 
+Now, subsurface soil water regime for high-frequency irrigation. This is a drip case. In a drip 
+irrigation system, we call it high-frequency irrigation. So, subsurface soil water regime is 
+determined by properties of the soil and geometry means what is the geometry of the flow 
+which is taking place and rate of water application and withdrawal from the profile.  
+ 
+So, factors that differentiate the soil water regime for micro irrigation from standard surface 
+and sprinkler irrigation systems are how they are different. That is how. It is explained here. 
+The flow regime, in the case of high-frequency irrigation, is considered as 2 or 3 dimensional 
+rather than only vertical. Say if it is a sprinkler irrigation system, it is a surface irrigation 
+system, there is the only vertical movement of water it takes place.  
+ 
+But when we are talking about the point source irrigation system or line source irrigation 
+system then it is a case of not only the vertical movement, but water takes place in the horizontal or radial flow as well as the vertical downward movement. Water is added at high 
+frequencies means here water is being given daily or sometimes you may find it 2 times a 
+day. If it is a small quantity of water, it is to be given then 2 times of this.  
+ 
+This is high-frequency irrigation. This is the other characteristics of micro irrigation system. 
+And soil water content is maintained within the relatively narrow range. So, the 
+multidimensional nature of flow from point or line source leads to more complex 
+mathematics if the system is modeled. So, high frequency of application and narrow water 
+content tend to skew the concept of field capacity where soil properties control plant-
+available soil water. Of course, these information are important, and particularly in case of 
+the irrigation process, we deal with the matric water potential. We deal with the unsaturated 
+soil water content. So, there exists a relationship between the pressure head and soil water 
+content. So, h is greater or near atmospheric pressure, the system will be near saturation. 
+Means, this is for the saturated flow case.  
+ 
+So, that is one part. Now, h is less than atmospheric pressure. So, the water content also 
+decreases, and then h will decrease. So, we call it soil water tension. And then water retained 
+if we measure the how much is the water means pressure available which is held by the soil 
+particle, we call it as a soil water tension or matric potential. So, there exists a relationship 
+between the soil water content that is your theta with h that is the matric potential. So, this 
+particular relationship when we draw, we call it as a soil water retention curve, or this curve 
+is also known as soil moisture characteristic curve.  
+ 
+So, soil moisture characteristic curve means h equal to 0 when we say h equal to 0 means soil 
+is perfectly wet condition. The wetting condition means the soil is at the wetting condition 
+means it is the saturation condition. And when we are talking about this part that is the 
+negative part means when the water content is decreasing. So, h proceeds along the negative 
+x is the theta decreases monotonically.  
+ 
+Now, this is another part when we are putting it h versus theta means this is your moisture 
+content and that is explained that how the h versus theta changes. Now, a soil-water 
+characteristic curve may be obtained by taking an initial saturation sample and applying the 
+suction or pressure to desaturation. Simply, when we say desaturation simply you say that 
+this is the drying process.   
+So, when the soil water starts decreasing, the soil water tension will increase. And this is a 
+desorption process. Gradually when soil is dry and we are giving water. This means we are 
+irrigating. So, the irrigation process is when we say that gradually wetting and initial dry soil  
+that is sorption. So, this curve is sorption and sorption means we are adding water in the dry 
+soil, and the moisture content of the soil increases. This particular curve is when water is 
+being withdrawn from the soil when operators withdrawing water from the soil and that 
+particular withdrawal process is known as desorption. So, these 2 pathways produce the 
+curve. And in most cases, these 2 cases you can see here, these curves are not identical. So, 
+this process when we are drying is known as hysteresis. This is known as the capillary 
+hysteresis curve.  
+ 
+Now, many algebraic equations have been introduced in order to model the soil-water 
+characteristic curve. So, these are the 2 famous, one is the van Genuchten model, another one 
+is Brooks and Corey model. They have established a relationship. And their relationship is 
+given here. So, here in this particular thing, what do you see? This is the relationship that K 
+by Ks. This particular ratio K by Ks that is which is known as the ratio of the hydraulic 
+conductivity one is your k is a function of theta and the other one is saturated hydraulic 
+conductivity that can be related by this equation. Where m is the one parameter and alpha VG 
+that alpha is the parameter which is coming here which is the function of Se that is effective 
+saturation. Effective saturation is given by this expression where alpha VG is also a soil 
+parameter. And that is VG when we say that is the van Genuchten parameter of the soil and 
+m, n, and alpha, these are also, so, the value of m it ranges from 0 to 1.  
+ 
+Now, here Brooks and Corey, they have given the value of m. That is m BC. It is greater than 0 
+and that relationship is given like this. K b y Ks is given by this. And then that is the range for 
+the effective saturation. So, these forms of models are convenient to use when the unsaturated 
+movement of water takes place through the soil.  
+ 
+Now, Darcy ’s law is a famous law. And this law states the flux density is a given by, the flux 
+density is nothing but Darcy ’s flow which we call as the velocity of flow rather we can say 
+which has a dimension of L T-1. So, Darcy ’s law state that it is given by  
+𝐽𝑤⃗⃗⃗⃗ = −𝐾𝑔𝑟𝑎𝑑  𝐻   where  
+grad = a vector gradient operator (derivative of the hydraulic head with respect to space)  
+K     = the hydraulic conductivity (LT-1) .  
+H     = the hydraulic head (the sum of the pressure head h and elevation) (L). 
+ 
+On this particular hydraulic head is nothing but it is the sum of the pressure head plus 
+elevation head. This particular law is meant for flow through porous media when soil is under 
+saturation.  
+So, when the water movement is taking place vertically downward direction so, we put it 
+capital H equal to h minus z, which is a z is positively downward direction. Now, since 
+Darcian velocity Jw, it is in vector form, because what you are seeing this arrow, this is in the 
+vector form. So, components of this particular Darcian velocity in the x, y, and z-direction 
+can be estimated. So, Darcian velocity Jx can be estimated as.  
+𝐽𝑥= −𝐾𝜕ℎ
+𝜕𝑥    
+𝐽𝑦= −𝐾𝜕ℎ
+𝜕𝑦  
+𝐽𝑧= −𝐾(𝜕ℎ
+𝜕𝑧− 1)   
+Darcy ’s law is empirically based and it was originally derived for saturated flow. Now, 
+Darcy ’s law is also extended where K is taken as a function of theta. Now, Richards ’ 
+equation, it is a continuity equation that is used for unsaturated flow. So, mass conservation 
+of water flow is given by the moisture content which is a function of time t. It can be given 
+by  
+𝜕𝜃
+𝜕𝑡= −𝑑𝑖𝑣.  𝐽𝑤⃗⃗⃗⃗⃗⃗⃗ + 𝐴  
+ 
+So, divergence vector that means Jw, and then A refers to the source or sink. So, in the term 
+when we say the source means when there is water, it exists. And then water when it is taken 
+out from the source, it is a water uptake by the plant root system.  
+ 
+So, expressing the flux Jw by means of Darcy ’s law leads to the unsteady state moisture 
+content is given by  
+∂θ
+∂t= 𝑑𝑖𝑣(𝐾  𝑔𝑟𝑎𝑑  𝐻) + 𝐴    
+In Cartesian coordinate, this particular equation 8, it can be written in x, y, and z-direction. 
+So, this is given by  𝜕𝜃
+𝜕𝑡=𝜕
+𝜕𝑥(𝐾𝜕ℎ
+𝜕𝑥) +𝜕
+𝜕𝑦(𝐾𝜕ℎ
+𝜕𝑦) +𝜕
+𝜕𝑧(𝐾𝜕ℎ
+𝜕𝑧) −𝜕𝐾
+𝜕𝑧+ 𝐴   
+This is for when we are expressing in x, y, and z-direction including the sink or source term.  
+ 
+The alternative form of Richards ’ equation, it can be given. That can be given in terms of 
+diffusivity. So, diffusivity is given as 
+𝐷 = 𝐾𝑑ℎ
+𝑑𝜃=𝐾
+𝐶  
+Means, h is a function of theta. When we are differentiating, that can be given K by C. So, C 
+is the specific water capacity, it has a dimension of L to the power minus 1.  
+ 
+Now, an alternative form of Richards ’ equation which is in one dimension. It can be given in 
+terms of moisture content. So,  
+𝜕𝜃
+𝜕𝑡=𝜕
+𝜕𝑧(𝐷𝜕𝜃
+𝜕𝑧) −𝜕𝐾
+𝜕𝑧  
+ 
+Similarly, this same equation, it can be written in terms of diffusivity or it can be also written 
+by using the expression for a steady-state case that  
+C(𝜕ℎ
+𝜕𝑡) =𝜕
+𝜕𝑧(𝐷𝜕ℎ
+𝜕𝑧) −𝜕𝐾
+𝜕𝑧  
+And in the quasi-linear form, this equation is given by  
+𝛻2∅ − 𝛼𝜕∅
+𝜕𝑧= 0    
+This is for the steady-state condition. Here, for steady-state condition, this equation has been 
+put up in this form.  
+ 
+So, soil water modeling under drip system, here, we are interested to find out the models. 
+And these models can be physically based, analog-based, or mathematical models. And in all 
+these cases, soil water movement, when we are considering, we are considering what is the 
+flow rate to the soil, means with the dripper? And, how long the water is being supplied? And 
+it will depend upon, what is the soil properties? And then what is the depth of root zone and 
+the rooting density? So, soil-water interaction, all these parts are supposed to be incorporated 
+while modeling. So, these models could be physically based, analog-based, or mathematical 
+models.  
+ 
+So, one of the simple model which was developed by Simunek et al. in 1999. That is 
+HYDRUS-2D, initially, he started with this 1D then HYDRUS-2D came and then he has used the van Genuchten formula and Brooks and Corey formula in developing the solution of that 
+model. So, the volume balance approximate solution with and specialized cases of the closed-
+form solution for this have been applied.  
+ 
+So, the equation which I explained to you there, this equation here we are taking the steady-
+state condition means theta is independent of time. And then the hydraulic conductivity is 
+expressed as Kh. Kh means it is a function of the pressure. So, which is a negative pressure 
+means soil water tension. That is given by K(h) = K s exp (α h). It is an amenable analytical 
+solution via the linearization process.  
+ 
+So, a generalized equation for the positive downward direction for the steady-state form was 
+proposed by Warrick in 2003. This equation has been used.  
+𝛻2∅ − 𝛼𝜕∅
+𝜕𝑧= 0    
+And this phi here what we are given it is given by this equation  
+∅ =∫𝐾(ℎ)𝑑ℎ =𝐾𝑠exp⁡ (𝛼ℎ)
+𝛼ℎ
+−∞  
+Where, 
+∇2  = the Laplacian operator 
+Ks = the saturated hydraulic conductivity 
+α =  a soil specific parameter (L-1) 
+So, this is the solution of this equation in terms of the integration form. And these are the 
+parameters. And the value of this particular parameter that is alpha it is a soil-specific 
+parameter which is given by this Amoozegar-Fard et al. 1984. He has listed the value of alpha 
+for a variety of soils.  
+ 
+These are some of the forms where the dripper is placed on the surface. When the dripper is 
+placed at the subsurface, the type of flow when we are considering that there is a strip of line 
+source dripper and water is being given or this source water is being given. This is a 2D array 
+of lines of 1D uptake means water is being taken . 1D part and this is a 3D approach so, a 3-
+dimensional point source with the cylindrical uptake. So, these are the steady-state way of 
+supplying water. And then the solutions have been developed considering these flow 
+geometries. So, in the 2-dimensional cases such as arising around the line source, we are 
+considering that along the y axis the water is taken as the y axis or radial.  
+ So, y is considered in the radial direction particularly x, y, z, when we are talking. So, x and y 
+are brought in terms of radial components. So, for the 3-dimensional case, the points in the 
+radial axis are denoted by r. So, x or r, x means here x-direction, that is r because it involves x 
+and y both the components. So, the source of water provides constant inflow. That is a q is 
+the rate of inflow. That is a discharge rate. And this is non-wetted boundaries are assumed to 
+extend to infinity.  
+ 
+So, for the buried point source emitter, the approximate solution is given by  
+∅3𝐵= (𝛼𝑞
+8𝜋𝜌) exp⁡ (𝑍 − 𝜌)   
+So, Z is 0.5 alpha into z. And then R is 0.5 alpha into r. So, rho is given by Z square plus R 
+square. So, these 2 components have been utilized to find out the value of rho. So, means rho 
+involves the radial direction. Rho involves the value of the alpha also. So, this is one of the 
+simplest analytical expressions to drip irrigation or flow from a buried source. In order to 
+calculate the pressure head, we need to have the value of alpha, Ks, and q should be known.  
+ 
+Now, the first step is to calculate the matric potential so, this has been put up as the psi equal 
+to psi 3B and then h is related by this particular function that is  
+ℎ = 𝛼−1ln(𝛼∅
+𝐾𝑠)  
+So, we are using this particular thing, so, the reason for this psi is large when h is greater than 
+0. It should be disregarded or an alternative solution is sought.  
+ 
+So, a more realistic model for a surface point source, there we were talking about the buried 
+source, now, here for the surface flow. And when the surface point emitter is given that is the 
+previous case. Let me just show you the diagram. This is your 2B. When the point source we 
+were talking about this part previous one. And here we are talking about this part. So, this is 
+Figure 2B. And then the equation has been obtained, this is the equation.  
+∅3s= 2 [∅ 3B− exp (2Z)E1(Z−ρ)
+ρ]   
+And this equation is to be solved by using Euler ’s function, which is Euler ’s equation. This is 
+Euler ’s equation.  
+𝐸1(𝑢)=∫𝑡−1𝑒𝑥𝑝(−𝑡)𝑑𝑡∞
+𝑢  
+So, Euler ’s equation, because this particular integral can be solved by using Euler ’s equation. 
+So, this has been obtained.  𝐸1(𝑢)= −𝛾 − 𝑙𝑛(𝑢)+∑(−1)𝑖𝑢𝑖
+𝑖 𝑖!∞
+𝑖=1  
+Now, here are the 2 cases, one is when the drip emitter is placed at the surface and another 
+case is the drip emitter is placed in the subsurface case. And then the flow rate for the surface 
+case is 1.19 into 10 is to the power minus 7 cubic meter per second. And in another case, that 
+is your subsurface case, the amount of water it is 4.44 into 10 is to the power minus 7 liter per 
+second.  
+ 
+So, this is the saturated hydraulic conductivity that is given and the value of alpha is also 
+given. So, these soil moisture movement data for the different time values were obtained. 
+These are the values that have been obtained. The contour becomes elongated vertically 
+showing the effect of gravity as the distance pressure from further it is moves out. This is the 
+way how the soil water distribution takes place when there is a steady-state flow.  
+ 
+For surface ponding, in the case of the steady-state flow for surface ponding, Bresler has 
+obtained the solution where r naught can be estimated by equation 20.  
+𝑟𝑜= (4
+𝛼2𝜋2+𝑞
+𝜋𝐾𝑠)0.5
+−2
+𝛼𝜋  
+So, here again, you will find that r naught is the radius of ponding. It is not the total radius of 
+this. This is the radius of ponding. This radius of ponding can be estimated by using this 
+expression. It will increase with either increasing the flow rate. When the discharge q is 
+increasing means you are taking the higher discharge rate drip emitters or decreasing the 
+value of the saturation or decreasing the value means saturated hydraulic conductivity. So, 
+one can find out the radius of ponding. 
+ 
+When we are considering the line source, so, for line source, it is we are considering as if it is 
+a buried dripper, or it is an inline dripper that is buried below the ground level to a certain 
+depth. And then the equation for the movement of water or hydraulic potential, it has been 
+obtained. And now here this particular equation if you see  
+∅2𝐵(𝑋, 𝑍)= (𝑞𝐿
+2𝜋) 𝑒𝑥𝑝 (𝑍)𝐾𝑜[(𝑋2+ 𝑍2)0.5]  
+with  
+          K o = a modified Bessel function of the second kind,  
+         q L = the line strength (L2 T-1) [a volume of flow per unit time per unit length of line] 
+        X = 0.5 α x;         and        Z = 0.5 α zo.  So, we will be using the Bessel function table to substitute the value for when we are finding 
+out this.  
+ 
+And then in the case of unsteady state k to capture the dynamic changes in the soil water 
+associated with the initial wetting and intermittent irrigation, the redistribution, the transient 
+linearized form of Richard equation is used. So, this is a general equation of the water 
+movement through drip emitter, particularly for unsteady-state flow. So, this is given by the 
+change in the soil moisture content with respect to time t.  
+𝜕𝜃
+𝜕𝑡=𝑘
+𝛼𝛻2∅ − 𝑘𝜕∅
+𝜕𝑧  
+This is your hydraulic conductivity function. This is the soil water function. And del square 
+phi, this is the second-order derivative of phi means we can write here del square phi by del x 
+square plus del square phi divided by del y square plus del square phi by del z square. So, this 
+is the gradient square of this one minus k delta phi by del z.  
+ 
+When we are considering the vertical movement where k is the function of delta theta. Here k 
+is moisture content. So, this critical assumption limits solution applicability to narrow 
+increments of water content change within the soil volume.  
+ 
+So, when we are considering the unsteady-state flow case, you can see how the matric 
+potential is changing particularly we have been given this data. This means we know that 
+alpha is known. And then Ks is also known. And this K is also known which is given by 
+these values. And for the r means, this is your radial direction when r equal to 0.1 and z equal 
+to 0.1. So, the symbol here, the triangular symbol this is the case.  
+ 
+So, up to this part, you can see how with time the matric potential of the water movement 
+through a surface drip system is changing. And after a certain time, it becomes your steady. 
+So, here from this point onwards after 20 hours, you see this has become an almost steady 
+state. Similarly, when r equal to 0.3 and z equal to 2.3, this particular graph which you see.  
+ 
+This is the graph which is available for other cases. This is for subsurface drip when the 
+dripper means point source dripper is placed below the soil surface. And when your line 
+source drip emitter, it is buried below the ground level. How the matric potential with time it is changing when these are the constant parameter that are available. And then these cases, 
+when we have, the prediction has been made.  
+ 
+So, when it is fitted so, these values for the r equal to 0.3, z equal to 0.1. r equal to 0.2 and z 
+equal to 0.5. And, r equal to 0.2 and z equal to 0.5. So, for the different time intervals, how is 
+the matric potentiality changing? So, you can compare. We can compare the, of course, K s is 
+different. This is Ks equal to 0.49. This is so this is half of the Ks. You can see it here. The 
+alpha is also different and k, small k is also different.  
+ 
+But, what we see here that the how the matric potential with time is changing. So, measured 
+and calculated values of matric as a function of time for surface and the buried source at 0.3 
+meter it is shown. When the initial soil water content is 0.18 and then the rate of flow we can 
+say or discharge of the dripper is 1.6 liter per hour. This is the, developed by Coelho and Or 
+in 1997.  
+ 
+So, these are the references to go through more deeper into this topic. Particularly, when the 
+soil water content is changing with respect to time. And also when the moisture content it is 
+changing when the discharge rates are varying.  
+ 
+So, in this particular lecture, we learned about the soil-water characteristic curve, sorption, 
+and desorption case. We also learned about the soil water movement of drip emitter. How 
+Darcy ’s law and Richard equations are being used. We, particularly for the soil water 
+movement, in the case of drip emitters, the quasi-linear solution to Richards ’ equation for 
+steady-state and transient conditions have also tried to learn.  
+ 
+So, in the forthcoming lecture, we will learn about the design and development of a drip 
+emitter. Thank you very much. 
+ 

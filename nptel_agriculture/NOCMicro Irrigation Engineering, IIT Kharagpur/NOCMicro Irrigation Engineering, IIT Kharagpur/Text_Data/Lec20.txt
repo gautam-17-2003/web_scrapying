@@ -1,0 +1,281 @@
+Micro Irrigation Engineering 
+Prof Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture-20 
+Tutorial 4 - Numerical Examples on Water Measurements and Pumps 
+ 
+Hello participants, we will be taking tutorial class 4 on the topic of measurement of irrigation 
+water and we will be discussing about the pumps, the problem which we dealt with in theory 
+class we discussed about pumps. So, we will go in to detail and you will have the practice to learn 
+by solving the problems on pumps, as well as the measurement of irrigation water.  
+ 
+So, let us come directly to the problems. Water discharging through a tube well passes through a  
+rectangular weir of 45 centimeter long means i ts crest with length 45 centimeter and water over 
+the crest is 12 centimeter that is the head. We are required to determine discharge under the 
+following condition, with no end contraction, with one end contraction, with two end 
+contractions.  
+ 
+So, the effective length of the weir is without reducing the length, another one is reducing the 
+length. So, there is a specific formula that is to be taken care of while we are using one end or 
+two end contractions. Now, if discharge of the same rectangular weir with no end contraction 
+this is the thing which is given means the discharge which we are getting from the case, it passes 
+through a 90 degree V-notch. What will be the head over a we ir? So this is the question which is 
+given to us that what will be the head of water over the crest of 90-degree triangular weir.  
+ 
+So, it is a very simple thing, length is given, the length of the weir crest is 45 centimeter, head 
+over the rectangle weir is 12 centimeter. So, a standard Francis formula is available when weir 
+has no end contraction, the discharge Q is given by  
+𝑄 = 0. 0184 𝐿𝐻3
+2  
+L is known to us, H is known to us, simply using these values and one can get the discharge from 
+the weir.  
+  
+= 0.0184 ×45× (12)3
+2    
+=34.42 𝐿𝑠−1  
+So, this discharge is coming as 34.42 liter per second when we have got no end contraction. 
+When one end contraction means the length is reduced. Now, when one end contraction, so, this 
+effective length is reduced L minus 0.1 H, the 0.1 H will be reduced from the length, and then it 
+will be used. So, you have length to reduce and then the remaining formula will be same for 
+discharge Q,  
+𝑄 = 0. 0184 (𝐿 − 0.1𝐻)𝐻3
+2  
+ 
+So, just simply we are substituting because L is known to us that is 45 centimeter and H is 
+known to us that is 12 centimeter and we are substituting the value and we get reduced discharge 
+as compared to previous one because effective length is reduced.  
+= 0.0184 × (45−(0.1 × 12))(12)3
+2    
+=33.50 𝐿𝑠−1  
+Now, when two end contraction, means both the side this means the contraction is there. So, 
+effective length is reduced by L minus 0.2 H and then substituting the value s,  
+𝑄 = 0. 0184 (𝐿 − 0.2𝐻)𝐻3
+2  
+𝑄 = 0. 0184 × (45−(0.2 × 12))(12)3
+2    
+𝑄 =32.58 𝐿𝑠−1  
+ 
+we get the total discharge Q equal to 32.58 liter per second. Now, discharge from 90 degree V-
+notch is the same as discharge come for no end contraction. So, discharge from 90 degree V- 
+notch is given by  
+𝑄 = 0. 0138 𝐻5
+2  
+This is also a Francis formula where Q is expressed in liter p er second, H is in centimeter.  
+𝐻 = (𝑄
+0.0138)2
+5   
+= (34.42
+0.0138)2
+5   =𝟐𝟐.𝟖𝟒 𝒄𝒎  
+ 
+So, in this expression we are just simply substituting the values and so, we are getting the value 
+of 22.84 centimeters. So, this is the desired answer for the flow-through 90 degree V-notch.  
+ 
+Now another question is given, this question is basically we want to know what would be the 
+capacity of the centrifugal pump. A farmer has a landholding of 5 he ctares with a cropping 
+pattern given in the table. So, what are the cropping pattern? He is growing wheat, cotton, 
+vegetable s, and mustard, and the total area in this question is 5 he ctares. So, this 5 he ctare is 
+distributed in different crops and each crop requires a certain depth of irrigation which is given 
+corresponding to each crop. So, these are the values of depth of irrigation and then irrigation 
+interval that rotation period it is given as 12 days for wheat, 20 days for cotton, vegetable 10 
+days and mustard 40 days and daily operating time of the pump it means for each day. S o, all 
+these crops it requires 10 hours each day.  
+ 
+So, these are the data available and we want to know what is the capacity of the pump, that of 
+centrifugal pump, farmer wants to have that pump ?  
+𝑄 =27.78 𝐴×𝑦
+𝑅×𝑇    
+The discharge capacity of the pump can be given by area into the depth of irrigation multiplied 
+by the rotation period or irrigation interval multiplied by the number of hours per day operation. 
+And this is calculated in terms of liter per second. So, area is in hectare, while the depth of 
+irrigation in centimeter, the irrigation interval or rotation is in days and T the time of daily 
+operation of the pumping hours.  
+ 
+So, simply we are substituting the value because for wheat 2 hectares is given, depth of irrigation 
+is 7.5 centimeter. So for each crop, using these value the proportions have been calculated and 
+we are getting the values calculated here for each crop these are from 0.125, 0.015 likewise. So, 
+all that is calculated,  
+=27.78 (2×7.5
+12×10+0.4×7.5
+20×10 + 0.4×9.5
+10×10 + 2.2×5
+40×10) 
+=27.78 (0.125+ 0.015 + 0.038 +0.028) = 5.  72 𝐿𝑠−1  
+and then we are getting the discharge capacity of the pump should be 5.72 liter per second.  So, 
+this is the discharge capacity of the pump. So, this theory part of this question was discussed in 
+the theory class and we are also solved once that how th is information can be utilized fo r 
+deciding the capacity of the pump. 
+ 
+The third question here is given a pump lifts water of 1 lakh liter per hour. So, this is the 
+discharge of the pump against a total head of 25 meter. So, this is the head requirement it i s 
+given. Now we are required to compute water horsepower if the pump efficiency is 75%. What 
+will be the size of prime mover to operate this pump if a direct-drive electric motor having an 
+efficiency of 80% is used.  
+ 
+So, another data available that efficiency of the motor is given, compute the cost of electrical 
+energy in a month of 31 days and if the pump is operated 10 hours daily and the cost of electrical 
+energy per unit is rupees 4.5. So, 4 rupees 50 pieces per unit are being charged . The pump is 
+operating for 31 days and each day the pump is operated for 10 hours efficiency of a motor is 
+80% efficiency of the pump is 75%. 
+ 
+The pump is operating at a total head of 25 meter and at this 25 meter it is delivering discharge 
+of one lakh liter per hour. So, these data are available, which I have told you here these data on e 
+can see that whatever I have told this information is available. So, ho rsepower is given by  
+𝑊𝑎𝑡𝑒𝑟  ℎ𝑜𝑟𝑠𝑒  𝑝𝑜𝑤𝑒𝑟(𝑊𝐻𝑃) =𝐷𝑖𝑠𝑐ℎ𝑎𝑟𝑔𝑒  (𝐿𝑠−1)×𝑇𝑜𝑡𝑎𝑙  ℎ𝑒𝑎𝑑  (𝑚)
+76  
+So, we are just simply substituting, the discharge is given this we are converting because this is 
+in liter per hour.  
+𝑊𝐻𝑃 =100000 ×25
+76×60×60= 9.14  
+So, this is coming at 9.14 as water horsepower. Now, shaft horsepower is WHP divided by pump 
+efficiency. So, pump efficiency is given as 75 % and WHP 9.14. So,  
+𝑆𝐻𝑃 =9.14
+0.75=12.19  
+It is a simple calculation we are dividing and since it is given the pump is direct driven, the shaft 
+horsepower is the same as brake horsepower. So, it is very simple that because it did you know last. So, the horsepower is the same as the shaft horsepower because it is direct driven. So, now 
+we want to know what the power input to an electric motor is. So,  
+Power  Input  to electric  motor  =Break  horse  power×0. 746
+motor  efficiency  
+So, we have already got the value of brake hose power is same as the sha ft horse, so  
+Power  Input  to electric  motor  =12.19×0.746
+0.80=11.37 kW  
+So, total energy consumption per month will be a power input to the motor this is 11.37 kilo-watt 
+and time of operation of the pump this data is available to us. So, the daily time of operation is 
+10 hours operation period is 31 days.  
+= 𝑝𝑜𝑤𝑒𝑟  𝑖𝑛𝑝𝑢𝑡  𝑡𝑜 𝑒𝑙𝑒𝑐𝑡𝑟𝑖𝑐  𝑚𝑜𝑡𝑜𝑟  × time of pump operation × operation period 
+ = 11.37 × 10 × 31 = 3524.7 kWh (Unit)  
+So, we are getting a total energy consumption of 3524.7 kilowatt-hour.  
+ 
+Now, we have been given the electrical charges. The charge is 4 rupees 50 paise. So, we will ge t 
+it. So, we will be getting the value that is 3524.7 multiplied by 4 rupees 50 paise. So, these will 
+be the electrical charges. So, this particular part to normally when we are interested to know that 
+how the electrical units are converted and then whatever is the appropriate charges it that can be 
+obtained. 
+ 
+Question 4, is relevant to the measurement of irrigation water which is given as a Venturimeter is 
+used to measure water flow rate in a micro irrigation system. Now, pressure difference across the 
+Venturimeter means there are 2 manometers which are connected one is at the inlet end that is 
+your converging section , one is at the throat section. So, in these 2 places the mano meter we are 
+getting the values of pressure. And that pressure difference between means at converging secti on 
+and the throat section this is given equivalent to 8 meter. The pipe diameter is 19 centimeter, the 
+throat diameter 10 centimeter, in the throat the region, due to contraction the pressure difference 
+will take place so this diameter is given. Coefficient of discharge for Venturimeter is 0.96. W e 
+are required to find out the flow rate in the pipe where this Ventrimeter is used. We are using 
+Venturimeter to monitor the discharge through the pipeline having the se dimensions.  
+ So, the pipe diameter is given 19 centimeter , pressure head difference across these 2 places in the 
+Venturimeter is 8 meter and then the diameter of the throat section that is 10 centimeter, 
+coefficient of discharge 0.96. So, those are the data and it is a straightforward Q,  
+𝑸 = 𝑪 𝒅𝑨𝟏𝑨𝟐√𝟐𝒈𝒉
+√(𝑨𝟏)𝟐−(𝑨 𝟐)𝟐  
+Now A1 refers to the area cross-section of the pipe. A2 refers to the area cross-section of the 
+throat section. H refers to the pressure head difference. So, for these 2 diameters we need to find 
+out the area. So, the area of the pipe is obtained as 2.84 into 10 to power minus 2 square meter . 
+A2 for 10 centimeter diameter we are getting 7.85 into 10 is to power 3 square mete r and having 
+got these values we need to just simply substitute these values we are getting the value as 0.095 
+cubic meter per second which can be written as in the liter per second that is 95 liter per second. 
+Now, this way we will find out, we got the discharge through the pipeline. 
+ 
+Question 5, it is given here actual velocity of liquid passing through a 7 centimeter diameter 
+orifice this is your orificemeter or orifice plate and it has fitted in an open tank which is receiving 
+water as 6 meter per second velocity. The velocity of flow is 6 meter per second. If the velocity 
+coefficient and discharge coefficient, s o velocity coefficient Cv is 0.91 and discharge coefficient 
+for this orifice is 0.67. So, we are required to find out the actual discharge through the orifice.  
+ 
+So, the diameter of the orifice is known to us, the velocity of flow is known to us, Cd that is the 
+coefficient of discharge is known to us that is 0.67 and coefficient of the velocity of this orifice is 
+0.91. So, the velocity of flow through an orifice is given by  
+𝑉 = 𝐶 𝑣×√2𝑔ℎ     
+6 = 0. 91√2 × 9. 81× ℎ  
+ℎ = 2. 22 𝑚  
+So, this is velocity known to us from using this particular expression one can know what is the 
+height from the center of the orifice to the water level. So, one can know what is the height of the 
+water from the center of an orifice. So, we are required to find out actual discharge in the o rifice. 
+So, actual discharge in the o rifice is given by the coefficient of discharge multiplied by the cross-
+section area into root 2gh. The root 2gh i s the velocity component and this is the coefficient of the discharge component. So, Cd is known to us that is 0.67. The area we have to get the area 
+calculated for this diameter. So,  
+Q = C d× a × √2gh  
+Q = 0. 67× (π
+4× 0.072) ×√2 × 9. 81× 2.22  
+Q = 0. 017 m3
+s=17 Ls−1  
+So, once we are calculating this value actual discharge comes out to 0.017 cubic meter per 
+second which is equal to 17 litre per second. So, this is the answer to question 5 where we were 
+required to determine the discharge from the orifice. 
+ 
+Now in question 6, we are given the centrifugal pump which is running at a speed of 1800 rpm at 
+its best efficiency point and at discharge of 50 liter per second. So, rpm is known to us, and then 
+the discharge is known to us and then we are given a total head of 30 meter. We are required to 
+determine the specific speed of the pump. So, the 6th problem is related to pump calculation of 
+specific speed this relates to pumps. 
+ 
+Now, the pump which is given it has a speed 1800 rpm, discharge 50 liter per second which is 
+equivalent to 0.05 cubic met er per second and height as 30 meter. So, it is a straightforward 
+problem where we are substituting the values in a specific speed formula. A specific speed 
+formula is given by  
+Ns= nQ1
+2
+H3
+4  
+So, we are substituting value and it is given from the question that is 1800, and then discharge is 
+given at 0.05 cubic meter per second and then head of the pump is 30 meter. Just simply we are 
+substituting the value  
+Ns= 1800 ×(0.05)1
+2
+(30)3
+4  
+and we get a specific speed of this pump as 32 rpm. So this is the answer. So, the pump, given 
+one is speed but a specific speed of the pump can be a specific value which will depend upon the 
+speed of the pump, it will depend upon the discharge of the pump, it will depend upon the operating head of the pump. So, this is an important index that is used so for when we are 
+selecting a pump. 
+ 
+Now, question 7 also relates to a pump. Here we are required to determine a practical suction lift 
+for a pump having discharge 38 liter per second. Water temperature is 20 degrees Celsius at 
+which saturated vapor pressure is 0.24 meter. So, it has a discharge of 38 litre per second and 
+saturated vapor pressure is 0.24. Total friction loss in 10 centimeter diameter pipe and fitting is 
+1.7 meter.  
+ 
+So, this data is also available that what is the frictional loss which takes place in the pipeline? 
+And frictional loss in the pipeline plus fittings, so, this is equal to 1.7 meter. This pump operates 
+at an altitude of 300 meter above the mean sea well. So, here one important point it has come, it 
+is above 300 meter means it is operating at 300 meter above mean sea level. Now, use altitude 
+reduction for atmospheric pressure at the surface for a sea level of 0.36 meter.  
+ 
+So, when we are going above the level, the reduction in the atmospheric pressure that particular 
+value is also known that is 0.36 meter. Net positive suction head of the pu mp which is normally 
+supplied by the manufacturer is 4.7 meter and we are considering in the question it is given that 
+means the factor of safety is given as 0.6 mete rs. So, these are the data available to us, we are 
+required to find out the maximum practical suction lift.  
+ 
+So, I am just repeating the data, we have been given pump discharge 38 liters per second which 
+is equivalent to 0.05 cubic meter per second. We are given vapor pressure value as 0.24, head 
+loss due to friction in the pipeline and fitting it 1.7 meter, we have been given net positive 
+suction head that is NPSH 4.7 meter. We have been given the factor of safety as 0.6 meter since 
+the pump we are considering for 300 meter. This particular part of this elevation, altitude is 
+causing so, this will reduce your suction and so, this altitude reduction is 0.36 meter. So, these 
+value s are given. Now we will be obtaining the value. So, here it is given that atmospheric 
+pressure at the water surface is 1 kg per square centimeter which is equivalent to 10.33 meter and 
+this atmospheric pressure at 300 meters means we are going above sea level. So, this is to be reduced by 0.36 meters for this value it is coming as 9.97 meter. So, maximum practical suction 
+lift for a pump is given by the formula  
+Hs  = Ha -Hf  -es -NPSH-F s 
+ 
+ 
+Where H a is given to us that is 9.97, Hf is given that it is the head loss to friction that is given Hf 
+is given as 1.7 meter saturated vapor pressure 0.24 meter, NPSH with 4.7 meter and factor of 
+safety is 0.6 meters. So, simply we need to substitute the value to get a maximum practical 
+suction lift of this pump. So, we are just substituting this value 
+𝐻𝑠= 9.97 − 1.7 − 0. 24− 4.7 − 0.6  =2.73 m 
+So this is equal to 2.73 meter. So, this is my answer. So, this particular question was also relating 
+to pump. And these parameters are important while we are selecting a pump for installation in a 
+given set of conditions.  
+ 
+So, we have solved these problems, you may refer to books by James, you may refer to books by 
+A. M. Michael that Irrigation Theory and Practice and then S. D. Khepar, A. M. Michael, S. K.  
+Sondhi they have written a book which is on Water Wells and Pumps this can be also used. You 
+can refer to the book Land and Water Management engineering by V. V. N. Murthy. 
+ 
+Let me summarize this, we solved tutorial by considering the numerical problems on 
+measurement of irrigation water and irrigation pumps. Now, forthcoming lecture we will discuss 
+about irrigation methods, thank you very much, good day.  
+ 

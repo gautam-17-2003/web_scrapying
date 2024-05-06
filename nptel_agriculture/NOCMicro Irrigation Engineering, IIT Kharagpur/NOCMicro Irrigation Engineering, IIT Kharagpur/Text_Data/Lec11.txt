@@ -1,0 +1,270 @@
+ 
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur 
+ 
+ Lecture - 11 
+Tutorial 2- Numerical Examples on Crop Water Requirement 
+ 
+Hello participants. Now, we will discuss a tutorial problem dealing with evapotranspiration. In 
+previous lectures, we dealt with a field demonstration of Lysimeter, we also dealt with agro-
+metrological instruments, where various parameters relating to estimation of evapotranspiration 
+we have dealt. 
+ 
+Now, observations collected from a particular place, related to climatological data, how these 
+data can be used to estimate evapotranspiration? We will demonstrate, we will work out some of 
+the numerical examples to give you more confidence on the topic of evapotranspiration. 
+ 
+So, let us come to question 1, where you have been given some data and then we will estimate 
+evapotranspiration. So, question one, we are given daily evapotranspiration data and effective 
+precipitation Pe means rainfall data in the table. The root zone depth of a crop is 60 centimeter. 
+We are given soil water content on the morning of December 1 is 17%.  So, December 1 data is 
+available. The field capacity of the soil is 18.5% and irrigation is being given by micro-irrigati on 
+system. So, the condition is given that when we are given micro-irrigation system 80% of field 
+capacity is to be maintained. So, we will see that what should be the date of the next irrigation? 
+So, data are given for the 6 days where we can see here December 1, December 2, Dec ember 3, 
+December 4, 5, 6, 6 days data are available to us where evapotranspiration data for each day  are 
+available with us. And then in six days period on December 2, 8 millimeter of rainfall it has 
+occurred. So, we will work out what should be the next date of irrigation?  
+ 
+So, data it is given that before applying irrigation means your December 1, beginning of the 
+December 1 in the morning of December 1 data is available that moisture content is 17% which 
+is available with us and crop root zone depth is 60 centimeter moisture content of the soil 18.5% and critical soil moisture content means this is the amount of moisture that should be available in 
+the soil. This is the important thing.  So, we will give irrigation when moisture content will reach 
+below 14.8% or equal to 14.8%, we will not allow the moisture content to go below 14.8%.  
+ 
+So, moisture content at any ith day 𝜽𝒊 is equal to  
+𝜽𝒊= 𝜽 𝒊−𝟏−𝟏𝟎𝟎(𝑬𝑻−𝑷𝒆
+𝑫𝒓𝒛)  
+Where, 
+𝜽𝒊−𝟏 is the moisture content in the previous day,  ET means evapotranspiration, 𝑷𝒆 is effective 
+precipitation or rainfall, and 𝑫𝒓𝒛 is root zone depth.  
+ 
+This is giving on the ith day that is on the first day, the amount of moisture content when we are 
+substituting the value, this is your 17% and 2.98 is the value of your ET, which is 2.98 millimeter 
+and rainfall on this day is 0 and then root zone depth is 60 centimeter that is equal to 600 
+millimeter. 
+𝜽𝒊=𝟏𝟕−𝟏𝟎𝟎(𝟐.𝟗𝟖−𝟎
+𝟔𝟎𝟎) =𝟏𝟔.𝟓𝟎𝟑𝟑   
+So, when we are estimating it becomes 16.5% of rainfall that is moisture content by volume. So, 
+like this we will be estimating the amount of theta i then this is theta i plus 1 this becomes your 
+theta i minus 1 for the second day. So, this will be continued and we will estimate that when the 
+irrigation should be given.  
+ 
+So, we are finding that on second day second of December this is 17.21 because 8 millimeter of 
+rainfall it had been added. So, 3.75 millimeter of evapotranspiration has been withdrawn by the 
+plant and the next day we are getting 16.6, the next day again on December 4, it will be 15.98. 
+So, this calendar is maintained and what we are finding is that the December 6 the moisture 
+content will come to the value of the answer, so, this is a water budgeting. So, water budgeting is 
+being done, and we find that on December 6 irrigation should be given.  So, that the crop does not 
+get any deficiency of soil moisture content. So, this is the way we need to see that here 14.8 so, 
+this is the desired on seventh of December irrigation will be given.  
+ Now, this is another problem. The second question here we are given evaporation data from 
+Class A Pan. This is the Pan Evaporimeter data are available and pan coefficient for the 
+measurements site having medium relative humidity and the wind is light. So, these two 
+consideration are there at the site that the RH medium and if there is a light wind speed. So, the 
+pan value for this pan coefficient is 0.8 and we are required to find out crop evapotranspiration 
+when the crop coefficient is 0.95. So, for 10 days data pan values are available. So, each pan 
+values are 12.2, 11.2 millimeter on December second and similarly, when coming to the 
+December 10 there is a 5.8 millimeter is the pan evaporimeter data. 
+ 
+So, we will be using the pan data and then pan coefficient value, we will get ET 0 that is the 
+reference crop evapotranspiration. And then the crop evapotranspiration ET c is estimated by 
+using this expression this already I told you in the class that ET c is equal to reference 
+evapotranspiration into crop coefficient. So, the crop coefficient is also known as that in 0.95.  
+ 
+So, we are just simply multiplying the pan coefficient with pan value and we are getting at ET0 
+value. So, ET 0 from December 1 to December 10 is calculated like this which you can see here 
+Ep multiplied by Kp that this gives the value of ET0 at 9.76 and this ET 0 9.76 is multiplied by 
+crop coefficient is 0.95 so, ETc for December 1 is 9.27 millimeter. Similarly, for other dates, we 
+can calculate for the second of December.  
+ 
+This is 11.2 pan coefficient is 0.8. So, similarly, the ET 0 calculated this is 8.96 millimeter and 
+when we multiply by the crop coefficient it becomes 8.51 millimeter. So, this way we will get 
+the value of actual crop evapotranspiration for different days as it is asked given in the question. 
+So, this way we compute the value of crop evapotranspiration.  
+ 
+Now, in question three we are calculating consumptive use of a crop, and the method is given as 
+the Blaney-Criddle method. So, here in this one given that it is the month of June and for a place 
+that has a latitude of 28 degree north latitude. So, 28 degree north, it is in India, if you see that 
+this falls in Delhi and the monthly percentage of daylight hours this is your daytime hours is 9.58 
+hours.  
+ So, 9.58, this is the monthly percentage of the daylight hour this data will be used and the norma l 
+temperature for the June month is 30.5 degrees Celsius. And consumptive use coefficient is 
+given 0.62. So, we have been given here the monthly percentage of daylight hours. Now, these 
+daylight hours, when I was showing you the Campbell-Stoke instrument, there was a paper 
+which was giving you the how many hours daylight hours it is there so. From there we are 
+getting for daily and then it is converted in percentage for the whole year. So, it is 9.58 and then 
+this is the value of air temperature. So, the average monthly temperature of June is 30.5 was 
+obtained for this particular place. So, this value is also obtained which is the air temperature. 
+And consumptive use coefficient is given so we will now let us work out this example. 
+ 
+So, here T is given 30.5 and P given at 9.58. What is p? p the percentage of the daylight hours 
+and then using the Blan ey-Criddle formula. So, the Blan ey-Criddle formula says that  
+𝑷𝑬𝑻 = 𝟎. 𝟒𝟔 𝒑 ( 𝑻 +𝟏𝟕. 𝟖 )  
+So, T is in degrees Celsius. So, simply we will substitute the value 0.46 and then 9.58% that 
+value we are substitute T 30.5. So, when we work out this becomes 212.85 millimeter. Now, this 
+is PET and then we have been given the data of consumptive use coefficient. So, we will 
+multiply it with the consumptive use coefficient with PET. So, the PET value is 212.5. This is 
+the same as your ET 0. So, ET 0 is multiplied by the consumptive use coefficient. So, we are 
+getting the value of consumptive use for the particular month. This is for particular month. Now, 
+if the crop is of 4 months duration. So, we will be computing CU value for each month in the 
+same way and then we will sum these values and that will give the total seasonal consumptive 
+use.  
+ 
+So, one has to use the appropriate value sometimes we are using crop coefficient value and then 
+for 6 months, for the whole year like this. So, the whole year data that means your consumptive 
+use for the particular crop it can be obtained. Say sugarcane crop is being grown which is for one 
+year and then if it is a vegetable crop it is 60 or 90 days. Similarly, for other crops, this method 
+can be used.  
+ 
+Now, for the Kharagpur condition we have been given data, this is your unadjusted PET, we 
+have been asked to compute the potential evapotranspiration value using the Thornthwaite method. So, data are available for a particular month and these data are for 12 months, not a 
+particular month, this is for the 12-month data. So, month one let us say January month and the 
+temperature for January month let us say the average temperature or T mean in degrees Celsius is 
+12.9 and then the February 14.8 like this this data are available up to December. Now correction 
+factor is applied to get the actual payoff potential evapotranspiration is to be applied. Initially, 
+we will get an unadjusted value then the correction factor is to be applied. What is this correction 
+factor? This correction factor is for an actual sunshine hour of a place, theoretically it is given as 
+if all the one day is considered as 12 sunshine hour but actual sunshine hour is different. So, 
+actual sunshine hour divided by theoretical daytime that is a 12 hour. So, there will be some 
+particular factor and this will be always less than one in all the cases than another factor to be 
+multiplied by this number of days in a particular month. So, in the Thornthwaite method, it 
+calculates for 30 days duration. But say January month it will be 31 days in case of F ebruary it 
+will be 28 days.  
+ 
+In a leap year, it will be 29 days, like this the number of days in a month and when we come to 
+April it is 30 days when we come to June it is  30 days. So, there you know in the Thornthwaite 
+method we are taking the value. So, correction factor we can calculate if this information is 
+available to us. This correction factor is different for different latitude positions.  
+ 
+This is the table that has been provided, but how it is calculated here is the actual number of the 
+sunshine hour. So, the actual sunshine hour let us write h a divided by theoretical sunshine hour 
+that is 12 hours multiplied by the actual number of days in a month divided by 30 because in this 
+method it is in a month. So, the actual number of sunshine hours say I am just putting it in 
+January month, let us say the actual sunshine hour in January month, for Kharagpur say it is 8 
+hours. So, 8 by 12 and number of days say 31 in case of January month 31 divided by 30. So, 
+this particular calculation will be used to get the correction factor like this. So, this is alread y 
+estimated and given to us correction factor is given to us 0.93, 0.89, 1.03 like these values are 
+available to us. So, we will use this value to find out the actual potential evapotranspiration in a 
+particular month. 
+ 
+The formula for unadjusted potential evapotranspiration is given by  𝒆 = 𝟏. 𝟔(𝟏𝟎𝒕
+𝑰)𝜶  
+Now, in this, t is the mean temperature in a particular month and I is total seasonal heat index, 
+which is given by capital I and then a small i which is a summation of small i. So, summation of 
+small i, there will be 12 i. So, for each individual is I, it is calculated as,  
+𝒊 = (𝒕
+𝟓)𝟏.𝟓𝟏𝟒  
+Where t is mean monthly temperature. So, this will give us the value of a small i for each month. 
+We will get small i and then the summation of all 12 small i will give the capital I. And that 
+capital I is used to computing the unadjusted potential evapotranspiration. So, here the exponent 
+a is estimated by this empirical relationship as  
+𝑎 = 0.0000006751 (𝐼3)− 0.000071 (𝐼2)+ 0.01792 (𝐼)+ 0.49239   
+So, we will be calculating these value s and then we will substitute in this expression.  
+ 
+So, small i, for example, it is given we have a mean monthly temperature for month 1 that is you 
+can see here mean monthly temperature is 12.9 for month 1. So, we are here 12.9 divided by  5 to 
+the power 1.514. So, this comes as 4.2. So, like this for each month I ‘s are being calculated. So, 
+capital I will be the summation of these values of i January, i February or i March like this 
+summation we will calculate and having got the capital I, we will substitute in this particular and 
+then exponent a will be determined. 
+ 
+So, exponent, a is computed and it is coming at 3.2558. So, this is the value and then unadjusted 
+evapotranspiration, potential evapotranspiration is given by 1.6 10 t. So, 10 into t already we 
+know that at 12.9 for the January month, So, for each month value of unadjusted is obtained. 
+And then when we want to find out the adjusted potential evapotranspiration, we will multiply it 
+with the correction factor.  
+ 
+So, this is 1.4 we have got, so, 1.4 multiplied by the correction factor. So, the correction factor 
+already it is given in the table. Once again I am showing you this is given as 0.93 for January 
+month. So, this will be used to get the corrected potential evapotranspiration for the January 
+month like this we will get for all the months. So, annual PET is the summation of all PET. So, 
+this is 187.73.   
+So, here in this particular table entire whatever procedure I have explained to you, is all the data 
+it has been calculated for January 1, this value temperature is given to us, correction factor is 
+given to us, then we are calculating the monthly heat index from there we will get the capital I, 
+we will get a value exponent a then we are getting this value 1.4 this is unadjusted PET a nd then 
+1.3 is the potential evapotranspiration. So, this is the total summation of all 12 months. 
+ 
+Now, this is a value if I want to plan an irrigation system for a place, so what should be the 
+amount of water it should be available with us. So, this becomes useful information while we are 
+planning the storage system. Any storage system whether there is an ample water supply 
+available with us, with this will be the demand means potential opportunities will be the demand. 
+Now, this demand, of course, has been estimated by taken temperature alone in the data. So, 
+there will be some more corrections are needed when we incorporate other data by other 
+methods, but an estimate available to us this estimate can be used for designing a syste m. 
+ 
+Now, the question 5, here we are given another problem where this is with respect to water 
+management point of view. So, the following data were obtained in determining soil moisture 
+content at successive depths in the root zone prior to applying irrigation. So, here the data, soil 
+sampling has been done means total root zone depth. It is considered means sampling is done up 
+to one meter. So, first sampling is done there are two layers it has been considered.  
+ 
+So, the first sampling layer is 0 to 50 centimeter, next sampling layer is 50 to 100 centimeter. 
+Then moist soil which has been collected it is weighed and then the weight of this particular soil 
+sample is 135.44 gram and then when it is after 24 hours putting in the sample in the oven at 105 
+degree Celsius the dry weight sample is measured that 127.38 gram. Then in the next sample 
+which is collected from the 50 to 100 centimeter depth. 
+ 
+And in this one, the moist soil sample weighted 116.93 gram and then the dry weight of these dry 
+soil samples is 108.98. So, one can work out what will be the water available in the soil sample 
+when we subtract from moist soil to the dry soil, and then one can find out the gravimetric way 
+or volumetric way, what is the amount of water available in the particular soil layer? Now bulk density of this soil is considered uniform. So, bulk density is 1.6 gram per cm3 and the available 
+moisture-holding capacity of the soil is 18.2 centimeter per meter. So, this is the characteristics 
+of the soil means we can say this is a field capacity of the soil which can hold. So, 18.2 
+centimeter per meter the water that can be kept by the soil by its soil pores it is holding when the 
+gravitational water is allowed to flow through after the gravitational water is removed. 
+ 
+Now determine the moisture content in the root zone at the time of irrigation. The second part is 
+the net irrigation requirement, Third part is the grass irrigation requirement if the overall 
+efficiency of the micro-irrigation system is 90%. So, here are three parts which are asked one is 
+the available moisture content in the root zone at the time of irrigation. So, let us work out each 
+individual. So, bulk density of the soil is given 1.6 gram per cc, moisture-holding capacity of the 
+file is 18.2 centimeter per meter, irrigation efficiency with 90%. So, moisture content at first 50 
+centimeter depth, as I was telling you, we were finding out the moisture content by using the 
+gravimetric method. So, the weight of water, we will get a weight of water and then this is the 
+weight of water divided by the weight of the dry soil.  
+ 
+So, this becomes your; the 6.3275% is soil moisture content by gravimetric method and in this 
+value, if we are multiplying with the bulk density of the soil we can get the amount of water per 
+meter of the soil is 10.12 centimeter per meter. So, in 50 centimeter depth the water available 
+each 5.06 centimeter. Similarly, from 50 to 100 centimeter means one-meter depth we are getting 
+the amount of water 7.2949 and finally, this is the value 11.67.  
+ 
+So, since it is for in percentage it is calculated. So, we are considering the full one-meter depth, 
+but we will be known only for up to this depth, so, this is 5.84 centimeter. So, for the first 50 
+centimeter amount of water is 5.06 centimeter, the next 50 centimeter it is 5.84 centimeter. So, 
+the moisture content in the root zone at the time of irrigation when we are summing these two 
+values, adding these two values we get the value as 5.06 plus 5.84 this is equal to 10.9 
+centimeter.  
+ 
+Now, net irrigation requirement is available moisture-holding capacity minus moisture content at 
+the time of irrigation. So, moisture content at the time of irrigation is 10.9, and 18.2 is the moisture-holding capacity. This is your field capacity of the soil. So, the net irrigation 
+requirement is just subtracting these values from available water holding capacity minus 10.9. 
+So, this is the irrigation requirement.  
+ 
+Now, gross irrigation requirement is simple that is net irrigation requirement divided by 
+irrigation efficiency. So, it comes to 7.3 divided by 0.9. So, we are getting 8.11 centimeter is the 
+gross irrigation requirement. So, when we are required to determine the total irrigation 
+requirement for design purposes, we have to take care of how many crops are there and then for 
+these crops what is the net irrigation requirement. And based on that notification requirement, we 
+will work out the gross irrigation requirement accordingly irrigation planning can be done.  
+ 
+So, in this particular tutorial class, we have worked out numerical problems dealing with the 
+water budgeting part as well as the water which is evaporating from the pan evaporimeter. So, 
+how pan evaporimeter data can be used to estimate the evapotranspiration requirement of the 
+crop. Then, we also discussed two methods of data that were given. So, how to estimate 
+evapotranspiration by using the Blan ey-Criddle method, Thornthwaite method. 
+ 
+And also we worked outcrop irrigation requirements. So, these problems, of course, we 
+discussed in theory class, other methods also in the same way you can practice by using those 
+formula having given the data. So, fourth coming lecture, we will be discussing irrigation 
+scheduling.  
+ 
+Thank you very much. You can refer to these books for further more detail about working out 
+these problems on evapotranspiration determination. Thank you very much. 
+ 
+ 
+ 

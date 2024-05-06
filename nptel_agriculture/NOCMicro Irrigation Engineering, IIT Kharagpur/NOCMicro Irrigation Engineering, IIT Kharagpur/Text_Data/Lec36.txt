@@ -1,0 +1,397 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Department of Agricultural and Food Engineering 
+Indian Institute of Technology – Kharagpur 
+ 
+Lecture - 36 
+Design and Development of Drip Emitter 
+ 
+Hello, participants. Welcome to Micro Irrigation Engineering subject Lecture 36. Lecture 36 
+is kept for design and development of drip emitter. We discussed in the basic components of 
+micro irrigation system. And if you remember, dripper is one of the important components of 
+the irrigation micro irrigation system where water is emitting out at a constant flow rate in a 
+given pressure. So, in this lecture, you will understand how the basic fundamentals of fluid 
+mechanics have been utilized to develop, to design a drip emitter.  
+ 
+So, in this lecture, we will be discussing about, what is the basic theory involved? And, what 
+are the different design steps? How to make the simulation of water flow in the dripper? And, 
+how the prototype development of dripper it has been done and then i t's testing.  
+ 
+A dripper i s an important component. It is a critical component of micro irrigation or drip 
+irrigation system. The purpose of a dripper is to dissipate pressure so as to deliver water in 
+the form of droplets or a continuous tiny stream. And then the water which is coming out of 
+the dripper it is at a non-erosive velocity. It does not make erosion when it falls on the ground 
+surface.  
+ 
+So, when water is flowing through the dripper, this component, it is a 3 component dripper 
+which is commercially available in the market. Just I want to show you here a typical dripper 
+which is a 3 component dripper. Water is entering from this barb and this is the bottom base 
+of the dripper.  
+ 
+This is the outer base of the dripper, inside these 2 components means, this is the housing 
+where this particular component is fitted. This is a labyrinth button. So, water which comes 
+from the barb. There is a small hole and through this hole, water enters. And it passes through 
+this dentate labyrinth path. So, water that comes, there is a turbulent flow it takes place. This 
+particular component is energy dissipater and finally, it comes out of the outlet. So, the flow which is taking place, it is an interesting phenomenon. And let us try to understand the basic 
+philosophy or basic fundamentals of flow which takes place through a dripper.  
+ 
+There is a relationship between the pressure and discharge from the emitter or drip emitter. It 
+is given by  
+𝑞 = 𝑘  𝑝𝑥  
+Where, 
+ 𝑞 = discharge of emitter (Lh-1) 
+ 𝑝 = operating pressure head (kPa) 
+ 𝑘 = flow coefficient 
+ 𝑥 = flow exponent  
+Exponent k will depend upon the type of dripper how the flow it takes place and then x 
+defines the particular type of emitter it belongs. This already I have discussed you in the 
+previous class. And also, when we will conduct laboratory experiments, you will further learn 
+about this.  
+ 
+So, flow inside the dripper is considered as an incompressible steady-state flow. And that can 
+be described by Conservation of Mass and Momentum equations. When we talk of the 
+conservation of mass, we are considering the control volume. So, this particular boundary 
+which you are seeing this boundary and inside that there is a control volume. And this control 
+volume has got let us say that it has got elemental area dA. And then there is some water it is 
+getting into this control surface and from this control surface, it has got area dA. So, it is 
+entering and then it is going out with velocity vector V. So, conservation of mass, it is related 
+considering a closed system, it undergoes a change and that change is expressed as the  m 
+system as a constant. Or, we can say the rate of change of mass with respect to time is 0. S o, 
+we are considering it is a steady-state case.  
+ 
+So, the mass of the system remains constant during this process it takes place. So, mass 
+balance for a control volume CV can be given by m in that is mass entering into the system. 
+And then mass coming out of the system, this can be given as  
+𝑚 ̇𝑖𝑛 and 𝑚 ̇𝑜𝑢𝑡=𝑑𝑚𝐶𝑉
+𝑑𝑡 
+That is a mass through a control volume. So, the rate of change of mass within the control 
+boundary and m in and m out is the total mass of flow which is getting into the control volume. And then the water which is coming out of the system, that is m out is the flow 
+volume coming out of this system.  
+ 
+Now, it is a steady-state case. So, 𝑑𝑚𝐶𝑉
+𝑑𝑡 is considered as a 0. I will say that it is 0. So, m in 
+means the sum of all the water which is entering in each individual unit that can be in that is 
+the mass which is getting into the system minus mass coming out of the system can be 
+expressed as  
+ 
+ 
+ 
+That is the velocity vector in the direction means your n and this is the density of the fluid. 
+And then this can be given by the area of the control volume. So, this is equal to 0. And then 
+this is another component. So, the rate of change of mass flow plus this is the total integral of 
+the control volume area. That is your control surface rho Vn dA, this equal to 0. So, this can 
+be given. Finally, this equation when this becomes 0, so, this equation can be written as  
+∫ρ(𝑉⃗⃗⃗⃗  .𝑛 ̂ ) dA = 0    =>         𝜕𝑢
+𝜕𝑥+𝜕𝑣
+𝜕𝑦+𝜕𝑤
+𝜕𝑧= 0    
+means velocity in x-direction, y-direction, and z-direction. It is equal to 0 which is known as 
+a continuity equation in the differential form. We call it the velocity of the flow multiplied by 
+area A 1 V 1 equal to A 2 V 2 is the general algebraic equation. But in the partial differenti al 
+equation, this equation can be written in this form.  
+ 
+Then, another equation which is involved when the flow takes place through the dripper is the 
+momentum equation. So, the conservation of linear momentum law for a system is explained 
+by Newton ’s second law. What is Newton ’s second law? P equal to mF. That means the force 
+applied is equal to mass into acceleration. So, these forces mean the rate of change of mass 
+into velocity from the system is given by the sum of all the forces.  
+ 
+What are these forces? One is the pressure force. Another one is viscous force. And the third 
+component is body force. So, the means pressure force, viscous force, and body force, this 
+particular part it can be expressed because we are considering the control volume and we are 
+in x, y, and z-direction we are considering. So, for x-direction, we can write this expression.  
+ 
+ 
+=>  X direction:- 𝑑(𝜌𝑢)
+𝑑𝑡 = −𝛻𝑃 + 𝜇𝛻2𝑢 + 𝑓 𝑥  
+Y direction:- 𝑑(𝜌𝑣)
+𝑑𝑡= −𝛻𝑃 + 𝜇𝛻2𝑣 + 𝑓 𝑦  
+Z direction:- 𝑑(𝜌𝑤)
+𝑑𝑡= −𝛻𝑃 + 𝜇𝛻2𝑤 + 𝑓 𝑧 
+ 
+We can express because u, v, and w, are the velocity component in the vector form i, j, k 
+vector which can be expressed in x, y, z. So, this is 0. And fx, fy, fz, are the body forces 
+working in the respective x, y, and z-direction. So, here are different symbols which have 
+been used, rho refers to the density of a fluid. That is expressed in kilogram per cubic meter . 
+𝜇 refers to the dynamic viscosity which is expressed in Pascal second. And then p is the 
+pressure fx, fy, and fz, these are the component of the body forces.  
+ 
+Now, these fundamental equations have been utilized while developing a dripper by using the 
+software. So, this I am going to discuss here. So, we will be following certain design steps. 
+These design steps are given in this flowchart. This flowchart explains is ideation. What is 
+the ideation? Ideation means it is the creative process of generating, developing, and 
+communicating new ideas.  
+ 
+So, any new ideas which are coming if it is not only in the drip emitter there can be any other 
+product development. There could be any process. So, this is ideation, this particular process 
+of thinking or bringing new ideas. So, this particular term is known as ideation. And then 
+design, it is the process of, so, next step it comes to. So, some new idea has come that is in 
+the market.  
+ 
+We have got the commercial dripper of 3 components. So, the idea is this one. Can we 
+develop an improved dripper which is less expensive, it is an economical dripper? Can we 
+reduce the size of the dripper? Can we reduce the total material involved in developing a 
+dripper? And then, it should be simplified. And then in the commercial dripper, whatever the 
+problem it is existing in terms of the water which is coming out of the dripper, in terms of the 
+operating pressure, in terms of the clogging of the dripper, can we simplify? That is the 
+ideation.  
+ And that idea should be brought in terms of design. So, it is the process of planning the 
+creation of the object. That is the design part. Simulation, it refers to the process of predicting 
+the performance of digital prototype. So, once we have got it, so we will simulate the thing s 
+by giving dimensions. Then if by given those dimensions, assumed those dimensions, and if 
+we are simulating the process, we are simulating that, what will happen inside the dripper?  
+ 
+That is the way we will see that how it is functioning. And then, those simulation things if it 
+is satisfactory, then we will go for using 3D printing machine and then we will get the 
+prototype made. This means after getting the prototype made, we will test the product. So, 3D 
+printing, it is the process of making a 3-dimensional solid object from a digital file or set of 
+digital files.  
+ 
+Prototype testing, it is the process of evaluating the performance of a prototype in the 
+laboratory field. So, the concept of the continuity equation, the concept of the momentum 
+equation, and then solving those equations using SolidWorks software.  
+ 
+This is SolidWorks software means these are the different tools which are shown here. So, 
+this software is a computer-aided design program which helps to draw any simple or complex 
+shape and assembling and modeling. So, here, we will assemble. We will model the process 
+by using the equations of continuity and momentum equation. So, this particular software has 
+got certain features.  
+ 
+And so, this window which you see here, it looks means here there is a history, sensors, 
+annotation and what type of material that is the feature manager tree. What are the different 
+types of commands? So, you can see here the features, Sketch then Weldments and mea ns 
+these are you know command manager. There is a head-up toolbar and then this is a design 
+toolbar. So, this is the product which we want to make. So, this particular design and then we 
+will give some certain dimensions. And then we can see the product by changing the 
+direction. So, this we will do so.  
+ 
+There is a command manager which we were telling, so, there are different features of the 
+command manager. It is a toolbar that dynamically changes can be made depending on the 
+selected toolbar. So, you can see if you want to sketch, you want to make, you are finalizing 
+that what should be the dimension, and then you want to make certain changes because we want to make a particular shape. So, we will choose a particular shape. And that shape will be 
+given by using different symbols. It could be a line, it could be a circle, and it can be an 
+ellipse. So, we will give a polygon. So, as the water has to pass through the different shapes 
+so, we will be giving this. And we will convert them. So, we will use the tools control tab to 
+get the product made.  
+ 
+Now, in this particular software, these features which are there these toolbars it shows that 
+feature manager design tree from the feature manager tree, property manager, confi guration 
+manager, display tab that can be assessed by toggling between the tabs at the top. So, means, 
+there are different we will be generating the file and then this file ’s name will be given.  
+ 
+Then we will specify the material as assign. And then mass property, what is the type of 
+material which we are making. So, we will assign the material properties. A Roller bar is 
+used. This is what it is given that to go back in the earlier conditions. So, this kind of 
+provision is there in the software.  
+ 
+Then the head-up toolbar has got these features of the head-up toolbar means we can zoom to 
+fit. We can zoom the area. We can go to the previous view. We can have this sectional view 
+when we are cutting the product. How the sectional view it will look like. What is the 
+dynamic annotation, view in orientation? So, this is a view orientation. Display style, how we 
+want to make display the product. So, that can be given. Hide and show, edit appearance that 
+is the 9th tool available. Apply a scene or we want to view the setting. So, toggle views such 
+as the real view or shadow and perspective. These are the features available in the head-up  
+toolbar.  
+ 
+So, there is design space provided, this one, th is design space is basically we will create, ed it, 
+and manipulate the model any part. So, here what we will do? We will assemble our parts. 
+We will make the design. All that thing we can edit if we are finding there are some changes 
+which are to be there in the particular design when we are making. So, with that also, we will 
+do in this particular tool.  
+ 
+So, we have applied those features and then designed the single component as well as 
+adjustable flow drip emitters using the software which I have told you. So, single component dripper, a typical commercial dripper, I was telling you it is available in the market. It has got 
+3 components. But we wanted to reduce the total material and then it should be clogging free.  
+ 
+So, we developed a single component dripper which is fitted in the lateral pipeline. And then 
+we also developed a 2-component dripper. And then 2-component dripper, there is a 
+provision that we can twist and bring in a particular position. So, it can be brought to 2 
+positions and adjust the flow. So, in Position 1, it is delivering one discharge. And when it 
+comes to Position 2, it comes to the second means it gives a different discharge. So, like this, 
+an adjustable flow dripper has been designed.  
+ 
+So, an adjustable flow dripper has been designed using SolidWorks 2016 software which has 
+2 components. Component 1 is the base you can see here. This is the base. And then in the 
+base, there is a barb. This barb it goes inside, so we make a hole with the help of a punch 
+hole. And through the punch hole, this barb is inserted into the lateral pipeline. And then on 
+the top, you see that there is a base component. In the base component, there is an 
+arrangement where you can change the position from one position to the second position and 
+then adjust the flow.  
+ 
+So, coming to the adjustable flow dripper, so, this is the base means the bottom part means 
+bottom portion. So, this part is a barb. And this is a ring for locking which is developed. So, 
+this is a top view of the base of the adjustable flow dripper, the same thing this particular 
+component, we can see in the isometric view. So, inside this particular base, there are 2 
+positions which are shown.  
+ 
+This is Position 1. Here, there is Position 2. So, we can switch from one position to another 
+position and this is giving different discharges. This is the front view of the base if you are 
+looking so from the top means you are seeing this is the front view and this is the side view of 
+the base. So, different views of the base of this adjustable flow dripper have been shown here.  
+ 
+And then the top part of the dripper means this is the cap. So, if I am seeing from the top 
+view that the cap so, it looks like this. But behind this, means this is the hole, the theory is 
+involved here. So, this particular component, water moves from when it comes from the barb 
+then it moves into this one. So, you can see it here. The water will be coming here. It is passing through this zigzag path labyrinth path. And finally, it will be dispensing out of that. 
+So, these are the different views of the adjustable flow dripper, cap part of the dripper.  
+ 
+So, this is the same cap it has been shown that the top of the cap. This is the outlet of the c ap, 
+a cylindrical hole where the water will be going out. So, this is the isometric view. This is the 
+front view of the adjustable flow dripper cap and this is the side view.  
+ 
+I also talked about the single component dripper. So, single component dripper, it is simple 
+there is only one component which is used. So, this is the top view. This is the bottom portion 
+where this is a barb. And then this component, there is 2 arm here. One arm is here. Another 
+arm is here. Water enters through this barb. So, there is a hole in this one. So, when the water 
+enters, it is ejecting out of this particular hole and it will strike on in this arm. So, this has 
+been also designed by using the SolidWorks software. And these are the different views, top 
+view, isometric view, and then front view as well as side view of these drippers.  
+ 
+So, when we are simulating the flow, we are giving the boundary condition. So, boundary 
+condition at the inlet end of the dripper that is what I say barb. So, we are putting the 
+boundary condition is 199.36. And then outlet pressure means this is the atmospheric 
+pressure, 101.32 kilopascal. So, water which is entering into the dripper, and then outlet part 
+we are fixing as 101.32 and this is the temperature which is fixed.  
+ 
+So, this is how we can have different pressures. Suppose, water is entering at a different 
+pressure maybe we are giving it 1 bar 2 bar 3 bar. So, that pressure, how does it behave in the 
+discharge from that but the boundary condition at the outlet face means at the outlet end it 
+remains same because water is dispensing at the atmospheric pressure.  
+ 
+So, here the simulation of pressure at different points of the dripper has been shown when the 
+water passes from the inlet and then it goes out of the outlet. So, how the pressure at the 
+different points inside the dripper it can be seen? So, the different colors here mean the red 
+color which we see here, the dark red color. And then the blue color it is at the outlet. So, 
+these are the different colors when it is passing you can see here the pressure is reducing as it 
+goes.  
+ So, for a single component dripper, this part it can be shown through this animation. So, 
+when the water is coming here, it is going there. And then it gets mixed. And then you can 
+see how the pressure distribution it takes place from a single component dripper.  
+ 
+Similarly, in the case of adjustable flow dripper and the top view of the flow animation and 
+then pressure distribution can be seen in this way. In the same dripper, when we want to see 
+in the isometric view form. So, this animation it gives the how the pressure distribution when 
+the water flow takes place it will take place. For the same dripper, I want to see from the side 
+view.  
+ 
+Now, after learning and getting satisfied with the flow simulation and the pressure 
+distribution in the dripper. If it is satisfactory then we go for 3D printing. So, 3D printing, 
+what we did. We used a Raised3D printer. And this 3D printing is a process of making 3 
+dimensional solid objects from digital files. And then this SolidWorks, the file name is given 
+by extension .stl file. So, this file is given to 3D printing.  
+ 
+And then means it goes to the IdeaMaker software. Then this file converts to the gcode file. 
+Then it is a 3D printer and finally, we get the prototype product. There are some specific 
+benefits of using 3D printing because making a mold for each and every object becomes a 
+difficult task. This is cheap. And then it is a time-effective. It is cost-effective. There is 
+freedom of design. You can change the product. You can customize it. This is faster 
+production and reduces the wastage of time, wastage of material, wastage of money.  
+ 
+So, a 3D printing machine, there is IdeaMaker is a slicing software that uses that prepares the 
+3D models for printing and turns them into a gcode file for a Raised3D printer. So, this is the 
+product model preview before it goes for printing. So, we see the product. How does it look 
+like? And then it is given for printing.  
+ 
+So, this particular printing machine, these are the different tools. So, it includes tools for all 
+the operation s, command s, and advanced settings. So, these are the different add, delete, 
+view, pan, move to X Y coordinate, rotate the particular product, and see in a different angle. 
+You can modify or amplify the size. You can have free-cut, maximum fit. We can duplicate . 
+We can repair it. We can connect. So, till we are not satisfied, we can make several changes 
+in the machine.   
+Now, a machine looks like a 3D print er. This is an IdeaMaker. In this software where we see 
+on the machine, in your software, it is in your laptop this we can see. And then that product is 
+brought here for seeing. So, you can see here how 3D printing is used for developing the 
+dripper. So, it is a 3-dimensional thing. It is going X Y and then it goes on the vertical side 
+also. So finally, we get the product made out of the dripper. 
+ 
+We developed some certain product. You can see here this particular component is the barb. 
+And this is a single component dripper. So, the barb is actually basically this will go inside 
+the lateral pipeline. And in this stem, there is an outlet provided. And these are the 2 arms 
+which I was showing you there when we were designing. And this is just one component 
+which is used. And this we have developed by using the SolidWorks software design we 
+made. And then with the help of a 3D printer, the single component dripper has been 
+developed. After, we make this particular product. Then, we go for mass multiplication by 
+making the mold. So, this is the one particular product.  
+ 
+Similarly, we developed another product. This is a 2-component adjustable flow drip emitter. 
+So, I was telling you about the base part. So, a base part of this dripper is this one. It is a 2 
+component. You can see here these are the 2 components. This is one component. That is the 
+base of the component and this is the cap, the top part. In the base, this particular component 
+is the heart. This means this is the main thing where the water is getting passing through this 
+zigzag path. Star is made here. You can see here the water will be coming from this dripper. 
+It will come out from this point. Then it will get into this. Then after it comes to this place 
+you can see here it will go. It will pass through this zigzag path and finally, it will come out 
+of this. So, the same thing here also, we prepare design by using SolidWorks software, and 
+then, we finally got the product made by using a 3D printer.  
+ 
+So, first, we made base. Then to shooting to this base, we made the cap part. Now, here there 
+is a provision for this that we can shift 2 different positions. So, here the provision is made 
+that if you make it this particular position, it will get locked, and then water will be coming in 
+one particular discharge rate. When we shift to another position, we can bring it to another 
+discharge.  
+ So, like this, there is a locking provision. And after we get satisfactory results then we will go 
+far making the final mold. And then we will do. Similarly, we made several changes to our 
+design. This is also a 2-component dripper. You can see it here. One component, base which I 
+was telling you this is a circular base. So, this is a single component and there are 2 
+components. So, here also it is adjustable flow rate.  
+ 
+And then when we are tightening it means this is the case when this is fully open means it 
+will be giving maximum discharge. So, water will be entering into this. It will come out of 
+this. So, as you keep on closing so, there is a slot inside then the opening will reduce. So, like 
+this, you know there are different ways, the different types of dripper that can be made. This 
+is also a 2-component dripper.  
+ 
+So, we made several trials for getting the best product out of this by using these technologies. 
+So, this is the same thing which I have told you so, this is a single component dripper. And 
+these are the things which we made. Need only one mold to manufacture, low manufacturing 
+processing cost means lower raw material cost, Operate at a wide spectrum of water head. 
+Water is discharged at the root zone, easy unclogging and maintenance, less energy 
+consumption for operation. So, these are the features.  
+ 
+This is another single component dripper that has been made so, means single component 
+flow regulated. Here is a single component, only one particular discharge it is giving. But 
+here we can regulate the flow. So, again you know provision has been made that it can be 
+regulated. And this is the 2-component flow regulated. Need only 4 molds to manufacture 
+compared to 6 or 3 components system? So, here low manufacturing cost, low raw material, 
+flow can be regulated easily. So, these are some of the features of different types of drippers 
+where the software like it has been and this is what you see. When we are attaching with th e 
+lateral pipeline, this is a single component. And this is a double component adjustable flow 
+dripper when it is being used. 
+ 
+And then we evaluated these drippers and tested in our laboratory conditions. And when we 
+kept it in a hydraulic bench. So, we will come to the laboratory class and give you more detail 
+about the testing of the dripper. But I would like to show you some of the results of this 
+particular dripper. When we have operated this particular dripper at different heads and there 
+is a relationship it looks like in this form of the equation which is given by  q= 1.97 h0.54 
+So, which is an orifice flow equation.  
+Similarly, you can see here, this is for the pressure discharge relationship for adjustable flow 
+dripper when the dripper is at Position 2. And this is for the single component dripper when 
+the dripper is operated at different pressures and this is the nature of the graph. And then the 
+equation is has been developed for this graph is  
+q = 5.44 h0.52 
+q= 2.38 h0.55 
+ 
+Where h is in meter and discharge in liter per hour. And then we tested for a single 
+component dripper, what are the simulated values and also for the measured values? So, these 
+things we also show.  
+ 
+Finally, these drippers, the results obtained from the dripper can be summarized. The 
+designed single component dripper can be operated at low pressure. That is less than 1 meter 
+and then also it can work up to 10-meter height. But we will get different discharges. For a 
+single-component dripper, the discharge rate is as low as 1.18 liter per hour and as high as 
+8.33 liter per hour.  
+ 
+So, when we have got different pressure, we will get a higher discharge. And the designed 
+adjustable flow drip emitter can deliver different discharges at the same inlet pressure. Hence, 
+the discharge from the emitter can be regulated as per the crop water requirement. In 
+adjustable flow emitter, Position 1, discharge ranges from 2 liter per hour to 6.99 liter means 
+this is at Position 1. And also at Position 2, it is from 5.36 liter to 17.71 liter per hour. The 
+single-component emitter and adjustable flow emitter are orifice types of drip emitters. As we 
+have seen that the exponent is 0.55.  
+ 
+So, for more detail, you are advised to go through these references so that you get a better 
+more idea. So, let us summarize this particular lecture. We have tried to learn about drip 
+hydraulics. And there are different design steps. We made designs and simulations using this 
+SolidWorks software. We used the IdeaMaker software or the 3D printer and developed the 
+dripper and also tested the hydraulics. And in the forthcoming class, we will work out 
+numerical problems dealing with drip irrigation system. So, thank you very much.  

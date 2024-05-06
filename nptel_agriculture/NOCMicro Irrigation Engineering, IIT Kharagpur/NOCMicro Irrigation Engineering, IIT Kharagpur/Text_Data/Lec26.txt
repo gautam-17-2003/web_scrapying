@@ -1,0 +1,299 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology – Kharagpur 
+ 
+Lecture – 26 
+Hydraulics of Drip Irrigation System Pipe Network 
+ 
+Hello, participants. Now, in the subject of micro irrigation engineering, we are entering to 
+Lecture 26. In Lecture 25, we discussed about different types of emission devices and how to 
+select a particular type of emission device, and hydraulics of flow through drip emitters. So, 
+emitters are water dispensing devices which are fitted with drip irrigation lateral pipelines. 
+So, we are coming from the field emitter to the pipes.  
+ 
+So pipes, they are in particular systematic order, if we start from the dripper, then it will come 
+to the lateral, then it will come to sub-main, then main. N ow, in this Lecture 26, we are 
+dealing with the hydraulics of drip irrigation system pipes.  
+ 
+In this lecture, our main consideration will be how to estimate pressure loss in the pipe 
+system whether it is a lateral pipeline or sub-main pipeline or it is the main pipeline. How to 
+evaluate these losses? Losses could be major loss or minor loss. And, how to determine the 
+size of the pipelines? And finally, how to select the size of the pump? So, let us go to the 
+topic details.  
+ 
+So, hydraulics of drip irrigation pipe system, here these pipes are made up of plastics. They 
+are mainline, sub-main line, and lateral pipeline. When we say main, sub-main, lateral means 
+there is a specific arrangement and size. The drip irrigation system design must ensure the 
+water discharging out of the dripper, it should be uniform. This is very important and this is 
+only possible when we are making perfect accurate design.  
+ 
+Now, the maximum allowable pressure difference in the whole system, this is the limit, 
+which has been given that allowable pressure variation should not exceed more than 20 
+percent. And in the lateral system, this pressure head loss or pressure head variation should 
+not exceed more than 10 percent.  
+ Now, pressure loss takes place or head loss it takes place due to friction in the pipes, due to 
+fittings, this pressure variation could be due to elevation change. So, the pressure variation in 
+the field will change depending on the field situation. This means it will increase or decrease 
+depending on the way the pipeline is running. So, whether if the pipeline is running uphill, 
+means we need to account positive. If it is going down the hill, we have to take care of that.  
+ 
+So, these amounts are to be adjusted depending on the conditions prevailing in the field. A 
+typical pressure head variation equation it can be given by  
+𝑃𝑑= 𝑃𝑢− 9.81(ℎ𝑙±𝛥𝑍)  
+ 
+Now, what is Pu minus Pd? It is the pressure at upstream end and Pd is the pressure at the 
+downstream end.  
+ 
+When we are expressing this unit in kilopascal, one has to multiply with 9.81 to change this 
+value. hl refers to the head loss in the pipeline. That is between upstream and downstream 
+when this is expressed in meter. Delta z refers to the elevation difference. So, it can be 
+positive when we are going up the hill. Delta z it becomes negative when we are going down 
+the hill.  
+ 
+So, there is another component. We say that hl. So, in the previous case, we are putting, this 
+hl is the energy loss. And this energy loss hl is the head loss due to friction and minor losses. 
+So, this can be given by this expression  
+ℎ𝑙= 𝐹𝐻 𝑓+ 𝑀 𝑙  
+Which states that hl is equal to the reduction factor in the pipeline, head loss due to friction in 
+the pipeline plus minor losses.  
+ 
+Major and minor losses are the 2 types of losses which take place in pipe flow. We will 
+discuss this in detail. So, the major loss is the head loss due to friction and minor loss due to 
+fittings. And there are other accessories when we are attaching with the pipeline.  
+ 
+The major loss that is the head loss due to friction is given by Hf. So,  
+𝐻𝑓=(𝐾)(𝑐)(𝐿)(𝑄𝑚)(𝐹)
+𝐷2𝑚+𝑛   Where K and c are constants. L is the length of the pipeline. Q refers to the discharge or flow 
+rate in the pipeline. F refers to the reduction factor and D refers to the diameter of the 
+pipeline. So, these components are estimated or given say K is a constant. That depends on 
+the particular type of unit which we are using or the equation which we are using for that K is 
+to be used.  
+ 
+So, when we are using the Darcy-Weisbach equation, the small c is this particular component 
+and m is 2 and n equal to 1, so, in this you know D 2 m plus n. When it is given, this m is 2 
+and n is 1. And here also Q to the power m this will be m square.  
+ 
+Similarly, for the Hazen-Williams equation, we will be using these constants if we go for the 
+Hazen-Williams equation to estimate the head loss due to friction.  
+ 
+Now, if we are using the Hazen-Williams equation that particular equation is brought in this 
+form means head loss due to friction in a 100-meter pipeline can be given by this expression 
+𝐻𝑓(100)= 𝐾(𝑄
+𝐶)1.852
+× 𝐷−4.871× 𝐹  
+ Where K is unit constant. Q is the discharge through the pipeline in liter per second, C is a 
+constant that depends on the particular type of pipe material. Normally, the value of this C 
+varies from 120 to 150. So, 120 to 150 means, what is the type of material? If it is a PVC 
+pipe, then the value of C is different. Of course, that will depend upon the, what is the 
+diameter of the pipeline which we are using. If it is a high-density polyethylene pipeline, then 
+the value of C is different. Also, that will depend upon the, what is the diameter of the 
+pipeline which we are choosing. So, there is a range, I am just giving you that is 100 to 150 is 
+the range for C. D is the diameter of the pipeline which is given in millimeter and F is the 
+reduction factor.  
+ 
+Now, this reduction factor is to be used when we have got the number of emission devices or 
+outlets which are attached to the lateral pipeline. Now, how these outlets are attached to the 
+pipeline? So, when the distance from the pipeline to the first outlet is equal to the outlet 
+spacing. Means, all the emitters, the first emitter to the last emitter they are equally spaced.  
+𝐹 =1
+𝑚+1+1
+2𝑁+√𝑚−1
+6𝑁2  So, the first emitter will be equally placed as other emitters are, from when we are att aching 
+with the lateral pipeline. So, in the lateral pipeline, these drippers are attached. So, this 
+expression will be used. Here, what you are seeing is that m is the exponent. If you are using 
+the Hazen-Williams equation, the value of m is different. In the case of the Darcy-Weisbach 
+equation, the value of m is equal to 2 and n is the number of outlets, that is your number of 
+emitters. When the distance of the first outlet is half of the outlet spacing, let us put it that if 
+we are keeping the spacing between the outlet means drippers are 2 meter apart let us say. So, 
+the first emitter which will be kept in the lateral pipeline when we are attaching with the sub-
+main, it will be at 1 meter. And then all other remaining emitters will be at 2 meter spacing. 
+So, this is the arrangement.  
+𝐹 =  1
+(2𝑁−1 )+2
+(2𝑁−1 )𝑁𝑚∑ ( 𝑁 − 1 )𝑚 𝑁−1
+𝑖=1   
+Normally, this equation is used in the case of sprinkler irrigation system. Means, when we are 
+using the overhead sprinkler system, this equation has got more relevant. I n the case of 
+dripper because the number of outlets are too many so, the effect on the reduction factor by 
+keeping the first emitter does not give much difference in the value. But, yes, it will give 
+more value because the y're in the case of sprinkler irrigation system, this spacing is quite 
+large. It could be 12 meter. It could be 18 meter like this. So, there we take care.  
+ 
+Now, the other part of the flow through the pipe, head loss due to friction is estimated by the 
+Darcy-Weisbach equation.  
+𝐻𝑓= 𝑓(𝐿𝑉2
+2𝐷𝑔)  
+So, here Hf is the head loss due to friction. f is the Darcy-Weisbach friction factor that can be 
+obtained from the Moody diagram. g is the acceleration due to gravity and L is the pipe 
+length. V is the flow velocity. So, these are all the things which are there.  
+ 
+So, the Moody diagram, this is the diagram. You can see here in the Moody diagram, this is 
+plotted between friction factor and Reynolds number. So, Reynolds number already I have 
+explained you. It is the ratio of the inertial force to the viscous force which can be given by 
+rho Vd by mu. So, V is the velocity of flow in the pipeline. D is the diameter of a pipeline. 
+And, rho is the density of fluid that is water here we are using. And mu is the dynamic 
+viscosity.  
+ So, you can see for the laminar flow range, this is the value of f for the laminar flow range. I t 
+is in this range. Whereas, in the case of turbulent flow range, this value means here this 
+particular diagram will be used. And for the transitional flow range, this will be used.  
+ 
+So, here the friction factor is estimated by taking a particular type of pipe material which has 
+got some certain resistance. That is the roughness value. So, this epsilon is the roughness 
+value for the different types of pipe material. And then the relative pipe roughness is given, 
+that is your roughness, this is your epsilon. And then relative roughness is given by the 
+epsilon by d. So, we will be choosing the appropriate value of epsilon by d. And then we will 
+choose, we will estimate the Reynolds number, and then obtain the value of the friction 
+factor.  
+ 
+Minor loss is another component that means it can be estimated or obtained from the standard 
+table. Yes, a table is provided or one has to estimate. But estimation becomes difficult 
+because those head loss coefficients are to be also known to us. So, normally tables are used. 
+So, minor loss, wherefrom the minor losses it is coming, it is from the bends, then it comes 
+from the several fittings . And these minor head losses are expressed equivalent to the length 
+factor.  
+ 
+Means, it is not only the particular value. So, what is the length there? Means, it has to be 
+brought in terms of the meter means equivalent length factor. So, that adds to the virtual 
+length of the straight pipeline. Means, maybe say from the barb we are telling. So, barb it has 
+got a specific you know it is bringing down the factor. So, the barb coefficient is multiplied 
+and is expressed in terms of the equivalent length value.  
+ 
+So, this is a table. Here, this table practically gives the value of different minor loss 
+coefficients. So, head loss due to different fittings can be given by  
+ℎ𝐿= 𝐾 𝐿×𝑉2
+2𝑔  
+The values of K L are to be given depending on the type of fittings which we have given. So, it 
+could be elbow like this. It could be a 180-degree bend. It could be tees. It could be a union. 
+So, in a field situation, we will come across these types of fittings. Maybe we are required to 
+reduce the size of the pipeline. We are required to increase the size of the pipelines. Means, reducer, enlarger such type of the attachments, joints are needed and it causes the head loss . 
+That is to be calculated so that we can accurately get the value of head loss due to friction.  
+ 
+Now, design of lateral pipeline or hydraulic link between main pipeline or sub-main line and 
+the emitters. So, emission devices can be connected directly to the lateral line. And lateral 
+will have hydraulic fittings, tees, union. Just now I told you that these will cause the head loss 
+to connect to the sub-main or mainline.  
+ 
+So, the Darcy-Weisbach equation is used to compute the head loss due to friction. This gives 
+an accurate estimate. The reason being here, it is taking care of the flow condition, flow 
+regime. This means flow could be at a lower velocity or flow is at a higher velocity. So, 
+turbulent flow, laminar flow this takes care. And accordingly, the value of f is used whereas 
+in the Hazen-Williams equation that is only when the flow is in turbulent condition. So, the 
+Reynolds number is estimated by the inertial flow.  
+ 𝑅𝑒=((ρ)(D)(V)
+(K)(μ))  
+Where,  
+Re= Reynolds number (dimensionless); D = diameter of pipe (cm); 
+ρ = density of water (g cm-3);             V = average velocity (cm s-1); 
+μ = viscosity of the fluid (N s m-2);            K = unit constant, 10 with these unit 
+ 
+Referring to the Moody diagram, you have seen that for laminar flow, the value of f can be 
+estimated by using this expression,  
+𝑓 =  64
+𝑅𝑒  
+whereas, in the case of turbulent flow, the value of f can be estimated by using this equation. 
+𝑓 =  0.32𝑅𝑒−0.25  
+ 
+And when the flow becomes fully turbulent, so, f can be computed by using this expression. 
+𝑓 =  0.80+ 2.0  𝑙𝑜𝑔 (𝑅𝑒
+√𝑓)  
+Now, f appears on the left side as well as the right-hand side of this expression. So, here trial 
+and error mean we have to make repetitive computations in order to get the correct estimate 
+of the value of f.  
+ The design of the sub-main pipeline, the hydraulics is similar to that of lateral pipeline 
+hydraulics. And the sub-main line is designed to allow the approximately same energy loss as 
+compared to the lateral line for several laterals and sub-main lines. So, naturally, the amount 
+of water which is being delivered by the sub-main pipeline, it will be the number of the 
+lateral pipeline which will be attached with the sub-main pipeline.  
+ 
+Then how much is the pressure loss it takes place. So, it will depend upon how many number 
+of sub-main pipelines are attached. It is Keller and Karmeli, the 2 investigator s, who have 
+recommended that lateral energy loss should be 55 percent and sub-main energy loss should 
+be 45 percent of the total allowable energy loss. So, this is the proportion that can be taken 
+care, while we are estimating.  
+ 
+We should see that the part of the energy which goes from the lateral pipeline and sub-main 
+pipeline. What is the percentage it comes to? The sub-main design depends on the location of 
+the flow or pressure regulation. Energy loss in the sub-main is directly related to the length of 
+a sub-main line. So, energy loss cannot exceed the allowable limit without lowering the 
+uniformity. This is another part that yes if at all we are taking care of the energy loss. So, at 
+that time, we have to see that uniformity should not be compromised.  
+ 
+The sub-main hydraulics characteristic can be computed by assuming the laterals are 
+analogous to the emitters on lateral lines. Yes, this is correct. It is similar to the laterals that 
+are delivering water to the emitters. So, here sub-main is delivering water to the lateral. So, 
+hydraulic characteristics of sub-main and main pipes are usually taken as hydraulically 
+smooth pipelines because they are made up of PVC.  
+ 
+Normally, these are used. So, PVC or HDPE are plastic materials. So, they are a smooth 
+pipeline and this can be assumed in the same way. The energy loss in the sub-main pipe can 
+be computed with methods similar to that which is used in the case of lateral case.  
+ 
+Now, on the main pipeline, the flow or pressure control or adjustment valves are provided at 
+the sub-main inlet. Therefore, energy loss in the main pipeline should not affect system 
+uniformity. The main pipe size is based on the economic comparison of power cost and pipe 
+cost. Yes, this is another important part that we need to see that how much energy is being 
+consumed.   
+If you are going for too low size pipeline, we may reduce the cost of the system. But the 
+recurring cost, the operational cost will increase because of the lower pipelines. So, the head 
+loss may be more. So, that one has to do a trade-off between the energy consider ation, power 
+consideration, and the cost of the system. The main pipeline should be selected so as to 
+minimize the sum of the power cost and capital cost over the lifetime of the pipeline.  
+ 
+So, in the case of a lateral pipeline, sub-main pipeline, and main pipeline, it is standard 
+practice to start a design by considering the minimum available pipe diameter till it satisfies 
+the allowable head loss condition. So, what we are seeing here is that when we are deciding 
+the main pipeline size when we are deciding the sub-main pipeline size when we are deciding 
+the lateral pipe pipeline size, we need to see what our layout in the field is. And layout will 
+depend upon our field condition which I discussed in previous lectures. So, we need to take 
+care while we are deciding. So, the layout should be taken then hydraulics should be taken 
+care of.  
+ 
+Water supply in manifold, the water supply manifold consists of a pump, valves, chemical 
+injectors, pressure regulator, filters, water meter, vacuum breaker, automatic controllers, etc. 
+So, the pump operating range is selected based on the number of operating subunits and their 
+flow rate, and the total system head. It is not always possible to supply water to all these 
+subunits.  
+ 
+So, we can reduce the size of the pump seeing that how many number of hours electricity is 
+available? Or, how many hours the pump can be operated? Means, the size of the pump can 
+be selected accordingly. So, the system flow rate is the sum of the flow rate in each 
+concurrently operating subunit. And then system head is the sum of lateral inlet pressure 
+head, elevation difference from the pump to the highest lateral inlet, energy losses between 
+the pump and lateral to include sub-main frictional loss, valve loss, and mainline loss.  
+ 
+So, this is the important means we will consider what is the flow rate. We will consider the 
+total head considering these points. The filter loss will represent energy losses resulting from 
+partially clogged filters and screens. Usually, these energy los ses will have a fixed range 
+between 30 to 100 kilopascal depending on the type of filter which we use. So, we will discuss about these points and of course, this loss will also depend upon the particular type of 
+filter when we are using it in the field.  
+ 
+Now, when we want to work out the horsepower requirement of the pump. So, the 
+horsepower requirement of the pump is given by the total pumping head multiplied by the 
+discharge from the main divided by 75 into the pump efficiency and then the motor 
+efficiency. So, this particular ratio, this particular computation will give the horsepower 
+requirement of the pump.  
+ 
+So, this discharge coming out of the pump is expressed in liter per second. This is the total 
+head and this total head is the sum of the head loss due to friction in the lateral pipeline, head 
+loss due to friction in the sub-main pipeline, head loss due to friction in the main pipeline, 
+and then the losses from the accessories.  
+ 
+This also includes the other component that is your operating pressure requirement for the 
+dripper. So, normally, for the drip, the 10-meter water column, 1 kg per square centimeter 
+pressure is enough to operate the drippers. And Hs is the total static head that is the suction 
+head plus delivery head.  
+ 
+So, this is already what I have discussed when I was telling you about the selection of pumps. 
+So, this H is computed when Q is known to us then also the efficiency of the pump as well as 
+the motor it is used to compute the horsepower requirement of the pump.  
+ 
+You may refer to these books. In this particular lecture, let us summarize the part that we 
+discussed about the losses taking place from the pipeline. These losses could be a major loss 
+or a minor loss. And then we also discussed about the hydraulics of flow through lateral 
+pipeline, sub-main pipeline, and main pipeline. And also, we discussed about the horsepower 
+determination of the pump.  
+ 
+Now, in the forthcoming lecture, we will work out some numerical problems dealing with the 
+design of a drip irrigation system. Thank you very much.  
+ 

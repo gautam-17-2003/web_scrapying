@@ -1,0 +1,205 @@
+Micro Irrigation Engineering 
+Prof. Kamlesh Narayan Tiwari 
+Agricultural and Food Engineering Department 
+Indian Institute of Technology-Kharagpur 
+ 
+Lecture - 31 
+Numerical Examples on Emission Devices and Fertigation 
+ 
+Hello, participants of the Micro Irrigation Engineering subject. Now it is lecture 31. In 
+lecture 31, we will deal with numerical problems related to micro irrigation system 
+mainly selection of the micro irrigation device, and some problems we will work out 
+on the fertigation system. 
+ 
+So selection of emission devices mainly drippers, how many numbers of dripper and 
+what should be its capacity. And then what should be the capacity of the tank or what 
+should be the rate of fertilizer concentration it should be given. So we will work out 
+some problems. So let us enter into the problem. 
+ 
+So the question 1 is given here. A drip irrigation system is to be installed to irrigate a 
+2-hectare area of a citrus crop to be operated for 6 hours. And we need to determine 
+the injection rate of liquid fertilizer when the ratio between fertilization time and 
+irrigation time is 0.35 and the rate of fertilizing per irrigation cycle is 25 kg per 
+hectare. 
+ 
+Means in each irrigation cycle 25 kg of fertilizer is to be given along with irrigation 
+water. And the concentration of nutrients in 1 liter is 0.2 kg per liter. So this is the 
+concentration of nutrients in the liquid. 
+ 
+So we are given area that is 2 hectare. We have been given the fertilization cycle that 
+is 25 kg per hectare. And then concentration of the liquid is 0.2 kg per liter. This is the 
+ratio of fertilization time to irrigation time. And then time of operation of the drip 
+system is 6 hours. And we need to determine the injection rate of liquid fertilizer that 
+is q fi. And this is to be calculated by using the expression. 
+𝑞𝑓𝑖 = 𝐹𝑟×𝐴
+𝑐 × 𝑡𝑟×𝐼𝑡  This is already discussed in theory class. So this q fi that is the rate of injection of 
+liquid fertilizer in liter per hour can be given by rate of fertilizing that is the quantit y 
+to be applied per irrigation cycle. So this Fr to be multiplied with the area. So this area 
+is known to us that is 2 hectare divided by the concentration c that is 0.2 kg per liter 
+and then multiplied by the ratio of fertilization time by irrigation time. 
+ 
+This is your ratio, this is also known to us. This is given as 0.35 and irrigation time is 
+6 hours. So having given these values one can calculate. So just simply we are 
+substituting these values, which is given as  
+𝑞𝑓𝑖 = 25×2
+0.2×0. 35×6=119.04 𝐿ℎ-1 
+So this is very simple thing that we get q fi equal to 119.04 liter per hour is the rate of 
+injection of liquid fertilizer into the drip irrigation system. 
+ 
+Second question it is to determine the total capacity of drip irrigation which is to be 
+designed, which is to be designed for banana crop of 2.5 hectare area. So banana crop 
+is grown in 2.5 hectare area. So area is given to us. And a dripper of 4 liter per hour 
+capacity is used for a crop which is having 2 meter by 2 meter spacing. So each plant 
+is having the area of 2 meter by 2 meter. And there are total 6 number of station, 
+operating stations in the field. So this information is also available to us. That in Ns 
+equal to 6. 
+ 
+We have been given area is 2.5 hectare. Number of station 6. Discharge capacity of a 
+single dripper is 4 liter per hour. And then spacing means row to row spacing is 2 m 
+and plant to plant spacing that is Sl that is lateral spacing is 2 m. The equation which 
+is applicable in this case is  
+𝑄𝑠= 𝐾  𝐴
+𝑁𝑠 𝑞𝑠
+𝑆𝑟𝑆𝑙  
+ Now K is unit constant. This is a unit constant. So if we are using Q means we want 
+to get the discharge capacity in liter per second. Area if we are using area in hectar e 
+and the average discharge of the dripper qs in liter per hour. And then emitter spacing 
+if I am putting it Sr in meter and then lateral spacing we are keeping in meter. K is 
+given by 2.778. 
+ So having given these information if I want to get discharge in liter per second that is 
+total system capacity in liter per second then these units are to be used in order to 
+multiply with K as 2.778. So these information are very easily it is given that is 2.5 
+means area is given. So area by number of station that is 2.5 by 6. And then qs 
+divided by 2 into 2. 
+𝑄𝑠= 2.778×(2.5
+6)×(4
+2×2)= 1.1575  Ls-1 
+So we get here 1.1575 liter per second. So we can say that the system capacity is 1.16 
+liter per second is desired in this case. 
+ 
+Question 3, we are required to determine the capacity of drip irrigation emission 
+device which is to be used to irrigate mango crop of 5 m by 5 m spacing means, each 
+plant or each tree is having spacing of 5 m by 5 m. And then wetted area is 16% 
+means plant is at very early stage. 
+ 
+Normally for horticulture plantation like mango plantation, the wetting percentage is 
+varies from a very small value and it is given say from 16% to 60%. So it is in very 
+early stage and we are not wetting for the entire area. So only the part of area it is to 
+be wetted by drip irrigation system or dripper. The available operation time is 4 hours 
+means dripper or drip system is operated for 4 hours. 
+ 
+And application efficiency of drip irrigation system is 90%. The depth of irrigation is 
+10 mm. So depth of irrigation is known to us. Application time is known to us. The 
+spacing of each plant is known to us. So we will find out what should be the capacity 
+of a drip emitter. 
+ 
+So this information is known to us, it is given 5 m by 5 m. Wetting percentage is 
+given as 16%. The depth of irrigation is 10 mm. Time of operation is 4 hours. 90% is 
+the efficiency. So discharge of a single dripper can be given by area of one plant 
+multiplied by the depth of irrigation divided by operating hours multiplied by 
+application efficiency or system efficiency. 
+𝑄 =𝐴×𝑑
+𝐻×𝐸 𝑎  Now this area which is there it is only the partial area to be wetted. So this area is not 
+5 m by 5 m, which is for one particular plant because plant is in early stage. It is not 
+covering the whole area. So at its early growth stage, it is only 16% of the area. So 
+this plant we will be when we want to give irrigation with the dripper at early stage 
+this area is 4 square meter. And then depth is known to us, operating time is known to 
+us. 
+ 
+So we can work out. So depth is given as 10 mm. This is 4 square meter and then the 
+operation time is 4 hours. And this is the application efficiency that is your irrigation 
+efficiency.  
+Q =4×10
+4×0. 90=11.11 Lh-1  
+ So this can be worked out as 11.11 liter per hour. So one dripper of 12 liter capacity 
+is sufficient. Of course, this is a higher size dripper means we need to select a dripper 
+which should not form runoff. 
+ 
+So if a single dripper is to be used, then it will be one dripper of 12 liter per hour or 
+we can have two drippers, we can have two drippers in that case our operation time 
+has to be increased. So means the selection of dripper will be made based on the 
+particular type of the crop, how much is the wetted zone and what is the type of soil, 
+that selection is theoretical part. 
+ 
+As per the numerical value is given in the question the so one dripper of 12 liter per 
+hour capacity is adequate to apply water. 
+ 
+Question 4, here we are required to determine the number of emission devices needed 
+for desired wetting pattern of 60% of banana crop, okay. So we need to find out how 
+many number of drippers will be required. The spacing between the emission point 
+and emission devices are 2 meter and 0.15 meter, respectively. So emission point 2 
+meter, emission device that is 0.15 meter. The plant row spacing is 2.5 meter. 
+ 
+This is another information. The maximum diameter of wetted circle formed by single 
+point source emission device for a given soil is 10 cm. So, 10 cm is the diameter of 
+wetting made by a single dripper. So we can say the soil is when you see this particular value, one kind of interpretation one can make that it is a highly porous soil. 
+So wetting formed in the radial direction is lesser. Maybe more depth of water going 
+vertically downward. 
+ 
+Now, in order to solve this particular question, these are the data which is given 
+means percentage wetting area is 60%. L that is the spacing between adjacent row is 
+2.5 meter. And then we are having the spacing between the emission point is 2 meter . 
+And then spacing between the emission devices is 0.15 meter that is 15 centimeter . 
+And diameter of wetting is 10 centimeter. 
+𝑁𝑒=100  𝑊𝑝 𝑆 𝐿
+𝐷𝑤 𝑆𝑒  
+So when we are substituting these values in this question, we get the value that  
+𝑁𝑒=100  ×0.6×2×2.5
+10×15= 2  
+S is given as 2 and L is given as 2.5. The Dw is 10 centimeter and the spacing 
+between the emission devices this is 15 centimeter. So keeping these values in 
+centimeter, we will get number of emission device is 2. This is adequate to provide 
+irrigation in the desired rate. And then so this way one can get the value. 
+ 
+Now I am talking about question 5. In question 5, we are given the values that we 
+need to give water of 40 millimeter for a close growing crop and we need to 
+determine the concentration of nutrients in irrigation water when the ratio between 
+fertilization time and irrigation time is 0.4. And the rate of fertilizing irrigation cycle 
+is 50 kg per hectare. So we need to determine the concentration of nutrient in 
+irrigation water. And the data are given to us. 
+ 
+Let us see details that we are given depth of irrigation 40 millimeter. The fertilization, 
+ratio of the fertilization time to irrigation time is 0.4. And then the value we are given 
+rate of fertilizing per irrigation cycle is 50 kilogram per sector. So concentration of 
+nutrients in irrigation water can be estimated by expression  
+𝐶𝑓=100  𝐹𝑟
+𝑇𝑟× 𝐼𝑑  
+This is very straightforward. 
+We need to substitute the value and one can get the concentration in ppm.  𝐶𝑓=100×50
+0.4× 40=312.5 𝑝𝑝𝑚   
+So by this, we will get the value of concentration of nutrient in irrigation water is 
+312.5 ppm will be the appropriate answer for this question. So this is a 
+straightforward question when this particular expression and their units are properly 
+substituted. 
+ 
+Question 6. We have been given the data that rate of fertilizer per irrigation cycle is 
+50 kilogram per hectare. The area of crop in which fertigation is to be given is 5 
+hectare. The concentration of nutrient in the liquid fertilizer is 1 kg per liter. This is a 
+high concentration. But we have been given this numerical problem. Let us work out 
+what should be the capacity of fertilizer in the tank. So these values are given. 
+ 
+So it is a very straightforward question means the capacity of the tank it is given by  
+𝐶𝑡=𝐹𝑟×𝐴
+𝑐  
+The Ct equal to rate of fertilization per irrigation cycle that is expressed in kg per 
+hectare. Then the area to be irrigated this is given to us, that is 5 hectare. We have 
+been given the concentration of the nutrient in kg per liter. So this is also known to us. 
+So we are just simply substituting  
+𝐶𝑡=50×5
+1=250  𝐿  
+So, capacity of the tank is 250 liter. So this answer is straightforward. So one can 
+calculate. Now, these are the examples, which I have given. Based on this, other 
+problem, and then the designing the entire fertigation unit, this information, and these 
+expressions can be used to design the fertigation unit. 
+ 
+So you can refer for more examples these books, which are textbooks for micro 
+irrigation engineering subject. 
+ 
+So in this particular tutorial problem, we discussed about the computation of the 
+emitter capacity, how many number of emitters are required when irrigation is to be 
+given and we also worked out the problem which dealt with how to find out the 
+concentration of the nutrient, what should be the capacity of the tank. 
+ And we also worked out from the given data, how the capacity of the tank and other 
+associated things it can be worked out. In the forthcoming lecture, we will discuss 
+about the installation, operation, and maintenance of drip irrigation system. So thank 
+you very much. 
