@@ -1,0 +1,198 @@
+Novel Technologies for Food Processing and Shelf Life Extension
+Prof. Hari Niwas Mishra
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 47
+Food Quality Analysis Through Hyperspectral Imaging
+This lecture will feature Food Quality Analysis through Hyperspectral Imaging. Although
+this technology of hyper spectral imaging can be used to analyze various quality attributes of
+different food materials, this lecture focuses more towards its use on grain quality analysis
+particularly infestation and its various aspects in the grain. 
+. 
+Before  knowing  hyperspectral  imaging;  imaging  should  be  studied.  Image  is  the  visual
+representation of an objects form. A spectral imaging is a branch of a spectroscopy in which a
+complete spectrum or some a spectral information is collected at every location on image
+placed image plane, and it is the information thus collected spectral information is processed.
+The term hyper spectral imaging comes  under the domain of a spectral imaging, hyper
+spectral images are produced by instruments called imaging spectrophotometers. Spectral
+images are often represented as an image cube which are a type of data cube. Hyper spectral imaging is the combination of a spatial and a spectral imaging. The hyper
+spectral  imaging  includes  collecting  and  processing  of  information  from  across  the
+electromagnetic spectrum of the material. In general the human eyes see visible light in three
+bands that is the red, green and blue. But the hyper spectral imaging camera divides the
+spectrum into many more bands and these data generated in different locations of the material
+in different conditions, these are processed and finally represented into some sort of image.
+The hypercube is basically a n-dimensional analog of a surface. It may be a square that is
+where n is equal to 2, or it may be a cube that is n is equal to 3. So, hypercube is a n-
+dimensional analog of a square and cube. It is closed, compact, convex figure whose one
+skeleton consists of groups of opposite parallel line segments aligned in each of the space’sdimensions which are perpendicular to each other and are of same length. So,  hypercube,
+shown in the slide describes the volume of data returned by imaging instruments, and it
+illustrates how the data from the imaging instruments get reinforced to reproduce the image.
+Hyper spectral imaging system consists of some sensors. The sensors collect information as a
+set of images. These images are then combined and formed into a three-dimensional hyper
+spectral data cube for processing and analysis. And it provides actually a unique spectral
+signature  for  every  pixel  which  can  be  used  by  processing  techniques  to  identify  and
+discriminate material.
+There are the different lenses by which the image is acquired by the camera and then it is
+passed through different lenses. Finally data and signals are collected and are processed and
+converted into hyper spectral cubes which are further analyzed.The hyper spectral imaging equipment consists basically a camera for taking the image which
+is present at the top. And then some lighting assembly, lights are provided for illumination of
+the sample which is kept below the camera. The camera takes the image of the sample and it
+takes the data, and then it is passed to the computer where a particular software does the
+analysis depending upon the type of the material to be analyzed and characteristics of the
+material. The software available to be used to analyze the data and compare the result. So,
+this is the principle of operation, how spectral imaging equipment works and the different
+components present in the HS equipment.
+The light source obviously illuminates the sample. White light can be used for NIR, and
+visible data collection. And a specific wavelength can be selected by using appropriate filterswhich are provided there in the instrument. Imaging optics, collects sample reflectance and
+illumination wavelengths, and there are filters provided may be tunable filters etcetera allows
+only a specific wavelength corresponding to a particular image to be captured by the camera.
+And finally, imaging charge coupled device that is CCD so called, it records intensities of
+individual pixels for which wavelength is the there in the data collection range. So, this is
+how it collects data and processes it.
+The schematic representation depicts different types of image acquisition techniques like
+point scan and whisker broom configuration system which use a interferometer, the other
+case it is a line scan push broom configuration. There are dispersing filters in which light
+source could be seen and how the sample image is coming. Then data is sent to the dispersing
+filter.  Plane  scan  system  is  a  stating  imager  configuration.  There  are  different  image
+acquisition techniques depending the specific features available in the equipment.Once the image is acquired, the hyper spectral data is processed. Its processing means,
+grouping  these  pixel  vectors  with  a  similar  spectral  and  collection  of  characteristics  in
+classes. When the detection of pixel vectors whose spectral characteristics are similar to the
+one of known material makes the identification of the unknown sample possible. So, in that
+way, the data is grouped and finally analyzed. 
+Abundance of the data in hyper spectral imaging leads to increased processing accuracy;
+hyper  spectral  sensors  are  used  in  aircrafts,  satellites  etc.  And  they  are  now  produced
+commercially like SOC 700. These commercial production indicates a large data availability
+and usage of this technology in the near future has a good scope. The processing of full image
+cube is not desirable due to its size as well as its redundancy.
+In the feature extraction process, projecting the data from the original feature space to a lower
+dimension subspace is done that provides a more effective representation of the original data.
+So, the data points of these features are sent to the new space which has a reduced data. The
+efficiency of the representation is viewed through the separation between the classes within
+each figure and the pixels which have the similar characteristics they are grouped by the
+software.
+There may be supervised feature extraction which uses information provided by subset of
+pixel vectors that is the ground data. The classes are considered to be represented by the
+ground data, but may be unreliable or impossible to obtain. In the case of unsupervised
+extraction, no ground data is used which concentrates mainly on the redundancy reduction
+and class statistics cannot be computed or estimated.
+The steps of hyper spectral image analysis normally do not involve any kind of sample
+preparation.  The sample is kept on the sample image collecting  platform,  and image is
+acquired by hyper spectral imaging camera, and then the acquired image is calibrated. And
+the calibration may be done for the wavelength, for a spatial arrangement which is spatial
+calibration, curvature calibration and reflectance calibration. So, to calibrate a system, a
+particular wavelength or a particular spatial configuration in which image to be acquired are
+adjusted in the equipment. 
+According  to  the  calibrated  hyper  spectral  image  a  selected  wavelength  is  obtained  or
+dimensionality reduction is done i.e. dimensionally reduced data are generated. Similarly ROIselection can be done which consists of spectral extraction or textural extraction. ROI are
+generated which is averaged spectra from ROI and extracted from texture. Finally, all these
+data is sent to the computer and processed by using different software or multivariate analysis
+is performed. And the calibrated model gives different images that are chemical images or
+classified images and the grouped images are adopted which are finally compared with the
+known. So, that is how the hyper spectral images are analyzed by the software or by the
+computers. 
+The general approach for the analysis of the hyper spectral imaging is it develops a spectral
+library that are sets of hundreds of measured spectra for components likely to be encountered
+in the study area. These spectral curves are constructed for relatively pure materials. Specific
+reflectance  peaks  and  absorption  drops  are  read  from  these  curves.  And  then  they  are
+compared to the lab spectra by mixture analysis. Mixture of 2 or even 4 different materials
+can be identified as the components of the compound spectral curves. The chemometrics  applied for HSI analysis consists of classification  and grouping. The
+different chemometrics are data analysis techniques including principal component analysis,
+individual component analysis, K-mean cluster analysis, genetic algorithm, support vector
+machines or partial least square discrimination analysis. One has to see that what is the most
+appropriate method to be used for the analysis of the image depending upon the requirements,
+and what is the type of the image. So, after this regression analysis is applied for analyzing
+the data like least square regression artificial neural network or support vector machine
+system etc.
+Different softwares which are available or which are used for hyper spectral image analysis
+that is open source software include hyper spy that is used for hyper spectral visualizationand analysis purposes. Then some commercial software i.e. Erdas, ENVI, MIA, micro MSI,
+MATLAB hyper spectral toolbox, other hyper spectral tools in MATLABs are also available.
+Mountains map hyper spectral which is a version of mountains map is dedicated to the
+analysis of hyper spectral data in microscopy, opticks which is a remote application and
+scyllarus consists MATLAB Toolbox and API is also useful. All these commercial software
+are available which can be used for the processing or analysis of the data.
+The hyper spectral imaging can be applied in various sectors like analysis of the food quality,
+finding foreign matters such as plastic pieces, insects, etc. in the products. It can be used for
+analyzing particular quality or particular component of the food like concentration of sugar,
+homogeneity of different mixtures, or it can be used for controlling different production
+stages like the material characteristics before baking or after making or after mixing of the
+different. The images of the materials can be taken at various stages, and then the data can be
+analyzed to access the quality of the particular material at the particular stage.
+Similarly, in the food packaging industry HSI can be used for ensuring or inspecting the seal,
+packet contamination and the product uniformity. HIS provides a quality assurance through
+inspecting packaging material and hyper spectral imaging camera is used for judging the
+cleaning efficiency and the equipments . 
+It has a good application or potential application in use of the food sorting or for developing,
+automated food sorting machine or grading systems for grains, seeds, dried fruits. In thisapplication, the immature  and infested grains  and different sized fruits or damaged and
+bruised fruits can be sorted or graded by using hyper spectral imaging technology.
+ Li et al, in 2011 have reported a system for the detection of defects in food by using hyper
+spectral imaging techniques. Jarolmasjed et al, also have reported article analysis by HSI for
+detection of defects on the basis of the images taken of different fruits and at different
+conditions. So, development of an automated bruise detection system will help the food
+industry to provide better fruit for the consumers, and also to reduce potential economic
+losses because otherwise if spoiled food is sent to the industry it may result into the loss.
+Similarly,  some researchers  have used this  technology for detection  of defects  in meat.
+Barbin et al, 2013, Yang et al, 2017 and Cheng et al, 2016 have captured images of differentmeats like in the minced meat, cured meat. and pork mea respectively. They have determined
+the protein content, moisture, fat and biogenic amine index or total volatile basic nitrogen
+index by analysis of the image.
+They have analyzed the aforementioned components in the different meat samples through
+they the captured image. And with the image of the pixels, they have grouped and classified
+the  spoiled  meat.  Similarly  in  another  study  some  researchers  have  indicated  the
+classification of the fish on the basis of their freshness. The pixels in the red are considered
+not fresh and the intensity of redness has the potential effect, more intense red image in the
+pixel of the fish indicates that the fish is not fresh. 
+Similar use of hyper spectral imaging in grain quality analysis have been reported by some
+researchers. Caporaso et al, in 2018 reported hyper spectral imaging cubes showing wheat
+kernels by taking different images of different wheat kernels. Then Manley et al, in 2014,
+detected the quality of yellow maize kernels. It is the PCA score images of whole yellow
+maize kernels enabling visualization of similarity in chemical composition depicting similar
+color indicating similar composition of the endosperm texture. 
+In second picture b, it is the score plot of PC2 versus PC5 with three clusters. It is the
+classification plot based on cluster identified in PC score plot in picture c. And finally,
+picture d is the classification image after projection of the classes identified in the score plot
+and to the score images. In FCTL, Mishra et al, 2018 have conducted studies on the detection of infestation and the
+level of infestation in stored wheat grain. In this process fresh wheat sample are taken, and
+conditioned to different moisture level by adding calculated amount of water to make the
+moisture content in grain to 10, 12, 14, and 16% (wb).
+These grains were allowed to be inoculated with a known number of insects and at different
+life stages of insect, and stored at 65 % relative humidity and 27  C temperature. This
+procedure was followed to get a known level or quantum of infestations in the stored wheat
+samples.  In  the  second  phase  after  the  preparation  of  infested  wheat  sample  having  a
+containing different infestation stages of the insect, combinations and permutations is done
+and used.
+The image of these samples were acquired using hyper spectral imaging camera present in
+FCTL Lab. The false color image of the hypercube of the infested grain and then with the
+help of the chemo metrics software, these spectras were analyzed and finally the  principal
+cluster analysis was done.The effect of moisture content on the degree of infestation of the fresh grain at 10, 12, 14 and
+this 16% moisture content (wb) is reported. The difference between the fresh grain of 10%
+moisture content and other higher moisture till 16% is clearly visible. The image of the
+infested grain after 180 days that is at 10% moisture content is shown in the study. The
+pictures in the bottom indicate the PCA score plot of the fresh grain and PCA score plot of
+the infested grain I had 180 days of storage. By comparing the spectra of the fresh image as
+well as the infestation level, the quantum of infestation can be analyzed.
+Hyer spectral imaging technology has a vast potential for application in food processing
+industries  as  it  has  many  advantages.  The  primary  advantage  is  that  because  an  entire
+spectrum is acquired at each point the operator needs no prior knowledge of the sample, evena person who does not have the technical knowledge of the sample can do this, can take the
+image, they can analyze the data, and the post processing allows all available information
+from the data set to be mined.
+Hyper  spectral  imaging  can  also  take  advantage  of  the  spatial  relationships  among  the
+different spectra in a neighborhood, allowing more elaborate spectral-spatial models for a
+more accurate segmentation and classification of the image.
+HSI technology has certain drawbacks. Among all of them, the most important is that it is a
+costly process and a bit complex particularly the analysis of the data and image. Although
+image capturing is easy, but to analyze and process the image, the use of the appropriate
+software is crucial. All these procedures need some skill, technical competence which is a
+cumbersome work. The computers are very fast computers and even have very sensitive
+detectors. So, large data storage capacities are needed for analyzing the images or hyper
+spectral data.
+And also, one of the hurdles researchers have had to face is finding ways to program hyper
+spectral satellites to sort through data on their own and transmit only the most important
+images, as both transmission and storage of the data could prove difficult and costly. So, if
+such systems are available which can sort or acquire only the required images and their
+required data and if system is able to transmit that only required spectra, will make the
+procedure compact and hurdle free.Hyer spectral  imaging  technology  is an emerging  area in food processing, food quality
+analysis, and it has a great potential of its application. And the data generated by the system
+can be relied upon, and this will give an excellent platform for analysis of quality to food
+processing sector.  HIS will represent itself as a very promising method of quality analysis.
+The most important point is that is it is a non-destructive method and once the libraries are
+created then it can be done more frequently in a routine manner with faster pace and better
+accuracy.

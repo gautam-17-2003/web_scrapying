@@ -1,0 +1,178 @@
+Novel Technologies for Food Processing and Shelf Life Extension
+Prof. Hari Niwas Mishra
+Department of Agriculture and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 53
+High Energy RTE Food Paste (Part 1)
+High energy and protein foods are the foods that provide high calorie in the diet to fuel
+individuals with increased energy and proteins requirements. An increased energy and
+protein diet may be taken to encourage weight gain and catch up with growth, to meet
+increased needs due to illness, or during times of poor appetite.
+High energy ready to eat food paste are energy dense and micronutrient enhanced pastes
+which are commonly used in therapeutic feeding. These soft foods are homogeneous mix
+of lipid  and  protein rich  foods  containing  essential  micronutrients.  These  foods  are
+suitable for the treatment  of malnourished children particularly those suffering with
+severe acute malnutrition problems. 
+Advantages of the high energy ready to eat food pastes include that these foods; have
+high calorific value and they are fortified with needed micronutrients. They contain
+oilseeds, cereals, oils, sugar, milk powder and micronutrient premix. They have low
+water activity and because of low moisture content and low water activity they do not
+support the microbial growth. So, they have comparatively longer shelf life.
+They are smooth homogeneous paste with smooth texture. They have particle size is
+generally less than 200  µ. Important characteristics of ready to eat high energy food
+paste include pleasant flavour, convenience in using and can be safely used for home
+consumption. They do not need any prior dilution or cooking or any preparation before
+consumption.The ideal characteristics of a ready to eat food paste include the following; 1) It should
+contain good nutritional value i.e., protein, energy and micronutrient contents of ready to
+eat food paste should be up to the appropriate levels, 2) It should provide amino acid
+complementation for maximum protein quality i.e. amino acid from different sources like
+milk sources or vegetable sources such that they become complementary to each other in
+providing essential amino acids to the body. 3) The texture should be smooth; they
+should be uniform in their size and characteristics, there should be no grittiness, no
+lumps or no oil separation. 4) It should be easy to squeeze out of the sachet, 5) It should
+have a light cream or brown colour, 6) It should have adequate shelf life and stability, 7)
+It should be resistant to bacterial contamination and highly palatable with good taste. 
+The ingredients of ready to eat food paste may be broadly categorised into four groups;
+First group include those ingredients which provide energy such as fats, oils or sugars,
+they  are  used  as  energy  supplement.  Second  set  of  ingredients  includes  protein
+supplement  like  legumes,  pulses,  oilseeds  or skim  milk  powder. Third  set  includes
+micronutrient premix containing required vitamins and minerals. Fourth group is the
+staple food ingredient preferably containing cereals which is used as a base material for
+the preparation of the ready to eat food paste. 
+Some common ingredients for ready to eat food paste are the peanut butter, vegetable oil,
+sugar, cereal powder, milk powder, vitamin & mineral premix, antioxidant, emulsifying
+agents and flavouring. For peanut butter, the raw peanut has been roasted, split and
+ground, without added oil, salt or preservatives. Vegetable oil like sunflower oil, soybean
+oil is another important ingredient of ready to eat food paste. Rapeseed oil and soybean
+oil are preferred as they have the advantage of providing a good balance of essential fatty
+acids. The desired granular size of white sugar or brown sugar should be less than 200 µ.Cereal powders include cereal based formulation such as Bengal gram, maize, etc.  Skim
+milk powder, full-cream milk powder, whey protein powder can be used as a protein
+complimentary sources. Bioavailability of vitamins and minerals should be insured while
+preparing  the  vitamin  and  mineral  premix.  The  premix  should  neither  alter  the
+characteristics of the product nor have any a specific flavour or colour.
+Antioxidants  are  added  to  stabilize  the  product  and  prevent  oil  oxidation.  Some
+emulsifying agents are also added to avoid the separation of oil and improve the binding
+properties  of  the  material.  For  example,  lecithin  (max.  0.5  g  /100  g),  mono  and
+diglyceride (max. 2 g / 100 g) can be added without any adverse effect. In case of
+flavouring, natural flavours are preferred for taste masking.According to the UNICEF or WHO program, the nutritional composition of ready to eat
+food paste for severely acute  malnutrition children should contain moisture about 2.5 %
+maximum, energy 520 – 550 kCal/g, protein 10 to 12 % of the total energy and 45 to 60
+% of the total energy should come from the lipid sources.
+For microbiological safety, it should have less than 10000 CFU/g, yeast count less than
+10, mould less than 50 and E.coli should be negative.
+Similarly, the micro nutrient requirements for these foods are also recommended. It
+should have potassium 1100 - 400 mg / 100 g, phosphorus 300 - 600 mg / 100 g, vitamin
+e should be minimum 20 mg / 100 g and biotin should be minimum 60 mg / 100 g.
+Similarly, other vitamins and mineral composition is recommended. The quality control in selection of raw ingredient is very important factor as the growth
+of fungi or mold may cause the production of toxins.  Aflatoxin is produced by an
+Aspergillus species of fungus (molds), which contaminates the peanuts after they have
+been harvested. Consumption of aflatoxin can result in hepatic oxidative stress, and
+predispose the individual to hepatic cancers. Very high doses of aflatoxin can produce
+acute intoxications and moderate doses may depress child growth.  Therefore, care must
+be taken to store peanut in cool and dry environment or treat peanut with fungicide.
+The raw  ingredient  must be free from any bacterial  contamination  which might  be
+dangerous to health.  Increasing water content allow bacteria, mold to grow, promoting
+product degradation. Rodent/insect contamination of the stored ingredients should beavoided. Contamination through unhygienic handling of the ingredients should be taken
+care of.  Hence to avoid any type of contamination a good manufacturing practices or
+good hygienic practices must be followed in the processing plant and in the storage
+facility.
+Pesticides and heavy metals cause acute and delayed health effects, ranging from simple
+irritation of these skin and eyes to more severe effect such as affecting the nervous
+system, mimicking hormones causing reproduction problem, and also causing cancers.
+So, analysis of the content of pesticides and heavy metals will resolve the further health
+related issues. Similarly, the oxidation of oil could be an issue in affecting the quality
+of paste. One of the possible reason may be the loss of vitamins during storage.
+There  are  three  steps  for  the  formulation  of  RTE  paste.  Step  1,  selection  and
+identification  of  the  ingredient.  Firstly,  the  target  group,  type  of  malnutrition,  and
+geographical area has to be decided. Then second step is optimisation of the formulation
+using linear programming tool. And then finally, the comparison with lab testing and
+sensitivity analysis has to be done. The flowchart for formulation of RTE paste can be
+referred from the above slide.
+MATLAB 7.1 can be used to perform linear programming. The steps involved in solving
+includes defining of the objective function and constraint (bounds, upper bounds, lower
+bound, equality, inequality). Then assigning the variables, calling the linprog solver, and
+finally evaluation of the result. 
+On the basis  of objective  function  and constraints  the optimum  solution of various
+ingredients  (x,  y,  z)  is  obtained.  The  result  obtained  should  be  cross  checked  in
+laboratory testing before proceeding further. The primary unit operations include processing like cleaning, sorting, grading, washing,
+dehulling  etc.  In  cleaning,  sorting,  grading  and washing some  dirt,  damaged  grain,
+foreign grains, noxious seeds, insects and insect etc. are removed. 
+Then the next step is dehulling; dehulling of the pulses, legumes, oilseeds, cereals, is
+done by using a suitable dehulling machine where the outer hull or seed coat is removed.
+Dehulling facilitates or reduces the fibre content of the material to acceptable levels. It
+decreases or if possible it eliminates phytates, tannins, and phenolic materials. It also
+removes chymotrypsin inhibitors which can lower the protein digestibility, amino acid
+bioavailability and minerals absorption.
+Milling is used to minimize the loss of nutritional value and avoid undesirable changes in
+ingredients. It increases the  feasibility to mix the ingredient properly according to the
+formulation and maintain uniform particle size of the ingredients. The major benefit
+obtained from the milling is easy mixing of the different ingredients and formation of
+smooth paste.
+Formulation  containing  cereals,  legumes,  pulses, or starchy roots  (potato  and  sweet
+potato) require adequate boiling to gelatinize the starch and to eliminate anti-nutritional
+factors. Boiling also improves the digestibility and absorption of nutrients. 
+Roasting of cereals and legumes improves colour, texture; extends shelf life and reduces
+the  anti-nutrient  factors.  It  enhances  flavour  through caramelization and Maillard
+browning on the surface of the food. It improves digestibility and contributes to reduce
+the bulkiness  of formulated  food. It reduces  microorganisms  and enzyme  activities;
+destroy insects and increases the nutrient level of grains. 
+Roasting process contribute to the formation of characteristic aroma and flavour that may
+be through mallard reaction or due to the interaction with sugar. 
+For example, in the case of potato, amino butyric acid reacts with sugar and give rise to
+the characteristic caramel flavour or nutty flavour. Similarly, in the peanut or cocoa bean
+there  are  the  different  enzymes  which  contribute  to  the  characteristic  flavour
+development.Sprouting, malting and fermentation can induce hydrolysis of phytates and decrease its
+effect on absorption of minerals. Action of natural amylases results in pre-digestion of
+starch protein. It may also improve the vitamin content. During germination, the seed
+coat of the grain splits which can be easily removed by washing. Therefore, care should
+be taken to eliminate the growth of mycotoxin producing microorganisms. 
+The above slide shows the process flowchart for the preparation of ready to eat food
+paste. The pre-processed raw ingredients like roasted floor, peanut etc. are added to
+processed  powder  ingredients  like  milk  powder,  sugar,  vitamin  mineral  premix,
+emulsifier, stabilizers and liquid ingredient (vegetable oil).The above mixture is weighed by appropriate metering unit or weighing unit. The next
+step is the mixing of the ingredients which include both liquid and solid ingredient by
+using suitable equipment to form a paste. This paste is further homogenised to obtain a
+uniform particle size. And the last step is the packaging of paste in appropriate packets. 
+This slide shows the schematic or operation wise process flow chart for the preparation
+of the RTE paste. There is a primary grinder where roasted oil seeds like peanut are
+added. The liquid ingredients, solid ingredients along with some stabilizers are mixed
+with the help of dozing tank. This mixture is further passed to the colloidal mill where
+the flour, sugar and milk powder are homogenised. Finally, the paste produced is sent to
+the packaging unit to be packed in appropriate packets.
+The next operation is the packaging. Packaging is in the form of sachets of different
+sizes, moisture, oil and air proof materials (ALP, PET). This packets should be totally
+impermeable to air or moisture.
+Normally ALP, PET are considered suitable material for the packaging of such type of
+product. The ink and glue used should be food contact approved. The proper sealing is
+very important to prevent leakage. It should be hermetically sealed and sealing should be
+minimum 2 mm to ensure no entry of air. The seal should be free of impression or design
+on  the  seal  surface  that  would  conceal  or  impair  visual  detection  of  sealed
+effects.
+Finally, after packaging the labelling becomes very important. It should contain the
+proper information about the ingredients under regulatory agencies in different country.
+The labelling should conform to the existing regulations of the nation in which the food
+is prepared and to be consumed. In general, the information that are clearly printed on
+the label should include product generic name, raw materials listed in descending order
+of quantities, clear pictorial instructions, manufacturing date, best before date, batch or
+lot number, storage conditions. A leaflet should be included in each carton with detailed
+nutritional composition of the product, and composition of mineral and vitamin premix.Cleaning  and  sanitization  is  another  important  aspect.  It  can  be  automated,  semi-
+automated and integrated CIP systems. Integrated CIP system is preferred because this
+CIP system allows the cleaning and sanitization of the closed or open circuits without
+dismantling the equipments.
+In the CIP system, different consumables are water which is used for preparation of
+chemical, hot water solution or rinsing steps; time for preparation of the CIP solution,
+disinfection steps, rinsing steps; chemicals like alkali, acid, disinfectants; and energy for
+heating and cooling. 
+The above slide shows the flowchart of the CIP process. In batch system, after the
+completion of each batch all the equipment are pre-rinsed, alkali cleaned to eliminateaccumulated organic matter, rinsed with hot water to wash off residual caustic, acid
+cleaned to eliminate mineral deposits and neutralize any residual caustic, rinsed with hot
+water to push out residual acid and salts, disinfected to kill or inactivate microorganisms
+and finally post rinsed to eliminate the CIP chemicals. 
+Safety
+The ready to eat food paste should be free from any objectionable matter. It must not
+contain any toxic substance originating from microorganisms or any other poisonous or
+deleterious  substances  including  anti  nutritional  factors,  heavy  metals  or  pesticides
+etcetera.
+In this table, there are shown the maximum levels of different objectionable content in
+RTE  paste.  The  tolerable  limit  of  aflatoxin  is  maximum  5  ppb.  Similarly,
+microorganisms content, CFU, coliform test, yeast, mould etc. are provided in this table.

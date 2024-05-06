@@ -1,0 +1,162 @@
+Novel Technologies for Food Processing and Shelf Life Extension
+Prof. Hari Niwas Mishra
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 10
+Traditional Food Preservation Technologies – Part 2
+In the first part of Traditional Food Preservation Technologies, different methods that are
+traditionally  used  for preservation  of food,  the  target  factors  in these  methods,  the
+objectives and the mode by which these objectives are achieved were elaborated in
+detail. 
+There are three sets: one set of technology are used to slow down microbial growth,
+other  sets  of  technologies  are  used  to  kill  or  inactivate  microorganisms  and  other
+technologies are used to reduce the contamination or restrict the access of microorganism
+to food. In all these processes, control of water activity, control of pH and heat treatment
+are the major factors which are used to preserve the food traditionally. 
+Thermally processed food constitutes a large part of the food processing industry or the
+products which are available in the market. This lecture basically discusses the effect of
+heat on the lethality of microorganisms. 
+The impact of heat treatment on microorganisms is estimated from the measurement of
+the surviving cells against heating time. The destruction profile obtained forms the basis
+for the designation of the operational requirement for the design of thermal process. Thisis mostly based upon the total energy input that is required for the inactivation of most
+heat resistant form of the spore forming bacteria.
+Traditional estimations of the efficiency of preservation and disinfection process are
+based upon the assumption that microbial death follows a known evolution. Each species
+of the microorganism has its own particular heat tolerance. Thermal operating conditions
+are determined experimentally and the data are presented as the number of surviving
+microorganisms or viable spores against the exposure time at a given temperature.
+Different experiments under different temperature and time conditions are conducted and
+the effect of these time and temperature combinations on either killing or survival of the
+microorganisms are estimated. These recorded data are analyzed to find out whether the
+effect of change in the temperature is influencing the microorganisms and its survival in
+the  heat  process.  The  thermal  destruction  kinetics  of  microorganisms  becomes  an
+important subject in the thermal process design.
+Thermal death kinetics or survival curve is one of the major data which are generated
+experimentally on the most heat resistant vegetative cell or spore of the bacteria. It is
+plotted in the form of a survivor curve. The log number of surviving bacteria is plotted
+against a time; generally a straight line is obtained. In the figure, Line 1 gives a linear
+relationship and this linear relationship implies that thermal destruction phenomenon is a
+first order reaction. However, as you could see in the figure 2 and 3, the deviation from
+the thermal death curves may be observed and this thermal death curve can also becharacterized by shoulders and tails. The deviation from linearity may be related to the
+composition  of  the  microbial  population,  germination  of  sporulated  forms,  or
+heterogeneity of the thermal treatment .
+In this graph, a schematic representation of the three types of microbial survival curves,
+representing the number of viable cell against the time is depicted. Line 1 which is a
+linear relationship, gives a straight line. This curve shows that in the population there is a
+homogeneous mass of microorganism and it has been homogeneously heat treated i.e. all
+the microorganism have received uniform heat treatment.
+The line 2 is a typical curve, where composite population i.e. thermo sensitive as well as
+thermo resistant cells coexist in the system. The 3rd line is the curve of microorganisms
+that are activated by short exposure to heat. When the heat is given to the system, some
+of the spores might germinate or there might be certain fragmentation.This indicates that in line 2, coexistence of strains, having different thermal resistance
+gives  the  segmented  lines.  Thermal  activation  of  germination  is  responsible  for
+maintaining the initial cell number which is shown in line 3. 
+In the straight part of these plots, the number of cells thermally destroyed at temperature
+T during the time interval Δt in seconds is represented by the equation 1.
+X (t + ∆t) – X (t) = -k X (t) ∆t             … (1)
+Where, X is the number of living cells, and
+            k is the destruction rate (s-1)
+Equation 1 can also be written as 
+X = Xo e-k t                … (2)     
+Where,  Xo  is the number of cells initially present, 
+   X    is the number of survivors,
+              t     is the exposure time (s), 
+   k   is the destruction rate (s-1)
+Early research introduced the D-value, defined as the decimal reduction time (average
+time of exposure needed to reduce the number of microorganism by a factor 10) which
+leads to the following equation                                   
+                                            X = Xo  10 -1/D               … (3)
+D value is obtained by plotting the log number of survivors (Y axis) against time (X
+axis) on a semi log paper. A straight line is obtained. The time required to reduce the
+microbial population by a factor of 10 is known as D value also called decimal reduction
+time. If k is replaced by D in the equation 2, equation 3 is obtained.
+Another parameter which is used to indicate the thermal resistance of microorganism is Z
+value. Like in D value where, log number of survivors is plotted against time, if D value
+is plotted against temperature, a straight line is obtained and the slope of this curve is Z
+value. Z value corresponds to the increase in the temperature that induces a reduction of
+D value by a factor of 10 and this is given by equation 4.D = Dref  10 - [(T- Tref) / Z]         … (4)
+Where, T (⁰C) is the treatment temperature, and
+              Dref is the thermal reduction time at the reference temperature T ref .
+The reference temperature for pasteurization process is generally 71.7  ⁰C and for the
+sterilization process it is 121  ⁰C. Z value gives a good indication about the thermal
+resistance of the microorganism, for eg. consider there are two microorganisms. One
+microorganism has a Z value of 10 ⁰; another microorganism has a Z value of 50 ⁰. One
+has to increase the temperature to 50 ⁰C to get that 1 log cycle reduction in D value
+whereas in other case just by increasing the temperature by 10 ⁰C, we can get a 1 log
+cycle reduction in D value. Reactions or components (microorganisms/nutrients) that
+have small Z-values are highly temperature sensitive.
+Thermal  process  calculations,  therefore,  involve  the  need  for  knowledge  of  the
+concentration of the microorganisms to be destroyed and the acceptable concentration of
+microorganism that can remain in the final product. It is necessary to decide whether to
+go for 12 or 8 or 5 log cycle reductions depending upon the number and type of the
+microorganisms, thermal resistance of the target microorganisms, food characteristics,
+and  the  time  temperature  relationship  required  for  the  destruction  of  the  target
+microorganisms.There are specific D and Z values for the thermal inactivation, destruction of enzymes,
+vitamins, pigment and the microorganism i.e. the unwanted elements in the food like
+pathogenic cells, toxins, enzymes or desirable components in the food like nutrients,
+flavor and color, have different D value as well as Z values. The differences of the D
+value and the Z values of these undesirable and desirable components on the foods are
+generally exploited to optimize the thermal treatments and form the main basis for the
+optimization of the thermal process conditions.
+In this figure, the relative change in the time temperature profile for inactivation of
+microorganisms and the destruction of vitamins in the food can be observed. Z value and
+D value for these components  differ. Z values for enzymes, vitamins  and pigmentsgenerally are found in the range of 20 to 70 ⁰C. This difference allows the manufacturer
+to determine an optimal thermal process condition like temperature and exposure time.
+Most of the thermal process may be of low temperature long time or high temperature
+short time.
+The low temperature long time methods generally lead to the destruction of the nutrient
+and in high temperature short time, since the exposure of the food component to the
+temperature  is  very  short;  it  results  in  better  nutrient  retention,  and  high  microbial
+destruction. It can be seen in the graph that, for the pathogens the Z value is less than 15
+⁰C whereas, the food nutrients like vitamins color, flavor, etc. they have a higher Z
+value. Vitamins will remain intact for Z less than 30 ⁰C; if the Z value reaches 30 or
+above, vitamins will get destroyed. So, the shaded area is the point of focus where the
+pathogens  get  inactivated  and  the  desirable  constituents  of  the  food  like  vitamins,
+pigments, colors, etc. are also retained. The shaded area represents the region where the
+thermal parameters allow preservation of vitamins and destruction of microorganism
+through the high temperature short time treatment. 
+The classical microbial inactivation models based on the temperature levels and exposure
+times are highly influenced by intrinsic and environmental conditions during the thermal
+treatment. It also influences the thermal destruction kinetics of the microorganisms.One important factor is heating rate, the rate at which heat process is applied which is
+generally not taken into account in the models of thermal destruction although it has
+been found to be a determinant parameter affecting the survival of the microorganisms.
+Even heat shocks are found more effective than the progressive heating. Heat shocks
+enable the heat optimization of the thermal destruction process by increasing the heat
+gradient. Instead of heating continuously if we give heat shock then it has more influence
+on the microbial  death. At a fundamental  level, the effects  of heating  rates  on the
+membrane permeability also emphasized the fact that cell membranes are structurally
+dependent on heating kinetics.
+The other factors include environmental factors in which the food is heated like water
+activity  and  hydrostatic  pressure.  These  parameters  significantly  influence  thermal
+treatment  effects  on  the  viability  of  microorganisms.  Microorganisms  appear  to  be
+thermally stabilized by intermediate a w values in the range of 0.3 to 0.5 and the most
+favorable  hydration  conditions  for their  destruction  correspond  to  fully  hydrated  or
+dehydrated media.
+As proteins are generally stabilized by extreme dehydration, it can be speculated that the
+thermal destruction of cells in dehydrated media is enhanced by the oxidation or by
+membrane destabilization. The major role played by membrane destabilization in the
+induction of cell death can be seen in the way that passing through the membrane phase
+transition  using  a  cooling  step  enhances  cell  resistance  to  osmotic  dehydration
+significantly.  The  main  implication  of  these  results  is  that,  thermal  stabilization  of
+dehydrated products can be optimized especially when high heating rates are used.The combination parameters also influence the heating process or thermal destruction of
+microorganisms in food. The association of hydrostatic pressure with temperature is an
+efficient  means  to  control  microbial  survival.  One  very  interesting  aspect  of  this
+interaction  comes  from  the  elliptical  shape  of  the  viability  curves  on  temperature
+pressure diagram. These curves which are analogous to the protein denaturation curves,
+suggest that the inactivation effects that are obtained by heating under pressure can be
+more efficiently obtained by cooling at negative temperature under pressure.
+This forms the principle of hydrostatic high pressure processing i.e. the cold temperature
+-high pressure inactivation effects is surely a promising means to provide safe, but non-thermally  affected  food  products.  This  forms  the  principle  of  the  high  pressure
+processing of the food which is one of the emerging technologies in food processing.
+The water activity and hydrostatic pressure are two thermodynamic parameters rarely
+taken into account in thermal process calculation models but that greatly modify the
+thermal effects observed in classical conditions of hydration and pressure. Hydration and
+hydrostatic  pressure  levels,  as  well  as,  heating  rates,  strongly  influence  thermal
+stabilization of food products and these parameters could be more efficiently used to
+improve classical heating process. 
+So,  by  proper  control  of  these  parameters  like  heating  rate  or  by  having  a  proper
+combination of the heating process as well as the environmental conditions, a better
+thermal process with better desired sterility level in the product can be established. A
+better thermal process will have the desired level of nutrients and other quality factors in
+the food. So, this thermal destruction kinetics becomes an important aspect in designing
+the thermal process parameters for a food.
