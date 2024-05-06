@@ -1,0 +1,288 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapal li 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 44  
+Drainage System Design  
+This is lecture number 44 which is on drainage system design  and we will be talking about 
+the drainages principles and some equations us ed in designing drainages. If you see the 
+groundwater flow , it is very slow at first, it takes 10 to 12 m /day, but if you go deeper it  will 
+take years. So, this is an entirely different ki nd of flow compared to open channel flow where 
+the flow is not  having any interfer ence with the soil particles  and it is not a porous flow  
+(Refer Slide Time: 01:23)  
+ 
+So, flow through porous media is very slow . The Laplace equation is the basic principle used 
+for groundwater flow. So, let us see how this has been derived. So, this is a combination of 
+both Darcy’s equation and the mass continuity equation.  
+Darcy’s equation can be written as  𝑞=𝑉×𝑖=𝐾×𝑖=𝐾𝑑ℎ
+𝑑𝑆 
+K is the hydraulic conductivity, i  is the hydraulic gradient, dh is the head difference with the 
+distance dS.  So, this is the same thing if you have a saturated soil column that has the pressure 
+difference dh, and then you have the length dl or ds. And q is the flow that is taking place.  
+And then for the three -dimensional system , the same equation can be written as  
+𝑉𝑥= 𝐾𝑑ℎ
+𝑑𝑥,  𝑉𝑦= 𝐾𝑑ℎ
+𝑑𝑦, 𝑉𝑧= 𝐾𝑑ℎ
+𝑑𝑧 
+For steady -state condition  (no change in storage ), the mass continuity equation can be written 
+as  
+𝑑𝑉𝑥
+𝑑𝑥+𝑑𝑉𝑦
+𝑑𝑦+𝑑𝑉𝑧
+𝑑𝑧=0 
+(Refer Slide Time: 03:48)  
+ 
+So, combining the  two-equation above , putting the values of Vx, Vy, and V z, we get  
+𝐾𝑥𝑑2ℎ
+𝑑𝑥2+𝐾𝑦𝑑2ℎ
+𝑑𝑦2+𝐾𝑧𝑑2ℎ
+𝑑𝑧2=0 
+For homogeneous and isotropic soil system, Kx = K y = K z 
+𝑑2ℎ
+𝑑𝑥2+𝑑2ℎ
+𝑑𝑦2+𝑑2ℎ
+𝑑𝑧2=0 
+which is the well -known Laplace  equation for groundwater flow.   
+(Refer Slide Time: 04:56)  
+ 
+Exercise 44.1:  
+A 1.2 m deep soil column consists of three layers, having 0.50, 0.4, and 0.3 m depth of the 
+layers. The horizontal hydraulic conductivity of the l ayers is 0.20, 0.15, and 0.25 m3/m2/h, 
+respectively. Determine the resultant horizontal hydraulic conductivity of the soil column.  
+Solution:  
+We know,  
+KH=∑Kidi
+∑di  
+Putting the value in the equation  
+KH=(0.20×0.50)+(0.15×0.4)+(0.25×0.3)
+1.2  
+𝐾𝐻=0.235 m3/m2/h (Ans.)  
+(Refer Slide Time: 07:05)  
+ 
+Next is  groundwater flow to drain, we have known the steady -state groundwater flow using 
+the Laplace equation. So, you need to assume certain things while estimating the water flow 
+or the discharge or drainage t o the drain pipe. In the image above you can see the ground 
+surface  let us assume q is the accretion rate that is accumulate d and t he flow is taking place 
+into the ground. And the drainpipe after sometime is making an equilibrium with the flow  
+system.  To assume a steady -state problem, recharge has to  be equal to the drain discharge . 
+Then flow lines are parallel to the drains  as shown in the image above. 
+(Refer Slide Time: 08:36)  
+ 
+Then the next is horizontal flow -based solutions , if you see the image above , in the actual 
+condition it is going to the drain somewhere . The pressure at the phreatic surface or water 
+table surface is atmospheric  and then you can see the flow lines . In the case of horizontal 
+flow-based conditions the Dupuit -Forcheimer assumptions need to be considered  so, the flow 
+lines are horizontal.  
+So, here we consider these flow lines are horizontal  and then equipotential lines are vertical. 
+The vertical equipotential lines and the flow velocity in the plane at all depths are proportional 
+to the slope of the water table only an d independent of the depth of the flow system. So, here 
+the flow which is taking place depends on the dh /dx, which is the slope of the velocity which 
+is taking place or the flow which is taking place , or the drawdown curve . 
+(Refer Slide Time: 10:04)  
+ 
+And the next is the design of the surface drainage system , the surface drainage is mostly plan 
+based on the rational method.  
+1. Estimation of Design Surface Runoff  
+Peak surface runoff rate ( Q) using Rational method,  
+Q = CIA 
+Where, Q = runoff rate (m3/h)  
+A = area from where runoff generates (drainage area) (m2) 
+I = peak rainfall intensity (m/h)  
+C = runoff coefficient (0.5 to 0.7)  
+For design purpose s, the value of I can be taken from long -term (20 –50 years) peak rainfall 
+records. 
+(Refer Slide Time: 11:34)  
+ 
+2. Design Considerations and Layout of Surface Drainage System  
+So, the first thing is drain layout should be based on topography, the shape of the 
+farm /catchment, direction of the natural slope , position of the farm buildings and roads  so that 
+it does  not cross buildings or roads  and position /existence of natural depressions channels or 
+river the drain base should be a little bit higher than the other river or depressions  so that water  
+can go into the depression or river.  
+The drain layout should be done with consideration of the minimum length of run and 
+minimum crossing of the road  so that the construction cost will be reduced, and minimize the 
+wastes of land and cost of culverts.  Land grading serves the purpose of surface drainage 
+because if  the lands are not  level then the drainage system does not work properly
+(Refer Slide Time: 13:14)  
+ 
+The image above is an example of how the surface drainages are being constructed. For 
+example,  you have  an office building , farm implement shed , weather station . And you want 
+to construct a surface drain in this piece of land  by considering  these three places  and you 
+need to also look at the slope.  The main drain can be seen in the above image whic h is taking 
+place  and it is kind of a collector. And there are feeder  drain s that are not crossing the office 
+building or the weather station. And sometimes the secondary drain and the tertiary drain  are 
+also present, the tertiary drain drains to the secon dary drain, and secondary drains to the main 
+drain. So, this way we need to check out the drainage plan system without crossing the office 
+building , farm implements shed, and weather  stations.  
+(Refer Slide Time: 14:50)  
+ 
+3. Hydraulic Design of the surface drain (drainage channel)  
+So, then the next  is the hydraulic design of surface drain, which  is similar to the design of an 
+open irrigation channel. In the case of an open irrigation channel, so we will be looking into 
+the peak runoff taking place from the p articular area and then design the dimensions. 
+Similarly, here the capacity should be based on the design peak surface runoff from the 
+drainage area. Using the rational formula, you will know what is Q peak. And the concrete 
+channel both rectangular and tr apezoidal types can be easily constructed. So, for concrete 
+channels , you can also go ahead with the rectangular , trapezoidal . Whereas for earthen 
+channels safety or  stability is concerned so you have to construct  the trapezoidal type of 
+channels.  
+(Refer S lide Time: 15:46)  
+ 
+Exercise 44.2:  
+Surface drainage should be planned for a new agricultural farm to drain out irrigation tail -water 
+and seasonal rainfall runoff. The m aximum rainfall intensity at the site in 20 years record is 35 
+mm/h. The tertiary drain  would have to carry runoff from 4 ha land. The secondary drain would 
+have to carry thrice of tertiary, and the main drain to carry discharge of four secondary drain s 
+(of similar flow). Determine the design discharge capacity of the (a) tertiary, (b) secon dary, and 
+(c) main drain.  
+Solution:  
+We know, Q = CIA 
+Here,  
+Drainage area, A = 4 ha  
+= 4 × 10, 000m2= 40,000 m2 
+ 
+(Refer Slide Time: 17:12)  
+ 
+Design rainfall intensity, I = 35 mm/h  
+                                              = 9.72× 10-06 m/s 
+Runoff coefficient, C = 0.6 (as of agricultural land)  
+Putting the values, discharge capacity for the tertiary drain , 
+ 𝑄𝑡 = 0.6 ×9.72×  10-06× 40000  m3/s 
+  = 0.233 𝑚3/𝑠 
+Discharge capacity for the secondary drain , 𝑄𝑠 = 𝑄𝑡×3 = 0.233 ×3  
+                                                                                     = 0.7 m3/s 
+Discharge capacity for the main drain , 𝑄𝑚 = 𝑄𝑠×4 = 0.7×4  
+                                                                             = 2.8 m3/s(Ans.)  
+(Refer Slide Time: 18:02)  
+ 
+Next is the design of pipe drainage systems. So, in this system , the variables we will be 
+focusing on are the discharge capacity let us say q , and water table depth to be maintained in 
+the field relative to soil surface  let us say  H because this is where we will be we are looking 
+for our root zone . And then other variables are  field drain age base width W, and the spacing 
+of the land , L. These are the main parameters we will be considering in the pipe drainage 
+system.  
+(Refer Slide Time: 19:08)  
+ 
+And then, here for steady -state formula, steady constant flow occurs through the soil to the 
+drain and discharge equals to recharges and h is constant. So after equilibrium whatever the 
+q taking place that will be equal to the drain di scharges so that the h is constant and it becomes 
+a steady -state. And then in the unsteady -state formula , all other parameters are varying, so the 
+q may not be  the same as th e discharge , and h is not constant.  
+(Refer Slide Time: 19:50)  
+ 
+And then drain spa cing, the drain spacing formula input are q, H, and W. From H and W, you 
+can estimate h, W minus H  is h. And from q and h knowing the drain type and soil parameters  
+you can estimate the drain spacing formula and then estimate the drain space  L. So, this is  the 
+simple way to remember how to estimate drain spacing by knowing the q, H , and W and also 
+drain spacing formula and other parameters.  In the real case,  W is the base width, D is depth 
+to your base from the impermeable stratum.  If you see the flow lines  which are going vertical 
+then after that it is going radial. But in the case of schematized , it is difficult to formulate in 
+this way. So, in the case of formulations, it is vertical and then horizontal, the flow is taking 
+place in three modes, one is vertical, horizontal , and radial.  
+So, for radial flow the diameter is 0.7D  and the horizontal flow will be taking place at the 
+depth of about L/4 that is from drain base to L /4 below  the horizontal flow. So, these are the 
+assumptions  we need to make to sch ematized or model the drain spacing or to find out the 
+drain spacing formula.  
+(Refer Slide Time: 22:51)  
+ 
+The flow patterns if you just go back and refer , the streamlines towards parallel pipe drains 
+typically show a pattern. As seen previously, first i t is going vertically down and then 
+horizontal and then radial  so, it shows a particular pattern. In the saturated zone below the 
+water table , the water continuous more or less vertical downward  direction but soon turns into 
+lateral flow towards the drain.  Towards the end of its path, the f low converges radially.  
+So, here the relative magnitude of h, D , and L determines the type of flow. The vertical , lateral , 
+or radial  type of flow  will be determined by knowing h , D and L. So, when L, is much  larger 
+than h  and D, then this is predominantly horizontal flow ; when the spacing is equal to the 
+distance between the drain base and the impervious layer, then  it is an extensive radial flow.  
+When L is very less than h, h is the head at the middle of two drains, so th at is a distinct 
+vertical flow that means  h is very high th an the spacing then it is a vertical flow.  
+The horizontal depth may extend down to L /4, below the drain waste base we have seen 
+previously. The radial flow zone is roughly confined to a circle with a radius of 0.7D. And 
+total head loss  is  
+Total head loss (h) = h v + h h + h r + h e 
+Where hv is head due to vertical, hh head due to horizontal, hr head due to radial , and the head 
+due to entrance  he. The entrance loss  is because when the water is  flowing into the drain there 
+is an envelope material , hence the head  is influence  by the head loss due to entrance.  
+(Refer Slide Time: 25:51)  
+ 
+So, with this theory let us find out the different heads; vertical, horizontal, radial , and then 
+entrance  that comprises the total head  and you can see the image above  is a schematic  of head 
+loss. L et us say this is one drain and there is another drain somewhere ou tside, but you can 
+see the middle point and the middle of the drain. And let us say the distance between the  two 
+drain s is L since the distance from the middle point to the drain is L/2. 
+There are 3  piezometer s install ed - piezometer 1, piezometer 2 , and p iezometer 3. These three 
+piezometers are installed in such a way that  captures both vertical , horizontal , and radial 
+flows . For example, here  piezometer 1 is installed exactly half of the distance that means this 
+is the maximum h, near to that there is ano ther piezometer that is installed and the difference 
+between  them will  give the hv head due to vertical  flow.  
+If Dv is the distance or let s us say the maximum h here through which the vertical flow will 
+be taking place. The vertical flow which is taking place from this column will be estimated 
+using Darcy’s law,  
+Darcy’s Law : 𝑞=𝐾ℎ𝑣
+ 𝐷𝑣 
+ℎ𝑣=𝑞𝐷𝑣
+𝐾  
+hv is significant only when it passes through very poor permeable soil (heavy clay, impeding 
+layer)  
+hv increases when K d ecreases  
+(Refer Slide Time: 29:23)  
+ 
+Similarly, horizontal flow can be estimated. So,  if you see the image above,  the horizontal flow is taking 
+place between 3 and 2.   
+An analytical expression for this head loss may  be derived by considering the horizontal  flow Q x 
+through a vertical plane of unit width.  
+𝑄𝑥=𝑞 (𝐿ℎ
+2−𝑥) 
+𝑄𝑥=𝐾𝐷ℎ𝑑ℎ
+𝑑𝑥 
+Where, dh = conceptual average thickness of the horizontal flow zone  
+(𝐷ℎ= 𝐷 + 0.5ℎ) 
+Equating these two expressions and solving the resulting differential equation for  
+𝑥=0; ℎ𝑥=0  
+and  
+𝑥=𝐿ℎ
+2; ℎ𝑥=ℎℎ 
+So, with th ese boundary conditions and then equating and integrating, you get the solution as 
+so first of all equating this, and then these are the limits and L 0 and L h/2 
+(Refer Slide Time: 32:08)  
+ 
+𝑞(𝐿ℎ
+2−𝑥)=𝐾𝐷ℎ𝑑ℎ𝑥
+𝑑𝑥 
+𝑞∫(𝐿ℎ
+2−𝑥)𝑑𝑥𝐿ℎ
+2
+0=𝐾𝐷ℎ∫𝑑ℎ𝑥ℎℎ
+0 
+𝑞(𝐿ℎ2
+4−𝐿ℎ2
+8)=𝐾𝐷ℎℎℎ 
+ℎℎ=𝑞𝐿ℎ2
+8𝐾𝐷ℎ 
+(Refer Slide Time: 32:37)  
+ 
+And then  for radial flow, Ernst, 1962  has suggested the  following  equation.  
+ℎ𝑟=𝑞𝐿
+𝜋𝐾ln𝑎𝐷𝑟
+𝑢 
+Where aDr is an indicative geometric parameter, which varies with the location of the drain 
+relative to the impermeable stratum  
+u represents the wet entry p erimeter of the drain  
+For example, if it is a circular ; 𝑢=𝜋𝑟0 because  in circular only half is wetted. And  in the case 
+of the trench, u is rectangular and in the case of a trapezoid , u is the perimeter.  
+(Refer Slide Time: 33:37)  
+ 
+The head loss h e incurred in the flow -through pipe surrounds (envelope) and to pipe openings 
+and the pipe  
+The aim is to get h e=0, w hich is possible when the envelope K should be at least 10 times the 
+surrounding soil stratum  
+For h e=0 , K envelope  > 10 × Ksoil 
+So, this is all in this lecture,  so three flows will be considered in  vertical flow and then lateral 
+flow, and then radial flow.  The other thing is the drainages head which is taking place in 
+between two drain points, it can be considered by summing up the vertical head, horizontal 
+head, radial  head , and the entry head, combining all these heads, we will get the total head. 
+To find  out these heads we will be using Darcy’s equation; and also linear interpretation in 
+case of horizontal head  and case of radial E rnst equation, whereas in case of entry losses, so 
+you will be installing a piezometer 10 to 20 c m, nearer to the main drain. An d then and the 
+head difference or the water level difference in both drains will give h e. 
+Thank you so much.  

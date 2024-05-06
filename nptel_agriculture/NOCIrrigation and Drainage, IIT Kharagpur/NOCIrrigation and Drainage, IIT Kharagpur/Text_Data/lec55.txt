@@ -1,0 +1,149 @@
+Irrigation and Drainage Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 55 Tutorial  
+Friends this is lecture number 55 - Tutorial on what we learn during this is this week. We are 
+going to see problems and the solutions related to hydrologic design, hydraulic design of this 
+surface drainage system , and cost and benefit ratio of drainage project.  
+(Refer Slide Time: 00:53)  
+ 
+Example W11.1:  
+Find the section dimension  of a drainage channel to carry runoff from a 50 ha water shed with 
+a drainage coefficient of 5 lps/ha. The given parameters are channel bed slope, S = 0.2%; 
+channel side slope, z=1; maximum permissible mean velocity, V=0.6 m/sec and Manning’s 
+roughness co efficient, n=0.025.  
+Solution:  
+𝐷𝑒𝑠𝑖𝑔𝑛  𝑑𝑖𝑠𝑐 ℎ𝑎𝑟𝑔𝑒  =5×50=250  𝑙𝑝𝑠 
+=0.25  m3/sec 
+From Manning’s formula  
+𝑉 = 1
+𝑛 𝑅23⁄𝑆12⁄ 
+0.6 = 1
+0.025 𝑅23⁄0.00212⁄ 
+      0.6 =1.79 𝑅23⁄ 
+ 
+ (Refer Slide Time: 02:53)  
+ 
+𝑅23⁄= 0.6
+1.79=0.3350 ; 𝑅=0.194 
+From continuity equation  
+𝑄=𝐴×𝑉 
+𝐴=𝑄
+𝑉=0.25
+0.6=0.4167  
+Also, for the Trapezoid channel  
+𝐴=𝑏𝑑+𝑧𝑑2 
+0.4167 =𝑏𝑑+1×𝑑2 
+𝑏=(0.4167 −𝑑2) 
+𝑑 
+𝑅=𝐴
+𝑃=𝑏𝑑+𝑧𝑑2 
+𝑏+2𝑑(𝑧2+1)12⁄ 
+(Refer Slide Time: 04:55)  
+ 
+Substituting for b in R and writing R = 0.19407  
+𝑅=((0.4167 −𝑑2) 
+𝑑)𝑑+1×𝑑2 
+((0.4167 −𝑑2) 
+𝑑)+2.828 𝑑=0.4167  d 
+(0.4167 +1.828  𝑑2) 
+𝑑2−1.1746  𝑑+0.22796 =0 
+By solving the above equ ation  
+𝑑=0.9269  m and 0.2477  m 
+Now substituting in the equation to find a b value  
+𝑏=(0.4167 −𝑑2) 
+𝑑 𝑏=(0.4167 −0.92692) 
+0.9269;   𝑏=−0.477  𝑚 
+The first root is not feasible as it is a substitution in the area relation that gives negative b.  
+ (Refer Slide Time: 05:57)  
+ 
+Hence, 𝑑= 0.2477 𝑚 ≈0.248  𝑚=24.8 𝑐𝑚 
+𝑏=(0.4167 −𝑑2) 
+𝑑;  𝑏=(0.4167 −0.2482) 
+0.248;  𝑏=1.43 𝑚 
+• 𝑇ℎ𝑒 𝑓𝑙𝑜𝑤  𝑎𝑟𝑒𝑎 =1.43×0.248 +1×0.2482  =0.416 m2 
+• 𝑓𝑙𝑜𝑤  𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 = 0.25
+0.416 
+• 𝑓𝑙𝑜𝑤  𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 =0.6 m/sec  
+According to freeboard 5% depth to the design depth, the construction depth = 26 cm (or say 
+30cm)  
+𝑇ℎ𝑒 𝑡𝑜𝑝 𝑤𝑖𝑑𝑡 ℎ 𝑜𝑓 𝑐𝑜𝑛𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛  =𝑏𝑑+𝑧𝑑2 
+𝑇ℎ𝑒 𝑡𝑜𝑝 𝑤𝑖𝑑𝑡 ℎ 𝑜𝑓 𝑐𝑜𝑛𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛  =1.43×0.3+1×0.32 
+𝑇ℎ𝑒 𝑡𝑜𝑝 𝑤𝑖𝑑𝑡 ℎ 𝑜𝑓 𝑐𝑜𝑛𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛  =0.519 m2 
+ (Refer Slide Time: 08:17)  
+ 
+Example W11.2:  
+Calculate the peak rate of runoff for a 10-year recurrence interval from a drainage basin of 40 
+ha area. The land is flat (0 -5% slope) and consists of cultivated clay soil. The maximum 
+length of flow is 800 m and the difference in elevation between the most remote point and 
+outlet is 7.5 m. Assu me rainfall intensity is 6.5 cm/h.  
+Solution:  
+𝐴𝑣𝑒𝑟𝑎𝑔𝑒  𝑠𝑙𝑜𝑝𝑒 , 𝑆 =𝐻
+𝐿 
+= 7.5
+800 
+=0.009375  
+𝑇𝑐=   0.0195   𝐿0.77𝑆−0.385 
+ (Refer Slide Time: 09:57)  
+ 
+𝑇𝑐=   0.0195   𝐿0.77𝑆−0.385 
+𝑇𝑐=   0.0195   8000.770.009375−0.385 
+=20.24 𝑚𝑖𝑛 
+From the ta ble for arable land, 0 -5% slope , and clay soil, the value of runoff coefficient, C is 
+0.50.  
+𝑄𝑝=  𝐶𝐼𝐴
+360 
+𝑄𝑝=  0.50×65×40
+360 
+𝑄𝑝=3.61 m3 /s 
+𝑄𝑝=1.3×104 m3 /h (Ans.)  
+(Refer Slide Time: 10:45)  
+ 
+Example W11.3:  
+Assuming an Interest rate of 5.5 percent, the average cost for irrigation works ₹1,125 per 
+hectare, total drainage cost of ₹875 per hectare, operation and maintenance annual cost ₹23.75 
+per hectare  
+Distribution of acreages by economic land class  
+Class  Hectares  
+  Net direct benefits by land class:  
+(Annual benefit per hectare) in ₹  Total annual benefit  
+[hectare s x annual benefit]  
+1 96 181.25  17,400  
+2 40 156.50  6,260  
+2 120 107.75  12930  
+Total      ₹36,590  
+Average annual benefit = ₹36,590/256 = ₹142.93 per hectare  
+Find an estimate of the economic feasibility over the 100 -year life expectancy of the drainage 
+system  
+(Refer Slide Time: 13:25)  
+ 
+Solution:  
+Present worth (PW of capitalized average annual benefit):  
+PW = interest f actor x annual benefit  
+𝑃𝑊 = (1+𝑖)𝑛−1
+ 𝑖(1+𝑖)𝑛× ₹142 .93  
+𝑃𝑊 = ₹2586 .46 𝑝𝑒𝑟 ℎ𝑒𝑐𝑡𝑎𝑟𝑒  
+where:  
+           n = number of interest periods in years, and  
+           I = interest rate at which compounding takes place over the period, 12, ex pressed as a 
+decimal fraction.  
+The p resent worth of capitalized annual O&M costs:  
+𝑃𝑊 = (1+𝑖)𝑛−1
+ 𝑖(1+𝑖)𝑛×  ₹23.75 
+𝑃𝑊 =₹429 .78 𝑝𝑒𝑟 ℎ𝑒𝑐𝑡𝑎𝑟𝑒  
+  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 14:25)  
+ 
+cost summary:  
+                               Drainage = ₹875 per hectare  
+                               Irrigation = ₹1,125 per hec tare 
+                               O&M = ₹430 per hectare  
+                                Total = ₹2,430 per hectare  
+𝐵𝑒𝑛𝑒𝑓𝑖𝑡 −𝑐𝑜𝑠𝑡  (𝐵/𝐶) 𝑟𝑎𝑡𝑖𝑜  =2586
+2430=1.06 
+Drainage projects having B/C ratios greater than 1 are generally considered feasible  
+Thank  you  

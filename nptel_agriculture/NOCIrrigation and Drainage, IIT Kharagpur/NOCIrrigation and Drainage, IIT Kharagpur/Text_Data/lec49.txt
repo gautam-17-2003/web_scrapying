@@ -1,0 +1,267 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 49 
+Sub - Subsurface Drainage Design (Contd.)  
+Hi, this is lecture number 49 on Subsurface Drainage Design. We are going to continue from 
+the previous lectures. So, in this lecture we are going to talk about the drainage base width or 
+drainage base depth  these are  very important because th ey decide the  cost of excavation and 
+the finally, the cost of the drainage system. And then once the drainage systems are installed 
+what kind of problems or malfunctions we are going to face and how to detect and rectify those 
+problems.  And then the third aspect is dra inage drain pipe size design based on some thumb 
+rules. And then finally, disposing of the drainage water  and how we can reuse it. 
+(Refer Slide Time: 01:24)  
+ 
+So, the first thing is the field drainage base depth as said  earlier it  is very important in drai nage 
+system design . For a given H , increasing W, increase ‘h’; you need to arrange a wider drain 
+spacing . A deeper drainage base could increase the cost of installation because if you are 
+digging too much it will increas e the W, which  leads to an increase in installation cost due to 
+the excavation cost. Generally , up to  2 to 2.5 m , these extra cost s are normally compensated 
+by the savings result ing from the wide  spacing  by decreas ing the number of pipes.  
+In the graph  above, W is on the x-axis and cost -benefit ratio on the y-axis. As W is increasing 
+the cost -benefit ratio is going to decline up to a certain depth  then after, that it slightly 
+increases. The critical depth is a minimum depth at which  the cost to benefit ratio will be less.  
+At the same time  if you take the length on the other axis  and then combine the W , length , and 
+cost-benefit ratio  you can draw a 3 -dimensional view, to find out exactly where the W and L 
+will have a minimum cost -benefit ratio.  
+(Refer Slide Time: 04:41)  
+ 
+Next are the local  conditions that influence the drainage base depth. In addition to the 
+previously mentioned  parameters , the local conditions also influence the drainage base depth.  
+The local or regional drainage base : the field drainage base should be higher than the local  or 
+regional drainage base  because otherwise you need to pump water from the drainage to the 
+sinks  or the local drainage base  and this will  involve extra pumping cost . The field drainage 
+base should be higher than the local drainage so that the draine d water will flow freely by 
+gravity to the drain base .  
+The other one is soil conditions, the pipe should not be installed in quicksand, because the pipe 
+network is going to sink and break age will occur and the drainage system is going to fail . Pipes 
+shoul d not be installed in  unconsolidated soil condition s, and layers with low hydraulic 
+conductivity  because  the water would not enter into the  drain pipes  in low hydraulic 
+conductivity  and that will the problem for the drainage.  
+And drought risk : deep drainag e may over drain the soil, pipe drain depth will mostly be based 
+on the wet season  situation , if you design the drainage system based on the dry season situation , 
+drains  will be installed at deeper, so the extra water will be drained out very fast and the soil 
+will be in unsaturated condition and the water w ill not be available for the plant. So that is why 
+to avoid the drought risk  the installation should be practiced or design  during the wet season 
+situation.  
+And the n the  seepage: the local drainage base may constitute  a sink drawing excessive amounts 
+of seepage water from the surroundings. Suppose if your local drainage base is lower , because 
+of this local drainage excess water is going to seep to the field drainage base  which must  be 
+avoided .  
+Available machinery : the most economical working depth is around 1 to 1.2 meter if you still 
+want to go deeper then there are special machines required and that will  increase the  cost. 
+(Refer Slide Time: 08:16)  
+ 
+Next is finding ou t the diameter of the pipe drain. So, the hydraulic design of drain pipe  is by 
+using the standard pipe flow formula. So, the  following  parameters  will be considered:  
+Discharge (Q)  
+Hydraulic gradient(i)  
+Pipe diameter (d)  
+Wall roughness  
+For uniform flow , in smooth pipes, the Darcy Weisbach equation is preferred  
+𝑄 = 50𝑑2.71𝑖 0.57  
+Whereas, for corrugated pipe , the Chezy and Manning’s equation is used  
+𝑄 = 22𝑑2.67𝑖 0.5 
+Where  
+Q = discharge along the pipe, m3/s 
+d = pipe internal diameter, m  
+i = hydraulic gradient, m/m  
+ 
+ 
+ 
+(Refer Slide Time: 09:53)  
+ 
+Similarly for non-uniform  flow, you have different equations for example, here  
+For smooth pipe you have : 𝑄 = 89𝑑2.71𝑖 0.57  
+For corrugated pipe : 𝑄 = 38𝑑2.67𝑖 0.5  
+For uniform flow  as shown in the line diagram above,  if the blue line represents  a pipe, the 
+hydraulic grad ient line is exactly lying on top of the water surface, whereas, here for non-
+uniform  flow, you can observe th e actual hydraulic gradient line (curvy layer ) right ab ove the 
+top of the water level in the pipe.  The difference between the pressure heads in the case of non-
+uniform  flow may  cause  overpressure which may be expected to go up to 0.4 H in the actual 
+hydraulic line compared to the average hydraulic line. So due to non-uniform  flow, you may 
+expect the hydraulic gradient line a little bit higher than the average grade line.  
+And over design is practiced  to increase the discharge, 1.33 for stable soils and 2 times for 
+siltation prone situations  to consider the liftin g and misalignment of the piping.  
+(Refer Slide Time: 12:47)  
+ 
+And the next example,  
+Example 49.1:  
+- Smooth concrete collector pipe  
+- Slope of the pipeline is 0.1%  
+- Receiving water from 20 ha of land drained by field drains designed for q = 5 mm/d  
+- An allowance to be incorporated for a subsequent 25% reduction in transfer capacity 
+due to siltation  
+The discharge at the end of the line is  
+𝑄=𝑞×𝐴
+1000 ×3600 ×24𝑚3/𝑠 
+A = Drainage area, m2 ; A= 200000 m2; q = 5 mm/day;  so, Q = 0.0116m3/s 
+Allowing for s ituation Q design= 1
+0.75(0.0116) = 0.0155  
+Qdesign= 50d2.71 i 0.57 
+d = 22 cm (inner dia)  
+(Refer Slide Time: 15:02)  
+ 
+Example 49.2:  
+- Parallel system of pipe drains at 35 m spacing  
+- Corrugated plastics drain pipe  
+- Line length = 200 m  
+-  q = 5 mm/d  
+- Slope of the pipeline is 0.1%  
+ The discharge Q at the end of the line is  
+𝑄=𝑞×𝐴
+1000 𝑚3/𝑑𝑎𝑦 
+A = Drainage area,  m2  ; A= 200*35 = 7000 m2; q = 5 mm/day;   
+so, Q = 35 m3/day or 0.0004 m3/s 
+Taking a 50% safety to allow for situation:  
+Qdesign= 2 x 35 = 70 m3/day or  0.0008 m3/s 
+Qdesign= 38d2.67 i 0.50 
+d = 64 mm (inner dia)  
+ (Refer Slide Time: 16:45)  
+ 
+Once the pipe network or the drainage system is installed, you need to observe what kind of 
+malfunctions you can encounter . What are the checkpoints and what we need to check, whether 
+the system is working properly or not ? The overall functioning of the drainage system can be 
+checked based on the water table observations and also the individual drain discharges for  
+malfunctioning. So, for that, in a drainp ipe piezometers are installed let's say 1, 2, 3, 4, and 5 
+as shown in the image above . For example , piezometer 5 is exactly install ed in  the drainpipe , 
+and piezometer 4 at a distance of 10 to 20 cm  from the pipe drainage or outside the envelope.  
+And to cap ture the water table  piezometer 3 is installed,  the second is for detecting the local 
+water table and the first one is to check if there are any vertical flows. So, these observation 
+wells are installed near to or exactly from the middle or between the two  drain points  or two 
+tile drain points.  
+Now, how to observe whether the system is working or not . There are four cases , case number 
+one if you see , for example, impeded infiltration or percolation  so, the infiltration water is not 
+infiltrating down or not percolating inside the soil profile ; in that case , the evidence could be 
+perched water table, there is the formation of the local water table because of the formation of 
+the clay layer below the soil  surface. If you see observation well number 1, you can s ee the 
+water present in the observation well, whereas no water is present in well number 2 , so t hat 
+means there is a perched water table which is causing the water to stay in the profile . That is a 
+perched water table and because of th is the water can be stacked up on top of the surface, the 
+causes could be hard cl ay pan and soil compaction.  
+(Refer Slide Time: 19:59)  
+ 
+Next is case number 2 : high resistance in groundwater flow, there is a lot of resistance and 
+water is not flowing as desired ; suppose piezo meters were installed as  in the previous case. So, 
+the evidence is slow fall in the water table  such that , if you have observed in one day and the 
+second day you still see your water table is not falling, but whereas there is a depletion in water 
+level  in the piezometer installed in the tile drain. So, depletion i n the tile drain is n ot matching 
+with the depletion of water taking place in piezometer s 2 and 3. So, that indicates there is a 
+problem in the  soil matrix  or there  is high resistance in groundwater  flow.   
+This could be due to under design or overestimation of hydraulic conductivity while designing, 
+higher hydraulic conductivity influences the spacing . It may be due to  the underestimation of 
+the drainage coefficient, in the Hooghoudt equation when k is low Q will be less.  
+The other is due to the w rong drain spacing formula , you might have missed out on some 
+parameters  in the equation, that influence the  design.  
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 21:59)  
+ 
+The nex t case is high entry resistance , if you see a point where the envelope  is installed , the 
+water is present outside the envelope, but it is not entering into the pipe or envelope . It is the 
+common cause of malfunctioning  of the envelope , that is why envelope material needs to be 
+design ed very well . Drains have been installed in the trench by unsuitable methods, and other s 
+could be like while installing the drains unsuitable methods might have been adopted to install 
+the pipes and omitting the envelope sometimes if you omit the envelope that is going to clo g 
+the drain . 
+In this case , there is  no solution you only have to redesign the entire drain system.  
+(Refer Slide Time: 23:12)  
+ 
+And the fourth case is obstructed pipe flow , so the flow is obstructed, if you see  piezometer 1, 
+2, and 3  the water level is almos t at the ground level so, we expect the same level  in piezometer 
+4 and 5 but that is not the case. This may be b ecause of too high a water level in the collected 
+ditch right, if you see the drain there is a lot of pressure taking place and  it may also be d ue to 
+too small pipe diameters causing the excess water rushing and filling up the observation well.  
+Sometime s misalignment of pipes also pressurizes the flow and also clogging of the pipes by 
+fine or iron compounds , the clogging of the pipes will reduce t he open areas , and that influences 
+and obstructed the flow. Then it may be due to  blockage of pores by  roots, since we are  
+designing for agricultural drainage there is the possibility of root intrusion inside the pipes and 
+that may clog the opening and reduces the open area in the tile drains . 
+(Refer Slide Time: 25:12)  
+ 
+So, then the next is the drainage environmental considerations. So, once the drain flow or the 
+drainage water is coming out, how to tackle that water in terms of environmental health . The 
+drainage has an impact on the environment  so, because of that , this is under scrutiny by 
+regulators and environmentalists . The drainage water is coming from the agricultural  lands  it 
+definitely contains a lot of nutrients that are undesirable for the lo cal water bodies . The 
+drainage water consist s of high nutrients such as nitrates and phosphates that will be the food 
+for aquatic plants, for example, algae ; it is going to grow in the l ocal water bodies and then 
+causes environmental  pollution  or fish kill ing and other toxic  effect s to the aquatic  animals.  
+Fogiel and Belcher 1991, listed the falling positive environmental impacts of subsurface 
+drainage. So, these could be negative because that is causing eutrophication in nearest water 
+bodies, but whereas, there are some positive environment al impacts  if it reduced overland flow 
+and erosion. So, the accumulated water which is percolating into the soil means, the overland 
+flow is going to reduce , and definitely , that is going to reduce the  erosion  and reduce  the 
+sediment  transport.  Once the ponding water which is once runoff is reduced, definitely 
+sediment transport and attached phosphorus and potassium of the form are going to  be reduce d. 
+Because the phosphorus or potassium retain ed on the top layer 5-10 mm a re active layer s, that 
+is very important . Suppose if that soil is not washing of f from the field , definitely you are going 
+to cut off the p hospho rous and potassium loads into the local water bodies.  
+And improved surface nutrient management , since the nutrie nts are not running off from the 
+fields you are going to retain the nutrients on the field and you can improve the surface nutrient 
+management . And improve the ability to monitor the percolating flow , because these  drains 
+are going to create the negative p ressure that will improve the percolation of water and reduc e 
+the nonpoint source pollution or diffused pollution, which  is going to decrease due to the 
+drainage systems.  
+(Refer Slide Time: 28:49)  
+ 
+And then the drainage environment considerations; so NRCS , that is the Natural Resources 
+Conservation Services recommended, several techniques for the reduction of the impact of 
+drained water on the environment.  As mentioned earlier  the nutrient load is going to be coming 
+out from the drainage field so, that is going  to influence  the water  bodies negative ly. So, 
+NRCS  recommended  several  techniques by install ing on-farm detention ponds or wetlands 
+that reduce nitr ate concentration in drainage water before  it leaves the farm.  
+So once, the water is drained from the fields, if you have the wetlands or detention ponds, the 
+drainage water is going to accumulate and remain  stagnant for some time and all nutrients are 
+going to settle down and then you can reuse the water if you want to. Retrofit drainage systems 
+reduce drainage during critical periods and manage the water table.  Sometimes y ou may have 
+to construct a wall to stop over drainage, the wall would not allow the excess water  to seep 
+from one place to another place he nce you can still manage the water table  under the desired 
+drainage discharge.  
+Another example is a gate that allow s the drainage water to enter into a chamber and maintain 
+the water table. So, based on the opening and closing of this gate you can maintain the wat er 
+table up to the desired level . Another option could be to implement cropping systems that 
+reduce nitrate losses and improve fertilizer  and animal manure management timing. Suppose 
+in winter if you apply a lot of fertilizer  before the  frosty wind or free zing conditions, then 
+during summer , all the manure which is spread on the ground will be transported to the nearest 
+water bodies right, because of the snowmelt. So, animal manure management is also very 
+important in the case of drainage.  
+(Refer Slide Time: 32:40)  
+ 
+Drain discharge management - Disposal and Treatment . Disposal of agricultural drainage  by 
+return ing the water either to natural depressions or lakes or rivers or to salt sinks such as oceans. 
+The d isposal can also be by return ing the water ei ther to the land as part of the irrigation water 
+supply  for reuse of agriculture purposes.  In the image above you can see the drainage water 
+which is coming from the field has been pumped to the local water body and the same water 
+can be pumped back to the  sprinklers for irrigating the fields.  Constructing disposal basins for 
+saline agricultural drainage waters if the oceans and inland close basins are not the options . 
+(Refer Slide Time: 34:23)  
+ 
+ 
+And finally,  the treatment of drainage water could be physic al, chemical , and biological 
+treatments. S ome physical treatments are removing suspended solids  through sedimentation , 
+flotation , centrifugation , or filtration. Filtration further includes granular media beds, vacuum 
+filters, belt presses , and filter presses. All these things are going to be used in the case of the 
+filtration process to remove the suspended solids from the disposable water or drainage water.  
+(Refer Slide Time: 35:00)  
+ 
+And another one is adsor ption , which  is a chemical treatment , adsorption is the process of 
+removing soluble contaminants by attachment to a solid so, for example, removal of soluble 
+organic compounds via adsorption onto granular activated carbon.  So, the activated carbon  
+has a particular cha rge and it is going to attract the opposite charge sediments  and 
+particulates  of organic matter. And then you can remove  or separate the organic material 
+from the drainage water by adsorption.  And then there is a distillation  which is a thermal 
+process use d for salt removal , the water which is drain ed from the fields will be stored in  
+ponds. And then due to evaporation , all freshwater is going to evaporate and the salts will be 
+retained in the pond  so, generally , heat vaporize s the water leaving the salts b ehind then, the 
+salts can be scrapped out from the ponds.  
+So, this is all in this lecture, we focused on the importance of drainage base depth and what are 
+the economical depth  and pipes size determination . How to  observe the malfunctions in a 
+drainage system and then the drainage water disposal and how to reuse that and what kind of 
+treatments, we need to do before treating the drainage water to avoid any environmental 
+contamination.  
+Thank you so much.  

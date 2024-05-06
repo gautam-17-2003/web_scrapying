@@ -1,0 +1,269 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapa lli 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 48: Sub - Subsurface Drainage Design  
+Hi, this is lecture number 48 on S ub-Surface Drainage  Design  so, we will be working on the 
+unsteady -state flow to drains . In the previous lecture , we have talked  about steady -state conditions , 
+now unsteady state conditions .  
+(Refer Slide Time: 00:34 ) 
+ 
+For example , in the case of  a falling water table , it is observed  that during irrigation  there is a 
+sudden fall in the water table , Glover -Dumm equation will be used to simulate the falling water 
+table after sudden rise due to an instantaneous recharge  or irrigation  in case of the drains . In the 
+steady -state con dition , we assume that the system is under equilibrium  then the q or recharge 
+taking place will be equal to drainage out , but if there is a sudden instantaneous change in the 
+recharge that influence s the drain discharge . So, this is a typical situation whe re you apply 
+irrigation and the shallow water table goes down and then  after irrigation , it again falls .   
+So, in the schematic  above,  if you see , the tail drain  point , the halfway of tail drain  and there is 
+another t ail drain on the other  side. T he water table at the midpoint is having the head h t, and d is 
+the drain depth.  𝑑ℎ𝑥
+𝑑𝑥 is the change in the water table with distance , from the image above  if you 
+see x is going in the x -axis direction and h vertically upwards . 
+So, we are going to see how the change in q is influencing the h ; when h<d<<L, the flow to the 
+drains is essentially horizontal and it follows that  
+𝑄𝑥=𝐾𝐷ℎ𝛿ℎ𝑥
+𝛿𝑥                           (1) 
+This is from  Darcy’s  law, Dh is the elemental depth , and then  for the unit width , K is the hydraulic 
+gradient . 
+(Refer Slide Time: 03:47 ) 
+ 
+Then after that , if you use the water balance  for element ∆x below the water table  
+(𝑄𝑥+∆x−𝑄𝑥)+𝑞.∆x=𝛿ℎ𝑥
+𝛿𝑡∆x. μ 
+(𝑄𝑥+∆x−𝑄𝑥)
+∆x+𝑞 =𝛿ℎ𝑥
+𝛿𝑡 μ 
+lim
+∆x→0:𝛿𝑄 𝑥
+𝛿𝑥+𝑞 =𝛿ℎ𝑥
+𝛿𝑡 μ  
+              (2) 
+Combining (1) and (2),  
+ 
+  𝛿(𝐾𝐷ℎ𝛿ℎ𝑥
+𝛿𝑥)  
+𝛿𝑥+𝑞 =𝛿ℎ𝑥
+𝛿𝑡 μ 
+𝛿ℎ𝑥
+𝛿𝑡=𝐾𝐷ℎ
+μ 𝛿2ℎ𝑥
+𝛿𝑥2+𝑞
+μ                     (3) 
+ 
+Eqn. (3) is called the Boussinesq equation which describes the water table under unsteady 
+recharge.  
+Integrating eq. 3 for no recharge q=0 and the boundary conditions:  
+So, now, you are going to integrate  for no recharge q = 0, and the boundary  conditions  
+(Refer Slide Time: 06:35 ) 
+ 
+Initial condition: ℎ(𝑥,0) = ℎ0 
+Boundary condition: ℎ(0,𝑡) = 0; ℎ(𝐿,𝑡) = 0 
+This yields the Glover -Dumm equation  
+According to Glover -Dumm, the mid spacing water table head h t at time t relates to the head h 0 
+(at t=0) as:  
+ℎ𝑡
+ℎ0=1.16𝑒−𝛼𝑡;              α = 𝜋2𝐾𝑑
+μ𝐿2 = 10𝐾𝑑
+μ𝐿2 
+Where, t = time, d; h 0 = initial water table head, m; h t = water table head at t, m; α is the reaction 
+factor (d-1); μ is the drainable porosity (m3/m3); L = drain spacing, m; d = equivalent depth to 
+impermeable substratum, m; K = hydraulic conductivity, m/d  
+ (Refer Slide Time: 09:04 ) 
+ 
+Combining the above equations,  
+𝐿2=10𝐾𝑑𝑡
+μ(𝑙𝑛1.16ℎ0
+ℎ𝑡)−1 
+The s hape of the falling water table  fourth -order parabola  
+Pipe drain : Radial distances are taken into account by replacing the depth D to the impermeable 
+substrate by Hooghoudt equivalent depth ‘d’, which makes the Glover -Dumm equation applicable 
+to pipe drainage.  
+(Refer Slide Time: 10:47 ) 
+ 
+Exercise 48.1 :  
+Find the drain spacing: t = 0; H 0 = 0 (water table at soil surface) and t = 4; H = 0.8 m  
+ 
+ 
+Solution : 
+h0 = W – H0 = 1.2 – 0 = 1.2 m  
+h4 = W – H4 = 1.2 – o.8 = 0.4 m  
+(Refer Slide Time: 11:56 ) 
+ 
+ℎ4
+ℎ0=0.4
+1.2=1.16𝑒−𝛼𝑡 
+0.33=1.16𝑒−𝛼𝑡 
+𝑒−𝛼𝑡= 0.33/1.16  => 𝛼𝑡=1.24 
+When t = 4;  𝛼 = 0.31  
+𝐿2=10𝐾𝑑
+μα=10×2×𝑑
+0.31×0.05=1290 ×𝑑 
+Since L = f(d) and d = f(L), a trial and error procedure is followed  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+𝑑=𝐷
+8𝐷
+𝜋𝐿𝑙𝑛𝐷
+𝑢+1    for D > L/4  
+𝑑=𝜋𝐷
+8𝑙𝑛𝐿
+𝑢  for D < L/4  
+First trial :   
+L = 30 m,  d=2.2 m (from Hooghoudt equation)  
+L = (1290×2.2)0.5= 53.3 m  
+Second trial :  
+L = 60 m,  d=2.84 m  
+L = (1290×2.84)-1 = 60.5 m  
+The solution is L  = 60 m  
+ (Refer Slide Time: 14:41 ) 
+ 
+Glover -Dumm  formula and the Hooghoudt formula can be interrelated, enabling the non -steady 
+basic design criteria to be translated into steady -state criteria.  
+Hooghoudt (simple) equation :   
+𝐿2=8𝐾𝑑ℎ
+𝑞 
+Glover -Dumm equation :   
+𝐿2=10𝐾𝑑
+μα 
+Dividing both the equations:   
+ 8𝐾𝑑ℎ
+𝑞  
+10𝐾𝑑
+μα=1ℎ
+q= 10
+8μα 
+(Refer Slide Time: 15:33 ) 
+ 
+ℎ
+q= 10
+8μα 
+For μ = 0.05 and α = 0.31,  ℎ
+q = 80.65  
+In Hooghoudt equation with K = 2 m/d,  
+𝐿2=8𝐾𝑑ℎ
+𝑞 
+𝐿2=8×2×80.65×𝑑 
+=1290 ×𝑑 
+This is an implicit equation as L = f(d) and L = f (f (L)); which is the same as the equation obtained 
+in Ex. 47.1  
+Use the trial and error method to find L  
+(Refer Slide Time: 17:32 ) 
+ 
+And then another one is the fluctuating water table so one is the falling water table that we have 
+seen using  the Glover -Dumm  equation , the other one is fluctuating water table . This is estimated  
+by using the de Zeeuw and H ellinga formula .  
+Hooghoudt (simple) formula 𝐿2=8𝐾𝑑ℎ
+𝑞, may  be developed to show the non -steady response to 
+periodic rainfall or irrigation  
+In this equation, the drain discharge (q) is linearly related to the mid -spacing water table head (h t); 
+  𝑞=8𝐾𝑑ℎ𝑡
+𝐿2 
+The variation of the drain discharge with time is thus also linearly related to the variati on in time 
+of water table head  
+𝑑𝑞
+𝑑𝑡=8𝐾𝑑
+𝐿2𝑑ℎ
+𝑑𝑡      (1) 
+If the groundwater body is recharged by rainfall/irrigation (R) and is completed by drain discharge 
+(q), 
+Water table fall  (R-q) < 0;             
+Water table rise  (R-q) > 0  
+(Refer Slide Time: 20:43 ) 
+ 
+The water table fluctuation may  be described by 𝑑ℎ
+𝑑𝑡 = (𝑅−𝑞)
+𝑐μ     (2) 
+Where μ is the drainable porosity; C is the correction factor (0.7 to 0.9 for h at mid spacing).  
+During a recession, the water table will not remain horizontal but  fall more rapidly nearer to drains. 
+Combining the above equations (1 and 2): take c = 0.8  
+𝑑𝑞
+𝑑𝑡=10𝐾𝑑
+μ𝐿2(𝑅−𝑞) 
+=α(𝑅−𝑞) 
+So the change in drain discharge 𝑑𝑞
+𝑑𝑡 is proportional to (R -q).  
+Integrating the above equation between the limits: t = t and t = t-1; q = q t and q = q t-1. 
+(Refer Slide Time: 22:23 ) 
+ 
+∫𝑑𝑞
+(𝑅−𝑞)𝑞𝑡
+𝑞𝑡−1=∫𝛼.𝑑𝑡𝑡
+𝑡−1 
+(𝑅−𝑞)𝑡
+(𝑅−𝑞)𝑡−1=𝑒−𝛼∆𝑡 
+𝑞𝑡=𝑞𝑡−1𝑒−𝛼∆𝑡+𝑅∆𝑡(1−𝑒−𝛼∆𝑡) 
+Since 𝑞=8𝐾𝑑ℎ
+𝐿2=0.8𝛼𝜇ℎ (𝑓𝑟𝑜𝑚  𝐼𝑛𝑑𝑖𝑟𝑒𝑐𝑡  𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛 ) 
+ℎ𝑡=ℎ𝑡−1𝑒−𝛼∆𝑡+𝑅∆𝑡
+0.8𝛼𝜇 (1−𝑒−𝛼∆𝑡) 
+The above two equations may  be used to simulate drain discharge and water table depth 
+fluctuations based on  weather records given the value of the reaction factor α. So, this way  not 
+only the recharge , but the water table  position at a  particular time can also  estimate .  
+(Refer Slide Time: 25:22 ) 
+ 
+Exercise 48.2:  Water table head and drain outflow calculations based on  de Zeeuw – Hellinga 
+formula  
+For Parallel pipe drainage system  
+Given:   
+W = 1.2 m,  
+L = 40 m,  
+Kd = 2.5 m2/d and  
+"μ" = 5  % 
+Calculations:  
+α=10𝐾𝑑
+μ𝐿2=10×2.5
+0.05×1600=0.31; ∆𝑡=1 𝑑𝑎𝑦 
+e-α∆t = e-0.31 = 0.73  (1-e-α∆t) = 0.27 and 0.8 μα = 0.012  
+(Refer Slide Time: 26:24 ) 
+ 
+At the start of the rain (day 0), the water table head is 0.1 m or the mid spacing water table depth 
+H=W -h=1.2 -0.1= 1.1 m below the soil surface.  
+The corresponding drain outflow  
+𝑞=8𝐾𝑑ℎ
+𝐿2=8×2.5×0.1
+1600 
+= 0.001 m/d  
+ℎ𝑡=ℎ𝑡−1𝑒−𝛼∆𝑡+𝑅∆𝑡
+0.8𝛼𝜇 (1−𝑒−𝛼∆𝑡) 
+For t = 1:  
+ℎ1=(0.1×0.73)+(0.04
+0.012×0.27)=0.16 
+(Refer Slide Time: 27:59 ) 
+ 
+So, we need to concentrate  on the table  above, the days are on the first column and the rainfall on 
+the second column , evaporation  is on the third column and the rest we need to estimate ; recharge , 
+water table  head , and drain outflow .  
+So, on day 1 you have 0.005  m rainfall and  the evaporation is 0.001  mm, and the recharge will be 
+0.004  that is  the difference  between  rainfall and  evaporation .  
+And then as mentioned in the earlier slide the water table head  and drain outflow is estimated  
+ (Refer Slide Time: 30:49 ) 
+ 
+For t = 2:  
+ℎ2=(0.16×0.73)+(0.019
+0.012×0.27)=0.54 
+For t = 6:  
+ℎ6=0.56 
+For t = 7:  
+ℎ7=0.41 𝑒𝑡𝑐 
+𝑞𝑡=𝑞𝑡−1𝑒−𝛼∆𝑡+𝑅∆𝑡(1−𝑒−𝛼∆𝑡) 
+For t = 1:  
+𝑞1=(0.001×0.73)+(0.04×0.27)=0.002 
+For t = 2:  
+𝑞2=(0.002×0.73)+(0.019×0.27)=0.007 
+(Refer Slide Time: 31:01 ) 
+ 
+For t = 6:  
+𝑞6=0.007 
+For t = 7:  
+𝑞7=0.005  𝑒𝑡𝑐 
+At the end of 10th day, q = 0.002 m/d. i.e. evaporation may  be expected to start 
+So, this is all about the lecture , we focused on unsteady -state condition s. So, first, the Glover -
+Dumm  equation  in case of falling headwater  table condition  which  happen s when the irrigation is 
+taking place . Another one is the Hellinga formula for the sudden  fluctuating water table . So, for 
+both cases , we derived the  equations  for spacing . In the case of the Hellinga  formula , we will be  
+finding out  both water table fluctuations as well as the drainage  water fluctuations and we have 
+shown th ose fluctuations  by solving a problem . 
+Thank you  so much .  
+ 

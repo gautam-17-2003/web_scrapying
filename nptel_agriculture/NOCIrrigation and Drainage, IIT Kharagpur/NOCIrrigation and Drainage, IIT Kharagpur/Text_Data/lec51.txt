@@ -1,0 +1,252 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 51: Surface Drainage System Design  
+Friends welcome to lecture number 51 on Surface Drainage System Design. So, in this lecture , 
+we are going to see the  design of surface drainage . It has two components: one is a hydrologic 
+design and the other is a hydraulic design. In this lecture we will focus on hydrologic  design;  
+mostly finding out the peak flow rate from a drainage area . 
+(Refer Slide Time: 00:51)  
+ 
+Surface drainage removes excess water accumulated over the land surface in crop area s. Since 
+we were interested in  agricultural fields so our focus is to remove excess water from the 
+farmland.  So, what are the sources of th is excess water , basically the rainfall , local runoff , 
+incoming water from adjoining higher area of seepage flow , and excess irrigation water , these 
+are going to cause  excess  water  and incr ease the natural  runoff.  And then sometimes  the 
+lateral seepage which is taking place from one field to another field , may cause the surface 
+water po nding or water logging hence  it requires  surface drainage.  
+The design of surface drainage consists of two stages  one is a hydrologic design and then the 
+hydraulic design. Hydrologic designs involve  the quantification of excess water to be d rained 
+and the rate at which it is to be drained , these two things we need to determine . Whereas, 
+hydraulic design ,  involves calculating the drainage channel geometry and the drainage network 
+layout. So, once  the channel geometry is estimated based on the peak flow rate,  then we are 
+going to decide which layout  we need to use e.g., parallel grid design or random designs - these 
+things have already been discussed in the previou s lectures.  
+(Refer Slide Time: 03:05)  
+ 
+So, in hydrologic design , the first is  the estimation of surface runoff. The most famous  
+methodology used to estimate the surface runoff is the Rational Method , this is the most  
+common method and it uses an empirical relationship to  estimate the peak runoff rate which is  
+𝑄𝑝=  𝐶𝐼𝐴
+360 
+Where,  𝑄𝑝= peak flow (m3/s); 𝐶=dimensionless runoff coefficient ; 𝐼= rainfall inten sity for a 
+given return period. Return period is the average numbe r of years within which a given rainfall 
+event will be expected to occur at least once ; 𝐴 = area of the catchment (ha)  
+The basic assumptions in the Rationa l Method are the uniform rainfall intensity for a duration 
+at least equal to the time of concentration . The other as sumption is the rainfall should be of 
+uniform  intensity should have uniform intensity throughout the area of the watershed.  
+(Refer Slide Time: 05:11)  
+ 
+Example 51.1  A cultivated area of 40 ha drains to a particular storm water inlet. The runoff 
+coefficient for this drainage area has been estimated to be 0.4. Based on a specified design 
+return period and the time of concentration of the drainage area, the design storm intensity 
+has been determined to be 10 mm/h. What is the peak runoff rate from this area to be used 
+for the design of the storm water inlet?  
+Solution:  
+𝑄𝑝=  𝐶𝐼𝐴
+360 
+𝑄𝑝=0.4 ×10×40
+360=0.44  𝑚3/𝑠𝑒𝑐 
+ (Refer Slide Time: 06:26)  
+ 
+Next is  the procedure for the rational method , first is the  area of catchment , which  is determined 
+from  surveying or  maps , or aerial photographs.  
+Then the next parameter is the runoff coefficient , C. This is a measure of the rain which 
+becomes runoff. When C = 1 that means, rainfall is completely turned into a runoff, whereas if 
+C = 0.1, that means, around 10 percent  or nine-tenths of the rain is soaked in.  
+A table is shown above and you can use it to find  out the runoff coefficient C for different 
+topography, vegetation , and soil texture . The table has different topography and vegetation on  
+column number one and the soil texture on column two  (open sandy loam) , three  (clay and silty 
+loam) , four  (tight clay) . Based on the  combination  of a particular topography and vegetation 
+and the soil type , you can decide the runoff coefficient . E.g., the runoff coefficient for tight 
+clay results generally  in more runoff because of less infiltration. S o, the values are increasing 
+when you go from wood land to urban areas . So, similarly , in the case of sandy  soil, the runoff 
+coefficient is increasing. That means runoff is higher in the case of urban areas and sand will 
+have less runoff compared to silt and clay . 
+(Refer Slide Time: 09:05)  
+ 
+The next is rainfall intensity , so according t o the desired return period  for the design of the 
+structure under study.  The duration of the rainfall intensity is equal to the time of concentration 
+of the runoff or T c; so the basic assumption  of the rational method  is the duration should be  at 
+least the time of concentration. So, for estimating  the time of concentration, the Kirpich 
+equation is used which is a function of the  drainage length and then slope . Tc is the time taken 
+for the most remote area of the catchment to contribute water to the outlet.   
+𝑇𝑐=   0.0195   𝐿0.77𝑆−0.385  
+Where  Tc is the time of concentration (min); L is the maximum length of flow (m); S is the 
+watershed gradient (m/m) .  The same equation can be trans lated into a tabular form  as shown 
+in the table above  so, you can  either use the equation or the table . 
+(Refer Slide Time: 10:49)  
+ 
+And then , how to find out the rainfall intensities? If you see the  pic or graph above  the duration 
+or Tc is in minutes because we assume  that the duration  is equal to the time of concentration  
+and it is represented  in the x -axis; then the rainfall intensity I is in the y-axis and if you see th e 
+curves  in the graph they  are representing the  return period . So knowing the return period and 
+duration of time of concentration we can find out intensity. The Tc is estimated using the 
+previous equation or table. So, let us say for T c 60 min  and 20 year return period the rainfall 
+intensity is  around 70 mm /h. So, this way you can find out the rainfall intensity.  
+Generally , the return period  for field structures is 5 to 10 years , gully control and smal l farm 
+dams  it is 20 years and for large f arm dams , it is 50 years.  Based on these thumb rules we can 
+select a particular return period and for a particular time of concentration , you can estimate the 
+rainfall intensity in mm /h. Knowing  the area, intensity , and runoff coefficient you can find out 
+the peak discharge . 
+(Refer Slide Time: 12:47)  
+ 
+Example 51.2  
+A catchment of 15 ha is composed of 5 ha of permanent pasture (Soil Group B) and 10 ha of 
+row crop in poor con dition (Soil Group C). What peak flow is to be expected from a 1 in a 5-
+year storm? The maximum flow length is 610 m, with a gradient of 2%.  
+Solution:   
+Using the table in the slide above for maximum flow length of 610 m and catchment slope of 
+2%, by inter polating Tc = 12 minutes  
+From equation,  
+𝑇𝑐=   0.0195   𝐿0.77𝑆−0.385 =   0.0195   6100.770.02−0.385 =12 𝑚𝑖𝑛𝑠  
+From Tc_Table or Tc_equation, T c = 12 minutes  
+(Refer Slide Time: 14:21)  
+ 
+So, the time of concentrations  is estimated . 
+From the table, above the return period with different  rainfall intensity  duration of  10, 30, 60 , 
+and 120 mins are shown . So for 12 minute and 5 year return period , you get the rainfall  intensity 
+of 73 mm/h  (by interpolation ).  
+(Refer Slide Time: 15:29)  
+ 
+Next is  the runoff coefficient which is obtained from the  table given by  US SCS (United States 
+Soil Conservation Services ). So, in th e table above the coefficient C is given for  different  cover 
+and conditions  in the first column; and then the soil group A, B, C, and D  in the second, third 
+fourth , and fifth column s. 
+Runoff coefficient C for permanent pasture  
+(Group B, 5 ha) = 0.14  
+Runoff coefficient C for poor row crop  
+(Group C, 10 ha) = 0.71  
+Weighted value of C for the whole water shed: 0.52 
+Substituting in Ration al formula:  
+𝑄𝑝 = 0.0028  × 0.52 ×73.0 × 15  
+𝑄𝑝 = 1.6 𝑚3/𝑠 
+ (Refer Slide Time: 18:43)  
+ 
+And next is the Cook’s Method for determining the surface runoff which is developed by the 
+USCS  United States Soil Conservation Service . It provides a simpler  and more generalized 
+appro ach than the Rational Method.  
+It requires the catchment size and the condition. S o, with these two things , we will be able to 
+find out the peak discharge. So, in the table  above  in column number one  is the conditions  
+involv ing four conditions : relief, soil infiltrat ion, vegetation cover, surface storage . And in the 
+first row is  the peaks; classified into four classes , extreme peaks, high peaks, normal peaks, 
+and low peaks.  
+So, based on the peak type weights are assign ed for different conditions , if you sum them 
+column -wise it will give the magnitude of the peak . So,  e.g., in high peaks , case-hilly land 
+slopes  of 10 to 30% the weight age is 30 and for slow  to take water  clays , low infiltration  the 
+weig htage is  15. So, like that you get  extreme pea ks -100, high peaks -75, normal peaks -50, and 
+low peaks -25.  
+ 
+ 
+ 
+(Refer Slide Time: 20:46)  
+ 
+So, then the next step is, when a total of catchment condition values is made, the peak flow 
+(m3/s) is estimated using the  table  in the slide above.  
+(Refer Slide Time: 21:26)  
+ 
+Next is the SCS-CN method  that is a Soil Conservation Service Curve Number Method. This 
+method is based on the relationship between rainfall amount and direct runoff.  So, the 
+relationships are defined in series of curvilinear graphs which are called Curves. So, each curve 
+represents the relationship betwee n rainfall and runoff for a set of hydrological conditions. So, 
+the equation governing the relationship between rainfall and runoff is  
+𝑄 = (𝑃−0.2𝑆)2
+(𝑃+ 0.85𝑆 ) 
+Where Q = direct surface runoff depth in mm; P = storm rainfall in mm; S = the maximum 
+potential difference between rainfall and runoff in mm, starting at the time the storm begins.  
+Soil reservoir which can accept the inflow  or infiltration or all losses or abstractions so that is 
+S so, here we have to find out S  and S is a function of curve number.  
+(Refer Slide Time: 23:06)  
+ 
+Now , the parameter S is essentially composed of losses from runoff to interception, infiltration, 
+etc. The US SCS calculates S by:  
+𝑆=25400  
+𝐶𝑁−254 
+CN is the "Curve Number", from 0 to 100.  
+Curve Number 100  assumes total runoff from the rainfall and therefore S = 0 and P = Q.  
+(Refer Slide Time: 24:13)  
+ 
+So, in the table above , curve numbers are show n for different soil groups. In column  1 is the 
+land use  which can be  fallow row crops , small grain , close seeded legumes , or rotation  meadow 
+pasture , or range  permanent meadow,  woods , and farmstead roads . In the second column is the 
+treatments  which can be  a straight row , contoured , terraced , and then condition  in the third 
+column which can be poor, good , or fair. And the curve number  is given  for different  soil 
+group s. 
+The is soil groups are defined  as 
+Soil group A – Well -drained sand or gravel, high infiltration rate  
+Soil group B – Moderately well -drained soil, moderate infiltration rate, with fine to moderately 
+coarse texture  
+Soil group C – Slow infiltration rate, moderate to fine texture  
+Soil group D – Very slow infiltration, mainly clay material, relatively impervious   
+(Refer Slide Tim e: 26:08)  
+ 
+So, there is also a table from where you can get the direct runoff.  In the graph above the rainfall 
+is on the  x-axis and the  lines are the curve numbers  from 40 to  100 and in the y-axis is a direct 
+runoff. So, knowi ng the rainfall , for example, 8 is the rainfall 65 is the curve number  then the 
+corresponding runoff will be  almost  4 inches So, out of 8 inches of rain 4 inch turns into  a 
+direct runoff for a curve number of 65 . 
+Antecedent moisture current  or AMC is divided into three types  
+AMC I – Dry soil  
+AMC II – Average soil moisture  
+AMC III – Wet soil  
+So, these curves will be adjusted based on the AMC values.  The AMC is very important if the 
+soil is initially wet , it will result  in more runoff compared to AMC  II and AMC  I. So, once we 
+get the direct runoff from the particular cu rve number , based on the AMC it will be adjusted . 
+(Refer Slide Time: 28:00)  
+ 
+Example 51.3: In a 350 ha watershed the CN value was assessed as 70 for AMC III.  
+(a) Estimate the value of direct runoff volume for the following 4 days of rainfall.  The AMC 
+on July 1st was of category III. Use standard  SCS-CN equations.  
+(b) What would be the runoff volume if the CN III value were 80?  
+Date  July 1  July 2  July 3  July 4  
+Rainfall, mm  50 20 30 18 
+Solution:                                           
+Given                                                        CN III = 70 
+𝑆=25400  
+70−254 =108 .86 
+ (Refer Slide Time: 29:20)  
+ 
+𝑄= (𝑃−0.2𝑆 )2
+𝑃+0.8 S 
+𝑄= (𝑃−0.2×108.86  )2
+𝑃+0.8 ×108 .86 
+𝑄= (𝑃−21.78)2
+𝑃+87.09 For P> 21.78 mm  
+Date  P, mm  Q, mm  
+July 1  50 5.81 
+July 2  20 0 
+July 3  30 0.58 
+July 4  18 0 
+Total  118 6.39 
+ 
+(Refer Slide Time: 30:45)  
+ 
+𝑇𝑜𝑡𝑎𝑙  𝑟𝑢𝑛𝑜𝑓𝑓  𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑣𝑒𝑟  𝑡ℎ𝑒 𝑐𝑎𝑡ℎ𝑚𝑒𝑛𝑡 , 𝑉𝑟=350 ×104×6.39 
+1000=22365  m3 
+(b) So, similarly , for CN III = 80 
+𝑆=25400  
+80−254 =63.5 
+𝑄= (𝑃−0.2𝑆 )2
+𝑃+0.8 S 
+𝑄= (𝑃−0.2×63.5 )2
+𝑃+0.8 ×63.5 
+𝑄= (𝑃−12.7)2
+𝑃+50.8 For P> 12.7 mm  
+ 
+(Refer Slide Time: 31:29)  
+ 
+Date  P, mm  Q, mm  
+July 1  50 13.8 
+July 2  20 0.75 
+July 3  30 3.7 
+July 4  18 0.41 
+Total  118 18.66  
+𝑇𝑜𝑡𝑎𝑙  𝑟𝑢𝑛𝑜𝑓𝑓  𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑣𝑒𝑟  𝑡ℎ𝑒 𝑐𝑎𝑡ℎ𝑚𝑒𝑛𝑡 , 𝑉𝑟=350 ×104×18.66 
+1000=65310  m3 
+So, all precipitation values are going to result in the runoff , in this case , the total  runoff depth 
+would be 18.66 and the total runoff over catchment 65310  m3 is the runoff volume. So, for 
+increasing curve numbers runoff volume is increasing . 
+This is all in this  lecture hydrologic design of surface drainage system. In the next lecture , we 
+are going to talk about the hydraulic  design of the surface drainage system . 
+Thank you.  

@@ -1,0 +1,247 @@
+ 
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 50 Tutorial  
+Friends  welcome to lecture number 50  which is mostly on the Tutorials or workout problems 
+dealing with the subsurface drainage using Hooghoudt equation and Glover -Dumm equation 
+and finding out the drain spacing and the drain  pipe length, pipe diameter , etc. 
+(Refer Slide Ti me: 00:49)  
+ 
+So, here is example W10.1:  
+Tile drains have to be installed in an agricultural land having soil permeability of 2.3 × 10-3 
+mm/s. An impermeable stratum exists at 3.2 m below the land surface, and it is desired to 
+keep the water level at least 1.0 m below the land surface. The average discharge of the 
+drainage system is 2.0 mm day-1. If the tile drains are planned to be placed at 1.5 m below the 
+land surface, the drain spacing in m (assuming the equivalent depth to be the same as the tile 
+depth) , is             
+Solution:  
+Given  
+Soil permeability, K = 2.3 × 10-3 mm/s = 198.72 mm/day  
+Average discharge of the drainage system, q = 2.0 mm/day  
+  Equivalent depth d e = d = 1.5 m  
+ℎ=0.5 𝑚. 
+ 
+ 
+(Refer Slide Time: 03:28)  
+ 
+We know Hooghoudt’s equation  
+𝑞=8𝐾𝑑ℎ
+𝐿2+4𝐾ℎ2
+𝐿2 
+Substituting values in Hooghoudt’s equation  
+2=8×198.72×1.5×0.5
+𝐿2+4×198.72×0.52
+𝐿2 
+2=8×198.72×1.5×0.5
+𝐿2+4×198.72×0.52
+𝐿2 
+𝐿2=1192.32+198.72
+2=1391.04
+2=695.52 
+𝐿=√695.52=26.37 𝑚 𝐴𝑛𝑠. 
+(Refer Slide Time: 04:28)  
+ 
+ 
+Example W10.2:  
+In an ir rigation command area, the irrigation interval, gross application in irrigation , and the 
+application efficiency are 20 days, 75 mm , and 60%, respectively. The soil is homogeneous 
+with K = 0.9 m day-1. The impermeable layer is at a depth of 7 m from the gr ound surface. 
+The area is to be a tile drain with tiles at a depth of 2 m below the ground surface. The 
+maximum permissible steady -state water table height mid -way between the drains, from the 
+plane of the drain, is 1.2 m. using the steady -state approach of Hooghoudt, assuming an 
+equivalent depth of 4.12 m, the drain spacing in m will be                    
+ (Refer Slide Time: 06:59)  
+ 
+Solution:  
+Given  
+Irrigation interval = 20 days  
+Gross application in an irrigation = 75 mm  
+Application efficiency are = 60%,  
+Therefore,  𝑞=75
+20×0.6 
+=2.25𝑚𝑚
+𝑑𝑎𝑦=0.00225𝑚
+𝑑𝑎𝑦 
+K = 0.9 m/day  
+Impermeable layer depth from the ground surface = 7 m.  
+Tile drains depth below the ground surface= 2 m.  
+h = 1.2 m.  
+Equivalent depth d e = d = 4.12 m  
+ 
+ 
+(Refer Slide Time: 09:11)  
+ 
+We know Hooghoudt’s equation  
+𝑞=8𝐾𝑑ℎ
+𝐿2+4𝐾ℎ2
+𝐿2 
+Substituting values in Hooghoudt’s equation  
+0.00225=8×0.9×4.12×1.2
+𝐿2+4×0.9×1.22
+𝐿2 
+𝐿2=35.6+5.184
+0.00225=40.784
+0.00225=18126.222 
+𝐿=√18126.222=134.63 𝑚 (Ans.) 
+So, this is  similar to the previous problem the only thing is q needs to be determined based on 
+the irrigation efficiency, gross water requirement , and also the irrigation interval.  
+(Refer Slide Time: 09:45)  
+ 
+ 
+Example W10.3:  
+The EC of the canal water used for irrigating wheat is 1.2 mmhos/cm while it can tolerate a 
+maximum EC of 6 mmhos/cm. the ET of wheat is 0.8 cm/day and soil hydraulic conductivity 
+is 0.9 cm/h. the area is to be drained by the tile drain laid at a depth of 2.5 m below ground 
+level to maintained water table depth at 1.5m the imperv ious layer is located at a depth of 4 m 
+below the ground surface.  
+Compute the drain spacing using Hooghoudt,s equation.  
+Calculate the drainage flow rate out of a 400 ha field  
+What is the size of the drain pipe laid out on a gradient of 0.001 m/m, assuring tha t drain is 
+running full and Manning is 0.01?                    
+Solution:  
+Given,  
+𝐸𝐶𝑖𝑤= 1.2 mmhos/cm  
+𝐸𝐶𝑑𝑤= 6 mmhos/cm  
+(Refer Slide Time: 13:09)  
+ 
+ET = 0.8 cm/day  
+Soil hydraulic conductivity = 0.9 cm/h.  
+Tile drain depth = 2.5 m  
+water table depth =  1.5m  
+impervious layer = 4 m  
+Area = 400 ha  
+Gradient = 0.001 m/m,  
+n = 0.01   
+ 
+𝐿𝑅=𝐸𝐶𝑖𝑤
+𝐸𝐶𝑑𝑤=1.2
+6=0.2 
+(Refer Slide Time: 13:57)  
+ 
+As we know that  
+Depth  of water  drained= 𝑑𝑒𝑝𝑡ℎ 𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑎𝑝𝑝𝑙𝑖𝑒𝑑  – 𝑑𝑒𝑝𝑡ℎ 𝑜𝑓 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡  
+Depth  of water  drained=𝐷𝑖−LR×𝐷𝑖=𝐷𝑖−0.2×𝐷𝑖=0.8𝐷𝑖 
+𝐸𝑇=0.8𝐷𝑖 
+0.8=0.8𝐷𝑖 
+𝐷𝑖=1 
+𝐿𝑅=𝐷𝑑
+𝐷𝑖 
+𝐷𝑑=0.2×1=0.2 
+Drainage flow rate = 0.2 cm/day  
+(Refer Slide Time: 15:53)  
+ 
+ 
+Hooghoudt,s equation  
+𝐿2=4𝐾ℎ2
+𝑞+8𝑑𝐾ℎ
+𝑞 
+𝐿2=4×0.009×24×1×1
+0.002+8×0.009×24×1×1.5
+0.002 
+𝐿2=432+1296  
+𝐿=41.57 m (Ans.)  
+𝐷𝑟𝑎𝑖𝑛𝑎𝑔𝑒  𝑓𝑙𝑜𝑤  𝑟𝑎𝑡𝑒  (𝑄)=𝑞×𝐴  
+𝐷𝑟𝑎𝑖𝑛𝑎𝑔𝑒  𝑓𝑙𝑜𝑤  𝑟𝑎𝑡𝑒  (𝑄)=0.2
+100×400×10000  
+=8000  m3/day 
+=0.092 m3/s (Ans.)  
+As we know that  
+𝑄=𝐴×𝑉 
+𝑉=1
+𝑛×𝑅23⁄×𝑆0.5 
+(Refer Slide Time: 7:09) 
+ 
+𝑄=𝐴×1
+𝑛×𝑅23⁄×𝑆0.5 
+𝑄=𝜋
+4×𝑑2×1
+𝑛×(𝜋𝑑2
+4𝜋𝑑)23⁄
+×𝑆0.5 
+𝑄=𝜋
+453⁄×𝑑2×𝑑23⁄×1
+𝑛×𝑆0.5 
+0.092=0.31×𝑑83⁄×1
+0.01×0.0010.5 
+ 
+0.092=0.98×𝑑83⁄ 
+𝑑=0.411  𝑚=41.1 cm (A ns.) 
+(Refer Slide Time: 18:09)  
+ 
+Example W10.4:  The following data were obtained from an agricultur al land requiring a pipe 
+drainage system for groundwater control: Hydraulic conductivity = 8.3 cm/h, drainable 
+porosity = 5%, reaction factor = 0.31 per day , and equivalent depth to the impermeable layer = 
+2.8 m  The drain spacing computed by the Glover -Dumn formula will be             
+Solution:  
+Given, 𝐻𝑦𝑑𝑟𝑎𝑢𝑙𝑖𝑐  𝑐𝑜𝑛𝑑𝑢𝑐𝑡𝑖𝑣𝑖𝑡𝑦  = 8.3 𝑐𝑚/ℎ= 8.3
+100×24=1.992  m/day  
+𝐷𝑟𝑎𝑖𝑛𝑎𝑏𝑙𝑒  𝑝𝑜𝑟𝑜𝑠𝑖𝑡𝑦  = 5% 
+𝑅𝑒𝑎𝑐𝑡𝑖𝑜𝑛  𝑓𝑎𝑐𝑡𝑜𝑟  = 0.31 𝑝𝑒𝑟 𝑑𝑎𝑦   
+𝐸𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡  𝑑𝑒𝑝𝑡ℎ 𝑡𝑜 𝑡ℎ𝑒 𝑖𝑚𝑝𝑒𝑟𝑚𝑒𝑎𝑏𝑙𝑒  𝑙𝑎𝑦𝑒𝑟  = 2.8 𝑚  
+(Refer Slide Time: 89:23)  
+ 
+ 
+Glover -Dumm equation  
+𝐿2= 10𝐾𝑑
+μα 
+𝐿2= 10×1.992×2.8
+0.05× 0.31 
+𝐿2= 55.776
+0.0155 
+𝐿2=3598.45 
+𝐿=59.98 
+≅60 𝑚 (Ans.)  
+(Refer Slide Time: 20:08)  
+Example W10.5:  
+A subsurface drainage system is installed in an agricultural area to control the water table. 
+The design discharge rate of the drain is 2 mm/day. The depth of the water table midway 
+between the drain is 1.5 m below the soil surface. A drainpipe with a radius of  0.10 m is 
+installed at a depth of 2 m. There is an impervious layer at a depth of 7 m below the soil 
+surface. The hydraulic conductivity of the homogeneous soil above the impervious layer is 
+1m/day.  
+a. If the flow rate takes place only below the drain level  the equivalent depth for a drain 
+spacing of 90 m is  
+b. If the flow rate water takes place only above the drain leve l, the drain spacing is        
+Solution:  
+Given, 
+Discharge rate of the drain (q) = 2 mm/day=0.002 m/day  
+ 
+hydraulic conductivity (K) =1 m/day  
+ (Refer Slide Time: 22:26)  
+ 
+As we know Hooghoudt,s equation for water below the drain level,  
+𝐿2=8𝑑𝐾ℎ
+𝑞 
+902=8×𝑑×1×0.5
+0.002 
+8100=2000  𝑑 
+(Refer Slide Time: 23:18)  
+ 
+As we know Hooghoudt,s equation for water below the drain level,  
+𝐿2=8𝑑𝐾ℎ
+𝑞 
+ 
+902=8×𝑑×1×0.5
+0.002 
+8100=2000  𝑑 
+𝑑=4.05 m (Ans.)  
+Hooghoudt,s equation for water above the drain level,  
+𝐿2=4𝐾ℎ2
+𝑞 
+𝐿2=4×1×0.5×0.5
+0.002 
+ (Refer Slide Time: 23:41)  
+ 
+𝐿2=4×1×0.5×0.5
+0.002 
+𝐿2=500   
+𝐿=23.36 m (Ans.)  
+So, this is all in this  tutorial we were talking about the steady -state problems, as well as one 
+problem on unsteady state problem using Glover -Dumm equation. Otherwise , most of the 
+problems are related to the Hooghoudt equation. And we have seen a variety of equations, 
+finding out spacing, finding out the drain flow rate , and contributions flow above  and below 
+the drain base depth. These problems  will help in understanding the problems right related to 
+the surface as well as subsurface drainage systems design . 
+Thank you so much.  

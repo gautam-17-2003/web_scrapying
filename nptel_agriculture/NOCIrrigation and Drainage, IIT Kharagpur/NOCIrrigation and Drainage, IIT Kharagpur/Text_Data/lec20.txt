@@ -1,0 +1,260 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 20 
+Tutorial  
+ 
+This is lecture number 20 of Irrigation and D rainage  lecture series . Since it is the last 
+lecture of this week  we focus more on tutorial s 
+(Refer Slide Time: 00:34)  
+ 
+So, from the previous  lecture we have seen the procedure to design the basin irrigation .  
+Problem W4.1:  
+Design a basin irrigation system for the following conditions:  
+Field length, L = 150 m,  
+Field width, W = 300 m,  
+n = 0.04,  
+Soil texture = loam,  
+Design irrigation requirement = 10 cm,  
+Infiltration function p arameters: k = 0.0028, a = 0.545 and f 0 = 0.00012,  
+Available supply rate, Q = 10 (m3/min),  
+Supply duration = 12 hrs.  
+So, let us design a basin irrigation  for this particular problem . The solution here  is to find 
+out non -erosive flow rates or  Qmax first. And we are going to find out  the flow rate , which 
+is close to  Qmax and with this  Qmax value , we are going to find out how much area , how 
+many sets you can irrigate  with the border length how many with a basin length . Then 
+once this is done  we are going to find out  the advance coefficient  at tL and tL /2. Once that 
+is done  you are going to find out time of cut off and irrigation  efficiency . 
+(Refer Slide Time: 03:01)  
+ 
+Solution:  
+1. Determine the maximum allowable non -erosive inflow rate (Q max) as follows:  
+𝑄𝑚𝑎𝑥= [𝑉𝑚𝑎𝑥(𝑛2𝐿
+7200)0.24
+]1.857
+= [13(0.042 ×150
+7200)0.24
+]1.857
+=1.184𝑚3/𝑚𝑖𝑛/𝑚 
+2. Select a unit flow rate (Q 0) near Q max in such a way that it results in an integer 
+number of basins and sets.   
+ Since, the available supply rate is fixed, a value of unit flow rate near the maximum 
+would resul t in a small basin width with a large number of basins.  
+ This would increase the labour and other cost. For example, a unit flow rate of 1 
+m3/min/m would result in 30 basins of 150 m x 10 m and would require 30 sets to 
+irrigate.  
+ It is assumed that the basi ns would have a 150 m length and a minimum width of 
+30 m.  
+ This results in a unit inflow rate of 0.333 m3/min/m with 10 sets.  
+ 
+(Refer Slide Time: 05:26)  
+ 
+3. Compute the inflow depth (y 0) at the inlet:  
+𝑦0=(𝑄02𝑛2𝑥
+3600)0.24
+=((0.333)2(0.04)2150
+7200)0.24
+=0.0497  𝑚 
+ Compare y 0 with the ridge height and make sure that it is lower than the ridge height.  
+ Considering a freeboard of 5 cm, a ridge height of 10 cm would be sufficient.  
+4. Compute time of advance to the e nd of the basin, t L as follows:  
+ Assume an initial value of advance rate exponent (r) equal to 0.5, rj = 0.5  
+ Compute 𝜎𝑧 and 𝜎′𝑧by substituting r = rj ; 𝜎𝑧 = 0.76483, 𝜎′𝑧   = 0.66667  
+ Compute the time necessary for flow to advance half the furrow L /2 distance, t L/2: 
+𝑦0=(𝑄02𝑛2𝑥
+3600)0.24
+=((0.333)2(0.04)2150
+7200)0.24
+=0.0497  𝑚 
+(Refer Slide Time: 06:54)  
+ 
+ii. 𝑡𝐿/2𝑖=2.5𝑦0𝐿
+𝑄0=2.5(0.0497) 150
+0.333=55.95 𝑚𝑖𝑛 
+iii. 𝑡𝐿/2𝑖+1=𝑡𝐿/2𝑖−𝑄0𝑡𝐿
+2𝑖−0.8𝑦0(0.5𝐿)−𝜎𝑧𝑘(𝑡𝐿
+2𝑖)𝑎
+(0.5𝐿)−𝜎′𝑧𝑓0(𝑡𝐿
+2𝑖)(0.5𝐿)
+𝑄0−𝜎𝑧𝑎𝑘(𝑡𝐿
+2𝑖)𝑎−1
+(0.5𝐿)−𝜎′𝑧𝑓0(0.5𝐿) = 13.39 min  
+ Repeat step iii and after some iterations the value converges to 12.73 min  
+ Compute the time necessary for flow to advance L distance, t L:  
+24.022
+0
+03600LnQy
+
+
+
+ 
+=0.0587 m  
+(Refer Slide Time: 08:08)  
+ 
+ii. 
+min95.550.333150 5(0.0459)
+QL 5y = t
+00 i
+L    
+iii. 
+min94.34 t1i
+L  
+ Repeat step iii and after some iterations the value converges to 28.10 min  
+ Compute a revised estimate of advance rate exponent (rj+1) as follows:  
+87556.0)73.12/94.34ln()2ln(
+ttln2lnr
+2/LL1j 
+
+ 
+ Repeat step 4 since until rj = rj+1.  The final value of t L = 26.99 min  
+5. Calculate T co, assuming that irrigation requirement will be satisfied at the end of the 
+basin,  If T co≤tL, set T co = tL. 
+88.50333.0150)) 0587.0(8.01.0(99.26QL)y8.0 Z(t Tco
+00 req
+L  
+ (Refer Slide Time: 09:06)  
+ 
+6. Compute the application efficiency, Ea,  
+%52.88)88.50()333.0()150()1.0(
+TcoQLZEa
+0req  
+ 
+So, you have to follow this  steps repeatedly  and for a  particular combination you get an 
+efficiencies  and you can pick a particular you know  combination  with maximum efficiency  
+and that will be the design of basin  ok. 
+(Refer Slide Time: 09:37)  
+ 
+Example W4.2:  
+Furrows of 120 m length with 0.5% slope are made at 90 cm spacing. The maximum non-
+erosive  stream flow rate is applied in a furrow that takes 1.0 hour to reach the lower end.  
+Then this flow rate is reduced to half of its size and, subsequently, continued for another  
+1.0 hour. The average depth of applied water is ________ cm.   (GATE 2018)  
+Solution: 
+Given,  
+Furrow length, L = 120 m  
+Slope, s = 0.5%  
+Furrow Spacing, w = 90 cm = 0.9 m  
+Duration of irrigation for maximum non-erosive  stream flow, t 1 = 1 h  
+Duration of irrigation when flow rate is reduced to half of its size, t 2= 1 h  
+ (Refer Slide Time: 11:42)  
+ 
+ 
+We know for non -erosive flow the maximum flow rate is given as follows  
+𝑞𝑚1=0.60
+𝑠=0.6
+0.5=1.2 𝑙/𝑠  
+When flow rate is reduced to half of maximum flow rate, it is given as follows  
+𝑞𝑚2=1
+2𝑞𝑚1=1
+2×1.2=0.6 𝑙/𝑠  
+And the average depth of water applied is given as:  
+𝑑1=𝑞×360×𝑡
+𝑤×𝐿=1.2×360×1
+0.9×120=4 𝑐𝑚 
+360 is the unit conversion  
+𝑑2=𝑞×360×𝑡
+𝑤×𝐿=0.6×360×1
+0.9×120=2 𝑐𝑚  
+Net average depth of irrigation =4+2=6 𝑐𝑚 (Ans)  
+ (Refer Slide Time: 13:42)  
+ 
+Example W4.3:  
+Graded furrows of 80 m long and 0.75 m spacing are used for irrigating a field with an 
+initial furrow stream of 100 l/min. The initial furrow stream flow reaches the lower end of 
+the field in 40 min. Thereafter, the furrow stream flow is reduced to 30 l/min and the 
+cutba ck stream flow is continued for 1 hour. the average depth of irrigation over the field 
+in cm will be (Ans. 9.65 -9.75) (GATE 2017)  
+Solution:  
+Given,  
+Furrow length, L = 80 m  
+Furrow Spacing, w = 0.75 m  
+Initial furrow stream = 100 l/min = 1.667 l/s  
+Reduced furr ow stream = 30 l/min = 0.5 l/s  
+Duration of irrigation for initial furrow stream, t 1 = 40 min = 0.667 h  
+Duration of irrigation for reduced furrow stream, t 2 = 1 h  
+ 
+This problem is almost similar to the previous problem .  
+(Refer Slide Time: 14:27)  
+ 
+ The average depth of water applied is given as:  
+𝑑1=𝑞×360×𝑡
+𝑤×𝐿=1.667×360×0.667
+0.75×80=6.67 𝑐𝑚 
+𝑑2=𝑞×360×𝑡
+𝑤×𝐿=0.5×360×1
+0.75×80=3 𝑐𝑚  
+Net average depth of irrigation =6.67+3=9.67 𝑐𝑚 (Ans)  
+(Refer Slide Time: 15:04)  
+ 
+Example W4.4:  
+A field is irrigated by constructing 100 m long furrows spaced at 0.75 m apart. The advance 
+time to the end of furrows was 30 min with an inflow rate of 2 L/s. After that the inflow 
+rate was cut back to 0.5 L/s and continued for I hour. The average depth o f irrigation is 
+(GATE 2007)  
+Solution:  
+Given,  
+Furrow length, L = 100 m  
+Furrow Spacing, w = 0.75 m  
+Initial furrow stream = 2 l/s  
+Reduced furrow stream = 0.5 l/ s 
+(Refer Slide Time: 15:40)  
+ 
+ 
+The average depth of water applied is given as:  
+𝑑1=𝑞×360×𝑡
+𝑤×𝐿=2×360×0.5
+0.75×100=4.8 𝑐𝑚 
+𝑑2=𝑞×360×𝑡
+𝑤×𝐿=0.5×360×1
+0.75×100=2.4 𝑐𝑚 
+  
+Net average depth of irrigation =4.8+2.4=7.2 𝑐𝑚(Ans.)  
+ 
+(Refer Slide Time: 16:01)  
+ 
+Example W4.5  
+A border strip of 8 × 250 m is being irrigated by a border stream of 50 lps. The infiltration 
+capacity of the soil is 25 mm h-1 (assumed to be constant throughout the period of 
+irrigation). The average depth of the advancing sheet of water over the land is 70 mm. The 
+time required to ir rigate the border strip, in minutes, will be ____ (GATE 2012)  
+Solution:  
+Given,  
+Border strip dimension = 8 × 250 m; Area, A = 2000 m2 
+Flow rate, Q= 50 l/s = 180  𝑚3/ℎ  = 
+Infiltration capacity of the soil, i = 25 mm/h = 0.025 m/h  
+The average depth of the ad vancing sheet of water over the land d = 70 mm =0.070 m  
+(Refer Slide Time: 17:42)  
+ 
+Volume of water at average depth of the advancing sheet,  
+𝑉 =8 × 250  ×0.070=140  𝑚3 
+The time required to irrigate the border strip is given by:  
+𝑡=2.303𝑑
+𝑖𝑙𝑜𝑔𝑄
+𝑄−𝐴𝑖=2.3030.07
+0.025𝑙𝑜𝑔180
+180−2000×0.025 
+=6.4484  ×𝑙𝑜𝑔180
+130 =6.4484×0.14=0.91134  ℎ=54.68 𝑚𝑖𝑛 (Ans.)  
+(Refer Slide Time: 20:27)  
+ 
+Example W4.6:  
+The following figure shows two advance curve for surface irrigation (GATE 2010)  
+ 
+The advance represented by curve M is slower than N. this could be attributed to_____  
+1. The inflow rate to the field is lower  
+2. The intake rate of the soil is low er 
+3. The field slope is flatter  
+4. The hydraulic roughness is greater for curve N than for curve M  
+a) 1,2   b) 1,3  
+c) 2,4   d) 3,4  
+ 
+Answer b  
+That is all in this lecture , so in this lecture we mainly focused on  design problem on  basin 
+irrigation . And then we have some examples which are being repeated  in GATE , mostly 
+the furrow irrigation case .   
+So, with this we finished the surface irrigation  system design . So, we focused mostly in 
+the 3 surface irrigation systems furrow , border  and basin irrigation and then the ir design 
+problems then  some tutorials.  
+Thank you . 

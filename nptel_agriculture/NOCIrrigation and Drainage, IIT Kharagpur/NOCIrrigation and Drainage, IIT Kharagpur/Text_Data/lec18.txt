@@ -1,0 +1,370 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapall li 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 18 
+Furrow Irrigation  Hydraulics  
+ 
+In this lecture number 18  we are going to focus on the Furrow Irrigation Hydraulics again. 
+So, previously by knowing the  advance curve we were  able to estimate the infiltration 
+characteristics; like, Kostiakov infiltration parameters for a particular  field soil, but in this  
+lecture we are going to see the whole procedure  to find out,  the advance curve by knowing 
+the infiltration parameters. So, it is kind of a reverse of what we did  previously ; now, by 
+knowing the infiltration parameter of particular field, how to estimate  or how to simulate 
+the advance curve?  
+(Refer Slid e Time: 01:11)  
+ 
+The above flow chart  is clearly showing  the input data required here  such as  Q0, slope  S0, 
+roughness coefficient n, shape parameters 𝜌1 and 𝜌2, Z req, this is  what we expect in the 
+subsurface. And the cumulative infiltration we expect for a particular crop where a, k, and 
+f0 are the  known infiltration parameters . So, our task here in this situation  is to find out , 
+what would  the advanc e look like, how the advance is going to move from head end to 
+field end  knowing the infiltration parameters? So, the first step is , we again focus on  
+volume balance equation  where the  flow area field inlet  A0 is given as follows:  
+𝐴0=(𝑄0𝑛
+60𝜌1𝑆00.5)1
+𝜌2
+ 
+Then initial guess of r here is similar to the b , and b is the power function for waterfront 
+advance  coefficient , if you remember in previous lecture . So, please, note that this r we 
+are showing is equal to b  in previous lectur e. 𝜎𝑧 𝑎𝑛𝑑  𝜎𝑠 as previously given is  
+𝜎𝑧=𝑎+𝑟(1−𝑎)+1
+(1+𝑎)(1+𝑟) 
+and 
+𝜎𝑠=1
+(1+𝑟) 
+Before going into the details  let’s see how to solve an implicit function. W hen you have 
+the implicit functions that means, the independent variab le is implicit , in that case, you 
+cannot  solve the equation directly,  you have to use some numerical techniques like Newton 
+Raphson  technique. So, suppose you have a function f (x), and  there is initial guess x 0. So, 
+the new guess 𝑥1=𝑥0−𝑓 (𝑥) /𝑓’(𝑥0), this is Newton Raphson  technique so, every time 
+you get some initial guess x0, find out what is  f(x) and what is f ’(x0) and you get  x1. Now 
+you check whether this x1 is close to x0 or not, if they are very close like x0 - x1, ≤0.001, as 
+tolerance  level , then you can stop the process, otherwise again this x 0 needs to have an other  
+initial guess.  
+So, that would be like x0 = x1, the x1 you get you put it  in place of x0, and find out this 
+function values so now, you get new x1 and compare with the prev ious x 1. So, similarly  
+with every iteration you will get  the new x 1 and this will be compared with the previous 
+x1. If these two x1 and x 0 are very close, then we stop the iteration process and the guess 
+will be the right answer or the right solution . This is finding out the solution in case of 
+implicit functions. So, here in our case we have an  implicit function, basically we are 
+looking for the advance functions  or advance curves that is ‘a’, and then,  there is the time 
+also which is the u nknown function so, time and a.  The value of r or b is varied  in between 
+0.3 to 0.9.  First let see what is the equation for advance time tL: 
+𝑡𝐿=𝑇1=5×𝐴0×𝐿
+𝑄0 
+So, tL is taken as the initial guess you can also use  any initial guess, but in order to red uce 
+the number of iteration, we use  tL. (Refer Slide Time: 06:43)  
+ 
+If you remember the volume balance equations  where  T2 is  
+𝑇2=𝑇1−𝑄0𝑇10.77𝐴0𝐿−𝜎𝑧𝑘𝑇1𝑎𝐿−𝜎′𝑧𝑓0𝑇1𝐿
+𝑄0−𝑎𝑘𝜎𝑧𝐿
+𝑇11−𝑎−𝜎′𝑧𝑓0𝐿 
+You get a new T and T1 or tL is the initial T s o, let us say a function x, and here x is the 
+time.  So, we are differentiating with respect to time, then  for a particular initial guess, 
+substitute T 1 and you get T 2, and now you see whether T 2 is close to T 1 or not. If it is n ot 
+close , again you go back to  update the T 1 with T 2, and do the iterations  till T1 is almost 
+equal to T 2. We are targeting the advance points at the field end here  which is L .  
+ (Refer Slide Time: 09:22)  
+ 
+So, continuing if T 1 and T2 are very close, then you got the advance point at the field end. 
+So now, next advance point  is at the middle  point,  or the  L/2. 
+𝑡0.5=𝑇1=5×𝐴0×𝐿/2
+𝑄0 
+ So, we follow the same procedure for L /2 and then and same T 1 and T2.  So, one at the 
+field end  L the other one is at the  L/2. So, we want to find T 1 by substituting x =L/2, we 
+follow the same proc edure  - Newton Raphson  technique , and  same iteration  procedure, 
+and finally, you get  T2. Now y ou get 2 advance points, and now find out the b value . So, 
+initially you started by assuming b value, and f ind out at that particular b value what are 
+the 2 advance points, now you  calculate back,  with the same b  and find out the new b. So 
+now, check whether this b is close to the initial guess  of b, if they are not close , then again 
+change b and find out t0.5 and t L, and estimate b now again compare , if they are  now close 
+and finally, you will get the advance point at the field end  and advance point in the middle 
+point and r value , where r is the coefficient. So, you get x 1, T1, x2, T2, and also you get t he 
+power advance coefficient . So, this is the procedure  for findi ng out the advance point.  
+(Refer Slide Time: 12:05)  
+ 
+Next is  computat ion of intake opportunity time , it is important  to find out what is the cut 
+off time . So, here basically intake opportunity time  𝜏𝑟𝑒𝑞 is the time that is  required to fulfil 
+the Zreq. So, for a particular crop we expect , 10 cm or even 20 c m of the Z req. So, at the 
+field end we are expecting the vertical infiltration reaching  the Zreq point . Then the time 
+can be obtained from modi fied Kostiakov equation using Newton Raphson  procedure as 
+explained  earlier .  
+ 
+(Refer Slide Time: 13:36)  
+ 
+In a similar manner  make an initial estimate of 𝜏𝑟𝑒𝑞 as 𝜏 𝑖
+𝑟𝑒𝑞 and c ompute a revised 
+estimate as follows  
+𝜏 𝑖+1
+𝑟𝑒𝑞=𝜏 𝑖
+𝑟𝑒𝑞−𝑓(𝜏𝑟𝑒𝑞)
+𝑓′(𝜏𝑟𝑒𝑞) 
+𝑓(𝜏𝑟𝑒𝑞)=𝑍𝑟𝑒𝑞−𝑘(𝜏 𝑖
+𝑟𝑒𝑞)𝑎−𝑓0𝜏 𝑖
+𝑟𝑒𝑞 and  𝑓′(𝜏𝑟𝑒𝑞)=−𝑎𝑘 (𝜏 𝑖
+𝑟𝑒𝑞)𝑎−1−𝑓0 
+Compare 𝜏 𝑖
+𝑟𝑒𝑞 and 𝜏 𝑖+1
+𝑟𝑒𝑞 by taking the ir absolute difference . If they are equal or are 
+within an acceptable error tolerance (say 0.5 minutes), the desired value  is obtained.  If not  
+then again you have to update  the 𝜏𝑟𝑒𝑞  and find the function values and  redo the iterations. 
+And finally, yo u get the solution  for 𝜏𝑟𝑒𝑞 , so, that is infiltration opportunity time . 
+(Refer Slide Time: 14:57)  
+ 
+So, once you get the 𝜏𝑟𝑒𝑞 that is infiltration opportunity time so, the time of cut off  (tco) is 
+equal to infiltration opportunity time plu s the advance time.  
+𝑡𝑐𝑜=𝜏𝑟𝑒𝑞+𝑡𝐿 
+So, when water front reaches the length L  the time is t L. The Zreq at time t L is 0, now we 
+have to deliver water until the  vertical infiltration reaches Zreq. So, 𝜏𝑟𝑒𝑞 is the infiltration 
+time you need to irrigate,  that is tL plus the extra time so, that will be the cut off time . The 
+value of Q 0 should be adjusted  so, that the number of sets  is an  integer number.  The 
+procedure is same to calculate 𝜏𝑟𝑒𝑞 and tL as in Basin and Border irrigatio n system design   
+(Refer Slide Time: 16:30)  
+ 
+So, basically  the design parameters require d in simulation  purpose  of the furrow irrig ation 
+system , are the Kostiakov -Lewis’s Infiltration Model Parameters ; Field Length ; Field 
+Width ; Furrow Spacing ; Field Slope ; Shape Coefficient ; Manning’s Roughness 
+Coefficient ; Required Application Depth ; Water Supply Rate ; Flow per Unit Width ; 
+Duration ; Number of Furrows .  
+(Refer Slide Time: 17:21)  
+ 
+Next is the design procedure, some of the things we have already covered  in the flow chart. 
+The design of a free drainage or  furrow irrigation system.  means, the tail end is free, in  the 
+sense there is no dike at the end . So, water is flowing directly and causing the run off at 
+the field end, So, in this case,  first thing is to collect the following required  fields data  or 
+field characteristics . 
+Field information’s  like length , width , area, slope and  manning’s  n; soil characteristics like 
+texture , water holding capacity  and all other things  like crop, type of crop , design irrigation 
+requirement this is very important, and  water supply - what is the total water supply 
+available? and fur row characteristics like  spacing, bed to bed  spacing , shape  geometry , 
+and shape parameters. So, these are the basic  field data required.  
+(Refer Slide Time: 18:41)  
+ 
+And then  next is  to determine the furrow  geometry parameters using the equations 
+explained  earlier , by knowing the  furrow parameters like a top width , bottom width,  and 
+corresponding depths you can find out, furrow  geometric parameters  𝜌1and 𝜌2. And 
+compute the intake opportunity time  as explained  in few slides back. S o, how to estimate 
+Zreq and then compute the maximum  furrow discharge, that is Q max so, this is  based on the 
+non-erosive  flow velocities and this is different  for different types of soil . Non-erosive 
+flow velocity  is the maximum flow rates so that  flow r ate does not cause any e rosion.  
+(Refer Slide Time: 19:44)  
+ 
+And if you see t he table  in the above slide , it clearly shows the non-erosive  velocities  for 
+different soil types. Qmax can be estimated in manning’s  equation.  
+And then  finally, the fifth step is to find out the discharg e by select ing the furrow discharge 
+Q0 near to Q max. This Q 0 needs to be  near to Q max for the particular  furrow field, which 
+results in integer number of furrows sets . The number of sets , 𝑁𝑠=𝑁𝑓−𝑄0
+𝑄 
+Nf is the number of furrows ; Q is total capacity  and number of furrows per set , 𝑁𝑓𝑠=𝑁𝑓
+𝑁𝑠 
+(Refer Slide Time: 21:48)  
+ 
+Then next is  calculat ing the cross sectional area,  A0:  
+𝐴0= (𝑄02𝑛2
+3600 𝜌1𝑆0)1
+𝜌2
+ 
+Vmax needs to be check whether it’s really matching with the  non-erosive  velocity or n ot. 
+If not again you have to change Q 0 so that V max should be non -erosive  flow rate : 
+𝑉𝑚𝑎𝑥 =𝑄0
+𝐴0 
+And the 7th step here is to assume an initial value of advance  exponent, let u s say r . So, 
+from here onwards follow the flow chart  we just explained before. First select  an initial 
+guess of b equal to 0.5  and we are going to find out 𝜎𝑧, and find out  time at the advance 
+point in field end  and middle of the field. And then find  back th e b value, if the b value is 
+close to  the assumed value then that is fine ; otherwise you have to change b value and redo  
+or recalculate  the final advance point and a middle advance point. So, then you get the b 
+value as well as the 2 advance points . 
+(Refer  Slide Time: 23:50)  
+ 
+So, this is all in the flow chart,  follows the flow chart  explained in the  previous slide s. 
+(Refer Slide Time: 24:16)  
+ 
+After follow ing the flowchart procedure  finally, you calculate r value, and now this r or b 
+value will be compared  with the initial guess value.  
+(Refer Slide Time: 24:40)  
+ 
+And then  compute the cut off time  as explained  in the previous  flow chart  you will g et tL, 
+and then  𝜏𝑟𝑒𝑞 by using the Newton Raphson  technique . Calculate the cutoff time  which  
+is really required t o match the Z req.   
+The 14th step is to compute the application efficiency.  
+𝐸𝑎= 𝑍𝑟𝑒𝑞𝐿
+𝑄0𝑇𝑐𝑜 
+Then the application efficiency should be maximized considering the different values of 
+furrow inflow rate subject to the limitation or eros ion velocity , integer number of sets, the 
+availability and the total discharge of water supply, and other farming practices . So, at 
+least 3 Q 0 value should be  tried, in order to identify a value that maximize E a. And same 
+procedure needs to be repeated con structing representative values for infiltration 
+parameters  and lateral irrigation during the season . This is for the first irrigation before 
+considering for first irrigation  you got Q 0, the number of sets to be irrigated , number of 
+furrows to be irrigated, and  then the other parameters like advance point , time of cut off 
+and irrigation efficiencies . 
+Similarly,  the same procedure, you can use for the next following  subsequent irrigations, 
+because during a season you have a number of irrigations ? So, this is the first irrigation  
+and sometimes you get 2 0 - 22 irrigations in a season but the number of irrigation depends 
+on the crop . 
+(Refer Slide Time: 28:37)  
+ 
+So, that is all procedure so now the actual problem here,  
+Design Problem : Design a furrow irrigation syste m for a field with the following 
+information:  
+Field length, L = 50 m,  Field width, W = 800 m, Longitudinal Slope, S 0 = 0.005, n = 0.04,  
+ soil texture = silt, design irrigation requirement = 10 cm, furrow spacing, Fs = 0.8 m,  
+ Furrow shape parame ters, 𝜌1= 0.305 and 𝜌2=  2.852,  
+ Infiltration function parameters: k = 0.0019, a = 0.692 and f 0 = 0.00025,  
+ available supply rate, Q = 4.5 (m3/min),  
+ Supply duration = 24 hrs  
+ 
+ (Refer Slide Time: 29:14)  
+ 
+Solution:  
+ All the required data including the fu rrow shape parameters are already given.  
+1. Calculate 𝜏𝑟𝑒𝑞 to satisfy the irrigation requirement of 10 cm  
+Zreq= irrigation requirement x F s = 10 cm x 80 cm = 0.08 m3/m length  
+Assume an initial value of 𝜏𝑟𝑒𝑞𝑖 as 𝜏𝑟𝑒𝑞 = 100 min  
+Comput e a new value  
+𝜏𝑟𝑒𝑞𝑖+1=𝜏𝑟𝑒𝑞𝑖−𝑓(𝜏𝑟𝑒𝑞)
+𝑓′(𝜏𝑟𝑒𝑞) 
+𝑓(𝜏𝑟𝑒𝑞)= 𝑍𝑟𝑒𝑞−𝑘(𝜏𝑟𝑒𝑞𝑖) 𝑎−𝑓0𝜏𝑟𝑒𝑞𝑖 
+𝑓′(𝜏𝑟𝑒𝑞)= −𝑎𝑘(𝜏𝑟𝑒𝑞𝑖) 𝑎−1−𝑓0  
+(Refer Slide Time: 29:52)  
+ 
+𝜏𝑟𝑒𝑞𝑖+1=100 −0.08−0.0019  (100 )0.692−0.00025  (100 )
+−0.692(0.0019 )(100)1−0.692−0.00025=115 .837 
+ Since the new and initial estimates are not close, calculate a new value with 115.837 
+min as a revised initial guess.  
+𝜏𝑟𝑒𝑞𝑖+1=115 .837 −0.08−0.0019  (115 .837 )0.692−0.00025  (115 .837 )
+−0.692(0.0019 )(115.837 )1−0.692−0.00025=116 .044 
+𝜏𝑟𝑒𝑞=116 .044 min 
+2. Compute maximum furrow discharge (Q max)  
+ The maximum non -erosive velocity for silt = 8 m/min  
+𝑄𝑚𝑎𝑥 =(𝑉𝑚𝑎𝑥𝜌2 𝑛2
+3600 𝜌1𝑆0)1
+(𝜌2−2)=(82.8520.042
+3600  (0.305 )(0.005 ))1
+(2.852 −2)=0.075 m3/min  
+ 
+(Refer Slide Time: 31:14)  
+ 
+3. After you get Q max and then  next the third step is to find out the number of furrows and 
+number of sets. So, here  the following  equations are used : 
+𝑁𝑓=𝑊
+𝐹𝑠= 800
+0.8=1000  furrows  
+𝑁𝑠=𝑁𝑓𝑄0
+𝑄= 1000  (0.075 )
+4.5=16.66 furrows/set  
+𝑁𝑓𝑠= 𝑁𝑓
+𝑁𝑠=1000
+16.66=60 sets 
+So, total number  of furrows  is thousand and  16.66  furrows /set, this is a re al number but 
+we are looking for integer. So, a new value of Q 0 < Q max needs to be selected iteratively 
+such that both the number of furrows  and number of set are integer, that is the reason we 
+follow the same pr ocedure by changing the sets . So, 10 sets, 8  sets, 5 sets, 4 sets, 2 sets 
+one set, and the combination as show in the following table  
+Sets Number of furrows/set  Furrow inflow rate (Q 0, m3/min)  
+10 100 0.0450  
+8 125 0.0360  
+5 200 0.0225  
+4 250 0.0180  
+2 500 0.0090  
+1 1000  0.0045  
+So, multiplying sets and number o f furrows/set  should  give thousand  but the sets and 
+number of furrows per set are different. So, with these combinations we find what is Q 0 
+values,  and the first in this  example let us take  0.045 which is close to your  non-erosive  
+flow discharge, that is  0.07 which is  within the non-erosive  flow rate. 
+(Refer Slide Time: 33:33)  
+ 
+Now, selecting the Q 0 value find out A 0 and then find out what is V max.  
+Calculate the cross -sectional flow area at the field inlet (A 0) 
+𝐴0= (𝑄02𝑛2
+3600 𝜌1𝑆0)1
+𝜌2=(0.04520.042
+3600 ×0.305 ×0.005)1
+2.852=0.00654  m2 
+𝑉𝑚𝑎𝑥 =𝑄0
+𝐴0= 0.045
+0.00654=6.88m/min  
+Vmax< Maximum permissible velocity for silt, and thus chosen Q 0 is satisfactory.  
+Now  find out the 2 advance  points using the flow chart explained earlier  i.e., tL and 0.5tL 
+Assume an initial value of advance rate exponent ( r) equal to 0.5, rj= 0.5.  
+Compute 𝜎𝑧= 𝑎+𝑟𝑗(1−𝑎)+1
+(1+𝑎)(1+𝑟𝑗)= 0.692 +0.5×(1−0.5)+1
+(1+0.692 )×(1+0.5)=0.72734  
+𝜎𝑧′=1
+1+𝑟𝑗= 1
+1+0.5=0.6666  
+(Refer Slide Time: 34:54)  
+ 
+Compute the time necessary for flow to advance half the furrow L/2 distance, t L/2: 
+a. 𝑡𝐿2⁄𝑖=2.5𝐴0𝐿
+𝑄0= 2.5×0.00654 ×50
+0.045=18.180 min 
+b. 𝑡𝐿2⁄𝑖+1= 𝑡𝐿2⁄𝑖− 𝑄0 𝑡𝐿2⁄𝑖−𝜎𝑦𝐴0(0.5𝐿)− 𝜎𝑧𝑘(𝑡𝐿2⁄𝑖)𝑎
+(0.5𝐿)−𝜎𝑧′𝑓0(𝑡𝐿2⁄𝑖)(0.5𝐿)
+𝑄0−𝜎𝑧𝑎𝑘(𝑡𝐿2⁄𝑖)𝑎−1
+(0.5𝐿)−𝜎𝑧′𝑓0(0.5𝐿) 
+𝑡𝐿2⁄𝑖+1=18.18− 0.045 ×18.18−0.77×0.00654 ×(25)−0.72734 ×0.0019 ×18.180.692×(25)−0.6666 ×0.00025 ×18.18×(25)
+0.045 −0.72734 ×0.692 ×0.0019 ×(18.18)0.692 −1×(25)−0.6666 ×0.00025 ×25 
+= 6.6083 min  
+Repeat step b since the initial guess and new value are not within the acceptable limit. 
+After an iterat ion a new value of 6.0135 min  was obtained, w hich is close to initial guess. 
+Compute the time necessary for flow to advance L distance, t L: 
+𝑡𝐿𝑖=5𝐴0𝐿
+𝑄0= 5×0.00654 ×50 
+0.045=36.361 min 
+(Refer Slide Time: 35:05)  
+ 
+𝑡𝐿𝑖+1= 𝑡𝐿𝑖− 𝑄0 𝑡𝐿𝑖−𝜎𝑦𝐴0(𝐿)− 𝜎𝑧𝑘(𝑡𝐿𝑖)𝑎(𝐿)−𝜎𝑧′𝑓0(𝑡𝐿𝑖)(𝐿)
+𝑄0−𝜎𝑧𝑎𝑘(𝑡𝐿𝑖)𝑎−1(𝐿)−𝜎𝑧′𝑓0(𝐿) 
+𝑡𝐿𝑖+1=36.36− 0.045 ×36.36−0.77×0.00654 ×50−0.72734 ×0.0019 ×36.360.692×50−0.66666 ×0.00025 ×36.36×50
+0.045 −0.72734 ×0.692 ×0.0019 ×36.360.692 −1×50−0.66666 ×0.00025 ×50 
+= 24.346 min  
+Repeat step b since the initial guess and new value are not within the acceptable limit. 
+After an iteration a new value of 23.737 min was obtained, which is clos e to the initial 
+guess. Compute the revised estimate of advance rate exponent (rj+1) as follows:  
+𝑟𝑗+1=ln2
+ln(𝑡𝐿
+𝑡𝐿2⁄)=ln2
+ln(6.013
+23.737)=0.5048  
+The revised estimate (0.5048) of advance rate exponent (rj+1) is very clo se to the initial 
+guess (0.50) of (rj), and hence the value of t L calculated is acceptable.  
+ (Refer Slide Time: 35:45)  
+ 
+So, you got advance points  and you got b at the end of the iterations , knowing the  advance 
+time and then 𝜏𝑟𝑒𝑞which is already es timated, then you can find out T co which is  the cut 
+off time from delivery point to point where you have to cut down the discharge  so, that the 
+infiltration  depth will reach Z req. And then find out the efficiency once it is done . 
+Time of cutoff, Tco ( min)   𝑇𝑐𝑜= 𝜏𝑟𝑒𝑞+ 𝑡𝐿 
+=116 .04+23.74=139 .78 min 
+Application efficiency, Ea as follows:  
+𝐸𝑎= 𝑍𝑟𝑒𝑞𝐿
+𝑄0𝑇𝑐𝑜 
+= 0.08×50
+0.045 ×139 .78=63.59%  
+So, after finding out the efficiency , check the water availability  duration to  complete 10 
+sets. So, for one set it is 139.78  mins hence for 10 sets  
+Duration to complete 10 sets = 139.78 x 10 = 1397.8 min = 23.29 hr  
+So, if you do not have any  rest time  in between the sets , in 23.29 hours’  irrigation is 
+complete d which is  within the duration of water supply . So, repeat the step number 4 to 
+13 for all possible inflow rate and set combination . 
+(Refer Slide Time: 37:35)  
+ 
+And finally, for each set or each flow rate  you get  efficiency , cut off time  and then you can 
+tabulate the  whole thing so you get at a particular Q0, what is time of cut off? What is th e 
+application efficiency? and  also the furrow sets and  number of furrows and number of sets . 
+So now, you can select based on  maximum efficien cy or  combination  of furrow sets  to 
+follow the design  of your irrigation . So, here the maximum E a was obtained for furrow 
+inflow rate of 0.036  m3/min with  8 sets and 125 furrows per set. And T co cut off time is 
+160.8  6 minutes.  
+This completes the whole  irrigation design procedure, in th is lecture basically we focused 
+on how to estimate the advance times by knowing the infiltration  parameters . So, in furrow 
+irrigation designs the main target is to find out  the particular flow rate  that is 
+sufficient /enough to irrigate the whole field by m aking, different sets or  that would be 
+enough to give a maximum application efficiency . And the main key  computational  
+method  in this procedure i s the Newton Raphson  technique, we will be using this technique  
+in drainage case also.  
+Thank you so much.  

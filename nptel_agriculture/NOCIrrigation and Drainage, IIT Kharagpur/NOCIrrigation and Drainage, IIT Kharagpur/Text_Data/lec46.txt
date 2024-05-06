@@ -1,0 +1,270 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapal li 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 46 Subsurface Drainage Design  
+Hi, welcome to lecture number 46, on Subsurface Drainage Design. In this lecture , we are 
+going to estimate the steady -state flow of drainage water to the drains and , we are going to 
+derive  Hooghoudt ’s Equation  
+(Refer Slide Time: 00:49).  
+ 
+Before going into the details of drainage design principles  it require s developing so me criteria. 
+So, the drainage design should specify the operation of the system and the physical 
+configurations that fulfi ll the drainage objectives, you have to see what is our drainage 
+objective whether to dispose of the excess water on the surface or to  remove excess water from 
+the root zone as well as the soils.  
+Then consider the irrigation and drainage systems as  integrated water management systems  and 
+minimized deep percolation loss es through improving the water management system.   
+And then character ized by establishing the water table depth at the midpoint between laterals 
+and drainage coefficient; that means, in a day the amount of water which is resulting from the 
+drains  or drainage coefficient should equate the depth to the water table at the midway.  
+And specify option regarding reuse of drainage water  for irrigation or stimulation of in -situ use 
+by crop through control of water table .  
+ 
+ 
+(Refer Slide Time: 03:09).  
+ 
+The above flowchart indicate s the steps we need to follow  to design the draina ge system. The 
+first one is the investigation, we need to investigate the things like soil profile, geohydrologic , 
+and groundwater quality. These things need to be understood before installing or planning a 
+drainage system. E.g., soil profile, whether it i s a layered soil or clay soil or sandy soils , and 
+geohydrologic in the sense  is the hydraulic conductivity at different places and different depths 
+and quality of groundwater . Next is  measuring  which involves the quality of propose d irrigation  
+water, you n eed to check whether the quality is  ok to artificially irrigate the plant or not.  
+And then estimating the sources of drainage water other than irrigation as are there other 
+sources of drainage water other than irrigation. And reviewing and analyzing  the cl imate data 
+of the area is very much required to understand the pe ak discharges from the particular area. 
+And then selecting appropriate crops or cropping pattern  
+(Refer Slide Time: 04:53).  
+ 
+Then the next step after selecting appropriate crop and cropping patterns  is measur ing the 
+hydraulic conductivity and root zone of the soil . Then estimating the  drainage coefficient which 
+is the amount of water being drained from the area in 24 hours.  Once all these things are done  
+one need s to optimize  the drain depth that is how deep you are going to install the drain and 
+also the spacing between the drains.  
+Two ways drain depth is specified :  
+Drain depth is specified and the spacing is calculated based on the recharge schedule and the 
+mid-point water -table depth criteria. H ere the drain depth is first fixed and then you have to 
+iterate  the length.  
+Drain depth is varied to calculate a range of depths and spacing, and economic analysis is 
+performed for each case.  
+(Refer Slide Time: 06:35)  
+ 
+Next is once the drain depth and drain spacing are decided then the lateral pipes size and main 
+pipe size are decided , we’ve discussed this in the previous lectures . And then after  that is 
+designing the drain envelope material, we need to find out the drain env elope material which 
+is generally greater than 10 times the hydraulic conductivity of the soil material . 
+Then  you have to design the drainage disposal system or reuse the drainage system, whether 
+you have to design the drainage disposal system or whether y ou need to dispose  of the drain 
+water . If you are going to reuse that water back to the irrigation system irrigating the crop, then 
+you have to design the drainage system for reuse  purpose s. And then finally, design the pump 
+size and pump maximum drainage discharge from the field.  Once the drainage water is coming 
+to the main ditch then the outlet is coming to the picture, whether you need to pump out or it is 
+a gravity outlet.  
+The United States Bureau of reclamation recommends the installation of drains a t a depth of 
+2.4 m if possible to provide a balance between the system cost and spacing.  
+(Refer Slide Time: 08:19).  
+ 
+Then after that, how to calculate the drainage coefficient using the water balance equation . The 
+drainage requirement is also called  drainage intensity or drainage coefficient different  and for 
+estimating the drainage requirement th ese steps may be followed  
+ Collect long -term rainfall and other weather data for the project area  
+ Calculate daily average rainfall, evaporation, and evapotranspi ration rate for the target 
+crop season  
+ Perform water -balance  
+ Under natural rainfall condition, water balance can be expressed as  
+𝑃 = 𝐸𝑇 + 𝑅 + 𝐷              
+  𝑜𝑟     
+     𝐷 = 𝑃 − 𝐸𝑇 − 𝑅  
+Where, P = rainfall rate (mm/d);  
+ET = evapotranspiration  rate (mm/d);  
+R = surface runoff amount, mm/d;  
+D = deep percolation or subsurface drainage amount (mm/d) and it  indicate the drainag e 
+coefficient or drainage requirement.  
+  
+ 
+ 
+ 
+(Refer Slide Time: 10:04)  
+ 
+And then the next is drain spacing the drain depth and spacing should be such that the water 
+table midway between the drains remains below the root zone, which is th e basic criteria in 
+selecting the depth and spacing  
+Deeper the drains wider spacing and le ss is the number of drains  and you can save some money. 
+Because earth  working will be minimized  and also the number of pipes , the number of laterals 
+will also be reduced, but the depth and spacing of subsurface drain depend on the hydraulic 
+conductivity of  soil, the crop to be grown , outlet condition , and agronomic  practices. So, all 
+these things need  to be considered before deciding a drain depth and spacing.  
+(Refer Slide Time: 12:19).  
+ 
+So, the drain spacing formula  depends on steady -state and unsteady -state conditions. In the 
+previous lecture, we were discussing the steady -state condition. So, the  main assumption in 
+steady -state is that the rate of recharge to the groundwater will be equal to the rate of discharge 
+through the drain pipe. The hydraulic head  or height of the water table between drains remain s 
+constants.  So, th ese are the  assumption s, and the other assumptions are like soil is homogenous 
+and isotropic .  
+Then in the case of the unsteady case the terms are vary ing like the rate of recharge v aries with 
+time, the flow of groundwater towards the drain is not steady . 
+(Refer Slide Time: 13:57).  
+ 
+And then for the steady -state formula, steady constant flow occurs through the soil to the  drain . 
+The discharge equals to recharge and h is constant right. In the image above let us assume the 
+recharge is q and the discharge is also q So, q = q and h = constant . 
+In case of unsteady , all are going to change like q is going to change. And the drain discharge 
+is going to change and h is goin g to change under unsteady state condition.  
+(Refer Slide Time: 14:29)  
+ 
+The procedure  depicted above is for calculating drain spacing L  which  was also explained  in 
+the last class ; like knowing the q that is the drain discharge and H is the root zone depth, W is 
+the drain depth you can estimate h which is  
+𝑊−𝐻=ℎ 
+And then knowing the soil parameters like hydraulic conductivity and drain type s such as  tile 
+drain or ditch , drain space formula will be used, and finally, L will be calculated.  
+In the image above water flow is schemati ze for finding out drain spacing, it clearly shows the 
+assumption taken from  the real field to schematized field for mo deling purpose. So, if you see 
+there is a vertical flo w taking place initially and then towards the drain , there is a  radial flow 
+whereas, for making the modeling simple  after the vertical flow  there is a horizontal flow and 
+then radial flow. The horizontal flow is influence d at L/4 distance and radial flow is influence 
+0.7d from the drainage  base. 
+(Refer Slide Time: 16:20)  
+ 
+Hooghoudt’s formula is based on Dupuit -Forcheimer assumptions. The assumptions of 
+Hooghoudt’s formula can be summarized as follows:  
+ The soil is homogeneous and isotropic  
+ Darcy’s law is valid for the flow of water through the soil into the drain  
+ An impermeable layer underlies the drain  
+ The hydraulic gradient at any point in the flow regime is equal to the slope of the water  
+table above the point  
+ The diameter of the drain is small compared  to the saturated thickness below the drain  
+ The drains have no entrance resistance  
+ The flow -through drain is half -full  
+(Refer Slide Time: 18:14)  
+ 
+So, based on the assumptions, only head loss due to h orizontal and radial flow to pipes is 
+considered. So, since it is mentioned that this is steady -state  
+So, h = hv + hh + hr + he.  
+So, h v and h e are neglect ed here, based on the Hooghoudt  assumptions h = h h + h r, that is h ead 
+due to horizontal flow and radial flow, we have derived this equation in the previous lecture 
+and, h r is from Ernst equation,  we have also discussed in the previous lecture . 
+So, combining these two  will give the head at any point from the drain spac ing  
+h = hh + hr 
+ℎ =𝑞𝐿ℎ2
+8𝐾𝐷ℎ+𝑞𝐿
+𝜋𝐾ln𝑎𝐷 𝑟
+𝑢  
+Hooghoudt conceived that a parallel open ditch system with the ditches reaching to the 
+impermeable substratum could generate the same q for the same water table head h as an 
+identically spaced pipe drain system by reducing depth D to the impermeable stratum. So, here 
+to make the open ditch system to a pipe drain system or the pipe drain system to open drain 
+system  he assumed that for the same hydraulic head and  same discharge  it can be possible when  
+the pipe drain is installed at the impervious layer.  
+So, the pipe drainage system can be converted  into a n open ditch system by assuming that this 
+pipe is exactly sitting at the impervious surface  and h and q will not change. The depth D here 
+is no t considered any more then an equivalent depth de will be calculated ; that means, for 
+making th is, you can  eliminate the radial flow, it is now completely the horizontal flow.  
+ 
+ 
+(Refer Slide Time: 22:06)  
+ 
+And the equivalent flow  or the horizontal flow.  
+ℎ = ℎℎ∗(𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡 ) = 𝑞𝐿ℎ2
+8𝐾𝐷ℎ∗ 
+Since d < D, h h* > hh, Dh* ≈ d + h/2  
+ℎ=𝑞𝐿2
+8𝐾(d + h/2) 
+q=8Kdh
+L2+4Kh2
+L2 
+So, here if you observe , the horizontal flow takes place partly below the drainage base (average 
+thickness = d) and partly above the drainage base (thickness of this zone = h/2)  
+ (Refer Slide Time: 24:51).  
+ 
+If both zones have different K,  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+Where, K 1 = upper zone hydraulic conductivity; K 2 = lower zone hydraulic conductivity  
+‘d’ is determined as,  
+            𝑑=𝐷
+8𝐷
+𝜋𝐿ln𝐷
+𝑢+1   for D > L/4  
+             𝑑=𝜋𝐷
+8ln𝐿
+𝑢    for D < L/4  
+Where u is the wet  entry perimeter of the drain  
+We are going to see how to calculate wet entry perimeter, so with these condition s, you can 
+estimate the one value, but if you see here the same  equation can be written  as 
+𝐿2=8𝐾2𝑑ℎ
+𝑞+4𝐾1ℎ2
+𝑞 
+So, here L is a function of d but if you see in this equation of d  it is a function of L. So, that is 
+why this is an implicit equation  and to  calculate  this implicit equation, we have to use the trial 
+and error method for calculating the drain spacing.  
+(Refer Slide Time: 26:57).  
+ 
+Hooghoudt equation  
+𝑞=8𝐾𝑑ℎ
+𝐿2+4𝐾ℎ2
+𝐿2 
+Horizontal flow above drain level  
+𝑞=4𝐾ℎ2
+𝐿2 
+Horizontal flow below drain level  
+𝑞=8𝐾𝑑ℎ
+𝐿2 
+For two -layer soil profile  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+(Refer Slide Time: 27:45).  
+ 
+Procedure for determining drain spacing  
+ Formulation of basic design criteria (q and H)  
+ Establishment of field drainage base W; and h=W -H 
+ Establishment of soil parameters K and D  
+ Selection of drain type (pipe or ditch) and determination of ‘u’  
+ Determine drain spacing by Hooghoudt formula  
+The solution of the Hooghoudt formula is either trial and error or a graphical solution.  
+(Refer Slide Time: 28:30)  
+ 
+Here is the trial and error solution 
+ Since L depends on d; d depends  on L, the Hooghoudt equation is an implicit equation.  
+ Assume a value of L and determine d from the equation  
+𝑑=𝐷
+8𝐷
+𝜋𝐿ln𝐷
+𝑢+1   for D > L/4  
+𝑑=𝜋𝐿
+8ln𝐿
+𝑢   for D < L/4  
+ Solve the Hooghoudt formula for L and compare the value with the assumed value of L  
+ Mod ify the value of ‘L’ and repeat the steps until the calculated and assumed values are 
+equal.  
+Suppose if these are not equal you have to change this initial guess of L and then repeat the 
+steps and find out new L dash right and again compare the previous L and the calculated L. So, 
+these steps need to be repeated until these two ones are closer or almost equal.  
+(Refer Slide Time: 30:14).  
+ 
+So, there is a graphical solution also available. So, since the Hooghoudt equation contains 2 
+terms  that are 8𝐾2ℎ
+𝑞 & 4𝐾1ℎ2
+𝑞 so, 2 graphs are  available  based  on the length;  Graph A is for 𝐿=
+5 𝑡𝑜 25 𝑚 and Graph B is for 𝐿 = 10 𝑡𝑜 100  𝑚. So, based on the assumed length, you can go 
+ahead with these 2 graphs. In the graph y1-axis contains 8𝐾2ℎ
+𝑞  and y 2-axis contains 4𝐾1ℎ2
+𝑞. 
+Similarly  in the other graph the same things ok.  So, first , calculate 8𝐾2ℎ
+𝑞, and calculate other 
+terms and locate  these  2 points . Draw a line connecting these two values  and then m ark the 
+point where the line crosses the ‘D’ value . Find L value corresponding to this (i.e. parallel to 
+other ‘L’ lines) . This graphical solution is easier compared to the previous analytical solution.  
+So, in this lecture, we observed the design criteria , design principles , and what are the steps 
+involv ed in designing subsurface drainage system s then the Hooghoudt assumptions , and the 
+Hooghoudt formula.  Since the Hooghoudt assumption  is for making the horizontal flow; so  
+Hooghoudt assumed the tile drainage system to be a n open ditch system by taking the ti le drain 
+to the impervious surface and the n finding out the equivalent depth. He has given the formulas 
+for calculating equivalent depth d value, based on the length and drain space drain depth. Based 
+on these two things  it will help find  out the drain spa cing by following either trial and error 
+method or use a graphical solution.  
+Thank you so much.  

@@ -1,0 +1,158 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 25 
+Tutorial - W5 
+ 
+Hi, welcome to  this lecture number 25 which  is the tutorial for week  5 on Irrigation and 
+Drainage series lectures . So, in this , we are going to solve some of the problems related to 
+sprinkler and drip irrigation . 
+(Refer Slide Time: 0:38 ) 
+ 
+Exercise W5.1  
+In a sprinkler irrigation system, the lateral spacing along the mainline is 20 m and sprinkler 
+spacing along laterals is 15 m. The application rate for fulfilling the peak demand of the 
+proposed crop should be 8 mm/d. Find the discharge rate per sprinkler.  
+Solution  
+We know application rate, I(mm/h) = 3600  × qs(l/s) 
+Sm(m) × Sl(m)   Or, qs = I × Sm × Sl
+3600 
+Given, I = 8 mm/d  
+Assu ming that the sprinkler will operate 12 h a day,   
+I = 8mm/12h = 0.667 mm/h, and Sm = 20 m; Sl = 15 m  
+Putting the values, qs = 0.055 l/s; Or, 200 l/h (Ans.)  
+ (Refer Slide Time: 03:16 ) 
+ 
+So, the first example is a simple  sprinkler irrigation problem where if you have the crop 
+demand  in a day and also  the sprinkler spacing , you can find out , what i s the discharge at 
+the sprinklers  so that it can meet the demand of the crop in a particular day .  
+(Refer Slide Time: 03:42 ) 
+ 
+Exercise W5.2  
+In a sprinkler irrigation system, the required total capacity of the system is 0.5 m3/s. 
+Determine the pump capacity. Assume that head loss in pipe and bends and velocity head 
+required = 3 m of water.  
+Solution:  
+Pump capacity, P = (Q × 9.81 × H) [KW]  ,  
+The constant is  9.81 or sometimes you see 76, and sometimes  ɣ and ρ or other  things  these 
+constant s will follow  with the units you used. 
+Here Q = 0.5 m3/s 
+Total head = 3 m  
+Putting the values, P = 0.5 ×9.81 × 3 = 14.7 KW (Ans.)  
+(Refer Slide Time: 05:19 ) 
+ 
+Exercise W5.3  
+A solid set permanent micro -irrigation system is installed in a vegetable field of 1 ha area. 
+The spacing between th e micro -sprinklers is 2.5 m and the spacing between laterals is 5 
+m. The peak evapotranspiration rate is 10 mm/day. The application efficiency is 80%. The 
+irrigation system operates 5 hours in a day. The total operating head of the pump is 30 m. 
+At 65% pump effici ency, the horse power of the pump is _______________  
+       
+Solution:  
+Given,  
+Area=1 ha  
+Evapotranspiration rate = 10 mm/day  
+Application efficiency = 80%.  
+Total operating head of the pump = 30 m  
+Pump efficiency = 65%  
+(Refer Slide Time: 07:31 ) 
+ 
+ET= 10 mm=0.01 m  
+𝑉𝑜𝑙𝑢𝑚𝑒  =  𝐴𝑟𝑒𝑎 ×𝐸𝑇=10000 ×0.01=100 m3 
+𝐴𝑐𝑡𝑢𝑎𝑙  𝑣𝑜𝑙𝑢𝑚𝑒 =𝑉𝑜𝑙𝑢𝑚𝑒
+Application  efficiency=100
+0.8=125 m3 
+𝑄= 𝐴𝑐𝑡𝑢𝑎𝑙  𝑣𝑜𝑙𝑢𝑚𝑒
+𝑇𝑖𝑚𝑒   
+𝑄= 125
+5×60×60=0.00694  m3/sec 
+ℎ𝑝=𝑄×𝐻×𝜌 
+75×𝜂 
+ℎ𝑝=0.00694 ×30×1000  
+75×0.65=4.27hp (Ans.)  
+(Refer Slide Time: 09:45 ) 
+ 
+Exercise W5.4  Several identical sprinkler nozzles, each having discharge Q (liter per 
+minute ), are spaced in a grid of size L (meter) × S (meter). The application rate in mm/h is 
+_______     
+Solution:  
+As we know that,            𝑄=𝐿×𝑆×𝐼 
+𝐼=𝑄 (𝐿/𝑚𝑖𝑛 )
+𝐿(𝑚)×𝑆(𝑚) 
+𝐼=0.001 ×60 𝑄 (𝑚3
+ℎ)
+𝐿(𝑚)×𝑆(𝑚) 
+𝐼=60 𝑄 (𝑚𝑚3
+ℎ)
+𝐿(𝑚𝑚 )×𝑆(𝑚𝑚 )  mm/h (Ans.)  
+ (Refer Slide Time: 13:59 ) 
+ 
+Exercise W5.5  A sprinkler syste m consists of two 192 m long laterals. On each lateral, 16 
+sprinklers are located at an interval of 12 m. The spacing between the laterals is 10 m. The 
+required capacity (in l/s) of the sprinkler system for an application rate of 1 cm/h is  
+Solution:  
+Spacing between  the laterals = 10 m  
+Application rate ( 𝐼 )= 1 cm/h  
+Spacing of sprinkler along the lateral ( 𝑆𝑙)= 12  
+Spacing of lateral along the main ( 𝑆𝑚)= 10   
+𝑞= 𝑆𝑙×𝑆𝑚×𝐼
+360  
+(Refer Slide Time: 15:13 ) 
+ 
+ 
+= 𝑆𝑙×𝑆𝑚×𝐼
+360 
+𝑞= 12×10×1
+360=0.333 l/s/sprinkler  
+𝑆𝑦𝑠𝑡𝑒𝑚  𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦  = 𝑡𝑜𝑡𝑎𝑙  𝑑𝑖𝑠𝑐 ℎ𝑎𝑟𝑔𝑒  𝑜𝑓 𝑎𝑙𝑙 𝑠𝑝𝑟𝑖𝑛𝑘𝑙𝑒𝑟  
+=0.333 ×32 
+=10.56 l/s (Ans.)  
+ (Refer Slide Time: 15:43 ) 
+ 
+Example W5.6  Calculate the flow rate for the following emitters (laminar, turbulent, and 
+pressure compensating) at 50 and 100 kPa pressure (coefficient k for units of LPH a nd 
+kPa).  
+k = 0.02 and x = 1 laminar  
+k = 0.2 and x = 0.5 turbulent or orifice  
+k = 2 and x = 0 pressure compensating  
+If you remember the in the drip irrigation , based on  the pressure and the  discharge  and 
+knowing the coefficients , you can identify whether the dripper is orifice type or laminar 
+type or pressure compensating type , from the equation 𝑞=𝑘𝑃𝑥.  So, if x =1 that is  laminar 
+x = 0.5 it is a orifice type x = 0 that is  a pressure compensating  drippers . 
+ (Refer Slide Time: 17:3 9) 
+ 
+Solution  
+X=1 X=0.5  X=0 
+q=0.02 (50)1 = 1LPH  q=0. 2 (50)0.5 = 1.4 LPH  q = 2 (50)0 = 2LPH  
+q=0.02 (100)1 = 2LPH  q=0. 2 (100)0.5 = 2 LPH  q= 2 (100)0 = 2LPH  
+Substituting the values in  𝑞=𝑘𝑃𝑥, suppose the k value 0.02 and x =1 (laminar  case); x 
+=0.5 (orifice case ) and x = 0 (pressure  compensating case ). P =50 and doubling the 
+pressure P  = 100. 
+So, for laminar discharge , q is double  when p ressure is doubled . Similarly,  in the orifice 
+case, q is increasing  (1.4 to 2 lph)  when the pressure  is doubled ; where as in the pressure 
+compensating case , the discharge does not vary  even if you increase the pressure . 
+.  
+(Refer Slide Time: 19:40 ) 
+ 
+Exercise W5.1  The discharge from a sprinkler nozzle depends on  
+a) Operating pressure and nozzle geometry.  
+b) Operating pressure and distribution pattern.  
+c) Application rate and nozzle angle.  
+d) Operating pressure and application rate.  
+This last example is a multiple choice question  
+If you see  the first option , operating pressure and nozzle geometry , definitely when you 
+are talking about discharge , the operating pressure and nozzle geometry influences . So, 
+this could be the answer . 
+And then second option  operating pressure and distribution pattern  the operating pressure  
+will influence but  the distribution pattern is entirely different  because the pattern  may vary  
+so it will not influence; but  if you have wind speed and other things , so this will  influence .  
+Then application rate  and nozzle  angle , nozzle angle will tell the range , suppose you have 
+a 300 nozzle angle , it decides the maximum range , but not the  discharge and then the 
+application rate  for the particular crop requirement will decide op erating pressure so it 
+influence s the discharge .  Similarly,  operating pressure will influence but the application 
+rate will not influence the discharge  
+So, in this case , the answer  is:  
+a. Operating pressure and nozzle geometry (Ans.)   
+So, this is all  in this tutorial . 
+Thank you . 

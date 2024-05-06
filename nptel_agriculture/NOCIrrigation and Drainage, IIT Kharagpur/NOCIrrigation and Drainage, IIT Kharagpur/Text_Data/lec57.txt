@@ -1,0 +1,230 @@
+  
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapa lli 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 57 Endrain Model  
+This is lecture number 57 on Irrigat ion and Drainage lecture series , in this lecture , we are going 
+to focu s mostly on the drainage model  called EnDrain.  
+(Refer Slide Time: 00:32)  
+ 
+So, why do we need a drainage model ? The estimation of drain spacing is still a cha llenging 
+task for many drainage designs.  We need the drainage model to estimate the drain spacing 
+because this is a challenging task for many drainage designs suppose if you planned wider drain 
+spacing  then the system is not able to take out enough water  and the water table will be staying 
+close to the ground . Whereas, if you have closer drain spac ing it will involve a lot of cost s and  
+we need to optimize these drain spacing . At the same time , you need to understand how the 
+soil properties are influencing t he hydraulic head . These things can be visualized using 
+mathematical models. So, EnDrain is  is one such model  developed to understand the hydraulic  
+heads as well as the behavior of hydraulic heads with different magnitude of inputs.  
+EnDrain contains both the Darcy equation as well as the energy balance equation, which is 
+developed by Professor Oosterbaan in the Netherlands. So, here the optimal drain spacing can 
+be estimated with the help of models. The models will simulate or calculate up to mid midpoint 
+water table height. The computer models are available already to estimate the optimal spacing 
+and equivalent depth for the installation of artificial drainage  systems.  
+This is an important model to understand the behavior of the soil, when the drainage sys tem is 
+  
+installed whether we will be able to extract the excess water from the surface as well as 
+subsurface. And we can visualize the cost of whether it is beneficial for such a huge  investment.  
+(Refer Slide Time: 03:33)  
+ 
+So, here EnDrain is the model which is developed by Professor Oosterbaan in the Netherlands 
+in 1994. Using the energy balance equations they have developed this model and also this 
+model contains Darcy’s equation. So, it computes the drain spacing, the shape of the water 
+table , drainage discharge , and head losses.  EnDrain is freely available, you can download this 
+model online . The image above shows the  first window of EnDrain when you open the 
+software , it contains 5 input sheets or tab sheets.  One is intr o, figure, input, output , and graphics 
+sheets and you can see the picture.  
+(Refer Slide Time: 07:25)  
+ 
+EnDrain  is applied for reclamation; that means, remediation, rehabilitation, restoration of saline 
+  
+soils. And, traditional concepts based on Darcy and water balance or mass conservation 
+equations are also considered along with the energy balance equation, but in addition to energy 
+balance , Darcy and water balance or mass conservation equations are also  included.  The model 
+allows for the presence of three soi l layers with different hydraulic conductivity and 
+permeability . The last two layers can also have different horizontal and vertical hydraulic 
+conductivit y. 
+Assumptions  
+Steady -state fluxes, i.e. no water and associated energy is stored  
+Vertically two -dime nsional flow, i.e. the flow pattern repeats itself in parallel vertical planes  
+The h orizontal component of the flow is constant in a vertical cross -section  
+Soil's hydraulic conductivity is constant from place to place  
+(Refer Slide Time: 09:21)  
+ 
+The input  parameters  or terminologies  of the model are  
+R: Time average recharge or discharge (m/day)  
+D1: Bottom depth of 1st layer below s.s. (m)  
+D2: Bottom depth of 2nd layer below s.s. (m)  
+Dw: Depth water level in the drain below s.s. (m)  
+Db: Depth of drain bott om below s.s (m)  
+W: Max. width of the water body in the drain  
+Ka: Hydraulic permeability, above drain level (m/day)  
+Kb1: Horizontal permeability, 1st soil layer (m/day)  
+Kv1: Vertical permeability, 1st soil layer (m/day)  
+Kb2: Horizontal permeability, 2nd soil layer (m/day)  
+  
+Kv2: Vertical permeability, 2nd soil layer (m/day)  
+Dm: Depth water -table midway between drains (m)  
+So, these are the maximum inputs you have to provide in EnDrain and it will calculate the drain 
+spacing or hydraulic heads or discharge a nd other parameters.  
+(Refer Slide Time: 10:43)  
+ 
+The EnDrain model consists of an intro, figure, input and output , and graphics  and it can be 
+seen in the image above . 
+(Refer Slide Time: 11:02)  
+ 
+So, if you click on the intro sheet, the above window  will open . So, it  contains  a brief 
+introduction to the EnDrain program and some  reference s, where you can get the articles related 
+to EnDrain. The web address where you can go to download the EnDrain  program  is also 
+available on this page .  
+  
+(Refer Slide T ime: 12:03)  
+ 
+And then the next step is the figure sheet, which  tells the different parameters we need to give 
+as input right. It contains both pipe and open drain system s and it explains the symbols , there 
+are several p arameters mentioned. So, in the  picture above,  you can visualize two  kinds of 
+drainage system s one is an open ditch system and a pipe drainage system just for the schematic 
+purpose . It is not to design both tile and open ditch system s together. So,  based on your choice, 
+if you want to determ ine the drain spacing or if you want to determine the shape of the water 
+table , drainage discharge , or head losses. So, based on a particular option the input will vary.  
+(Refer Slide Time: 12:25)  
+ 
+And the third is the input sheet , it has different variabl es and drain s parameters with units. So,  
+you can save this file or you can open the input file  if you have already an existing file in the 
+folder.  Then you can choose options to be calculated like  depth of water table or calculate the 
+  
+spacing or calculate the hydraulic heads and method. So, you can use the energy balance 
+method or Darcy’s equation, Hooghoudt , so you can give the inputs in this window above . 
+(Refer Slide Time: 13:49)  
+ 
+Then the fourth tab sheet is the output window as sh own in the  figure  above .  
+Hydraulic head and the water table head calculated with both Darcy and Energy equation  
+X       = distance from drain (m)  
+p       = small increment of X (m)  
+F*      = hydraulic head (m, Darcy)  
+G*/p = gradient of F* (m/m)  
+F       =  hydraulic head (m, energy balance)  
+G/p   = gradient of F (m/m) {Note: G/p=T1+T2}  
+T1     = energy loss/p (m/m)  
+T2     = correction for energy input/p (m/m)  
+ (Refer Slide Time: 6:45) 
+ 
+  
+For calculating the drain spacing. A similar procedure  is follo wed as the previous example  
+except at the input tab we select the option for drain spacing calculation . So, in this case , when 
+you run the model  the EnDrain  suggest s the drain  spacing  of 26.83  for the example solve 
+earlier .  
+(Refer Slide Time: 7:46) 
+ 
+And also you can visualize this whole output in a graphical form  as shown in the image above , 
+the curve of the water table is obtained . So, on the x-axis is the distance from the drain. and 
+then the circles represent the energy balance model whereas , the cross  sign represents Darcy’s 
+equation. So, they are close initially, but if you see at the midway in both cases they are going 
+parallel.  The depth of  the water table diminishes with the distance from the drains. The water 
+table is flat midway betwee n the drains (at half the distance of the drain spacing), elsewhere it 
+is curved  
+(Refer Slide Time: 18:42)  
+ 
+  
+Example 57.1: Tile drain of 5 cm  diameter, alluvial soil  
+ 
+ (Refer Slide Time: 19:37)  
+ 
+The output and the graph are shown in the slide above.  
+ 
+  
+So, drain spacing is 2.49 m 
+Midway hydraulic head  in case of energy  is 0.742  
+Midway hydraulic head in the case of Darcy is 0.745  
+Midway water table depth in case of energy is 0.8  
+Midway water table depth in the case of Darcy is 0.68.  
+So, the midway wate r table depth in the case of Darcy  is less than what we expect.  
+ 
+The w ater-table level vari es according to the energy balance equation  is shown above.  So, this 
+way you can get the drainage information  or design information like drain spacing, drain 
+discha rge, and hydraulic heads , and water table depths.  
+(Refer Slide Time: 21:09)  
+ 
+So, you can go through th ese reference s to know more about the energy balance equation.  
+R.J. Oosterbaan, J. Boonstra , and K.V.G.K. Rao, 1996, “The energy balance of groundwater 
+  
+flow”. Published in V.P.Singh and B.Kumar (eds.), Subsurface -Water Hydrology, p. 153 -160, 
+Vol.2 of Proceedings of the International Conference on Hydrology and Water Resources, New 
+Delhi, India, 1993. Kluwer Academic Publishers, Dordrecht, The Netherlands.  ISBN: 978 -0-
+7923 -3651 -8 
+Rares HALBAC -COTOARA -ZAMFIR0, 2010, “Calculation of distance between drains 
+between drains using EnDrain Program, Research Journal of Agricultural Science, 42 (3), 
+2010.  
+Endrain is available for free at https://www.waterlog.info/endrain.htm  
+Once you get the model, it will ask us to extract the whole model. Then once you extract it, it 
+will have two files the executable file and the input data files ok. So, then click on the EnDra in 
+application file and run it.  
+(Refer Slide Time: 23:06)  
+ 
+So, here the two files EnDrain is the application file and data.  
+(Refer Slide Time: 23:15)  
+ 
+  
+It is a data file where you can see  there are a lot of input data.  
+(Refer Slide Time: 23:21)  
+ 
+So, click on EnDrain , and it will ask us to run. So, run it.  
+(Refer Slide Time: 23:25)  
+ 
+And look at the first window which starts with an intro that is the introduction. So, th e first tab 
+sheet introduc es the EnDrain program. So, the EnDrain program calculates the discharge, 
+hydraulic head , or spacing between the parallel surface drains. It could be pipe drains or open 
+ditches with or without entrance resistances. So, this is information and you can also go through 
+the other links, that you get the ar ticles, program and all relevant information.  
+ 
+ 
+ 
+  
+(Refer Slide Time: 24:07)  
+ 
+So, then the next is the figure, if you see the figure,  it contains both tile drains and open ditch 
+here and all the information related to inputs like terminologies we use for in put purpose s. 
+(Refer Slide Time: 24:28)  
+ 
+So, then I am going to get the input file that is already available in the data folder.  
+(Refer Slide Time: 24:55)  
+ 
+  
+So, if I click open to input and data folder  I will select the  example, it will show the file where 
+I extracted . The example file c alculate the depth of the water table and there are other options 
+available  viz., drain spacing to be calculated, drain discharge is to be calculated , and calculate 
+the depth of the water  table, calculate the hydraulic conductivity  so, there are four options 
+available and you can choose any one of th ese. But in this example calculate the depth of the 
+water table and here  there are two methods one is the new energy balance method and the 
+classical Darcy method. So, let us use the new energy balance method , and then the input 
+values are given.  And, if you want to change you can change it  or update it. And, since it is not 
+for estimating the distance between the 2 drains, you have to give the distance between the 2 
+drain s let say 65, because the option is to calculate the depth of the water table.  Now once you 
+give the  input data then save and run.  
+(Refer Slide Time: 13:50) 
+ 
+The calculations were made and the output is found.  
+(Refer  Slide Time: 26:55)  
+ 
+  
+So, output was found  as shown above . 
+(Refer Slide Time: 14:01) 
+ 
+So, in the output window, it will give the input data too. 
+(Refer Slide Time: 27:10)  
+ 
+And then th e above window  is the output   
+(Refer Slide Time: 28:34)  
+ 
+  
+And, if you want to see the graph you can see in the graphic , we can also see both energy 
+balance and Darcy’s equation.  
+(Refer Slide Time: 28:48)  
+ 
+And then you save the example . So, this is a very useful tool to understand the drainage 
+discharges , drain spacing between the 2 drains. It could be both tile drain as well as open ditch 
+system and also understand the hydraulic heads. So,  please go  through the program and install 
+it. And, you can give random  inputs or if there  is a real -life problem then you can design a 
+drainage system.  
+Thank you  

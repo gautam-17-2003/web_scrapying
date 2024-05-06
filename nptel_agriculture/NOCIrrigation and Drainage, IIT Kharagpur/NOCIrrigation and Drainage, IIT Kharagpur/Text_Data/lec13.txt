@@ -1,0 +1,348 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 13 
+Measurement of I rrigation Water: Open channel  
+ 
+Welcome to  lecture  number 13 of Irrigation and Drainage lecture series . In this lecture 
+we are going to  talk about the  measurement  devices , how do we measu re flow in streams 
+and pipes  concentrating  on th e water delivery system from canal to field channels . 
+(Refer Slide Time: 00:51)  
+ 
+Before going to the d etails  let us know some basic terminologies and also the hydraulic  
+principles of flow. The first thing is the flow rate or discharge  denoted as Q , flow rate  is 
+the amount  or volume of water which is flowing through a channel or  pipe per  second or 
+per unit time is called the di scharge , generally the units are m3/s or l/s. The velocity  of 
+approach is the velocity with which the fluid is approaching the measurement device . 
+Generally , velocity is given as follows  
+𝑉=𝑄
+𝐴𝑟𝑒𝑎  𝑜𝑓 𝑓𝑙𝑜𝑤 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 02:38)  
+ 
+Next is the continuity  equation  which  is very important when  you are talking about  
+measuring fluid  at more than one  point . The continuity equation assumes that  the quantity 
+of fluid flowing per  second through a conduit , at all sections is constant  i.e., it is 
+considering  no loss  from the system or gain from outside the system . 
+ 
+Suppose you have a conduit (as shown in the figure above) with two sections : section 1 
+having cross sectional area A 1 and section 2 with cross sectional area A 2 and the fluid  is 
+flowing with velocity V1 through the section  1 and leaving with velocity V2 at section  2. 
+There is no fluid which is adding across  or fluid leaving from the system so, in this system , 
+we can use the continuity equation  
+𝑄=𝐴1𝑉1=𝐴2𝑉2 
+So, the product of area and velocity at section 1 is equal to product of  area and velocity  at 
+section 2 so, this is the continuity equation . If you have more sections and then area and 
+velocity at the other section s will be equal to  Q because there is no addition of fluid or 
+there is no  loss of fluid from the conduit .  
+Next is the  fluid pressure , fluid pressure  follows the well-known  law called Pascal ’s Law. 
+Pascal ’s laws states that a fluid  at rest (static) or in motion  (dynamic ) exerts pressure on 
+its surface . In a static fluid , the intensity  of pressure at a point is equal in  all directions . Let 
+us assume  a triangle as shown in the following figure with  fluid  pressure which is acting 
+on the face AC of the triangle which is equal to the fluid  pressure  which is acting on face 
+AB and is equal with fluid  pressure  which is acting on  face BC. So, this triangle will be in 
+static position since the pressure exerting within the system is equally distributed . So, in 
+the static position the pressure exerts in each and every part will be equal , this is the 
+Pascal ’s law . 
+ 
+(Refer Slide Time: 06:51)  
+ 
+In an open channel flow if the velocity , depth of flow and the fluid  flow rate do not change 
+with time , that is called  the steady  flow else it is unsteady .  
+For Steady flow;  
+𝑑𝑉
+𝑑𝑡=0,  𝑑ℎ
+𝑑𝑡=0,  𝑑𝑄
+𝑑𝑡=0,  
+ and Unsteady flow;  
+𝑑𝑉
+𝑑𝑡≠0,  𝑑ℎ
+𝑑𝑡≠0,  𝑑𝑄
+𝑑𝑡≠0 
+Uniform and non -uniform  flow refer to  change with respect to  the space  whereas,  steady 
+and unsteady is with respect to the time .  
+Bernoulli ’s equation states that in a steady  flow of a n incompressible  fluid , the total energy 
+at any point of  the fluid is constant ; Bernoulli’s equation for non-viscous  fluid between 
+two points of a flowing path ca n be written as:  
+𝑃1+𝑉12
+2𝑔+𝑍1=𝑃2+𝑉22
+2𝑔+𝑍2 
+Where P is the pressure head; 𝑉2
+2𝑔 is the kinetic head; Z is the elevation head  
+Suppose , you have the fluid which is  flowing through the conduit or any open channel  
+having  section  1 and section 2. The Bernoulli ’s equation  presents  that the total energy at 
+section 1 is equal to  total energy  at section 2. Generally,  the total energy contains three 
+components , the pressure  energy  and the velocity  which is the kinetic energy and  the 
+potential ener gy. The Bernoulli ’s principle  states that at any point  throughout  this fluid 
+flow the total energy is constant . 
+(Refer Slide Time: 09:06)  
+ 
+Specific energy is defined as the energy per unit weight of fluid . Whatever the energy we 
+have  seen earlier in the p revious slide  per unit weight  is the specific energy . Since we are 
+targeting the fluid , the energy due to elevation wo uld not be coming to the picture . So, the 
+specific energy  is given as follows  
+𝐸=ℎ+𝑉12
+2𝑔 
+Critical depth is the depth of flow  when the specific energy is minimum  and the velocity 
+of the flow  at critical depth is also known as critical velocity . Generally we use this 
+terminology  in hydraulic jump , let us say there is a structured as shown in the following 
+figure and  the fluid is flowing on top having  YHW head or depth  there after, the fluid head 
+is falling  and the flow is  experiencing su percritical flow . After falling, the head i s going 
+to rise  and experience  a subcritical  flow. T he energy  will be  minimum at one point  and the 
+depth at  which the total energy or the specific energy is the minimum  is called the critical 
+depth .  
+ 
+So, you can clearly see in the following figure , h2 which  is the initial depth ; hc is the  depth 
+at which the specific energy is minimum  and h1 is the depth  which is  less than h c. If you 
+see graph in the following figure  the energy  is on x-axis and height  is on the y -axis. The 
+dotted straight  line passing through hc divide  the subcritical and supercritical flow . The 
+blue curved line represents  the constant flow . At the minimum specific energy and the 
+correspond ing depth hc is called critical depth .  
+ 
+(Refer Slide Time: 12:30)  
+ 
+Flow measuring devices are broadly classified  into volumetric measurements , area 
+velocity method s or tracer methods  for measuring flow r ate in streams . The tools or  devices 
+used to measure flow  can be categorized into volumetric flo w measuring devices  viz., 
+notches , weirs , flumes , venturimeters , orifice meter , magnetic meter  or ultrasonic meter . 
+There are  velocity measuring devices like cu rrent meter , pitot tube and float etc . and water 
+level  measuring devices like staff gauge , meter  scale , water  level sensor , ultrasonic water 
+level  sensor etc. So, these things are very much required for measuring the discharge  in 
+the flowing streams . 
+(Refe r Slide Time: 13:50)  
+ 
+Volumetric  measurement  is a simple  method  for measuring the discharge, one of the 
+volumetric method is  the bucket and stopwatch method . So, here the flow which is  taking 
+place is allowed  to pass  through a pipe then you can measure  the volume of water which 
+is collected in a bucket , for a particular time interval . The number of buckets  divided by 
+the total time will give the discharge . So, discharge is a volume of water collected in a 
+bucket by time required  to filled the buckets . 
+Suppose you targeted 10 mins time, start the timer and wait for 10 mins and get the volume 
+of water which is be ing collected  in a bucket  during the 10 mins time  and divide it by 1 0 
+mins  that will give the discharge . This method  is not suitable for large disch arge or open 
+channel flow  because , for open channel flow you have to concentrate the flow and allow  
+it to passed through  a pipe or you have to obstruct the flow in order  to measur e it, but this 
+is very well accepted method for small pipes .  
+ 
+ 
+ 
+ 
+(Refer Slide T ime: 15:30)  
+ 
+Next is the area velocity method , we know the discharge is  equal to area into velocity  so, 
+that is why this method is called area velocity  method . It has  two components , you have 
+to measure the area and the velocity and then product will giv e the discharge . For example,  
+in open channels , with channel cross section  A and velocity of flow, V  the flow rate (Q) is 
+calculated as:  
+𝑄=𝐴×𝑉 
+But if it is an irregular cross section  so, you have to measure the velocity  at different cross  
+section  and at different points along  the cross section . The first part you need to trace  and 
+measure the cross section  and the next is to measure velocity at different points along  the 
+cross section .  
+ 
+So, for example, taking a small  section  as shown in the figure  above , having width W and 
+then let u s say d1 and d2 are two depths  that will give the trapezoidal  cross section . And 
+then the velocity is measured at  0.2d and 0.8d and average them . And then  you will get the 
+delta Q, which is the flow rate for this secti on, 
+∆Q = (W×d1+𝑑2
+2)×V0.2d+V0.8d
+2 (For depth  ≤ 1m)   
+or 
+∆Q = W×d1+𝑑2
+2×V0.6d  (For depth > 1m)  
+Then  similarly flow rate  for each section  is calculated a nd summation of all  the ∆Q will 
+give the total  discharge in the channel . 
+Total discharge 𝑄=∑∆𝑄 
+(Refer Slide Time: 18:06)  
+ 
+Next is the tracer method , in this method  a particular tracer is be ing injected at the head 
+end and you are going to  measure i ts concentration at the downstream . This principle  is 
+based on the mass conservation  princ iple and you are  going to estimate the flow rate . 
+(Refer Slide Time: 18:33)  
+ 
+How the flow rate  is estimated using the tracer  method ? For example, if you see the 
+conservation equation ; 
+𝑄0×𝐶𝑏+𝑞×𝐶1=(𝑄0+𝑞)×𝐶2 
+Where, 𝑄0= flow rate o f the stream, 𝑞= injection rate of concentrated tracer in the stream, 
+𝐶𝑏=background tracer concentration in stream, 𝐶1= concentration of tracer in the prepared 
+solution, 𝐶2= concentration of tracer in the downstream water.  If you rearrange  the above 
+equation for Q 0; so, finally, you will  achieve th e following  equa tion  
+𝑄0= 𝑞 (𝐶1 − 𝐶2)
+𝐶2 − 𝐶𝑏 
+So, this is equation you going to use in order to measure  or estimate the discharge in a 
+stream  using tracer  method .  
+(Refer Slid e Time: 20:24)  
+ 
+Next is the float method , which involve a  surface float or a material that can float . This is 
+a rough estimation , but it is a very easy method  if you have  a float. For example, there are 
+two operators  or two persons at a known  distanc e as shown in the following figure . Then 
+the person a t the upstream end is going to leave a float and he note d the initial time  which 
+is the time when he releases the float  and the person downstream will note the time when 
+he receives the float so you wil l find out how long  it takes for the float to travel from th e 
+upstream operator to downstream operator . It is a simple method where  we measure the 
+velocity which is the distance by time . 
+ 
+In open  channels  the velocity profile at the top /surface  is highest  and is lowest  at the 
+bottom . So, since the float is floating  on the  top surface  so, it is going to experience the  
+maximum velocity  then in order to estimate the mean velocity , the surface velocity or the 
+float velocity  is multiplied  with 0.8. Once you g et the mean velocity and knowing the cross  
+section , you can estimate the discharge .  
+(Refer Slide Time: 21:54)  
+ 
+Current meter  is also  used to measure  the velocity of the flow . The current term indicates 
+the flow that is why  it is called  the flow meter  or current meter . In this meter , there are a 
+number of  cups mounting on the axis  along with  the tail  as shown in the first figure  above. 
+You have to put this  current meter into  the stream and  based on the flo w the cups are going 
+to rotate . The number of ro tations w ill be calibrated  against the flow rate . In the image 
+above  you see the  person who is using current meter to measure the flow rate  in a streams ; 
+the discharge is equal to the flow cross section multiplied by  flow velocities  similar to the 
+previous  method . So, current method give s the velocity and if you know the cross section 
+area Q is equal to area into  velocity .  
+(Refer Slide Time: 23:15)  
+ 
+Water depth measurement devices are shown in the images above such as  staff gauge , 
+water level sensors, ult rasonic water level sensors. I f you go to the roadside or any  streams  
+where a staff  is installed at the  gauging site, you can clearly see the height of water which 
+is present in the stream . Water level sensors  are also used to measure the water level;  it 
+works on the  principle of  resistance  so based on the resistance  signal you can convert  it 
+into water level . The ultrasonic level sensor  emitted acoustic wave and receive a weak 
+return ing acoustic wave  and the difference will be  converted into voltage and vol tage will 
+give the water level . All these devices are calibrated  ones. 
+(Refer Slide Time: 24:32)  
+ 
+Measuring structures for example, notches and weirs  are shown in the image above, t he 
+first image is a  rectangular notch , which is a rectangular piece which is made up of metal . 
+There is a gauging gauge  and this gauge gives the depth  and knowing the  cross section  of 
+the notch you can estimate the discharge  which is a  function of height  along with the  
+correct correction factor Cd. Similar ly if it is a trian gular shape it is called triangular notch . 
+(Refer Slide Time: 25:36)  
+ 
+And then  we have  trapezoidal notch  (as shown in the first image above),  in case of  a 
+rectangular notch  there is end contraction  so the velocity of flow /discharge may be  
+interrupted . So, if you have  the triangular slots at the end and m ade i t the trapezoidal one , 
+then the discharge will be higher . Stepped notch (as shown in the 2nd image above) is used 
+if you have the flow rate which is varying too much  in the  streams . Stepped  notch  can 
+measure the  lower  discharges and higher discharges , using  the same  notch .  
+(Refer Slide Time: 26:38)  
+ 
+Next are the weirs , the difference between  weir and not ch is that notch  are the devices 
+made up of mostly  metal sheets and the weirs are made up of cement  concrete . So, weirs 
+hold the larger discharges whereas,  notches measure the smalle r discharges . Similar to the 
+notches we have  the classification  according  to the shape of opening , i.e., rectangular weir 
+with rectangular opening and trapezoidal weir with  trapezoidal opening . A trapezoidal 
+weir which has a 4 vertical and 1 horizontal side slope  is called  a Cipoletti weir . 
+(Refer Slide Time: 27:38)  
+ 
+The other  classification is according to the nature of  discharge , there is a  regular  weir and 
+there is a submerged weir . So, in the  both cases h 1 is the  depth  at head end and h2 is the 
+depth  on tail end . Calculat ion of discharge in both case is almost same  but, in this case of 
+submerged weir when you calculate  it should be h1 minus h 2.  
+(Refer Slide Time: 2 8:52)  
+ 
+The next  classification is according to  the w idth of the weir  which is the narrow crested  
+weir and broad crested  weir. In case of narrow crested  weir, h1 which is the depth  above 
+the crest is greater than 4 times width of the weir  and in broad cres ted weir h 1 is less than 
+4 times width of the weir . 
+(Refer Slide Time: 29:36)  
+ 
+And then next classification is according to the  nature of crest : sharp crested weir and  ogee  
+weir. The sharp crested weir thickness  is < h1/2 generally whereas , in ogee weir  similar to 
+the sharp  crested weir , but at the tip  it is going to be maximum at one point  that is 0.115 *H 
+and then  after that  it follows a parabola . 
+ (Refer Slide Time: 30:32)  
+ 
+According to the effect of the si des on emerging nappe  there is  suppressed rect angular 
+weir and contracted rectangular weir . In suppressed rectangular weir the length of the weir 
+will be equal to length  of the water which is staying on top of the weir but in contracted 
+rectangular weir the weir width and the channel wi dth is less th an the w eir length  due to 
+the presence of end contractions . 
+(Refer Slide Time: 31:18)  
+ 
+How to measure the discharges in the  measuring structures ? For example, you have a  
+rectangular w eir so, how to estimate the discharge . Consider an elementary horizontal  strip 
+of water thickness dh and length L at a depth h from the water surface . 
+Area of strip = 𝐿 𝑥 𝑑ℎ 
+Theoretical velocity of water = √2𝑔ℎ 
+Therefore, discharge through strip =  𝐶𝑑×𝐿×𝑑ℎ×√2𝑔ℎ 
+Where C d = coefficient of discharge  
+By integrating above equation with limits 0 to H we can get the total discharge 
+Q=∫( 𝐶𝑑×𝐿×𝑑ℎ×√2𝑔ℎ)𝐻
+0 
+Finally discharge over the weir 𝑄= 2
+3𝐶𝑑×𝐿×√2𝑔×H3/2 
+Contracted rectangular weir 𝑄= 2
+3𝐶𝑑×(𝐿−0.2𝐻)×√2𝑔×H3/2 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 32:59)  
+ 
+In case of triangular weir,  we follow the  similar  procedure . Consider ing an elementa ry 
+horizontal strip of water of thickness dh at a depth h from the water surface.  
+Area of strip = 𝑑ℎ 𝑥 2𝐴𝐶 = 2 (𝐻−ℎ) 𝑡𝑎𝑛(𝜃/2) 𝑑ℎ 
+Theoretical velocity of water = √2𝑔ℎ 
+Therefore, discharge through strip =  𝐶𝑑2 (H-h)tan( θ/2)dh √2𝑔ℎ 
+By inte grating above equation with limits 0 to H we can get the total discharge 
+Q=∫( 2𝐶𝑑 (H-h)tan( θ/2)dh √2𝑔ℎ)𝐻
+0 
+Finally discharge over the weir 𝑄= 8
+15𝐶𝑑×tan(θ/2)×√2𝑔×H5
+2 
+(Refer Slide Time: 34:32)  
+ 
+And then  so, the next is to measure  the discharge through trapezoidal or Cipoletti  weir. It 
+has two components ; one is  rectangular weir  right , the other one is  the triangular weir that 
+is why here we take  this is a  discharge principle for rectangular  and triangular weir . 
+The discharge over  a Trapezoidal  weir  
+𝑄=( 2
+3𝐶𝑑×𝐿×√2𝑔×H3/2)+( 8
+15𝐶𝑑×tan(θ/2)×√2𝑔×H5/2) 
+Where, Q = discharge, L/s; L= length of crest, cm H = head over the weir, cm, Cd = 
+Coefficient of discharge, 𝑔= acceleration due to gravity. Because of t he contractions  in the 
+rectangular weir the discharge is going to be decreased . So, in order to increase the 
+discharge  right  without having any e ffect on th e contractions  the triangular openings  are 
+added,  then the discharge will increase . so, that i s why  the total discharge through the  
+trapezoidal  weir or Cipoletti  weir (side slopes 1:4 ) is a combination of rectangular and 
+triangular weir . 
+(Refer Slide Time: 35:58)  
+ 
+And then  so, next let us solve a  problem . 
+A rectangular notch has a discharge of 0.24 m3/s, when head of water is 800 mm. Find the 
+length of notch. Assume Cd=0.6.  
+Solution:  
+Given,  Q = 0.24 m3/s, H = 800 mm = 0.8 m, 𝐶𝑑 = 0.6  
+𝑄=𝐶𝑑2
+3√2𝑔𝐿𝐻3/2 
+0.24=0.67×0.6×𝐿×√2×9.81 ×0.83
+2 
+𝐿=0.189  𝑚 
+𝐿=189  𝑚𝑚  (Ans.)  
+ 
+(Refer Slid e Time: 36:56)  
+ 
+Example 2 Find the discharge over a triangular notch of angle 600, when head over 
+triangular notch is 0.2m. Assume C d=0.6 
+Solution:  
+Given,      θ = 600; H = 0.2 m ; Cd = 0.6  
+Q=Cd8
+15√2g tanθ
+2H5/2 
+= 8
+15 ×0.6 ×√2×9.81×tan60
+2 × 0.25
+2 
+=0.0146  m3/s(Ans.)  
+So, this is all  about this  lecture , mostly in this lecture we  covered the main principle  
+involved in flow measurement devices and what are the measurement methods ; so mostly 
+the area velocity method volume  method  and then tracer  method , the float method . So, 
+these are the methods  commonly used in stream  flow measurement . And in addition to that 
+there are some structures like weirs , notches  and then flumes . We are going to talk about 
+the flumes  and some  measuring device s for the flow through pipes in the next class .  
+Thank you . 

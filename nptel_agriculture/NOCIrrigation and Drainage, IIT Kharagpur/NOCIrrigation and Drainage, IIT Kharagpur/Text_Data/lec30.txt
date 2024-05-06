@@ -1,0 +1,139 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 30 
+Tutorial  
+This lecture is a tutorial, we are going to solve  some problems related to the lectures  we had 
+this week on wells and well hydraulics.  
+ (Refer Slide Time: 00:54)  
+ 
+So, let us see the examples o  
+Example 1 The thickness of a capillary zone above the water table varies_____________  
+This was given in 2017 GATE exam.  
+If you  remember the soil -water zone , intermediate zone , capillary zone , etc.,  which is attached 
+to the water table. This capillary zone  is above the water table, the thickness in the sense  is the 
+rise of the water, so it depends on  the pore size of the soil. Suppose, a smaller por e size versus 
+larger pore size if it is sandy soils, the thickness is smaller whereas  in clay soil the thickness is 
+higher, that means, it rises  higher. Because the smaller pores the capillary the surface tension 
+is more and then the capillary rise will be  more.  
+Answer:  Inversely with the pore -size of soil  
+Example  2 A cavity well is a tube well which has _____________  
+The cavity well does not have any screen pipe or strainer whereas , it can have a blind pipe  only.  
+Answer:  no strainer or a blind pipe  
+ 
+(Refer Slide Time: 02:28)  
+ 
+Example 3 : The sum of specific yield, specific retention for an unconsolidated geologic 
+formation is equal to it _________  
+Answer:  total porosity.  
+ (Refer Slide Time: 02:50)  
+ 
+Example 4 : Dupuit -Forchheimer assumptions are  used for analyzing groundwater flow in 
+_______________   
+Answer:  unconfined aquifers  
+Example 5: T he capillary water is held in the soil due to the _______  
+Answer: surface tension force.  
+ 
+ 
+(Refer Slide Time: 03:16)  
+ 
+Example 6:  A watershed of 100 km2 is underlain by an unconfined aquifer having a hydraulic 
+conductivity of 15 m/day and a specific yield of 0.20. If 30 million m3 of water is pumped from 
+this aquifer through uniformly distributed wells, the average drop of water table over the 
+watershed i n meter s will be __________  (GATE 2017)  
+Solution:  
+Given,         A= 100 km2 
+Q= 30 million m3 
+specific yield = 0.20  
+Change in groundwater storage = Area of the aquifer × Drop in water table × Specific yield  
+30×106= 100×106 × Drop in water table × 0.2  
+Drop -in water table= 1.5 m (Ans.)  
+(Refer Slide Time: 05:45)  
+ 
+Example 7:  A fully penetrating tube well in a 30 m deep confined aquifer with a hydraulic 
+conductivity of 4×10-4 m/s has 50 L/s discharge. The drawdown and radius of influence are 5 
+m and 250 m, respectively. Diameter of the tube well i n mm is ____________  (GATE 2016)  
+Solution:  
+Given,              b=30 m;    K=4×10-4 m/s 
+Q= 50 l/s = 0.05 m3/s  R= 250 m  
+S= 5 m  
+𝑄=2𝜋𝐾𝑏  (𝐻−ℎ𝑤)
+ln(𝑅
+𝑟𝑤)=2𝜋𝐾𝑏  𝑠
+ln(𝑅
+𝑟𝑤) 
+(Refer Slide Time: 07:20)  
+ 
+0.05=2𝜋×4×10−4×30×5
+ln(250
+𝑟𝑤) 
+ln(250
+𝑟𝑤)=2𝜋×4×10−4×30×5
+0.05 
+ln(250
+𝑟𝑤)=7.539 
+𝑟𝑤=0.133  m 
+𝑟𝑤=133  mm 
+The d iameter of the tube well = 266 mm (Ans.)  
+ 
+ 
+ 
+ 
+ (Refer Slide Time: 07:49)  
+ 
+Example 8:  An unconfined aquifer covering an area of 50 ha has a hydraulic conductivity of 
+20 m day-1 and a specific yield of 12%. After a significant rainfall event, the water table rises 
+from 17 m to 14.5 m below the ground level. Assuming no abstractio n and outflow of 
+groundwater during the recharge period, the amount of groundwater recharge contributed by 
+the rainfall in m3 is ___ (GATE 2015)  
+Solution:  
+Given,         Area= 50 ha ; specific yield = 12%  
+Change in groundwater storage = Area of the aquifer ×  Drop in water table × Specific yield  
+= 50×10000× (17 -14.5) × 0.12  
+Change in groundwater storage due to rainfall = 150000 m3 (Ans.)  
+(Refer Slide Time: 12:26)  
+ 
+Example 9:  In a falling head permeameter test, the initial head is 0.30 m. the head drops to 
+0.10 m in 40 min. The permeability of a soil sample, 0.06 m high and 50×10-4 m2 in cross -
+section area, is found to be 1×10-6 m/s. The size of the stand pipe in m2 is    
+    (GATE 2011)  
+Solution:  
+Given,  
+h1 =0.3  m ; h 2= 0.1 m ; t=40 min= 2400 sec ; L=0.06 m;  A=50×10-4 m2; K=1×10-6 m/s 
+𝐾= 𝑎𝐿
+𝐴 ∆𝑡ln(ℎ1
+ℎ2) 
+1×10−6=𝑎×0.06
+50×10−4×2400×ln0.3
+0.1; 
+=𝑎×5×10−3 ×1.0986  
+𝑎=1.82×10−4 m2 (Ans.)  
+(Refer Slide Time: 14:39)  
+ 
+Example 10:  An unconfined aquifer  is pumped at a constant rate of 10 L/s. Steady -state 
+drawdowns measured at radial distances of 30 m and 60 m are 0.80 m and 0.70 m, respectively. 
+The o riginal thickness of the aquifer is 30 m. Transmissibility of the aquifer is ______ (GATE 
+2007)  
+Solution:  
+Given,  
+𝑄= 10 𝐿/𝑠=864 m3/d  
+𝑇=𝑄ln(𝑟2
+𝑟1)
+2𝜋 (𝑠1′−𝑠2′) ;  𝑠1′= (𝑠1 - 𝑠12 /2H) 
+𝑇=864×ln(60
+30)
+2𝜋 (0.789−0.692) 
+𝑇=982.29 m2/d (Ans.)  
+So in this tutorial , we covered  the problems from the confined aquifer, unconfined aquifer , and 
+also hydraulic conductivity  problem. Remember the formulas in case of flow to the confined 
+aquifer and flow to the unconfined aquifer. And also the how to estimate the hydraulic 
+parameters, such as the  hydraulic conductivity and transmissibility in both confined and 
+unconfined aquifers ok, by knowing the drawdown  values  ok. So, these are very important . 
+Then another thing is supposing , how to find out the recharge  or the amount of water which is 
+pumped from an aquifer when you have change d in you know drawdown, right or change in 
+drawdown. So, that also we have covered 2 problems . 
+So, work on these problems , steady -state would be enough for most of the  irrigation wells. So, 
+in detail , the unsteady state  flow to the wells can also be studied  in the case of tube wells and 
+pumps ; there is a  separate course on that . In this , we covere d only steady -state problems . 
+Thank you.  

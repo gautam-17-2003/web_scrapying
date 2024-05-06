@@ -1,0 +1,197 @@
+  
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapal li 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 60 Cropwat  
+Friends, this is  lecture number 60  and the  last lecture o n Irrigation and Drainage  course  in this 
+we are going to see how an irrigation model called Cropwat can be used to determine the cro p 
+water requirement as well as irrigation scheduling for a particular crop or multiple crops . 
+(Refer Slide Time: 00:47)  
+ 
+Cropwat is freely available on the internet , it can be directly download ed from the FAO site  
+through this link  (http://www.fao.org/land -water/databases -and-software/ Cropwat /en/) and 
+you can install it on your PC’s or laptops and  run the model for estimating the crop water 
+requirement and irrigation scheduling . 
+(Refer Slide Time: 01:43)  
+  
+ 
+Cropwat  calculates the crop water requirement and irrigation schedules . These two functions 
+of the Cropwat  have different modules , there are some input modules and calculation modules 
+and in  the same module the outputs are going to  be display ed. The model has 5 input modules 
+and 3 calculation modules.  For example, here the evapotranspiration ET 0 can be given as input 
+or it can be estimated using  some climate parameters or weather data  using the Penman -
+Monteith formula  for crop water requirement s. The other one is effective rainfall  so, knowing 
+the rainfall data the effective rainfall will be calculated based on  different criteria  such as  a 
+fixed percentag e or SCS curve number  method . Crop data can be  for a dry crop or wet crop  
+such as rice. S oil data  are required as  input for calculating upward requirement and irrigation 
+scheduling . The scheme supply is required for multiple cropping  pattern s. And Cropwat 
+involve s a wide variety of options for data input and calculation. , there are several options 
+available to calculate and also give input .  
+(Refer Slide Time: 03:47)   
+ 
+  
+ 
+The structure of Cropwat can be seen in the bar image above  which open s in the Cropwat 
+window.  , The bar contains options for  inputs like a climate or ET or rain or crop and soil , and 
+there is a crop pattern  option  if you have multiple crops  and also the outputs or the calculation 
+window . It is organized in to 8 different modules ; data input modules  are 5 and calculation 
+modules are 3 . Then the modules are located on the module bar  and it is easy to access for the 
+calculation of water requirements , irrigation schedules , and supplies  
+  
+ 
+(Refer Slide Time: 05:17)  
+ 
+The image above  shows the  Cropwat  window; once we open the icon on the desktop .  It consists 
+of climate  i.e., ET0, rain as  the inputs a long with  crop data and crop pattern . The outputs are 
+calculation windows Cropwat  requirements schedule and scheme supply . Other things like a 
+new wi ndow and start  option are available , then  click on each  module  to open the required 
+window . If you click on the ET 0 and climate module a  window will appear  called monthly 
+Penman -Monteith  and the moment you open it , there is there are some files already available 
+you can click on that and directly you can  import that data to  the datasheet . Then you can click 
+on the rain , crop, and soil and after giving  the inputs you can click on crop water requirement 
+and schedule  to see the output . If you have multiple crops you can click crop pattern and then, 
+it will give the schemes. So, this is a simple and  very useful tool developed by FAO . 
+(Refer Slide Time: 11:01) 
+ 
+Data input modules  are  
+1. Climate/ETo:   for the input of measured ET0 or of climatic data for estimating ET0  
+  
+2. Rain: for the input of rainfall data and calculation of effective rainfall  
+3. Crop (dry crop or rice ): for the input of crop data and planting date  
+4. Soil: for the input of soil data for (only needed for irrigation scheduling)  
+5. Crop pattern: for the input of a cropping pattern for scheme supply calculations  
+Calculation mod ules:  
+6. CWR - for calculation of Crop Water Requirements  
+7. Schedules (dry crop or rice) - for the calculation of irrigation schedules  
+8. Scheme - for the calculation of scheme supply based on a specific cropping pattern  
+(Refer Slide Time: 8 :07)  
+ 
+So, for example, here the moment you click the climate  option the above image of  the window 
+will appear , and then you can punch the input data or you can also call or import the data from 
+the open window . For example, this location is given in latitude longitude and a station name 
+is given and then the different  month  from  January up to December . Then once you punch all 
+the data  the radiation and ET 0 are calculated.  These input  values can be changed during the run.  
+(Refer Slide Time: 12:15)  
+ 
+  
+Next , the rain input data  window will appear  as show n in the slide above , and then you can a lso 
+import the data from the existing file  or enter the data manually . The effective rainfall  is 
+calculated by  the fixed percentage method for example, for May the rain is  25 mm but the 
+effective rain is  20mm. So, the effective rainfall is eighty percent  and you c an also change the 
+effective rainfall method.  
+(Refer Slide Time: 10:05)  
+ 
+For the conversion of rain to effective rainfall , there are some methods available , you can go 
+to settings you will see different methods fo r the calculation of effective rainfall is available. 
+There is a fixed percentage method , dependable rain FAO , empirical formulas , and USDA  
+conservation service  method  and when rainfall is not considered in irrigation calculation  the 
+effective rainfall will be 0. So, if you do not want to use the rainfall in  calculations, yo u can go 
+for this option. 
+(Refer Slide Time: 10:50)  
+ 
+  
+And then the third one is crop input , for crop data crop coefficients  Kc dry and K c wet are 
+required. T hen the stage  include s the nursery stage , land preparation stage , grow th stages , and 
+the total  stage . And then root depth at the different stages for example 0.1 at the initial stage 
+and then grow th stage of 0.6 m  and p uddling depth , nursery area , critical depletion yield 
+response; all inputs can be  changed or you can also import from the existing file s. 
+(Refer Slide Time: 14:43)  
+ 
+And the fourth one is the soil  input  like soil name and ge neral soil data like field capacity ( FC) 
+wilting point ( WP). The field capacity minus wilting point maximum  rain infiltration rate, 
+maximum root depth, initial soil moisture depletion , and initial ly available moisture . And you 
+can also have  some additional data  exclusively for rice;  such as drainable porosity, critical 
+depletion of puddling , cracking, maximum percolation rate after puddling, water availability 
+of plant ing, and maximum water depth  
+(Refer Slide Time: 12:32 ) 
+ 
+  
+And the next is crop pattern , the crop pattern  is used  if we have multiple crops; for example, 
+here one crop is groundnut and the other one is rice . So, you have to provide the crop name 
+planting date and harvesting date , and area planted, this is important to know  the area in 
+percentages  for a particular crop . 
+(Refer Slide Time: 13:07)  
+ 
+Next is the model output or calculation windows . If you see crop water requirement CWR , the 
+window looks like that of ET0. A column decade in  the window represents 10 days so , the first 
+decade is the first 10 days, the second 10 days, third 10 days  which represents a month . Stages 
+here are given  along  with Kc value s for different stages . ETc the crop water crop 
+evapotranspiration on a daily and decade basis . Effective rain is given , irrigation requirement 
+is given. , this way you can understand at different  grow th stages  what is i rrigation requirement . 
+So, that is a crop water requirement is calculated for the particular crop.  
+(Refer Slide Time: 14:17)  
+ 
+  
+And the next is irrigation scheduling , the scheduling window is show n in the above image. The 
+station value , crop, planting date , and harvesting date , and yield reduction are given . Pre 
+puddling, puddling , and grow ing stages.  The i rrigation  schedule  can be seen on the window  at 
+different dates  and you have to give the required irrigation . The total gross irrigation, total net 
+irrigation, total irrigation losses , irrigation efficiency , rain total rain loss , etc. all these things 
+you can  calculate using the Cropwat .  
+(Refer Slide Time: 15:27)  
+ 
+The other one is scheme  supply  which we used  if we have multiple crops . In the image of the 
+window above you can see the  station name and then the crop pattern , for example, rice and 
+ground nut are grown from  June to December .  The net scheme irrigation requirement , irrigated 
+area, and irrigation requirement for the actual  area,  all these things can be estimated using the 
+Cropwat . This simple model Cropwat  which is developed by FAO and is used to determine the 
+crop water requirement and irrigation scheduling for both single as well as multiple  crops.  
+(Refer Slide Time: 16:59)  
+ 
+So, we can see in the above image how Cropwat  is being used . This is the climate window in 
+Cropwat  with different climate parameters. , Once you download and install it. , the database is 
+already installed in the climate folder , then just open it , it will give you the climate data; the 
+complete minimum and maximum  temperature and the station information and ET 0 are 
+calculated using the Penman -Monteith methods. You can also check the different methods for 
+ET calculat ion from temperature data and other things and temperature minimum maximum.  
+The next input  is rain, the location selec ted is Kurnool you will get some other stations along 
+with their rainfall data . You can change th e percentage values in the  fixed percentage method 
+or you can select other methods as well ( dependable rain FAO  or empirical formulas ). 
+(Refer Slide Time: 18:33)  
+ 
+And the n you can open the chart and get the rainfall and effective rain  as shown in the image 
+above , based on the fixed percentage.  
+(Refer Slide Time: 18:49)  
+ 
+ 
+And then the  third input is the crop , the crop requires the information on K c along with the stage 
+root depth . You can get take the value from available data for Kurnool rice . Crop data for rice and soil 
+information also can be obtain ed from the available folder . Let us say, black clay soil and you get the 
+information for the black clay soils . So, then now the crop water requirement can be estimated using 
+this data and using the 4 inputs like climate , rain, crop, and soil . 
+(Refer Slide Time: 19:47)  
+ 
+So, this is the crop water requirement fo r the particular rice crop. Th e above image presents  the 
+first decade like a first 10 days, second 10 days, third 10 days in June month and th e nursery 
+stage and K c value . ETc and other values are also given.  
+(Refer Slide Time: 20:09)  
+ 
+You can click on the chart  to see the irrigation requirement in each month or each decade . You 
+can also click  on the  ET crop . There is a line showing the E Tcrop and  you can also see the 
+ 
+ETcrop  in bar values and also  3D views .  
+(Refer Slide Time: 20:51)  
+ 
+The schedule will give the answer for when to give irrigation, how much to give irrigation. , 
+The above image presents the schedule and it is a fixed window, you cannot change anything 
+in this window. The day, stage , rain and all information  such as total gross irrigation, total net 
+irrigation, total irrigation losses , total precipitation losses actual w ater used by the crop and 
+potentially use by crop, efficient irrigation schedule can be obtain ed from the irrigation 
+scheduling window.  
+(Refer Slide Time: 21:37)  
+ 
+Crop pattern is the input  for when you have 2 crops grown in the area . You can also change the 
+crops in the crop pattern window and  you can choose from the number of crops available .  
+ 
+ 
+(Refer Slide Time: 22:07)  
+ 
+Now once you input this, you can go for the scheme , the scheme supply , will give  all the value s 
+like precipitation deficit and net scheme irrigation requirement in mm /day, irrigation area , 
+actual area . So, this way you can get the information for multiple crops.  This is very useful 
+software, you can download it and practice  with it by using the existing data or if you have 
+some data to analyze irrigati on requirement or crop water requirement and irrigation 
+scheduling.  So, this is definitely a very good tool to apply in on on-faorm irrigation planning 
+and management. And you know  no and no now yeah that is it.  
+ 

@@ -1,0 +1,328 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 21 
+Sprinkler Irrigation Design  
+This is lecture number  21 in the  series of irrigation and drainage  course which is  on 
+Sprinkler Irrigation Design . In this lecture , we are going to focus on how to  design 
+sprinkler irrigation .  We are going to discuss the simple design here and in the next lecture , 
+we going to see the hydraulic design of sprinkler irriga tion. 
+(Refer Slide Time: 00:58)  
+ 
+The first picture above  presents  the sprinkler irrigation system  layout . The sprinkler system  
+consist s of the water source , a pump , the main s and sub mains , the laterals  and then 
+sprinkler s to riser  pipe, bends , air vents or air valves , joints , etc., so the whole  system 
+consists of these components . An enlarge d view of the sprinkler is shown in the  picture  
+above where  the water is be ing spread on the soil surface . Then there is a riser pipe  which 
+makes the head and there are hook , gasket and other things to make  the pipe fittings . 
+Sprinklers  are mounted on the lateral s (as shown in the layout above) , and then the re is the  
+mainline and the pump , it pumps the water through the mainline and then through the  
+laterals and the riser pipe and the sprinkler . And the sprinkler sprink les the  water just like 
+rainfall . The sprinkler can have  a different kind of  sprinkler nozzles . In the image above 
+the impact -sprinklers  are shown , which  is the most commonly seen sprinklers  for 
+irrigation . It has the spreader  nozzle  and then range nozzles and there  is an impact arm that 
+is going to cut down the flow  and spread s the flow . The water flows out of the sprinkler at 
+a trajectory angle , this angle determined the wetted area and impact force of the sprinkler 
+droplet.  If you see  in the image  the water ejects from t wo outlets  (spreader nozzle and 
+range nozzles ) and the sprinkler  head  is going rotate clockwise  and then the jet which is 
+been  created  is going to spread into the air and the water is falling like  rainfall. 
+(Refer Slide Time: 04:22)  
+ 
+The image above also shows the spray pad sprinklers , where the water which is falling on 
+the pad is going to splash and fall down , that why it is called the impact  sprinkler and 
+similarly in the case of serrated deflector pad  it has  some serrations  when  water is falling 
+on it, it is going to create  a kind of  splash , and that  will sprinkle water all around .  Mostly 
+these kinds of sprinkler s are seen in the case of center pivot  sprinklers . 
+(Refer Slide Time: 05:28)  
+ 
+Next is  the design  aspect of the sprinkler irrigation syste m. The first thin g is system layout 
+and then operating pressure , nozzle dia meter , sprinklers discharge , and wetted  diameter . 
+Then s pacing between sprinkler s and laterals  is very important to be able to irrigate the 
+entire  area. Then the design of mainline and sub -lines  involves the length  and diameter  
+and also the material , so these three  things  will be considered while designing a pipe or 
+mainline and subline .  
+(Refer Slide Time: 06:20)  
+ 
+Then  pivot or ranger length , so what is  the range r length . Suppose i n the center pivot  
+irrigation, the system is going to  rotate around  in a circular direction, s o in one rotation  
+how much  area it is going  to cover  is the ranger length.  System capacity  for water supply  
+and then pump  design is also important to maintain the desire d pressure in the system . 
+In the sprinkler discharge , there is a thumb rule that there  should no t be more than 10% 
+variation  between the points of highest and lowest pressure in the  system . So, if you have 
+a pump  in a system ; we have more pressure at the head end than  at the  field end, so the 
+pressure difference  between them should not be more than 10%. The difference  between 
+the maximum and minimum pressure in a sprinkler  system  should not be  more than 10%. 
+(Refer Slide Time: 07:49)  
+ 
+The design principles for sprinkler irrigation are ; first thing is  to estimate the application 
+rate which is based on  planned crops or atmospheric  water demand  and soil intake rate. 
+So, you have to consider  what is  the crop we are growing and what kind of soil you are  
+using and what  atmospheric  parameters   are influencing in that particular area . These 
+things should be ta ken care of before and then draw a  layout  based on your area  and decide 
+the number of moves  and optimize the sprinkler spacing  and then lateral s, nozzle size , 
+operating pressure  - that provide design application and distribution pattern . 
+Design of sub main s, main lines  and supply lines  such that required  quantities  are conveyed 
+to all operating la terals lines in the required pressures . Finally, the design of the pump and 
+power units such that it can efficient ly convey the water to the last point  of the  system  
+layout . So, these  are the  principles or basic  things you need to consider in the design . The 
+first thing is  the application rate  and layout , sprinkler  spacing . And then main , sub-main , 
+laterals and pump designs .  
+(Refer Slide Time: 09:47)  
+ 
+Simple Sprinkler Design  - let us consider a simple sprinkler design , not hydraulic  designs . 
+So, the first  step is to determine the daily maximum supply  required for  an area for a 
+targeted crop . The estimation of  this volume  of water required to irrigate that particular 
+area is based on the maximum evapotranspiration . So, in sprinkler irrigation , all crop s are 
+expect ed to be sprinkle d with water  just like rainfall , not like  in furrow  and b order 
+irrigation where you irrigate  at one end and it leads to the other end or tail end . Here we 
+expect the  water which is sprinkled is falling on  the ground uniformly  all around just like 
+rainfall . 
+The main principle in sprinkler irrigation is you have to replenish the evapotranspiration 
+daily  water requirement .  So, every day you have to turn on  and off  the system and irrigate 
+the water which is re quired by the plants , that is why it requires less water compared to 
+border and basin irrigation s. Another  difference in surface irrigation and sprinkler  
+irrigation is in surface irrigation we look for  soil moisture  and irrigation should be  uniform 
+throughout , but here we focus  the irrigation on ET based . 
+(Refer Slide Time: 12:21)  
+ 
+𝑉𝐴=𝐴×𝐸𝑇𝑚𝑎𝑥
+𝐸𝑎 
+𝐸𝑇𝑚𝑎𝑥 =𝐾𝐶×𝐾𝑆×𝐸𝑇0 
+Where, 𝑉𝐴 = Required volume of water for the area A (m3); A = Specific area that is to be 
+irrigated (m2); ETmax = Daily maximum evapotranspiration (m) ; Ea = Design application 
+efficiency of the sprinkler ; ET0 = reference evapotranspiration at peak water demand 
+period; KC = crop -coefficient at peak water demand period ; KS is the soil moisture stress 
+coefficient   In case you are not following any soil moisture stress then KS is equal to 1. KC 
+is a crop coefficient  and it has different values for different crops , you can refer to  the FAO 
+56 book for different  for values of K c.  
+(Refer Slide Time: 13:40)  
+ 
+And t hen once you have the volume of water which is required for the particular day  
+determine the discharge rate  for a particular  number of hours  QA. The di scharge rate is 
+estimated as follows  
+𝑄𝐴 (𝑚3
+h⁄)= 𝑉𝐴 (𝑚3)
+𝑡(h) 
+Then o ptimize sprinkler  and lateral spacing  this is important , from the mainline  there is a 
+pump  that is pumping and th ere is a lateral where  sprinkler s are installed at different 
+locations on the lateral . So, sprinkler to sprinkler distance  is Sm and lateral to lateral 
+spacing is Sl. So, when we estimate the area  which is Sm into Sl and then multiplied with 
+the average application rate  (so whole  area needs to be  irrigated  with a particular depth 
+that is I), the discharge rate at individual sprinkler i s given as follows  
+𝑞= 𝑆𝑚×𝑆𝑙×𝐼 
+Where,  
+q = discharge rate for the individual sprinkler (m3/h) for the area (S m × S l) m2 
+Sm = sprinkler spacing along laterals (m)  
+Sl= lateral spacing along mainline (m)  
+I= average application rate (m/h)  
+𝐼=𝑄𝐴
+𝐴, if not limited by soil intake rate  
+ (Refer Slide Time: 16:44)  
+ 
+So, knowing the  discharge rate , another thing is how to find out the distance between the 
+laterals  and distance between sprinklers in th e lateral .  
+𝑆𝑙= D ml (1 − F/2) and Sm = D mm (1 − F/2)  
+Where D ml and D mm are the manufacturer’s rated wetting diameters of lateral sprinkler and 
+mainline sprinkler, respectively;   F is the overlapping factor, normally taken as 0.5 –0.75.  
+For windy condition, the overlapping factor may be as high as 1.0  
+While irrigating through the sprinklers a circular area is wetted if you do not overlap the 
+field you will have some  dry spot . So, to avoid dry spots  the distances between sprinklers 
+should be reduced  to get the corners of the  whole fie ld wet. 
+ (Refer Slide Time: 19:36)  
+ 
+Number of sprinklers , n=A
+Sl×Sm 
+Determine System Capacity  QST= ∑ QAin
+i=1  
+Where i is the number of sub -area like “A”  
+ (Refer Slide Time: 20:21)  
+ 
+And finally, once you  estimate the system capacity and multiplying with the head you get 
+the power required  to pump th e water  at a head HT 
+P=QST×9.81×HT 
+HT=Hm+Hf+Hr+Hs+Hsf 
+P = power (KW)  
+QST = total discharge rate for the system (m3/s) 
+HT = total pumping head (m)  
+Hm = pressure head required to operate the sprinklers at a minimum required pressure (m)  
+Hf= total frictional head in the lines (m)  
+Hr = maximum riser height from the pump level (m)  
+Hs = suction head ( the vertical difference be tween pump level and source water level after 
+drawdown) (m)  
+Hsf = friction head loss in suction line (m)  
+And so with this all , you get to total  head loss or pumping head . So, next, let us see an 
+example of a simple  sprinkler design . 
+(Refer Slide Time: 22:31)  
+ 
+Example 21.1:  
+A farm of 25 ha is planned to be brought under sprinkler irrigation. The textural class of 
+the soil is loam -to-silt loam, having moisture content at field capacity (FC) and permanent 
+wilting point (WP) of about 42% (by volume) and 26% (by volume), respecti vely. An 
+infiltration test data showed that the constant (basic) infiltration rate is 2 mm/h. A hardpan 
+(relatively impervious layer) exists at a depth of 2.0 m below the soil surface. The l ong-
+term average reference evapotranspiration (ET 0) rate in that a rea is 4.5 mm/d. Vegetable 
+crops are planned to grow in the farm, and the crop coefficient ( Kc) at the maximum 
+vegetative period is 1.1. The climate is moderately windy in a part of the season. Design 
+the sprinkler irrigation system (various components) fo r the farm. Assume the standard 
+value of any missing data.  
+Solution:  
+Given,  
+Area, A = 25 ha = 250,000 m2 
+FC = 42% (by vol.);   
+WP= 26%  
+Ic= 2 mm/h ; ET0 = 4.5 mm/d  
+Kc= 1.1  
+Dimp = 2 m below soil surface  
+Wind status: moderately windy  
+ (Refer Slide Time: 24:14)  
+ 
+Now, the solution steps:  
+1. 𝐸𝑇𝑚𝑎𝑥 = 𝐸𝑇0 × 𝐾𝑐 = 4.5 × 1.1 = 4.95 𝑚𝑚 /𝑑 
+(Assuming depletion of soil -moisture up to readily available level, so that 𝐸𝑇 occurs at its 
+maximum rate, i.e., soil moisture stress factor, 𝐾𝑠=1) 
+2. Daily water requirement  for the area, A (i.e., for the whole -farm here) is  
+𝑉𝐴=𝐴×𝐸𝑇𝑚𝑎𝑥
+𝐸𝑎 
+ (Refer Slide Time: 25:34)  
+ 
+Assuming application efficiency, 𝐸𝑎= 80% , i.e., 0.8  
+Then, 𝑉𝐴=250000 ×(4.95
+1000)
+0.8=1546 .875 m3 
+3. Discharge rate, 𝑄𝐴 = 𝑉𝐴 
+𝑡 
+Here, t= irrigation period = 4 h (assuming for the prevailing windy condition)  
+Thus, QA = 1546 .875
+4×3600=0.1074  m3/s 
+4. Discharge rate of individual sprinkler, q= Sm×Sl×I 
+Sl=𝐷𝑚𝑙 (1−𝐹2⁄)  𝑎𝑛𝑑  Sm=𝐷𝑚𝑚 (1−𝐹2⁄) 
+Assuming overlapping factor, F = 0.7 (higher for windy condition)  
+Taking a manufacturer rated wetting diameter for mainline and lateral sprinkler as 12 m 
+and 10 m, respectively  
+ (Refer Slide Time: 27:07)  
+ 
+𝑆𝑙=12 (1−0.72⁄)=7.8 𝑚 
+                                                     Sm=10 (1−0.72⁄)=6.5 m 
+Application rate, 𝐼 =𝑄𝐴/𝐴 = (0.1074 ×3600 )/250000  =1.5468  mm/h, which is 
+less than the soil infiltration rate.  
+Here, assuming 𝐼 = 2 mm/h (to minimizing evaporation loss in windy climate)  
+Putting the values, 𝑞 = [7.8 × 6.5 × (2/1000 )] × (1000 /60) =1.69 l/min  
+5. Number of sprin klers, 𝑛=𝐴
+𝑆𝑙×𝑆𝑚=250000
+7.8×6.5=4930 .9≅4931  
+Note: The above calculation is for fixed lateral. If moving lateral is used, no. of laterals 
+should be based on the maximum working /pump operating period. Note that each setting 
+requires 4 h for the above calculation, so 16/4 = 4 settings can be operated if 16 h is the 
+working period.  
+Besides, the number of laterals should be based on the dimension of the land, lateral size 
+available in the market, etc.  
+ (Refer Slide Time: 29:37)  
+ 
+Power required  (motor capacity required), 𝑃=𝑄𝑆𝑇×9.81×𝐻𝑇 
+Here, QST=0.1074  m3/s 
+HT=Hm+Hf+Hr+Hs+Hsf 
+Hm = pressure head required to operate the sprinklers at the minimum required pressure 
+(m) = 28.05 m (= 40 psi) (assuming)  
+Hf= total frictional head in the lines (m)  ≈ 5% of H m = 1.71 m (assuming/estimating)  
+Hr = maximum riser height from the pump level (m)  = 1.5 m (assuming)  
+Hsf = friction head loss in suction line (if suction line exists)  = 0 
+Hs = suction head ( the vertical difference between pump level and source water level after 
+drawdown) (m) = 0 (assuming that water is pumped from the supply canal)  
+Thus, HT=31.26 m  
+Thus, 𝑃 = 0.1074  ×9.81 × 31.26 = 32.94 KW 
+(Refer Slide Time: 30:48)  
+ 
+Summary  design parameters are as follows: Taking for fixed laterals:  
+Pump capacity: QST= 0.1074 m3/s 
+Irrigation period = 4 h 
+Motor capacity: P = 32.94 KW  
+Lateral spacing along mainline: S m = 7.8 m  
+Sprinkler spacing along lateral: S l= 6.5 m  
+Number of total sprinklers: n = 4931 nos (Ans.)  
+So, this is the sprinkler  simple design we haven’t  considered any hydraulic principles in 
+it. It gives the number of sprinklers , the spacing and pump capacity  
+(Refer Slide Time: 31:32) . 
+ 
+Example 21.2:  
+Determine the required capacity of a sprinkler system to apply water at the rate of 1.25 
+cm/h. Two 186 m long sprinkler lines are required. 16 sprinklers are spaced at 12 m 
+intervals on each line. The spacing between the lines is 18 m.  
+Solution:  
+Given:  
+I = 1.25 cm/h  
+Sl = 12 m  
+Sm= 18 m  
+Discharge in each sprinkler, q = 12×18×1.25/100= 2.7 m3/h 
+System capacity, Q= 2.7 x (16+16)= 86.4 m3/h 
+(Refer Slide Time: 33:02)  
+ 
+Example 21.3:  
+Allowing 1 hour for moving each 186 m sprinkler line described in the previous example, 
+how many hours would be required to apply a 5 cm irrigation to a square 16 ha field? Ho w 
+many days are required assuming 10 -h days?  
+In this example  which is the extension of so previous example , here the extra information 
+is given . So, here 2 laterals are  move  to another place  after irrigating a particular area and 
+the moving time of sprinklers is 1 hour. 
+ (Refer Slide Time: 34:04)  
+ 
+Solution:  
+Irrigation time to apply 5 cm irrigation at the rate of 1.25 cm/h  
+  = 5 / 1.25 = 4 h  
+Time required for moving the lateral = 1 h  
+Total time per setting = 4+2= 6 h  
+Area of field = 1,60, 000 m2 ;  Length of field  =√160000 =400 m 
+(Refer Slide Time: 35:48)  
+ 
+The entire length of 400 m is converted by the two 186 m laterals, spaced 18 m apart, 
+hence the number of moves required  =400
+18=22.2 say 22 moves   
+Total time required for irrigation =22×5=110ℎ =110
+10=11 𝑑𝑎𝑦𝑠  
+ 
+(Refer Slide Time: 36:43)  
+ 
+Example 21.4:  A sprinkler system is to be designed to irrigate 8 ha of the vegetable crop ( 
+Root  zone depth = 60 cm ) in deep silt loam soil (Limiting application rate = 1.3 cm/h; 
+Moisture holding capacity = 9.5 cm/m depth) in a moderate dry climate.  
+The field is flat. Assuming the allowable depletion level = 50 %, water application 
+efficiency = 75 % and peak rate of moisture use by crop = 5 mm / day,  
+Determine the net depth of water per application, the depth of water pumped per 
+application, irrigation period and the required system capacity in ha - cm per day.  
+Assuming that system is operated for 1 5 h each day, determine the pump capacity in lps.  
+Solution:  
+Total available moisture in the root zone =9.5×60
+100=5.7 cm 
+Net depth of irrigation  =5.7×50
+100=2.85 cm 
+(Refer Slide Time: 38:39)  
+ 
+Depth of water pumped per application  =𝑁𝑒𝑡  𝑑𝑒𝑝𝑡 h 𝑜𝑓 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  
+𝑊𝑎𝑡𝑒𝑟  𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛  𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦  = 2.85
+0.75=3.8 cm 
+Irrigation period  =2.85
+0.5=5.7, say 6 days  
+To cover the field in 6 days the system must be able to pump and discharge  
+=3.8×8
+6=5.06 ha-cm per day  
+The pump capacity, Qsys 
+From Equation (2)  
+𝑄𝑠𝑦𝑠=2780  8×2.85
+6×15×75=9.4 lps 
+So, this is all for  this lecture , mostly in this lecture we focused on sprinkler irrigation the 
+simple design . The sprinkler  system consists of a water source pump mainline , sub mains , 
+laterals , sprinklers . And then other components like a filtration system, valves , air vents , 
+etc. Basically in the sprinkler irrigation system , our focus is to irrigate the crop to meet the  
+evapotranspiration demand or its  consumptive use . Lets us say  today the 
+evapotranspiration is 8 mm per day . So, your sprinkler system should apply  that much 
+water on the field , every  day you need to operate the  system . In this simple design , the 
+discharge at each sprinkler , lateral spacing , main spacing , pump capaci ty and power 
+required to operate the pump  are studied. P umping from the  source of water  to the sprinkler 
+head  required some  mechanical work to lift water from source to this sprinkler head . So, 
+during that process , we need to consider the total head . If you have a suction on , that means  
+the source is below the pump central line you have the suction  component  so, you consider 
+that head and their corresponds friction head ; and then  the head in the lateral pipes and 
+mains  and head at the sprinkler head  riser pipe and operating the sprinkler . So, all together 
+combines the total pumping head and when you multiply that with the system capacity , it 
+will give the power required to pump the discharge to  the sprinkler system . 
+Thank you  so much . 

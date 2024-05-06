@@ -1,0 +1,280 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ Lecture – 22 
+Sprinkler Irrigation: Hydraulic Design  
+Hi, welcome to lecture number 22 which  is on the Hydraulic  Design of Sprinkler Irrigation 
+System . In the previous lecture , we studied  the simple design of  the sprinkler irrigation 
+system s. Now , we will focus more on  hydraulics and how to design the whole system . For 
+example,  the design of the nozzle , design of riser pi pe, design of lateral , design of main 
+and sub -main , and pumping system , we are going to see the design of all components in 
+this lecture . 
+(Refer Slide Time: 00:56)  
+ 
+Since the water is ejected from  the orifice  so, we will be  using the orifice equ ation h ere 
+for sprinkler  nozzle design . The discharge of the sprinkler nozzle  is given as follows:  
+𝑄=𝐶𝑎𝑐√2𝑔h 
+Where, Q = Discharge,  m3/s; ac=  Cross -sectional area of the nozzle or orifice, m2; g = 
+Acceleration due to gravity,  m/s2; h = Pressure head, m; C = Coefficient of discharge 
+which is a function of friction and contraction losses (varies from 0.95 to 0.96, for good 
+nozzles)  
+So, putting all the se values we get the discharge from the nozzle . 
+(Refer Slide Time: 02:08)  
+ 
+The above equation will be us ed for designing the dimensions of the nozzle . For example,  
+by knowing the discharge , the head and the correction factor , you can estimate the area of 
+cross -section , ac. And since the orifice  is circular  so, Area, 𝐴=𝜋
+4𝐷2 where D is the 
+diameter of the orifice and D can be estimated . Next is the water spread area of the 
+sprinkler . 
+(Refer Slide Time: 02:53)  
+ 
+Suppose th ere is a sprinkler and the water spread area is going to  project  in a parabolic 
+shape  from the side view , but if you see the top view  it is circular , this circular shape 
+represents  the wet spot  area. The water spread area can be calculated using the Cavazza  
+formula for rotating head sprinkler which is given as follows:  
+𝑅=1.35√𝑑ℎ 
+Where, R = Radius of  wetted area, m; d = diameter of the nozzle, m; h =  pressure head at 
+the nozzle, m. So, knowing the  diameter of the nozzle  and pressure head at the nozzle  we 
+can find out the diameter of the  wetted spot . The maximum coverage is attained when the 
+jet emerges at an angle of  320 angle s. This jet angle is generally 30 to 320 and most rotating 
+sprinkler s are standardized at 300 to get  maximum coverage . 
+(Refer Slide Time: 04:38)  
+ 
+Next is the index of the jet breakup , this is ve ry important because  it ensure s the wetting 
+of the irrigated area. S uppose , if there is no breakup of jet and there are 2 lines or  2 jets 
+taking place on ly from the nozzle then  the middle part  between the two jets will be a dry 
+spot and then the wetting front will not be uniform . Hence the breakup is very important 
+to apply  water  uniformly  on the surface just like rainfall . The equation for the index of jet 
+breakup is , 𝑃𝑑= ℎ
+(10𝑄)0.4 
+(Refer Slide Time: 05:52)  
+ 
+Where h is the pressure at the sprinkler head  and Q is the discharge of the sprinkler .  
+Pd > 2, the condition of drop size is good.  
+Pd = 4, the condition of drop size is the best.  
+Pd > 4, the pressure is being wasted.  
+The w ater application rate is another  parameter we need to consider . 
+(Refer Slide Time: 06:40)  
+ 
+The w ater application rate is given as  𝐴=𝑄
+360×𝐴𝑊 
+Where, A = Water application rate, cm/h; A w = Wetted area of sprinkler, m2; Q = Rate of 
+application, lps . This is important while calculating the pump capacity and then pump 
+power and all those things . 
+(Refer Slide Time: 07:15)  
+ 
+Since sprinkler irrigation  is a pressurized  system ; obviously, we are going to expect  
+friction loss and other losses wh ile convey ing water from  the head  or main line to the last 
+sprinkler . So, let us see what are the pressure component s we consider when you estimate 
+the pressure at the main line. On the lateral , several sprinklers  are installed . In the image 
+above, you see the pressure at the mainline which will be Hn, and the pressure is not 
+uniformly distributed along the lateral. So, the pressure at the main is not equal to the 
+pressure at the last sprinkler . There are several factors which influence it, it  could be 
+friction inside the riser pipe or sprinkler head s and bends or other things . So, we need to 
+consider all these things to estimate Hn. 
+In the image above, there is Hr which is the head is due to  riser height th en there is  He 
+which head  is due to elevation , suppose  there is a n elevati on so, you have to pump  more  
+for the water  to reach the last sprinkler . Then after that, there is Ha which is the actual 
+pressure head in the pipe  or lateral  and the last one  is due to the friction head loss . We are 
+going to see all these things  while calculating the pressure head at the main because that 
+is important to calculate the power required to pump a particular discharge . 
+Hn = Head (pressure) at the main  
+Ha = Average head  
+Ho= Pressure at the farthest sprinkler  
+He= Maximum difference in elevation between the first and last sprinklers on the lateral  
+Hr = Riser height  
+Hf = Friction head loss  
+ (Refer Slide Time: 11:43)  
+ 
+Average head H a, for the design in a sprinkler line:   𝐻𝑎=𝐻𝑜+1
+4𝐻𝑓 
+  Where, Ho= Pressure at the sprinkler on the farthest end  
+ (Refer Slide Time: 12:37)  
+ 
+If the lateral is on nearly level land or the contour, the head (pressure) H n at the main is,   
+  𝐻𝑛=𝐻0+𝐻𝑓 
+By solving for 𝐻0 and substituting in 𝐻𝑛 equation and making allowance for differences 
+in elevat ion along the lateral,  
+Hn= Ha+3
+4Hf+3
+4He+Hr 
+Where, He - Maximum difference in elevation between the first and last sprinklers on the 
+lateral, m;  Hr - Riser height, m. The term 3
+4He is positive if the lateral run up the slope; 
+negative if it runs down the slope  
+ (Refer Slide Time: 13:59)  
+ 
+Mainline pipe size - the function of the main line is to convey water to the  sub mains and 
+the laterals and finally to the sprinkler s. Generally,  allowable  Hf in the main line is 3 m for 
+small systems  and 12 m for large system s. The friction loss  in the pipe material is estimated 
+using th e following  equation . 
+  𝐻𝑓= 𝐾×𝑐×𝐿×𝑄𝑚
+𝐷2𝑚−𝑛𝐹 
+Where, L = Length of pipe (m, ft); g = acceleration due to gravity (9.81  m/s2); K s = for 
+pipe material from standard table; K = Friction factor that depends on pipe material; Q = 
+Flow rate (l/min, gpm); D = Diameter of pipe (mm, in); F = Friction factor (F = 1 if there 
+is no ou tlet between up and downstream locations along pipe . So, the pipe is fully flowing, 
+but there is no outlet here so obviously, we need not estimate any friction factor because  
+the fluid is not going to move anyway so, friction will be 0 . 
+c, m, n and K are values obtained from the table  given in the above slide which is  based 
+on the particular equation  we use. There are  three kind s of equation s like Darcy-Weisbach 
+equation , Hazen-William equation and Scobey equation , for different equations th e c, m, 
+n and K value s are different ; you can  use the same equation  but the values are different .  
+(Refer Slide Time: 16:08)  
+ 
+Next is so, how to estimate this F value, F  can be determined as follows : 
+When the distance from the pipeline to the first outlet equals the outlet spacing  
+  𝐹= 1
+𝑚+1+1
+2𝑁+√𝑚−1
+6𝑁2 
+When the distance to th e first outlet is half of the outlet spacing  
+ 𝐹=1
+2𝑁−1+2
+(2𝑁−1)𝑁𝑚(∑(𝑁−𝑖)𝑚𝑁−1
+𝑖=1) 
+Where, m and n = appropriate m and n values in Head loss equations Table (previous 
+slide); N = Number of sprinklers . So, this way you get  capital F value  and then finally, 
+once you estimate the head present in the main line and the total  discharge capacity of the 
+system  then the pumping capacity or pump power will be estimated . 
+(Refer Slide Time: 18:09)  
+ 
+Pumps and power units  - the maximum total head against  which  the pump is working  is  
+𝐻𝑡=𝐻𝑛+𝐻𝑚+𝐻𝑗+𝐻𝑠 
+Where, 𝐻𝑡=Total design head against which the pump is working, m;  𝐻𝑛= Maximum head 
+required at the main to operate the sprinklers on the lateral at the required average pressure, 
+including the riser height, m;  𝐻𝑚 =Maximum friction loss in the main and in the suction 
+line, m;  𝐻𝑗= Elevation difference between the pump and the junction of the lateral and the 
+main, m;  𝐻𝑠= Suction head (elevation difference between the pump and the source of the 
+water after drawdown,  m 
+ (Refer Slide Time: 20:01)  
+ 
+So, considering all these things  you can estimate  what is the head at the pump outlet , what 
+is the head at which we are going to pump from the  water source that is Ht total and 
+knowing Ht and discharge  Q, you can estimate the pump power , P. 
+𝑃=𝐻𝑡×𝑄
+76 
+Where Ht is in meters and Q in lps.   
+(Refer Slide Time: 20:52)  
+ 
+The above slide presents the tables available to find out  what is operating  pressure  by 
+knowing the spacing between the sprinklers and main line and sprinklers and laterals and 
+you can also know the application rates . This table will be different from manufacture to 
+manufacture . The above table is  obtained from M/S NOCIL  Akola, Maharashtra  
+manufacture . 
+In the table , you can see two nozzle size s are given  since  there are the two  nozzle  outlets 
+one is the range outlet and the other is the spread outlet  in case of  regular sprinkler or  
+rotating head sprinkler . A nozzle diameter and operating pressures are given for this 
+particular  sprinkler  and then the diameter of the spray is given and the n correspond ing 
+discharge is given and application rates are based on the spacing . Different nozzles  will 
+give different operating pressures and the discharg e can be calculate d from the  application 
+rates . The fir st table is for high -pressure models and the other is for low-pressure  models . 
+(Refer Slide Time: 22:54)  
+ 
+Design a sprinkler irrigation system to irrigate 5 ha Wheat crop;  Assume the following  
+ Soil type= silt loam  
+Infiltration rate at field capacity     = 1.25 cm/hr  
+Water holding capacity                    = 0.15  
+Root zone depth                                = 1.5 m  
+Daily consumptive use rate              = 0.6 cm/d  
+Sprinkler type                                   = Rotating over head  
+(Refer Slide Time: 23:35)  
+ 
+Solution:  
+ Step I  
+ Total water holding capacity of the soil = 0.15 x 1.5 = 22.5cm  
+ Let the water be applied at 50% depletion, hence the depth of water to be applied  
+= 0.50 x 22.5 = 11.25cm  
+(Refer Slide Time: 24:31)  
+ 
+Step II  
+Let the water application efficiency b e 90 % 
+Depth of water to be supplied = 11.25 / 0.9 = 12.5 cm  
+  
+(Refer Slide Time: 25:51)  
+ 
+Step III  
+ For daily consumptive use rate of 0.60 cm  
+ Irrigation interval = 11.25 / 0.6 = 19 days  
+ In a period of 19 days, 12.5 cm of wat er is to be applied on an area of 5 ha. Hence assuming 
+10 h of pumping per day, the sprinkler system capacity would be  
+  =5×104×12.5×10−2
+19×10×3600            = 0.009 m3s-1 
+(Refer Slide Time: 27:18)  
+ 
+Step IV  
+ Take Spacing of lateral ( Sm) = 18 m  
+ The s pacing of Sprinklers in lateral ( Sl) = 12 m  
+ This selection is made after considering the following:  
+Operating pressure of nozzle         = 2.5 kg/cm2 
+Maximum application rate             = 1.25 cm/h  
+(Refer Slide Time: 27:56)  
+ 
+We can visit the table  earlier h ere.  
+From the manufacturer’s M/S NOCIL, Akola chart ,  
+For the spacing of 12 ×18, Nozzle size:  5.5563 x 3.175 mm  
+Operating pressure:  2.47 kg/cm2 and  
+The corresponding application rate for 12×18 spacing is:  1.10 cm/hr (which is less than 
+the maxi mum allowable application rate)  
+Because we know the application rate at the field capacity or the infiltration rate at the 
+field capacity. The diameter of coverage is:  29.99 ≈ 30.0 m  
+Discharge of the nozzle: 0.637 lps = 0.637 x 10-3 m3/s 
+ (Refer Slide Time: 29:59)  
+ 
+Step V  
+Total no. of sprinklers =  0.009/0.000637 ≈ 14 sprinklers  
+Therefore 7 no. of sprinklers on each lateral.  
+Step VI  
+The sprinklers will be spaced at 12 m intervals on each of two lateral lines spaced 18 m 
+apart.  
+Step VII  
+Total length of e ach lateral = 12 x 7 = 84 m  
+ 
+ (Refer Slide Time: 30:41)  
+ 
+Next is  the maximum allowable pressure variation .  
+Maximum allowable pressure variation = 0.2 x 2.47 = 0.494 kg/cm2 = 4.94 m  
+Variation of pressure due to elevation = 2m  
+Permissible head loss due to friction = 4.94 – 2 = 2.94 m  
+Total flow through the lateral = 7 x 0.637 x 10-3 = 4.459 x 10-3 m3/s 
+Considering DW (friction head) Eq.  
+Reduction factor (F) = 1
+3+1
+2×7+1
+6×72 = 0.333 + 0.071 + 0.0034 = 0.407  
+Head loss due to friction  (Hf)=0.811×0.04×277778×84×(4.459×60)2
+9.81×D5 ×0.407 
+2.94=0.811×0.04×277778×84×(4.459×60)2
+9.81×D5×0.407 
+Hence diameter of lateral = 60 mm  
+The head required to operate the lateral lines ( 𝐻𝑚) = 24.7 + 2.94 + 2 + 1 = 30.6 m  
+ (Refer Slide Time: 33:20)  
+ 
+Mainline:  
+Frictional head loss in the main pipe line (𝐻𝑓) = 30.6 x 0.2 = 6.12m (20%)  
+ Calculating in the same way as done in case of lateral  
+                                 6.12=0.811×0.04×277778×84×(4.459×60)2
+9.81×D5 ×0.407    or D = 69.10 ≈ 70mm  
+Total design head (H) = Hm+Hf +Hj +Hs 
+Where, Hj = Difference in highest junction point of the lateral and main from pump level 
+= 0.5 (assume)  
+Hs = Suction lift (20 m, assume)  
+     H = 30.6 + 6.12 + 0.5 + 20 = 57.22m  
+ The pump has to deliver 0.009 m3/s of water against a head of 57.22 m  
+Hence, the cap acity of power unit for a pump with 60% efficiency  =0.009×57.22×103
+0.6×75 
+= 11.44 hp  
+So, this way  we can design the sprinkler irrigation system 's main components  from the 
+pumping system to the sprinkler  head . The main components here are  knowing the soil 
+type, intake rate and crop type , we will be  estimating the application rates . Knowing the 
+application rate  and using the chart you will be deciding  what would be the spacing  and 
+from the spacing we are going to estimate the length , using the other head losses , friction 
+losses elevation head and riser pipe height . 
+So, we can estimate the  head loss  present in the lateral , head loss in main  and you will be 
+estimating the diameter using the Darcy-Weisbach equation , Hazen-William equation , or 
+Scobey equation . So, knowing  the diameter , length and number of sprinklers  and the total 
+head in the system you will be estimating the power required to operate the whole sprinkler  
+system . 
+Thank you . 

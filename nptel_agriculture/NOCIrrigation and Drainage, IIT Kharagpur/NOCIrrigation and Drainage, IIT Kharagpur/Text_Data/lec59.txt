@@ -1,0 +1,395 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapall i 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 59 Irrigation Economics  
+In the previous l ectures we have talked about the economics of drainage project and now we 
+are going to cover Irrigation Economics in this lecture  
+(Refer Slide Time: 00:29)  
+ 
+Economics is the fundamental decision criterion of irrigation and drainage engineering. So, 
+engineering economics analysis uses the  project life and expected rate of returns to compute 
+the expected present and future cost and benefits of the proposed irrigation and drainage 
+system. So, knowing the project period and rate of return and you are going to bring both cost 
+and benefits to t he present value and compare. And, see whether it is beneficial to invest in this 
+particular irrigation project or not and we are going to compute the cost -benefit ratio and also 
+net present value. We are going to compute, these two indicators in irrigatio n economics as 
+well as drainage economics. So, if the system is profitable at the required rate of return then 
+the decision is made to invest in the system.  
+So, this is the overall project, but individually or seasonally if you want to estimate the cost o f 
+production, we need the crop water production functions with water and energy cost 
+information to enable us to calculate the optimum depth of water applications. This is not only 
+to estimate the production cost but also to estimate the economic depth of water to be applied. 
+So, that the yield and profit will be maximum.  
+ 
+ (Refer Slide Time: 02:38)  
+ 
+In the crop water production functions here , for example, the crop yield is a function of water 
+applied during the cropping season. So, for example, in the  first figure above , if you see the 
+applied depth of water , as well as ET,  are on the x-axis and then the cotton yield that is called 
+lint yield in kg /ha is in the y-axis. 
+ In these graphs , there are two curves : one represents the ET and the other one is applied  water.  
+So, here for a particular applied depth of water  the ET-based irrigation results in the maximum 
+lint yield as compared to the water applied in the field , which  means, it has some losses from 
+this total water or  the gross water applied in the  field. So, that includes pre -irrigation and other 
+losses like runoff, de ep percolation all other losses.   
+Then in figure 2 above you see the profit on the y-axis and depth of water applied on the x-
+axis. So, if you see the crop price , it contains two comp onents , and when you subtract the water 
+price from the crop price you get the profit.  
+From the profit graph /curve  you can see at what depth the profit is maximum. So, for example , 
+at 70 depth of applied water , the profit is maximum. So that means, the 70 centimeter of water 
+needs to be applied to get the economic yield and also the maximum  profit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 04:50)  
+ 
+And the next we are going to see  is the crop production functions,  given  by Grimes and El -Zik, 
+1990 , especially for cotton. So, here Y a is the actual yield in kg/ha which is given as follows  
+𝑌𝑎=−3954 +1067  (𝐴𝑊 𝑒)0.5−54.14(𝐴𝑊 𝑒) 
+So, this relationship is obtain ed from the experiments and AW e represents the applied water in 
+field experiments  measured in c m. Sometimes  irrigation is often supplemented by precipitation, 
+so during precipitation , you do not have to give irrigation  and you  need to add that precipitation 
+or effective precipitation  (Pe) in applied water then the production function  is 
+𝑌𝑎=−3954 +1067 (𝐴𝑊 𝑒+𝑃𝑒)0.5−54.14(𝐴𝑊 𝑒+𝑃𝑒). 
+So, (Aw e + Pe) is the total water applied in the above equation are obtained from the field 
+experiments.  
+(Refer Slide Time: 06:22)  
+ 
+These production function what we have obtained is based on 90 % irrigation efficiency, then 
+the relationship between the gross depth of irrigation water applied  (AW)  and AW e is as follows  
+𝐴𝑊 = 𝐴𝑊 𝑒
+[100 −(90−𝜂)]
+100  
+or 
+𝐴𝑊 𝑒=𝐴𝑊 −𝐴𝑊(0.9−𝜂) 
+We assume that the experimentally determined AW is related to 90 % irrigation efficiency. So, 
+η is the irrigation efficiency  of the actual  field irrigation system which is in fraction . 
+Pre-irrigation may be needed to germinate the crop , this pre - irrigation also comes under gross  
+irrigation depth, most of this water is o ften wasted as leachate or runoff. Then the adjusted 
+gross water depth applied to the field is  
+𝐴𝑊 =𝐴𝑊 𝑒
+[100 −(90−𝜂)]
+100+𝑝𝑟𝑒 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  
+So, AW is the gross water depth  applied to the field for  a particular crop, whereas, AW e is the 
+depth of w ater or actual depth of water applied to the crop during the experiments.  
+(Refer Slide Time: 08:23)  
+ 
+Irrigation cost /water cost is normally calculated on a volume basis, that is in m3 or ac -ft or ha-
+cm, if the unit of applied water  is cm  then the cost of water  (WC)  in $/ha is given as follow  
+𝑊𝐶($
+ℎ𝑎⁄)= $
+𝑚3⁄ ×100 ×𝐴𝑊 
+So, since we are looking for computing for 1 hectare. So, the centimeter is been converted into 
+meters by  multiplying with  100 since 1 hectare is 10,000  m2.  If only water c ost is considered 
+then profit  Pr ($/ha)  is calculated as.  
+ 
+𝑃𝑟= 𝑌𝑎×($
+ℎ𝑎⁄)−𝑊𝐶 ($
+ℎ𝑎⁄) 
+So, generally , profit is equal to production cost minus water cost . During the season when you 
+get the yield and the resale value of the yield or value of the yield minus the cost of water that 
+will give the profit only if you are considering the water as the cost.  
+The maximum profit can be found by setting the derivative.  
+𝑑(𝑃𝑟)
+𝑑(𝐴𝑊)=0 
+ The graph between AW and the profit is maximum  at one point where the derivative  will be 0. 
+So, that point will give  economic AW for which the profit will be maximum.  
+(Refer Slide Time: 10:43)  
+ 
+Example 59.1: Find the depth of applied water (AW) that results in  maximum profit with a drip 
+irrigation system for the cotton CWPF by Grimes and El -Zik (1990). Assume that 7.5 cm of 
+precipitation infiltrates during the growing season. The cost of water is $0.0327/m3. The selling 
+price of cotton is $0.92/kg. Assume that irrigation depth is 0 cm and AW = AW e. The drip 
+irrigation system efficiency is 90%.  
+Solution:   
+From Grimes and El -Zik (1990),            
+𝑌𝑎=−3954 +1067 (𝐴𝑊 +7.5)0.5−54.14(𝐴𝑊 +7.5), kg/ha 
+𝑃𝑟=$0.92×[−3954 +1067 (𝐴𝑊 +7.5)0.5−54.14(𝐴𝑊 +7.5)]−$0.0327 ×100 ×
+𝐴𝑊, $/ha 
+The m aximum profit is $925/ha, which is found at an applied depth of water 𝐴𝑊 𝑒= 79 cm  
+ 
+  
+(Refer Slide Time: 13:32)  
+ 
+Example 59.2:  
+Repeat Example 59.1 , but use the surface irrigation with 60 cm pre -irrigation and 60 % 
+efficiency.  
+Solution:  𝐴𝑊 =[𝐴𝑊 𝑒
+[100 −(90−𝜂)]
+100+60] 
+Profit ,  𝑃𝑟     =$0.92/𝑘𝑔×[−3954 +1067 (𝐴𝑊 𝑒+7.5)0.5−54.14(𝐴𝑊 𝑒+7.5)]−𝑊𝐶 
+Maximum profit ($623) is found at 𝐴𝑊 𝑒= 74 cm. The gross depth of water that is applied by 
+the irrigation system is:  
+ 
+Depth of water applied (AW)  =[𝐴𝑊 𝑒
+[100 −(90−𝜂)]
+100+60]=[74
+1−0.3+60]=166 cm 
+So, the annual benefit is decreased by approximately 300 dollars /ha. If you see th e profit  is 
+$623 and in the case of drip irrigation  in the previous question the profit is $923 so, the 
+difference  you get is around $ 300. And not only that, if you see the gross water depth also, 
+increased  to 166 c m as compared to the previous example which is around 7 9cm. So, this way 
+you can analyze if shifting from one irrigation into another irrigation is profitable or not  
+(Refer Sl ide Time: 16:34)  
+ 
+Environmental cost, previously we have only accounted for water cost, the environmental cost 
+is also very important. Suppose in the case of surface irrigation there is a lot of runoff and that 
+carries a lot of sediments from the field an d definitely , that pollutes the near water bodies. So, 
+that involves the cost because you are dumping non-points source pollutants into the freshwater 
+bodies.  So, if you consider that definitely , the profits will reduce. Erosion from the sloping 
+furrow irr igation system is used here as an example, The s ediment (kg/ha)is computed with th e 
+following  empirical equation  
+𝑆𝑒𝑑𝑖𝑚𝑒𝑛𝑡  (𝑘𝑔
+ℎ𝑎)=  103×(4.62×10−5𝑖3−7.84×10−3𝑖2+0.77𝑖−9.44) 
+Where i is the seasonal gross depth of water applied by the irrigation  system in cm .  The graph 
+shows the applied water depth on the x-axis and then sediment on the y-axis. So, increasing the 
+water depth yields more sediment that runoff from the field to the nearest water bodies.   
+The environmental cost (EnvC ) on a per hectar e basis is computed as dollar /ha and is given as  
+𝐸𝑛𝑣𝐶  ($
+ℎ𝑎)=$
+𝑘𝑔×𝑘𝑔
+ℎ𝑎 
+So, the dollar per kg is the cost of sediment which is be ing added to the fresh water in kg/ha is 
+the yield of sediment from the particular watershed or the irrigation system. The profit here is  
+𝑃𝑟𝑜𝑓𝑖𝑡 , 𝑃𝑟= 𝑌𝑎×($
+ℎ𝑎)−𝑊𝐶 −𝐸𝑛𝑣𝐶  
+ 𝑌𝑎 is the actual yield production, ($
+ℎ𝑎) is the total income you get at the end of the season, then 
+WC is a water cost and EnvC  is the environmental cost. So, the crop income minus water cost 
+minus environmental cost will be  the profit.  
+(Refer Slide Time: 18:55)  
+ 
+Example 59.3: Repeat Example 59.2 , but include the cost of erosion. The cost of erosion (land 
+degradation and sediment remova l from river water) is $0.2/(kg/ha).  
+Solution:  
+The actual depth of applied water is used to calculate the amount of erosion.  
+For example, the irrigation depth at AW e = 64 cm is  
+𝑖= [𝐴𝑊 𝑒
+1−(0.9−0.6)]+60 = [64
+1−(0.3)]+60=151 cm 
+𝑆𝑒𝑑𝑖𝑚𝑒𝑛𝑡  (𝑘𝑔
+ℎ𝑎)
+=  103
+×(4.62×10−5×1513−7.84×10−3×1512+0.77×151 −9.44)
+=429𝑘𝑔
+ℎ𝑎 
+𝐸𝑛𝑣𝐶  ($
+ℎ𝑎)=0.2$
+𝑘𝑔×429𝑘𝑔
+ℎ𝑎=$86/ℎ𝑎 
+Using the above profit equation, maximum profit ($519/ha) is found at AW e= 64 cm with I = 
+151 cm. This example shows that the optimal economic depth of irrigation is generally reduced 
+when the environmental cost of irrigation is considered.  
+(Refer Slide Time: 21:57)  
+ 
+The production functions defined  earlier  have  been experimented  for a particular region, if you 
+want to translate that to a different region, or if someone wants to use the same production 
+functions in another region ; FAO (Food and  Agriculture Organization ) has, given a procedure 
+or linearized the actual p roduction function. So, that anybody can use the production function. 
+So, here , for example, the applied depth of water on the x-axis and lint yield on the y-axis. The 
+actual curve  for water production curve  is linearize d as shown above . So, how to transla te this 
+particular curve into a linear curve? or linearization of this particular curve. So, two points were 
+selected on the curve which form s a straight line that has a slope.  And,  ∆Y by ∆AW will be the 
+slope of this particular line. And, knowing any point  on the curved  and knowing the slope you 
+can find out the line equation. So, let us see  that. 
+(Refer Slide Time: 23:29)  
+ 
+𝑌𝑎= 𝑦𝑚𝑎𝑥 [1−%∆𝑌
+%∆𝐴𝑊((𝐴𝑊 𝑟𝑒𝑞−𝐴𝑊 𝑒)
+𝐴𝑊 𝑟𝑒𝑞)] 
+Where ∆𝐴𝑊= change in applied water (percent or fraction);  ∆𝑌= Change in yield (percent or 
+fraction); 𝑦𝑚𝑎𝑥 = yield with under no stress, kg/ha;  𝐴𝑊 𝑟𝑒𝑞= applied water depth with no yield 
+reduction, cm  
+Proof  
+𝑆𝑙𝑜𝑝𝑒  (𝑚) =∆𝑌
+∆𝐴𝑊  
+Equation of a line passing through a point, A (Aw req, Y max) 
+(𝑌−𝑌1)=𝑚(𝑋−𝑋1) 
+(𝑌−𝑌𝑚𝑎𝑥)=∆𝑌
+∆𝐴𝑊(𝐴𝑊 𝑒−𝐴𝑊 𝑟𝑒𝑞) 
+𝑌=𝑌𝑚𝑎𝑥 +∆𝑌
+∆𝐴𝑊(𝐴𝑊 𝑒−𝐴𝑊 𝑟𝑒𝑞) 
+or 
+𝑌=𝑌𝑚𝑎𝑥 −∆𝑌
+∆𝐴𝑊(𝐴𝑊 𝑟𝑒𝑞−𝐴𝑊 𝑒) 
+=𝑌𝑚𝑎𝑥 [1−∆𝑌
+∆𝐴𝑊(𝐴𝑊 𝑟𝑒𝑞−𝐴𝑊 𝑒
+𝑌𝑚𝑎𝑥) ] 
+𝑌=𝑌𝑚𝑎𝑥 [1−∆𝑌
+𝑦𝑚𝑎𝑥
+∆𝐴𝑊
+𝐴𝑊 𝑟𝑒𝑞×𝐴𝑊 𝑟𝑒𝑞(𝐴𝑊 𝑟𝑒𝑞−𝐴𝑊 𝑒) ] 
+𝑌=𝑌𝑚𝑎𝑥 [1−%∆𝑌
+%∆𝐴𝑊(𝐴𝑊 𝑟𝑒𝑞−𝐴𝑊 𝑒
+𝐴𝑊 𝑟𝑒𝑞) ] 
+Finally, you get the equation for linearized curve equation or equation of the line which is 
+equivalent to the curve.  
+(Refer Slide Time: 25:16)  
+ 
+Example 59.4: Calculate cotton yield. The required depth of applied water in a region is 100 
+cm, actual applied water depth is 80 cm, and the maximum yield is 1180 kg/ha.  
+Solution:  𝐴𝑊 𝑒= 80 cm ;  𝑦𝑚𝑎𝑥= 1180 kg/ha;  𝐴𝑊 𝑟𝑒𝑞= 100 cm  
+From the cotton CWPE;  
+From the graph;  
+%∆𝑌
+%∆𝐴𝑊= 1161 −641
+1161
+100 −40
+100 =0.746 
+(Refer Slide Time: 28:08)  
+ 
+Example 59.5: There is a 10 % yield loss due to pests, 10 % yield loss due to salinity , and the 
+depth of applied water to sugar beets is 90 % of that required. The m aximu m sugar beet yield 
+is 40 t/ha. What is the yield of sugar beets?  
+Solution:  
+Use the above procedure Example 59.4 for finding the yield and % reduction due  to water stress  
+𝑌𝑎=40[1−0.75(100 −90
+100)]=37 t/ha 
+ % yield reduction due to water stress  
+37
+40×100  =93%  
+𝐸𝑥𝑝𝑒𝑐𝑡𝑒𝑑  𝑦𝑖𝑒𝑙𝑑  = 40𝑡
+ℎ𝑎(0.93×0.9×0.9) 
+=30 𝑡/ℎ𝑎 
+ 
+ 
+ 
+(Refer Slide Time: 29:57)  
+ 
+Next is engineering economics  so whatever we have learned  in the previous slides is to estimate 
+the economics or the profit for a particular season  and now you can see whether investing in 
+such an irrigation project is profitable or not. Engineering economics analysis will help to 
+decide whether to invest or not. So, it combines the present that is the capital investment and 
+future benefits th at is the crop yield, a nd other benefits and costs  which involves  water cost, 
+crop yield, energy cost , and labor costs, this  is the  cost-benefit ratio. So, this is very important 
+as stated at the beginning of the lecture that there are two indicators: one is a net present value 
+and then  the cost-benefit ratio.  
+So, knowing the magnitude of these values definitely will help to decide  whether investing in 
+a particular project is beneficial or not.  Such as  whether conversion to pressurize system will 
+ultimately result in a greater p rofit or not. So, conversion to a pressure system may result in 
+lower water cost and greater yield, but higher energy cost or capital cost. Because it has other 
+components as well as a pump and all other components and that is not requir ed in the case of 
+a surface irrigation system. So, this always tradeoff  between the yield as well as the costs.  
+So, it does this by converting all future costs and benefits to the present value based on the time 
+value of the money. For example , if you are putting some money into a particular  project and  
+the benefits you are expecting for example,  in 10 years or 20 years  is 10,000 dollars . So, I 
+calculate; the present value of the particular benefit and the present cost, so then the compare 
+with the present cost and benefits. And finally, it says whether investing  in this particular 
+project is worth it or not.  
+ 
+ 
+(Refer Slide Time: 32:34)  
+ 
+The required rate of return is the terminolog y we use for the interest rate that a company expects 
+to earn on investments. So, this interest rate is the required rate of returns. In engineering 
+economic analysis, if a proposed project returns a profit at the required rate of return, even if 
+the profit is only one dollar, then the decision is made to invest in the project.  So, this is the 
+thumb rule or common sense that if you are getting a profit of one dollar you go and invest in 
+the project. The future value (F) of money is calculated with the following formula;  
+𝐹=𝑃 (1+𝑖)𝑛  
+ Where   P is the present value and i is the interest rate, n is the number of years and F is the 
+future  value.  
+(Refer Slide Time: 33:35)  
+ 
+Example 59. 6:  If $1.00 is placed into an account for 5 years at an interest rate of 6 %, then the 
+value in 5 years is  
+𝐹=𝑃 (1+𝑖)𝑛  
+𝐹=$1.00× (1+0.06)5  
+=$1.34 
+On the other hand, money that is received in 5 years is not worth as much as it is today and 
+should be discounted.  The present value of money received in the future is  
+𝑃= 𝐹
+(1+𝑖)𝑛 
+In week 11 lecture number 4 we used discounting factor  so the same kind of concept we will 
+be using in irrigation also. So, if you know the expect ed values in the future, you can also 
+calculate  the value  in the present.  
+(Refer Slide Time: 34:37)  
+ 
+Example 59.7:  The expected annual income from a project is $500/yr  for 5 years, and the 
+project requires a $2,000 investment. Determine whether or not to invest in the project at two 
+required rates of return: 6 % and 8 %.  
+Solution:  
+The net present value at a 6 % required rate of return:  𝐹=𝑃 (1+𝑖)𝑛   or 
+      𝑃= 𝐹
+(1+𝑖)𝑛  
+𝑃= 500
+(1+0.06)1  + 500
+(1+0.06)2 +500
+(1+0.06)3 + ………+500
+(1+0.06)5  
+ 
+𝑃=472 +445 +419 +396 +373 =$2106 .1 
+Net presence value = present value of five years expected income -investment  
+Net presence value = 2106.1 -2000 =$106 .1 
+Net presence value = $106 (>0; invest in the project)  
+Investing 2000, you get 106.1 dollar s if you are goi ng with a 6 % interest rate. And since it is 
+greater than 0 you have to invest in the project.  
+(Refer Slide Time: 36:17)  
+ 
+Similarly , you can estimate the present value of the worth of the benefits with a n 8 % interest 
+rate. So, in the same formula , you get this is the present value of benefit at the first year, present 
+value of the benefit of the second year, present value of income in  the third year. So, like there 
+it goes.  
+𝑃= 500
+(1+0.08)1  + 500
+(1+0.08)2 +500
+(1+0.08)3 + ………+500
+(1+0.08)5  
+𝑃 = 463  + 429  + 397  + 367  + 340   
+Net presence value = present value of five years expected income -investment  
+Net presence value = 463 + 429  + 397  + 367  + 340 −2000   
+𝑁𝑒𝑡 𝑝𝑟𝑒𝑠𝑒𝑛𝑡  𝑣𝑎𝑙𝑢𝑒  =−$4 (<0; do not invest  @ 8%) 
+So, the net present value is equal to the present value of 5 years expected income minus 
+investment. So, that will be negative , in the sense you do not invest at 8 %. So, if you are 
+investing at 6 % that is profitable , and do not invest at 8 %. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 37:08)  
+ 
+The table above  gives the typical annual maintenance cost percentage for an irrigation system  
+which will be useful while calculating the economics of the irrigation system.  
+(Refer Slide Time: 37:25)  
+ 
+Example 59.8  Determine  the present value of the income from alfalfa 6 years from now at a 
+required rate of return of 7 %. (1) Assume no inflation. (2) Assume inflation of costs of 5 % 
+per year and no inflation in the selling price of alfalfa. The present value of alfalfa produc tion 
+is $631/acre -yr. Operating expenses are $321/acre -yr  
+Solution:  
+1. No inflation: first you consider the no inflations.  
+Inflation in the sense, if you have a particular value of an asset that value will increase over the 
+period of time;  
+2. 𝑃𝑟𝑒𝑠𝑒𝑛𝑡  𝑣𝑎𝑙𝑢𝑒  𝑜𝑓 𝑦𝑒𝑎𝑟  6 𝑝𝑟𝑜𝑓𝑖𝑡  =($631 −$321 )×1
+(1+0.07)6=$207  
+3.  Costs inflate at a rate of 5% a year  
+𝐶𝑜𝑠𝑡𝑠  𝑖𝑛 𝑦𝑒𝑎𝑟  6:$321 ×(1+0.05)6=$430 /𝑎𝑐𝑟𝑒 P𝑟𝑜𝑓𝑖𝑡  𝑖𝑛 𝑦𝑒𝑎𝑟  6:$631 −$430
+=$201 /𝑎𝑐𝑟𝑒  
+ The p resent value of year 6 profit (with inflation)  
+=$201 (1
+1+0.07)6
+=$134  /acre 
+ So, with inflation , you get 134 and without  inflation , you get 207 dollar s/ acre . 
+(Refer Slide Time: 39:34)  
+ 
+The c ash flow diagram indicates  the expected crop income and cost of a project  if you have 
+invested in a part icular project and expecting the benefit after 10 years, 20 years. So, you have 
+to bring the benefits to the present value and cost and then compare the cost-benefit analysis or 
+the net present value. So, all these three indicators in the cash flow diagram  will be judging 
+whether investing in a particular project, drainage , or irrigation project  is beneficial or not; 
+with the particular interes t and over the period of time .  
+This is all about irrigation economics.  So, in this lecture basically , we were looking into the 
+economics of the whole irrigation project as well as the individual seasonal benefits. So, 
+knowing the seasonal benefits by knowing the production cost, water cost , and then 
+environmental cost; you will be estimating the profits o f that particular year. So, then with that 
+profits and if you have invested in  a project  for 10 years; so every year you are expecting some  
+benefits. And using a cash flow diagram or discounting analysis  as economic indicators you 
+will be able to identify / judge whether investing in this particular project is worth or not.  Thank 
+you. 

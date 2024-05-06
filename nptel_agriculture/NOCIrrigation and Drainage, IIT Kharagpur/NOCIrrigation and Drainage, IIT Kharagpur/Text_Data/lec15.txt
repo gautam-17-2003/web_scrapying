@@ -1,0 +1,224 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 15 
+Tutorial  
+ 
+Friends  welcome to lecture number 15; this is week  3 so at the end of every week as  I said 
+we are going to  discuss some tutorial problems . 
+(Refer Slide Time: 00:37)  
+ 
+So before going to the tutorial,  in the previous  lecture we have learn about the water  
+measuring devices  and you clearly  see some head  differences , that difference could be due 
+to the friction loss or some other bends  or some abstractions , so how to estimate that head  
+differences ? Mostly the head  loss is due to friction or due to entrance  losses , due to bends  
+or head due to expansion  or contraction  etc. The major head  loss is mostly due to  the 
+friction  so for estimating friction  loss we have  two equations  Darcy -Weisbach equation  
+and Chezy ’s formula . So head  loss according to the Darcy -Weisbach  formula  is as follows:  
+ℎ𝑓= 4×𝑓×𝐿×𝑣2
+2×𝑑×𝑔 
+Where 𝑓= 16
+𝑅𝑒 for 𝑅𝑒<2000 (viscous flow)  or 𝑓= 0.079
+𝑅𝑒1
+4 for 𝑅𝑒 varying from 4000 to 106 
+Chezy’s formula  is:  
+𝑉=𝐶√𝑚𝑖 
+Where 𝑚=𝐴
+𝑃, 𝑖=ℎ𝑓
+𝐿; ℎ𝑓=loss of head due to friction, 𝑓=co-efficient of friction which is 
+function of Reynolds number, 𝐿=length of pipe, 𝑣=mean velocity of flow, 𝑑=diameter of 
+pipe, 𝑔=acceleration due to gravity, 𝐴=area of cross -section of pipe, 𝑃=wetted perimeter 
+of pipe, 𝐶=chezy’s constant, 𝑖=loss of  head per unit length of pipe.  
+(Refer Slide Time: 03:51)  
+ 
+There are some  minor head losses  also which  is due to the foll owing : 
+Sudden expansion of pipe  
+ℎ𝑒=(𝑉1−𝑉2)2
+2𝑔 
+Sudden contraction of pipe  
+ℎ𝑐=0.5𝑉22
+2𝑔 
+Entrance of pipe or exit of pipe  
+ℎ𝑖=0.5𝑉2
+2𝑔 or ℎ𝑜=0.5𝑉2
+2𝑔 
+An obstruction in pipe  
+ℎ𝑜𝑏=𝑉2
+2𝑔 (𝐴
+𝐶𝑐(𝐴−𝑎)−1)2
+ 
+Bend in pipe  
+ℎ𝑏=𝑘𝑉2
+2𝑔 
+So the above equation s can be used to find out the minor head losses  and you can also get 
+this minor head losses using the table which will be  discussed  in future  lectures  where we 
+will use a  nomograph ; and for a particular shape or particular  bend you can find out the 
+friction head loss for 100 meter  lengt h of the pipe .  
+(Refer Slide Time: 06:08)  
+ 
+So, let us solve  example  
+Exercise W3.1: Find the head loss due to friction in a pipe of diameter 300 mm and length 
+50m, through which water is flowing at a velocity of 3 m/s using i) Darcy formula and ii) 
+Chezy’s formula for which C= 60. Take kinematic viscosity ( μ)for water =0.01 stoke.  
+Solution:  
+d= 300 mm = 0.30 m, L=50 m, v =3 m/s, C = 60, μ =0.01 stoke = 0.01 cm2/s = 0.01×10-4 
+m2/s 
+i) Darcy formula  
+ℎ𝑓= 4×𝑓×𝐿×𝑣2
+2×𝑑×𝑔 
+𝑅𝑒= 𝑉×𝑑
+𝑣= 3×0.3
+0.01×10 -4=9×105 
+𝑓=0.079
+𝑅𝑒1
+4=0.079
+(9×105)1/4=0.00256  
+ℎ𝑓= 4×0.00256 ×50×32
+2×2×9.81=0.7828  𝑚 (Ans.)  
+ ii)       Chezy’s formula  
+𝑉=𝐶√𝑚𝑖 
+(Refer Slide Time: 08:05)  
+ 
+𝑚=𝑑
+4=0.30
+4=0.075  𝑚 
+3=60√0.075 ×𝑖 
+𝑖=0.0333  
+ 𝑖=ℎ𝑓
+𝐿 
+0.0333 =ℎ𝑓
+50 
+ℎ𝑓= 1.665 m (Ans.)  
+ (Refer Slide Time: 09:17)  
+ 
+Exercise W3.2:  A rectangular channel having bed slope of 0.05% and Manning's 
+roughness coefficient of 0.01 carries a discharge of 5 m3/s. If the channel is designed as 
+the most economical section, the width of the channel in meter will be ? 
+Solution:  
+Given,  S = 0.05% = 5×10-4, n = 0.01, 𝑄 =  5 m3/s 
+𝑄=𝐴×𝑉 
+𝐴=𝑊𝑖𝑑𝑡 ℎ (𝑏)×𝐷𝑒𝑝𝑡 ℎ(𝑑) 
+𝑉=1
+𝑛×(𝐴
+𝑃)2
+3
+×𝑆1
+2 
+𝑄=𝑏×𝑑×1
+𝑛×(𝑏×𝑑
+2𝑑+𝑏)2
+3
+×𝑆1
+2 
+(Refer Slide Time: 11:26)  
+ 
+For most economical channel section 𝑑=𝑏
+2 
+𝑄=𝑏×𝑏
+2×1
+𝑛×(𝑏×𝑏
+2
+2×𝑏
+2+𝑏)2
+3
+×𝑆1
+2 
+5=𝑏2
+2×1
+0.01×(𝑏
+4)2
+3
+×0.00051
+2 
+5=𝑏8
+3
+5.03×2.23 
+𝑏=2.48(Ans.)  
+ 
+ (Refer Slide Time: 12:10) . 
+ 
+Exercise W3.3:  A steady discharge of 60 m3/s is passing through a trapezoidal irrigation 
+channel with a bottom width of 5 m, bed slope of 0.01% and Manning’s roughness 
+coefficient of 0.025. The conveyance of the channel in m3/s is? 
+Solution:  
+ Given, Q = 60 m3/s, 𝑆𝑓= 0.01% =0.0001  𝑄=𝐴×𝑉 
+𝑄=𝐴×1
+𝑛 𝑅2
+3 𝑆1
+2, =K × 𝑆1
+2 ; where K= conveyance of the channel =𝐴×1
+𝑛 𝑅2
+3 
+𝑄=𝐾×√𝑆𝑓 
+60=𝐾×√0.0001  
+𝐾=6000  m3/s (Ans.)  
+ (Refer Slide Time: 13:42)  
+ 
+Exercise W3.4:  A 50 g/L solution of a tracer was discharged into a stream at a constant 
+rate of 20 mL/s. At a downstream section, the tracer was completely mixed and attained 
+an equilibrium concentration of 10 parts per billion. Assuming the background 
+concentration a s zero, the stream discharge is?  
+Solution:  
+Given,  𝐶1= 50 g/L ; 𝐶2= 10 ppb = .00001 g/L ; 𝐶𝑏= 0 g/L ;  𝑞= 20 mL/s = 20×10-6  m3/s 
+(Refer Slide Time: 16:26)  
+ 
+𝑄0= 𝑞(𝐶1 − 𝐶2)
+𝐶2 − 𝐶𝑏 
+𝑄0= 20×10 -6×(50−0.00001 )
+0.00001  −0=99.99 m3/s (Ans.)  
+ (Refer Slide Time: 16:45)  
+ 
+Exercise W3.5:  The discharge through a 900 V notch for a head of 0.5 m and coefficient 
+of discharge of 0.6.  
+Solution:  
+Given,  H = 0.5 m, C d = 0.6, 𝜃 = 900 
+𝑄=𝐶𝑑8
+15√2𝑔 𝑡𝑎𝑛𝜃
+2𝐻5/2 
+𝑄=0.68
+15√2×9.81 𝑡𝑎𝑛90
+20.55/2 
+𝑄=0.32×4.42×1×0.176 
+𝑄=0.25m3/s (Ans.)  
+(Refer Slide Time: 17:34)  
+ 
+Exercise W3.6 : A trapezoidal channel of 0.5 m bottom width 1:1 side slope in carrying 
+water at a depth of 0.4 m. If the channel slope in 1 in 400 and roughness co -efficient is 
+0.02, find the mean velocity.  
+Solution:   
+Given,             B = 0.5 m, Z = 1:1, d = 0.4 m, n=0.02   
+S = (1/400) = 2.5 × 10-3 
+Vm= ? 
+𝑇 = 𝑏+2𝑑 = 0.5+0.8=1.3 𝑚  
+𝐴= 1
+2 𝑑 (𝑏+𝑏+2𝑑) 
+𝐴= 1
+2 0.4 (0.5+0.5+2×0.4);  
+= 0.36 m2 
+𝑊𝑒𝑡𝑡𝑒𝑑  𝑝𝑒𝑟𝑖𝑚𝑒𝑡𝑒𝑟  (𝑝)= 𝑏 + √2 𝑑 
+= 0.5 + 1.1312 = 1.6312  m  
+𝐻𝑦𝑑𝑟𝑎𝑢𝑙𝑖𝑐  𝑅𝑎𝑑𝑖𝑢𝑠  (𝑅)= 𝐴
+𝑃= 0.36
+1.6312=0.221 m  
+𝑀𝑖𝑛𝑖𝑚𝑢𝑚  𝑉𝑒𝑙𝑜𝑐𝑖𝑡𝑦  (𝑉𝑚𝑖𝑛)= 1
+𝑛 𝑅2
+3 𝑆1
+2 
+= 1
+0.02 0.2212
+3 (2.510−3)1
+2 
+            = 0.9 m S-1 (Ans)  
+ (Refer Slide Time: 19:15)  
+ 
+So these are some of the  examples  which are  given in the competitive examinations like 
+GATE.  So, you can also try  few more examples in other textbo oks mentioned as reference 
+books . In this tutorial we focus ed the questions which are  on the basis of the water  
+measuring  structures . Initially we started with  some head losses  - friction head losses and 
+how to estimate  major head loss and minor head losses  like bends , enlargement , exit. 
+So, in the next lecture  we will be focusing on surface irrigation methods  sprinkler , drip 
+irrigation and those  the basic principles and then design principles and the work out 
+examples in the next  coming in the  2 weeks . 
+Thank you  so much . 

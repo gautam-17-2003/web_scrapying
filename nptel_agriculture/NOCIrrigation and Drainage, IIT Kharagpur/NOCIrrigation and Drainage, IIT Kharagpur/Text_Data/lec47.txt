@@ -1,0 +1,300 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 47 
+Subsurface Drainage  Design (Contd. ) 
+Hi, this is lecture number 47  which we will continue with the subsurface drainage design.  
+(Refer Slide Time: 00:25)  
+ 
+So, from the previous lecture using the Hooghoudt equation let us solve  an example.  
+Exercise 47.1:  
+Determine the required drain spacing for the basic design criteria q = 7 mm/d, H= 0.6 m, pipe 
+with OD = 0.2 m and u = 0.3 m  
+ 
+(Refer Slide Time: 02:11)  
+ 
+Trial and Error solution:  
+For first trial L = 40 m, with D = 3.0 m and u = 0.3m  
+We know  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+𝑑=𝐷
+8𝐷
+𝜋𝐿𝑙𝑛𝐷
+𝑢+1   𝑓𝑜𝑟 𝐷 > 𝐿/4 
+𝑑=𝜋𝐷
+8𝑙𝑛𝐿
+𝑢  𝑓𝑜𝑟 𝐷 < 𝐿/4 
+Since ,𝐿
+4=10;ℎ𝑒𝑛𝑐𝑒  𝐷<𝐿
+4 
+𝑆𝑜,𝑑=𝜋𝐷
+8ln𝐿
+𝑢 
+=𝜋×40
+8ln40
+0.3 
+= 2.15 m  
+𝐿2=4𝐾1ℎ2
+𝑞+8𝑑𝐾2ℎ
+𝑞 
+=4×2×0.42
+0.007+8×1×2.15×0.4
+0.007 
+𝐿= 34 𝑚 
+So, if you see the initial guess was 40 m and after calculation , you get 34 m. So, this is not the 
+same as the initial gu ess.  
+(Refer Slide Time: 04:23)  
+ 
+So, we are going to see another trial by changing the value of L  
+For the second trial L = 32 m,  
+We know  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+𝑑=𝐷
+8𝐷
+𝜋𝐿𝑙𝑛𝐷
+𝑢+1   𝑓𝑜𝑟 𝐷 > 𝐿/4 
+𝑑=𝜋𝐷
+8𝑙𝑛𝐿
+𝑢  𝑓𝑜𝑟 𝐷 < 𝐿/4 
+Since ,𝐿
+4=8;ℎ𝑒𝑛𝑐𝑒  𝐷<𝐿
+4 
+𝑑=𝜋𝐷
+8ln𝐿
+𝑢 
+=𝜋×34
+8ln34
+0.3 
+= 2 m  
+𝐿2=4𝐾1ℎ2
+𝑞+8𝑑𝐾2ℎ
+𝑞 
+𝐿2=4×2×0.42
+0.007+8×1×2×0.4
+0.007 
+𝐿=33 𝑚 
+So, the final solution is 33 m which is  very close  to the initial guess is 32.  So, the solution for 
+drain spacing  is 33 meter s. 
+(Refer Slide Time: 05:29)  
+ 
+The same problem can be solved using the graphical solution we can also see the graphical 
+solution here and  how this is different from the analytical solution . 
+The first  thing here is to f ind,  8𝐾2ℎ
+𝑞 𝑎𝑛𝑑  4𝐾1ℎ2
+𝑞     
+8𝐾2ℎ
+𝑞=8×1×0.4
+0.007 
+=457 
+4𝐾1ℎ2
+𝑞=4×2×0.42
+0.007 
+=183 
+Then you use  either of the  graph s shown in the slide above, So, let us consider the graph B 
+since we already known from the previous solution that L is 33 m so, in the graph B you locate  
+8𝐾2ℎ
+𝑞  that is 457.  
+And similarly , locate  4𝐾1ℎ2
+𝑞 that is 183  and D = 3 then you follow the line and you can see that 
+it is exactly hitting a point which indicate s that the drain spacing should be between 30 and 35  
+m. 
+So, if you do the linear interpolation you  will get L = 33 m eter which is the same as the previous 
+solution.  
+ 
+ 
+ 
+(Refer Slide Time: 07:07)  
+ 
+So, there are some notes on the Hooghoudt formula so, if you observe the formula  
+𝑞=8𝐾2𝑑ℎ
+𝐿2+4𝐾1ℎ2
+𝐿2 
+The spacing L is the same thing  if you write  
+𝐿2=8𝐾2𝑑ℎ
+𝑞+4𝐾1ℎ2
+𝑞 
+So, when do you expect L to increased?   
+The spacing ‘L’ increases when  
+ K increases  
+ q decreases  
+ D increases (less influence when L is small)  
+ h increases (increase of W or decrease of H)  
+These are observations from the formula,  so what is the influence of this? For example, if the 
+soil is permeable, it has more hydraulic conductivity which  means, you can increase the lateral 
+spacing in that case. So, here if you are expecting less q  or drainage discharge is low from the 
+area, then  if the recharge which is taking place is also low you can increase the lateral spacing. 
+So, h increases in the sense vertical flow are increasing, in that case , also you can increase the 
+spacing.  
+Simple Hooghoudt formula : When the drainage flow above the d rainage base is neglected  
+𝐿2=8𝐾𝑑ℎ
+𝑞 
+(useful when h is smaller or the stratum below the base is more favorable to drain)  
+Where a significant vertical flow is to be expected and relevant flow zone has a very low 
+hydraulic conductivity (h -hv), instead of h , should be used in the Hooghoudt equation  
+(Refer Slide Time: 11:07)  
+ 
+Then the limitations of the Hooghoudt equation  are  
+ Hooghoudt’s equation assumes an elliptical water table, which occurs below the soil 
+surface.  
+ Due to excess precipitation, the water table may rise to the soil surface, and ponded water 
+remains on the surface for relatively long periods.  
+ For such conditions, the application of Hooghoudt’s equation based on the D –F 
+assumptions will not hold.  
+ The streamlines will be concentrated ne ar the drains with most of the water entering the 
+soil surface in that vicinity.  
+ (Refer Slide Time: 12:09)  
+ 
+And the next is an estimation of equivalent depth, this is very important when you consider the 
+pipe drainage system to a deep ditch system by in troducing the equivalent depth concept.   
+ Hooghoudt’s (1940) equation for equivalent depth (d e)  
+𝑑𝑒=𝜋𝐿
+8ln𝐿
+𝜋𝑟0 
+ Van Beers equation for equivalent depth (d e) is (ILRI, 1973):  
+𝑑𝑒=𝐷𝑠
+1+8𝐷
+𝜋𝐿×8𝐷𝑠
+𝜋2𝑟0 
+ Moody  (1966 ) equation for equivalent depth (d e) is 
+𝑑𝑒=𝐷
+1+(𝐷
+𝐿)[8
+𝜋𝑙𝑛𝐷
+𝑟0−3.4)],   0<𝐷
+𝐿≤0.3 
+𝑑𝑒=𝐿
+8
+𝜋[𝑙𝑛𝐿
+𝑟0−1.15],       𝐷
+𝐿>0.3 
+Where r0 is the radius of drain; D is the drain depth; Ds is the thickness of the aquifer below 
+drain level  
+ (Refer Slide Time: 13:51)  
+ 
+So, then there is Donnan’s formula proposed for parallel drain spacing.  
+𝐿2=4𝑘
+𝑞[(𝐷+ℎ)2−𝐷2] 
+Solving for algebraic functions, the above equation reduces to  
+𝐿2=4𝑘ℎ2
+𝑞+8𝑘𝐷ℎ
+𝑞 
+which is similar to Hooghoudt’s equation.  
+ (Refer Slide Time: 14:33)  
+ 
+Let us revisit Ernst equation,  
+  It is applicable for two -layered soil profile having different K values  
+  The p osition of the  drain level may be above or below the interface of the two layers  
+  It considers the radial flow  
+  Kt < K b  
+Application of Hooghoudt Equation  
+ It is applicable for homogeneous soil and for two -layered soil  having different K values  
+  Drain level coincides with the interface of the two layers  
+  It does not allow radial flow towards the drain  
+ Kt > K b,  Kt is hydraulic conductivity for the top layer and Kb is for the layer below  
+(Refer Slide Time: 16:29)  
+ 
+So, in the case of the Ernst equation, the total hydraulic head required h is  
+h= h v+hh+ h r 
+So, that if you combine all these, you know the vertical, horizontal , and radial. So, this equation 
+becomes  
+ℎ=𝑞(𝐷𝑣
+𝐾𝑣+𝐿2
+8∑(𝐾𝐷)ℎ+𝐿
+𝜋𝐾𝑟ln𝑎𝐷𝑟
+𝑢) 
+Where D o or (D o+D 2) & D r ≤ L/4  
+Dv = thickness of the layer through which vertical flow occurs;  
+= y+h for open ditch; = ‘h’ for pipe drain  
+Dh= average thickness of the layer through which horizontal flow takes place  
+Dr = thickness of the layer through which radial flow takes place  
+The image in the slide above shows the drain and water table  and there is a horizontal  K, K1 
+for the 1st layer and in the 2nd layer  K 2, the drain is installed at layer 1 . Dv indicates the 
+thickness of the layer through which vertical flow occurs.  And horizontal flow Dh is 
+concentrating in both layers . 
+These depths are very important and y is the water level in the drain.  
+(Refer Slide Time: 18:49)  
+ 
+Where,  
+D1 = avg. the thick ness of the top layer below the water table with permeability K t  
+D2= thickness of the bottom layer with permeability K b  
+D0 = thickness below drain level up to the interface of both the layers/impermeable layer in 
+which the drains are located.  
+ a = geome try factor of radial resistance  
+u =wetted perimeter of the drain  
+About ‘u ’ 
+ pipe drains run half full. So,  
+𝑢= 2𝜋𝑟0
+2=𝜋𝑟0 
+(Refer Slide Time: 20:15)  
+ 
+ For open ditch with trapezoidal cross -section, 𝑢=𝑏+2𝑦√𝑍2+1 
+ Pipe drains in a trench, 𝑢=𝑏+2𝑟0 
+ Pipe drains surrounded by an envelope, 𝑢=𝑏+2(2𝑟0+𝑚) 
+Where, b = bottom width; y = depth of water in the drain ; z = side slope of the drain ; m =height 
+of envelope over the pipe ; b = width of the trench  
+ (Refer Slide Time: 21:42)  
+ 
+And then what about a?  
+It is a function of soil profile and position of the drain  
+Drain in the bottom layer, a = 1 , since radial flow is restricted to this layer  
+If the drain is in the top layer, value of ‘a’ depends on the ratio of K b and K t 
+If    𝐾𝑏
+𝐾𝑡<0.1; 𝑡ℎ𝑒 Bottom la yer is considered impervious. So, soil profile becomes one layer 
+and ‘a’ = 1  
+  0.1<𝐾𝑏
+𝐾𝑡<50 ‘a’ value is decided based on 𝐾𝑏
+𝐾𝑡 and 𝐷𝑏
+𝐷𝑡 values by relaxation method and 
+Nomographs  
+  𝐾𝑏
+𝐾𝑡>50 then, a = 4  
+So, let us see how we would find out a value.  
+(Refer Slide Time: 24:59)  
+ 
+Based on K b/Kt and D b/Dt, there is a table as shown in the image above -called relaxation 
+method table. So, Kb/Kt values are in the first column of the table and Db/Dt values are  
+presented in the first  row of the  table  and the corresponding a value  is presented for different 
+Kb/Kt and D b/Dt.  
+For example, Kb/Kt is 10 and  Db/Dt is 4 and the corresponding a value  is 4.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 25:30)  
+ 
+And then a Nomograph is a lso available. So, here for example, in the image above is the drain 
+installation . The drain is at the top layer  and K 1 is the top layer hydraulic conductivity, K 2 is 
+the bottom layer hydraulic conductivity , and Do is the depth of water level in the drain to the 
+end of layer 1 and D 2 is the d epth of layer 2 as shown in the image. D0 is D t and D2 is D b in our 
+case. The Kb/Kt value is presented in the x -axis and the curves  are for particular  Db/Dt values.  
+So, just knowing Kb/Kt and Db/Dt you will be finding out the point where it is going to intersect 
+and from there just project onto the y -axis, which  will give the corresponding a value. So, this 
+way you can estimate a values.  
+(Refer Slide Time: 27:21)  
+ 
+The graph  above  is a combination of all  things. L can be determined from the Nomograph 
+using the Ernst equation. So, when D 0 or D t is less th an L/4, L can be estimated using the 
+following Nomograph.  If you obse rve this Nomograph , on one  y-axis is h /q, and on the other 
+is ∑𝐾𝐷 these are known values, so knowing these 2 you  just draw a line combining th em. The 
+Wr lines are also shown in the graph above  
+𝑊𝑟=𝐿
+𝜋𝐾𝑟ln𝑎𝐷𝑟
+𝑢 
+After finding W r, you just project it on to the line, another sub -axis line  will give the L value. 
+So, in using the Ernst equation you can find out the drain spacing by knowing the ∑𝐾𝐷 based 
+on the number of layers and h /q value  then W r, these values will be known , and based on that 
+you can find out the spacing of the drain . 
+This is all about in this lecture , so we sol ved an example on Hooghoudt equation using the trial 
+and error method as well as the graphical method to find  out the drain  spacing  by knowing  
+certain  soil parameters.  And then after that, we move on to the equivalent depth formulas 
+and then the Ernst equa tion. How to find out a and u  and then using the Nomograph we can 
+find out these values for 2 layered system. And finally, by knowing the h /q, Wr, and also 
+the ∑𝐾𝐷 you can find out the drain spacing.  
+Thank you.  

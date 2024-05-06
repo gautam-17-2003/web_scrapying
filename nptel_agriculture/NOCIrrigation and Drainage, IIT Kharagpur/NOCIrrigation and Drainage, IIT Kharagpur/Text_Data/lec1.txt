@@ -1,0 +1,351 @@
+ 
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 01 
+Introduction  
+Hello friends, welcome to the NPTEL course on Irrigation and Drainage. So, I am Damondhara 
+Rao Mailapalli  and I am an assistant professor in Agricultural and Food Engineering 
+Department IIT Kharagpur.  
+(Refer Slide Time: 00:38)  
+ 
+ 
+These are the  highlights of the course , we are going to have two modules. O ne is on irrigation  
+and the other one is on drainage. It is a 12 weeks course and each week we are going to cover 
+5 lecture s and each lecture will be of approximately 30 minutes  long. All together it will be of 
+60 lectures and also we going to have a tutorial s on GATE , ICAR , JRF problems at the end of 
+each week  that means the 5th lecture of the week will be on the tutorials . During the course 
+work  there will be some assignments to give  training to the students and along with quizzes . 
+And then  there is  an online discussion, if you have  questions or enquires , we can discuss online  
+and we are going  to have two technical assistants to support in this discussion and they are my 
+PhD students.  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 02:13)  
+ 
+Now  what exactly is irrig ation and drainage? In the agriculture fields  you can see  two cases, in 
+the first case there is a dry field and the other case will be a wet field contain ing some wa ter 
+ponded on the soil surface. In dry case;  it does not mean that the water is  not there, definitely 
+there is water within the soil profile  and is called the groundwater . So, if the groundwater is 
+nearer  to the surface and the plants are grown i n the fields,  in that case , you need  not give 
+irrigation to the plants because plan ts can extract water from the root zone, or from the water 
+table . If the water table is  deeper  then we need to give water artificially on the surface  and that 
+water will penetrate into the  soil and it will be available to the plant s. Whereas,  in the drainage 
+case what happens is , the fields are ponded with water always. So, in order to grow crops in 
+that particular piece of land, you need to take up the excess water from the surface. So, how do 
+you do that, you can either provide field channel s on the surface or you provide some 
+subsurface drainage pipes . 
+(Refer Slide Time: 04:00)  
+ 
+ 
+In the both irrigation and drainage cases, our objective or major goal is to maintain suitable 
+environment for the plants to grow. The learning out come in this  the course includes:  
+1. Understanding irrigation and drainage principles which is important in the design of 
+irrigation or drainage system.  
+2. Design gravity and pressurized irrigation systems - in irrigation system, there are 
+surface irrigation s where you provide water on the surface by gravity force, and there is 
+pressurized irrigation system for example, micro irrigation or drip irrigation where you need 
+to pressurized the irrigation through pumps so that water can penetrate  through the small p ores 
+of dripper or sprinklers.  
+3. Understanding the groundwater hydraulics is important to know how water flows from 
+the surface to the drains in case of drainage.  
+4. Design surface and subsurface drainage systems  - once you understand the governing 
+equations and the principles, you will able to design surface and subsurface drainage systems.  
+5. To be acquainted with some irrigation and drainage models used for simulating 
+irrigation and drainages cases and we are going to discuss about those models later.  
+6. To know  about water lifting devices and pumps, so if you have water underground, 
+how to tap the water using the pumps.  
+(Refer Slide Time: 06:22)  
+ 
+There are several reference books available, but mostly we will be using Irrigation Theory 
+and Practice by a A. M. M ichael and, Land drainage by Bhattacharya and Michael. And there 
+are other foreign editions you can go through, in order to understand the principles.  
+ 
+ 
+ 
+(Refer Slide Time: 06:50)  
+ 
+Sustainable development and efficient management of water is challenging in I ndia because:  
+1. The water tables  are declining day bay day due to the over exploitation of water for 
+drinking and irrigation purposes, that burdens a farmer to tap water from the deeper aquifers.  
+2. Incomplete major and medium irrigation projects - there are many projects which 
+under construction and are pending because of political or financial status; and they are not 
+finished in time.  
+3. Very slow increase in gross irrigated area - in every budget the government is 
+providing lot of funds for irrigation, but it  is not helping to increase the gross irrigated area  
+4. And then the quality of water in rivers and lakes are  really degrading day by day   
+5. Increasing water conflicts within India for example, Tamil Nadu and Karnataka, 
+Maharashtra and Andhra Pradesh and our neighboring countries for example, India and 
+Pakistan, India and Nepal, India and Bangladesh,  and the conflicts are inc reasing  
+So, because of these  the water management is really challenging in India.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 08:42)  
+ 
+In the above table you can s ee that though India has 16% of world’s population, it has only 
+4% of the total available fresh water. The annual precipitation volume we receive from rainfall 
+including snowfall is around 4000 Km3, but the average annual potential flow in rivers is only 
+about 50% of the  annual precipitation volume and the utilizable water resources is around 
+28% of annual precipitation which is classified as surface and groundwater resources with the 
+surface water resources around 60% and ground water about 40%.   
+(Refer Sl ide Time: 10:18)  
+ 
+This table above shows the per capita water availability in India, which is declining with 
+increasing population. As per the international norms if the per capita water availability is 
+<1700 m3 cube per year, the country is under water s tressed condition. And if it is < 1000 m3 
+cube per year the country is in water scarce condition. Seeing these numbers India is going to 
+reach the water stressed condition and, in near future the water scares condition.  
+ 
+ 
+(Refer Slide Time: 11:03)  
+ 
+The irrigation potential of water in India  is shown in  the slide above. The total geographical 
+area of India is 329 mha  and, the net sown  area 141 mha w h i ch  is 43% of 329 mha. The 
+gross irrigation area is 87.23 mha and the net irrigated area is 62.31 mha. The difference 
+between  the gross irrigated areas and net irrigated area is that, in case of gross irrigated area so 
+you will be counting a crop which is grown repeatedly in a particular year. The productivity 
+under irrigated condition is 2.5 ton/ha whereas , in rain fed  condition it is 0.5 ton/ha which is 
+very low compare to the irrigated condition; therefore,  you can understand the irrigation 
+potential here and the importance of irrigation. The food grain availability is around 523 
+g/capita/day.  
+(Refer Slide Time: 12:22)  
+ 
+The productivity of cereals in India is presented in the slide above, you can see rice is 
+consuming almost double the water required for other crops, around 120 cm whereas the yield 
+is pretty much the same with other crops so the water  productivity is definitely less in case of 
+rice because, it is consuming lots of water.  
+ 
+(Refer Slide Time: 12:50)  
+ 
+Irrigation is the artificial application of water to the soil, in order to grow the crop profitably. 
+Irrigation water is generally applied when there is no rainfall, or groundwater sources and the 
+main concerns in irrigation is when to apply, how much to apply and how to apply; So, these 
+three things are very important when you decide,  or schedule an irrigation to plant s. 
+(Refer Slide Time: 1 3:25)  
+ 
+Irrigation development has played a key role in strengthening economy because, irrigation is 
+applying water for the benefit of the crop so, directly you are producing crops which will 
+influence the  economy. If you have more grains production it will give more profits to 
+strengthens the economy. The employment opportunity will increase because when the crop 
+production is more, it will drive the rural youth into the agro -business and definitely the 
+employment o pportunity will increase. Irrigation development  provide self -sufficiency in 
+food production, because if you supply enough water to the crops they will provide more yield 
+and cause more food production  
+ 
+ 
+(Refer Slide Time: 14:26)  
+ 
+Another benefits of irrigation are being able to grow crops where, nothing would grow 
+otherwise, for example if you have a lot of water you can grow crops even in deserts areas . 
+More profitable crop can be grown for example, if you are cultivating alfalfa which is fodder 
+crop which requires a lot of water, instead the same water can be used to grow a more profitable 
+crop like wheat. Irrigation increase the yield/quality of crop, since you are not making any 
+water stress condition, the quality and  yield of t he crop will improve.  Irrigation increase the 
+aesthetic value of the landscape, if you have lot of water, then you can use it for landscaping 
+and, definitely that improves the aesthetic value of the area.  
+(Refer Slide Time: 15:26)  
+ 
+Other benefits of irrig ation are leaching of salts, if you have problems with salts in soil you 
+can irrigate the soil to leach out the salts. Wind erosion can be controlled by irrigating the soil 
+surface it will make the ground wet and the wind cannot blow the soil  particles. Mu ltiple 
+cropping during the year is possible with irrigation, you can grow 2 -3 types of crops in a year. 
+ 
+Irrigation increases employment opportunities  and reduces risk of crop failures because you 
+are not growing  crops under water stress condition so defini tely that will improve the crop 
+condition and reduces crop failures. Irrigation also improves socioeconomic conditions by 
+increasing the rural population income generation and hence increase the socioeconomic  
+condition.  
+(Refer Slide Time: 16:27)  
+ 
+The disa dvantage  of irrigation is that excess irrigation is going to decrease the crop yield 
+because, if you put lot of water the crop roots will be submerged continuously and the water 
+acts as oxygen barrier so roots cannot take any oxygen into the soil. And ther e by definitely 
+reducing the crop yield because of oxygen stress condition. The chemicals such as pesticides 
+or fertilizers and salt s can be leached into the groundwater or transport into the surface waters. 
+Yield reduction can happen  if you have a deficit  irrigation , not only excess irrigation  but even 
+if you reduce  irrigation also called as deficit irrigation it is  definitely going to reduce the yield. 
+Excess irrigation causes water logging and salinity problem ; for example, in a field ponded 
+with water on the surface it does not allow any oxygen to enter into the soil creating 
+unfavorable conditions for plant growth. The image in slide above is of India map showing 
+the ground water withdrawal as percentage of rec harge. It can be seen that states like Punjab, 
+Haryana, Delh i and Rajasthan withdraw ground water more than the recharge. It is an alarming 
+situation that the groundwater table is depleting deeper and deeper into the  soil.  
+ 
+(Refer Slide Time: 18:35)  
+Irrigat ion projects in India are classified into three major classes one is the major irrigation 
+projects with irrigation potential > 10000 ha and cost of project >  5 cr. And the medium 
+irrigation projects have  irrigation potential of about 2000 to 10000  ha and t he cost of project is 
+25 to 50 lakhs. And then the minor irrigation projects having irrigating potential of < 2000 ha 
+and the cost of project will be less than 25 lakhs.  
+(Refer Slide Time: 19:30)  
+ 
+The status of surface irrigation systems in In dia is that the water used for  gross irrigated area 
+of 87 mha is 541 km3 under surface irrigation systems. The gross water used  is 1.45 m in case 
+of surface irrigation which is greater than that of the united states which is 0.9 m indicating  
+that we are putting more w ater on top surface as compared to the United States in case of 
+surface irrigation systems. The overall irrigation efficiency in the country is 38 percent that 
+means, if you are supplying 100 mm of water to the field only 38 mm of wa ter is being taken 
+by the plant  or farm. River basins like Krishna, Godavari, Cauvery and Mahanadi systems 
+have very low efficiency of around 27 % whereas, Indus ganga systems are doing better with 
+ 
+an efficiency of 43  to 47 % because, they have well-structured  water release syst ems for 
+example Warabandi system.  
+(Refer Slide Time: 21:00)  
+ 
+Pressurized irrigation system like drip irrigation and sprinkler irrigation systems have higher 
+efficiencies. Drip irrigation saves 25 to 60 percentage of water and increase the yield up to 
+60%.  Whereas sprinkler irrigation saves 25 to 33 % of water. The net area under drip irrigation 
+is 0.5 mha and sprinkler is 0.7 mha, though we have a target of about 10 % of gross irrigated 
+area that needs to be under brought under micro irrigation systems.  Maharashtra has the largest 
+area under micro irrigation system.  
+(Refer Slide Time: 21:50)  
+ 
+The irrigation efficiency of surface irrigation is about 30 to 40 % only, the reasons for this 
+low irrigation efficiency are unlined canal systems with excessive see page. Canals  system that 
+we have are mostly unlined so the water which is being delivered from t he canal to field level, 
+is being  lost through seepages or evaporation mostly. Then lack of properly designed field 
+channels required, for delivering water effi ciently to the fields also cause low irrigation 
+ 
+efficiency. Lack of canal communication network also reduces the efficiency, if you don’t 
+have proper canal communication network you won’t know when to release water for a 
+particular command area and definit ely the scheduling will be affected, it may be faster or 
+slower, or one day early or one day late. And the lack of field drainage is another important 
+factor causing the low irrigation efficiency because the excess water which is accumulating 
+on the surfac e needs to be taken out from the fields and for that the field drainage is required. 
+And improper field leveling is also very important in order to increase the uniform ity of water 
+distribution. T he price of water is very less, so people take for granted a nd does not consider 
+the effect on irrigation efficiency.  
+(Refer Slide Time: 23:34)  
+ 
+Gross command area  (GCA)  is the total area that includes roads, villages farmstead, etc. lying 
+between drainage boundaries which can be irrigated by a canal system. but if you are only 
+accounting the farm lands that is the culturable command area  (CCA) . The gross command 
+area contains both the culturable command area and the other area which is not culturable 
+called unculturable command area. So, the sum of these two will be the gross command area. 
+Unculturable command area include unfertile barren land, alkaline soils, local ponds, villages.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 25:14)  
+ 
+Intensity of irrigation  is the ratio of irrigated to irrigable area. For example,  you have some area 
+available for irrigation, but based on your water availability/water resources, you decided to 
+irrigate part of your land, so the ratio of irrigated land to irrigable land will g ive the intensity 
+of irrigation. Water tanks are dug areas which can be useful to store the excess rain water  
+Outlets are kind of head regulator at the field level, to deliver water to the fields.  
+(Refer Slide Time: 26:00)  
+ 
+Water logged areas is an agri cultural land which is said to be water logged when productivity 
+or fertility is affected by high water table. In this case water table rises up and you can always 
+see the water on the surface . Field capacity is the water content held in the soil after exc ess 
+water has drained and plants can extract sufficient water from the soil for its growth. After a 
+heavy rainfall, there will be lot of water ponded on the surface but if you go in the next morning 
+the water will be receding slowly and you may not be seei ng the water on the surface anymore, 
+because the water has escape through over land flow, or through deep percolation. But the soil 
+still contains some water, and the amount of water which is available during that time or after 
+ 
+1 or 2 days of heavy rainfal l is called the field capacity.  Permanent wilting point or the wilting 
+coefficient is the water content at which plants can no longer extract sufficient water from the 
+soil for its growth., then the plant starts show wilting nature. We will discuss more on  this in 
+the upcoming lectures.  
+ (Refer Slide Time: 27:37)  
+ 
+Generally, we have two crops seasons Kharif and Rabi season. So, crop ratio is the ratio of 
+cultivable area under different crops during different seasons in a crop year. For example, you 
+are cultivating rice in Kharif and Rabi. So, the ratio of cultivable area during Rabi and Kharif 
+will give the crop ratio. Crop period is the number of days betwee n sowing and harvesting of 
+crop. Base period is a period or number of days between the first wate ring at the time of 
+sowing to the last watering before harvesting.  
+(Refer Slide Time: 28:25)  
+ 
+Live storage, dead storage and gross storage are three terminology used to describe a reservoir . 
+Live storage (LS) is the complete water stored in the reservoirs  between full reservoir level 
+ 
+and dead storage level, this water is available for usage  
+Dead storage (DS) is the water stored in a reservoir between the lowest supply level and the 
+deepest river bed level, which is 10 % of  gross storage (GS)  
+Gross storage  is the storage capacity between full water reservoir level and deepest reservoir 
+level. GS =LS+DS;  GS=LS+0.1* GS;      GS =LS/0.9  
+(Refer Slide Time: 15:01) 
+ 
+Delta is the total depth of irrigation water required by a crop during the cropping period or 
+base period. That is the total depth of water you are providing to the crop during the first water 
+application to the last wate r application before harvesting  of a crop. S uppose a crop required 
+about 12 irrigations  of 10 cm  depth that gives you 120 cm of depth of water you provided 
+during the base period or the delta of the crop is 120 cm. Suppose A ha is the area under a 
+particular crop the total water require wou ld be 1.2 × A (ha -m) over the period of 120 days.  
+(Refer Slide Time: 31:11)  
+ 
+Duty (ha/cumec) is the area  you irrigated  per unit volume  of water. It  is the ratio between  
+the irrigated crop area and the quantity of irrigation water required during  the base  period.  
+ 
+Suppose if you have 3 cumec of irrigation water, required for crop sown over an area of 5100 
+ha. The duty will be the area divided by the volume  so, that will be 5100/3 = 1700 ha/cumec 
+and 3 cumec discharge would be required throughout the base pe riod.  
+(Refer Slide Time: 32:36)  
+ 
+The value of duty would be different at the head of the watercourse, or at the head of the 
+distributary. So, relationship between duty  D and delta  ∆ is  
+∆=8.64𝐵
+𝐷 
+Where B is the base period. The unit of d uty is h a/cumec , cumec  is m3/s and ha is 104 m2 and 
+convert seconds to  days then you  will get the factor 8.64.  
+(Refer Slide Time:  34:16)   
+ 
+Here is an example we will be solving  
+EXAMPLE 1.1  An irrigation canal has a GCA of 80000 ha out of which 85% is culturable 
+ 
+area. T he intensity of irrigation for Kharif season is 30% and for Rabi season 60%. Find the 
+discharge required at the head of the canal if the Duty at its head is 800 ha/cumec for Kharif 
+season and 1700 ha/cumec for Rabi season.  
+Solution:  
+Culturable Irrigable ar ea= 80000× 0.85 = 68000 ha  
+Area under Kharif season = 68000 × 0.30 = 20400 ha (Irrigated)  
+Area under Rabi season = 68000 × 0.60 = 40800 ha (Irrigated)  
+Water required at the head of canal to irrigate during  
+Kharif is 20400/800 cumec = 25.5 cumec and (this is area divided by duty ) 
+Rabi is 40800/1700 cumec = 24 cumec  
+So how to decide which  discharge is required at the head of the canal ; the general thumb rule 
+is you always go with higher discharge. So, that it can serve both Rabi and Kharif season.  Since 
+the water requirement in Kharif season is higher than Rabi season, canal must be designed to 
+carry an a verage discharge of 25.5 cumec.  
+(Refer Slide Time: 37:17)  
+ 
+Now let’s solve the next example  
+EXAMPLE 1.2 A watercourse has a culturable command a rea of 2600 ha, out of which the 
+intensities of irrigation for perennial sugarcane and rice crops are 20% and 40%, respectively. 
+The Duty for these crops at the head of the watercourse is 750 ha/cumec and 1800 ha/cumec, 
+respectively. Find the discharge req uired at the head of watercourse if the peak demand is 
+20% higher than the average requirement.  
+Solution:  
+Area under sugarcane = 2600 × 0.2 = 520 ha  
+ 
+Area under rice = 2600 × 0.4 =1040 ha  
+Water required for sugarcane = 520/750 = 0.694 cumec  
+Water requiremen t for rice = 1040/1800 = 0.577 cumec  
+Since sugarcane is perennial crop, it will require water throughout the year. hence watercourse 
+should carry total discharge of (0.694 + 0.577 ) = 1.271 cumec.  
+The peak design discharged  is 20 percent higher  
+Hence, peak  design discharge = 1.271 × 1.2 = 1.52 cumec  
+Thank you for  listening to  this first lecture and we are going to cover more on the following 
+lectures  
+Thank you.  
+  

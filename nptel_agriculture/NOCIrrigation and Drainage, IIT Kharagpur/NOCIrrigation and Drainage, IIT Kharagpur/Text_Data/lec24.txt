@@ -1,0 +1,258 @@
+Irrigation and Drainage  
+Prof. Damodhara  Rao M ailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 24 
+Drip Irrigation Design  
+ 
+Hi, this is a lecture number 24 on Drip Irrigation D esign . So, we have s een some  design 
+aspects in the previous lecture ; now  are going to  design  a drip irrigation system for a 
+known  crop in this lecture . So, combining  the number of emitters  for a required application 
+rate and covering the entire  given area  for a particular crop, and also the number of laterals , 
+number of  sub-mains  or manifolds , and the main design , then the pump design  and pump 
+power calculation . 
+We will start with the emitter  specifications and design and finally, end up with the power 
+required for a pump to operate  and to maintain the pressure and to  meet  the desired  
+discharge at each dripper . 
+(Refer Slide Time: 01:27 ) 
+ 
+Here in this example , we are going to design a drip i rrigation system  for  banana crop  
+Example 24.1: Design  a drip irrigation system for the following data  
+Crop : Banana  
+Spacing : 1.5 m x 1.35 m  
+Area : 1 ha (  Let us consider it is a  square with 100 m  length  and 100 m  width ) 
+Slope  : 0.3 to 0.4%  
+Water Sour ce: Well  
+Static Head : 10 m  
+Pan Evaporation  : 12 mm/day  
+Soil characteristics  
+Clay soil  
+Field capacity: 48%  
+Wilting Point: 25%  
+Bulk Density: 1.3 g/cm3 
+Effective Root Zone Depth: 60 cm  
+Wetted Area:  60%  (suppose you are  irrigating from  dripper ; the effectiv e wetted 
+area is 60% that means it is not effectively irrigati ng the entire piece of land  or 
+100% ) 
+Maximum Pump Discharge: 2.5 lps  
+The image above is a  rough sketch  of the  area, based on the given area  we assume the 
+entire  field is 100 m length and 100 m width . Let us  plan a well at a particular  point  as 
+shown in the sketch and the main line goes all the way from  the well through  the entire 
+length of the field . Let us go into the detail ed calculation now.  
+(Refer Slide Time: 04:52 ) 
+ 
+The design steps  are as follows  
+1. Calculation of depth of irrigation  
+Pan evaporation Ep is given and if you multiply with the pan coefficients you will get 
+the ET0 and then multiplied by crop coefficient you get  crop evapotranspiration  ETc . 
+Let us say pan coefficients K p is 0.7 and K c for this particular crop is 1 
+ ETcrop= ET 0×K c = E p×K p×K c = (12) ×(0.7) ×(1.0) = 8.4 mm/d  
+That means the crop requires 8.4 mm  of water every  day 
+2. Volume of water to be applied : 
+We have to replenish the amount required by the crop to meet the irrigation demand. 
+So, the volume of water required at the individual plant is  
+ Volume = Area × Depth  
+               = (1.5×1.35) × (0.6) × (8.4) = 10.21 m3  
+The effective area covered by the particular dripper is 60% hence 0.6  is the wetted  
+area of one dripper .  
+ (Refer Slide Time: 07:39 ) 
+ 
+ 
+3. Number of Emitters p er plant  
+ Number of Emitters per plant is to be selected (based on layout)  
+ Say, One em itter per plant (4 l/h Capacity,  In the previous lecture we have seen the         
+drippers have  different capacity  such as 2 lph, 4 lph, 8 lph. So, we are consider ing 
+4 lph cap acity dripper)  
+4. Irrigation Time  
+ Irrigation time =Volume/Discharge rate  
+                       10.21/4 =2.55 h say 2.5h  
+5. Number of Emitters per lateral  
+ Length of field =100 m  
+ (Refer Slide Time: 11:22 ) 
+ 
+Let us assume the main is g oing exactly half of the field that means 50 m , if it is going  in 
+the center you have a lateral length of 50 m. The plant spacing  is 1.35 m  
+Emitter spacing on lateral = Plant spacing =1.35 m  
+ Number of emitters per lateral =50/1.35=37  
+6. Discharge through one lateral  
+Since the discharge through each dripper is known  and the number of drippers is known, 
+so you can estimate the amount of discharge required for each lateral.  
+ QLateral = 37× 4 =148 l/h   
+We know the discharge through each lateral  now we have to find out how many  manifolds 
+or how many laterals are required for the entire field . 
+ (Refer Slide Time: 13:40 ) 
+ 
+7. Number of laterals per manifold   
+Pump Discharge = 2.5 lps = 9000  l/h 
+ Number o f lateral that can be operated  = 9000/148 =60.81 say 61  
+ Breadth of the field =100 m  
+ Number of laterals along the breadth depend s on row spacing  
+ Distance between two laterals = 1.5 m  
+You can  say 100 by 1.5 you get the possible number of laterals we can la y on one 
+side 
+(Refer Slide Time: 15:53 ) 
+ 
+ Number of laterals  on one side =100/1.5 = 67  
+ Total number of laterals = 67×2 =133  
+ Number of manifolds = 133/61 = 2.2 say, 4  is selected  for uniformity in layout  
+Even if you take 3 what happens?  There  will be big s ize versus small  sizes so, instead 
+of that , you can distribute equally. So, now, you have 4 fields or 4 segments  and since 
+there are 4  uniformed layouts  So, the number of laterals per manifolds  is:  
+ Number of Laterals per manifold = 133/4 = 33.25  say 34  (manifolds means a grou p 
+of laterals that can be operated at once ). 
+Even i f you select  34 laterals you still have enough capacity to operate because  we were 
+supposed to  operate 67.  We finalized 4 manifolds, and each manifold will have 34 laterals, 
+and each lateral is going to have ar ound 37 emitters . 
+So, let us go forward  and finalize the size of the lateral  
+8. Size of lateral  
+D-W eq      H1=KCLQm
+D2m+n 
+Let us assume a lateral of 12 mm diameter  
+V=Q
+A=2961  l/ℎ
+π
+4(12mm)2=72.7 cm/sec  
+Now, find out the Reynolds number  
+NR= ρDV
+μ= 8704  
+ 
+ (Refer Slide Time: 20:39 ) 
+ 
+So, knowing the  Reynolds number,  so we can find out the friction factor .  
+Since N R is between 2000 -105, use the Reynolds number (turbulent flow) equation to 
+compute f  
+f=0.32NR−0.25=0.32(8704)−0.25=0.033 
+K=0.811(f
+g)=0.811(0.033
+9.81)=2.73×10−3 
+Now the next thing is the length  L, we know the lateral  length is 50 m , but since we have 
+37 drippers and each the dripper will have a barb. So, you have to account fo r the head 
+loss of each barb . So, there are some equations or graph s used to convert each barb  into 
+equivalent length (as discussed in the previous lecture) . Based on the internal diameter and 
+outer diameter of the barb and the thickness of the barb  we are goin g to estimate the 
+corresponding equivalent length  and that length will be added to this total length of the 
+lateral . 
+ 
+ (Refer Slide Time: 23:19 ) 
+ 
+Correcting L in Darcy - Weisbach, Hazen - Willams or Scobey Equation for barb losses  
+L= 50 m + (number of emission devices) C L 
+So, if you see th e graph  in the slide above , by knowing the diameter of the lateral  the 
+emitter connection loss equivalents  CL can be estimated . So, using the particular lateral  
+diameter , e.g., if  it is large , you will get a corresponding CL in feet and the feet will be 
+converted into  meters. Or you can also use the equations here for large  lateral pipe 
+diameter,  𝐶𝐿=0.91𝐷−1.935 based on the barb diameter or a barb specifications  
+From the graph above for 12 mm lateral diameter  
+CL= 0.6 ft = 0.18 m  
+L = 50 + 37(0.18) = 54.86 m  
+Now knowing the K, C, L and Q  value , m and n from the graph, H 1 is estimated  
+  H1=KCLQm
+D2m+n=(2.73×10−3)×277778×63.32×(4.93)2
+122×2+1 =4.08 m 
+The calculating h1, F we get it f rom the table  above;  so, for a particular value of m  and 
+number of outlet s (37) the corresponding F value, will be 0.347. M1 is the minor losses 
+which is assumed to be 0  
+h1=FH1+M1=0.347×4.08+0=1.415 m 
+h1 value is t oo high; the maximum it sho uld be is 5% of static head  
+ (Refer Slide Time: 26:49 ) 
+ 
+Our static head  is 10 m so  5 % of 10 is 0.5 m  
+Since it is high , we redo again the calculations by increa sing the diameter so that the 
+friction loss will be less . Now, let us take 16 mm lateral  diameter  and redo the calculations. 
+Calculate  Reynolds number from Reynolds number , you calculate  f, from f calculate  K. L 
+you get from the  graph  again . So, using everything then you put it in the equation to find 
+out H1 and h1 and see whether  the h1 is less than or equal to the  5 % of static head . So, we 
+will do the same stuff again  by considering the n ew lateral diameter .  
+Let us take 16 mm lateral  
+V=Q
+A=5032  l/ℎ
+π
+4(50mm)2=40.90cm/sec   ;NR= ρDV
+μ=6528  
+(Refer Slide Time: 28:59 ) 
+ 
+Since N R is between 2000 -105, use the Reynolds number (turbulent flow) eq uation  to 
+compute f  
+f=0.32NR−0.25=0.33(6528)−0.25=0.035 
+K=0.811(f
+g)=0.811(0.035
+9.81)=2.94×10−3 
+Correcting L in Darcy - Weisbach, Hazen - Willams or Scobey Equation for barb losses  
+L= 50 m + (number  of emission devices) C L 
+CL = 0.33 ft from figure = 0.11 m  
+L = 50 +37 (0.11) = 54.07 m  
+H1=KCLQm
+D2m+n=(2.73×10−3)×277778×58.14×(4.93)2
+122×2+1 =1.02 m 
+h1=FH1+M1=0.338×1.02+0=𝟎.𝟑𝟓m (<0.5 m)  
+Acceptable  from Table for 37 outlets, Thus, Lateral Size = 16 mm  
+Now, you finished the lateral part, and laterals are attached to the manifold. So, therefore  
+you have to find out what is the discharge in the manifold   
+9. Size of Manifold   
+Qmanifold  = Q lateral× No. of lateral per manifold  
+                   = 148  × 34 = 5032 l/hr  
+  (Refer Slide Time: 30:28 ) 
+ 
+So, knowing the total discharge from the manifold , similar to your lateral  design , assume 
+a diameter and find out NR-value  f, K, H1, and h1  
+Manifold design is similar to the lateral design  
+Assume Manifold Diameter = 50 mm  
+V=Q
+A=5032  l/ℎ
+π
+4(50mm)2=71.18 cm/sec  
+NR= ρDV
+μ= 35502  
+NR is between 2000 -105, use the Reynolds number (turbulent flow) equation to compute f  
+f=0.32NR−0.25=0.32(35502)−0.25=0.023 
+K=0.811(f
+g)=0.811(0.023
+9.81)=1.92×10−3 
+L = 50 m  
+H1=KCLQm
+D2m+n=(1.92×10−3)×277778×50×(83.86)2
+502×2+1 =0.06m 
+h1=FH1+M1=0.347×0.06+0=0.22m 
+Head loss in manifold = 0.21 m                                 
+  
+(Refer Slide Time: 31:04 ) 
+ 
+Head at inlet of manifold = H emitter  +H lateral+H slope+ H manifold  
+                             = 10 + 0.35 + 0.18 + 0.21         0.35% of 50 = 0.18  
+         = 10.74 m  
+10. Size of main  
+Length of main = 100 m  F (well location)  
+Qmain = Q manifold  = 5032 l/hr = 1.4*10-3 m3/sec 
+Assume main diameter = 50 mm  
+V=Q
+A=5032  l/ℎ
+π
+4(50mm)2=71.18 cm/sec  
+NR= ρDV
+μ=35502  
+Since N R is between 2000 -105 use the Reynolds number (turbulent flow) equation  to 
+compute f (f = 0.023)  
+H1=KCLQm
+D2m+n=(1.92×10−3)×277778×150×(83.86)2
+502×2+1 =1.815m 
+h1=FH1+M1=0.469×1.21+0=0.851 m  
+ (Refer Slide Time: 33:03 ) 
+ 
+11. Total Head  
+Total Head = Head manifold inlet + H main+ H static+ H local 
+                   = 10.74+0.851+10+2.16   = 23.75 m  
+(Hlocal  is continued as 10% of all other heads)  
+12. Pump Horse Power  
+ℎ.𝑝. =𝛾×ℎ×𝑄
+75×𝜂 
+=1000×23.75×(1.4×10−3)
+75×0.70= 0.63~1 ℎ𝑝 
+So, with this , the drip irrigation  design  problem has been completed . The main thing here 
+is finding out the  available capacity . You have to find out how many drippers can be 
+operated and with a known amo unt of  discharge from each dripper , the number of laterals  
+and number of manifolds that can be operated and finally, find out the head , and the 
+discharge for each manifold , and knowing these two you can find out the pump required 
+to operate the  particular manifold . Once you finish irrigating through  one manifold  it will 
+be off and the manifold number 2 will be on , similarly , once the manifold 2 is done 
+manifold 3 and manifold  4 will be operated simultaneousl y. 
+Thank you . 

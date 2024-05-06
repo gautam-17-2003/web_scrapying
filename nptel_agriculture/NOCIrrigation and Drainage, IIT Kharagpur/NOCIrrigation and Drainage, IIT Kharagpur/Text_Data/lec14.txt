@@ -1,0 +1,232 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 14 
+Measurement of Irrigation Water:  Pipes  
+ 
+Welcome  to lecture number 14 of Irrigation and Drainage  lecture series . So, in this lecture  
+we are going to learn  some of the  irrigation water measuring devices  both in open  channels 
+as well as in pipes  continuing from the previous lecture (lecture 13 ). 
+(Refer Slide Time: 00:44)  
+ 
+Dethridge meter is an open cha nnel water measuring device , it is named after  J S Dethridge 
+of Australia . So, basically it consists of  a drum  which is a mounted on an  axle, with eight 
+v-shaped vanes ; you can see the v-shaped vanes  in the image above . A drum  is rotated on 
+an axle, which  consists of v -shaped vanes fixed outside the  surface of the drum . The main 
+principle is the number of rotations  which is a caused by the flow of water is been 
+accounted  and that i s being calibrated . So, the number of  rotations will give the  discharge . 
+It basically sits laterally  across the channel and is turned by  water flow because , water 
+itself causes the rotation of the drum . And a short concrete outlet  formed  is present  to 
+provide minimum clearance , you can see the concrete  that create  minimum clearance  in 
+the above image . The minimum clearance between the v-shaped vanes  and the concrete  is 
+provided s o that there would not be any water loss , since  water loss is not accounted here . 
+The meter provides direct discharge measurement  corresponding to the numbe r of 
+revolution by the counter . Dethridge  meter  rotate s based on the flow and the number of 
+rotations will be  accounted  and correspond to the discharge of the particular open channel 
+flow.  
+(Refer Slide Time: 03:08)  
+ 
+Trajectory meter  works on the principa l of trajectory or projectile , for example  let us say  
+there is a block and you have thrown an  object , the object will take  a parabolic shape . The 
+vertical distance is  estimated by Y and the horizontal distance is estimated by X. For a full 
+pipe flow fallin g on a horizontal surface, the distance Y that water falls in time t is 
+𝑌=1
+2𝑔𝑡2 
+The horizontal distance is 
+𝑋=𝑉0𝑡 
+Combining the equations (substitute for t)   
+𝑉0=√1
+2𝑔𝑋2
+𝑌 
+𝑄=𝐶𝐴𝑉0=𝐶{(𝜋
+4)𝐷2√1
+2𝑔𝑋2
+𝑌} 
+Where C is the correction factor , D is the diameter and you get the area  of cross section 
+and if you have a scale you can find out what is X and wh at is Y, then you can substitute 
+X and Y and find out V0. 
+(Refer Slide Time: 05:32)  
+ 
+The other open chan nel flow meter  is orifice meter  this basically works  on the principle of 
+orifice . So, for example, if you see  the figure above,  there is a tank  and the  tank has a hole . 
+The hole could be a circular or rectangular hole and a  head difference ∆ℎ is forme d. There 
+are the two correction factors we  have to find out , one is the discharge  correction factor  
+and the other is the velocity correction factor.  
+Free flow case: 𝑄 = 𝐶𝑑.𝐶𝑣.𝐴.(2𝑔𝐻)0.5  
+Submerged case: 𝑄 = 𝐶𝑑.𝐶𝑣.𝐴.(2𝑔(ℎ1−ℎ2))0.5  
+Where, 𝐶𝑑(0.6 to 0.8) is the coefficient of discharge, (𝐶𝑣=1) is the coefficient of velocity  
+ (Refer Slide Time: 07:13)  
+ 
+Example 14.1:  Determine the discharge of a 4 -in. diameter end -cap orifice on a 6 -in. 
+diameter pipe if C = 0.7 and the hea d on the orifice is 12 in.  
+Solution  
+Given,  
+C = 0.7,  
+𝐴 =𝜋 × 𝑟2 = 3.142 × (2×2.54) 2=81.08 cm2 
+g = 981 cm/s2 
+h = 12 inches = 30.48 cm  
+𝑄 = 𝐶𝑑.𝐴.(2𝑔𝐻)0.5  
+=0.7×81.08×(2×100 ×30.48)0.5  
+                   = 22636 .56 𝑐𝑚3/𝑠 
+                   = 0.02  𝑚3/𝑠(Ans.)  
+ (Refer Slide Time: 08:30)  
+ 
+Next is the Parshall flume , in the Parshall flume , the whole  water channel is being  
+converged then channeled and  then diverged . So, these three actions basically taken place 
+in a Parshall flume , it can me asure up to  1500  million  gallons  per day . So, that is around  
+5.7 million  m3/day. The flow is taking place from the convergence  section to the diverging 
+end. In between the converging section and the diverging section there is a section called  
+the throat se ction . So, basically it consists of three parts the converging  section , throat 
+section , diverging section . The throat section  has measuring scales  to measure the head. In 
+the above images , the dismantle view  can be  seen, it is made  up of metal  and then i ts 
+install ed in the field . 
+(Refer Slide Time: 10:08)  
+ 
+The Parshall flume flow is denoted based on the  throat wi dth. If you have  a Parshall flume 
+of 1 inch it means  the throat width  is 1 inch  and it can measure  around 0.28 lps. A 50-foot 
+flume  can measure up t o 84950.5  lps. So, the dimensions are standard ized for each flume  
+and you can see a table above which  will give the dimensions of different sizes  of flume . 
+In the table above W represents the throat width  or flume size, the length s and dimensions 
+are decided based on this particular table . Some equations  are available  to relate  the 
+discharged and Ha, or there are some charts available to get  the discharges corresponding 
+to Ha and Hb, Ha is the head at head end whereas, H b is the head at downstream end. 
+(Refer Slide Time: 12:04)  
+ 
+In the Parshall flum e there are tw o kind of flows one is a free f low and submerged flow. 
+In the free f low case  it requires only one head Ha. To measure the head, water level 
+indicators or stilling well are provided where you can me asure H a, Hb and even Hc also 
+which is at the downstream side. The free flow case can be seen  in the first image above  
+and the discharge is given as follows  
+Q = C H an 
+Where H a measured  head, C is the coefficient and n is the exponent , C and n can be 
+obtained from standard table.  
+In a s ubmerged flow  2 head readings (H b and Ha) are required  and submergence is 
+measured using Hb and Ha and submergence is equal to H b/Ha. Basically 1 to 3 inch flumes  
+are allow ed 50% submergence . And if it is 6 to 9 inch flumes  we are going to allow 60% 
+submergence . Similarly,  for 1 to 8 ft flumes we allow 70% submergence , more than 8 ft 
+flumes  80% submergence . And for  90% sub submergence the flume does not  work  
+anymore .  
+(Refer Slide Time: 14:13)  
+ 
+Now,  we are going to study  the pipe flow measuring devices , previous devices studied are  
+flow measurement devices in open channels.  One of the  pipe flow measuring devices  is 
+the Venturi  meter  this is also known as  common differential head meter . The image above 
+shows the Venturi meter  and the flow which is going in and going out  of the device . So, 
+the Venturi meter  is like a Parsh all flume  but without the throat or a cut throat flume there 
+is no throat  section . If you see the image above  there is no throat section , but this is almost 
+similar to  a flume . An enclosed  view is also shown above in  cross section way of the pipe. 
+So, here the diameter D1 this is a converging section and D2 is the throat diameter . A 
+manometer is installed to see  that difference in  water levels and give the head  H. The 
+following equation will be used for measuring flow in Venturimeters : 
+𝑄=𝐶𝑑𝐴1√2𝑔𝐻
+(𝐷1
+𝐷2)2
+−1 
+Where,  Cd is the correction factor  A1 is the  cross  sectional area at section 1. H is the  head 
+and D 1 is the diameter at the conve rging section and D 2 is the throat diameter. Generally , 
+for Venturimeters  Cd is equal to  0.97.  
+(Refer Slide Time: 16:04)  
+ 
+The other pipe flow measuring device is nozzle meter.  Nozzle meter  is a simplified form 
+of Venturimeters . If you see  so, here the bas ic difference is there is no  converging or 
+diverging sections . This is a complete single piece of pipe with diameter D 1 but at the 
+center  there is a nozzle  which has a diameter D2 so, the pressure difference  between the 
+pipe and the nozzle is measured . The gradua l downstream expansion of Venturi is 
+eliminated  so, there is higher head  loss than Venturi meter . It is not used extensively in 
+irrigation  water measurement and the discharge equation is same as Venturimeters . 
+ 
+ 
+ 
+(Refer Slide Time: 17:23)  
+ 
+Next is  the orifice meter , this is  another differential pressure meter . So, we have  a 
+Venturimeter and nozzle meter and orifice  meter . So, these three are differential pressure 
+meters  where the difference in pressure will be  plugged into the equati on and then we 
+estimate the  flow discharge . Orifice meter is often used to  measure well discharge  and also  
+to measure the  chemical injections . They required long straight pipe  lengths  with full pipe 
+flow and limited discharge ratio . The di scharge equation is identical to Venturimeter . 
+Whereas,  Cd is equal to 0.66, in Venturimeter the Cd is equal to 0.9 so, that i s only 
+difference here .  
+(Refer Slide Time: 18:45)  
+ 
+And then the next is  the elbow m eter. This is another meter which works on the principle 
+that when  liquid travels in circular path  centrifugal force is exerted alon g the  outer edge . 
+Suppose , the flow is taking place in a circular path , the centrifugal  force  is going to act on 
+the stream  basically throwing the fluid out . The Pout and Pin creates the pressure difference 
+between inside outside the elbow . So, knowing the discharge and creating the different 
+pressure differences will give the delta P and Q. So, knowing the pressure differen ce you 
+get the discharge.   
+(Refer Slide Time: 19:45)  
+ 
+And the n ext is the propeller meters  in theses meters we  simply have a propeller inside . 
+The meter contains the axle w hich consist of  different blades  (axel blades ). So, the m ultiple 
+blades that rotates in  horizontal axis so that means,  the number of rotations  will give the 
+velocity and then multipl ying with the area of  cross section will give the  discharge . It 
+usually has a totalizer  plus an instantaneous discharge display . The totalizer  will give the  
+individual discharges  for particular time  period  of 10 or 15 mins or 1 hour. The accuracy 
+can be 2 to 5 percent  of actual flow  and must be installed in manufacture specifications for 
+accurate measurement . Manufacturers  are going to provide  the specific  calibration curve  
+to ensure  full pipe flow .  
+(Refer Slide Time: 21 :21) 
+ 
+Next is the  pitot tube , the pitot tube is nothing , but the  angular or 90-degree  bend tube 
+which is installed  perpendicular to th e flow. Whereas, the horizontal leg is parallel to the 
+flow. The  angle bend  is installed in a pipe vertically down  and also with horizontal leg  
+pointed upstream  and parallel to the flow . It can sense both velocity and pressure head  and 
+works based on the differential pressure created by the flow . We use the Bernoulli’s 
+equation to obtain the velocity : 𝑉=√2𝑔ℎ and knowin g the  area of cross section A you 
+will get discharge . 
+(Refer Slide Time: 22:58)  
+ 
+Next is the magnetic flow meters , nowadays these are  really prominent and also expensive . 
+It is basic ally works on the principle of Faraday’s law , the Faraday’s right hand r ule where 
+the magnetic field i s represented by the point finger and the middle finger  represents 
+electromotive force  and the current which is flowing  through the magnetic field can induce 
+the voltage . So, the induced voltage here will be  related to the flow velocity . So, the 
+magnitude of the induced  voltage  is proportional to the velocity . So, initially  the magnetic 
+field is being created and then  the flow induces the  voltage . The induced voltage u is given 
+as follows  
+𝑢=𝑘×𝐵×𝑣×𝑑  
+Where B is a magnetic field strength between the two electrodes ; d is the dis tance between 
+the two electrodes and v is the velocity of liquid flowing through the metering p ipe and k 
+is the factory set calibrat ion factor . 
+(Refer Slide Time: 25:12)  
+ 
+The other flow meter  which  is used to measure the ve locity  in pipes is the deflection  meter . 
+Deflection meter  contains  a vane or a plate  at the center  which is installed at 0.7 r below  
+the central line of the  pipe. The flow is going t o pressurize the plate or  deflect the plate , 
+more flows is going to deflec t more c ompared to less flow , the deflection basically  
+captured the voltage . So, then the deflection versus the known Q, is be ing capture d and 
+that is been calibrated . And finally, the deflection  meter  works  for a particular flow rate 
+using a calibration c urve.  
+(Refer Slide Time: 26:57)  
+ 
+Next is a trajectory meter  which is the same as in open channels . The same equation can  
+still be use for pipe flow measurement . Knowing the diameter of the pipe  and horizontal 
+distance and then the  vertical distance  you can use the equation which is mentioned in the 
+beginning of the lecture  to find out the discharge  from the  pipes . From the nomograph you 
+can clearly see  that knowing the diameter D, height  H is given on Y axis, for different 
+diameter pipes . For example,  for a 10 inches’  height  a 3-inch diameter pipe  can be used 
+and correspondingly  I am going to get 150 gallons  per minute discharge . So, this way you 
+can estimate the discharge from the vertical pipes . 
+(Refer Slide Time: 28:36)  
+ 
+The next is the siphon tubes , this is a very important as far as the irrigation  is concern ed. 
+In the siphon tubes or plastic tubes , based on the h ead, diameter and the length of siphon 
+tubes the discharge is being  estimated . So, accuracy  could be plus or minu s 10 to 15 % 
+and it provides  in field  method estimation of flow . From the image above it can be seen 
+that the siphon has been installed  into each furrow , so the water level in furrow  or the 
+downstream and the water level in the field channel  will give the head . For example, 10 
+inches of head and  for a diameter 1 inch and length 7.5 ft so, I get around 9 - 8 gallon /min. 
+The chart  shown above  is very important for measuring flow rate through siphon tubes . 
+Otherwise , you can also use  bucket and stopwatc h, in field to calculate  the discharge from 
+each siphon.   
+In this lecture  and we focused on a measuring  discharges in open channels  and pipes . For 
+open channels w e covered in the last lecture  except for a  few measuring devices  such as 
+trajectory method , Dethridge  flow meter,  Parshall flume . And then  in pipes  we have like 
+a differential pressure meters  like Venturimeter , nozzle meter , orifice meters  and then  and 
+again the trajectory  meter  and then  the magnetic  flow meters  and deflection flow mete rs 
+and finally, the siphons.  
+Thank you . 

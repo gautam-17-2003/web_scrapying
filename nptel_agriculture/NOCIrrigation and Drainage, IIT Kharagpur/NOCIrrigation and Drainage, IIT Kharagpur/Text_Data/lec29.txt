@@ -1,0 +1,234 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 29 
+Well Hydraulics (Contd.)  
+ 
+In lecture number 29 we are going to  discuss the  Well Hydraulics rel ated to C onfined 
+Aquifer . So, in the previous lecture , we derived the equation of  water flow s to well , in the 
+case of unconfined aquifers now we  will focus on  flow to well in the confined aquifer . 
+(Refer Slide Time:  00:39 ) 
+ 
+So, in the case of a confined aquifer , we have seen in the previous  lecture  that the static 
+water level  is called  the piezometric  surface  because this is  a confined aquifer . And, the 
+pumping wate r level  is hw and r w is the radius of the well . The drawdown curve is 
+represented by 𝑑ℎ
+𝑑𝑟; R is the radius of influence ; b is the thickness of the aquifer and water 
+is flowing horizontally to the well screen . The well is  fully penetrat ing to the aquifer  so 
+we are going  to derive the equation for finding out the  pumping rate in the confined  aquifer  
+or artesian wells . 
+ 
+ 
+ 
+(Refer Slide Time:  02:04 ) 
+ 
+So, let us see the derivation which is similar to that of an unconfined aquifer . Some of the 
+assumptions are  
+The a quifer is homogeneous and isotropic  and having uniform thickness ; that 
+means,  K is not varying  in all direction s as well as with space . 
+Pumped well penetrates through the entire  thickness of the aquifer ; that means,  it 
+is a fully penetrating well .  
+The f low of the well is in steady -state  
+The top and bottom of the aquifer  are bounded by bedrock or im pervious layer  
+because it is a confined aquifer  
+The well is pumped , at a constant rate  
+The a quifer is seemingly infinite in areal extension . 
+So, using Darcy’s  law,  
+𝑄=𝐾𝑖𝑎; 
+𝑄=2𝜋𝑟𝑏𝐾𝑑ℎ
+𝑑𝑟 
+So, water is flowing to the  well horizontally and with this  thickness  b. The surface area is 
+2𝜋𝑟𝑏, because the water is going  flowing through the surface . So, similar to  the unconfined 
+aquifer we are going to integrate  the equation . 
+ 
+ 
+ 
+ 
+(Refer Slide Time:  04:24 ) 
+ 
+𝑑ℎ=𝑄
+2𝜋𝑏𝐾𝑑𝑟
+𝑟 
+∫ 𝑑ℎ=∫𝑄
+2𝜋𝑏𝐾𝑑𝑟
+𝑟 
+Boundary conditions:   ℎ= ℎ𝑤  at 𝑟=𝑟𝑤 
+  ℎ=𝐻  at 𝑟=𝑅 
+∫𝑑ℎ𝐻
+ℎ𝑤=𝑄
+2𝜋𝑏𝐾∫𝑑𝑟
+𝑟𝑅
+𝑟𝑤 
+𝐻−ℎ𝑤=𝑄
+2𝜋𝐾𝑏ln(𝑅
+𝑟𝑤) 
+ (Refer Slide Time:  05:30 ) 
+ 
+𝑄=2𝜋𝐾𝑏  (𝐻−ℎ𝑤)
+ln(𝑅
+𝑟𝑤) 
+The equation also called as Dupuit and Thiem equation  
+Where,  𝑄=Discharge, m3/s;  𝐾 = hydraulic conductivity, m/s;  𝑏 = thickness of the confined 
+aquifer, m ; ℎ𝑤= pumping water level, m;  𝑅= radius of influence, m;  𝑟𝑤= radius of well, m . 
+(Refer Slide Time: 06:04 ) 
+ 
+Similar to  the unconfined aquifer , we can use the same equation to find out the  aquifer 
+properties K and T. So, here we  are going to  install  two observation well  at distance r1 and 
+r2 and after pumping we observe th e water level is h1 and h 2 for observation well 1 and 
+observation well  2, respectively . So, you can find out 𝑆1=𝐻−ℎ1; similarly 𝑆2=𝐻−ℎ2 
+So, from 2 observation  points , we get to draw down points . So, with the 2 draw down 
+points , we are going to  get an equation for  hydraulic conductivity K and transmissivity  T. 
+(Refer Slide Time:  07:12 ) 
+ 
+So bring the equation back . 
+𝑄=2𝜋𝐾𝑏  (𝐻−ℎ𝑤)
+ln(𝑟2
+𝑟1) 
+So, if you have several  observations wells , you get different draw down points . So, the 
+distances , from the cent er of the well to different observation wells are r1, r2, r3, r4 so, for 
+every distance , the corresponding  draw down points can be calculated. Using these  data, a 
+graph is drawn with  distance on the x-axis and draw down on the y-axis and you get  a curve 
+as shown in the figure above  and for one log cycle , find out what is the  difference in 
+draw down . So, here for one log cycle , the value is 2.30 then substitute that  in the equation . 
+∆𝑆 correspond s to the difference in the draw down corresponding to the one log cycle . 
+So, if you have th e above  curve it is easier to find the value of  T. From th e graph , ∆𝑆 is 
+known and Q is known and you can find out the T. So, in this way you can  graphically 
+estimate . You can also  use equations to sol ve K and T similar to the case of an unconfined 
+aquifer . 
+(Refer Slide Time:  09:31 ) 
+ 
+A 10 cm diameter well penetrates a 10 m thick confined aquifer. The steady -state 
+drawdown w as found to be 2.5 and 0.05 m at a distance of 10 m and 40 m, respectively 
+from the center of the well. When the well was operated with a constant discharge rate of 
+125 l/min for 12 h. Using the Dupuit -Thiem equation, calculate the transmissibility and 
+hydraulic conductivity.  
+Solution:  
+𝑄=125=0.125  m3/min 
+𝑟1=10 m  
+𝑟2= 40 m  
+𝑠1=2.5 m 
+𝑠2=0.05 m 
+ (Refer Slide Time:  11:22 ) 
+ 
+𝑇=𝑄ln𝑟2
+𝑟1
+2𝜋 (𝑠1−𝑠2) 
+𝑇=0.125×ln40
+10
+2𝜋 (2.5−0.05)=0.125×1.386
+15.392 
+𝑻=0.0113  m2/min 
+𝑇=𝐾×𝑏 
+0.0113=𝐾×10 
+𝐾=0.0113
+10=0.00113  m/mi n (Ans.)  
+(Refer Slide Time:  14:11 ) 
+ 
+Example 29.2:  A confined aquifer has a source of recharge as shown in the figure. The 
+hydraulic conducti vity of the aquifer is 50 m/d and its porosity is 0.2. the piezometric head 
+in two wells 1000 m apart is 55 m and 50 m, respectively, from a common datum. The 
+average thickness of the aquifer is 30 m and the average width is 5 km.  
+a. Determine the rate of fl ow through the aquifer  
+b. Determine the time of travel from the head of the aquifer to a point 4 km 
+downstream  (assume no depression or diffusion).   
+ (Refer Slide Time:  17:23 ) 
+ 
+Solution:  
+𝐴𝑟𝑒𝑎  𝑜𝑓 𝑡ℎ𝑒 𝑐𝑟𝑜𝑠𝑠  𝑠𝑒𝑐𝑡𝑖𝑜𝑛  𝑜𝑓 𝑓𝑙𝑜𝑤  = 30 𝑚×5 𝑘𝑚=15×104 m2 
+𝐻𝑦𝑑𝑟𝑎𝑢𝑙𝑖𝑐  𝑔𝑟𝑎𝑑𝑖𝑒𝑛𝑡  (𝑖)=(ℎ1−ℎ2)
+𝐿 
+= −
+55−50
+1000 
+=5×10−3 
+𝑅𝑎𝑡𝑒  𝑜𝑓 𝑓𝑙𝑜𝑤  (𝑄)=𝐾𝑖𝐴 
+𝑄=50×15×104×5×10−3 
+=37500  m3/d 
+𝐷𝑎𝑟𝑐𝑦′𝑠 𝑣𝑒𝑙𝑐𝑖𝑡𝑦  (𝑉)= 𝑄
+𝐴 
+ 
+ 
+ 
+(Refer Slide Time:  18:49 ) 
+ 
+𝑉= 37500
+15×10−4 
+=0.25 m/d 
+𝑆𝑒𝑒𝑝𝑎𝑔𝑒  𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦  (𝑉𝑣)= 𝑉
+𝑛 
+= 0.25
+0.2=1.25 m/d 
+𝑇𝑖𝑚𝑒  𝑡𝑜 𝑡𝑟𝑎𝑣𝑒𝑙  4 𝐾𝑚 𝑑𝑜𝑤𝑛  𝑠𝑡𝑒𝑎𝑚  𝑡=4000
+1.25 
+=3200  days 
+=8.77 years (Ans.)  
+ (Refer Slide Time:  20:02 ) 
+ 
+ 
+Example: 29.3: Theim Equation  
+• 1-m diameter well  
+• Q = 113 m3/hr  
+• b = 30 m  
+• h0= 40 m   
+• Two observation wells,  
+h1 = 38.2 m (@ r 1 = 15 m)  
+h2 = 39.5 m (@ r 2 = 50 m)  
+• Find: Head (h w) and drawdown (s w) in the well  
+Solution:  
+𝑇=𝑄
+2𝜋 (𝑆1−𝑆2)ln𝑟2
+𝑟1+ 
+ (Refer Slide Time:  23:34 ) 
+ 
+𝑇=113
+2𝜋 (1.8−0.5)ln50
+15 
+𝑇=16.66 m2/h 
+𝑆𝑖𝑛𝑐𝑒  ℎ= ℎ0+𝑄
+2𝜋𝑇ln𝑟
+𝑅    then 
+ℎ𝑤= ℎ2+𝑄
+2𝜋𝑇ln𝑟𝑤
+𝑟2 
+ℎ𝑤=39.5+113
+2𝜋×16.66ln0.5
+50 
+ℎ𝑤=34.5 m 
+𝑠𝑤=ℎ0−ℎ𝑤 
+𝑠𝑤=40−34.5=5.5 m (Ans.)  
+ (Refer Slide Time:  25:26 ) 
+ 
+Next is well loss , if you see the draw down curve  ending it is above  the pumping water 
+level as show n in the figure above . The difference is due to some  losses . So, the losses 
+could  happen  in 2 cases ; one is due to the turbulence in the well , and the other is due to 
+the resistance  of a flow in the aquifer system . 
+So, these 2 are causing the head loss or the variation in the pumping water level . Supposed  
+if there is no well loss  the draw down curve will be in contact with the pumping level  
+theoretically ; practically you will have a difference between the draw down curve and the 
+pumping water level , let us  see how to estimate the well loss in case of  the aquifer ? 
+(Refer Sl ide Time:  26:42 ) 
+ 
+So, here in an artesian well , the total drawdown at the well Sw can be considered to be 
+made up of 3 parts . 
+1. Head loss require to cause laminar porous media flow called formation (aquifer) 
+loss, 𝑆𝑤𝐿 
+2. A drop of piezometric head required to sustain a turbulent flow in the region nearest 
+to the well where the Reynolds number may be larger than unity, 𝑆𝑤𝑡 
+3. Head loss through the well screen and casing, 𝑆𝑤𝑐  
+𝑆𝑤𝐿∝𝑄 and (𝑆𝑤𝑡 𝑎𝑛𝑑  𝑆𝑤𝑐)∝𝑄2 
+𝑆𝑤=𝐶1𝑄+𝐶2𝑄2 
+Where, 𝐶1 𝑎𝑛𝑑  𝐶2 = constant  
+𝐶1𝑄= formation (aquifer) loss  
+𝐶2𝑄2 = well loss  
+So, in this lecture we focused on  water flow to a  well-installed in a  confined aquifer , we 
+derived the steady -state equation for estimating the flow rate  or flow to well in a confined 
+aquifer . And, also the  procedure to find out the aquifer parameters like transmissivity and 
+hydraulic conductivity by installing  a series of obser vation wells . Then you get a graph  
+drawing between  distances and draw down  and from the graph , you can use in the main 
+equation and find out the transmissivity and the corresponding hydraulic conductivity  if 
+you know the thickness of the aquifer . Then we  solve some problems and we formulate  an 
+equation for  well loss . Well loss is due to the  aquifer , head due to the  screen openings and 
+third is the head due to  turbulence in the well .  
+Thank you . 

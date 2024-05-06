@@ -1,0 +1,376 @@
+ 
+ Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 12 
+Irrigation Channel Design  
+Welcome  to lecture number 12 of Irrigation and Drainage series . In thi s lecture we are 
+going to learn  about Irrigation Channel Design . In the previous lecture we’ve focused 
+mostly on canal irrigation  conveyance , and also the  structures and canal lining s so, here 
+we are going to study  how to design that particular channel . 
+(Refer Slide Time: 00:42)  
+ 
+Basically th ese irrigation channels are either trapezoidal or rectangular or sometimes you 
+may see circular . The main parameters in the design  part is the top wi dth, freeboard , 
+channel bed  slope , wetted perimeter and h ydraulic r adius . Suppose you have  a trapezoidal 
+channel  with water surface  as shown in the figure above, the  wetted perimeter will be  the 
+sum of the sides and the bottom width which is only the wetted  part. Similarly in case of  
+circular  the acr which is in contact with the water will be  the wetted perimeter . Hydraulic 
+radius  is area divided by  wetted perimeter , so these components are mainly f ocused during 
+the design of irrigation channel . The picture  above  clearly shows the  flow depth , channel 
+bed and channel top width and then th e channel side  slope . There is a free  board , provided  
+for factor of safety  and you need to maintain the free board  for each  irrigation channel . 
+ 
+ (Refer Slide Time: 02:40)  
+ 
+Next is the open channel flow , basically  two principles or  two equations are  need ed to 
+consider  the Chezy’s  equation and  the Manning’s  equation . Chezy  has come up with this 
+equation long back , this is the  oldest equation and then after that  Manning’s  equation is 
+developed after doing  certain experiments he just modifie d the  Chezy’s  equation . 
+Chezy ’s Equation                  𝑉 = 𝐶√𝑅𝑆 
+Manning ’s Equation             𝑉 = 1
+𝑁𝑅2/3𝑆1/2  
+Where, V = velocity of flow (m/s); R = hydraulic radius of the flowing section (m); S = 
+Channel slope, in m per m; C = Chezy’s constant, which varies with surface roughness 
+and flow rates, N = Manning’s roughness coefficient . The Chezy’s  constant  C and 
+Manning’s  N have the following  relationship  
+𝐶 = 1
+𝑁𝑅1/6 
+The table in slide above shows  some material used in the channels and their N value  for 
+concrete , stone masonry , soil c ement , bare soil and vegetative  waterways . Vegetable 
+waterways  relatively  give larger roughness compared to other  structure  that i s why if you 
+see the N values is more compared to other channel types . So, these  two equations are very 
+important when you ar e designing the irrigation channels . 
+ 
+ (Refer Slide Time: 04:35)  
+ 
+How to estimate the maximum discharge  through rectangular channel economical ly. So, 
+our intention  is to carry maximum flow  in irrigation channels  by finding out which 
+condition will achieve t he maximum flow in the  particular structure  and channel . For 
+example, in case of a rectangular  channel which has width b and depth d and of course,  
+there is a freeboard , what is the condition to achieve the maximum discharge in this 
+particular channel  so that we can design the b and d  values . 
+ 
+Area of flow, 𝐴 = 𝑏 × 𝑑 (which the area of rectangle crossection)  
+And  𝑏=𝐴
+𝑑 
+Discharge, 𝑄 = 𝐴 × 𝑉 = 𝐴𝐶√𝑅𝑆     (Chezy’s velocity equation ,  V = C√ RS)  
+Wetted pe rimeter, P = b + d + d = b + 2d  
+𝑃 = 𝐴 /𝑑 + 2𝑑    (since  𝑏 = 𝐴/𝑑 ) 
+So, when the wetted perimeter is maximum you expect maximum discharge  therefore 
+differentiating perimeter  with respect to depth to get the maximum discharge . 
+𝑑𝑃
+𝑑𝑑=−𝐴
+𝑑2+2=0    or      𝐴
+𝑑2−2=0 
+ 
+ or A=2𝑑2  or 𝑏=2𝑑 
+So that means  the depth  or the width  should be  2 times the depth  to get maximum  wetted 
+perimeter . 
+Then the hydraulic radius  R will be as follows  
+The hydraulic radius, 𝑅=𝐴
+𝑃=𝑏𝑑
+𝑏+2𝑑=2𝑑×𝑑
+2𝑑+2𝑑=2𝑑2
+4𝑑=𝑑
+2 
+Hence, for the maximum discharge conditions, b = 2d and  R = d/2  
+ So, these are the  twoconditions  you need to consider while  construct ing or designing a 
+rectangular  channel  for getting the maximum discharge through the channel . 
+(Refer Slide Time: 09:28)  
+ 
+What about  the maximum discharge  in case of trapezoidal channel s with side slopes  1 is 
+to z that means,  1 vertical and  z horizontal . So, here follow similar steps  as in case of 
+rectangular channel . So, here in order to get the area just make triangle on bothsides , and 
+then combining the  two triangle with the rectangle  in the middle you will get the area of 
+cross section.  
+ 
+Area of 1 triangle of side slope 1: Z =1
+2×𝑑×𝑧𝑑 (multiply with 2 for 2 triangle)  
+Area , 𝐴=(𝑑×𝑏)+2(1
+2×𝑑×𝑧𝑑)=𝑏𝑑+𝑧𝑑2 = 𝑑(𝑏+𝑧𝑑)  
+ 
+ or 𝐴
+𝑑=𝑏+𝑧𝑑  𝑜𝑟   𝑏=𝐴
+𝑑−𝑧𝑑 
+Discharge , 𝑄 = 𝐴 × 𝑉 = 𝐴𝐶√𝑅𝑆 = 𝐴𝐶√𝐴
+𝑃𝑆 
+We know, 𝑃=𝑏+2√𝑧2𝑑2+𝑑2=𝑏+2𝑑√𝑧2+1  or 𝑃=𝐴
+𝑑−𝑧𝑑+2𝑑√𝑧2+1 
+P will be minimum when, d𝑃
+d𝑑=0; 
+d𝑃
+d𝑑=−𝐴
+𝑑2−𝑧+2√𝑧2+1 or 𝐴
+𝑑2+𝑧−2√𝑧2+1=0  
+or 𝑑(𝑏+𝑧𝑑)
+𝑑2+𝑧=2√𝑧2+1 or (𝑏+2𝑧𝑑)
+𝑑=2√𝑧2+1 
+(Refer Slide Time: 14:37)  
+ 
+ or (𝑏+2𝑧𝑑)
+2=𝑑√𝑧2+1 
+ ½ Top width of water = single  sloping side  
+Incase of hydraulic radius,  
+𝑅=𝐴
+𝑃=𝑑(𝑏+𝑧𝑑)
+𝑏+2𝑑√𝑧2+1=𝑑(𝑏+𝑧𝑑)
+𝑏+(𝑏+2𝑧𝑑)=𝑑(𝑏+𝑧𝑑)
+2(𝑏+𝑧𝑑)=𝑑
+2 
+For maximum discharge or maximum velocity,  
+b+2zd
+2=T
+2=d√z2+1 (the sloping side is equal to half of the top width, T)  
+𝑅=𝑑
+2 (hydraulic radius is half of flow depth)  
+The sloping sid e is equal to h alf of the  top width  and h ydrau lic radius is half of the flow 
+depth are the two conditions you have to  satisfy to get the maximum discharge  . 
+ 
+ (Refer Slide Time: 17:02)  
+ 
+Example 12.1:   
+Determine the velocity of flow and discharge capacity of an unlined ca nal branch on a 
+grade of 1 m in 800 m having depth of flow 1.5 m, bottom width 0.80 m, and side slope 
+1:1.So, this given data if you see depth of flow , bed width , canal bottom  and side slope  are 
+given .. 
+Solution:  
+Depth of  flow, d = 1.5 m;  Bed width, b = 0.8 m;  Canal bottom slope,  
+𝑆 = 1
+800= 0.00125 ; Side slope, 1:z = 1 : 1  
+Channel is unlined, assume roughness coefficient of Manning ’s formula, N = 0.023  
+So first of all find out the  area.  
+Area, 𝐴 =(𝑏𝑑 + 𝑧𝑑2) = (0.8 × 1.5) + 1 × (1.5)2 = 3.45 𝑚2 
+Wetted perimeter, 𝑃 = 𝑏 + 2𝑑√1+𝑧2= 0.8+2×1.5√1+12=5.042  𝑚 
+Hydraulic radius, 𝑅 = 𝐴
+𝑃=3.45
+5.042=0.684 
+Velocity, 𝑉 =1
+𝑛𝑅2
+3𝑆1
+2= 1
+0.023× (0.684)2/3 ×√0.00125 = 1.193 m/s (Ans.)  
+Discharge, 𝑄 = 𝐴𝑉 = 3.45 × 1.193  = 4.116  𝑚3/𝑠 (𝐀𝐧𝐬.) 
+ 
+ (Refer Slide Time: 19:25)  
+ 
+Example 12.2:  Design an  earthen channel of trapezoidal section  for the  following 
+conditions : 
+Discharge Q = 2m3/s ; S lope of the channel bed, 𝑆 = 1
+1200; Side  slope , z :1 = 1.3:1;  
+Manning ’s n = 0.02 
+Solution:  
+For most economical trapezoidal section , (𝑏+2𝑧𝑑)
+2=𝑑√𝑧2+1   and 𝑅=𝑑
+2 
+(𝑏+2𝑧𝑑)
+2=𝑑√𝑧2+1 or 𝑏+2.6𝑑=2𝑑√1.32+1 or 𝑏=0.68𝑑 
+Now,  area, 𝐴 = 𝑑(𝑏 + 𝑧𝑑)= 𝑑(0.68𝑑 + 1.3𝑑)    𝑜𝑟, 𝐴 = 1.98𝑑2 
+Discharge, 𝑄 = 𝐴𝑉 = 𝐴 × 1
+𝑛𝑅2
+3𝑆1
+2   
+Putting the values, 2 = 1.98𝑑2 ×1
+0.02×(𝑑
+2)2/3
+×(1
+1200)1/2 
+(Refer Slide Time: 21:31)  
+ 
+ 
+ 𝑑8
+3=1.11  
+ 𝑑=1.04 𝑚 
+Then, b = 0.68 d = 0.7072  m 
+Assuming a freeboard of 20%  of flow  depth,  depth  of channel would be  
+𝑑𝑐 = 1.04 × 1.20 = 1.248 𝑚 ≈ 1.25 𝑚 
+Top width = 𝑏 + 2𝑧𝑑𝑐= (0.7072  +2 × 1.3 × 1.25)= 3.957  𝑚 
+Channel bed width, d = 0.7072 m ; Flow  depth , d = 1.04 m; Depth of channel = 
+1.25 m ; Top width = 3.957 ; Side slope = 1.3:1( H:V) Ans.  
+ So, finally,  the dimensions  of the channel , flow depth , top wi dth and side slopes are 
+obtained . So, this way you have to  designed the channel  . 
+(Refer Slide Time: 22:39)  
+ 
+Pipe flo w of irrigation water , so mostly for pipe flow the equations we use  to describe the 
+fluid flow are based on  three  fundamental of physics . One is conservation of ma tter or 
+mass, which states that matter cannot be  created or destroyed , but can be converted b y 
+chemical process and conservation of energy , energy cannot be  created nor destroyed , but 
+it can be converted from  one type to another , for exam ple potential to  kinetic energy . And 
+then conservation of momentum , where  a moving body cannot gain or loss m omentum 
+unless an external force acts on it . And theori es of hydraulics and fluid flows are Pascals  
+law and continuity equation or  conservation of mass and Bernoulli’s  equation or energy 
+equation , these theories  are all going to be used i n fluid flow. 
+ 
+ 
+ 
+ (Refe r Slide Time: 24:34)  
+ 
+Next is the hydraulic and energy grade lines  for pipe flow , when the water fully flow in a 
+pipes there are  two lines basically  one is the hydraulic gradient line , and the other  one is 
+energy line . When there is  a smooth flow or lami nar flow  and no friction loss then the 
+hydraulic gradient line  may be equal to the energy grade  line. Reynolds  number  determines 
+the types of flow in pipes, it is given as  
+𝑅𝑒=𝜌𝑉𝑑
+𝜇 
+Where ρ = density of fluid (kg/m3
+) V = mean fluid velocity (m/s);  d = diameter of the 
+pipe (m); μ = coefficient of viscosity of the fluid (kg/m/s)  
+If the Re value is  less than  2100,  then we called a laminar flow, transition flow  for Re 
+ranging from  2100 to 4000  and Re more than  4000  is called turbulent  flow. 
+Friction head loss is very important when you are talking about  the total head loss . So, the 
+total head includes the elevation head , pressure head , velocity head and  friction head . 
+(Refer Slide Time: 26:35)  
+ 
+ 
+ The image above shows the velocity profile in a pipe , at the middle the velocity  is 
+maximum  and at the end or surface of  the pipe, the velocity will be minimum because of 
+the friction . Suppose you are holding a str ing and the water is flowing  it is not going to 
+sack at the surface , but in the middle it is going to sack because there is a friction  force 
+which is acting on the  surface . Similar flow will be observed in open channel but you are 
+going to  have less velocity in bottom and  more velocity in top . 
+The head loss in pipe flow , are major head loss which is the  friction and minor head loss  
+which is due to  change  in diameter or change in velocity in  pipe’s  bends , joints , valves and 
+similar  items . Darcy  Weisbach  equation  will be us ed to  find out the head loss   
+ℎ𝑓=𝐹𝐿
+𝐷𝑉2
+2𝑔 
+Where hf = head loss due to friction (m) ; F= friction factor (Darcy’s friction coefficient) ; 
+L = length of pipe (m) ; V = velocity of flow (m/s) ; g = acceleration due to gravity = 9.81 
+m/s2; D = inn er diameter of the pipe (m)  
+(Refer Slide Time: 28:34)  
+ 
+Example 12.3:   
+Determine the head loss due to friction in an irrigation pipe having 150 m length and 25 
+cm diameter. The velocity of flowing water in the pipe is 2.0  
+Solution: Head loss according to Darcy -Weisbach formula  
+ℎ𝑓=𝐹𝐿
+𝐷𝑉2
+2𝑔 
+V = 2.0 m/s  
+Assuming F = 0.025 (as of cast iron)  
+ 
+ ℎ𝑓 = 0.025  × 150
+0.25×22
+2×9.81  
+=3.058  𝑚 𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑨𝒏𝒔.   
+So, the friction head loss  is obtained by knowing  the discharge and diameter and for  100m 
+length  you w ill get h f and based on the given length you can reduce and you can estimate 
+the corresponding hf on the particular length . 
+(Refer Slide Time: 30:00)  
+ 
+The selection  of pipe  size should be based on the hydraulic capacity , head loss and 
+economy . Pipe size  is based on hydraulic capacity that is 𝐴 = 𝑄
+𝑉 
+Where A = cross -sectional area of the pipe (m2) 𝐴=𝜋𝐷2
+4, that is, 𝐷=√4𝐴
+𝜋 Q = discharge 
+(m3/s); V = permissible velocity of flow (m/s)   
+Pipe size base on headloss,  by calculating  the head loss per unit length and also for the 
+whole irrigation farm . Similarly for economy by comparing  the prices of the pipes and 
+extra cost for  head loss for the entire life and choos ing the least cost . 
+ 
+ (Refer Slide Time: 30:59)  
+ 
+Example 12.4 : Compute the size of best quality cast -iron pipe that wil l carry 0.03 m3/s 
+discharge with a head loss of 2 m per 1,000 m.  
+Solution: We know ℎ𝑓=𝐹𝐿
+𝐷𝑉2
+2𝑔 
+𝑄 = 0.03 𝑚3/𝑠 
+For 𝐿 = 1000  𝑚, ℎ𝑓 = 2 𝑚 
+𝑉 = 𝑄/𝐴 = 𝑄/(𝜋𝐷2/4) 
+Thus, 2 = 0.023 × 1000
+𝐷× (0.03)2
+(𝜋𝐷2/4)2 = 0.023  1000×16×(0.03)2
+𝜋2×𝐷5   
+Or, 𝐷5 = 0.016779   Or, 𝐷 = 0.4415𝑚 = 44.15 𝑐𝑚 
+Hence, pipe diamete r  = 44.15 cm (Ans.)  
+ 
+ 
+ What we’ve discussed e arlier  is on irrigation  scheduling at farm level . Similarly we  do this 
+scheduling  at the canal level and is called canal irrigation scheduling . The aim is to provide 
+irrigation water at the right time and right am ount and right place , where as in on -farm the 
+irrigation scheduling is basically  when to give irrigation , how much to give irrigation , and 
+how to give irrigation . Right time and right amount and right place  are three  important  aim 
+for the canal systems . Canal scheduling types  on how to  release water at the canal level 
+are rigid schedules and flexible  schedules . 
+In rigid schedules  the time to give water  is fixed for a particular season  which may be on 
+a particular month or particular day or  particular hour where as the flexible scheduling case , 
+is basically on the demand basis and you can change the  dates or  amount  of water . So, let 
+us see  what are the types of canal schedulin g and which part of India  is really practicing 
+these schedules . 
+(Refer Slide Time: 33:44)  
+ 
+Rigid scheduling is when the canal is operated continuously at a constant flow rate and the 
+flow rate is general ly 15 to 30 lps with frequenc ies of 7 to 14 days with durations of 8, 12 
+or 24 hours . And it is fixed that why it is called  rigid  schedule  and it involves  relatively 
+low capital investment  but then it cause im proper  irrigation  timing and also excess 
+irrigation or runoff . This is the main  drawback in this system  since  we are not noticing the 
+demand but supplying  at a constant rate an d constant  time and specific time . So, sometime 
+water may not be utilized  by the farm er at the farm level , which is the main reason  for low 
+water efficiency .  
+Whereas, flexible control  schedule s are expensive because you have to modify the 
+schedules , and instruct the stakeholders  and it takes little more  effort . Optimizing the 
+ 
+ farming operations and maintaining sustainable  irrigated  agriculture , and large irrigation 
+systems are available to irrigate  each crop when needed . Since it is demand base d 
+sometimes you have  unexpected demand  and we need to cop e with that .  
+ (Refer Slide Time: 35:47)  
+ 
+There are several  canal irrigation scheduling’s  available in India  which  are already in 
+practice . The first  one is Warabandi , Wara means turn  bandi means fixation  so, the water 
+supply  turn is fixe d. Water distribution is performed by turns based on the predefined 
+irrigation schedule . This is a rigid scheduling  model  and the upper tier is operated by state 
+agency . If you see the following image  there is river , and  from there , there  is the main 
+canal , the branch canal  and then  the distributaries , so from  the distributary  you get water 
+to the  fields . The dotted lines are operated or managed by farmers  whereas, the other things 
+are owned by or managed by  state a gencies . So, that is why the upper tier is ope rated by 
+state agency the lower tier  is managed by fa rmer s. 
+ 
+ 
+ This system  has a greater social acceptance , because mostly the water  is coming whether 
+you require water or not. And the main limitation is the equitable distribution of water to 
+tail end farmers is not possible due to seepage  losses in the serving length . So, at the tail 
+end sometimes the farme r may not  receive water because of the seepage losses . 
+(Refer Slide Time: 37:33)  
+ 
+Shejpali is another  irrigation scheduling  method this is also  a rigid scheduling  type. It is 
+practiced in Maharashtra  and Gujarat  and priority is given to the tail end farmers . So, on 
+the previous Warabandi case head end farmers are given the priority whereas,  Shejpali  is 
+opposite to that  because  the tail end farmers are given water and then  later on the head end 
+farmer s are served . Shejpali  solve the tail end problem of Warabandi system. F armers are  
+required to apply  irrigation water  right s for the particular crop over a particular area each 
+season . The m ain limitation of this method is the tail end de privation  which result due to 
+the inequality water supply  between head end and tail e nd fa rmer .  
+Block system , is mostly  practice in western  Maharashtra . The  state enters  into a 6 to 12 
+year agreement with the  group of farmers , to provide  fixed quantity  of water for a 
+particular  crop pattern . So, the fa rmers in the block are required to pay  for the volume of 
+water delivered as  measured by the irrigation agency . Block system is also device to 
+encourage  investment in sugar cane cultivation , because sugar belt  needs lots of water , and 
+since there is a water in  the canal , so canal water can be used  for raising  sugarcane  crop.  
+ 
+ (Refer Slide Time: 40:03)  
+ 
+Assured irrigation is another  rigid scheduling . So, here what happened some group of 
+farmers are assured  irrigation  till the last water ing then the remaining  kind of extra water 
+is allotted to the  probable ir rigation area within the system . So, the assured irrigation area 
+farmers are billed each  season  whereas  the probable irrigation area are billed  following 
+their application for water . 
+Land classification  is is another canal irrigation scheduling method  practice in the state of  
+Bihar  and southern states of Tamil Nadu and Kerala  where  surface irrigation water is 
+allocated according to the  land class es such as  paddy or other land classes . The entire land 
+irrigation command area is classified  with regards to  right to irrigation  water , certain key  
+aspects  of operating irrigation schedule’s  are decided  at meeting s with the  district 
+collectors  and the y decide  which crops required  more  water  or priority  . 
+This is all about the  irrigation  channel design , in this class we were focusing on what are 
+the design parameters what are the economic design and what is the maximum  discharge 
+condition we attain  when there is a  rectangular channel or trapezo idal channels . Then how 
+to design a pipe  diameter  pipe size  based on the flow condition . Then similar to the fa rm 
+irrigation scheduling’s  there i s a canal irrigation scheduling . Canal irrigation scheduling is 
+classified in  two types  one is the rigid scheduling and the  other  one is flexible scheduling . 
+So, most  prominent rigid  schedule i s the Warabandi. So with this  introduction and 
+background , the canal conveyance as well as the channel design  is completed . In the next 
+class we will be focusing  more on water measurement , and also some example . And the 
+finally, the tutorial class will focus on the examples related to gate questions . 
+Thank you  so much . 

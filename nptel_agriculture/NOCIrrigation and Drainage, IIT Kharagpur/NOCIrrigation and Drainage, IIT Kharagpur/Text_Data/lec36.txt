@@ -1,0 +1,283 @@
+Irrigation and Drainage  
+ Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 36  
+Management of Salt Affected Soil  
+Hi, this is lecture number 36 on Management of Salt Affected Soils  which is divided into  two 
+lectures; in the first lecture we are going to learn some terminologies  on salt -affected on lands 
+and then how do you estimate the leaching f raction , how to calculate  the salt stress coefficient , 
+water stress coefficient  and then the combined salt and water stress coefficients. In the next 
+lecture , we are going to see some of the examples of these terminologies and then sodic soils 
+and other things   
+(Refer Slide Time: 01:11)  
+ 
+So, what is the salinity? salinity refers to the amount of soluble salts present in the soil. So, 
+soluble salts could be sodium salt, potassium salt, calcium , magnesium salt and  several  other  
+salts. So, the soluble salts which are present in the s oil represented salinit y where as sodicity 
+is exclusively for sodium salt which is present in the soil.  Around the world , there  are 80 
+mha of lands  being  affected  by salinity.  At every minute around 3 h a of land is being 
+affected with or converted into saline soil.  The world ’s area of saline and sodic soils  is 
+around 394 and 434 mha, respectively . And the extent and distribution of salt -affected soil  
+in India is 6.7 million hectares . If you see th e Indian map  in the slide above , the black  shade 
+or black stripes  are lands affected by salinity.  
+ 
+(Refer Slide Time: 03:17)  
+ 
+What are the salinity units? how to measure the soil salinity or water salinity? The units are 
+measured in electrical conductivity units (EC) using an electrical conductivity meter  as 
+discussed earlier in previous classes. So, using th e meter we are going to measure electrical 
+conductivity. So, generally , the units of electrical conductivity is decisiemens /meter (dS/m) 
+and or millimohs per centimeter (mmohs/cm) . To convert the electrica l conductivity of 
+irrigation water (EC iw) into the concentration of salts , Ciw = 640× EC iw the concentration is 
+generally measured in ppm or m g/l. T he 640 may vary from  region to region  and you can use  
+this roughly , but to adjust this you have to do some ki nd of trials . The standard measurement 
+for soil salinity is expressed as a saturated paste extract  (EC e). Measuring the salinity of water 
+is easy , by just  putting the electric conductivity meter in the water sample and you get the 
+meter reading in dS/m . 
+Whereas, for the soil, because it is a solid material  you have to extract the solutes from the 
+soil by adding water and saturating it completely and then bring it  to slurry  form . Then you 
+have to extract water out of the paste and the water will be used to measure the soil salinity. 
+So, that is why it is called soil salinity which is expressed as saturated paste extract salinity.  
+Suppose you have  soil and you add DI water and then make a paste  of it and  then leave it for 
+one day . The next day you filter it , the water which is coming out from the filter will be used 
+to analyze the electrical conductivity  so that is why that is saturated paste extract equivalent.  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 06:49)  
+ 
+Next, is what is osmotic potential ? When you are talking about salinity the potential which is 
+related to salinit y is osmotic potential.  So, because of this , the water extraction by plants is 
+limited . Water with a higher concentration of salts has lower energy that means  it's more 
+negative  so it will induce more sucti on th an water with lower solute concentration. So, if you 
+have a beaker with a semi -permeable layer in between saltwater and freshwater , after 
+equilibrium if you observe the freshwater level goes down whereas, the saltwater level goes 
+up. 
+So, that means, the saltwater is not a bsorbing  water further. So, there is a transportation of 
+salts to freshwater, but what happened after equilibrium? You can see the water which is going 
+into the saline water and saline water level increased  and there is a gap between the initial and 
+final and this creates the suction . So, that means, if you have a plant in the saline water the 
+water will be pulled towards the saltwater and creating suction to the plant. So, water is driven 
+towards a higher salinity region , and therefor e, the plant has difficulty  in pulling water from 
+high saline soils. So , because of that , more suction will be created in the root zone. So, the 
+osmotic potential energy saturated soils.  
+The osmotic potential energy in saturated soils:  
+   ψo=−3.6×EC e 
+Wher e EC e is the electrical conductivity of the saturated paste extract, dS/m; ψo is the osmotic 
+potential, m.  
+So, the above simple equation is for converting the electrical conductivity of the soil into 
+osmotic potential.  As the soil dries, the salinity incre ases. The osmotic potential is as a 
+function of water content is  
+ψo=−3.6×ECe×𝜃𝑠
+𝜃 
+Where θ s is the saturated water content (by volume); θ is the actual water content (by volume)  
+The negativ e means more suction is going to be  created . 
+(Refer Slide Time: 11:02)  
+ 
+Example 36.1: Calculate osm otic potential in the soil at 25% water content if EC e=1 dS/m, and 
+water content is 50%.  
+Solution:  
+The osmotic potential as a function of water content is  
+ψo=−3.6×ECe×𝜃𝑠
+𝜃 
+ψo=−3.6×1×100
+50 
+ψo=−7.2 m=−0.72 atmospheres  
+(Refer Slide Time: 12:30)  
+ 
+Next is the salinity stress coefficient , similar to your crop coefficient you have salinity stress 
+coefficient and water stress coefficient. So what exactly is the salinity stress coefficient?  The 
+increas e in soil salinity decre ases the water uptake as I mentioned before, thus decrease s the 
+yield. Once the plant is not able to extract or pull water from the soil the plant is going to show 
+water stress and that reduc es the  yield.  So, in th e graph above if you see the salt salinity  levels 
+plus saturated paste extract of soil salinity is on X -axis and the relative yield which  is the  actual 
+yield by th e maximum yield is on the Y -axis;  as salinity increases the relative yield is going to 
+be almost constant for up to a certain salinity then after that the salinity effect is going to 
+influence on the yield. So, salinity up to some level is not going to influence yield and we call 
+this a threshold salinity.  If you see from th e graph which  is an example of the response of cotton 
+to increase  in saturated paste extract salinity  when  EC exceeds 7.7 the yield begins to decrease  
+but up to 7.7 the yield is not going to be affected by salinity. The crops that are classified as 
+sensitive and moderately sensitive and moderately tolerant and tolerant to salinity have no 
+reduction yield at EC e 1, 3, 6, and 9.5 dS/m respectively . So, based on that concept the crops 
+are classified, because the crop the response to particular thresholds is different from  plant to 
+plant or crop to crop.  
+(Refer Slide Time: 16:23)  
+ 
+For example, vegetable crops are generally sensitive and moderately sensitive to salinity.  
+Field crops such as cotton wheat barley tend to be l ess sensitive to salinity . The  natural 
+resources conservation services –classif y the irrigation salinity levels as no restriction on use 
+for EC iw < 0.7, slight to moderate restriction for 0.7 < EC iw < 3.0 , and severe restriction for 
+EC iw>3; this is based o n the irrigation water, the previous is based on the soil salinity.  
+ 
+(Refer Slide Time: 17:55)  
+ 
+So salinity stress coefficient is denoted with K s-salt which is expressed as  
+𝐾𝑠−𝑠𝑎𝑙𝑡 =1−𝑏
+100 ×𝐾𝑦(𝐸𝐶𝑒−𝐸𝐶𝑒𝑡 ) 
+Where b is the slope of EC e/yield line,  %/(dS/m); EC et is the threshold saturated paste extract 
+EC e with no yield decrease, dS/m; Ks-salt is the salinity stress coefficient, varies from 0 to 1; Ky 
+is the crop sensitive to water stress  
+(Refer Slide Time: 19:40)  
+ 
+The water stress coefficient is generally calculated under the assumption that yield decreases 
+linearly with the increased percentage of water depletion. So, similar to salinity stress the 
+water stress coefficient is the amount of water that is less when  compared to the field capacity 
+or available water . So, the threshold percentage of w ater depletion θt similar to your sal inity 
+stress , up to certain water cont ent the crop does not show any yield reduction, but there is a 
+threshold water level. So, beyond that , it is going to show yield  reduction . For example , if you 
+remember the management allowable depletion that is MAD this is similar to that, it is a water 
+content in which yield starts to decrease.  Thus, the water stress coefficient Ks-water decreases 
+linearly from 1 at θ t to 0 at θ pwp; that means between θFC and θt the plant does not show any 
+yield reduction , you get maximum yield , then after that at θt you get actual yield and at θpwp 
+the yield is going to be declined maybe you get 0 yield s. So, using that concept K s water is given 
+as follows  
+𝐾𝑠−𝑤𝑎𝑡𝑒𝑟 =𝜃−𝜃𝑃𝑊𝑃
+𝜃𝑡−𝜃𝑃𝑊𝑃 
+𝜃𝑡=𝜃𝐹𝐶−(𝑝
+100)(𝜃𝐹𝐶−𝜃𝑃𝑊𝑃) 
+p is the point at which yield decreases in contrast to MAD, this is kind of a threshold point at 
+which the yield is going to decline, maybe equal to P or less than P.  
+(Refer Slide Time: 22:42)  
+ 
+So, what is the stress coefficient? So,  the combination of both water as well as salt stress 
+coefficients . 
+𝐾𝑠=𝐾𝑠−𝑠𝑎𝑙𝑡  × 𝐾𝑠−𝑤𝑎𝑡𝑒𝑟  
+And the relation between the yield decreased and combined stress which is equal to  
+1−(𝑌𝑎
+𝑌𝑚𝑎𝑥)=𝐾𝑦(1−𝐾𝑠) 
+Where K y is the crop sensitivity to water stress; Ya is the actual yield, kg/ha; Ymax is the 
+maximum potential yield, kg/ha.  
+The graph above is showing the K s versus water content curve , or percentage depletion and 
+Ks. So, if yo u see  θt is the threshold  and there  is θFC at field capacity and  θpwp. When the % 
+depletion is up to θt the K s is almost constant or is equal to  1 then after that  as the  depletion 
+level up the K s started  declining up to 0 at θpwp. The θt for drought -sensitive crop, moderately 
+drought -tolerant crop , and the drought -tolerant crop is shown in the graph above . There is 
+another classification of θt based on the p-value which is  25% for drought -sensitive crop and 
+50 % for the drought -tolerant crop . 
+(Refer Slide Time: 24:35)  
+ 
+So, now from the previous equation , you can rearrange to solve the actual yield  
+𝑌𝑎=(1−𝐾𝑦(1−𝐾𝑠))𝑌𝑚𝑎𝑥  
+The table above presents the crop sensitive water stress the K y values for different crops. So, 
+you can adopt from this table an d substitute it  in the equation  and get the actual yield.  
+(Refer Slide Time: 25:05)  
+ 
+Example  36.2  
+Calculate actual yield for cotton for a growing season if average salinity during the growing 
+season is 10.4 dS/m, and average water content is 14 %. θ fc = 20%, θpwp = 10%. K y = 0.85. 
+Max yield = 1,285 kg/ha. MAD = 50%. Threshold EC et = 7.7 dS/m and b = 5.2.  
+Solution:   
+𝜃𝑡 = 𝜃𝐹𝐶 −(𝑀𝐴𝐷
+100)×(𝜃𝐹𝐶−𝜃𝑃𝑊𝑃 ) 
+θt = 20-(0.5/100) (20 -10)=15%  
+𝐾𝑠−𝑤𝑎𝑡𝑒𝑟 =𝜃−𝜃𝑝𝑤𝑝
+𝜃𝑡−𝜃𝑝𝑤𝑝    = 0.14−0.10
+0.15−0.10  = 0.8  
+Calculate K s_salt 
+𝐾𝑠−𝑠𝑎𝑙𝑡 =1−𝑏
+100 ×𝐾𝑦(𝐸𝐶𝑒−𝐸𝐶𝑒𝑡 ) = 1−5.2
+100 ×0.85(10.4−7.7) = 0.83  
+ 
+(Refer Slide Time: 27:23)  
+ 
+Now, knowing th ese two stress, you can get the combined salt and water stress.  
+Calculate total K s 
+Ks = K s_water × K s_salt 
+     = 0.80 × 0.83 = 0.67  
+Calculate yield  
+𝑌𝑎=(1−𝐾𝑦(1−𝐾𝑠))𝑌𝑚𝑎𝑥 =(1−0.85(1−0.67))1285 = 924 kg/ha  
+ 
+ 
+ 
+(Refer Slide Time: 28:18)  
+ 
+Example 36.3  
+Calculate the yield reduction for sugar beets. Assume 80 cm is applied and 100 cm is required. 
+Ymax = 40 tons/ha.  
+Solution:   
+From Table, K y for sugar beat is 1.0.  
+The yield based on the FAO, K y slope is calculated as follows:  
+𝑌𝑎=(1−𝐾𝑦(1−𝐾𝑠))𝑌𝑚𝑎𝑥  =    (1−𝐾𝑦(1−𝐸𝑇𝐶_𝑎𝑑𝑗
+𝐸𝑇𝐶))𝑌𝑚𝑎𝑥   
+= (1−1.0(1−80
+100))40 = 32 t/ha  
+ (Refer Slide Time: 29:39)  
+ 
+So, the other one i s the salt balance at the farm level, it follow s the simple mass balance 
+equation as follows . 
+[ρw(𝑉𝑖𝐶𝑖+𝑉𝑟𝐶𝑟+𝑉𝑔𝐶𝑔)+𝑀𝑠+𝑀𝑎]−[ρw(𝑉𝑑𝐶𝑑+𝑉𝑠𝑑𝐶𝑠𝑑+𝑉𝑝𝑤𝐶𝑝𝑤)+𝑀𝑝]=△Msw 
+Where,  
+Vi, Vr, Vg = the volume of water added to the same volume of soil by irrigation, rainfall, and 
+upward flux (capillary rise), respectively, C i, Cr, Cg = concentration of salt in irrigation water, 
+rainwater, and groundwater, respectively, mg/l  
+Vd, Vsd, Vpw = volume of water removed by deep drainage, surface drainage, and plant uptake, 
+respectively, L  
+Cd, C sd, C pw = concentrations of salt in deep drainage, surface drainage, and plant uptake 
+water, respectively, mg/l  
+Ms = mass of salt dissolved from soil mine ral of a specified (or unit) soil volume, mg  
+Ma = mass of salt from agricultural inputs, mg  
+Mp = mass of salts precipitated (turned into solid), mg  
+△Msw= change in mass of salt in the soil’s liquid phase  
+ρw = density of water, 1000 mg/L  
+(Refer Slide Time: 33:22)  
+ 
+For the st eady-state model ( Hillel, 1998 ) the assum ptions are  the salinity concentration during 
+season and year is constant that means, there is no change  △Msw=0 and in -situ precipitation 
+(liquid to solid ) and dissolution (solid to liquid ) of salt  is negligible that means, M s, M p, and 
+Ma are all 0 and crops removed a negligible amount of salt that (Mc=0).  
+(𝑉𝑖𝐶𝑖+𝑉𝑟𝐶𝑟)= (𝑉𝑑−𝑉𝑔)𝐶𝑑 
+If C in is the average weighted salinity of the precipitation and irrigation water, and V g is 
+negligible, then  
+ 𝑉𝑖𝑛𝐶𝑖𝑛= 𝑉𝑜𝑢𝑡𝐶𝑜𝑢𝑡   or   𝑑𝑖𝑛𝐶𝑖𝑛= 𝑑𝑜𝑢𝑡𝐶𝑜𝑢𝑡  by replacing water volume with water 
+depth, d  
+(Refer Slide Time: 35:24)  
+ 
+So, now, what is the leaching fraction.  Leaching fraction denoted with LF is the leaching 
+depth or seepage depth  divided by the applied depth where i in the following includes 
+precipitation as well as irrigation . Leaching fraction is the amount of water that is being used 
+to leach the salts from the soil body . If C in is the average salinity in both irrigation and 
+precipitation  then  
+𝐿𝐹=𝑑𝑜𝑢𝑡
+𝑑𝑖𝑛 = 𝑑𝑠𝑒𝑒𝑝𝑎𝑔𝑒
+𝑖 
+Since,  
+ 𝑑𝑖𝑛𝐶𝑖𝑛= 𝑑𝑜𝑢𝑡𝐶𝑜𝑢𝑡 
+ 𝑑𝑖𝑛𝐶𝑖𝑛= LF×𝑖×𝐶𝑜𝑢𝑡 
+𝐶𝑜𝑢𝑡= 𝐶𝑖𝑛
+𝐿𝐹 
+Because EC is propositional to concentration C, the leachate salinity for uniform water 
+application can be written as  
+𝐸𝐶𝑑𝑤=𝐸𝐶𝑖𝑤
+𝐿𝐹 
+Where EC dw is the electrical conductivity of drainage water (leachate or seepage), dS/m. EC iw 
+is the electrical con ductivity of irrigation water, dS/m.  
+ 
+ 
+ 
+(Refer Slide Time: 37:56)  
+ 
+The depth of drainage water is equal to the irrigation water minus d ET. So,  
+Substitute into  𝐿𝐹=𝑑𝑜𝑢𝑡
+𝑑𝑖𝑛 = 𝑑𝑠𝑒𝑒𝑝𝑎𝑔𝑒
+𝑖 
+dout = I - dET 
+LF=i−dET
+i 
+So, this is the leaching fraction in terms of water depths, knowing the water depths you can 
+get the leaching fraction. But there is an empirical equation for knowing the salt content or 
+salt concentration or electrical conductivity of both irrigation water and soil.  
+𝐿𝐹=𝐸𝐶𝑖𝑤
+5×𝐸𝐶𝑒 −𝐸𝐶𝑖𝑤 
+So, this is an empirical equation mostly considered as a standard equation to estimate the 
+leaching  fraction.  
+This is the end of the lecture , in this lecture , we focused on what is salinity and how it is 
+measured and what are the units a nd what is th e osmotic potential , and how do you estimate 
+osmotic potential. And then what is the soil stress coefficient , water stress coefficient and how 
+do you get the combined salt stress and water stress coefficient , and how to estimate the yield 
+reduction due to salt stress  and water  stress  coefficients.  And finally,  what  is a salt balanced 
+equation  and what is the steady -state salt balance equation  and finally leaching  fraction , how 
+to estimate the leaching fraction knowing the inflows and outflows as well as their 
+concentrations.  
+Thank you.  

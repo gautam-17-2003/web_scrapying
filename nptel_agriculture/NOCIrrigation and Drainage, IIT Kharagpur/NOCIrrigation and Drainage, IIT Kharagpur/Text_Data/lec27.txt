@@ -1,0 +1,290 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 27 
+Aquifer Properties  
+This is  lecture number 27 and we are going to continue from the previous lecture which is 
+on the aquifer properties . 
+ (Refer Slide Time: 00:24 ) 
+ 
+So, before going to the lecture  there is an example  
+In a soil stratum, the hydraulic conductivity at the surface is 2×10-3 cm/s. it uniformly 
+reduced to 4×10-4 cm/s at a depth of 22 m as shown in the figure. If the water table is 3 m 
+below the surface, determine the average hydraulic conductivity of the stratum.  
+(Refer Slide Time: 02:21 )  
+ 
+Solution:  For linear variation, the hydraulic conductivity at a height ( the bottom as datum) 
+can be expressed as  
+So, here K is hydraulic conductivity , which is equal to  
+𝐾=4×10−4+(2×10−3−4×10−4
+22)×𝑥 
+𝐾=4×10−4+(2×10−3−4×10−4
+22)×𝑥 
+𝐾=4×10−4+0.727 ×10−4×𝑥 
+Hydraulic conductivity is a continuous function of depth  
+𝐾̅= 1
+𝑏∫𝐾𝑑𝑥𝑏
+0 
+𝐾̅= 1
+19∫(4×10−4+0.727 ×10−4×𝑥 )𝑑𝑥19
+0 
+𝐾̅=10.9×10−4 cm/s  =0.942 m/d (Ans.)  
+(Refer Slide Time: 04:02 ) 
+ 
+Now we will understand the  validity of Darcy’s  law. Darcy’s  law is valid when the head 
+loss is directly proportional to the  velocity of flow  and Darcy’s  law is valid for laminar 
+flows and the Reynolds number  Re should be less than 1, strictly if it is less than one  it is 
+a laminar flow and we a lready know how to estimate  Re. The R e is calculated as:    
+𝑅𝑒=𝐼𝑛𝑒𝑟𝑡𝑖𝑎𝑙  𝑓𝑜𝑟𝑐𝑒
+𝑉𝑖𝑠𝑐𝑜𝑢𝑠  𝑓𝑜𝑟𝑐𝑒= 𝜌𝑉𝐿
+𝜇  
+Where, 𝜌= density of fluid;  𝑉= flow velocity;  𝐿= length or diameter;  𝜇= viscosity  
+Darcy law is strictly valid when 𝑅𝑒<1. but practically, Darcy law may be applied to flow 
+condition that exit when 𝑅𝑒<10. 
+(Refer Slide Time: 04:33 ) 
+ 
+And, there is the next example here .  
+Example 27.2: Check the validity of Darcy law, if the density of water 1000 Kg/m3; 
+viscosity 0.004 Kg/sm2; Diameter of pipe = 0.2 mm; Velocity = 0.0025 m/s  
+Solution:  
+Reynolds number ( 𝑅𝑒) 
+𝑅𝑒= 𝜌𝑉𝐿
+𝜇= 1000 ×0.0025 ×0.0002
+0.004 
+=0.125 
+Which is less than 1  which  means Darcy’s  law is valid for this . 
+ (Refer Slide Time: 05:10 ) 
+ 
+And, next is transmissivity . So, the transmissivity is defined as the rate at which water is 
+transmitted throug h its unit width under a unit  hydraulic gradient .  
+The transmissibility is 𝑇=𝐾×𝑏 
+ Where 𝐾 =hydraulic conductivity  
+ 𝑏 = thickness  
+The coefficient of transmissivity is also called  transmissibility . 
+ (Refer Slide Time: 06:32 ) 
+ 
+Transmissivit y characterizes the ability of the aquifer to transmit the wa ter. Suppose if , 
+you have  the water flowing in the x-direction at different layers . So, each layer has 
+different K values and the total thickness is b . So, the average Kx can be estimated by  
+knowing the individual K value.   
+The average K x is 
+𝐾𝑥= ∑𝐾𝑚𝑏𝑚
+𝑏𝑛
+𝑚=1 
+And, another average is called the distance average  
+𝐾𝑥= ∑𝑏
+∑𝑏𝑚
+𝐾𝑚𝑛
+𝑚=1𝑛
+𝑚=1 
+ 
+ (Refer Slide Time: 07:38 ) 
+ 
+Specific retention  is another aquifer property. Specific  retention of an aquifer is defined as 
+the ratio of the volume of water , after being saturated will retain against the force of gravity  
+to its volume . Let us say the volume of  saturated soil  is V, the gravitational water is going 
+to escape from the  saturated soil and V r is the volume of water that soil after saturated will 
+retain against the gravity.  In that case , the volume of water that is retained inside against  
+the ratio of water is retained divided by the total volume that will give the specific retention  
+ 𝑆𝑟=𝑉𝑟
+𝑉 
+The specific retention  shows  how effectively a particular aquifer retains water against 
+gravity . So, specific ret entio n is similar to the field capacity  Suppose if we have the 
+saturated sand grains or sand particle, so due to gravity all the water which is not influenced 
+by particles will be flown out.  
+Suppose if we have  the sand particles  as shown in the slide above  and this is completely 
+saturated , due to gravity  all this water which is  not influenced by particles will be 
+influenced by gravity and will be flown out , the rest will be  attached to the soil particles 
+and this is called water is retained in soil particles . So, the volume of water that is retained 
+divided by the total volume  of water will give the specific retention . Since it is making up 
+the pores  so, Sr plus Sg combined  make s up the soil pores , the pores occupied through 
+gravity water + field capacity . 
+ 
+ 
+ 
+(Refer Sl ide Time: 10:47 ) 
+ 
+Next is a specific yield ; suppose there is a soil specimen  initially saturated , it will drain 
+out due to gravity  and the rest will be retained in the soil . So, let us  say that is  Vr is retained 
+and Vg came out . Now, Sr = Vr/V whereas,  Sy = Vg/V . So, Sy is called a specific yield . 
+Specific yield is the ratio of the volume of water  that will yield by gravity to  it is own 
+volum e. Vg is the volume drain ed by gravity and V is the total volume. S pecific yield  is 
+also called effective porosity .  
+𝑆𝑦=𝜂−𝑆𝑟 
+Some portion of  the soil water is difficult to extract , held by adhesive forces  that are 
+retained 
+(Refer Slide Time: 12:07 ) 
+ 
+Next is the apparent specific yield . All water that is expected to  yield may not yield back  
+because it is a trap by air . Due to air entrapment , the water  sometimes finds it difficult to 
+pass through gravity , which  means, the gravity water may not be equal to 100%, that is  
+why apparent specific yield term come s into the picture . 
+Apparent specific yield  is defined as the ratio of the volume of water added or removed  
+directly from the saturated aquifer to the resulting change in volume of the aquifer below 
+the water table .  
+𝑆𝑦𝑎=𝑉𝑔𝑎
+𝑉 
+Where, 𝑉𝑔𝑎 = volume of water removed directly from the sat urated aquifer  
+𝑉 = total volume  
+𝑆𝑦<𝑆𝑦𝑎 
+(Refer Slide Time: 14:08 ) 
+ 
+Next is specif ic storage  which  is defined as the volume of water that a unit volume of 
+aquifer releases from the storage under a unit decline of hyd raulic head , it is estimated  and 
+assigned with Ss specific storage is equal to  
+𝑆𝑠=𝛾𝜂𝛽 (1+𝛼
+𝜂𝛽) 
+Where 𝛾= unit weight of water;  𝜂= porosity;  𝛽=compressibility of water= 1
+𝐾𝑤; 𝐾𝑤= bulk 
+modulus of elasticity of water;  𝛼= vertical compressibility of the solid = 1
+𝐸𝑠; 𝐸𝑠= bulk 
+modulus of elasticity of aquifer skeleton . 
+Ss can also be writ ten as  
+𝑆𝑆=𝛾𝜂𝛽 +𝛾𝛼 
+Where 𝛾𝜂𝛽= storage drive from the compression of water;  𝛾𝛼= fraction drive from the 
+compressibility of the aquifer  
+All these terms are coming to the picture because  initially , the soil is completely saturated  
+and the moment you remove the water  that is  causing the declin e in the head . For a unit 
+decline in the head , it will influence the storage , which is present in the soil specimen . The 
+storage is an influenc e because the moment you remove water which is confined  in the 
+strata  that will compress  the aquifer  and it will affect the expansion of the fluid . The two 
+components  are going on , one is compression is taking place and the other one is the 
+expansion of the fluid . In the equation above   the first part indicates the storage from the 
+expansion of the water  and the second part is derived from  the compressibility of the 
+aquifer  
+ (Refer Sl ide Time: 17:35 ) 
+ 
+Next is the  storage coefficient or the S torativity . It is also called the volume of water 
+release d from storage per unit surface area of the aquifer per unit decline of the  component 
+of hydraulic head  normal to the surface . It is similar to the transmissivity equation if  Ss is 
+the K and Sc will be the transmissibility  so, similar to the  transmissivity and K here we 
+have these two terms  storage coefficient and specific storage .  
+For example, in a vertical soil column, as  shown in the image above and it is an unconfined 
+aquifer  where the water table is shown in a dotted line . The amount of water released from 
+the system or the storage  per unit decline in the water table or head (as shown in the image 
+above)  is called the storage coefficient . Similarly , in a confined aquifer for the unit decline  
+of water which is  released from the system is  called the  storage coefficient . In both cases , 
+we will estimate the storage coefficient as  
+𝑆𝑐= 𝑆𝑠𝑏 
+Where, Ss= Specific storage of the aquifer materials ; b is the thickness of aquifer material . 
+𝑆s varies from 10-5-10-3  in a confined aquifer  and 0.1 -0.3 in an unconfined aquifer , you 
+can see the magnitude of differences . 
+ (Refer Slide Time: 20:01 ) 
+ 
+Let us solve  an example  
+Example 27.3:  
+A confined aquifer of 40 m thickness has a porosity of 0.3. Determine the specific storage 
+and storage coefficient. If 𝛼=1.5×10−9 cm2/dyne and 𝛽=5×10−10 cm2/dyne.  
+Solution:  
+Given, Thickness (b)= 40 m   = 4000 cm;   porosity = 0.3;   𝛼=1.5×10−9 cm2/dyne  
+𝛽=5×10−10 cm2/dyne;  𝛾= 1g/cm3 × 980 cm/s2   = 980 dyne/cm3 
+As we know that,  
+ 𝑆𝑆=𝛾𝜂𝛽 +𝛾𝛼;     
+𝑆𝑆=980 (𝑑𝑦𝑛𝑒
+𝑐𝑚2){1.5×10−9+0.3×5×10−10𝑐𝑚2
+𝑑𝑦𝑛𝑒} 
+𝑆𝑆=1.62×10−6 per cm (Ans.)  
+𝑆𝑐= 𝑆𝑠𝑏 
+ 𝑆𝑐=1.62×10−6×4000  
+𝑆𝑐=6.47×10−3 (Ans.)  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 21:05 ) 
+ 
+Example 27.4:  In an area of 120 ha, the water table dropped by 5 cm. If the porosity is 
+28% and specific retention is 9%, determine the specific yield of the aquifer and change 
+in groundwater storage.   
+Solution:  As we know that, 𝜂=𝑆𝑦+𝑆𝑟 
+28=𝑆𝑦+9 
+𝑆𝑦=19%  
+𝐶ℎ𝑎𝑛𝑔𝑒  𝑖𝑛 𝑔𝑟𝑜𝑢𝑛𝑑  𝑤𝑎𝑡𝑒𝑟  𝑠𝑡𝑜𝑟𝑎𝑔𝑒  = 𝑎𝑟𝑒𝑎  𝑜𝑓 𝑎𝑞𝑢𝑖𝑓𝑒𝑟 ×𝑑𝑟𝑜𝑝  𝑖𝑛 𝑔𝑟𝑜𝑢𝑛𝑑  𝑤𝑎𝑡𝑒𝑟 ×𝑆𝑦 
+𝐶ℎ𝑎𝑛𝑔𝑒  𝑖𝑛 𝑔𝑟𝑜𝑢𝑛𝑑  𝑤𝑎𝑡𝑒𝑟  𝑠𝑡𝑜𝑟𝑎𝑔𝑒  =120 ×5×0.19 
+=114 ha-m  
+=114 ×104 m3 (Ans.)  
+(Refer Slide Time: 22:22 ) 
+ 
+Example 27.5:  
+A phreatic aquifer, extending over an area of 220 km2, has a Storativity of 0.15. Estimate 
+the amount of wa ter lost from storage if the water level fall s 0.16 m during drought.  
+Solution:  
+Given,  
+Area 220 km2 
+Storativity = 0.15  
+water level fall = 0.16  
+𝑉𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑙𝑜𝑠𝑡  = 𝑆𝑡𝑜𝑟𝑎𝑡𝑖𝑣𝑖𝑡𝑦 ×𝑎𝑟𝑒𝑎 ×𝑑𝑟𝑜𝑝  𝑖𝑛 𝑤𝑎𝑡𝑒𝑟  𝑙𝑒𝑣𝑒𝑙  
+=0.15×220 ×106×0.16 
+=5.28×106 m3 (Ans.)  
+ (Refer Slide Time: 23:19 ) 
+ 
+Example 27.6:  
+In an area 1 km2 in extent, the initial water table was at a depth of 25 m below the ground 
+surface. After applying irrigation, the water rose to a depth of 24 m. letter on, an amount 
+of 3×105 m3 groundwater was pumped out resulting in a drop in the water table by 2.2 
+m. Find out the specific yield of the aquifer and the volume of recharge during irrigation.  
+Solution:  
+𝑉𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑑𝑟𝑎𝑖𝑛𝑒𝑑  𝑖𝑛 𝑙𝑜𝑤𝑒𝑟𝑖𝑛𝑔  𝑤𝑎𝑡𝑒𝑟  𝑡𝑎𝑏𝑙𝑒  𝑏𝑦 2.2 𝑚 = 𝑎𝑟𝑒𝑎 ×2.2  
+=1×106×2.2 
+=2.2 mm3 
+𝑆𝑝𝑒𝑐𝑖𝑓𝑖𝑐  𝑦𝑖𝑒𝑙𝑑 =𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑝𝑢𝑚𝑝𝑒𝑑
+𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑎𝑞𝑢𝑖𝑓𝑒𝑟  𝑑𝑟𝑎𝑖𝑛𝑒𝑑  =3×105
+2.2×106=0.136 
+𝑉𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑟𝑒𝑐ℎ𝑎𝑟𝑔𝑒 =𝐴𝑟𝑒𝑎  𝑜𝑓 𝑎𝑞𝑢𝑖𝑓𝑒𝑟 ×𝑟𝑖𝑠𝑒  𝑖𝑛 𝑤𝑎𝑡𝑒𝑟  𝑡𝑎𝑏𝑙𝑒 ×𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐  𝑦𝑖𝑒𝑙𝑑   
+=1×106×1×0.136 =136000  m3 (Ans.)  
+(Refer Slide Time: 25:42 ) 
+ 
+The other aquifer property  is the  hydraulic resistance , here we are looking for two 
+properties : hydraulic resistance and  the leakage factor . So, these two properties  belong to 
+a semi -confined aquifer .  The hydraulic  resistance is the reciprocal of leakage factor or 
+resistance against the vertical flow . Once you have  a permeable surface that means, water 
+can pass through  it because it is a semi -pervious  layer but  the water  cannot passes through  
+easily that is  why it is called leakage . 
+The p roperty of the semi -permeable layer of the semi -confines aquifer  
+𝐶=𝐵2
+𝐾𝑏 
+Where, 𝐶= hydraulic resistance, days  
+𝐵= leakage factor, m  
+𝐾= hydraulic conductivity, m/d  
+𝑏= thickness of the confined aquifer  
+The hydraulic resistance is varying from 102-106 min 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 27:22 ) 
+ 
+The l eakage factor d etermines the distribution of leakage into or from the semi -pervious 
+layer  
+A high value indicates gr eater resistance of semi pervious strata  
+Similarly , in the same  equation  of hydraulic resistance if we solve for B 
+𝐵=√𝐾𝑏𝐶  
+Where, 𝐾= hydraulic conductivity, m/d  
+𝑏= thickness of the confined aquifer  
+𝐶= hydraulic resistance  
+ (Refer Slide Time: 28:06 ) 
+ 
+Isotropy and  homogeneity  - If aquifer properties or any of the property  are independent of 
+the direction that is called isotropic . So, if K is the same in all directions  it is called the  
+isotropic . If all properties of an aquifer are constant or independent of the locations,  it is 
+called homogeneous . So, the properties are homogeneous when the particular property 
+does not  change with the location . So, the location indicates homogeneity  and direction 
+indicate isotropy  and anisotropic or heterogeneity is opposite to the previous property . 
+If the property  is dependent on the direction  it is anisotropic  and if all properties of the 
+aquifer depend on location it is called heterogeneity . Mostly it is for hydraulic conductivity  
+because the soil formations vary in the location mostly . Since we are dealing with flow  K 
+is the most impressive parameter  in groundwater flow . So, we consider this isotropic , 
+homogeneity , anisotropic and non-homogeneity  or heterogeneity  for K hydraulic 
+conductivity . 
+So with this , the aquifer properties are mostly covered like porosity , the bulk density , 
+specific yield , apparent specific yield , specific retention , storage coefficient , specific 
+storage , and then the properties of leakage aquifer , properties of semiconfined aquifers like 
+leakage factor and hydraulic resistance . And, then the condition of the aquifer and the flow 
+system like the properties are the same with the direction  or not changing with the 
+direction . We solved some of the examples  and we will be  studying more on well 
+hydraulics in the next  few lectures and, then the tutorial for solving a few examples on the 
+well hydraulics . 
+Thank you . 

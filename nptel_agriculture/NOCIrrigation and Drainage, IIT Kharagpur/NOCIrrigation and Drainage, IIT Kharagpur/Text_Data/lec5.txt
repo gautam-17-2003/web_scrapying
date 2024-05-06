@@ -1,0 +1,209 @@
+Irrigation  and Drainage  
+Prof.  Damodhara  Rao Mailapallli  
+Department  of Agricultural  and Food  Engineering   
+Indian Institute  of Technology, Kharagpur  
+Lecture  - 05 Tutorial  I 
+Friends  welcome  to lecture  number  5 of Irrigation  and Drainage  lecture  series.  So, in this 
+lecture , we are going to  solve some problems related to GATE examination  questions with the 
+help of W hatever  theory  we have learned  during  this last week .  
+(Refer  Slide  Time: 00:58)  
+ 
+Exercise 1 Show that the water content (W), specific gravity (G), degree of saturation (Sr) 
+and void ratio (e) are related as  
+So, here previously  what  we have learned,  we can get some  feedback  from  those  lectures  
+We know  
+Water  content  (W) = 𝑤𝑤
+𝑤𝑠 
+ Void  ratio  (e) = 𝑉𝑣
+𝑉𝑠 
+Degree  of saturation  (Sr) =𝑉𝑤
+𝑉𝑣 
+Unit  weight  (𝛾) = 𝑤
+𝑉 
+Specific  gravity  (G) = 𝛾𝑠
+𝛾𝑤 
+(Refer  Slide  Time: 09:01)  
+ 
+So let  us start with WG,  
+𝑊×𝐺 =𝑤𝑤
+𝑤𝑠×𝛾𝑠
+𝛾𝑤 
+𝑊𝐺 =𝑤𝑤
+𝑤𝑠×𝑤𝑠
+𝑉𝑠
+𝑤𝑤
+𝑉𝑤 
+𝑊𝐺 =𝑤𝑤
+𝑤𝑠×𝑤𝑠
+𝑉𝑠×𝑉𝑤
+𝑤𝑤 
+𝑊𝐺 =𝑉𝑤
+𝑉𝑠 
+Dividing numerator and denominator with the volume of void V v 
+𝑊𝐺 =𝑉𝑤
+𝑉𝑣
+𝑉𝑠
+𝑉𝑣 
+𝑊𝐺 =𝑉𝑤
+𝑉𝑣×𝑉𝑣
+𝑉𝑠 
+As we can see V w/Vv is equal to the degree of saturation and V v/Vs  
+𝑊𝐺 =𝑆𝑟×𝑒 
+So, in this way , we started with  W G and end with Sr into e. 
+ 
+ 
+(Refer  Slide  Time: 09:05)  
+ 
+ 
+Exercise 1.2: Show the relationship between unit weight ( 𝛾), specific gravity ( 𝐺), void ratio 
+(𝑒), Degree of saturation  (𝑆𝑟) and Unit weight of water ( 𝛾𝑤) 
+𝛾= (𝐺+𝑒×𝑆𝑟)×𝛾𝑤
+1+𝑒 
+So, here as we did the previous.   
+Unit  weight  (𝛾) = 𝑤
+𝑉 
+Void  ratio  (e) = 𝑉𝑣
+𝑉𝑠 
+Degree  of saturation  (Sr) =𝑉𝑤
+𝑉𝑣 
+𝛾=𝑤𝑤 +𝑤𝑠
+𝑣𝑣 +𝑣𝑠 
+We know 𝛾𝑤=𝑤𝑤
+ 𝑣𝑤 and 𝛾𝑠=𝑤𝑠
+ 𝑣𝑠 Substituting in the above equation  
+𝛾=𝛾𝑤 𝑣𝑤+𝛾𝑠 𝑣𝑠
+𝑣𝑣 +𝑣𝑠 
+We know Specific  gravity  (G) = 𝛾𝑠
+𝛾𝑤  Substituting in the above equation  
+𝛾=𝛾𝑤 𝑣𝑤+𝐺 𝛾𝑤𝑣𝑠
+𝑣𝑣 +𝑣𝑠 
+ 
+ 
+(Refer  Slide  Time: 11:34)  
+ 
+𝛾= (𝑣𝑤+𝐺 𝑣𝑠)𝛾𝑤
+𝑣𝑣 +𝑣𝑠 
+We know Degree  of saturation  (Sr) =𝑉𝑤
+𝑉𝑣 Substituting in the above equation  
+𝛾=(Sr𝑣𝑣+𝐺 𝑣𝑠)𝛾𝑤
+𝑣𝑣 +𝑣𝑠 
+Dividing all the compone nts with V s both numerator and denominator  
+𝛾=(Sr𝑣𝑣
+𝑣𝑠+𝐺 𝑣𝑠
+𝑣𝑠)𝛾𝑤
+𝑣𝑣
+𝑣𝑠+𝑣𝑠
+𝑣𝑠 
+𝛾=(Sr𝑣𝑣
+𝑣𝑠+𝐺 𝑣𝑠
+𝑣𝑠)𝛾𝑤
+𝑣𝑣
+𝑣𝑠+𝑣𝑠
+𝑣𝑠 
+We know 𝑒=𝑣𝑣
+𝑣𝑠 Substituting in the above equation  
+𝛾= (Sr×𝑒+𝐺)𝛾𝑤
+1+𝑒 
+ 
+ 
+ 
+(Refer  Slide  Time: 13:13)  
+ 
+Exercise 1.3. A tensiometer, attached with a mercury manometer, is installed 0.4 m below the 
+soil surface , the height of mercury in the cup 0.2 m for saturated soil. The density of mercury 
+is 13600 kg/m3. The rise of mercury in manometer at 0.6 -atmosphere tension is?  
+So, let us say ψM is equal  to 0.6 atmosphere s. So, what  would  be h?  
+We know  the formula  𝑃=𝜌𝑔ℎ 
+P is pressure  in N/m2, and ρ is the density,  kg/ m3and g is acceleration  due to gravity  m/s2 
+and h in meter.   
+Given  
+Tensiometer depth = 0.4 m  
+Height of mercury  in the cup = 0.2 m  
+Density of mercury = 13600 kg/m3 
+P = 0.6 atm = 0.6 ×1.013 × 105 N/m2 
+ℎ=0.6 ×1.013  × 105 
+13600  ×9.81=0.456  𝑚 
+h is equal  to 0.456  meter s. So, in this exercise  gives  we c onvert  atmospheric pressure  
+into height  of water  column  ok. 
+ 
+ 
+ 
+ 
+ 
+(Refer  Slide  Time: 18:01)  
+ 
+ 
+Exercise 1.4. A wheat field needs to be irrigated with the depth of irrigation of 50 cm, the 
+duration of the crop season is 125 days. A stream size of 15 lps flowing for 15 hours a day 
+can irrigate an area of ?  
+Solution:  
+  Depth of irrigation = 50 cm  = 0.5 m  
+  Duration of the crop =125 days  
+Stream size, Q = 15 lps = 15×10-3 m3/s 
+  For 15 hours the volume of water is = 15 × 10-3 × 15 × 3600 × 125  
+                         = 101250 m3 
+  𝐴𝑟𝑒𝑎 =𝑉𝑜𝑙𝑢𝑚𝑒
+𝑑𝑒𝑝𝑡 ℎ=101250
+0.5 
+           = 202500  𝑚2=202500
+10000=20.25 ℎ𝑎 
+          𝐴𝑟𝑒𝑎  = 20.25 ℎ𝑎 
+ 
+ 
+ 
+ 
+ 
+(Refer  Slide  Time: 20:19)  
+ 
+Exercise 1.5. The root zone depth of the crop is 90 cm , and its availability water holding 
+capacity is 15 cm/meter. Irrigation to be applied when 40% available water in the root zone is 
+depleted. If daily consumption use is 3 mm, the irrigation period is     
+For 1 meter,  Water holding capacity = 15 cm/meter  
+Root zone depth of crop = 90 cm = 0.9 m  
+So, now you have  to find out the moisture -holding  capacity  with 90 cm 
+   Water holding capacity at 0.9 m = 15 × 0.9 = 13.5 cm  
+Irrigation was applied when  40% available water in the root zone is depleted  
+   Irrigatio n required = 40/100 × 13.5  = 5.4 cm= 54 mm  
+ Daily consumption use = 3 mm  
+So, daily  withdrawal  is 3 mm per day from  this reservoir   
+So, how many  days you need  to give irrigation?   
+Irrigation period = 54/3 = 18 days  
+So, total, it takes  18 days to deplete  this 40 percent  of total available water.  So, in this way 
+you can calculate  the irrigation  next irrigation . The first irrigation is after18 days, and  you 
+have  to give next irrigation  to replenish  that 40 percent  of water.  
+(Refer  Slide  Time: 23:56)  
+ 
+Exercise 1.6:A crop  has effective root zone depth of 1200 mm and monthly (30 days) crop 
+evapotranspiration of 260 mm. The effective rainfall during the 30 days period is 20 mm. The 
+field capacity and permissible soil moisture depletion (volume basis) are 1 6% and 8%, 
+respectively. The irrigation interval in days for the crop will be        
+So this is the last example  of this tutorial ,  
+   Effective root zone depth = 1200 mm  
+  Crop evapotranspiration (ET) =260 mm  
+  Time Period = 30 days  
+  Daily consumption u se  = 260 mm /30 days  
+  Effective rainfall =20 mm  
+  Feld capacity =16%  
+Permanent wilting point = 8%  
+ 
+ 
+ 
+ 
+ 
+(Refer  Slide  Time: 25:20)  
+ 
+ 
+So first the net depth  of irrigation is calculated.  
+Net depth  of irrigation   = (16−8)
+100 ×1200  = 96 mm  
+Irrigation  interval  = Net depth  of irrigation +Rainfall
+Daily  consumption  use  
+= 96+20
+260
+30  
+= 116
+8.67= 13.37 
+             ~13 days  
+So, every  13 days you have to give irrigation  
+So, these  tutorials  covered  soil physical  properties  and then irrigation  intervals.  
+Thank  you so much.  

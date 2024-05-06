@@ -1,0 +1,245 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 33 
+Centrifugal Pump : Power Requirement  
+This is lecture  number 33 on the centrifugal pump 's power requ irement . As stated  in the 
+previous lectures,  we will be focusing more on  Pump Power Requirement estimation .  
+ (Refer Slide Time: 00:30)  
+ 
+So here the total pumping head  is the total energy utilized  by the pump to  pump water 
+from  low head to high head . There are two situations you can see , based on the location of 
+the water source . If the water source  is above the centerline of the  pump and if the water 
+source is below the centerline of the pump . 
+The first image above present s the water source  above the cent ral line of  the pump and the 
+second image is the case where the water source  is below  the centerline of the pump . In 
+both cases , we are going to see what is the total head . If you remember the  power  equation , 
+𝑃=𝑄×𝐻
+76 
+where Q is the discharge and H is the head .  
+So, in both cases , we are going to see what is the head . Head involve s the head from  
+pipeline s and then efficient  head losses  and other head losses . So, the main task is to find 
+out, what is the to tal head here in both cases . 
+ 
+(Refer Slide Time: 02:17)  
+ 
+Let us see case number 1 where  the water source is below the centerline  of the pump . 
+In the image you can see water source is below the centerline  of the pump , then it has a  
+static suction  lift. Since the pump centerline  is below , so we use  the term lift , and if it is 
+above  we use the term  head . 
+So, in this case , the static  suction lift is the vertical distance  between the free surface of 
+the water level to the centerline  of the pump . This we already  defined  in the previous 
+lectures . Then total suction lift (Hs) will be  static suction lift (hss) and then the friction head 
+losses in that pipe  (hfs). 
+Total suction lift (H s) 
+               Hs= h ss+ h fs 
+ where, h fs= loss due to friction in suction pipe an d fittings, m  
+So, we have two parts here, one is the  suction  part and then the discharge p art. So, in both 
+cases , we going to  estimate  the head losses individual ly. So, in the suction case , we have 
+two parts ; one is the suction lift and the friction  head l osses which are present in the  suction 
+pipe, and also in addition to that , we have to consider  the bends  which  are present  and also  
+the velocity head . If you see theoretically , moving water  from one place to another place 
+in a pipe , there is a n elevation head, pressure head , and velocity head . So, the elevation  
+head  is due to the height , the pressure head s is due to the f riction  and other things in the 
+velocity head s so, these three heads we need to  consider here . So, the total suction lift will 
+be, suction  lift plus and total static suction lift plus friction head . And then static discharge 
+head  is the vertical distance  from the free discharge water level to the centerline  of the 
+pump . 
+(Refer Slide Time: 05:23) . 
+ 
+The total discharge head  (Hd) 
+Hd= h sd+hfd 
+where, h fd= loss due to friction in delivery pipe and fittings, m  
+Velocity head (Hv) 
+Pressure required to create velocity of the flow in the pipe Hv  = v2/2g 
+The t otal head will be the suction , discharge and velocity .  
+Total head (H) : Hs + H d + H v 
+H= (h ss+hfs) + (hsd+hfd) + (v2s/2g +V2d/2g) 
+Now, similarly to the water source  which is above the centerline  of the pump also , we 
+consider  both the suction case and the discharge case . In this case , it is the  static suction 
+head because  it is above the center line, the vertical distance between , the top of the surface 
+and the centerline of the pump . Then total suction head  will be  Hs= h ss - hfs 
+ hfs is the friction head loss , and it is  negative because  we are not  going to use any energy 
+to pump it due to gravity . The s tatic discharge head  is the same as before because we are 
+not changing anything . Then, the total discharge  is the discharge head ; static discharge 
+head and the f riction head loss and you have to use the velocity head . So, the total head in 
+case of water  source abov e the centerline  of the pump  is equal to the static suction head , 
+total discharge head , total suction head , and then  suction .  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 08:21)  
+ 
+Once we know the total head and  the discharge  we can calculate  the water horsepower  
+(WHP) . It is the  HP required  to pump  water from one place to another place .  
+Water horse power (WHP) : It is theoretical power required for pumping  
+WHP= DISCHARGE (lps)×TOTAL  HEAD ,   m
+76 
+= 𝐷𝐼𝑆𝐶𝐻𝐴𝑅𝐺𝐸  (𝑚3
+𝑠)×TOTAL  HEAD ,   m
+0.076 
+Suppo se a motor  operates th e pump  to pump water , the shaft is connected between the 
+pump and the motor , this point this is called shaft horsepower (SHP)  
+Shaft horse power (SHP)  It is the power required at the power shaft  
+SHP = WHP
+PUMP  EFFICIENCY 
+(Refer Slide Time: 09:55 ) 
+ 
+Brake horsepower  (BHP) is equal to SHP divided by  the efficiency of the  drive. BHP is 
+actual hp supplied by the engine for driving a pum p. In case  of mono block  pump ; BHP  = 
+SHP.  
+In the case of belt drive , BHP= 𝑊𝐻𝑃
+ηd  where  ηd=drive efficiency .  
+Then input horsepower  (IHP) , so this is where the  motor works .  
+IHP=𝑊𝐻𝑃
+ηd×ηp×ηm 
+Where,  
+𝜂𝑝= pump  efficiency   
+𝜂𝑚=motor efficiency  
+Kw input to electric motor=  BHP ×0.746
+ηm 
+(Refer Slide Time: 11:48)  
+ 
+The above slide presents the overall power requirement in pumps.  (Q × H)/76 will give 
+the WHP . Since pump and drive has an efficiency , so, at the shaft  point  SHP= WHP /np. 
+BHP  = SHP,  in case of mono block ; otherwise  BHP =WHP/(n d×np). Then putting eng ine 
+efficiency , also motor efficiency , you get IHP, IHP= BHP /nm. So, how to find out the  
+motor efficiency ? If you see the  pump testing rig , basically the electrical energy which is 
+supplied as voltage (V) into a current (I) that is P in and Pout will be estimated us ing the  
+torque and angular velocity.   
+Pin = V×I & Pout = T × ω =T × rpm × 2π x 60 
+So, knowing Pout and Pin motor efficiency , 𝜂𝑚 = 𝑃𝑜𝑢𝑡/𝑃𝑖𝑛 
+ 
+ 
+(Refer Slide Time: 13:44)  
+ 
+Exercise 33.1:  
+A pump lifts 100,000 liters of water per hour opera te at a total head of 20 m. Compute the 
+WHP. If the pump has an efficiency of 75%, what size of the prime mover is required to 
+operate the pump? If a direct driven electric motor with an efficiency of 80% is usual to 
+operate the pump, compute the cost of electric  energy in units of 30 days. The pump is 
+operated for 12 h daily for 30 days. The cost of electrical energy is ₹ 6 per unit  
+Solution:  
+WHP=DISCHARGE (lps)×TOTAL  HEAD ,m
+76 = 100000 ×20
+60×60×76 = 7.3  
+SHP=WHP
+PUMP  EFFICIENCY=7.30
+0.75 = 9.73  
+Since th e pump is direct driven, the SHP is the same as BHP  
+(Refer Slide Time: 14:55)  
+ 
+                                      Kw input to electric motor= BHP ×0.746
+ηm 
+= 9.73×0.746
+0.8 
+= 9.07 KW  
+          Total energy consumption per month = 9.07×12×30  
+= 3265 KWH  
+Cost of electrical energy =3265×6             (1 unit= 1KWH)  
+= ₹ 19,590  
+(Refer Slide Time: 15:37)  
+ 
+Exercise 33.2:  
+A direct driven centrifugal pump coupled to a 3 -phase electric motor is installed in a deep 
+open well. The discharge rate of the pump is 20 l ps. The pump efficiency is 70%. The 
+centerline  of the pump is 60 cm vertical above the static water level and 6 m above the 
+pumping water level. The suction pipe is 7.5 m long and 8 cm in diameter. A foot valve 
+with strainers is attached to the bottom of the  suction pipe. The suction line i s connected 
+to the pump inlet by a long sweep bend of the same size as the suction pipe. The pump 
+discharges water into the top of the pump stand of an underground pipeline water 
+distribution system. The vertical distance betwe en the top of the stand and the centerline  
+of the pump is 20 m. The total length of the 7 cm diameter discharge is 20m . The pipe 
+fittings on the discharge side are three long sweep bends, one gate valve , and one reflux 
+valve, all of which are of the same size  as the discharge pipe.  
+From the above data, compute  
+1) Total head  
+2) Water horse power  
+3)  Brake horse power of the motor required to drive the pump  
+  
+(Refer Slide Time: 17:12)  
+ 
+So, let us see here , the whole thing can be  put in this manner  as shown in the slide  above.  
+So in between the pump  and the suction line , there is a sweep  bend and at the end  of the 
+suction , there is a  foot valve . There is a reflux valve, two  sweep bend s, and a gate valve in  
+between the delivery and the pump . So, this way you can schematic the whole  thing  then 
+calculat e. 
+ (Refer Slide Time: 17:45) . 
+ 
+Solution :  
+Area of suction pipe  a 1= 𝜋×8×8
+4×100 ×100   = 0.005 m2 
+Velocity of water in suction pipe  v 1 = 𝑄
+𝑎1 = 20
+ 1000 ×0.005 = 4 m/s  
+Area of discharge pipe, a 2 = 0.0038m2 
+Velocity of water in the discharge pipe v 2 = 5.26 m/s  
+i. Total head = total  suction lift + total discharge head  
+static suction lift = 6m  
+Head loss in suction pipe of 8 cm dia and 7.5 m length  = 2.25 (from friction loss table)  
+Head loss in long sweep bend  8cm dia = 0.41 m  
+Head loss in strainer = K s𝑣2
+2𝑔 = 0.95×4×4
+2×9.81=0.77 m  
+ (Refer Slide Time: 20:42) . 
+ 
+So, here there is a  friction head loss table , knowing the  discharge and the corresponding 
+diameter , you can find out the friction head loss for 100 m length and then you can reduce 
+it to your length . 
+ (Refer Slide Time: 21:01)  
+ 
+Similarly , for walls for long sweep bend  for example; for a pipe size find out the equivalent 
+pipe length and then go back to the f riction table and find out the  corresponding h f for this 
+particular  length . 
+ (Refer Slide Time: 21:18)  
+ 
+Head loss in foot valve = K f 𝑣2
+2𝑔=0.8×4×4
+2×9.81=0.65 m 
+Velocity head (suction line)= 𝑣2
+2𝑔 = 4×4
+2×9.81 = 0.81 m  
+Total suction lift = 6 + 2.25 +0.77+ 0.65 + 0.81 + 0.41 =10.89 m  
+Static discharge head = 20 m  
+Head loss in discharge pipe of 7cm dia and 20m length = 72×20
+100 =14.4 m  
+Head loss in three long sweep bends, 7cm dia = 2.07 m  
+Head loss in gate valve of 7cm dia = 0.33 m  
+Head loss in reflux valve (based on foot valve and discharge velocity)=1.12 m  
+Velocity head (discharge line)= 1.40 m  
+(Refer Slide Time: 22:58) . 
+ 
+Total discharge head =20+14.40+2.07+0.33+1.112+1.40 = 39.32 m  
+Total head = 10.89 + 39.32  
+= 50.21 m  
+ii. Water horse power = 20×50.21
+76 
+= 13.21 hP  
+Brake horse power of the motor required to drive the pump = 13.21
+70×100  
+=18.87 hP  
+So in this lecture , we covered  the install ation of  a centrifugal pump in two cases ; case 1 
+when  the water source is below the centerline  of the p ump. You can estimate the total head 
+loss the head loss will have t wo parts  the suction  lift and discharge  head  so, these two 
+heads we need to c onsider for  finding out the total he ad. In each part  either  suction or 
+discharge , it has a pressure head , friction head , velocity head . The first thing is the pipe line 
+length that will give the elevation head  and then the friction head los s either  due to the 
+pipe and then the velocity  head  due to the turbulence  and other things . 
+In addition to that , if you have bends , you have to consider the friction head loss due to 
+bends  and similarly in the case of discharge side. So, combining all heads will give the 
+total head . So, knowing  the total head , multiplying with the discharge divided by 76 will 
+give the water horse power . So that means, for water to  displa ce from suction to discharge 
+level , you need to operate the pump  at a particular  hp. Then again the power  will be 
+different from  the end of the pump,  starting of the pump to the motor  level based on the  
+efficiency of the devices . 
+Then based on that you  have WHP at the starting of the pump  and then  SHP, combining 
+with the pump efficiency the n BHP.  And then  IHP is equal to BHP/n m. So, at different 
+stages the efficiencies  are different . We solve the two examples here; the first example , on 
+the power requirement , and the second  example is finding out the  total head  for case 
+number 1 where  the water source  is above the centerline . Similarly,  you can find out  for 
+case number 2: the water s ource is below  the centerline . In the next class , we will be 
+focusing on  cavitation in  a centrifugal pump , pump characteristic curves , affinity laws` 
+and then  there are other an d pumps  we need to discuss . 
+Thank you  so much . 

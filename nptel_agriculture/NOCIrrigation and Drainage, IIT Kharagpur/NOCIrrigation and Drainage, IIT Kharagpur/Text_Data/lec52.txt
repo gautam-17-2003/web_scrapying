@@ -1,0 +1,250 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 52  
+Surface Drainage System Design - 2 
+Friends welcome to lecture number 52, we are going t o learn about the Surface Drainage 
+System Design 2. In the previous lecture , we talked  about hydrologic design and in this lecture , 
+we will discuss the hydraulic design of  surface ditches . 
+(Refer Slide Time: 00:43)  
+ 
+What does hydraulic desi gn mean ? It refers to the calculation of geometric elements of the 
+drainage such as  width , depth , and side slopes. All these design parameters are estimate d by 
+knowing the maximum carrying capacity of the channel.   
+The geometric elements of the chann el could be rectangular , trapezoidal , parabolic channels , 
+or semi -circular channels.  All these different shapes are available, but we will be focusing 
+mostly on the trapezoidal channels.  
+The design geometric parameters are bottom width and  depth. Besides  we are going to  estimate 
+the stable side slopes  to avoid collapsing of the wings, the channel bed slope to maintain the 
+non-erosive  flow rate , and also the channel roughness parameters . Manning’s roughness 
+coefficien t is important to avoid channels covering and have enough channel carrying capacity . 
+ 
+ 
+ 
+(Refer Slide Time: 02:29)  
+ 
+The open ditch should be designed to fulfil l the following criteria. The first one is it should 
+carry the design discharge that is the bare minimum. It should have stable side slopes and also 
+longitudinal side slope s for non -scouring the non -stilting velocity.  
+(Refer Slide Time: 02:59)  
+ 
+How to estimate the design parameters for channel design.  The first step is to estima te the 
+discharge. The design discharge is estimated using the rational method,  cooks method, and 
+SCS CN method  or curve  number method  (lecture number 51) ; Any of these 3 methods can be 
+used to estimate the design or peak discharge from the particular  wate rshed area .  Then the 
+second step is to finalize the grade of the channel. So, the grade should have a maximum 
+possible value without exceeding the permissible velocity.  
+If you increase the grade  the velocity of flow increases and that will scour the cha nnels. And 
+then the grade should not be very low. so that siltation may occur because the flow is not having 
+enough carrying capacity to take out the  silt from the channels  and it will get deposit ed in the 
+channels.  
+(Refer Slide Time: 04:46)  
+ 
+The table above Table 1 gives the maximum permissible v elocities in non -vegetated channels 
+for different soil conditions . The first column is the canal material such as fine sand or sandy 
+loam, silt loam, alluvial silts. So, based on the different soil type s; the value of  Manning’s n is 
+given . In the second column the permissible or maximum permissible velocit y for clear water ,  
+water with colloidal silts , and water with sand gravel  or fragments . So, this table will help to 
+identify  the maximum permissible velocities by knowi ng the channel material.  
+(Refer Slide Time: 05:46)  
+ 
+The next  step is finding out the cross -section al area. So, for drainage purpose s mostly the 
+trapezoidal section is used because it is easy to construct , and it can be maintained easily.  The 
+size of the ditch can be determined using Manning’s formula. So, once we know the channel 
+geometry or decided the channel cross -section, then we will be using Manning’s equation : 
+𝑉 = 1
+𝑛 𝑅23⁄𝑆12⁄ 
+By knowing the  Manning’s n and knowing the permissible velocity V, unknown parameters 
+R and S will be estimated.  
+(Refer Slide Time: 06:57)  
+ 
+The cross -section of a trapezoidal ditch is shown in  the above  figure , Figure1. Table 2 s hows 
+the side slopes  for a particular channel. The first colu mn is the soil type :  peat and muck , stiff 
+clay, clay and silt loam, sandy loam , and loose sand; for all these  soil type different side slopes 
+are given for shallow channels ,(<120cm deep ) and deep channel (≥120 c m deep ).  
+So for the trapezoidal channel , it has  a parameter ‘b’ the bottom width and depth ‘d’ we need 
+to include a freeboard to accommodate siltation or other things ; generally , the freeboard can 
+be up to 20 % of d once we put capital D, you can find out the top width according to D. So, 
+capital D is equal to 1.2 times d  for 20 % freeboard . 
+A berm is also  design ed like spoil banks. Spoil banks help in controlling the collapsing of side 
+slopes and other things. So, the earth excavated from the open ditch may be placed on one or 
+both sides  and the berm should be a minimum of 3 m. And spoil banks should be provided 
+with flat side slopes of 3:1 on the channel side and 4 :1 on the bund side.  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 10:01)  
+ 
+Example 52.1:   
+Determine the efficient trapezoidal section of a drainage ditch required to carry a peak runoff 
+of 1.4 m3/s. the channel is constructed in alluvial silts. The bed slope may be assumed 1/3000 
+approximately as per exists topographical condition.  
+Solution:  
+𝑄=𝐴×𝑉 
+𝑉 = 1
+𝑛 𝑅23⁄𝑆12⁄ 
+𝑄=𝐴×1
+𝑛 𝑅23⁄𝑆12⁄; 
+𝐴× 𝑅23⁄= 𝑄×𝑛
+√𝑆 
+From Table 1, n = 0.020   
+𝐴× 𝑅23⁄= 1.4×0.020
+√1
+3000 
+=1.5336  
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 11:45)  
+ 
+From Table 2 a side slope of 1.5:1 is selected.  
+If b is the bottom width and d is the depth,  
+𝑡𝑜𝑝 𝑤𝑖𝑑𝑡 ℎ = 𝑏+3𝑑.  
+Wetted perimeter,  
+𝑝=𝑏+2√𝑑2+(1.5𝑑)2 
+𝑝=𝑏+2√3.25𝑑2; 
+ 𝑝=𝑏+3.606 𝑑 
+𝐴=(𝑏+𝑏+3𝑑)×𝑑
+2=(𝑏+1.5𝑑)×𝑑 
+Hydraulic radius,  𝑅=𝐴
+𝑝 
+𝐴
+𝑝=(𝑏+1.5𝑑)𝑑
+𝑏+3.606  𝑑  
+We know  
+𝐴× 𝑅23⁄= 1.4×0.020
+√1/3000=1.5336  
+Therefore,  
+(𝑏+1.5𝑑)𝑑 ((𝑏+1.5𝑑)𝑑
+𝑏+3.606  𝑑 )23⁄
+=1.5336  
+ 
+ 
+ 
+(Refer Slide Time: 15:19)  
+ 
+From table 2, the side slopes for alluvial soils is 1.5 :1.  
+t𝑎𝑛𝜃 =0.667 
+𝜃=33.69𝑜, 𝑡𝑎𝑛𝜃
+2=0.3038   
+For efficien t section,    𝑏=2𝑑𝑡𝑎𝑛𝜃
+2=2𝑑×0.3028 =0.6055 𝑑 
+Substituting this value of b in  (𝑏+1.5𝑑)𝑑 ((𝑏+1.5𝑑)𝑑
+𝑏+3.606  𝑑 )23⁄
+=1.5336  
+2.1055 𝑑2 (2.1055 𝑑2
+4.2116d  )23⁄
+=1.5336  
+𝑑53⁄= 1.5336
+1.3262=1.156329  
+𝑑=1.091  𝑚 & 𝑏=0.61 𝑚=61 𝑐𝑚 
+(Refer Slide Time: 18:10)  
+ 
+And then now we checking the velocity  
+𝑅=𝐴 
+𝑝= (0.66+1.5×1.091 )×1.091
+0.66+3.606  ×1.091 =0.5449  𝑚 
+𝑉 = 1
+𝑛 𝑅23⁄𝑆12⁄= 1
+0.020 0.544923⁄ 1
+300012⁄
+=0.609 m/s 
+And if you go back to Table 1 you will see 1.05 m /sec is the maximum permissible velocities. 
+So, this velocity is within the permissible velocity  
+Finally,  
+Bed width = 61 cm  
+Depth including free board = 1.30 m (included 20% free board)  
+Side slope = 1.5:1  
+So, that including 20 percent of free board and side slopes . So, this way will be designing the 
+parameters for a cross -section trapezoidal cross -section.  
+(Refer Slide Time: 19:07)  
+ 
+Example 52.2: Find the section dimensions  of the drainage channel to carry runoff from a 50 
+ha watershed with a drainage coefficient of 5  lps/ha. The given parameters are: channel bed 
+slope, S = 0.2%; channel side slope , Z = 1; maximum permissible mean velocity, V = 0.6 
+m/sec and manning’s roughness coefficient, n = 0.025.  
+Solution:  
+𝐷𝑒𝑠𝑖𝑔𝑛  𝑑𝑖𝑠𝑐 ℎ𝑎𝑟𝑔𝑒  =𝑎𝑟𝑒𝑎  ×𝑑𝑟𝑎𝑖𝑎𝑛𝑔𝑒  𝑐𝑜𝑒𝑓𝑓𝑓𝑖𝑐𝑒𝑛𝑡    
+𝐷𝑒𝑠𝑖𝑔𝑛  𝑑𝑖𝑠𝑐 ℎ𝑎𝑟𝑔𝑒  =50 ×5=250 lps = 0.25 m3/sec 
+From Manning’s equations,  
+𝑉 = 1
+𝑛 𝑅23⁄𝑆12⁄ 
+𝑉 = 1
+0.025 𝑅23⁄0.00212⁄=1.79𝑅23⁄ 
+ (Refer Slide Time: 20:22)  
+ 
+𝑉 = 1
+0.025 𝑅23⁄0.00212⁄=1.79𝑅23⁄ 
+Hence,   𝑅23⁄=𝑉
+1.79; 𝑅23⁄=0.6
+1.79=0.3352 ;   
+𝑅=0.19407  
+From continuity equation    𝑄=𝐴×𝑉 
+𝐴= 𝑄
+𝑉= 0.25
+0.6=0.4167  
+Also,  
+𝐴=𝑏𝑑+𝑧𝑑2=𝑏𝑑+1×𝑑2 
+0.4167 =𝑏𝑑+𝑑2 
+ (Refer Slide Time: 21:12)  
+ 
+0.4167 =𝑏𝑑+𝑑2 
+𝑏=(0.4167 −𝑑2)
+𝑑 
+𝑅= 𝐴
+𝑃= 𝑏𝑑+𝑧𝑑2
+𝑏+2𝑑(𝑍2+1)12⁄ 
+Substituting for b in R and writing R = 0.19407  
+0.19407 = (0.4167 −𝑑2)
+𝑑𝑑+1×𝑑2
+(0.4167 −𝑑2)
+𝑑+2𝑑(12+1)12⁄ 
+0.19407 = (0.4167 −𝑑2)
+𝑑𝑑+𝑑2
+(0.4167 −𝑑2)
+𝑑+2.828  𝑑  
+(Refer Slide Time: 22:04)  
+ 
+0.19407 = 0.4167  𝑑
+0.4167 +1.828  𝑑2 
+So, after simplification , you get the quadratic equation  
+𝑑2−1.1746  𝑑+0.22796 =0 
+This equation has two roots 0.9269 m and 0.2477 m.  
+𝑏=(0.4167 −𝑑2)
+𝑑= 0.4167 −0.92692
+0.9269=−0.477   m 
+𝑏=(0.4167 −𝑑2)
+𝑑= 0.4167 −0.24772
+0.2477=1.434 m 
+The first root is not feasible as it s substitution in th e area relation give s negative b.  
+Hence, b = 1.43 m  𝑎𝑛𝑑  𝑑 = 0.2477  𝑚≈0.248 𝑚=24.8 cm 
+Then,  th𝑒 𝑓𝑙𝑜𝑤  𝑎𝑟𝑒𝑎 (𝐴)=1.43×0.248 +1×0.2482=0.416 m2 
+ 
+(Refer Slide Time: 24:10)  
+ 
+𝑇ℎ𝑒 𝑓𝑙𝑜𝑤  𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 =(0.25
+0.416)=0.6 m/sec  
+Adding a free board of 5% depth to the design depth.  
+𝑇ℎ𝑒 𝑐𝑜𝑛𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛  𝑑𝑒𝑝𝑡 ℎ =  24.8+24.8×5
+100=26.04 cm (or say 30 cm)  
+𝑇ℎ𝑒 𝑡𝑜𝑝 𝑤𝑖𝑑𝑡 ℎ 𝑜𝑓 𝑡ℎ𝑒 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑖𝑜𝑛  =𝑏+2 𝑍𝑑=1.43+2×1×0.3=2.03 m 
+𝑇ℎ𝑒 𝑐𝑟𝑜𝑠𝑠  𝑠𝑒𝑐𝑡𝑖𝑜𝑛 𝑎𝑙 𝑎𝑟𝑒𝑎  𝑜𝑓 𝑡ℎ𝑒 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑖𝑜𝑛  =𝑏𝑑+𝑍𝑑2=1.43×0.3+1×0.32=
+0.519 m2 
+The volume of earthwork per meter length of the drain for this cross -section is 0.519 m3  
+So, this way you can estimate the geometric parameters of the trapezoidal  cross -sections or 
+ditch. So, in this , the main design from hydrologic designs is calculated knowing the Q value.  
+In hydraulic design knowing the Q value, you have to assume the trapezoidal channels will be 
+used for designing the drainage ditches. So, know ing the Q and permissible velocity and based 
+on the soil type  and the corresponding roughness coefficients in table  1 you will be estimating 
+the channel dimensions.  
+Then if the slope is  not given you have to assume or you have to a takes  slope for a particular  
+soil type from table 2.  So, using this information you will be able to estimate the channel 
+dimensions like breadth and depth, and also the top width and you can a put maximum of 20% 
+as a free board to avoid any siltation in the channels. So, with these , I think we finished both 
+hydraulic and hydrologic design in case of surface or drainage systems so.  
+Thank you.  
+ 

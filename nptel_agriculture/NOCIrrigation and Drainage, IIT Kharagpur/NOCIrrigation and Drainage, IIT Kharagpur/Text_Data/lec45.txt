@@ -1,0 +1,94 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 45 Tutorial  
+This lecture number 45  is on Tutorial, of whatever we will learn  in this week  
+(Refer Slide Time: 00:26)  
+ 
+Example W9.1:  Mole drain is the most suitable drainage system for heavy clay soil        
+Example W9.2:  During land leveling of  agricultural land for irrigation and drainage purposes, 
+the acceptable deviation in the elevation from the design value in the meter is 0.015         
+Example W9.3:  The gridiron pipe drainage system is more economical than the herringbone 
+pipe drainage system because the number of junctions and the double -drained area is reduced   
+(Refer Slide Time: 02:28)  
+ 
+Example W9.4:  
+In a subsurface drainage system, the peak discharge t hrough tile drain under full flow condition 
+is given by  
+𝑄 = 6.715 ×10−4×𝑆0.5×𝑛−1  
+Where, Q = discharge, m3/s, S = drain bed slope , and n = Manning’s roughness coefficient.  
+The s ize of the drain in mm is       
+Solution:  
+Given,  
+𝑄 = 6.715 ×10−4×𝑆0.5×𝑛−1                                     (1) 
+As we know that,  
+𝑄=𝐴×𝑉 
+Where, 𝐴= area  
+𝑉= velocity  
+(Refer Slide Ti me: 04:05)  
+ 
+From Manning equation   
+𝑉=1
+𝑛×𝑅23⁄×𝑆0.5 
+𝑄=𝐴×1
+𝑛×𝑅23⁄×𝑆0.5 
+𝑄=𝜋
+4×𝑑2×1
+𝑛×(𝜋𝑑2
+4𝜋𝑑)23⁄
+×𝑆0.5 
+𝑄=𝜋
+4×𝑑2×1
+𝑛×𝑑23⁄
+423⁄×𝑆0.5 
+𝑄=𝜋
+4×423⁄×𝑑2×𝑑23⁄×1
+𝑛×𝑆0.5 
+(Refer Slide Time: 05:32)  
+ 
+𝑄=𝜋
+453⁄×𝑑2×𝑑23⁄×1
+𝑛×𝑆0.5 
+                                     𝑄=0.31×𝑑83⁄×1
+𝑛×𝑆0.5                        (2) 
+From equation (1) and (2)  
+6.715×10−4=0.31×𝑑83⁄ 
+𝑑=0.10 m 
+𝑑=10 cm (Ans.)  
+(Refer Slide Time: 06:27)  
+ 
+Example W9.5:  In a sub -surface drainage system, the tile drains are laid with a slope of 0.28 % 
+to carry a peak discharge of 3 L/s per drain. If the Manning’s n is 0.011, the practical diameter 
+of tile required is   
+Solution:  
+Given,  
+slope = 0.28%  
+Discharge = 3 L/s  
+n = 0.011  
+𝑄=𝜋
+4×𝑑2×1
+𝑛×(𝑑
+4)23⁄
+×𝑆0.5 
+0.003=0.31×𝑑83⁄×1
+0.011×0.280.5 
+𝑑=0.097𝑚=97.46 𝑚𝑚  (Ans.)  
+ (Refer Slide Time: 07:48)  
+ 
+Example W9.6:  The depths from the soil surface to subsurface tile drains, impermeable soil 
+layer , and the highest water table are measured as 2.8 m, 5.0 m , and 0.8 m, respectively. The 
+effective hydraul ic head for drainage in the meter is  
+ 
+ (Refer Slide Time: 09:05)  
+ 
+Given,  
+  Depth from soil surface  to drain = 2.8 m  
+  Water table depth =  0.8 m  
+From the figure,  
+  Effective hydraulic head of drainage = 2.8 -0.8 
+          =2 m (Ans.)  
+So, these are some of the examples related to  this week’s lectures, mostly covered some of the 
+problems given in the GATE examination  you can also go through some other problems in the 
+referred textbooks . 
+Thank you so much.  

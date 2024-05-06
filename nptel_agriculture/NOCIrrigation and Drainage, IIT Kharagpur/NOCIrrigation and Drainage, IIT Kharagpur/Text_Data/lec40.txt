@@ -1,0 +1,127 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 40 
+Tutorial  
+Hello, this is lecture  number  40 on Tutorial . So whatever we learned in the last  four 
+lecture s this week , we are going to see some of the problems  which are  frequently asked 
+in the GATE  examination and other competitive examinations and also some additional 
+problems . 
+(Refer Slide Time:  00:42)  
+ 
+Example W8.1:  
+If an irrigation water source has the concentrations of Na+, Ca++ and Mg++ as 28, 10 and 5 
+milliequivalents per litre, respectively, then the Sodium adsorption ratio (SAR) of this 
+water is                   (Gate 2015)  
+Solution:  
+Sodium Adsorption Ratio (SAR)  
+𝑆𝐴𝑅 =𝑁𝑎+
+√𝐶𝑎+++𝑀𝑔++
+2 
+𝑆𝐴𝑅 =28
+√10+5
+2 
+=10.22 𝑚𝑖𝑙𝑙𝑖𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡𝑠  𝑝𝑒𝑟 𝑙𝑖𝑡𝑟𝑒  (Ans.)  
+(Refer Slide Time:  01:57)  
+ 
+Example W8.2:  A tile drainage system draining 12 ha flows at the design capacity for two 
+days in response to a storm. If the system is designed using a drainage coefficient of 1.25 
+cm, the amount of water removed from the drainage area during two days is  (GATE 2008)  
+Solution:  
+Given ,  A= 12 ha = 12×104 m2 
+drainage coefficient = 1.25 cm=0.0125 m  
+𝐷𝑟𝑎𝑖𝑛𝑎𝑔𝑒  𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡  =𝑄
+𝐴 
+ 0.0125 =𝑄
+12×104=1500  
+=1500  m3/day 
+= 3000 m3 in two days  
+ (Refer Slide Time:  03:52)  
+ 
+Example W8.3:  
+A soil has a field capacity of 25%, a permanent wilting point of 11% , and an apparent 
+specific gravity of 1.6. Irrigation is applied after depilation 40% of the available moisture 
+to crop with root zone depth 600 mm, the electrical concavity of the saturation extract of 
+the soil is 10 mmho/cm and that of the irrigation water is 2.5 mmho/cm. Determine the 
+leaching requirement and the total depth of the irrigation.        (GATE 1998)  
+Solution:   
+Given,  
+Field capacity (FC)= 25%  
+Permanent w ilting point (PWP) =11%  
+Specific gravity (SG)= 1.6  
+(Refer Slide Time:  05:19)  
+ 
+Root zone depth (RZ) = 600 mm  
+The e lectrical conductivity of the saturation extract of the soil = 10 mmho/cm  
+Irrigation water Electrical conductivity = 2.5 mmho/cm . 
+𝑀𝑜𝑖𝑠𝑡𝑢𝑟𝑒  𝑐𝑜𝑛𝑡𝑒𝑛𝑡  𝑎𝑡 𝑡ℎ𝑒 𝑡𝑖𝑚𝑒  𝑜𝑓 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛
+=(𝐹𝐶−𝑃𝑊𝑃 )×𝑑𝑒𝑝𝑙𝑒 𝑡𝑖𝑜𝑛  𝑖𝑛 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒   
+𝑀𝑜𝑖𝑠𝑡𝑢𝑟𝑒  𝑐𝑜𝑛𝑡𝑒𝑛𝑡  𝑎𝑡 𝑡ℎ𝑒 𝑡𝑖𝑚𝑒  𝑜𝑓 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛 =(25−14)×0.4 
+=19.4% 
+𝐼𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑚𝑒𝑛𝑡 = (𝐹𝐶−𝑃𝑊𝑃 )×𝑆𝐺×𝑅𝑍
+100 
+𝐼𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑚𝑒𝑛𝑡 = (25−19.4)×1.6×0.6
+100 
+(Refer Slide Time:  07:10)  
+ 
+𝐼𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑚𝑒𝑛𝑡 = 5.376
+100 
+𝐼𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑚𝑒𝑛𝑡 =0.05376  m 
+𝐿𝑅=𝐸𝐶𝑖𝑤
+5×𝐸𝐶𝑒𝑤−𝐸𝐶𝑖𝑤 
+𝐿𝑅=2.5
+5×10−2.5=0.053 
+𝐷𝑒𝑝𝑡 ℎ 𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑎𝑝𝑝𝑙𝑖𝑒𝑑  (𝐴𝑊)= 𝐼𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑢𝑖𝑟𝑚𝑒𝑛𝑡  (𝐼𝑅)
+1−𝐿𝑅=5.376 
+1−0.053 
+=𝟓.𝟔𝟖 cm (Ans.)  
+(Refer Slide Time:  08:27)  
+ 
+Example W8.4:  An agricultural soil contains 47% pore space, and the moisture content 
+after gravity drainage is 39% (by volume). Find the void ratio, drainable porosity, and 
+drainable water volume from a 20 m × 15 m plot having 1.0 m root zone depth.  
+Solution:  
+Given,  
+The volume  of void =47%   
+water  content  after  gravity  drainage =39%  
+We know,     
+𝑣𝑜𝑖𝑑  𝑟𝑎𝑡𝑖𝑜  = (𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑣𝑜𝑖𝑑 / 𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑠𝑜𝑙𝑖𝑑 ) 
+= 𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑣𝑜𝑖𝑑 /(100 − 𝑣𝑜𝑙𝑢𝑚𝑒  𝑜𝑓 𝑣𝑜𝑖𝑑 ) 
+= 47/(100 − 47) 
+= 0.886 
+ (Refer Slide Time:  10:14)  
+ 
+𝐷𝑟𝑎𝑖𝑛𝑎𝑏𝑙𝑒  𝑝𝑜𝑟𝑜𝑠𝑖𝑡𝑦  = 𝑡𝑜𝑡𝑎𝑙  𝑝𝑜𝑟𝑜𝑠𝑖𝑡𝑦  − 𝑤𝑎𝑡𝑒𝑟  𝑐𝑜𝑛𝑡𝑒𝑛𝑡  𝑎𝑓𝑡𝑒𝑟  𝑔𝑟𝑎𝑣𝑖𝑡𝑦  𝑑𝑟𝑎𝑖𝑛𝑎𝑔𝑒  
+= 47 − 39 
+= 8% 
+𝐷𝑟𝑎𝑖𝑛𝑎𝑏𝑙𝑒  𝑤𝑎𝑡𝑒𝑟  𝑣𝑜𝑙𝑢𝑚𝑒  = 𝑑𝑟𝑎𝑖𝑛𝑎𝑏𝑙𝑒  𝑝𝑜𝑟𝑜𝑠𝑖𝑡𝑦  × 𝑑𝑟𝑎𝑖𝑛𝑎𝑏𝑙𝑒  𝑠𝑜𝑖𝑙 𝑣𝑜𝑙𝑢𝑚𝑒  
+= (8/100 ) × (20 × 15 × 1 𝑚3) 
+= 24 𝑚3(Ans.)  
+ (Refer Slide Time:  11:04)  
+ 
+Example W8.5:  Runoff water from the watershed enters into a drainage area for 5 hours 
+at the rate of 24 m3/s. The total rainfall during 24 h periods is 10 cm and infiltration during 
+the same periods is 2 cm. If the total drainage area is 500 ha and the crop can tolerate a 
+ponding of 14 cm, calculate the drainage coefficie nt of the land.  
+Solution:  
+𝑇𝑜𝑡𝑎𝑙  𝑣𝑜𝑙𝑢𝑚𝑒  𝑒𝑛𝑡𝑒𝑟𝑖𝑛𝑔  𝑡ℎ𝑒 𝑎𝑟𝑒𝑎  𝑖𝑛 5 ℎ𝑜𝑢𝑟𝑠  =5×3600 ×24=432000  m3 
+𝑇ℎ𝑖𝑠 𝑖𝑠 𝑒𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡  𝑡𝑜 𝑎 𝑑𝑒𝑝𝑡 ℎ=432000
+500 ×10000  =0.0864  𝑚  
+= 8.64 𝑐𝑚 
+𝑇𝑜𝑡𝑎𝑙  𝑑𝑒𝑝𝑡 ℎ 𝑖𝑛𝑝𝑢𝑡  𝑜𝑛 𝑡ℎ𝑒 𝑎𝑟𝑒𝑎  =(10−2)+8.64 
+=16.64 𝑐𝑚 
+(Refer Slide Time:  13:49)  
+ 
+ Therefore,  
+𝐷𝑒𝑝𝑡 ℎ 𝑜𝑓 𝑤𝑎𝑡𝑒𝑟  𝑡𝑜 𝑏𝑒 𝑟𝑒𝑚𝑜𝑣𝑒𝑑  = 𝑑𝑒𝑝𝑡 ℎ 𝑖𝑛𝑝𝑢𝑡 −𝑑𝑒𝑝𝑡 ℎ 𝑜𝑓 𝑖𝑛𝑓𝑖𝑙𝑡𝑟𝑎𝑡𝑖𝑜𝑛
+−𝑑𝑒𝑝𝑡 ℎ 𝑜𝑓 𝑝𝑜𝑛𝑑𝑖𝑛𝑔  𝑎𝑙𝑙𝑜𝑤𝑒𝑑   
+= 16.64−14 
+=2.64 𝑐𝑚 (Ans.)  
+This is the drainage co-efficient of the land  
+So with these example s, we finish ed the tutorial for this week . So, this week , we cover ed 
+the soil salinity and then sodicity agricultural drainage  concept  and agricultural  drainage  - 
+introduction  and then today’s tutorial . So in the next  week , we are going to focus  on the 
+drainage  design , both surface and subsurface drainage , and then  the tutorials and case 
+studies .  
+Thank you . 

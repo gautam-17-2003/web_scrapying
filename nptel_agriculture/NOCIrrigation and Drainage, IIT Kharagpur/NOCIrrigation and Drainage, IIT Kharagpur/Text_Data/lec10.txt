@@ -1,0 +1,205 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Ins titute of Technology, Kharagpur  
+Lecture – 10 
+Tutorial  
+So, we are at lecture number  10 of week 2. So, at the end of every week , there is a tutorial . 
+So, this is the second tutorial  for the second week . So, in this tutorial , we are going to solve 
+some of the  examples , and some of them have appeared  in the previous  GATE 
+examination . 
+(Refer Slide Time: 00:42)  
+ 
+Exercise  W2.1: Water –budget technique of determining when to irrigate  
+Date (July)  ET, in  Pe, in 
+1 0.33 0 
+2 0.32 0.05 
+3 0.26 0 
+4 0.29 0 
+5 0.30 0 
+6 0.33 0 
+7 0.23 0.10 
+8 0.30 0 
+Given   
+Table with d aily ET and P e  
+Drz = 24 inches  
+Soil water content on the morning of July 1 is 23%  
+By volume; θ c = 14%   
+Required : Date of the next irrigation   
+So, our interest is, when this 23 percent is reducing to 14 percent, so then you give 
+irrigation  
+(Refer Slide Time: 05:24)  
+ 
+Solution:  
+Sample calculation (for day 1)   
+𝜃𝑖=𝜃𝑖−1−100 (𝐸𝑇−𝑃𝑒
+𝐷𝑟𝑧) 
+𝜃𝑖=23−100 (0.33−0
+24)=21.63%  
+Similarly , we can calculate for all the dates  
+Date (July)  ET Pe θa (%) 
+1 0.33 0 21.63  
+2 0.32 0.05 20.51  
+3 0.26 0 19.43  
+4 0.29 0 18.22  
+5 0.30 0 16.97  
+6 0.33 0 15.59  
+7 0.23 0.10 15.05  
+8 0.30 0 13.80  
+ 
+On the 8th day, the moisture content is 13.8 % which is just below the required threshold 
+(14%)  
+So, July  8th is the irrigation day.  
+And then how much you need to apply on 8th day  
+The amount of irrigation applied is  
+𝐼=𝐷𝑟𝑧(𝑓𝑐−𝜃)
+𝐸𝑖 
+Assuming irrigation efficiency  and field capacity of 80%  and 26%, respectively.   
+θ is the percentage of the water content of soil before  irrigation.  
+Conclusion:  Irrigate on the morning of July 8  
+Amount to apply per irrigation  3.29 inches  of water should be applied the morning of July 
+8 
+ (Refer Slide Time: 06:59)  
+ 
+Exercise W2.2:  A 50 km long canal with an average width of 25 m is used for irrigation. 
+Mean daily evaporation as measured from a Class A evaporation pan is 5 mm/d. 
+Considering the pan coefficient as 0.80, the mean daily evaporation loss from this canal is 
+(GATE 2007)  
+Solution:  
+Length of canal = 50 km = 50000m, Width = 25 m  
+Class A evaporation pan value = 5 mm/d, Pan coefficient = 0.80  
+So, here let  us say there is a pan which is install ed nearby that gives  5 mm evaporation 
+every day , and considering the pan coefficient 0.8, the mean daily evaporation loss from 
+the canal is  multipl ied with the pan coefficient  0.8 to get the evaporation from the canal . 
+So, knowing the evaporation from the canal and area , you can find out how much water 
+you really need to deliver from the canal; so, that it can meet the irrigation requirement  
+Area of canal = 50×1000×25 = 1250000  
+Mean daily evaporation loss = 1250000×0.005×0.8 = 6250×0.8 = 5000  
+   = 5.00 × 103 m3/d (Ans.)  
+ (Refer Slide Time: 09:34)  
+ 
+Exercise W2.3 : The soil moisture at field capacity (FC) is 25% (w/w) and the moisture 
+content at the time of irrigating is 15% (w/w). The apparent sp. gravity is 1.25 , and the 
+depth of soil to be wetted is 40 cm. How much water in ha -cm per hectare must be applied?  
+Solution:  
+𝐹𝐶= 25% ( 𝑏𝑦 𝑤𝑡.) 
+𝐴𝑝𝑝𝑎𝑟𝑒𝑛𝑡  𝑠𝑝. 𝑔𝑟𝑎𝑣𝑖𝑡𝑦 = 1.25 
+Converting weight basis to volume basis  moisture content , you need to multiply the weight 
+basis moisture content with the apparent specific gravity of soil  
+Moisture at FC by vol. basis =25 ×1.25= 31.25%  
+Moisture content at irrigation time, 𝑆𝑀𝑎 = 15%( 𝑤/𝑤)= 15×1.25= 18.75%  by vol.  
+Depth of soil to be wetted, 𝑑=40 𝑐𝑚 
+Thus; water depth required to fill up to FC  
+=(𝐹𝐶−𝑆𝑀𝑎 )×𝑑/100=(31.25−18.75 )×40/100=5 𝑐𝑚  
+Water required =1 ha × 5 cm = 5 ha -cm (Ans.)  
+(Refer Slide Time: 12:30)  
+ 
+Exercise W2.4 : Potato is irrigated with water having an electrical conductivity of 1.1 dsm-
+1. The application efficiency is 70%. The seasonal crop evapotranspiration and seasonal 
+rainfall are 350 mm and 125 mm, respectively. The a verage soil salinity tolerated by the 
+crop is 1.6 dsm-1. The seasonal irrigation requirement is. (GATE 2006)  
+Solution:       
+So, here the irrigation is required no t only for crop and al so for the salts to be lea ched 
+down . So, that is why the equation here is the seasonal irrigation water requirement   
+𝑆𝑒𝑎𝑠𝑜𝑛𝑎𝑙  𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡  =(𝐸𝑇 −𝑃𝑐) (1+𝐿𝑅)
+𝐸𝑎   
+𝐿𝑒𝑎𝑐 ℎ𝑖𝑛𝑔 𝑟𝑒𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡  (𝐿𝑅) = 𝐸𝐶𝑤
+(5𝐸𝐶𝑡−𝐸𝐶𝑤)= 1.1
+(5 ×1.6−1.1)=0.16 
+𝑆𝑒𝑎𝑠𝑜𝑛𝑎𝑙  𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑖𝑟𝑒𝑚𝑒𝑛𝑡  = (350 −125 ) (1+0.16)
+0.70  =372.86 𝑚𝑚 (Ans.)  
+ So, the total  amount of irrigation water you need to apply is  372.86  mm. 
+(Refer Slide Time: 15:51)  
+ 
+Exercise W2.5 : A check basin of size 15 m × 12 m is to be irrigated using a stream of 26 
+litre per second. The depth of the crop root zone is 1.3 m and the apparent specific gravity 
+of the root zone soil is 1.6. The water holding capacity of the soil is 16%. Irrigation is to 
+be applied when the soil moisture content in the crop root zone attains 12%. Deep 
+percolation loss is ne glected. Determine i) the net irrigation requirement in mm and ii) the 
+duration of the irrigation in minutes to replenish up to field capacity.  
+Solution:  
+So, this is the perfect example of an irrigation schedule method   
+Discharge = 26 litre per second = 2 6×10 -3 m3/s 
+Area of check basin = 15 m × 12 m =180 m2 
+Depth of crop root zone = 1.3 m  
+The a pparent specific gravity of the root zone soil = 1.6  
+Water holding capacity of the soil = 16%  
+Soil moisture content in the crop root zone=12%  
+(Refer Slide Time: 18:38)  
+ 
+i. 𝐷𝑒𝑝𝑡 ℎ 𝑜𝑓 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛 =  ((16−12)×1.6×1.3)
+100  = 8.32
+100     =0.0832  𝑚  
+  Net 𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑟𝑚𝑒𝑛𝑡 =83.2 mm 
+ii. Discharge =𝐴𝑟𝑒𝑎  ×𝑁𝑒𝑡  𝑖𝑟𝑟𝑖𝑔𝑎𝑡𝑖𝑜𝑛  𝑟𝑒𝑞𝑢𝑟𝑚𝑒𝑛𝑡
+𝑇𝑖𝑚𝑒      
+26×10−3=180  ×0.0832
+𝑇𝑖𝑚𝑒 
+𝑇𝑖𝑚𝑒 =180  ×0.0832
+26×10−3=14.976
+26×10−3=576  𝑠𝑒𝑐 =576
+60 𝑚𝑖𝑛   =9.6 𝑚𝑖𝑛 
+The duration of the irrigation  = 9.6 𝑚𝑖𝑛 
+(Refer Slide Time: 20:05)  
+ 
+Exercise W2.6:  A bean crop is grown in clay loam soil and is completely developed. The 
+groundwater table is more than 10 m below the surface. At the beginning of the mid -season 
+stage of the crop, the moisture content is at field capacity. Reference crop 
+evapotranspirati on and precipitation values for the 10 day period are given below. Using 
+the above information develop an irrigation schedule based on a fixed interval of a week 
+and MAD.  
+Day 1 2 3 4 5 6 7 8 9 10 
+ETo 
+mm/d  5.6 5.4 5.9 5.8 5.6 5.8 5.9 5.8 5.2 5.4 
+P, mm/d  0 0 0 0 5 0 0.2 0 0 0 
+(Refer Slide Time: 21:39)  
+ 
+Solution  
+So, and the reference crop evapotranspiration and percolation values  10 day period are 
+given above . This table will give  the 10 days ETo(reference evapotranspiration ) and then 
+the P (precipitation) value . So, using the above information , we are going to develop  an 
+irrigation schedule  based on a fixed interval of week and MAD  (Manageable Allowable 
+Deficiency) . 
+So, first, let us make  a few assumptions  
+1. No runoff occurs during the precipitation event that means the intensity of rainfall 
+is less than the infiltration rate , so whatever rainfall is falling , that is going to  be 
+effective . 
+2. The bean crop is fully developed at the beginning of  the midseason  stage and thus, 
+the root system is also fully developed . So, we are not going to  include dynamic 
+root zone depth here and we are taking the full root zone depth in thi s case . 
+3. Bean crop effective  root zone depth is  60 cm and Kc mid  1.05  (recall ed table from  
+the previous lectures ).  
+4. From  literature data for Clay  loam soil , θfc = 36% and θwp = 18% and MAD = 0.5  
+Total  available water , 𝑇𝐴𝑊  = (𝜃𝑓𝑐 − 𝜃𝑤𝑝 )× 𝐷𝑟𝑧  
+= (0.36 − 0.18) (60) = 10.80 𝑐𝑚 
+ Allowable depletion, AD = MAD x TAW = (0.5)×(10.80) = 5.4 𝑐𝑚 
+At beginning soil moisture is at FC and thus SMDi-1 = 0 
+(Refer Slide Time: 24:34)  
+ 
+Calculation for each day as follow  
+ 
+Day SMDi-1 
+(mm)  EToi 
+(mm)  Kci Ksi ETci 
+(mm)  DPi 
+(mm)  Ii 
+(mm)  Pei 
+(mm)  SMDi 
+(mm)  
+1 0.0 5.6 1.05 1.0 5.9 0.0 0.0 0.0 5.9 
+2 5.9 5.4 1.05 1.0 5.7 0.0 0.0  11.6 
+3 11.6 5.9 1.05 1.0 6.2 0.0 0.0  17.7 
+4 17.7 5.8 1.05 1.0 6.1 0.0 0.0  23.8 
+5 23.8 5.6 1.05 1.0 5.9 0.0 0.0 5.0 24.7 
+6 24.7 5.8 1.05 1.0 6.1 0.0 0.0  30.8 
+7 30.8 5.9 1.05 1.0 6.2 0.0 0.0 0.2 36.8 
+8 36.8 5.8 1.05 1.0 6.1 0.0 0.0  42.9 
+9 42.9 5.2 1.05 1.0 6.0 0.0 0.0  48.4 
+10 48.9 5.4 1.05 1.0 6.2 0.0 0.0  54.0 
+ 
+For MAD based scheduling, 54.0 mm of irrigation would be required on the morning of 
+11th day, whereas irrigation amount would be 36.8 mm after a week  
+So, in this  tutorial , we have  seen some problems related to  irrigation scheduling . When to 
+give irrigation and how much to give irrigation and , also how to use the pan evaporation 
+and water budgeting technique  for irrigation scheduling . 
+Thank  you. 

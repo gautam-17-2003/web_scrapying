@@ -1,0 +1,299 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 23 
+Drip Irrigation -I 
+This is  a lecture number  23 on Drip Irrigation , in this lecture we will be  learning how to 
+design a drip irrigation system . In the previous  lectures we have been talking  about  
+sprinkler irrigation  system , in the sprinkler , the discharge  is more than that of drip 
+irrigation since we are applying  water drop by drop  through an  emitter  in drip irrigation . 
+The sprinkler s are be ing replaced  with drippers and the lateral s and main s are replaced 
+with tiny pipes . Since the water has to pass through small er diameter pipes and smaller  
+openings , the water should be as clean as possible  compared t o even  sprinkler irrigation . 
+So, we have some extra filtration  units in case of  drip irrigation , but design -wise they are 
+almost similar . We are going to see some additional component s and use some of the 
+calculation  methods  from  sprinkler  design , . 
+(Refer  Slide Time: 01:56 ) 
+ 
+Drip irrigation  layout is shown in the picture  above,  it has a water source and from the 
+water source , it pa sses through  a sand separator or cyclone filter , where the heavier 
+particles or sand particles are going to settle down or sep arated and  then the  clean water 
+goes into the  sand filter . Most of the bacteria , even the clay particles are going to be 
+separated in the sand filter a nd from there , there  is a screen filter  and then  the water passes 
+through the mainline or sub-main . Each lateral will have d rippers at definite  intervals  and 
+there is  an air valve  to release a ir present in the  system  and there is an  end stop  to stop the 
+water  from coming out at the end of the tine pipes . So, the sprinkler s are be ing replaced 
+with the drippers , otherwise , it is almost similar . 
+(Refer Slide Time: 03:32 ) 
+ 
+Next is the types of drip systems, there are different kinds  of drip irrigation systems . On-
+line emitter or  dripper  system  is one type. The drippers are fixed  externally on the lateral  
+at the designed  spacing . Different  drippers are shown in the slide above ,  the drippers are 
+colored based on the discharge  from each  the dripper . For example, here the black one has 
+2 lph, the blue one has 4 lph , the yellow one is 8 lph and the green one  is 8 lph. This 
+arrangement  based on the color will make it easier for the f armer  while using it. T he 
+dripper spacing can b e change d at any time by taking the emitter  out and  putting it in other 
+spacing  based on the time of the plant grow th period. On-line emitters are commonly used  
+for horticultural  crops like  mango , coconut , citrus , oranges , lemon , bananas , etc.  
+(Refer Slide Time: 05:15 ) 
+ 
+The n ext one is the emit ting pipe system  or the in -line drip  system , here the dripper  is 
+present inside the pipe . In a pipe or lateral  tape, the dripper is present inside  and the water 
+pass from the opening  of the dripper inside  and slowly take s the long path , and finally, it 
+comes out . The drippers in this system are fixed and once installed you cannot  change 
+during the  growing season. It is very effective for row crops like cotton , sugarcane , 
+groundnut , vegetables and floriculture  because the problem of blockages and  rodent s effect  
+in the field will be reduced  if you use this  in-line system .  
+(Refer Slide Time: 06:37 ) 
+ 
+And then  next is  the point source emitters , it can be classified as  the long path , orifice , and 
+pressure compensating . The point source emitters are shown in the picture above a nd there 
+are another  called line so urce emitters.  
+The classificat ion of emitters depends  on th e equation  
+𝑄=𝑘𝑝𝑥 
+Where  Q is the emitter discharge in lps, P is the operating pressure in kpa, k and x are the  
+constant s for the specified  emitter .  
+Based on the x value you decide the emitter  type. If x = 1 it represents a laminar flow 
+emitter , if x = 0.5 it is an orifice type emitter , or if x = 0 then that is a pressure compensating  
+emitter.  In this equation  when  x = 0  we get Q = k; that means, there is no pressure effect 
+on the discharge  hence it is pressure compensating . Where as in a line source you have a 
+tape or tubing and emitter s are present as openings , it could be seen in the image above.   
+(Refer Slide Time: 08:30 ) 
+ 
+A graph is shown in the slide above, the pressure is in the x -axis and the emitter discharge  
+on the y -axis. Curves for  different kind s of emitters at different k and x value s are shown 
+in the graph . So from this chart , you can select  discharge by knowing the k and x value s. 
+For example, at a pressure  head of 300 kpa for orifice type  emitter , I am getting a  discharge 
+of about 18 lph. T his graph is very useful  for knowing the  pressure , and the type of emitter 
+and the corresponding  discharge , . 
+(Refer Slide Time: 09:40 ) 
+ 
+The line source  emitters could be a porous pipe or tape that  discharge s water along its 
+entire  length . The images in the above slide show  the line source  emitter with  openings , in 
+the porous pipe  water can simply  emit through a small opening  and the discharge could be 
+along the line. I t is primarily used for row crops , sometimes you see the  bubblers 
+discharging into the furrows . The line source emitters  could be mono -walled  or bi-walled  
+(twin wall). In the bi -walled , the pipe has two layers and the water initial come out through  
+the openings of the inner layer (as shown in the image above) and it is taking a long path  
+to come out  from the inner walled to the outer walled  so the flow rate is then reduce d 
+because instead of  discharging immediately  it is taking some  time in the second wall and 
+releasing it reduce the discharge further . 
+(Refer Slide Time: 11:06 ) 
+ 
+Next is the drip  irrigation later als. Lateral s deliver  water from main line and sub -mains  to 
+the emissio n devices ; it is a kind of a conveyance  system from the water  source  to the 
+emitter devices. A nd the materials used are gener ally polyethylene and  PVC . The diameter 
+of the  point source emitters  could be  10 to 20 mm and for line  source emitters i ts more 
+than 20 mm because you have to accommodate  the emitters inside the pipe. A nd lateral s 
+are designed to maintain acceptable variation of emission devic e discharge along their  
+length . The manufacturer 's coefficient of variation  (Cv) determines the acceptability , if the 
+coefficient of variation  is close to your manufacture s Cv when you test that in the field then 
+it is working well  or it is acceptable . 
+The Cv is determined  from flow rate measurements for several identical emission devices 
+and is computed with the following e quation.  
+𝐶𝑣= (𝑞12+𝑞22+.……….+𝑞12−𝑛𝑞−2)12⁄
+𝑞̅(𝑛−1)12⁄ 
+Where, 𝐶𝑣 = manufacturer' coefficient of va riation  
+q1, q2……. q n =discharge of emission device, l/hr  
+q̅ = Average discharge of emission devices tested, l/hr  
+n= number of emission devices tested  
+(Refer Slide Time: 13:33 ) 
+ 
+The American Society of Agricultural Engineers (ASAE ) now known as the American 
+Society of Agricultural Biological Engineers (ASABE ) has recommended  the Cv value 
+ranges and  classification  as shown in the table in the slide above. So when you buy the 
+emitter , you have to test it in the field and find out  the Cv and compare it with the  
+manufacture rs and compared with the  table  above  then you will know whether the emitter 
+is work ing well or not . 
+(Refer Slide Time: 15:01 ) 
+ 
+Next is the emission  uniformity  EU which is given as follows  
+𝐸𝑈=100 (1−1.27
+√𝑁𝑒 (𝐶𝑣))𝑄𝑚𝑖𝑛
+𝑄avg 
+Where,  
+𝐸𝑈= design emission uniformity, %  
+𝑁𝑒= Number of point source emitters per emission point  
+𝐶𝑣  = Manufacture’s coefficient of variation  
+𝑄𝑚𝑖𝑛=minimum emitter discharge rate in the system, L/h  
+𝑄𝑎𝑣𝑔 = average or design emitt er discharge rate, L/h  
+ (Refer Slide Time: 16:10 ) 
+ 
+The slide above presents the table of  recommended ranges of design emission uniformity  
+Permanent crops are like the orchard  crops , once it  is installed  it remains for  10-15 years . 
+Line source emitters  are used on annual row crops , for example, vegetab le crops . In the 
+table , ‘a’ means  spaced  > 4 m and ‘b’ indicate  spacing < 2 m. The t opography is also 
+important  to determine the type of emitters.  ‘c’ indicate slope <  2 % uniform slope an d ‘d’ 
+is for slope > 2 % that is an undulating slope  or steep s lope. You ca n see the  EU range for 
+arid areas is 90 to 95 % in case of point source emitter crops that are greater than  4 m 
+spacing and less than 2 %. 
+Similarly, you can find out the line source emitter s on ann ual crops for less than 2% slope 
+and you can achieve  80 to 90%. This table is very important  to know the emission 
+uniformity  of emitter type and soil topography .  
+(Refer Slide Time: 17:58 ) 
+ 
+For example : For the given data, compute the emission uniformity for drip lateral for an 
+arid region and check whether the design is acceptable  
+Point source emitters on a permanent crop  
+Cv = 0.07  
+Qmin = 30 lph  
+Qavg =33 lph  
+Ne =1 
+Uniform terrain with slopes less than 2%.  
+Solution:  
+EU=100  (1−1.27
+√Ne (Cv))Qmin
+Q𝑎𝑣𝑔 
+(Refer Slide Time: 18:45 ) 
+ 
+Then substitute all the values in the above equation  
+𝐸𝑈=100 (1−1.27
+√𝑁𝑒 (𝐶𝑣))𝑄𝑚𝑖𝑛
+𝑄avg  =100(1−1.27
+√1 (0.07))30
+33 
+                          =82.8% 
+If you go back to the table ,  for this particular emitter  the criteria are we ar e expecting is 
+90% of emission uniformity , but you get  82.8 % emission uniformity . 
+So, how to increase emission uniformity ? 
+EU in the example could be improved by  
+ increasing Ne  
+ using an emitter with a  lower Cv  
+ reducing the difference between Qmin and Qavg  
+ using the larger diameter and/or shorter laterals  
+ using pressure compensating emitters  
+(Refer Slide Time: 20:30 ) 
+ 
+The slide above presents two plots the first plot have the number of emitters  Ne in the x-
+axis and emission uniformity  in the y -axis. You can see the  different  Cv values  in the plot  
+and as the  EU is increasing you have to increase the number of  drippers to get more 
+emission uniformity  or otherwise , for a fixed number of  Ne the lower  Cv will have higher 
+emission u niformity . 
+The next plot  in the slide above shows  the exponent  x in this equation  q = kpx in the x -axis 
+and the EU on the y -axis. Here the EU is high for  emitters with lower x , the EU is showing 
+a decreasing  trend , and the different Cv values are represented i n the plot. F or example,  x 
+is  0.5, which  is the orifice type , so for orifice  type emitter  as Cv is decreasing the EU is 
+going to increase .  
+(Refer Slide Time: 22:40 ) 
+ 
+Next is the pressure variation along a pipeline , this is important to find out  the pump 
+capacity or pump power The pressure variation in the pipe is 
+𝑃𝑑= 𝑝𝑢−𝐾(h1±∆𝑍) 
+Where,  
+Pd, pu = Pressure at downstream and upstream positions, Kpa  
+h1= Energy loss in the pipe, m  
+∆Z=Elevation difference, m (+ ve for uphill)  
+K = 9.81  
+h1=FH1+M1 
+Where,  
+F = constant; f (number of outlets and meth od used to estimate H 1) 
+H1 = friction loss, m  
+M1 = minor losses through fitting (from standard Tables)  
+F is a friction factor or  constant , this we can estimate by using  the procedure  we have seen 
+in sprinkler irrigation  in the previous lecture .  
+ (Refer Slide Time: 24:40 ) 
+ 
+Let us see how to estimate h 1,  we use the 3 equations Darcy Weisbach , Hazen W illams, 
+and Scobey then  
+𝐻1=𝐾𝐶𝐿𝑄𝑚
+𝐷2𝑚+𝑛 
+Where,  K = friction factor  that depends on pipe material; L = Length of pipe, m ; Q = 
+Discharge, l/min ; D = Diameter of pipe, mm ; C, m and n= Constants   
+For trickle, Darcy -Weisbach Equation is preferred. The constants c, m and n  
+ for D -W are 277778, 2.0 &1.0  
+ for H -W    591722, 1.85 & 1.17  
+ for Scobey     610042, 1.90 & 1.10  
+ (Refer Slide Time: 25:48 ) 
+ 
+Next is how to estimate K value  
+ K is given by (For D -W)                              𝐾=0.811(𝑓
+𝑔) 
+Where,  
+𝑓 = friction factor from the moody diagram ; g is the acceleration due to gravity  
+Knowing the Reynolds number ( NR), 
+For N R less than 2000 (laminar flow)   𝑓=64
+𝑁𝑅 
+For N R between than 2000 and 100000 (turbulent flow)  𝑓=0.32𝑁𝑅−0.25 
+For N R greater than 100000 (Fully turbulent flow)  𝑓=0.80+2 log(𝑁𝑅
+√𝑓) 
+By knowing NR you can estimate small f , and then finally  the K value . 
+(Refer Slide Time: 26:40 ) 
+ 
+In the slide above,  if you look at the  point source emitters  image at the diameter of the 
+lateral a point source  emitter  is insert ed the emitter  will have  a barb  in it to push  the emitter.  
+The water has to pass through these  barbs and the flowing water which has an abstraction 
+in the pipe  is going to have an additional head los s.  
+How to estima te the head loss due to th ese barbs , in the graph  above it clearly show the 
+inside diameter of the lateral  in the x -axis and the emitter  connection loss equivalent  (CL) 
+in the y -axis. T he pipe the losses will be estimated in terms of equivalent pipe lengths  this 
+is multiplied by the number of  barbs  added to L in Darcy W eisbach , Hazen - Willams or 
+Scobey Equation; 𝐻1=𝐾𝐶𝐿𝑄𝑚
+𝐷2𝑚+𝑛 
+(Refer Slide Time: 28:23 ) 
+ 
+Here the length L is the  pipe length , which include s the lateral  length as well as the  friction 
+head loss due to barbs . How do we  convert that into length units  of the barb ? For example , 
+L1 is the length of the lateral , L2 is the equivalent  pipe length due to barbs . 
+L2 will be estimated from the  graph  above, you  can see in the graph  that knowing  the inside 
+diameter of  the pipe , you can estimate the C L. You can directly use this graph to get the 
+CL value,  or you can use  the equation shown in the graph . Knowin g CL and the number of 
+drippers Ne, that will give the total equivalent l ength L 2 and you can  add to  L1, then you 
+get the L value . 
+(Refer Slide Time: 31:03 ) 
+ 
+Example 23.2:  Compute  head loss due to pipe friction in a drip lateral with on -line emitters 
+for the following data  
+ 16-mm internal diameter lateral  
+ 200 m long lateral w ith standard on -line emitters spaced 1 m  
+ Design discharge of each emitter is 1 lph  
+ Water temperature is 20oC 
+Solution:  
+ Total discharge = (1 l/hr)  × (200) × (1hr/60min) = 3.33 l/min  
+V=Q
+A=3.33 l/min
+π
+4(16mm)2=27.6 cm/sec  
+(Refer Slide Time: 32:10 ) 
+ 
+Knowing the velocity you can the estimate the Reynolds  number  
+𝑁𝑅= 𝜌𝐷𝑉
+𝜇=4406        (𝜌= 998.2 kg/cu m; 𝜇 = 1.002 x10 -3 N-S/m2) 
+Since NR is between 2000 -105, use Reynolds number (turbule nt flow) equation to compute 
+f 
+f=0.32NR−0.25=0.32(4406)−0.25 
+K=0.811(f
+g)=0.811(0.0393
+9.81)=3.25×10−3 
+Correcting L in Darcy - Weisbach, Hazen - Willams or Scobey Equation for barb losses  
+L = 200 m + (number of emission devices) C L 
+from Figure CL = 0.36 ft, = 0.11m  
+L = 200 + 200 (0.11) = 222 m  
+H1=KCLQm
+D2m+n=(3.25×10−3)×277778×222×(3.33)2
+162×2+1=2.12 
+F = 0.33 (Table value)  
+h1=FH1+M1=0.33×2.12+0=0.70 m 
+ (Refer Slide Time: 34:15 ) 
+ 
+The table above indicates  the valu es of F used when the distance to the first sprinkler 
+equals the sprinkler head spacing. In the first column , the number of out lets is indicated . 
+These values of f are used when the  distance to the first sprinkler equal to the sprinkler  
+head spacing , just li ke sprinkler  we have the first opening and if this spacing will be equal 
+to the spacing between the sprinklers  then this table will be used . For example , previously 
+we had calculated that when the number of barbs  or number of emitters is 200 and for m  
+equal to 2, f is 0.333 .  The same thing is shown here  f is equal to 0.33 from the table  for 
+the number of emitters  200. 
+Basically  in this lecture , we learn about drip irrigation  design  and the basic thing is we 
+have to estimate the friction head losses . From t he friction  head loss and by knowing the 
+discharge from each emitter  and knowing the number of emitters and the barbs you will 
+be able to  estimat e the equivalent length due to the barbs that are causing the friction head 
+loss. And  the total length will be the lateral length and barb length , which  will be plugged 
+into the H azen William or Darcy Weisbach equation  to get the friction head loss . And then 
+we have also seen the type of  emitters ; point  source emitters and line source emitte rs. The 
+emitter  discharge  is defined  based on the ir colors , for example, black color  is of lower 
+discharge  versus the green color  which is having  higher discharge  and it is easier for  people 
+to identify a particular discharge  based on the color .  
+So, in the next lecture , we have the hydraulic design  of drip irrigation , design for entire  
+field crop e.g.,  banana crop or orchard  crop  
+Thank you . 

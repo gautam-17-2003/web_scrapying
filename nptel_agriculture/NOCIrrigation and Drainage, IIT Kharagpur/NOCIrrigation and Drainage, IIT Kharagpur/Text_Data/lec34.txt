@@ -1,0 +1,304 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapa lli 
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 34 
+Pump Characteristic Curves  
+Welcome to lecture number 34 whic h is on  Pump Characteristic s Curves . In the previous 
+lecture , we have been talking about  the centrifugal pump  and its working princip le and 
+also how to calculate the  head . And once you know the head and  by using the discharge , 
+you can  estimate the pump  power required to lift the amount of wate r from  a water source ; 
+when the water source  is below the centerline of the pump  and when the water source  is 
+above the centerline of the pump .  
+Now,  we will see what  are the characteristic curve s of a particular pump , just like human 
+beings our character s are different , similarly , the pump which is manufactured by 
+manufacturer  A is different from  the pump  with the same princip le, which is manufactured 
+by the other  manufacturer . So, we need to study the pump characteristics  because it  will 
+be useful  in sele cting an  appropriate pump for your desired  application . 
+ (Refer Slide Time: 01:36)  
+ 
+Before going to  the pump characteristic  curve s, there is a concept called cavitation . This 
+is a common problem  in centrifugal pump s because  the cavitation itself  indicates  the 
+formation of cavities  inside the impeller . So, how it is form ing inside the impeller ? when 
+the impeller  rotate s and the speed increases that will  increase the fluid temperature . And 
+when the fluid temperature increases  there is  a vapor pressure and the water particles or 
+the water molecules  started  escap ing from the surface . Then because of vaporization , all 
+the vaporized particles which are accumulated inside the eye of the impeller , which  is 
+called  the cavities passes  from the low pressure at the eye  of the impeller  to the high 
+pressure at the  end of the impeller  or at the end of the vanes ; all the bubbles  which are 
+formed at the  center of the impeller  are going to burst . This mechanism o r phenomen on is 
+called c avitation . So what is the implication of  that process ? So due to cavitation , the 
+impeller  edges are going to  wear  then it is going to complete ly damage the impeller . The 
+image in the slide above clearly shows how the cavitati on is going to form at the cent er of 
+an impeller  when the impeller  rotates at  high speed , that causes the  increas e in the 
+temperature of the fluid and  then that causes the  vaporization  of the fluid and all  vaporized 
+particles formed cavity , so then when the cavity  transferred from low pressure to high 
+pressure i t is going to burst . And you can see the bursting  effect in the image above  mostly 
+at the edges .  
+(Refer Slide Time: 04:45)  
+ 
+And then  how to indicate the cavitation , so basically the cavitation co efficient is de noted  
+as H sv, which is  the net positive suction head . We are going to see this  in the  next slide , 
+but what exactly is the net positive suction head in the centrifugal pump . In order to lift 
+water from the suction point to the center of the impeller , you need to  maintain a minimum 
+suction . So the net positive suct ion head is  the minimum  pressure or the negative pressure 
+required to lift water from the  source  in centrifugal . So, the cavitation coefficient  (σ) = Hsv
+H. 
+The cavitation coefficient is the critical value  at which cavitation will begin , it can be 
+determ ined by testing the pump at constant speed and capacity at varying suction lifts . The 
+effici ency increases for lower  σ values  if the cavitation coefficient is greater than  0.3, then 
+that means the pump is operating successfully . The safe suction lift shoul d be 4.5 to 5 m 
+for most of the pumps . So, in the picture  above you see  the pressure  variation at the suction 
+point , eye of the impeller , and then the discharge point . The pressure at the suction point 
+is going to decrease at the eye and then the pressure is going to increase at the discharge 
+point. If t he low pressure  at the eye of an impeller is  less than the vapo r pressure of the 
+fluid , then there is a problem of cavitation  which means the bubbles are  going to form . In 
+the first image above the low press ure at the eye of an impeller is above  the vapo r pressure 
+of the water and no  bubble  is going to form a nd no cavitation is going to taking place 
+whereas , in the second graph condition , cavitation is going to  take place . 
+ (Refer Slide Time: 08:27)  
+ 
+Net positive suction head  (NPSH)  as introduced in the previous slide  is the pressure head 
+needed at the pump inlet.  
+Total NPSH = NPSH +  entrance and other frictional losses in suction pipe  
+When pumping water level is below the pump inlet which is below the cente rline of the 
+pump , 
+NPSH = Atmospheric head -hss 
+When the pump water level is above the pump inlet  
+NPSH = Atmospheric head + h ss 
+Where h ss is the static suction head  
+ 
+ 
+ 
+ (Refer Slide Time: 10:10)  
+ 
+Pump characteristic curves  are a simple graphical representa tion of  the behavior  of a 
+particular pump . Generally,  it is represented with  discharge , Q on the x-axis and y -axis is 
+the head H, the other parameters are the power BHP on the y-axis and efficiency . The 
+graph above shows 3 characteristic curve s of a partic ular pump , which has Q versus H and 
+Q versus  power P , and Q versus  efficiency . These characteristic  curves are  different from  
+one pump  to another pump . The usefulness of this  particular curve  is when you purchase 
+a pump  you have to check the pump character istic curve and  see, whether the discharge 
+you are  expecting and the head you  are looking  for can be obtained from the particular 
+pump or not . For example,  in the graph above  your design  discharge  is suppose 16 lps and 
+for this particular  discharge , you ca n have  around 29 m maximum head and then  
+corresponding ly this will give the power required  and efficiency  of the particular pump . 
+ (Refer Slide Time: 12:27)  
+ 
+Next is  what happen ed to the characteristic curves , when you have  pumps connected  in 
+series and parallel . When you  connect  pumps in series the Q or the final discharge will be 
+the same , but the head is going to increase , you can increase the head  when you  connect 
+two centrifugal pumps in series . 
+Discharge,  
+Q = Q 1 = Q 2 
+Total Head,  
+ H = H 1 + H 2 
+Combine d efficiency,   
+𝐸𝑠𝑒𝑟𝑖𝑒𝑠 = 𝑄(𝐻1+𝐻2)
+102 ×(𝐵𝐻𝑃 1+𝐵𝐻𝑃 2) 
+Where, H 1 = Total head for pump 1 ; H 2 = Total head for pump 2; BHP 1 = BHP of pump 
+1 in kW; BHP 2 = BHP of pump 2 in kW  
+(Refer Slide Time: 14:10)  
+ 
+When the pumps are connect ed in parallel, the head s are the same  but discharge is 
+combine d. 
+ the head is constant,  
+ H = H 1 = H 2 
+Discharge is combined,  
+ Q = Q 1 + Q 2 
+Combined Efficiency,  
+𝐸𝑃𝑎𝑟𝑎𝑙𝑙𝑒𝑙 = 𝐻(𝑄1+𝑄2)
+102 ×(𝐵𝐻𝑃 1+𝐵𝐻𝑃 2) 
+ 
+(Refer Slide Time: 15: 09) 
+ 
+Pump performance  depends on the design and installation . The i nstallation  has practical  
+influence and the design part , we need to consider in the design parameters , such as the  
+diameter of the impeller , speed ,  power , head , and discharge . We need to understand all 
+these parameters and how these are connected . These can be  studied  by using affinity law s. 
+Affinity laws are standard expressions that define changes in pump capacity, head , and 
+BHP when change is made to pump speed, impeller diameter or bot h 
+(Refer Slide Time: 17:24)  
+ 
+Affinity laws:  Effect of change of pump speed on pump performance  
+𝑄=𝑄1(𝑛
+𝑛1)1
+ 
+𝐻=𝐻1(𝑛
+𝑛1)2
+  
+ 𝑃=𝑃1(𝑛
+𝑛1)3
+ 
+𝑛
+𝑛1=𝑄
+𝑄1= √𝐻
+𝐻1=√𝑃
+𝑃13
+ 
+Where, n 1 = Speed at  which characteristics are known; n = desired new speed ; Q1 = pump 
+capacity at n 1 rpm; Q = pump capacity at n rpm; P 1 = BHP at n 1, H1 and Q 1; P = BHP at n, 
+H and Q  
+(Refer Slide Time: 18:43)  
+ 
+Affinity laws:   Effect of change of pump Diameter  on pump perfor mance  
+𝑄=𝑄1(𝐷
+𝐷1)1
+ 
+      𝐻=𝐻1(𝐷
+𝐷1)2
+ 
+𝑃=𝑃1(𝐷
+𝐷1)3
+ 
+𝐷
+𝐷1=𝑄
+𝑄1= √𝐻
+𝐻1=√𝑃
+𝑃13
+ 
+Combining the changes due to impeller speed and diameter  
+𝑄=𝑄1√𝐷×𝑛
+𝐷1×𝑛1 
+Where, D 1 = Diameter o f original impeller; D  = Changed diameter of impeller; Q 1 = pump 
+capacity at D 1; Q = pump capacity at D; P 1 = BHP at D 1, H1 and Q 1; P = BHP at D, H and 
+Q; D 1 = Diameter of original Impeller; D = Changed diameter of Impeller.  
+(Refer Slide Time: 20:47)  
+ 
+For example , if you  know the  diameter  and other parameters , then you can estimate , what 
+are the  parameters corresponding to the  change in impeller diameter . 
+So for example s o, we know that 𝑄
+𝑄1=𝐷
+𝐷1 . So, Q is given , D is given and what is Q1 for 
+D1. So, D1 = 9 inch and D = 13 inch and  Q = 800 GPM. So  this is simple ,  math , you can 
+calculate Q1.  
+𝑄
+𝑄1=𝐷
+𝐷1=800
+𝑄1=13
+9  
+𝑄1=9
+13×800 ≈554 
+Similarly , you c an calculate  the other parameters like head and power  
+𝐻
+𝐻1=(𝐷
+𝐷1)2
+and 𝑃
+𝑃1=(𝐷
+𝐷1)3
+ 
+And then , you can also use a characteristic curve graph  if you have , by knowing the 
+diameter , 13-inch diameter and you get  the 9-inch diame ter. The second question is to 
+calculate the corresponding reduce d speed , similar  when you get a new speed, for  the 
+reducing  the diameter  from  13 to 9 inch, you calculate the speed and you can get the 
+reduced speed using the equations .  
+ 
+ 
+(Refer Slide Time : 23:40)  
+ 
+We also have other pumps  like propeller pumps . You might have seen the propellers  in 
+boats  or airplanes . You can see the propeller  takes the air inside  or guides , the air inside . 
+Similar ly, these pumps  work on  the same principle . It is a dopted f or high discharge and 
+low head pumping  and it is  suitable to lift water from canals , rivers , and streams because 
+all are surface waters , so you can easily use propeller pumps  to lift water . These pumps 
+are very popu lar in rice -growing regions of S outh East Asia because the rice requires  
+shallow water , so, it will be very  useful . The pressure head is developed mostly by the  
+propelling or lifting  action of the  propeller blades  on water . So assembly will have  a 
+propeller , diffuse r assembly , pump column , discha rge column , and the pump drive . The 
+water which is  pump  due to the propeller  action  will be taken inside of the propeller and 
+that will be guided t ill it finally reaches the discharge column . 
+ (Refer Slide Time: 25:59 ) 
+ 
+The next pump  is a mixed flow pump . So, the mixed flow  has both  the propeller a ction as 
+well as  the c entrifugal action . So, it combines some  of the features of both vertical turbines  
+pump that is , centrifugal pump and propeller pump . If you see the image of the pump 
+above , first water will  flow through  the impeller  then it is guide d in the propeller it goes  
+straight  then after that  it goes radial ly. 
+It is applicable for  high discharge  medium head  like 2.5 to 10 m, it can be used extensively 
+for drainage pumping, and  also pumping  from canals  and rivers . So, mixed flow pumps 
+get more head  than, the propeller pumps because of the centrifugal  action , which is added 
+in this pump . Head is developed partly by centrifugal force , because of the impe ller and 
+partly by  lift vane s on the liquid . So, the flow enter s axially  and discharges in the axial  and 
+radial direction . And, the main difference between the propeller  and the mixed flow pump 
+is the construction of the impeller , which gives out ward thrust to the water in addition to 
+imparting it an upward  velocity . 
+ (Refer Slide Time: 28:22)  
+ 
+Next, is a jet pump also called ejector pumps . This is  a centrifugal pump  that has an 
+additional jet unit . In a centrifugal pump , it is practical ly applicable up to 7.5 m, if you  
+want to have more head you need to hav e a jet assembly , that adds head to the centrifugal 
+pump . So how this  jet works , supp ose, there i s an inflow  and there is a  jet with a  throttle , 
+because of t he high j et negative pressure is going to  be create d. Centrifugal pump  is 
+sucking the  water  and because o f that the water i s going in , but when you have a jet 
+assembly this add ed negative pressure , which is created that will  induce more inflow to 
+the suction, compared  to the regular  centrifugal pumps . 
+There are two types  of jet pumps , shallow well jet pum ps and deep well jet pumps . The 
+shallow well jet pump s assembly is  inside the pump  body  whereas,  in the deep well jet 
+pump assembly is inside the well, just like  a submersible  pump . The suction lift increases  
+from 6.5 to 8.5 m in case , of shallow well jet pump s where as the suction lift can go up  to 
+50 m or 90 m in case  of deep well jet pump s. The e fficiency  in the jet pump s is mainly 
+influenced by  the nozzle  throat ratio. For the small jet , the Throat is equal to the nozzle 
+diameter , and the length of the t hroat is equal to 6 times  the throat diameter . So, these are 
+the design , parameters we need to consider . 
+ (Refer Slide Time: 31:06)  
+ 
+The above slide presents the two types  of jet pump , one is the shallow well jet pump and 
+deep well jet pump . In the  shallo w well , the jet assembly  is inside the pump , wherea s the 
+same  unit when present inside the well , as shown above,  it is a deep well jet pump  
+(Refer Slide Time: 32:35)  
+ 
+And there is another spec ial kind of pump called Hydram or Hydraulic Ram , which works 
+on the principle of water hammer . Suppose if the fluid is flowi ng in a pipe or anywhere 
+you might have seen and if you  make a  sudden  impact  on the flow there is a residing  wave  
+or it creates impulse  and that is carried backward , that sudden impact is called hammering . 
+We are creating a hammering force  on the water flow and that creates a ripple  and that 
+ripple  force can be used to lift  the water . 
+This kind of  pump  is used in hilly areas , where  we do  not require any electricity , that is  
+the advantage  of this pump . In hilly areas  water is lifted from  low heights to  high heights. 
+If you see the source of water  supply  and irrigation , in the case of hilly areas  may be a 
+stream  or irrigation canal . The s implicity of construction and automat ed operat ion of the 
+hydraulic ram , make it ada pted in rural areas . 
+So in the image above  basically  there  is a drive pipe , and a delivery pipe  and you want to  
+lift water f rom the water source to the end of the delivery pipe. B ecause of th e slope , water 
+is going to fall  from  the d rive tank to the hydraulic ram pump and  because of the high 
+velocity  with which it is falling , when it hits  the obstruction at the pump , the flow recedes  
+and there is a chamber  in the pump , which is water is stored inside , that water will be 
+pushe d up and a valve  will open  and that opening  of a valve  take the water into the delivery 
+pipe. So when the  valve opens up pressure will be decreased, and  then again that will  push 
+this valve to closed  back . So, a back and forth  mechanism  is created, helping the opening 
+of the  valve  and leaving water in the chamber . So, this is  an automatic ,  mechanism and 
+no power is required , only water will act as the energy source  in this. 
+(Refer Slide Time: 36:16)  
+ 
+So, in the above slide , a broader picture of the hydraulic ram is shown . So, there are two 
+valves the waste valve  (A) or impulse valve  and the delivery valve  (B), these two valves 
+are very important in the functioning of  the hydraulic ram . When the flow, which  is coming 
+is hitting th e waste valve , because it is a high flow  and you  are suddenly hammering it , by 
+obstructing the flow  so, what happens initial ly, the waste valve  is open so some water will 
+be wasted , that why it is called a waste valve . And then  because of the spring  action , the 
+valve again pushes the fl uid into the system . So, when it pushes th e extra fluid  is going to 
+lift the  delivery valve ; then it goes into the air chamber  so, because of this air  will be 
+compressed  and when it  compress ed the fluid will be delivered to the delivery pipe and it 
+will cl ose the delivery valve . So, when this is closed again , the fluid  from the source  is 
+going to hit the waste valve again and then opening again  the delivery valve . So, this helps 
+in the functioning of the hydraulic ram . 
+(Refer Slide Time: 38:47)  
+ 
+The advant ages of hydraulic ram are simple in construction and operation and it does not 
+incur  any running cost , it utilizes  the energy of water available  freely and no fuel or 
+electricity is required because this operates  basically on hydraulic ram  principle . It has 
+only two moving parts , one is the waste valve  another is the delivery valve , both of which 
+are lubricated by  the water itself so it does not  require  lubrication . It ensures continuous 
+water supply as it operates through out the day and night , does not cause any po llution , 
+since  it does not require  any fuel  but since  it is continuously operated throughout the day 
+we need  to arrange a storage tank to store  the water . 
+And then , the limitations here are a minimum fall of one  meter from the stream to ram is 
+required , because that will help in  creatin g that particular flow  with high velocity. I t lifts 
+about  10 to 20 percent  of the water being delivered . Since it works 24 hours a day , a storage 
+tank is necessary  otherwise , it is going to  be waste d. 
+So with this , the pump suction is completed . So, in this lecture , we focused on cavitation 
+and then  pump characteristics  and then the other pumps  like propeller pumps , mixed flow 
+pump s, jet pumps and then  ram pump , which is entirely  different from other pumps  which  
+do not require  any electricity or power and works completely on  water hammer principle . 
+So, in the next lec ture, we are going to  see some of the examples as tutorial s. 
+Thank you  so much .  

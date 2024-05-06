@@ -1,0 +1,322 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 28 
+Well Hydraulics  
+Hi, this is lecture number 28 on W ell Hydraulics . In the last class , we’ve discussed on 
+Aquifers Properties , and in this class , we are going to  see some of the well hydraulics 
+mostly the  water flow to well in confined as well as in unconfined aquifers .  
+(Refer Slide Time: 00:40 ) 
+ 
+Before going to the details  let us  see the drawdown pattern in both confined as well as 
+unconfined aquifers . In the case of a confined aquifer , you can see clearly in the image 
+above that there is a well which is penetrating vertically down into the  confined aquifer . 
+The confined aquifer h as a thickness ‘b’ and the initial  water level is shown in a dotted 
+line as the  static piezometric level  which is the initial water level  before pumping . If you 
+take the bedrock as datum  so, from bedrock to the  static piezometric level  the depth is h 0 
+which  is the initial  static  water level . In the case of a confined aquifer , since the water is 
+under pressure between two impervious layers  so, due to this pressure  the water level rises 
+in the well . 
+If you pump water continuously , then  at a particular time interval  the water level is going 
+to deplete down . The depletion in the water level form s a curved as shown in the image 
+above which  is called the drawdown curve . Let us take 2 coordinates , one is the radial 
+distance  r and then the other is the head  h. 
+These two components r and h  or the drawdown curve  vary with time  and also with the 
+distance as shown in the picture above . 
+ (Refer Slide Time: 03:19 ) 
+ 
+At end of the end of this  drawdown , the change in the pressure with respect to  distance 
+will be  0, because at this point the curve is tending to be flat or 0% slope . So, 𝑑ℎ
+𝑑𝑟=0.  
+This drawdown is denoted with S and the drawdown is the difference between the static 
+water level and the head . The drawdown ,𝑆 = ℎ0−ℎ. Where  h0 is the initial water level  
+and h is the change in water level . 
+(Refer Slide Time: 04:24 ) 
+ 
+The curve pattern  of the drawdown is similar to a cone  hence it is called the cone of 
+depression . The aquifer is like a spongy material , which is initially saturated  and if you 
+put a straw and take water from  the sponge  the water which is adjacent to th e straw opening 
+will be removed  first, then after that it will remove water from the  extreme  corner  points . 
+The same thing is going  to happen in the case of an unconfined aquifer , the aquifer is lying 
+on bedrock or impervious layer  and there is no impervious layer on top, it is open to the 
+atmosphere . The water level we are  seeing  is called the static water level or water table  
+whereas in confined case s it is called the  piezometric  surface . Similarly , if you take water 
+from a confined aquifer  you can see  the same kind of drawdown pattern . So, the distance 
+between the static  water level and the pumping water level is called drawdown . 
+ (Refer Slide Time: 06:01 ) 
+ 
+Some of the definitions are important to understand the hydraulics of the well . 
+The s tatic water level  is the water level at which water stands  in a well before pumping 
+starts . It is called the water table in phreatic wells whereas,  the piezometric surface in 
+artesian wells . 
+The pressure at the static water level is atmospher ic. Suppose you have pressurized  force  
+just like in firefighters trucks if you see  the water inside the pipes  are initially under 
+pressure and based on the particular pressure  the water is going to eject into a burning 
+building . The point where the water is reaching , in the end,  cannot eject  any further  so at 
+this point the pressure  will be equal to the atmospher ic pressure  so, the same thing  here 
+the water level will rise to the atmosphere . The s tatic water leve l is express as t he vertical 
+distance from the ground surface to the water level in the well  
+The p iezometric surface  is the height at which water will stand in a piezometric pipe open 
+to the atmosphere  and extend to the con fine aquifers . The piezometric surface is the water 
+level in the well of a confined aquifer  or on the water  level in  an artesian well or the water 
+level in a flowing  well. 
+(Refer Slide Time: 09:16 ) 
+ 
+The rise of water in the pipe (ℎ) =𝑃
+𝑤 ;  𝑃= pressure at the bottom;  𝑤= unit weight of 
+water. The h eight at which water will stand in a piezometer or pipe open to the atmosphere 
+and extent to the confine d aquifer  is called piezometric surface  
+(Refer Slide Time: 09:56 ) 
+ 
+Pumping water level  – when you pump water from the well , the water level  present in the  
+well is called the pumping water level . The water level i nitially before pumping is called 
+the static water level . Then when you started pumping and the water level  is depleted down  
+and this is called the  pumping water level  so, this is a static water level let us  say h0, and 
+the pumping water level is h.  
+Then drawdown  is the difference between static water level and pumping water level  that 
+is denoted with S, which means 𝑆 = ℎ0−ℎ 
+(Refer Slide Time: 11:24 ) 
+ 
+Tube casing in the boundary point of drawdown  and your drawdown should not go beyond 
+the tube casing otherwise the casing which has perforations will be free  at the bottom  and 
+your yield will be less and second ly there is a chance of sediments enter ing into the system . 
+An area of influence  is the area that gets affected by the pumping of well . Suppose , you 
+have a drawdown curve , if you take the top view  of the drawdown with well as the cent er, 
+the boundary  of the area of influence  is a circular called the circle of influence .  
+(Refer Slide Time: 12:45 ) 
+ 
+Next is  the well yield , the well yield is the volume of water discharge from it per unit time . 
+So, in-unit time the volume of water which is discharged from the well is called  well yield . 
+The s pecific  capacity of a well is the yield per unit drawdown . So, for a unit drawdown , 
+the yield is  denoted by the specific  capacity of the well .  
+Open wells are dug wells  to water -bearing formation or aquifer . Open wells draw water 
+from formation close to the surfaces  and their large diameter permits  storage of large 
+quantity  of water,  generally , the diameter of an open well varies from 1.2 to 1.5 m. These 
+open wells  are seen in  nearby irrigated fields where the water is being used for irrigations . 
+ (Refer Slide Time: 13:53 ) 
+ 
+In the lasts  presentation , we mentioned  two properties of leaky aquifers - hydraulic 
+resistance and leakage factor . If you see the hydraulic resistance , which is the property of 
+semi -confined aquifer  and is  denoted with C, 𝐶= 𝐵2
+𝐾𝑏  
+Where B  is the leakage factor and C the hydraulic conductive resistance that is in days , K 
+is hydraulic conductivity of an aquifer , b is the thickness  of the aquifer . 
+Suppose you have a n aquifer  with a leaky  layer and the bedrock is at the bottom  so there 
+will be no leakage  but, water can go  up from the leaky layer on top and during recharge 
+water can enter into the aquifer . So, here K is the aquifer  conductivity and b is aquifer  
+thickness . And remaining C and B are properties of the semi -confined  layer . In this 
+equation , we are not seeing any property related to the semi -confined  layer , C is the 
+hydraulic resistance in days   
+So, 𝐶=𝑏′
+𝐾′. Where b’ is the thickness of the semi -confined layer  in m and K’ is hydraulic 
+conductivity in m/day of the semi -confined layer and  that will give the  hydraulic 
+resistance , C.  
+When C is infinity , which  means there is  too much hydraulic resistance  then K  is 0 and  it 
+indicate s that the layer is impervious  whereas, when C is equal to  0, K tends to infinity  
+which  means, it is an aquifer . 
+ (Refer Slide Time: 17:08 ) 
+ 
+The next property is leakage factor  so, in the case of leakage factor , it determines the 
+distribution of leakage into or from the semi impervious layer . The same equation if we 
+use and solve for B  then 𝐵= √𝐾𝑏𝑐 
+𝑐= 𝐷′
+𝐾′ 
+Where 𝐾= hydraulic conductivity ; 𝑏= thickness of aquifer ; 𝐷′= saturated thickness of 
+aquitard ; 𝐾′= hydraulic conductivity of the aquifer  
+B is generally determined by the pumping test . A high value of B indicates a  greater 
+resistance because C is proportional to B; we have seen  that increasing the hydraulic 
+resistance  increases the leakage factor , B. 
+ (Refer Slide Time: 18:19 ) 
+ 
+Next is the tube wells , tube wells are constructed by pushing a pipe below the ground 
+surface through the different geological formation , which consists a water -bearing and 
+non-water  bearing strata . The different geological formations sometimes may be an aquifer  
+or not an aquifer and then again there is another aquifer . Tube well can connect to a single 
+aquifer or multiple aquifers . There are two parts in the tube well; one is a blind pipe and 
+one is a  perforated pipe or well screen. The pipe portion from the top to up to the part, 
+which does not contain any perforation is called the blind pipe. The next part below is a 
+thin pipe with perforations, which is required to collect the water through the perf orations.  
+ (Refer Slide Time: 19:13 ) 
+ 
+Filter points are popular in the deltaic region  because  the water table is very shallow . Since 
+the water table is shallow you  do not  require  any blind  pipe; directly you can  use a screen 
+pipe that means the whole pipe  has perforations.  
+(Refer Slide Time: 20:33 ) 
+ 
+A cavity well  is a tube well, opposite to the filter point s, cavity well  consists of a blind pipe 
+only and does not  contain any screen pipe . Cavity wells are generally used in  clay soils . 
+So, if you have a clay layer , that is  an aquiclude . The clay layer will  act as a support so, 
+only the blind pipe is required , it creates stability to the pipe and also does not  allow 
+sinking of the well. When you take water from the well , it forms a spherical bulb  (3D view ) 
+at the bottom.  
+So, a cavity well is a tube well that penetrates through a confined aquifer and does not 
+consist of a screen  and the water penetrates only through  the bottom opening . As shown 
+in the image above there  is a blind pipe , in the ground surface  or at the end of the pipe  
+there is a co arse sand layer and on top of it  is a clay layer and then a  sandy layer . So, we 
+are looking for the clay layer , once it hits the clay layer and  then water enters  at a critical 
+velocity just like  a clear  bulb. 
+(Refer Slide Time: 22:38 ) 
+ 
+Next is the partial  penetrating well , in the previous case , the well was fully penetrating 
+well, in the case of partially penetrating well , the water is  flowing through the well in three 
+dimensional because the bottom is open partially , it is not fully pass through the  confined 
+aquifer  so there is a possibility of the vertical flow down . A well-having a screen length 
+less than the aquifer thickness  is called the partially penetrating well  and the flow is three 
+dimensional . 
+  
+ 
+ 
+ 
+(Refer Slide Time: 23:43 ) 
+ 
+What is the steady -state flow to  a well?  So, in the case of a steady -state, the pumping 
+water level will be equal to the recharge . So, if the pumping water level Q1 is equal to Q2, 
+which is recharge  or the water flow to the well. The change in velocity will be  0.  
+ 𝑑𝑣
+𝑑𝑡=0 When 𝑄1≅𝑄2 we say the  flow is steady -state in the well . 
+ (Refer Slide Time: 24:28 ) 
+ 
+Then how to find out the  steady-state flow to well in unconfined aquifer ? An unconfined 
+aquifer  is shown in the figure above,  the static water level or water table  can be seen clearly 
+in dotted lines  and, there is the well . After pumping for some time t, the water level reached 
+a point called pumping water level , and the corresponding  drawdown curve is formed as 
+seen in the figu re above and is represented with 𝑑ℎ
+𝑑𝑟 0; r is a distance from the cent er of the 
+well to the drawdown curve and then the corresponding head at th e point  r is h . H is the 
+head at the extreme point or  the static water level table and R is the radius of influence , so 
+with these parameters  let us  derive an equation to find out a flow into the well . 
+ (Refer Slide Time: 25:50 ) 
+ 
+So, here in the case of steady -state, there are assumptions : 
+Flow is horizontal and penetrating the well radially . 
+Well is pumped at a constant rate , Q  
+The Dupuit  Forchheimer assumptions are valid  
+So, using Darcy’s  law because the Q, which is  going in is equal to  that going out , so 
+Darcy’s  law is valid  as well.  
+𝑄=𝐾𝑖𝑎 
+So, if you have  a well you  can see at the portion near the bottom , the water is flowing 
+horizontally into the system . Then 𝑑ℎ
+𝑑𝑟 will give the drawdown curve and 2𝜋rh is taken 
+because water is flowing to the surface  of the well s o, we have to take the surface area  and 
+K is hydraulic conductivity .  
+𝑄=2𝜋𝑟ℎ𝐾𝑑ℎ
+𝑑𝑟 
+ℎ 𝑑ℎ=𝑄
+2𝜋𝐾𝑑𝑟
+𝑟 
+ 
+ 
+ 
+ 
+ (Refer Slide Time: 28:17 ) 
+ 
+∫ℎ 𝑑ℎ=∫𝑄
+2𝜋𝐾𝑑𝑟
+𝑟 
+Boundary condition:   ℎ= ℎ𝑤  at 𝑟=𝑟𝑤 
+ℎ=𝐻  at 𝑟=𝑅 
+∫ℎ 𝑑ℎ𝐻
+ℎ𝑤=𝑄
+2𝜋𝐾∫𝑑𝑟
+𝑟𝑅
+𝑟𝑤 
+𝐻2
+2−ℎ𝑤2
+2=𝑄
+2𝜋𝐾ln(𝑅
+𝑟𝑤) 
+(Refer Slide Time: 29:41 ) 
+ 
+𝑄=𝜋𝐾(𝐻+ℎ𝑤) (𝐻−ℎ𝑤)
+ln(𝑅
+𝑟𝑤) 
+Where,  𝑄= Discharge, m3/s; 𝐾= hydraulic conductivity, m/s ; 𝐻= optimum water level in 
+well, m ; ℎ𝑤= pumping water level, m ; 𝑅= radius of influence, m ; 𝑟𝑤= radius of well, m  
+(Refer Slide Time: 29:54 ) 
+ 
+Next is how to estimate  the aquifer properties like hydraulic conductivity  (K) and 
+transmissivity  (T). So, once you have one parameter the other parameter can be estimated ; 
+𝑇= 𝐾×𝑏. So, here to do that , install two observation wells  1 and 2  near the pumping 
+well as shown in the  figure above . And, then in each observation well , we are going to find 
+out the drawdown S1 and S2. So, using these  drawdown points , you can find out the K and 
+T value s. So, let us  see how we can do that . 
+ (Refer Slide Time: 30:45 ) 
+ 
+So, here assume that there are 2 observations wells  installed at a distance r 1 and r 2 with 
+drawdown S 1 and S 2, respectively . drawdown 𝑆 = 𝐻−ℎ ; H is a static water level and h 
+is the pumping water level  
+ℎ=𝐻−𝑆 
+𝑄=𝜋𝐾(ℎ22−ℎ12)
+ln(𝑟2
+𝑟1) 
+𝑄=𝜋𝐾((𝐻−𝑆2)2−(𝐻−𝑆1)2)
+ln(𝑟2
+𝑟1) 
+(Refer Slide Time: 32:06 ) 
+ 
+𝑄=𝜋𝐾((𝐻−𝑆2)2−(𝐻−𝑆1)2)
+ln(𝑟2
+𝑟1)×2𝐻
+2𝐻 
+For   
+(𝐻−𝑆2)2
+2𝐻=𝐻2+𝑆22−2𝐻𝑆2
+2𝐻  
+=𝐻
+2−(𝑆2+𝑆22
+2𝐻) 
+=𝐻
+2−𝑆21 
+where, 𝑆2′=𝑆2+𝑆22
+2𝐻 
+Then  
+𝑄=2𝐻𝜋𝐾  (𝐻
+2−𝑆2′−𝐻
+2−𝑆1′)
+ln(𝑟2
+𝑟1) 
+𝑄=2𝜋𝑇 (𝑆1′−𝑆2′)
+ln(𝑟2
+𝑟1) 
+Where, T= transmissibility (m2/s) = 𝐾𝐻 
+(Refer Slide Time: 33:56 ) 
+ 
+𝑄=2𝜋𝑇 (𝑆1′−𝑆2′)
+ln(𝑟2
+𝑟1) 
+𝑇=𝑄ln(𝑟2
+𝑟1)
+2𝜋 (𝑆1′−𝑆2′) 
+The value of 𝑇 and 𝐾 can be estimated by observed wells.  
+(Refer Slide Time: 34:14 ) 
+ 
+A 25 cm diameter well in an unconfined aquifer is pumped at a uniform rate of 3000 l/min. 
+The drawdown observed at 1m and 100 m distance from the center of the well is 8 m and 
+0.4 m, respectively. Assuming the thickness of the saturated part of the aquifer  is 25m.  
+Solution:  
+𝐷𝑖𝑠𝑐 ℎ𝑎𝑟𝑔𝑒  (𝑄)= 3 m3/min 
+𝑟1=1 m  
+𝑟2= 100 m  
+ℎ1=𝐻−𝑠1=25−8=17 m 
+ℎ2=𝐻−𝑠2=25−0.4=24.6 m 
+𝐾=𝑄
+𝜋 (ℎ12−ℎ22) ln𝑟2
+𝑟1 
+ (Refer Slide Time: 35:24 ) 
+ 
+𝐾=𝑄
+𝜋 (ℎ12−ℎ22) ln𝑟2
+𝑟1  =3
+𝜋 (24.62−172) ln100
+1 
+𝐾=3
+𝜋 (605 .16−289 )×4.605 
+𝑲=𝟎.𝟎𝟏𝟑𝟗  m/min  
+𝑇=𝐾×𝐻=0.0139 ×25 
+𝑻=𝟎.𝟑𝟒𝟕𝟓  m2/min (Ans.)  
+So, in this lecture , what we focussed is some of the important definitions in the case of 
+well hydraulics . And, then how to  determine the flow to well during st eady-state and 
+unconfined aquifer . We also solved a problem with the unconfined case  using the  
+drawdown  at 2 observation points  and estimate  the aquifer parameters such as hydraulic 
+conductivity and transmissivity . Thank you . 

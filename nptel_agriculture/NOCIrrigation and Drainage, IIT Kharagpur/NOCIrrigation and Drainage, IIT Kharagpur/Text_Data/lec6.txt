@@ -1,0 +1,361 @@
+ 
+ Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 06 
+Field Water Balance  
+ 
+Friends , welcome to lecture number  6 of Irrigation and Drainage , lecture se ries. In the 
+previous lectures , we were talking about soil  water , soil water  relationships , soil moisture 
+content and soil  suction  and also how to measure soil moisture and soil moisture tension  
+or soil moisture suction . 
+In this lecture we are going to tal k about field water balance , once we know  how to 
+measur e soil water , soil moisture tension , within the soil then  we need to see  what are all 
+the inputs and outputs of the field and what would be the s torage  or the soil water r eservoir  
+within this soil system. So, we are going to study the water balance components and also 
+work on some of the p roblems . 
+(Refer Slide Time: 01:40 ) 
+ 
+In the picture above you can see, the surface  and subsurface  layer , and the re are inputs 
+(water inputs ) as irrigation  or rain fall or both,  and then there is a capillary rise from the 
+water table to the root zone . And then the output s are the runoff , evapotranspiration  (if you 
+have crop on top of the soil then water is l ost through  evapotranspiration ) and then below 
+the root zone  there is deep percolation loss where  water can pass through the deep  root 
+zone  as deep percolation  and then if you have water  table  lying below  the root zone then 
+ 
+ there is a capillary rise from the  water table to the root zone . So, these are the major 
+compone nts we are dealing with in  water balance at field level . So, the whole water balance  
+equation is as follows .  
+ 
+Where SW i is the soil water  i indicates  in the beginning  which means soil water in the 
+beginning ; P is the Precipitation ; I is the irrigation ; UW is the capillary rise , SW f;  is the  
+final soil water  (suppose we are  balancing daily  so, the soil water at the end of the day );  
+Rs is the runoff   loss; D is the deep percolation loss and ET  evapotranspiration loss or E is 
+the evaporation  in case  you do  not have crop . So, these are the  major components of the 
+water balance . The difference between  SW i and SW f is the soil  water storage,  that is the 
+inputs minus  outputs  will give the storage . 
+(Refer Slide Time: 05:29)  
+ 
+From agricultural point of view , the same equation can be  used. 
+ 
+Where, ∆S this is a difference  between the soil moisture in the previous day and the soil 
+moisture in the current day. ∆V gives  the amount of water  which is  present in the plant s, 
+since this is less than 1 percent as compared to  ∆S, we can neglect this in field w ater 
+balance . And the equation become s 
+ 
+  
+D is having both positive and negative  sign + D is considered when water is added from 
+the cap illary rise and – D is considered  when there is a loss, through  deep percolation . If 
+you want to find out the rate of cha nge in moisture storage the above equation  is 
+differentiated with respect to time and it is given as follows  
+ 
+Where p is change in p recipitation ; i is change in i rrigation ; d is change in capillary rise or 
+deep percolation ; rs is change in r unoff  and et is change in evapotranspiration or 
+evaporation.  So, this will give the change in soil moisture storage.   
+The picture  above  represents the root zone  with other  water balance components like , 
+irrigation , rainfall as input  and evaporation, transpiration , runoff or seepage a s loss or 
+output . For example, in rice crop there is ponded water if the water  is leaving  the root zone , 
+then is called  deep percolation and the water from root zone will go into the groundwater 
+as groundwater recharge.  But t he unsaturated p ortion above the water table  will 
+experienced capillary rise to some extent.  
+(Refer Slide Time: 08:17)  
+ 
+Next is how to measure or how to estimate  these water or field water balance components?  
+So, for example, for measuring  precipitation  or rainfall  (precipitation is more general term 
+ 
+ rainfall is a specific because  it is mostly in liquid form , precipitation could be  liquid form 
+or sno w or hails or drizzle  so, all this  are comm on form of  precipitation ). Generally,  for 
+measuring rainfall  we use a  rain gauges , it could be a  Symons rain gauge which is a non-
+recording  type. In this  rain gauge there is a funnel and a cylinder; the  water which falls 
+through the funnel will be collected in a cylinder and measured ; it will give the cumulative  
+amount of rainfall duri ng the storm even t. And then th ere is a float type rain  gauge  which  
+is similar to the Symons gauge, there is a funnel and a cylinder but the cylinder has a float 
+connected to  a pen which is mounted on a  drum . The drum has  a graph sheet  and the drum 
+rotates  according to the clock ; so, based on the water input to the system , the pen responds  
+accordingly ; this rain gauge is a recording type . 
+And, there is a  tipping bucket rain gauge this  is also is a recording type. So, here water 
+will be co llected to the funnel and there are the two buckets  inside the funnel , the bucket 
+which is on top will be filled first , once it is filled it goes down because of the weight  and 
+it brings the other bucket up  similarly water will fill the second bucket and it will go down 
+and simultaneously it will bring the first bucket up . The buckets are calibrated  for a certain 
+volume of water and the number of tips will give the total amount of  water , so, it will give  
+either rate or cumulative  rainfall . And, then there are simple rain gaug es called  farm rain 
+gauges , it consists  of a simple tube and a funnel , and this is pre -calibrated  and there is a 
+red float so you can easily see the  water surface . This is very simple  and a farmer  can 
+manage or maintained , within the field . The depth of wa ter will be converted into the 
+rainfall depth . 
+(Refer Slide Time: 11:50 ) 
+ 
+ 
+ Next is  how to measure the irrigation water . So, irrigation water in the first image above  
+is measured using  a flow meter . The flow meter could  be analogue or the digital  type, it  is 
+very easy method , it work s on the principle of area and velocity  method  and that will give 
+the number of rotations  and t he number of rotations  will turn the needle .  The next picture  
+is when  I was in U C Davis working on the field s with my colleague Denn is. So, we were 
+using bucket and stopwatch to find  out the inflow to each furrow . So, at a particular  time 
+we start collecting water  for a fixed time  interval like 10 or 15 mins and then we measure  
+the volume of  water in the bucket using the measuring cyli nder so, this wil l give the flow 
+rate at that particular moment . This measurement is conduct at  the head end; at the tail end 
+you can  measure the runoff using flumes . The 3rd picture above shows a Parshall flume 
+and based on the depth , you can convert it into flow rate . So, this way you can measure 
+the flow rate  at the  field head end as well as the tail end . 
+(Refer Slide Time: 13:57 ) 
+ 
+Infiltration is very important as far as irrigation is concerned . Basically infiltration  is when 
+the water  enters into the soil so, the process by which water enters into the soil from the 
+ground surface  is infiltration . Mainly gravity , suction and capillarity are the three forces 
+by which water enters into the  surface . Generally,  we say the infiltration is down ward 
+moment , but if we are  truly speaking the infiltration is a three dimensional process ; so, it 
+goes downwards , then it goes horizontal , and radial ly you can say  horizontal , vertical  and 
+also radial conducti ng. So, that is why infiltration process is a  3D process , and mainly a  
+three forces  govern  as ment ioned.  
+ 
+ The factors affecting infiltration  are the a) soil and land factors , for example, fine soil 
+versus co arse soil, infiltration will be  faster  in coarse soil  while  in the fine soil infiltration 
+will be  slower . In land factors , suppose  if you have lot of liter on the surface , then runoff 
+will be slower , infiltration  will not be faster , but the opportunity to infiltrate with  be more  
+compare to bare ground . 
+b) Flow conditions  like turbulent flow or laminar flow conditio ns: laminar flow is gentle  
+flow and henc e more  opportunity to infiltrate as comp ared to turbulent  flow which is very 
+fast and it  can also erode the topsoil , erosion seal the pores  and stops the infiltration 
+some times.  
+c) Fluid factors  like viscosity  also a ffects infiltration , when the  viscosity is low then  
+infiltration  will be faster . Temperature is a major factor influencing  viscosity . 
+d)Management practices : For example,  comparing  rice soils where puddling is done  and 
+the other crops  without puddling , since the soil is under puddle  condition , the infiltration 
+rate will be  slower  in rice soils  compared to other  crops  soils, water could stay on  rice soils 
+for 4  to 5 days, because of puddling.  
+In the infiltration process , initially the water enters  the soil , through  these forces ; gravity 
+suction and capillarity . The first thing is soil particles adsorbs water  thereafter once  water 
+is adsorb . The adsorption  is going to increase  till saturat ion then you get gravity  flow, and 
+then the wetting  front  starts from to p to bottom . 
+(Refer Slide Time: 18:27)  
+ 
+ 
+ The picture  above  shows all the infiltration process . Assume that  you put some water on 
+top of the surface  then after 1 hour of infiltration if you take a cross section of the soil ; the 
+first few milli meter s of the s oil are saturated because just on top of this zone there is 
+ponded  water , this zone  is called the saturation  zone.  Immediately below that  ponded 
+surface there is a saturation  zone which is  followed by a transition zone , in the transition 
+zone  there is a  rapid decrease of water content with depth . The other picture above shows 
+the water content at different  depth . The initial water content before  applying water is 
+assume d to be uniform because  it is saturated at the saturation point , at the transi tion zone 
+you could see there is a decline  in moistur e content with depth . Then after that  there is a 
+slow decrease in w ater content  which is called  the transmission zone , if you collect  the soil 
+sample  in this zone , and analyze  it the soil water content is almost same. Then,  next is the 
+wetting  zone  with a wetting front, wetting zone  in between transmission  zone  and wetting 
+front; after  the wetting front is  the dry soil , or soil with the initial moisture content . A 
+decrease in soil moisture  is clearly seen , and that is going to  connect to your  initial moisture 
+content . So wetting  front moves  slowly  based on the  water input , the moment you r stop 
+water  the wetting front  moves  further and  then stop. 
+(Refer Slide Time: 21:28 ) 
+ 
+Some  infiltration terminologie s are Infiltration rate(mm/h) which  is the  rate at which a 
+particular s oil is able to absorb  either  rainfall or irrigation  or absorb water . So, the rate at 
+which the soil absorb s water  is called infiltration rate . It is related to  saturated hydraulic  
+conductivity of the near  surface soil s. So, once you have infiltration rate at different time 
+ 
+ interval and you can find out the infiltration dep th during that  time interval , and if you can 
+accumulate  or sum up all the dep ths, you will get the cumulative infi ltrations  during the 
+period . Infiltration capacity is  the maximum rate at which water can enter to a soil for a 
+given condition , it is also  measured in  mm/h. When the infiltration capacity decline  rapidly  
+during the  early part  of storm  and then tends to a constant value  it is referred to as basic 
+infiltration rate . So, initially the infiltration rate would be very high , then after that 
+infilt ration rate is going to decline  and then come to a constant . So, this constant  value is 
+what we call basic infiltrat ion rate. 
+ For example, when you are thirsty,  initially you  can intake large amount of water , then 
+after that you r intake capacity is  going to decrease , then after sometime  you no longer 
+required  to drink  any water and the intake in your case is  going to  be 0, but soil is a porous  
+media and  it is infinitesimally  deep , then you may expect  the water to still penetrate or still 
+infiltrate down and  that is  why you get a constant infiltration rate here. 
+(Refer Slide Time: 24:28)  
+ 
+How to measure  infiltration ? So, for measuring  infiltration you have  single ring 
+infiltrometer s and also double ring infiltrometer s. Figure above shows the infiltrometers 
+which are a cylinders  made up of in stainless steel with top and bottom  open . The single 
+ring infiltromet er is of 30 cm diameter and 45 cm height and  for measuring infiltration  we 
+leave 30 cm on  top of the soil and 15 cm is inserted below the ground .  Initial we  fill the 
+ring with  water  up to a particular level or till the top of the ring  and then the timing  is 
+ 
+ noted,  a scale  is used  for measur ing the water level . Then for a particular fall we are going 
+to note the time; then we have to refill back  the declined level of water  and again start 
+counting  the time . And we have to stop th e experiment when the fall is constant , for a 
+particular times  or when the rate is constant .  
+The problem with single ring infiltrometer measurement  is because  there is a possibility 
+that water can  move laterally,  we are expecting water to go vertically down . But since it is 
+a single ring water can go horizon tally; in order to stop the lateral  flow,  we use the double 
+ring  infiltrometer . The outer ring will control the  lateral  flow of water and we are  ensuring 
+that water  penetrates down vertically . The inner ring is 30 cm diameter  and the outer ring 
+is 60 cm diameter . And similarly , as in case of single ring the inner ring is 15 cm  below 
+the ground and 30 cm above the ground ; while the outer ring is 50 cm above ground and 
+10 cm below the ground;  and here also we use the  scale to measure the water depth . 
+(Refer Slide Time: 27:22)  
+ 
+The above table shows the measurements  made during an experiment in  a double ring 
+infiltrometer experiment at IIT Kharagpur . Column 2 shows the different times the water 
+level is measured , the elapsed time (column 3 ) and time interval  of 5, 10 15, 30 and 60  
+mins  (column 4).  So, initially the water level is at  28 cm, we refill the ring after observing 
+the level to drop at  around  2 cm down  as shown in column 5 . Then, you have to find out 
+the d rop in water level (column 6) and add it simultaneously to obtained the cumulative 
+ 
+ infiltration . The infiltration  rate (column 9) is obtained by dividing the 6th column  by the 
+4th column . 
+(Refer Slide Time: 29:16)  
+  
+Once you have the readings with you can draw , the  infiltration characteristic curves  
+(graphs) with  time on  x-axis and infiltration rate and cumulative infiltration  on y-axis. The 
+cumulative infiltration  increases with time as shown in graph where as the infiltration rate 
+initial ly will be h igher , then rapidly decline up to a constant value and  you can clearly see 
+the basic infiltration rate  is almost constant  which is about  10.7 mm/h in our case . The 
+Table above shows the steady infiltration rate or basic infiltration rate  for sandy soil , sandy 
+loam soi l, loamy soil , silt loam , clayey soil (obtain from other sources ). 
+(Refer Slide Time: 30:16)  
+ 
+  
+Next is  how to estimate the infiltration using  some available empirical or physically bas e 
+models .  The a bove table shows the  Green -Ampt  equation ;  
+𝑓=𝐾+ 𝜂𝑆𝑐𝐾
+𝐹 
+Where f is the infiltration rate ; K is Green -Ampt  constant ; ƞ is called  porosity  which is 
+constant , and F is the cumulative infiltration and Sc is the capillary  suction of the wetting 
+front  or suction head.  
+Philip two -term equation is as follo ws 
+F = St 0.5 + At 
+𝑓 = 1
+2𝑆𝑡 −0.5 + 𝐴  
+Where S  is the sorptivity , (sorptivity is the capacity of soil to absorb water ). Philips two -
+term equation for  cumulative infiltration was differentiated  to get th e equation for 
+infiltration rate.  
+Similarly , Kost iakov equation  is a very simple empirical equation given as follows  
+f = a × t-b 
+and by integrating  the infiltration rate equation  we get th e equation  for cumulative  
+infiltration .  
+ 
+ F = 𝑎
+1−𝑏 𝑡1−𝑏 
+Where a and b are the constant.  
+The other model is th e Horton model  and it is  the based on the infiltration behavior  or 
+nature of the curve . It given as follows   
+f = f c + (f 0 - fc) exp( -kt) 
+fc is the basic infiltration rate and f 0 is the  initial infiltration rate; k is a constant   
+ 
+(Refer Slide Time: 32:17 ) 
+ 
+Let us solve an  example  
+Determine the parameters for Kostiakov’s equ ation from the data of table  obtained during 
+a double ring infiltrometer test conducted in a plot at IIT Kharagpur and test the model for 
+the data  
+Solution:  
+So, here the first thing wh at you have to do is convert th e Kostiakov to logarithmic  form.   
+𝑙𝑜𝑔 𝑓 = 𝑙𝑜𝑔 𝑎 − 𝑏 𝑙𝑜𝑔 𝑡 
+𝑙𝑜𝑔 𝐹 = 𝑙𝑜𝑔 (𝑎
+1−𝑏) +(1−𝑏) 𝑙𝑜𝑔 𝑡 
+ 
+ So, once  you get this equation  for infiltration rate and cumulative  infiltration . A plot of 
+infiltration  rate vs. time is drawn on a log - log paper (Fig a) and similarly for cumulative 
+infiltration (Fig b)  
+   
+So, now determine the parameters for Kostiakov’s equation from the equation devel oped 
+from the graph of the data. So, with this you can find out  log f value and log  a value and 
+log b value  and you can estimate what is a and  what is b . So, the data is  given ; you fi t the 
+data into a  logarithmic  scale and you get you get the  coefficien ts. 
+Parameters  a b 
+Infiltration Rate  2.864  0.487  
+Cumulative Infiltration  3.9569  0.5547  
+(Refer Slide Time: 34:02 ) 
+ 
+Once you have the parameters estimate  the infiltration rate and cumulative infiltration 
+using the  parameters estimated  with the data fit ting. The graph obtained is as shown  above. 
+(Refer Slide Time: 34:33)  
+b  
+  
+You can also use the infiltration data to find out  Green -Ampt  parameters like K and wetting 
+front suction head .  
+Determine the Green -Ampt infiltration model parameters (K and 𝜑) for the following r ing 
+infiltration data (Tables a and b) obtained at an experimental site of AgFE department, IIT 
+Kharagpur.  The tricky part here is  you have to do the experiment  two times 
+Table a: Infiltration data for ponding 
+depth of 6 cm               Table b: Infiltration data for ponding 
+depth of 12 cm              
+Time (min)  F (cm)  Observed, f 
+(cm/min)   
+Time (min)  F (cm)  Observed, f 
+(cm/min)  
+0 0   0 0  
+10 0.2 0.020   5 0.2 0.040  
+20 0.4 0.020   15 0.4 0.027  
+30 0.6 0.020   30 0.6 0.020  
+40 0.7 0.018  45 0.8 0.018  
+50 0.8 0.016   
+So, Table a gives the  ring infiltrometer  data with 6 centimeter  ponding dep th and Table b 
+for 12 centimeter ponding depth , with the time and  cumulative and infiltration  
+ 
+ (Refer Slide Time: 35:48)  
+ 
+The Green -Ampt  equation   
+𝑓=𝐾+
+∆𝜃
+𝐻+𝜑𝐾𝐹  
+We know  
+∆𝜃=𝜃𝑠−𝜃𝑖 
+𝜃𝑠 𝑎𝑛𝑑  𝜃𝑖 are the  saturated  soil moisture and the initial soil moisture  respectively , and H 
+is the  ponding depth  and φ is wetting front suction head  and K is Green -Ampt  parameter 
+or some  researches also use  hydraulic conductivity . The interesting part is  that this 
+equation did not contain t term  compared to other equations ; that i s why this equation is 
+called autonomous equation . So, the solution is  difficult  in other case you may you get the 
+solution analytically , but here you get the numerical solution  
+                                                         𝑓=𝐴+𝐵
+𝐹 
+Where 𝐴=𝐾 and 𝐵=∆𝜃(𝐻+𝜑)𝐾 The above is a straight line equation  and A is  the 
+intercept and B is the slope . So, you have  capital F, you have small f  and find out  what is 
+1 by F, then once this is final, you have the K and φ parameter s you can estimate  the 
+infiltration rate and compare  observed and simulated . Similarly, for 12 cm we can  have f 
+and 1 by F; so, small f and 1 by F, 
+ 
+ (Refer Slide Time: 38:12)  
+ 
+Once you have these readings  next part is  drawing the graphs . So, you draw the  graph here 
+1/F versus f. Then  you have a straight line and a straight line equation . Similarly, for  the 
+12 cm ponding depth , you get another  regression equation. So , you have two equations  
+now, and  also two unknowns,  So, from this equation you get the parameters   
+Parameter  6 cm ponding depth  12 cm ponding depth  
+K 0.017  0.0107  
+∆𝜃(𝐻+𝜑)𝐾 0.0007  0.0059  
+The K values are  very close in  both cases and once you have the K value  the unknown 
+terms  can be solve . If we have  ∆θ data,  you can you can easily get the φ. So, if you do  not 
+have the y data then θs also need to be estimated  and you may have to  go for  another set of 
+data; so, three  unknowns , three datasets , then you can find out  φ easily,  
+ 
+ (Refer Slide Time: 40:24)  
+ 
+So, For 6 cm ponding depth  
+𝑓=0.017 + 0.0007
+𝐹 
+∆𝜃(𝐻+𝜑)𝐾 = 0.0007  
+∆𝜃 (6+𝜑)=0.0007
+0.017 
+                                             ∆𝜃 (6+𝜑)= 0.041                  1                
+For 12 cm ponding depth  
+𝑓=0.0107 + 0.0059
+𝐹 
+∆𝜃(𝐻+𝜑)𝐾 = 0.0059  
+∆𝜃 (12+𝜑)=0.0059
+0.0107 
+                                              ∆𝜃 (12+𝜑)= 0.55                                            2 
+From Eqs. 1 and 2,  
+𝜑 = - 0.468 cm  
+Hence wetting front suction head is -0.468 cm . 
+So, the advantage  with ring infiltrometer data  is that  you can  estimate  Green -Ampt  
+infiltration parameters  like K and wetting front suction head  and also θs. 
+ 
+ In this lecture what  our focus was  the field water balance, which  contains inputs and 
+outputs . The inputs are rainfall and irrigation  and t he outputs are  runoff, 
+evapotranspiration , deep percolation, then  when you subtract  the output from the  input s 
+then can you get the change in moisture content,  And then we started digging how to 
+measure  the precipitation  and rainfall in our case and then how to measur e infiltration , 
+then now how to estimate infiltration , using Green -Ampt  infiltration  parameters  and 
+Kostiakov  infiltration  parameters . In the next lecture , we a re going to talk about the 
+evapotranspiration  which  is another component of this water balance .  
+Thank you  so much . 

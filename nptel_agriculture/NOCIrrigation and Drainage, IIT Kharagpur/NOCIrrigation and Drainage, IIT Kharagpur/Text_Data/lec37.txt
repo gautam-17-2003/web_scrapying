@@ -1,0 +1,303 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapalli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 37 
+Management o f Salt Affected Soil (Contd.)  
+ 
+Friends  welcome to lecture number 37  which  is a continuation of the previous lecture that 
+is on Management of Salt Affected Soils . So, in this  lecture , we are going to  solve some 
+of the examples o f salt-affected soils and also at the end we are going to see  the nature of 
+sodic soils and some examp les. 
+ (Refer Slide Time: 00:47)  
+ 
+Exercise 37.1:  
+Irrigation water salinity (EC iw) = 1 dS/m. Applied water depth (d in) = 1176 mm/season. 
+Crop water demand (ET c) = 1,000 mm/season. Assume that plants extract 40%, 30%, 20%, 
+and 10% of their water from the upper quarter, 2nd quarter, 3rd quarter, and the lowest 
+quarter of the root zone, respectively. First, determine the leachate salinity treating the root 
+zone as a single layer. Next, determine the seepage salinity from each of the 4 layers and 
+the average salinity  for the 4 layers (Ayres and Westcott, 1985).  
+Solution:  
+Treating the entire root zone as a single layer, calculate seepage salinity.  
+ 𝐿𝐹=𝑖−𝐸𝑇
+𝑖=1176−1000
+1176=0.15;  𝐸𝐶𝑑𝑤=𝐸𝐶𝑖𝑤
+𝐿𝐹=1
+0.15=6.7 𝑑𝑆/𝑚 
+ (Refer Slide Time: 05:36)  
+ 
+So, let us see layer by layer , use the same equations to determine soil salinity at the bottom 
+of each of the four quarters of the root zone.  
+𝐿𝐹1=𝑖−𝐸𝑇
+𝑖=1176−0.4∗1000
+1176=0.66 
+𝐸𝐶1=𝐸𝐶𝑖𝑤
+𝐿𝐹1=1
+0.66=1.5 𝑑𝑆/𝑚 
+𝐿𝐹2=776−0.3∗1000
+776=0.61 
+𝐸𝐶2=𝐸𝐶1
+𝐿𝐹2=1.5
+0.61=2.5𝑑𝑆
+𝑚 
+𝐿𝐹3=476−0.2∗1000
+476=0.58 
+𝐸𝐶3=𝐸𝐶2
+𝐿𝐹3=2.5
+0.58=4.3𝑑𝑆
+𝑚 
+𝐿𝐹4=276−0.1∗1000
+276=0.64 
+𝐸𝐶4=𝐸𝐶3
+𝐿𝐹4=4.3
+0.64=6.7𝑑𝑆
+𝑚  
+The calculated seepage salinities, treating the soil as a whole and in layers, agree: 6.7 dS/m.  
+The average soil salinity  is the average of the irrigation water salinity and the salinities at 
+the bottom of the 4 layers.  
+𝐸𝐶𝑎𝑣𝑒=1
+2+1.5+2.5+4.3+6.7
+2
+4=3.0 𝑑𝑆/𝑚 
+(Refer Slide Time: 10:20)  
+ 
+Rhoades  1974  recommended the following leaching fraction equation  for high -frequency 
+sprinkler and trickle irrigations  
+𝐿𝐹=𝐸𝐶𝑖𝑤
+2𝐸𝐶𝑒 
+So, the leaching fraction for sprinkler and trickle irrigation is estimated with  electrical 
+conductivity of the irrigation water (EC iw) and soil extract equivalent (EC e). 
+And then, Hoffman and Van Genuchten in 1983 developed the following theoretical  
+equation for LF . It has a wide range of salinity parameters for which it is accurate.  
+𝐸𝐶𝑒
+𝐸𝐶𝑖𝑤=(1
+𝐿𝐹+𝛿
+𝑍∗𝐿𝐹𝑙𝑛(𝐿𝐹+(1−𝐿𝐹)𝑒−𝑧/𝛿)) 
+Where Z is the root zone depth, 𝛿 is the empirical constant = 0.2*Z  
+(Refer Slide Time: 11:36)  
+ 
+The table above shows the relative salt tolerance of crops. If you look at, both annual crops 
+and forage crops, the electrical conductivity which is in d S/m for non -saline to the  slightly 
+saline is 0 to 4 , for moderately  saline , it is 4 to 8  and for severely saline , it is 8 to 16 . The 
+different types of crops under th e annual and forage crops are given in the table along with 
+their salt tolerance  category . 
+ (Refer Slide Time: 13:19)  
+ 
+And then  next is the irrigation app lication depth and leaching fraction ; we have talked 
+about this earlie r. So, if the goal is maintaining  the salinity within an acceptable range 
+during the entire growing season, the depth of irrigation water that would be applied  during 
+an irrigation event i s estimated using th e following  equation . 
+𝐼𝑅=100
+𝐼𝐸(1−𝐿𝐹)×𝑅𝐴𝑊  
+Where IR is the  irrigation requirement during a single irrigation event, cm; IE is the 
+irrigation efficiency, percent.  
+So, suppose you know the seasonal values and for each irrigation. So, what is irrigation 
+requirements ; so, that you can maintain the salinity throughout the season. So, here 
+100
+(1−𝐿𝐹)×𝑅𝐴𝑊  is the readily available water and by knowing IE and LF values you can 
+find out the irrigation requirement  to remove the salts.  
+ 
+ 
+ 
+ 
+ 
+(Refer Slide Time: 14:20)  
+ 
+Example 37.2:  
+Calculate the depth of irrigation water required (average for the field), IR, for melons based 
+on the previous equation. The MAD is 45%, the irrigation system efficiency is 70%, the 
+irrigation water EC iw is 1.09 dS/m, and the TAW is 24 cm.  
+Solution:  
+Max. soil salinity in the saturated paste extract (from FAO 56) for melons with no yield 
+reduction = 2.2 dS/m.  
+𝐿𝐹=𝐸𝐶𝑖𝑤
+5𝐸𝐶𝑒−𝐸𝐶𝑖𝑤=1.09
+5×2.2−1.09=0.11 
+𝐼𝑅=100
+𝐼𝐸(1−𝐿𝐹)𝑅𝐴𝑊=100
+70(1−0.11)(0.45∗24 𝑐𝑚)=17𝑐𝑚 
+  (Refer Slide Time: 16:43)  
+ 
+And then,  yield reduction due to salinity is estimated with the relative yield that is Y r in 
+percentage.  
+𝑌𝑟=100  × 𝐸𝐶0 − 𝐸𝐶𝑒
+𝐸𝐶0 − 𝐸𝐶100 
+𝑌𝑎𝑐𝑡= 𝑌𝑟 ×𝑌𝑝 
+Where,  
+𝐸𝐶0 = Electrical conductivity ( EC) of soil at zero yield s, dS/m  
+𝐸𝐶𝑒 = EC of the soil saturation extract, dS/m  
+𝐸𝐶100 = the salinity threshold level above which the crop yield starts to decline  
+𝑌𝑎𝑐𝑡 = actual yield  
+𝑌𝑝 = potential yield  
+(Refer Slide Time: 18:08)  
+ 
+Exercise 37.3:  
+In a saline area, the EC of a wheat field during its growth period was found 7.0 dS/m. 
+Estimate yield reduction due to salinity, if the wheat cultivar can maintain potential yield 
+up to 4 dS/m,  and the yield at EC>22 dS/m is zero.  
+Solution:  
+  𝐸𝐶0 = 7 dS/m  
+  𝐸𝐶𝑒 = 22 dS/m  
+  𝐸𝐶100 = 4 dS/m  
+  𝑌𝑟=100  × 𝐸𝐶0 − 𝐸𝐶𝑒
+𝐸𝐶0 − 𝐸𝐶100;  = 100  × 22 − 7
+22 − 4 = 83.33 % 
+   
+𝑌𝑖𝑒𝑙𝑑  𝑟𝑒𝑑𝑢𝑐𝑡𝑖𝑜𝑛  = (100–83.33)% = 16.67%   
+(Refer Slide Time: 19:54)  
+ 
+Next , is project planning and salinity ; so, how to plan  a project  if you have a salinity issue 
+in the soil ? So, irrigation water with saline water  lower than 450  mg/l and  when you divide 
+it with 640 you can convert that into dS/m that is equal to 0.7 . So, to convert the  electrical 
+conductivity into concentration, we need to multiply with 640, this way you get EC iw as 
+0.7 dS/m , which  does not present a hazard for irrigation. Irrigation water with salinity in 
+excess of 2000 mg/l  that is equivalent to EC iw 3 present s a hazar d for many crops. So, 
+most of the crops are sensitive when EC is equal to 3 dS/m.  
+Rao et al (1994 ) developed a table that specifies the maximum  acceptable salinity of 
+irrigation water as a function of rainfall soil type and crop sensitivity to salinity.  
+ (Refer Slide Time: 21:38)  
+ 
+So, let us see the table  in the slide above, in this table the soil  texture is given for annual 
+rainfalls  of < 350 mm ; 350 to 500 mm and 550 to 700 mm ; and crop tolerance (sensitive, 
+semi -tolerance and tolerant). And for example, for fine  texture soil where  more than 30 % 
+is clay for sensitive crops with an annual rainfall  of <350 mm the sensitive crops  have 1 
+dS/m  maximum tolerance, semi tolerant crops  can grow up to 1.5 dS/m , and tolerant crop 
+up to 2 dS/m . So, like that  the maxim um acceptable salinity in irrigation water as a function 
+of soil type rainfall and crops sensitivity to salinity  can be known.  
+ (Refer Slide Time: 22:45)  
+ 
+So next is the sodicity , so in salinity , we target  for any salts , salts in the sense sodium , 
+calcium , potassium , magnesium , etc. So, combining  all the salts , but in some places , if 
+sodium  percentage is more we call it sodicity  so, we are targeting the sodium. Excess 
+sodium reduces water availability . If you see this picture  above , the clay  particles  are 
+negatively charged and sodium is positively charged and sodium has single valence  
+compared to calcium  so, calcium will attach strongly to clay particles as compared to 
+sodium particles that is why in order to  show its activity the sodium  having  aroun d 10 
+hydration bonds created around the sodium molecule . So, in that case, whatever the 
+amount of water available will be absorbed  to the sodium and that hydrostatic pressure 
+will be created that will push the clay layers away . So, that is why, water avail ability in  
+case of sodicity will be less  and it leads to the breakdown of clay particles  because when 
+the sodium molecules absorb a lot of water, it bulges , and then it pushes the  clay bonds 
+away that is why the structure is going to  dismantle.  So, then the clay  particle can clog the 
+soil and reduce the infiltration rate  to nearly 0.  
+ 
+(Refer Slide Time: 25:46)  
+ 
+Next is calcium , as stated earlier it is  attracted more strongly to the clay particles because 
+its valence is 2  so, it attracts stronger than sodium , if too many sodium molecules with 
+their large shell of hydration , force the clay  particles apart and breakdown the soil 
+structure.  
+ (Refer Slide Time: 26:46)  
+ 
+Sodicity is expressed with sodium adsorption ratio (SAR )  
+𝑺𝑨𝑹=|𝑵𝒂+|
+√|𝑪𝒂++|+|𝑴𝒈++|
+𝟐 
+Where Na+ is the sodium normality, meq/L; Ca++ is the calcium normality, meq/L; Mg++ 
+is the magnesium normality, meq/L.  
+(Refer Slide Time: 27:20)  
+ 
+The table  above  shows the sodicity hazard to soil as a function of irrigation water sodicity 
+and salinity. So, kno wing  the SAR  by using th e previous  equation  and knowing the salinity 
+of irrigation water  EC iw we can  see whether the particular environment is hazardous or 
+not. So,  for eg.  SAR values from 0 to 3 and EC iw greater than 0.7 dS/m will be non -
+hazardous . This table very important  because  the sodium hazard level i s a function of both 
+SAR and overall salinity . Higher salinity in the soil water decreases the osmotic potential  
+of water in the soil water solution and  as such decreases the amount of water in the  
+hydration shells around the sodium ions in the interlayer between the clay particles.  So it 
+will be very difficult for the plants  to absorb water. Thus it may be very  detrimental to 
+irrigate with low salinity water in the field that was previously irrigat ed with high salinity 
+and sodicity water  
+(Refer Slide Time: 29:02)  
+ 
+Let us go through an example,  
+Example 37.4:  
+Irrigation water has 460 mg/L sodium (Na+), 40.1 mg/L calcium (Ca++), and 24.3 mg/L 
+magnesium (Mg++). If irrigation water salinity is 1,280 ppm, then what level of hazard is 
+presented by sodicity?  
+Solution:  
+Calculate meq/L for each cation.  
+460𝑚𝑔
+𝐿 Na+
+23𝑚𝑔
+𝑚𝑒𝑞=20meq
+L Na+ 
+40.1𝑚𝑔
+𝐿 Ca++
+20.05𝑚𝑔
+𝑚𝑒𝑞=2meq
+L Ca++ 
+24.3𝑚𝑔
+𝐿 Mg++
+12.15𝑚𝑔
+𝑚𝑒𝑞=2meq
+L Mg++ 
+𝑺𝑨𝑹=|Na+|
+√|Ca++|+|Mg++|
+𝟐=𝟐𝟎
+ √𝟐+𝟐
+𝟐=𝟕 
+The EC iw of the irrigation water is 1,280 ppm/640 = 2 dS/m.  
+So, let us go back and check whether it is hazardous or not.  
+From the Table (previous slide), there is no possible hazard due to sodicity from this water.  
+(Refer Slide Time: 31:44)  
+ 
+Next is the salinity management options ; the first one is the remov al of surface salts. So, 
+if you see the white scum or white layer on top of the  soil, one practice  is to just scrap  
+away the  salts from the surface  or you can also  do surface flushing  by using high jet  water 
+to flush the salt 's surface . The other method is the control  of saline water , if you have a lot 
+of salts present on the  surface you can use the drainage system to remove the salts from 
+there.  
+And then, there are engineering practices like leaching  as studie d earlier, the leaching 
+fraction and also drainage . We are going to  study drainage  exclusively from the next 
+lecture . Artificial recharge of rainwater to the aquifer through a recharge well can also  be 
+used to remove  the salts . Irrigation and w ater management practices are onsite  
+management , if we have lot s of salt in the irrigation water  you can take care of  it by treating 
+the water before use or you can  go for crop management  by growing  crops that are 
+susceptible or tolerant to the particul ar irrigation  salinity levels.  
+(Refer Slide Time: 33:18)  
+ 
+One of the engineering practices for salinity management is  leaching. It consists  of 
+applying enough good quality water  to thoroughly leach excess salts from the soil. It can 
+be done  in two ways ; leaching requirement  method and leaching plus artificial drainage . 
+Leaching requirement - the salts can be moved below the root by applying more water than 
+the plant needs, that is what we  estimated previously . The leachate requirement is extra 
+water  need ed to leach the salts .  
+Leachate plus artificial drainage  - in some cases  if you have a very shallow root zone , even 
+if you add more water on top of the soil  it cannot flush the salts because of the  clay layer 
+in the  bottom. So, there you have to use  in addition to the leachate artificial drainage to 
+remove the  extra salts from the root zone.  
+ 
+(Refer Slide Time: 34:26)  
+ 
+Next is the drainage ; so, the drainage system is provide d where the  subsoil is not permeable  
+because the amount of water that is pouring on top will cause water logging.  We will talk 
+about drainage in the following lectures . It could be surface drainage  i.e., by making 
+ditches on the surface and removin g the extra water from the surface . Subsurface drainage , 
+if you have both surface s as we ll as water from the root zone and you want to remove  both 
+then you can use subsurface drainage by  providing deep ditches or tiles . Mole drainage , in 
+some cases, the  clay soils causes a lot of water ponding or water logging condition. So, 
+ordinary  machiner y cannot be used to make ditches, that is why  a kind of a mole plough 
+will be used to remove the shallow channels , and through that , the water will be  remove d. 
+Vertical drainage is  a kind of  removing water vertically through  tube-wells . 
+ (Refer Slide Time: 35:55)  
+ 
+Then the other one is the artificial recharge of excess rain water to  the aquifer t hrough  a 
+recharge well. If you see the recharge well  as shown in the image above there are  
+perforation s to the  well through the pipe . And on top of it, there  is a recharge pit . The 
+recharge well is lined  in such a way with coarse sand , gravel , pebbles , etc. as shown in the 
+picture above s o, water will be  entering through these and finally, through the perforations , 
+it will be going into the  soil and the rest extra water can also penetrate through th e side of 
+the well  and there is clean  water again. So, this way the  salinity of the aquifer will  be lower 
+due to dilution and become within an acceptable  range . If we add good  water on top that  
+will dilute the salts present in the  soil. The shallow depth recharge structures with tube 
+wells  are often a better choice than the surface storage in flat topography with good aquifer 
+properties.  
+So, thi s is all about this  lecture, mostly we focused on overall salinity and then the sodic  
+soils or sodicity. Sodicity  means containing more  sodium ions compared to other salts. 
+Generally,  sodicity is measure d with SAR sodium absorption ratio then knowing the 
+sodium adsorption ratio and overall salinity you can find out whether that particular 
+condition is hazardous for the crop or not.  
+Thank you.  

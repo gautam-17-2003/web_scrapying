@@ -1,0 +1,456 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 19 
+Border Irrigation Design  
+ 
+Friends  welcome to lecture  number 19, which is on Border Irrigation Des ign. In the 
+previous lectures we have been talking about  furrow  irrigation  system and design . So, in 
+this lecture  we will focus more on border irrigation  and then  its design .  
+(Refer Slide Time: 00:47)  
+ 
+So, in furrow irrigation if you remember  depletion p hase and recession phases were  
+neglected  but, in border irrigation we are going to  consider those  2 phases  in addition to 
+advance  and storage phases . Border irrigation can be a free drained or diked borders , free 
+drained is just like in furrows  where  there is  no obst ruction a t the tail end  of the  field. If 
+there is an obstruction ; that means  you are diking  the furrows  so that you c an store water 
+in the  border or furrow f or a couple of hours . 
+Design of free drained  borders is similar to your design of free drained furrows  we have  
+designed before , except  in border design  the depletion and recession phases are significant . 
+Because  the flow which is  going from head end to tail end  has wider  flow width . So, 
+definitely  the depletion and recession  phases will have  a significant role . And the design 
+of diked border is similar to design  of basin . If you  remember basin is surrounded by dikes 
+and the water which is  coming into the basin  will be  filled  in one basin first and  then when  
+it is full, it is releases th rough the head gate present in the basin to the next field . So, diked 
+border s design will be similar to the design of basins .  
+(Refer Slide Time: 03:00)  
+ 
+If you see the  picture  above  there is a field with slope S o the water surface at the starting 
+of the depletion phase will be y o and water is moving from head end to tail end.  When the 
+water  is cutoff , the water surface is at yo, when the water level deplet es from  yo to 0, then 
+depletion phase ends  and the recession is going to start. So, the line at y0 = 0 indicates the 
+water  profile or water surface at the beginning of  recession phase ; so, before recession  so, 
+you have yo of water standing on the  surface . 
+During  depletion phase , the amount of water  in the triangle bounded by the line - profile 
+at the beginning o f recession, profile at the beginning of depletion and y o needs to go as 
+run off  as well as infiltration . In the second image of the slide above , the profile of 
+recession phase  is shown . In the beginning of recession phase  the water surface l ine has a 
+slope Sy. The field of length L is having slope  So, and the water depth at the  field end is y L 
+then  𝑦𝐿=𝑆𝑦×𝐿 
+ (Refer Slide Time: 06:12)  
+ 
+Let us see some assumptions we need to consider in the design of border irrigation.  The 
+first assumption is surface water profile at  time of cutoff  (Tco) as well as time during  
+depletion phase  (td) and time at the beginning of  recession phase  (tr) are straight line s. So, 
+we have seen that the water  surfaces  in the field  are all straight  lines . And d uring depletion 
+phase the depth  yL at the tail e nd and the run off  Qr at the downstream  end remains constant . 
+(Refer Slide Time: 07:41)  
+ 
+And third  assumption  is during both the depletion and recession time , sum of infiltration 
+and runoff ( Qr) remains equal to precut  off unit inflow rate  Q0.  
+(Refer Slide Time: 08:35)  
+ 
+And the fourth one is the time required from  Tco to the  end of t d is equal to the time required 
+to remove a triangular volume of length  L and Y0 height and constant rate  Q0 through both 
+infiltration and run off . 
+𝑡𝑑= 𝑇𝑐𝑜+𝑌0𝐿
+2𝑄0 
+And then finally, at the beginning of t r, it is assumed that the depth changes with  distance 
+at uniform rate over entire length of border which is which  can be expressed as: 
+𝑆𝑦= 𝑦𝐿(𝑡𝑑)
+𝐿 
+With these assu mptions , let us see what equations we n eed to consider for design of  border 
+irrigation . 
+(Refer Slide Time: 11:37)  
+ 
+𝑦𝐿 is the function of 𝑄𝑟 at time 𝑡𝑑 and can be evaluated as follows  
+𝑄𝑟(𝑡𝑑)= 𝑄0−𝐼𝐿=𝐴𝑅2
+3𝑆01
+2
+𝑛 
+(Refer Slide Time: 12:36)  
+ 
+For borders  area A is equal  to y because the width is infinitesimally  small , that is why the 
+with should be considered as  unit. Then A is equal to y into  the unit 1. For border A = y 
+and WP = 1; therefore R = y or 𝑆𝑦L and I is the average infiltration rate (m/sec)  over L. 
+Sy becomes  
+𝑆𝑦= 1
+𝐿[(𝑄0−𝐼𝐿)𝑛
+60𝑆012⁄]35⁄
+ 
+So, Q0 - IL = y ×(y(2/3) S0(1/2))/n)  
+Then we have y = Sy/L, then subst itute Sy by L for y and you will get th e above equati on.  
+(Refer Slide Time: 15:41)  
+ 
+And I can be expressed  as mean  infiltration rate , in the upstream end it is I  td and the 
+downstream end  it is I (td - tL). At the head end position,  it is cut off time plus the depletion 
+time. tL is the advance time , the opp ortunity time is the difference between the t d and tL, 
+you can put  in the Kostiakov equation : 
+𝑖= 𝑎𝑘
+2[𝑡𝑑1−𝑎+(𝑡𝑑−𝑡𝑙)𝑎−1]+𝑓0 
+And W alker a nd the S kogerboe  provided an equation for estimating the recession time. 
+𝑡𝑟= 𝑡𝑑+ 0.095 𝑛0.47565𝑆𝑦0.20735𝐿0.6829
+𝐼0.52435 𝑆00.237825  
+This is the equation for  finding out recession time in border irrigation .  
+So, based on the little bit information , we learnt  let us see the step by  step procedure for  
+design of border irrigation  for free  drained case here . First information just like in case of 
+furrow irrigation , we need to collect the field information , then find out the non-erosive  
+flow rate . 
+So, once you find out the non-erosive  flow rate , you assume a flow rate nearer to that flow 
+rate. So, then with that  find out ho w many  furrows  or how many borders are required for 
+the field based on the source of water available . Then based on that you will be knowing 
+the advance times , the recession times , depletion  times  and storage times  then you will be 
+finding out the efficiency .  
+Then based on the maximum efficiency , you will be  knowing the particular optimum  set 
+of furrows , in case of furrow irrigation and number of borders , in case of border irrigation , 
+irrigation efficiency , time of cut off  and then discharge . So, all these things can be designed 
+similar to furrow irrig ation . 
+So, let us see the first information here is the field information ; field characterist ics, crop 
+and water supply . And then second is to determine  the maximum (Qmax) and minimum  
+(Qmin) unit inflow rate. T here are  2 equations for finding out  the Qmax and Qmin as follows:   
+𝑄𝑚𝑎𝑥 =0.01059 𝑆0−0.75 
+𝑄𝑚𝑖𝑛 = 0.000357  𝐿𝑆0.5
+𝑛 
+And then third step is to select unit flow (Q0) which is a between  Qmax and Qmin. So, once 
+you have this Q0 which is selected in between  Qmax and Qmin, we can find out  what is the 
+width o f border  and number of borders . 
+(Refer Slide Time: 20:15)  
+ 
+You are dividing the water into different parts to irrigate borders. So, how many  parts is 
+determined by the width  of border . 
+So, width of borders  (W b) is equal to 𝑊𝑏= 𝑄
+𝑄0 
+Then the numb er of borders will be equal to the total field width divided by the width of 
+each border , 𝑁𝑏= 𝑊
+𝑊𝑏 
+(Refer Slide Time: 20:45)  
+ 
+Once you have  the number of borders you are going to compute the inflow depth  at inlet  
+Y0 using Manning’s equation  
+𝑌𝑚𝑎𝑥 = (𝑄𝑚𝑎𝑥 𝑛
+60 𝑆00.5)35⁄
+ 
+And then compute 𝜏𝑟𝑒𝑞 which  is the opportunity time just like in case of furrow irrigation . 
+So, we are going to use  modified  Kostiakov equation and calculate 𝜏𝑟𝑒𝑞 based on the  𝑍𝑟𝑒𝑞.  
+(Refer Slide Time: 21:28)  
+ 
+Then the sixth step is to compute  the time of advance to end of border  tL using the  same 
+procedure as in the furrow irrigation design , you can use Newton R aphson technique  and 
+then compute time of recession t r. So, once you know  tL and  𝜏𝑟𝑒𝑞.  
+𝑡𝑟= 𝜏𝑟𝑒𝑞+ 𝑡𝐿 
+tr is the total recession time and now compute the  depletion time t d using Newton  Raphson 
+technique again . So, in this  so, we are going to assume the initial guess  td same as t r  
+Assume initi al guess of 𝑡𝑑 as 𝑡𝑑𝑖=𝑡𝑟 
+Compute  Infiltration (I) by subsisting 𝑡𝑑=𝑡𝑑𝑖 
+(Refer Slide Time: 22:37)  
+ 
+So, once you  have substituted t d which is t r you have calculated the initial guess , then  
+𝐼= 𝑎𝑘
+2[𝑡𝑑𝑎−1+(𝑡𝑑−𝑡𝐿)𝑎−1]+𝑓0 
+This formula is the modified  Kostiakov infiltration  rate equation , and then you are going 
+to compute  Sy using th e equation we discussed earlier  
+𝑆𝑦= 1
+𝐿[(𝑄0−𝐼𝐿)𝑛
+60𝑆012⁄]35⁄
+ 
+And compute new value of t d as follows  
+𝑡𝑟= 𝑡𝑑+ 0.095  𝑛0.47565𝑆𝑦0.20735𝐿0.6829
+𝐼0.52435 𝑆00.237825 
+𝑡𝑑𝑖+1= 𝑡𝑟− 0.095  𝑛0.47565𝑆𝑦0.20735𝐿0.6829
+𝐼0.52435𝑆00.237825 
+After you got the new value of t d then you are going to c ompare with the  initial guess . If 
+this t d and the previous  initial guess is closed , then stop  the iteration process  otherwise you 
+have to  update the new t d in the new initial guess  and then  repeat the same process.   
+Compute the infiltrated depth in  the border inlet  
+𝑍0=𝑘𝑡𝑑𝑎+𝑓0𝑡𝑑 
+Once you have  td and you can find out  Zreq and what is  total infiltration depth at the head 
+end during  td. 
+(Refer Slide Time: 24:38)  
+ 
+Next is once you have computed  Z0 at the head end and  Zreq at the field end  you compare 
+it if Z0≥Zreq then complete irrigation  and if Z0 <Zreq it is deficit irrigation  and you need to 
+increase  the time of cut off  so that there is an opportunity for the  water  go down into the 
+soil so that Z0 will be more than  Zreq or equal to  Zreq. 
+(Refer S lide Time: 25:36)  
+ 
+Then compute time of cut off and  the application efficiency using th e following formula  
+𝑇𝑐𝑜= 𝑡𝑑−𝑌0𝐿
+2𝑄0 
+𝐸𝑎= 𝑍𝑟𝑒𝑞 𝐿
+𝑄0 𝑇𝑐𝑜 
+In case of deficit irrigation , increase the time of  cutoff  and comp ute the new tr values as 
+follows  
+Compute new 𝑇𝑐𝑜 by substituting 𝜏𝑟𝑒𝑞 in place of t d in following Eq.  
+𝑡𝑑= 𝑇𝑐𝑜+ 𝑌0 𝐿
+𝑄0 
+Compute the average Infiltration (I) by substituting 𝑡𝑑= 𝜏𝑟𝑒𝑞.  
+And then compute  Sy and tr. So, the same steps you have to repeat . 
+(Refer Slide Time: 26:58)  
+ 
+Compute Z L 
+𝑍𝐿=𝑘 (𝑡𝑟−𝑡𝐿)𝑎+𝑓0 (𝑡𝑟−𝑡𝐿) 
+And then compute  Ea  
+𝐸𝑎= 𝑍𝑟𝑒𝑞𝐿
+𝑄0𝑇𝑐𝑜 
+Check water availability  constrai nt and  repeat steps four to twelve fo r other unit  inflow 
+rates , choose the design which gives the maximum Ea.  
+So, for one  Q0 you follow all these steps and find out Ea, and then  for other flow rates also 
+you to find out Ea; without  going beyond the  non-erosive flow rate . Finally,  you have to 
+pick a particular application efficiency which is maximum , and the corresponding inflow 
+rates , time of cut off  and other things . 
+(Refer Slide Time: 27:49)  
+ 
+Let us solve a design problem: Design a border irrigation syst em for the following 
+conditions:   
+Field length, L = 400 m  
+Field width, W = 600 m,  
+Longitudinal Slope, S 0 = 0.005, n = 0.04,  
+Soil texture = silt,  
+design irrigation requirement = 5 cm,  
+Shape parameters, 𝜌1= 1 and 𝜌2= 3.33,  
+Infiltration parameters: k = 0.0028, a = 0.356 and f 0 = 0.00017,  
+Available supply rate, Q = 50 (m3/min),  
+Supply duration = 12 hrs.  
+So, this above informa tion is given  and the solution is pretty quick . 
+(Refer Slide Time: 28:47)  
+ 
+Solution:  
+1. Determine the maximum ( 𝑄𝑚𝑎𝑥) and minimum ( 𝑄𝑚𝑖𝑛) limit for unit inflow rate Q 0  
+𝑄𝑚𝑎𝑥 =0.01059 𝑆0−0.75=0.01059 ×0.005−0.75=0.563 
+𝑄𝑚𝑖𝑛 = 0.000357  𝐿𝑆0.5
+𝑛= 0.000357 ×400 ×0.0050.5
+0.04=0.252 
+2. Select Q 0 within the range of 𝑄𝑚𝑎𝑥 and 𝑄𝑚𝑖𝑛.  Considering the unit flow rate as 
+𝑄𝑚𝑎𝑥 (0.563 m3/min/m) results in border width (W b) of 88.77 m and 6.75 number 
+of borders (N b).   
+The flow is adjusted and possible combinations are listed below:  
+Number  of borders (N b) Border Width, W b (m) Unit inflow rate, Q 0 (m3/min/m)  
+6 100 0.5000  
+5 120 0.4167  
+4 150 0.3333  
+3 200 0.2500  
+ 
+ (Refer Slide Time: 29:45)  
+ 
+So, 6×100 will be 600  which is matching  with the border width of  600 m and then  unit 
+flow rate woul d be 0.5 so, this is one combination ; similarly,  other combination s are 
+available and we are going to check for all the four combinations  as shown in the table 
+above. So, we have selected Q0 = 0.50 m3/min/m .  
+(Refer Slide Time: 30:27)  
+ 
+3. So, with 0.5  let us compute  the inflow depth  at inlet y 0 (m) using the Manning 
+equation as follows:  
+𝑌0= (𝑄𝑚𝑎𝑥 𝑛
+60 𝑆00.5)35⁄
+= 0.04×0.05
+60×0.0050.0=0.04005 𝑚 
+and y 0 value should be less than the ridge (dike) height.  
+4. Compute  𝜏𝑟𝑒𝑞 (min) to satisfy the irrigation requirement using the same procedure 
+as used in the case of furrow design.  𝜏𝑟𝑒𝑞=187 .89 min 
+5. Compute the time of advance to the end of border t L (min) using the same 
+procedure as used in the case of furrow design.  tL= 34.78 min  
+6. Compute the time of recession (tr in minutes since the beginning of irrigation) 
+assum ing that the design will meet the irrigation requirement at the end of the 
+border:  𝑡𝑟= 𝜏𝑟𝑒𝑞+ 𝑡𝐿= 187.89+32.89  = 220.78  min 
+(Refer Slide Time: 31:32)  
+ 
+7. Compute the depletion time , td (min) using the Newton -Raphson method as 
+follows:  
+a) Assume an initial guess of t d as 𝑡𝑑𝑖=𝑡𝑟= 220.78 min  
+b) Compute the average Infiltration (I) by substituting 𝑡𝑑=𝑡𝑑𝑖 
+𝐼= 𝑎𝑘
+2[𝑡𝑑𝑎−1+(𝑡𝑑−𝑡𝐿)𝑎−1]+𝑓0 
+𝐼=0.356 ×0.0028
+2[220 .780.356 −1+(220 .78−32.89)0.356 −1]+0.00017 =0.000203  
+m3/min/m  
+c) Compute S y 
+𝑆𝑦= 1
+𝐿[(𝑄0−𝐼𝐿)𝑛
+60𝑆012⁄]35⁄
+=1
+400[(0.50−(0.000203 ×400 ))×0.04
+60×0.00512⁄]35⁄
+== 0.00009035  
+d) Compute new value of t d as 𝑡𝑑𝑖+1using  below Eq. as follows:  
+𝑡𝑑𝑖+1= 𝑡𝑟+ 0.095  𝑛0.47565𝑆𝑦0.20735𝐿0.6829
+𝐼0.52435𝑆00.237825 
+𝑡𝑑𝑖+1=220 .78−0.095 ×0.040.47565×0.000090350.20735×4000.6829
+0.0002 030.52435×0.0050.237825=166 .44 𝑚𝑖𝑛 
+So, once you find out t d see whether  it is close to your t r vale or not. S o they are not close 
+then y ou have to put this as  initial guess and then repeat the  procedure . 
+(Refer Slide Time: 32:47)  
+ 
+ 
+e) The Initial guess (𝒕𝒅𝒊= 220.78 min) is not close to the new computed value 
+(𝒕𝒅𝒊+𝟏= 166.44 min).Therefore, set 𝒕𝒅𝒊= 166.44 min and repeat steps b 
+through e.  
+8. Correct value of t d = 167. 5 min  
+9. Compute the infiltrated depth at border inlet (Z 0) and compare  it with Z req 
+𝑍0=𝑘𝑡𝑑𝑎+𝑓0𝑡𝑑=0.0028 ×167 .450.356+0.00017 ×167 .45=0.0456  m 
+Since the infiltrated depth at the end (Z 0 = 0.0456 m) is less than Z req (0.05 m), it is a 
+case of deficit irrigation and cutoff time must be increased.  
+10. In case of deficit irrigation , increase the cutoff time and compute the new 𝑡𝑟value  
+as follows:  
+a) Compute new 𝑇𝑐𝑜 by substituting  𝜏𝑟𝑒𝑞 in place of t d in Eq.  
+𝑇𝑐𝑜= 𝑡𝑑−𝑌0𝐿
+2𝑄0=187 .89−0.0401 ×400
+2×0.50=171 .87𝑚𝑖𝑛   
+b) Compu te the average Infiltration (I) by substituting 𝑡𝑑=𝜏𝑟𝑒𝑞 
+𝐼= 𝑎𝑘
+2[𝑡𝑑𝑎−1+(𝑡𝑑−𝑡𝐿)𝑎−1]+𝑓0 
+ (Refer Slide Time: 34:05)  
+ 
+𝐼=0.356 ×0.0028
+2[187 .890.356 −1+(187 .89−32.89)0.356 −1]+0.00017 =
+0.000206 m3/min/m  
+c) Compute S y 
+𝑆𝑦= 1
+𝐿[(𝑄0−𝐼𝐿)𝑛
+60𝑆012⁄]35⁄
+=1
+400[(0.50−(0.000206 ×400 ))×0.04
+60×0.00512⁄]35⁄
+= 0.000249  
+d) Compute t r by substituting 𝑡𝑑=𝜏𝑟𝑒𝑞 
+𝑡𝑟= 𝑡𝑑+ 0.095  𝑛0.47565𝑆𝑦0.20735𝐿0.6829
+𝐼0.52435 𝑆00.237825 
+𝑡𝑟=220 .78−0.095 ×0.0400.47565×0.0002490.47565×4000.6829
+0.0002060.52435 ×0.0050.237825=254 .25 𝑚𝑖𝑛 
+e) Compute Z L: 
+𝑍𝐿=𝑘 (𝑡𝑟−𝑡𝐿)𝑎+𝑓0 (𝑡𝑟−𝑡𝐿)
+=0.0028 ×(254.25−32.89)0.356+0.00017 ×(254.25−32.89)
+=0.0568 𝑚 
+ (Refer Slide Time: 34:39)  
+ 
+f) Compute Ea  
+𝐸𝑎= 𝑍𝑟𝑒𝑞𝐿
+𝑄0𝑇𝑐𝑜 
+𝐸𝑎= 0.05×400
+0.50×171 .87=23.27% 
+13. Check the water availability  constraint and repeat steps 4 to 12 for other unit inflow 
+rates. Choose the design which gives  maximum E a value.  
+Number of 
+borders (N b) Border Width, 
+Wb (m) Unit inflow rate, 
+Q0 (m3/min/m)  Tco, 
+(min)  Ea, 
+(%) Irrigation 
+time (hr)  
+6 100 0.5000*  171.87  23.27  17.19  
+5 120 0.4167*  170.64  28.19  14.22  
+4 150 0.3333*  169.05  35.49  11.27  
+3 200 0.2500  174.1 0 45.95  8.71 
+2 300 0.1667**  202.53  59.49  6.75 
+* flow results initially deficit irrigation  ** flow less than Q min   
+We have five combinations  and for each combination you have to find out  the application 
+efficiency  and then  time of cut off and then irrigation  time; So, we are not going to consider 
+the star marked combinations because * flow results initially deficit irrigation  and ** flow 
+less than Q min. So, only the combination  with number  of borders  is 3; width  - 200; unit 
+flow rate - 0.25; Tco 174.10 min and irrigation time 8.71 is considered . So, in this way we 
+need to  design a border irrigation .  
+(Refer Slide Time: 35:59)  
+ 
+Next is the basin design , in basin design  the tail water is not going  to runoff, water  is allow 
+to stagnant for some time  so that i t gets infiltrated down . So, the tail water is prevent ed 
+from exiting  the field and the recession  and depletion are accomplished  at the same time  
+and nearly uniform over the entire basin . The  driving force on the flow is solely hydraulics 
+slope of the  wate r surface   
+Assumption 1 is that, during the advance phase  the friction slope  can be approximated by 
+the inlet depth  y0 divided by the distance  x, in the direction of  flow this we  are already 
+familiar with . So, during the advance phase 𝑆𝑓= 𝑦𝑜 / 𝑥   
+When Q0 is known  Y0 can be estimated using M anning ’s equation  
+𝑦0=(𝑄02𝑛2𝑥
+3600)0.24
+ 
+Assumption  2 is that  immediately upon  cessation of inflow the water surface assumes a 
+horizontal orientation and infiltrate vertically  
+ 
+ 
+ 
+ 
+(Refer Slide Time: 37:40)  
+ 
+Assumption  3 is the irrigation depth to be applied at the downstream  end of the basin which 
+is equal to the required depth of water at the root zone  (Zreq). So, this is our criteria , we 
+need to wet the whole  field based on the  Z required value .  
+Time of cut off  is estimated using th e following  equation  
+𝑡𝑐𝑜=𝑍𝑟𝑒𝑞𝐿−0.77𝑦0𝐿
+𝑄𝑜+𝑡𝐿  
+σy= 0.77 also as 0.8 in some cases . Application efficiency should be maximum . So, these 
+are the field parameters  we are familiar with you can go through this .  
+(Refer Slide Time: 38:42)  
+ 
+Basin irrigation system design  is almost  similar to furrow irrigation  design  again .  
+1. Collect  information  on field characteristics and everything just like  border and  furrow  
+system   
+2. Determine  the maximum availab le non-erosive  flow rate using the following 
+equation    
+𝑄𝑚𝑎𝑥 = [𝑉𝑚𝑎𝑥 (𝑛2𝐿
+7200)0.24
+]1.857
+ 
+3. Select unit flow rate (Q 0) near Q max in such a way that it results in integer number of 
+basins and sets.  
+4. Compute the inflow depth (y 0) at the  inlet using Eq. (19) by substituting x = L/2 as 
+follows:  
+𝑦0=(𝑄02𝑛2𝑥
+3600)0.24
+ 
+Compare y 0 with the ridge height and make sure that it is lower than ridge height.  
+ 
+ (Refer Slide Time: 39:16)  
+ 
+5. Compute time of advance to the end of t he basin, t L as follows:  
+Assume an initial value of advance rate exponent (r) equal to 0.5, rj = 0.5  
+Compute  𝜎𝑧 and 𝜎′𝑧by substituting r = rj 
+Compute the time necessary for flow to advance half the basin L/2 distance, t L/2: 
+𝑦0=(𝑄02𝑛2𝐿
+7200)0.24
+                         𝑡𝐿/2𝑖=5𝑦0𝐿
+2𝑄0 
+𝑡𝐿/2𝑖+1=𝑡𝐿/2𝑖−𝑄0𝑡𝐿/2𝑖−0.8𝑦0(0.5𝐿)−𝜎𝑧𝑘(𝑡𝐿
+2𝑖)𝑎
+(0.5𝐿)−𝜎′𝑧𝑓0(𝑡𝐿
+2𝑖)(0.5𝐿)
+𝑄0−𝜎𝑧𝑎𝑘(𝑡𝐿
+2𝑖)𝑎−1
+(0.5𝐿)−𝜎′𝑧𝑓0(0.5𝐿) 
+Check if 𝑡𝐿/2𝑖=𝑡𝐿/2𝑖+1 or is within the permissible tolerance limit. If this condition is not 
+satisfied then repeat step (iii) by setting 𝑡𝐿/2𝑖=𝑡𝐿/2𝑖+1 Otherwise, proceed  to next step  
+(Refer Slide Time: 40:49)  
+ 
+Compute the time necessary for flow to advance L distance, t L: 
+𝑦0=(𝑄02𝑛2𝐿
+3600)0.24
+                         𝑡𝐿𝑖=5𝑦0𝐿
+𝑄0 
+𝑡𝐿𝑖+1=𝑡𝐿𝑖−𝑄0𝑡𝐿𝑖−0.8𝑦0(𝐿)−𝜎𝑧𝑘(𝑡𝐿𝑖)𝑎(𝐿)−𝜎′𝑧𝑓0(𝑡𝐿𝑖)(𝐿)
+𝑄0−𝜎𝑧𝑎𝑘(𝑡𝐿𝑖)𝑎−1(𝐿)−𝜎′𝑧𝑓0(𝐿) 
+Check if 𝑡𝐿𝑖=𝑡𝐿𝑖+1 or is within the permissible tolerance limit. If this condition is not 
+satisfi ed then repeat step (iii) by setting 𝑡𝐿𝑖=𝑡𝐿𝑖+1 Otherwise, proceed to next step  
+Compute a revised estimate of advance rate exponent (rj+1) as follows:   
+𝑟𝑗+1=𝑙𝑛 (2)
+𝑙𝑛(𝑡𝐿𝑡𝐿2⁄⁄ )  
+(Refer Slide Time: 41:05)  
+ 
+Compare the  initial guess value of rj with the computed value rj+1. If both values are equal 
+(within the permissible range), continue with step 6, otherwise set rj = rj+1 and repeat step 
+(5). 
+6. Calculate T co, assuming that the irrigation requirement will be satisfied a t the end 
+of the basin, If T co≤ tL, set T co = tL.  
+𝑡𝑐𝑜=𝑍𝑟𝑒𝑞𝐿−0.77𝑦0𝐿
+𝑄𝑜+𝑡𝐿 
+6. Compute application efficiency.  
+7. Determine other possible basin configurations and their corresponding unit inflow 
+rate Q 0.  
+8. Repeat steps 5 through  7 for all configurations and select the design that gives the 
+maximum E a 
+So, in this lecture basically we focused on  design of border , design of  basin  and design of 
+furrow s, if you compare all these  3 designs , in furrow irrigation we negle cted the recession 
+and deple tion phase . In basin  irrigation we assume the recession  and depletion  is 
+instantaneous  whereas, in border irrigation both depletion and recession phase  are 
+significant , we have the equation , we h ave the procedure how to design that . So, with this 
+we finish the design of border  furrow and basin irrigation . And the next  lecture  is on 
+tutorials , we are going to see an example of  basin irrigation and few  other  exercise . 
+Thank you . 

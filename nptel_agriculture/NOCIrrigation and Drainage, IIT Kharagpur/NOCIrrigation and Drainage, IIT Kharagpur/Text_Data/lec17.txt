@@ -1,0 +1,399 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 17 
+Surface Irrigation Hydraulics  
+In this lecture 17, we going to talk about  Surface  Irrigation H ydraulics , we will focus on  
+the phases of irrigation and  how do we model those phases , and what is the meaning of 
+those phases , while  simulating  water flow in surface irrigation .  
+(Refer Slide Time: 00:54)  
+ 
+The aim of  surface  irrigation system is  to determin e the appropriate inflow rates , and cutoff 
+times  or when to stop irrigation so that the maximum or desired  performance is obtain ed 
+for a given field condition . In order to do that  some of the parameters we need to focus  are 
+stream size -how much water we ne ed to release , and then the next one is the rate of 
+advance . The third is the length of run off, the fourth one is the flow depth , fifth is int ake 
+rate, sixth is the land slope , seventh is the roughness , eighth  is the  erosion hazard  - so 
+whether the flow is causing any  erosion  or not and the ninth  is the  shape of flow or border  
+furrow - these are  the shapes and depth of wate r to be applied . So these  are the parameters 
+we need to con sider  while designing  an irrigation  system . 
+(Refer Slide Time: 02:40)  
+ 
+Next i s the irrigation phases , basically the re are four  phases  - Advance phase, Storage 
+Phase, Depletion Phase and Recession Phase . The advance phase b egins when  water is 
+turned into the field and e nds when water reaches the downstream end of the field. So, 
+what  we do in  surface irrigation system ? So, assume a  field and  at one end you are going 
+to deliver water and we expect that  water  to reach the field end point . The water which is 
+travelling from  head end to tail end is called the advance phase  and the  water m oves very 
+slowly from point to point and reaches the tail end. Then if you draw a graph between 
+distance and the time  we expect a curve  called advance curve  as shown in the graph above.  
+Suppose  the field is an imperious  surface so, water will not infiltrat e. So, in that case you 
+may expect a straight  line instead of  a curvy  line because there is no loss of water  and is 
+flowing at the same speed . But since  the field is not impervious water is flowing through 
+porous surface  so, at the end the travel  time will  be delayed forming  to the curve above . 
+(Refer Slide Time: 04:34)  
+ 
+So from head end to tail end  we expect the advance water front , then after that  we expect  
+the infiltration , suppose  there is a plant with a particular root zone , when the water front 
+advan ce reaches from one end to other  end but is not enough to infiltrate  down to the root 
+zone,  we need to irrigate mor e. So you are still irrigating  when  the water  is reaching the 
+end i.e., called  the run off phase or storage phase then once the  wetting front  reaches the 
+desired  level , then we are going to turn off the pump . Since there is no water after turning 
+off the pump,  from the point of cut off to no water , this phase is called the depletion phase . 
+Similar to advance point , so the drying phase is going to start and the drying point is going 
+to advance from head end to tail end and i.e., called recession  phase. These  are the four 
+phases we expect in surface irrigation system and  it is best  represented as the graph  above . 
+Refer Slide Time: 06:31)  
+ 
+From  the advance curve there is a time of advance then after that you cut o ff water at cutoff 
+time ( Tco) but still there is a storage water and in order to infiltrate  down, this takes time. 
+Tco to T d is the  depletion  phase , then after that the  drying  phase is going to start  i.e., called 
+recession phase  and it’s going to end  at T r.  
+The difference between these  two curves  i.e., the advance curve and the recessio n curve  is 
+called infiltration  opportunity  time. So at that particular  time since  advance point to the 
+recession point the soil got opportunity to infiltrate  water down to the desired point . These 
+are the irrigation hydraulics we need to  concentrate in order to simulate the water flow in 
+irrigation system .  
+(Refer Slide Time: 08:12)  
+ 
+Typical surface irrigati on phases as  explained  earlier can be  clearly see n in the picture s 
+above. T he first phase is advance phase , and it begins when water is turned into the field , 
+and when the water initially enters  the field  the phase starts and then the water front 
+advances  to the field end ; and it ends when the  water reaches the downstream o f the field . 
+Storage phase begins when advance phase ends  and t he storage phase ends when the inflow 
+ends, i.e., when you cut off  the water supply. T he depletion phase  begins when storage  
+phase ends  which happen  immedia tely after cut off  and it ends when the depth of the water 
+at the  head end is going to de plete from h to 0. The re cession  phase begins  when depletion 
+phase ends and then it continues until drying front reaches the end just like a reverse of 
+advance  curve, it is a kind of a  reverse advance .  
+(Refer Slide Time: 09:54)  
+ 
+So, the difference  between the advance time and recession time  is the infiltration 
+opportunity time  i.e., the vertical distance  between the advance and recessio n curves . For 
+irrigation  uniformity to be high , opportunity  time must be same throughout the field . And 
+this is normally  facilitated by flat advance curve .  
+(Refer Slide Time: 10:48)  
+ 
+Next is the governing  equations , if you are talking about the simulatio n model basically , 
+the simulation models  in surface irrigation  works or  is formulated on  Saint -Venant ’s 
+equations . The equation  has both mass and momentum equations,  as follows:  
+𝜕𝑄
+𝜕𝑥+𝜕𝐴
+𝜕𝑡+𝐼=0 
+(1
+𝑔)(𝜕𝑉
+𝜕𝑡)+(𝑉
+𝑔)(𝜕𝑉
+𝜕𝑡)+(𝜕𝑦
+𝜕𝑥)=𝑆0−𝑆𝑓+𝑉𝐼
+2𝑔𝐴 
+Where , y - Depth of flow (m) ; t -Time from beginning of irrigation (s) ; V - Velocity of 
+flow as f (x, t) (m/s) ; x - Distance along the furrow  length (m) ; I - Infiltration  rate as f (x, 
+t) (m/s) ;  g - Acceleration due to gravity (m/s2); S0 - Longitudinal slope of furrow (m/m) ; 
+Sf - Slope of energy grade line (friction slope) in m/m ; A - Cross -sectional area as f (x, t) 
+(m2) . 
+Clearly you see this  is the  conservation of mass and conservation of momentum  equation  
+The complete  Saint -Venant equation is called  the full hydrodynamic  model  without 
+simplifying the  equations . The depth  y this is very important because  we are going to 
+simulate the depth ove r the surface of  the field . And we have different modelling 
+approaches  for simulation , based on the different simplifications  of the above equation . 
+(Refer Slide Time: 12:23)  
+ 
+So, here there are  4 approaches  as explained in the table , the first one is ful l hydro dynamic 
+model , which uses this  Saint -Venant ’s equations for conservation mass and momentum 
+equations ; and then the zero inertia equations where the momentum equation is simplified  
+and it uses the mass equation and  the zero inertia term will be negl ected here .𝑑𝑦
+𝑑𝑥=𝑆𝑜−
+𝑆𝑓, these two equations will be used to solve  for depth .  
+And third one is kinematic wave equation , this is uniform flow  assumption i.e., 𝑆𝑜−𝑆𝑓=
+0 for both the back slope and  energy slope . In that case here we h ave a mass equation  and 
+then 𝑆𝑜−𝑆𝑓=0, these two equation will be used for solving  for depth . Fourth o ne is the 
+simplified  equation  i.e., a volume balance equation , this is a numerical solution 
+temporarily and spatially lumped to mass conservation  equation . So, in this the complete 
+momentum equation will be neglected and only  mass equation will be left . So, we are 
+going to  solve the mass equation  in the following slides . 
+(Refer Slide Time: 14:15)  
+ 
+So, here is the mentioned volume balance model , other models can be  adopted from  other 
+research articles  or in any other books  I mentioned  in earlier  lectures , but here we  stick to  
+the volume balance model , which is  simplified  mass balance equation . So, if you look at 
+the olume balance  equation : 
+𝑄𝑜𝑡=𝜎𝑦𝐴0𝑥+∫𝑍(𝑡−𝑡𝑠)𝑥
+0𝑑𝑠                           (1) 
+Where,  𝑄𝑜= inflow rate(m3/min); t = time from the start of inflow (min); 𝐴0 = Wetted area 
+at the head end (m2); 𝜎𝑦 = Surface profile shape factor (0.77); x = wat er front advance (m); 
+Z = cumulative infiltration per unit length (m3/m); 𝑡𝑠=time required to reach water front at 
+a distance of s (m).  
+Suppose in a field  the water which is  added is  Q0 × t, this whole volume  will be 
+converted /break down in to two parts, one is surface volume and subsurface volume . Water 
+which is staying on top and  volume which is infiltrated  down these  two parts can be 
+thought of two rectangular pieces , and if we sum these  two it will be equal to  Q0 × t. But 
+the actual  piece of volume  need s to be multipl ied with the fraction  𝜎𝑦 and A0. If you have 
+a whole rectangular piece , in real term we expect an irregular  surface shape and thi s needs 
+to be adjusted  and i.e., the reason 𝜎𝑦 is called surface  shape factor . And the same thing we 
+converted the second part and the whole  thing is  calculated by a by an integral  0 to x, Z is 
+the vertical water front and  𝑡−𝑡𝑠 is the infiltration  opportunity time.  
+(Refer Slide Time: 17:31)  
+ 
+The total volume applied will be equal to the surface storage an d sub-surface  storage . 𝜎𝑦 
+is shape factor that will be taken as 0.77 and A0 will be estimated by using Manning’s 
+equation  after considering, 𝐴2𝑅43⁄=𝜌1𝐴𝜌2: 
+𝐴0=[𝑄02𝑛2
+3600 𝜌1𝑆0]1/𝜌2
+       (2) 
+Where,  n= Manning’s roughness coefficient; 𝑆0 = Field slope ( 𝑆0>0)  and  𝜌1,  ρ2 = Furrow 
+shape parameter (Walker and Skogerboe 1987). Since  𝑆0>0, the proposed method is 
+applicable and 3600  is for a unit conversion  when you convert  m3/h to m3/s .  
+(Refer Slide Time: 20:10)  
+ 
+The next one is  the cumulative infiltration  Z estimated using the  Kostiakov equation :  
+       𝑍(𝜏)=𝑘𝜏𝑎+𝑓0𝜏                           (3) 
+Where, K (m2/mina) and a( -) = fitted  parameters; 𝜏 (=𝑡−𝑡𝑠)= infiltration opportunity 
+time (min); and 𝑓0 = basic infiltration rate (m2/min)  
+Generally,  what we assume f 0 is known before  the irrigation event , otherwise  we can also  
+estimate by inflow outflow method or there are some  values given by walker and  
+Skogerboe . 
+Substitute Eq (3) in Eq (1)  
+         𝑄0𝑡=𝜎𝑦𝐴0𝑥+∫[𝑘(𝑡−𝑡𝑠)𝑎+𝑓0(𝑡−𝑡𝑠)]𝑥
+0𝑑𝑠                 (4) 
+ (Refer Slide Time: 21:27)  
+ 
+Since we are talking about  the waterfront  advance  we assume  that the water front  advance  
+follows  a power function  
+𝑠=𝑝𝑡𝑠𝑏                                                              (5) 
+Where, p and b are the fitted parameters  
+Substitute for t s in Eq (4)  
+𝑄0𝑡=𝜎𝑦𝐴0𝑥+∫𝑘[𝑡−(𝑠
+𝑝)1𝑏⁄
+]𝑎
+𝑥
+0𝑑𝑠+∫𝑓0[𝑡−(𝑠
+𝑝)1𝑏⁄
+]𝑥
+0𝑑𝑠              (6) 
+Eq (6) can be written as  
+𝑄0𝑡=𝜎𝑦𝐴0𝑥+𝑘𝑡𝑎∫[1−1
+𝑡(𝑠
+𝑝)1𝑏⁄
+]𝑎
+𝑥
+0𝑑𝑠+𝑓0𝑡∫[1−1
+𝑡(𝑠
+𝑝)1𝑏⁄
+]𝑥
+0𝑑𝑠   (7) 
+.  
+(Refer Slide Time: 22:39)  
+ 
+So, the next  step is once you have that equation , you have to expand the first few terms in 
+that equation , then you get first, second , third times this is called binomial expansion 
+𝑄0𝑡=𝜎𝑦𝐴0𝑥+𝑘𝑡𝑎∫{1−𝑎
+𝑡(𝑠
+𝑝)1𝑏⁄
++𝑎(𝑎−1)
+2[1
+𝑡(𝑠
+𝑝)1𝑏⁄
+]2
+}𝑥
+0𝑑𝑠+𝑓0𝑡∫[1−1
+𝑡(𝑠
+𝑝)1𝑏⁄
+]𝑥
+0𝑑𝑠  
+(8) 
+And then you integrate substitute  
+𝑥1𝑏⁄=(𝑝1𝑏⁄)𝑡 𝑎𝑛𝑑  𝑥2𝑏⁄=(𝑝2𝑏⁄)𝑡2  
+Eq.(8) can be reduced to  
+𝑄0𝑡=𝜎𝑦𝐴0𝑥+𝑘𝑡𝑎𝑥(1−𝑎𝑏
+𝑏+1+𝑎(𝑎−1)𝑏
+2(2+𝑏))+𝑓0𝑡𝑥
+1+𝑏                         (9) 
+ (Refer Slide Time: 24:42)  
+ 
+Eq. (9) is further reduced to  
+                              𝑄0𝑡=𝜎𝑦𝐴0𝑥+ 𝜎𝑧𝑘𝑡𝑎𝑥+𝑓0𝑡𝑥
+1+𝑏                             (10) 
+Where, 𝜎𝑧=1−𝑎𝑏
+1+𝑏+𝑎𝑏(𝑎−1)
+2(2+𝑏) 
+If we use  Kiefer expansion  and you get another  equation . 
+𝜎𝑧=𝑎+𝑏−𝑎𝑏+1
+(1+𝑎)(1+𝑏)                                              (11) 
+And we have  recent ly reported  in 2008  that the  𝜎𝑧 by binomial exp ansion is  
+𝜎𝑧(𝐵𝐴)=1.0257 ×𝜎𝑧(𝐾𝐴)    (𝑎,𝑏)∈𝑅[0,1]                     (12) 
+Here a is the infiltration  parameter and b is the power  coefficient  BA is the binomial 
+approximation and KA is the Kiefer  approximation . What we are doing  is we are trying to 
+find out the volume balance equation by considering the surface and sub-surface  volumes   
+(Refer Slide Time: 25:58)  
+ 
+So, using the final equation  final volume balance equation  which has x and t , how do we 
+find out the unknown k  and a. How do we  estimate the infiltration  parameters of the field 
+by knowing  the water front  advance ? Elliott and W alker has given a procedure , for the two 
+advance  points (x1, t1) and (x 2, t2), Eq (10) can be written as  
+𝑄0𝑡1=𝜎𝑦𝐴0𝑥1+𝜎𝑧𝑘𝑡1𝑎𝑥1+𝑓0𝑡1𝑥1
+1+𝑏                                       (13) 
+𝑄0𝑡2=𝜎𝑦𝐴0𝑥2+𝜎𝑧𝑘𝑡2𝑎𝑥2+𝑓0𝑡2𝑥2
+1+𝑏                                       (14) 
+𝑏=𝑙𝑜𝑔(𝑥1/𝑥2)
+𝑙𝑜𝑔(𝑡1/𝑡2)                                                               (15) 
+The two unknown’s k and a can be estimated from the above two -equations  
+(Refer Slide Time: 28:06)  
+ 
+We have develo ped a one-point  method  so we do not require  two points  to calculate  or 
+determine infiltration  parameter , even if you have one advance points , still you can 
+estimate the infiltration  parameters  in the work  that we publish ed in 2008 . The basic 
+assumption  here is we assume one-time point . i.e., half of the advance point  the complete 
+advance point.   
+One-point method (Mailapalli et al. 2008) - Considering two advance points; t 1 = 0.5 × t 2 
+       (𝑥1
+𝑥2)=𝑄0(0.5𝑡2)
+(0.5)𝑎[𝑄0𝑡2−𝜎𝑦𝐴0𝑥2−𝑓0𝑡2𝑥2
+1+𝑏]+𝜎𝑦𝐴0𝑥2+𝑓0(0.5𝑡2)𝑥2
+1+𝑏                           (16) 
+For example, for one -point method (Mailapalli et al. 2008), the foll owing function can be 
+obtained from Eq. (15)  
+      𝑓(𝑎,𝑏)=𝑏𝑙𝑜𝑔 (0.5)=𝑙𝑜𝑔(𝑄0(0.5𝑡2)
+(0.5)𝑎[𝑄0𝑡2−𝜎𝑦𝐴0𝑥2−𝑓0𝑡2𝑥2
+1+𝑏]+𝜎𝑦𝐴0𝑥2+𝑓0(0.5𝑡2)𝑥2
+1+𝑏)=0        (17) 
+Finally,  the above  function  can be obtained , the whole procedure is given in the paper 
+published in ASCE Irrigation drainage , you can go t hrough it , and this can be easily solved  
+by using  excel solver . In this equation the main thing is there are  two unknowns  with one 
+single  equation . This is the target of  function and by varying  a and b  using excel solver 
+you can find out what are a and b values . And then once you know a and b you can find 
+out the k value , by substituting these values back into the volume balance equation .   
+(Refer Slide Time: 30:18)  
+ 
+The above screenshots  show  the one-point  volume balance methods  which is  in that  paper .  
+(Refer Slide Time: 30:29)  
+  
+Shape parameters  are very important  in order  to find out  the surface storage . We have to 
+find out these  shape factors  by measuring the  furrows shape . The above figure shows  a 
+typical furrow shape , it has the top width Tmx and some width in between  Ti and Tmd along 
+with corresponding depths  ymx yi and ymd. If you have this data from the field you c an find 
+out the shape parameter s by considering  the following  equation s: 
+𝑇=𝛼1𝑦𝛼2 
+𝐴=𝜎1𝑦𝜎2 
+𝑊𝑃 =𝛾1𝑦𝛾2 
+𝐴2𝑅43⁄=𝜌1𝐴𝜌2 
+Where , 𝛼1,𝛼2, 𝜎1,𝜎2,𝛾1,𝛾2are fitted parameters; top width o f flow (T), flow area (A) and 
+wetted perimeter (WP) to flow depth (y)  
+The top width if you see  it changes with depth and  similarly the wetting  perimeter  and area  
+of cross section is related to depths with the help of the shape/fitted parameters.  
+(Refer Sl ide Time: 32:23)  
+ 
+𝛼1=𝑇𝑚𝑥
+𝑦𝛼2𝑚𝑥 
+𝛼2=𝑙𝑜𝑔(𝑇𝑚𝑥/𝑇𝑚𝑑)
+𝑙𝑜𝑔(𝑦𝑚𝑥/𝑦𝑚𝑑) 
+𝜎1=𝛼1
+𝛼2+1 
+𝜎2=𝛼2+1 
+𝛾1=𝑊𝑃|𝑦 𝑚𝑥
+𝑦𝛾2𝑚𝑥 
+𝛾2=𝑙𝑜𝑔 (𝑊𝑃|𝑦 𝑚𝑥/(𝑊𝑃|𝑦 𝑚𝑑)
+𝑙𝑜𝑔(𝑦𝑚𝑥/𝑦𝑚𝑑) 
+𝑊𝑃|𝑦 𝑚𝑥=∑{2[(𝑦𝑖−𝑦𝑖−1)2+[0.5(𝑇𝑖−𝑇𝑖−1)]2]0.5}𝑛/2
+𝑖=0 
+Where n is the number  of depth and top width pairs, and mx , md and i are the max, mid 
+and individual value of depth , top width, σ 1, and σ 2 for borders  and basins are 1.0, 0.0, 
+1.0, and 1.0, respectively . 
+The hydraulic section can be computed by combining the above equations:  
+𝐴2𝑅43⁄=𝜌1𝐴𝜌2 
+𝜌1=𝜎110/3
+𝛾14/3 
+𝜌2=10
+3−4𝛾1
+3𝜎2 
+Borders and basins, σ1= 1, σ2= 3.33 
+Border systems ρ1=1.0 ; ρ2=1.67.  
+Furrow -irrigated conditions:  ρ1 - 0.3 to 0.7 ; ρ2- 1.3 to 1.5.  
+(Refer Slide Time: 34:20)  
+ 
+Problem 17.1:  
+Using the following field measured information, determine the furrow shape factors.  
+Elevation  from furrow bottom (m)  Horizontal width of furrow (m)  
+0 0 
+0.01 0.053  
+0.02 0.092  
+0.03 0.125  
+0.04 0.156  
+0.05 0.185  
+0.06 0.212  
+0.07 0.238  
+0.08 0.263  
+0.09 0.287  
+0.1 0.311  
+0.11 0.334  
+0.12 0.356  
+0.13 0.381  
+0.14 0.405  
+ 
+Solution: It is assumed th at the final stable shape follows a power law, which relates top 
+width of flow (T), flow area (A) and wetted perimeter (WP) to flow depth (y) using the 
+equations discussed earlier.  
+𝑇=𝛼1𝑦𝛼2                  𝐴=𝜎1𝑦𝜎2               𝑊𝑃 =𝛾1𝑦𝛾2 
+Tmx = 0.405 ;  T md = 0.238;  y mx = 0.14;  y md = 0.07  
+𝛼1=𝑇𝑚𝑥
+𝑦𝛼2𝑚𝑥=0.405
+0.140.7670=1.8295  
+𝛼2=log (𝑇𝑚𝑥/𝑇𝑚𝑑)
+log (𝑦𝑚𝑥/𝑦𝑚𝑑)=log (0.405 /0.238 )
+log (0.14/0.07)=0.7670  
+(Refer Slide Time: 35:49)  
+ 
+ 
+𝜎1=𝛼1
+𝛼2+1=1.8295
+0.7670 +1=1.0354  
+𝜎2=𝛼2+1=0.7670 +1=1.7670  
+𝛾2=𝑙𝑜𝑔 (𝑊𝑃|𝑦 𝑚𝑥/(𝑊𝑃|𝑦 𝑚𝑑)
+𝑙𝑜𝑔(𝑦𝑚𝑥/𝑦𝑚𝑑)=𝑙𝑜𝑔(0.4955
+0.2775)
+𝑙𝑜𝑔(0.14
+0.07)=0.835 
+𝛾1=𝑊𝑃|𝑦 𝑚𝑥
+𝑦𝛾2𝑚𝑥=0.4955
+(0.14)0.835=2.563 
+𝜌1=𝜎110/3
+𝛾14/3=1.0354103⁄
+2.56343⁄=1.36551 ; 
+𝜌2=10
+3−4𝛾1
+3𝜎2=10
+3−4(0.835 )
+3(1.767 )=0.32023  
+These equations are very important in order to know the  shape parameters  which  are 
+important for  simulating the  phases or  the volume  balance equation . If you have th e 
+particular  data set and you can draw that in the excel and  feed in different equations .  
+(Refer Slide Time: 37:13)  
+  
+The above  slide is an example of  two point  method  it has clearly  given Q, Manning’s n, 
+𝜌1, 𝜌2, x1, t1 and x 2 t2. There is another point  b. We have estimated b  as 𝑏=𝑙𝑜𝑔(𝑥1/𝑥2)
+𝑙𝑜𝑔(𝑡1/𝑡2) 
+f0 is assumed for a particular solid type we applied  as given , 𝜎𝑦 is 0.77 and the calculations 
+are A0 there is  an equation for  A0. V2 and V1 these are all different volumes  and then  𝜎𝑧 
+using K iefer binomial expansion  equation . Then you are going to solve the equations for 
+a and then solve the equation for k. Once you got  a, b and 𝜎𝑧 then finally k value  can be 
+estimate d by substituting  back in to the  volume balance equation . The curve in the excel 
+sheet shows  time and infiltration  rate, which is a p ower equation   
+(Refer Slide Time: 40:01)  
+ 
+Similarly, we also have the one -point method as shown above. The function  needs to be 
+optimized  and when  you get the  data, go to  the solver , and in the target cell  and we are 
+going to change the variables a and b  and then solve d it. Then it will optimize  a and b  and 
+using a and b , you can  estimate k value . 
+(Refer Slid e Time: 41:11)  
+ 
+The above slide shows the furrow geometry - top width , mid base and depth . So, if you 
+have these  things 𝛼1,𝛼2, 𝜎1,𝜎2,𝜌1 𝑎𝑛𝑑  𝜌2 can be  estimated . 
+In this lecture  basically we focused on the irrigation phases . There are four irrigation 
+phases which are required for modeling  surface irrigation and then  we focused on volume 
+balanced equation . There are four approaches approved - hydrodynamic model , zero inertia  
+model , kinematic wave model and  volume  balance model . Volume balance  model is the 
+simplest  among all . And we  have seen the procedure  how to  find out the infiltration  
+parameters knowing the advance curve . 
+Thank you . 

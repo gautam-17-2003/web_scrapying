@@ -1,0 +1,276 @@
+Irrigation and Drainage  
+Prof. Damodhara Rao Mailapallli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 09 
+Irrigation Scheduling  
+ 
+Friends  welcome to lecture number 9 of Irrigation  and Drainage  lecture se ries. In this 
+lecture we are going to learn what is Irrigation Scheduling and  what are the methods  
+involved in deciding irrigation and how much water is really required for plant and finally,  
+we are going to solve some the example s. 
+(Refer Slide Time: 00:5 2) 
+ 
+What is irrigation  scheduling ? The  main objective of irrigation scheduling  is to maximize 
+yield , in addition to that  it is to increase irrigation effectiveness/ efficiency  and crop quality  
+by applying the exact amount of water n eeded by the crop or replenish  the soil moisture to 
+the d esire d level . And finally,  as a result we are expect ing good crop quality . So we need 
+to ask ourselves , 3 questions in irrigation scheduling , i) when to give irrigation , ii) how 
+much to give irrigation  and iii) how to give irrigation ? So these 3 questions are important  
+before deciding a n irrigation event .  
+(Refer Slide Time: 02:12)  
+ 
+Next is the irrigation scheduling  goals , suppose land  is a limiting  condition i.e., limited 
+land situations in that case the main goal/ objectiv e of irrigation schedul ing is to maximize  
+the yield  per unit area , because your area is limited . Whereas, if water  is a limiting 
+condition  or limited water resources  is available,  in that case the objective is to maximize  
+the yield per unit  water applied . And another case  is when abundant water and land 
+condition  is available , (land and water is not a limiting condition ), in that case the irrigation 
+scheduling objective is to maximize yield per unit energy ; energy  related to farming 
+operation , irrigation  equipment  operation  and other things . The main thing is maximizing 
+the net profit . This is important for farming  enterprises and not popular for day to day 
+scheduling , day to day scheduling is for checking whether required  quantity of water is 
+given or not .  
+(Refer Slide Time: 04:06)  
+ 
+In irrigation scheduling , suppose that our objective is  to irrigate  a crop that required  around 
+8 mm water  per day ; that means,  the whole field required 8 mm of water uniformly  as 
+shown in picture above . Then so how do we give this 8 mm water? S uppose  the daily 
+evapo transpi ration required by the crop  is 8 mm per day  so that means  the crop requires 8 
+mm depth of water  to consume from  the soil surface , so you have to replenish that 8 mm 
+every day  or you can give 24 mm every 3 days or 40 mm every 5 days (since 3 ×8 =24 and 
+5×8=40) . So by accumulating  the daily amount to a particular time interval  you can give 
+the irrigation . 
+In principle the irrigation amount i n one application  is the amount of water used by plants 
+since the previou s irrigation . Suppose you are giving irrigation every 3 days so the first 
+day let us say 0th day you give 24 mm, so on the 3rd day you give again 24 mm so  whatever 
+amount you are giving  is accumulated by previous 3 days, that is the water used by plant s 
+since the previous irrigation . 
+(Refer Slide Time: 06:28)  
+ 
+Proper irrigation scheduling  minimizes the following ; first, if you are giving water  
+properly then yield is  not going to reduce because you are not giving excess  water , you 
+can minimize the  wastage o f water and also irrigation cost e.g., operating pump cost, 
+minimizing excess  groundwater withdrawal . Since you are giving adequate water to the 
+plant you need not withdraw excess  water from the  ground . Pollution of surface and 
+groundwater by agrochemical s like fertilizer and pesticides are reduced since we are 
+applying limited water to the  ground , the leached amount will be less and you can reduce 
+the pollution of surface as well as ground water . Drainage requirement , water -logging , 
+salinity hazard and env ironmental and health hazard  can be minimized . Giving adequate 
+water or exactly what plant  is required or may be  less leads to  lowering of leaching  of 
+agrochemicals  to ground water as well as surface water and that leads to environmental 
+health  and disease  free environment  and less pollution .  
+(Refer Slide Time: 08:55)  
+ 
+What are the indicators of irrigation  need ? When you go to the field and observe the crop  
+how to know that whether the crop required any irrigation or not ? There are some 
+indicators  that yo u can identify  whether the particula r crop required irrigation at that point 
+of time or n ot. Some of the indicators are plant leaf appearance if  you look at the plant  leaf 
+sometime leaves are curly in nature as shown in the picture  above,  sometimes you see  the 
+dead l eaves  so that means, the plant requires water  at that point of time . And another one 
+is soil moisture status , in the  field the expe rts take the soil in their hand and then press and 
+fold the soil  and based on their experience they can identify  weather  the soil has enough 
+water or not . 
+The other indicator  is the soil water potential ; in our previous lectures  we have  discussed 
+on soil water potential  measurement  using  tensiometers . So install ing tensiometers  in the 
+field can give you an indication of water stress . The other indicator is the  leaf w ater 
+potential , this is similar to soil water potential , leaf water potential  will tell how much 
+water is really present within the  plant.  
+Leaf temperature  is another  indicator , higher temperature means, the pores or stomata are  
+closing down and that is really  causing an increased in the  heat generate d inside the  leaf 
+that indicat es that the plant is starving  so it needs water . 
+(Refer Slide Time: 11:40)  
+ 
+Irrigation scheduling methods , generally use for sch eduling an irrigation is climate 
+approach or  ET based, we mostly  used the ET based approach to decide the daily  water 
+consumption . And the next is  the pan evapor imeter , this is a very easy method  and any 
+farmer can install  pan evapo rimeter in their field a nd obtained  the daily pan evaporation 
+and then find out the crop evapotranspiration  using the theory discuss ed earlier . Next is 
+the soil moisture based which measures how much moisture is present in the soil  by 
+collecting  soil sample from the ground and measuring the moisture present in the  soil using 
+gravimetric  method . Another method is the deficit irrigation  concept , this was also 
+discuss ed earlier , so the field capacity is the upper limit  and wilting point is the lower limit  
+and the available water is f ield capacity  minus wilting point , based  on your percentage of 
+interest if  the reserve  depletes  50 % or 70% then irrigation  is given .  
+Some other methods of irrigation scheduling are s oil water potential  by using  the 
+tensiometers ; Leaf water  potential  by using instruments ; stress  day index  by measuring the 
+stress level on a particular day; I rrigation calendar , which is also an easy method  to tra ck 
+the moisture level  daily  by using a calendar or a book  e.g., check book or soil moisture  
+balance approach . 
+There are irrigation models available  to help decide when  to give irrigation  and how much 
+to give irrigation . Real time  irrigation scheduling  approach connects both real time weather 
+data and then the soil moisture using the software  available and finally, decide how much  
+soil moisture is present in the gr ound  and triggers the irrigation based on the predefined  
+deficit level  and then it ON’s the pump  automatically  and s upply  the necessary  irrigation . 
+(Refer Slide Time: 15:11)  
+ 
+Climate approach /ET based method  of irrigation scheduling  is calculated  based on the 
+historical weather data for  crop period in advance , this requires lot of historical weather 
+data and based on that  the ET requirement is estimated for that particular crop then 
+irrigation is applied equal  to ET amount or  fraction multiples  of ET.  
+Suppose you have the whole season ET, for a particular crop  so the whole cumulative  ET 
+will be  divided into different fractions  different  irrigations  application . For e.g., you want 
+to irrigate  100 mm water for  the whole season , so you decided to  give 20 mm irrigation 
+each time for 5 times to amount to 100 mm.  Fischbach and Somerhalde  have conducted a  
+lot of  field experiments and found  that the amount of water  equivalent to 0.5 (50%) of the 
+peak  ET rate gave th e highest yield . 
+In this method  a number of weather  parameters are needed to  determine  ET value and we 
+have already  come across  this in the previous lecture , how to find out  ET using weather 
+data. Data may be difficult to obtain , costly sometimes  and also uncertainty  of data 
+depends on who has collected the data , whether it is re liable  or not. Hence this method has 
+some limitations , otherwise this is straightforward method once you know the  ET you can  
+give irrigation  based on  ET.  
+(Refer Slide Time: 17:52)  
+ 
+Next is the pan evaporation , this is another method , in this method there is a pan  
+evapo rimeter . The image above shows the class  A pan installed  in the field , the decrease 
+in water level  is recorded  daily  so that gives the evaporation from the  pan and if you 
+multiply with the pan c oefficient  so that will give  the lake evaporation. The  irrigation  
+applied is simply equal to the cumulative  pan evaporation , for example, ten days of data  is 
+available from the pan, then  you cumulate all th e 10 days’  data whic h is also called  CPE 
+(Cumulative pan evaporation ) at several days of  interval  such as 3, 5, 7, 10 or 15 days and 
+based on that you can give irrigation , so the cumulative  ET can be demarcated or 
+distribut ed based on the time  interval decided  and irrigation is also  applied according to 
+the predetermine d ratio of CPE. You can decide  the ratio for example,  0.5 is my ratio,  so, 
+my irrigation  will be  given  at 50% of CPE, suppose you have 10 days CPE and 0.5 is my 
+fraction  so when this 50% is going to evaporate  then irrigation  is replenish ed. This concept 
+is simple , farmer friendly and need no technical hand and no sophisticated instrument , you 
+only need on e pan in the  field. 
+(Refer Slide Time: 21:07)  
+ 
+Next is an example, based on the pan data . Pan evap oration data recorded at a certain 
+location over a period of one week are 4.0, 4.3, 4.6, 4.9, 5.12, 5.18, and 6.21 mm. If 
+irrigation scheduling based on ratio of irrigation water (IW) to cumulative pan evaporation 
+(CPE) is practiced, the depth of irrigatio n at an interval of a week for IW/CPE = 0.9 is  
+Solution:  
+Pan evaporation data at a certain location = 4.0, 4.3, 4.6, 4.9, 5.12, 5.18, and 6.21 mm  
+Cumulative pan evaporation = 34.31 mm  
+"Irrigation water (IW) “/"cumulative pan evaporation (CPE)" =0.9  
+"Irrigation water (IW) " /"34.31" =0.9  
+"Irrigation water (IW) = 0.9 "×34.31=30.88 𝑚𝑚 (Ans.)  
+(Refer Slide Time: 22:36)  
+ 
+The other  irrigation scheduling methods  is the stress day index , represented with  SDI, 
+𝑆𝐷𝐼=∑𝑆𝐷𝑖×𝐶𝑆𝑖𝑛
+𝑖=1 
+Where SD i is the stress day factor ; CSi is the crop  susce ptibility factor ; n is the number o f 
+growth  period considered . The stress day factor  is the measure of degree and duration of 
+plant water deficit . Crop susceptibility factor indicates  the plant susceptibility to a given 
+water deficit and  depends on the species and stage of growth and  the gi ven crop .  
+(Refer Slide Time: 24:18)  
+ 
+The stress day factor is estimated as, 𝑆𝐷=𝐸
+𝐸𝑑 
+Where E is the transpiration  rate and Ed is the potential evaporation .  
+The crop susceptibility factor  (CS) is the plot between crop yield (x-axis) and c umulative  
+SD for given growth period  (y-axis). The slope will give CS which is  given as follows  
+𝐶𝑆𝑖=𝑆𝐷
+𝑌𝑖𝑒𝑙𝑑 
+(Refer Slide Time: 25:09)  
+ 
+Next is the soil moisture balance /check  book method , mostly we use the soil water balanc e 
+based on knowing  the initial soil moistu re and then later you are  going to check the  soil 
+moisture  status based on the previous day  moisture content , this is the initial information 
+you need to provide . The above table represents the sample of a check book  with details 
+like days after emergence , days after first day , second day , third day , date and tota l water 
+within the root zone , crop water use  etc. I f you have rainfall  and irrigation which are the 
+inputs and then result in moisture content . The total water within the root zone (column 3) 
+minus  crop water (column 4 ) is the amount of water utilized but there are some  additional 
+inputs like rainfall and  irrigation , so based on th is balance  you get the current days soil 
+moisture .  
+(Refer Slide Time: 26:24)  
+ 
+There is another method called book keeping method , the book keeping method is similar  
+to the  check b ook method . Moisture status of the soil is calculated by estimating the values 
+of evapotranspiration , and crop is irrigated when estimated soil moisture attains a 
+predetermined value , for example here a crop  has 200 mm of available water in the root 
+zone , this is the total  available soil water r eservoir . The field capacity has to be irrigated 
+at a deficit of 100 mm so  you have 200 mm and is irrigate d when it reduces  to 100 m m. 
+The table above shows  date in  the first column , age of crop  (column 2 ) is given which may 
+be 20, 21 or 22 days. ET is estimate d in mm per day  (column 3 ) on daily  basis  and the 
+accumulated deficit  (column 4 ) is calculated. So initially deficit is  4 mm and  based on the 
+ET accumulated deficit is obtained by adding the estimated ET and when it  is coming to  
+100 mm then you give  irrigation . 
+ (Refer Slide Time: 28:16)  
+ 
+If the average value of  ET is considered , irrigation interval is estimated using th e following  
+equation   
+
+ETDS SII FC
+ 
+Where SFC and S I are soil moisture content (volume basis) at field capacity and at the 
+permissible depletion; D is root zone depth and ET is evapotranspiration . This will give 
+the total reserved  available of water at a particular depth . This method is  similar to the  
+popular IW/CPE method, s uppose  IW is fixed irrigation water  and it is 6 cm that means  
+ET is fixed and  IW/CPE ratio is also fixed say 0.8, then you can  estimate the  CPE which 
+is 7.5 so  irrigation  is provided  when  CPE is 7.5 cm, so this way you can  give irrigation . 
+(Refer Slide Time: 29:44)  
+ 
+Irrigation schedul ing methods  through modeling  approach  is also conducted with different 
+available models  such as  FAO CROPWAT T which can be used to  estimate  scheduling  
+irrigation event . And there is  CROSOWAT by Joshi et a l., 1995  which is the numerical 
+model ling approach  for estimating irrigation water requirement in humid basins  under 
+various management options . And there is  another model called IRRI  ORYZA 2000  which 
+is developed  at IRRI , which  is mostly  used for rice crop . 
+(Refer Slide Time: 30:35)  
+ 
+The ab ove image shows how the r eal time irrigation scheduling  takes weather data and 
+soil information and soil moisture status from data logger and based on that an algorithm 
+in the software  is available that takes the  weather data , soil data  and give the  present soil 
+moisture condition . And then if irrigation is required as per the basin irrigation criteria it 
+triggers the  pump  then give irrigation . The other image above shows  the overall view of 
+the same thing  
+(Refer Slide Time: 31:40)  
+ 
+Scheduling strategies are basically two types  either you gave  entire irrigation that means, 
+filling up to the field capacity to maximize the production or deficit irrigation  by allowing 
+plant water stress  and partial ly supplying the irrigation requirement and when irrigation 
+system  limits water availability  but adequate  water is given during critical stages . 
+(Refer Slide Time: 32:33)  
+ 
+Next is when to irrigate ? Some general approaches are similar so we are just going to 
+review some of the things , as mentioned for when to give irriga tion, plant indicators , soil 
+indicators and water budgeting techniques  using check book method and other  methods . 
+The plant indicators are appearance , growth , leaf temperature  and leaf water potential . 
+(Refer Slide Time: 33:09)  
+ 
+Soil indicators are determ ining the current water content of the soil, so appearance  and 
+feel, is one method where you take the soil and just feel it  and based on you r experience 
+you can say what is the percentage  of moisture content ; gravimetric sampling , 
+tensiometers , porous  blocks, neutron scattering technique etc. can also be used to measure  
+soil moisture . After determining the soil moisture,  it is compar ed to the  predetermined 
+minimum w ater content or threshold such as ϴc and the irrigat ion is given to maintain  soil 
+water content  above the minimum level .  
+(Refer Slide Time: 34:12)  
+ 
+We already  discussed  the appearance and feel method along with gravimetric 
+measurement of soil moisture.  
+(Refer Slide Time: 34:20)  
+ 
+Next is the water budget t echnique , it is  similar to soil indicator methods  but the soil water 
+content is computed as follows:  
+
+
+
+
+rze
+i iDP ET1001 
+Where  θi, θi-1 is the soil water content in percent by volume at the end of day i and day i -
+1, respectively; Drz is depth of root zone (cm, in) ; ET is the evapotranspiration (cm, in)  
+and Pe is the effective precipitation (cm, in)  Pe is the effective input i.e., extra water you 
+are getting from the  atmosphere and  ET is the loss. So this much is already applied and 
+you want to find out what is the  current day moisture content . 
+(Refer Slide Time: 35:01)  
+ 
+The table above shows the different  methods of irrigation scheduling  and there is a hand 
+feel and appearance  method , gravimetric method , tensiometers , electrical resist ance and 
+water budgeting approach and modified atmometer . The measured parameters and 
+equipment needed and irrigation criteria are given , for example hand feel method , soil 
+moisture content  advantages and disadvantages are given . You can go through the sli de to 
+know more about the advantage , disadvantage and equipment needed for a particular  
+irrigation scheduling method . 
+In this lecture  we focused on irrigation  scheduling , i.e., when to give irrigation , how much 
+to give irrigation and how to give an irrigation ? We just discussed  when to give irrigation 
+and how much to give irrigation . How to give irrigation will be  discuss ed later. 
+Thank you . 
