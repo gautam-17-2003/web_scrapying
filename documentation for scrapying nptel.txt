@@ -1,0 +1,9 @@
+﻿Steps followed : 
+
+
+* We start with downloading all the transcripts (in pdf form) of lectures under the discipline “Agriculture” for which it is available.
+* We make the folders for different courses as the name of the course under the main folder that is nptel_agriculture.
+* There are some of the pdf lectures missing in the data as there were no transcriptions available for the same.
+* Then we start converting the pdf data into txt files and storing the files in another folder under the different courses named text_data.
+* And then finally deleting all pdf data and uploading the data to github.
+* At last we got 20-30 mb of data.
