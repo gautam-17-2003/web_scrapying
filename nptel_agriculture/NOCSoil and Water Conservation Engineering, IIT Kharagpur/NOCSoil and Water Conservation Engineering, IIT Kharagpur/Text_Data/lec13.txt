@@ -1,0 +1,343 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 13 
+Problem s on Contour Bunds  
+ 
+Hello friends.  Welcome to NPTEL online certification course on S oil and Water 
+Conservation Engineering.  I am Rajendra Singh,  Professor in the Agricultural and Food 
+Engineering Department of IIT Kharagpur.  We are in week number 3 ; this is lecture 13.  
+And today , we will deal with Problems on Contour Bunds.  Just to give y ou an  idea about 
+the course content that we are covering this week.  
+(Refer Slide Time: 00:43)  
+ 
+ We started this week lecture 11 introducing bunds.  Then the last lecture that is lecture 
+12, we went through various parameters of the concepts of designing co ntour bunds.  And 
+today's lecture , we will apply some of those principles to see how to solve problems 
+dealing with the design of contour bunds.  A lecture 14 , we will go through graded bunds, 
+another kind of bunds, which we have read already.  And in lecture  15, we will go and 
+solve problems on graded bunds.  So, let us begin today's lecture with problem number 1.  (Refer Slide Time: 01:20)  
+ 
+ The first question is using  Ramser’s formula;  calculate the vertical interval of the 
+contour bunds on a 4.5 per  cent la nd slope.  The rainfall is moderate with an average 
+infiltration rate and good coverage of the land with vegetation.  
+So, it is  a straightforward problem,  where we have to use the Ramser formula for finding 
+out the vertical interval for contour bunds for a l and, a condition whe re the slope is 4.5 
+per cent.  
+Now, we have been given to this problem.  The l and slope is generally designated by S 
+4.5 per  cent, and we know the Ramser formula , which is straightforward is VI,  
+VI = 0.3(S/3  + 2) 
+VI = 0.3(4.5/3 + 2) = 0. 3(1.5 + 2) = 1.05 m 
+Do y ou remember what vertical intervals are? Should I repeat that ? I think let us repeat 
+that vertical interval is,  we said that we construct a series of contour bunds.  And if we 
+take two consecutive bunds  and then the corresponding poi nt between these two bunds , 
+let us say upstream toe we select.  And if w e find out the vertical distance between these 
+2 points,  that is referred to the as vertical interval.  So, this is the vertical interval we are 
+talking about. So, for this given conditi on, we got it 1.05 meters in this problem.  But there is another catch. Becau se in the Ramser formula , only S is considered; that is, 
+the land slope is considered.  So, that means  we need to do some more modifications to 
+this as per the given condition.  
+(Refer Slide Time: 03:51)  
+ 
+And the condition says that since the Ramser formula considers  land slope only.  It is 
+recommended to amend that is the value;  we have calculated 1.05 that needs to be 
+amended  calculated value of vertical interval for soil infiltrati on rate and the crop cover 
+condition or conservation practices.  
+So, by considering just the land slope , we have calculated the value of vertical interval , 
+which is 1.05 meters,  but then we have to also take into account the soil infiltration rate 
+and crop condition or conservation practices which is also given in the problem.  
+So, for tha t, we know there are two conditions ; that is,  for soils having high infiltration 
+and permeability.  And good conservation practice , it is recommended that VI is 
+increased by 25 per  cent; that is , the calculated VI is increased by 25 per  cent.  
+The other condition s ays that for soils having a low rate of infiltration or permeability,  
+particularly when used with unfavourable cropping condition s, then VI is decreased by 
+15 per  cent. So, by using the Ramser formula, first , we have to calculate the vertical 
+interval,  and then app ly this knowledge about the soil condition and crop or conservation practice condition , and accordingly , we have to increase or decrease the increase or 
+decrease the calculated vertical interval.  
+(Refer Slide Time: 05:30)  
+ 
+Now, in the problem , we have been g iven that we have an average infiltration rate and 
+good ground coverage. That simply means what we belong to the first condition.  And we 
+may increase the vertical interval by 25 per  cent.   
+So, the final vertical interval , VI = 1.05 ×1.25 = 1. 31 m  
+So, for the given system,  the vertical interval is 1.31 meters that is the final answer using 
+the Ramse s formula. So, this is how we have to straig ht forward apply this particular 
+problem ; we saw that we had to straight forward apply the Ramse s formula , where the 
+land slope was given.  
+So, by putting the land slope into our equation Ramse s formula , we found out vertical 
+interval.  But we also know that the Ram ser formul a only considers the land slope,  and it 
+is recommended that based on the soil characteristics and the cover characteristics or the 
+conservation practice characteristics.  We need to amend the valu e to increase or 
+decrease.  And accordingly , we took our decis ion and for the given conditions in this 
+problem we have to increase the  vertical interval by 25 per  cent.  And that is how we got 
+the final value of 1.31 meters.   (Refer Slide Time: 07:00)  
+ 
+Let us take another problem  which says that calcul ate the height and cross -sectional area 
+of contour bund to be constructed on a land slope of 5 per  cent.  The other details are as 
+follows.  Rainfall excess for the 24-hour duration is 100 centimetres.  The h orizontal 
+interval is 10 meters,  and the depth of water flowing over the weir is 30 centimetres. So, 
+we have been given a land slope.  We have been given rainfall value for which we need 
+to design the bund.  The horizontal interval is already given , and the depth of water 
+flowing over the weir is also given. So, we have to  calculate the height and cross -
+sectional area of the bund.  
+So, coming to a solution first , let us see what the data available ar e; the data given are 
+land slope along with the symbols which we use.  Normally the symbol will the land 
+slope symbol we use is capital S . Rainfall excess for the 24-hour duration we have  to use 
+the symbol , Re and that is given as 100 centimetres in SI units we are converting, and we 
+are writing as 1 meter.  The horizontal interval , which is designated in HI, is given in 10 
+meter s. And the depth of water flow over the weir is 30 centimetres or 0.3 meter s. So, 
+these are the values that are already given to S. (Refer Slide Time: 08:30)  
+ 
+Now, we know that the relationship between VI and HI is given by the equation number 
+being referred  to. Here is the equation number that was used in the previous lecture. That 
+is lecture number 12 basically , and that says that HI equals VI by S into 100  and in fact, 
+you do not even need to remember the formulae.  If you just understand the fundamentals 
+understan d the basics,  what is HI? What VI? What is the slope ? Then basically , you do 
+not even need to remember the formula. For example, I will show you this.  
+So, these are our two neighbouring bunds.  And we said that the horizontal interval 
+between these two is referred t o as HI. And the vertical interval between these two, any 
+corresponding point  we can take is referred to as vertical interval VI. So, this is  are the 
+two symbols VI and HI. And S here is the land slope ; that is, this is basically the la nd 
+slope belongs to this land here,  this S per cent.  
+Now, when we say S per cent means what ? That is , there is a n S meter of fall over 100 
+meter s. S per cent slope means a fall of S meter over a 100-meter horizontal distance. So, 
+that is how S by 100 we are w riting.  
+Now, 1 meter that simply means what? 1 -meter fall will be equal to what ? 100 by S. And 
+what we are trying to find out? What is equivalent of VI meter s of all that is vertical 
+interval is nothing but the fall or difference in elevation , which is in slope terms it is a 
+fall of VI. So, VI meter fall will be equal to 100 S times VI. So, this is HI, and this is 
+nothing but HI. So, here the same formula is written here  HI = VI/S ×100. 
+So, I mean , you do not need to remember the fo rmula . If you just under stand the 
+concepts , you can derive the equations.  Anytime you require if you remember well and 
+good,  but you do not have to put yourself under pressure for memorizing the formula 
+because you can always derive the formula from first pr inciples most of these . 
+(Refer Slide Time: 11:43)  
+ 
+So, once we know that so now, we know  that HI was given as 10 meters , so, by putting 
+the value here in this equation ,  
+HI = VI/S ×100 
+10 = VI/S ×100 
+S is given as 5 . we can calculate the value of VI, which will be obvious . So, VI equals 
+0.5 meters.  (Refer Slide Time: 12:14)  
+ 
+So, that simpl y means the first thing we have calculated is the vertical interval which is 
+0.5 meters for the given data.  
+(Refer Slide Time: 12:25)  
+ 
+Now, the next important thing which we have to do is th at we have to calculate the 
+theoretical height  because we have to calcul ate the height in cross -section.  The 
+theoretical height of the bund , which is also equal to the depth of water impounding 
+behind the bund,  is given by equation number 8 , which we deriv ed in the previous class.  
+And that is given by  h = √(2×Re×VI) 
+Now, this again is I mentioned that you would actually do not need to remember any 
+formula . You can always derive this formula also. So, let us try to derive this formula.  
+So, for this formula again , I have to draw the definition sketch.  So, these are the two 
+neighbouring bunds. This we can little bit increase the height also just to  so, that they 
+look similar.  So, this is one bund,  and this is the neighbouring bund.  And this is what we 
+are calling h; that is the h we are calculating.  And let us say that the width of this 
+impounded water is w. So, this is h; this is w. 
+Similarly, we can also say that this is a vertical interval.  And this is the horizontal 
+interval that we have we k now already just now we also derived.  So now here we applied 
+the pr inciple of equivalent triangles , so that means  h by VI is equal to w by HI. That is 
+the horizontal a vertical of this.  And the base of these two triangles.  Or from here , w is 
+equal to h times  HI by VI. 
+And then the other side is that this is nothing but th e area of impounded water.  Here for 
+simplicity , we are neglecting this.  So, this is nothing but an area of the triangle this 
+triangle.  And the area of this triangle is half w into h , or we can put the  values of w , 
+which we calculated  
+So, this is the volume  of water or area of the water that is collected  = 1/2×h2×HI/VI  
+This is one side of this story.  
+ (Refer Slide Time: 16:15)  
+ 
+The v olume of water to be stored is nothing,  but rainfall which is here Re times HI 
+because that is the total area. And into one w hich is perpendicular to the board . So now, 
+we have to equate the volume of water to be stored and the volume of water  that is 
+stored.  
+1/2×h2×HI/VI = R e×HI 
+h = √(2×Re×VI)  
+So, you do not have to remember the formula.  You can derive from th e first principles if 
+you know if you understand the concept. So, this is how we obtain that the height of the 
+impounding or the height of the vertical bund  height of the bund wi ll be  
+h = √(2×Re×VI)  
+And because the  value of Re is known to us,  and VI is known to us   
+h = √(2×1×0.5) = 1.0 m  
+Now, the practical height of this is the theoretical height. So, the practical height of bund 
+we every time we know will  include the depth of wa ter flow over the weir , which is 
+given as 0.3 meters.  And of course, freeboard , which we assumed typically assumed as 
+25 per  cent of h.  (Refer Slide Time: 18:08)  
+ 
+So, using that , the total height of the bund will be  
+= h + the depth of wat er flow over we ir + freeboard  
+= 1+0.30+0.25 ×1 = 1.55 m  
+Now, the cross -sectional area is nothing but a trapezoidal  cross -section we are talking 
+about all the time,  and for bund , we are using a trapezoidal cross -section. So, this is your 
+base width.  This is top width,  and this is nothing but height.  So, we know that the area of 
+cross -section of a trapezoid is    
+A = ½(base width  + top width) × height 
+So, this is the same thing , which is being used even here.   
+And now here what we are doing is that we are assuming top width  we remember in the 
+theoret ical part we said that for Indian condition,  it is recommended that top width could 
+be 0.5 meters and bottom width could be taken as 2 meters that is a theoretical value 
+recommended.  And as a thumb rule and let us say that we are  assuming that our base 
+width and top width remain  the same.  
+So, then putting the value of top width and base  width as 2 and 0.5 meters in this 
+problem  and height we have already calculated 1.55 meters the total cross -sectional area 
+will come   A = 1/2 (2+0. 5)×1.55 = 1.94 m2 
+You remember, another thumb rule was there that in no case when these values were 
+given recommended.  It also said that in no case the cross -sectional area of the bund 
+should not be less than 1 square meter.  So, in this case , it is 1.94 sq uare meter s. So, that 
+condition is being met.  
+So, that means, now we have solved the required answers that are we have obtained the 
+required answer that is the height of the bund we have calculated it is 1.55 meters.  And 
+the cross -sectional area of the bund we have calculat ed is 1.94 square meter s. So, 
+basically , this problem  demonstrates that formulae are to be used, but you need not 
+remember the formulae.  
+You can always obtain them from the first principles , provided you understand the 
+concepts. So, that  eases the press ure on you ; otherwise, you have to remember the 
+formula , and if you forget anything , then; obviously, the answer will be completely 
+wrong.  So, please try to understand how to derive the formula while solving the 
+problems.  
+(Refer Slide Time:  20:55)  
+ 
+Now, we take up another problem that is the third problem , which says that calculate the 
+storage area required and dimensions of contour bund in loam soil having an average 
+slope of 2.5 per  cent.  The maximum expected rainfall having a 10-year rec urrence interval is 18 ce ntimet res. 
+The infiltration capacity of the soil of the area is such that 40 per  cent of rainfall is 
+absorbed in the field.  The rainfall in the area is moderate in both soil , and cover 
+conditions are favourable for erosion control.  
+So, in the previous case , the previous problem we saw we were straight  away given the 
+rainfall.  But here, rainfall is given, but at the same time , infiltration capacity is given.  So, 
+that means  we have to find out how much runoff really we have to handle in this 
+particular problem.  
+(Refer Slide Time: 21:47)  
+ 
+So, let us see that what are data which are available and what we need to calculate.  So, 
+here the land slope is given as 2.5 per  cent.  Soil type is loam ; rainfall is moderate in the 
+area, soil and cov er conditions are favourabl e for erosion control.  And maximum 
+expected rainfall having ten years recurrence interval is 18 centimetres or 0.18 meters.  
+And also , it is the given in the problem that 40 per  cent of the rainfall is absorbed 
+infiltration,  which  simply means that 60 per  cent o f rain rainfall gets converted into 
+runoff which is wh at normally we term as runoff potential.  So, runoff potentially is 60 
+per cent of the rainfall.  
+So, and the bund system we need to design to handle the maximum runoff pot ential, that 
+is, we want to handl e this particular runoff  that should be absorbed within the bund.  So, the maximum runoff to store will be 60 per  cent of rainfall or 0.6 of 0.18 that is the 
+rainfall value.  So, 0.108 meters is the maximum runoff depth we ha ve to conserve, or we 
+have to han dle the bund should be able to handle.  
+(Refer Slide Time: 22:59)  
+ 
+Now, the storage area required will be , obviously, in the maximum runoff to be stored 
+times, horizontal interval because that is the catchment area we alway s say, that whatever 
+rainfall occ urs within two bunds we want to conserve within in between those two bunds. 
+So, the total storage area, or the total storage area required , will be to handle the 
+maximum runoff to be stored times HI.  And the HI is we know j ust now we derived this 
+equation  
+HI = VI/S ×100. 
+In this case, neither HI nor VI are given.  
+So, we have to use one of the formulas ; we saw that there is a general relationship there 
+is Ramser formula , and there is cox formula , and I said the cox formula i s most 
+commonly use d. 
+So, let us say that we use cox formula for finding out vertical interval s. And the cox 
+formula is given as  
+VI = 0.3(XS+Y)  where x is the rainfall facto r and y is the infiltration rate factor , and these have to be 
+obtained from standa rd tables. So, let us see that what are the values given  in tables for 
+given conditions.  
+(Refer Slide Time: 24:13)  
+ 
+So, in our case , rainfall is moderate. So, for rainfall , we have to refer to the upper table,  
+and when it is moderate , the value of x is 0.6. So, for our case value of x is 0.6.  
+Similarly, soil and cover conditions we are given that if they are favourable for erosion 
+control and when they are favourable for erosion control.  Then we have to use the 
+maximum value of 2.  And so , their value is eq ual to 2. So, x and y come  out to be  0.6 
+and 2 in our case.  (Refer Slide Time: 24:49)  
+ 
+So now , coming back to the Ramser formula and putting x equals 0.6 and y equals 2 in 
+the equation,   
+VI = 0.3(XS+Y)  = 0.3(0.6 ×2.5+2) = 1.05 m  
+Thus, the horizont al interv al,  
+HI = (VI/S)×100 = (1.05/2 .5)×100 = 42 m  
+So, a storage area required , 
+A = max. runoff to be stored × HI = 0.108 ×42 = 4.54 m2 
+So, the bund cross -section should be decided. So, as to store 4.54 square meter s of water 
+behind it so, this is how we got what  the total storage volume that is required is . (Refer Slide Time: 25:43)  
+ 
+Now, for that , let us say that was our soil type is given as loam.  So, the side slope of the 
+bund will be 1.5 :1. And definition sketch let us say that we are saying that this is d depth 
+of water. The total storage area wil l have here two components; that is, a1 and a 2. So, 
+there are two areas , a1 and a 2, that is where a 2 is the area of triangle AFE and a 1 is the 
+area of triangle AF E1 where E D1 represents the point of intersection of water surface and 
+the face of the adjoining upstream bund. So, if you go further , this water surface will 
+meet the face of that dam. So, that is how th ese two areas. So, basically , this is the 
+storage area ; some of the m say a1 and a 2 is the storage area th at is available with us.  
+(Refer Slide Time: 26:50)  
+ So, here , 
+a1 + a2 = A = 4.54  
+(1/2) ×d×40d + (1/2)×d× 1.5d = 4.54  
+20.75d2 = 4.54  
+d = 0.4 7 m 
+So, the depth of water that is to be stored is 0.47 m . But every time we use a free board 
+and 25 per  cent.  So, if we 25 per cent of 0.47 = 0.12 m.  
+So, the height of the dam = 0.47 + 0.12 = 0.59 m. 
+And for base width , we already saw that we use the seepage line concept.  
+(Refer Slide Time: 27:57)  
+ 
+That is , for stability,  a seepage line must pass through the base of the  dam.  And seepage 
+line we defined that is the frenetic top  line is referred to as seepage line.  And the slope is 
+5:1. So obviously, this is the total base width which has two components this which is 
+equal to 1.5 d,  and this which is equal to 5 d ; that sim ply means that the total base width 
+is 6.5 d and 6.5 d and because we know the value of d already 0.47 meters; that means, 
+base width will be 3.06 meters.  
+And the top width will be; obviously, this is what we have to deduct from the base width.   
+Top width = 3.06  - 2×1.5×0.59 = 1.2 9 m (Refer Slide Time: 29:20)  
+ 
+So, thus we can write that the total answer : we can write th e storage area required for 
+4.54 m2; Vertical interval = 1.05 m ; horizontal interval  = 42 m ; height of the bund = 
+0.59 m ; base width  = 3.06 m; top width of 1.29 m .  
+(Refer Slide Time: 29:43)  
+ 
+Now, let us take the last problem. That is a calculate the volume of earth work for a 100 -
+hectare catchment which has a land slope of 3 per  cent.  The following dimensions are 
+given the vertical interva l is given , the base width is given , the top width is given,  the height of the bund is given , and we have to also determine the total area lost due to 
+bunding. So, let us say how to handle this problem.  
+(Refer Slide Time: 30:08)  
+ 
+So, the first thing we re quire to calculate the total earth work per hectare is the t otal 
+length of bund per hectare times cross -sectional area. Because that is the total earth work 
+required.  And the length of bund per hectare is given by  
+L = 100S/VI = 100 ×3/1.3 = 230.8 m  
+And for the total length of the bund per hectare, we also add 30 per  cent to account for 
+side and lateral bunds.  So, the total length of the bund will be 1.3 ×230.8 = 300 m . (Refer Slide Time: 30:50)  
+ 
+So now , given the base width,  top width and height of t he bund , the cross -section area of 
+the bund can be easily calculated . We know th at this is a trapezoidal section.  So, the 
+cross -sectional area comes out to be  
+A = (2.25+0.45)/2 ×0.90 = 1.215 m2 
+(Refer Slide Time: 31:11)  
+ 
+  
+If the length  of the bund is known, then th e total earth work per hectare will be  
+= total length of the bund per hectare  × cross -sectional area  
+= 300 ×1.215 = 364.5 m3  Because the total area of the watershed is 100 hectares.  So, the total earth work will be 
+100 × 364.5  = 36450 m3. 
+(Refer Slide Time:  31:44)  
+ 
+Similarly, we can also calculate the area lost.  The area lost under the bund per hectare is 
+given by  
+AL = (100S/VI) ×b = (100 ×3×2.25)/1.3  = 519.2 m2 
+But we also need to consider the area lost due to side and lateral b unds.  So, that is why 
+we have  to also add 30 per  cent here.  So, the total area lost per hectare is 1.3  × 519.2 = 
+675 m2 
+ For 100 hectares , the total area lost will be 675 × 100 = 67500 m2. 
+So, for the 100 -year catchment , the earthwork required is 36450 cubic meters.  And total 
+area lost is 67500 square meters.  
+So, with this , we have seen four different problems. The f irst problem was the direct 
+application of the Ramser formula ; in the equation , in problem numbe r 2, we were given 
+the direct rainfall value, and we had to calculate the height and the cross -section.  In 
+problem number 3 , we were given runoff potential or re infiltration potential, and then 
+we had to first calculate the runoff potential.  In problem numb er 2, we assumed the top 
+width and bottom width,  but in problem number 3, we calculated for actual water that was to be stored.  And in problem 4, we saw how to calculate the area lost and the total 
+earth work which is required to be done.  
+So, with this , we have probably covered all gambles of problems or design s that could 
+come.  But you have to , of course, practice some more problems , and we will put some 
+problems into the assignment as well.  
+Thank you very much.  

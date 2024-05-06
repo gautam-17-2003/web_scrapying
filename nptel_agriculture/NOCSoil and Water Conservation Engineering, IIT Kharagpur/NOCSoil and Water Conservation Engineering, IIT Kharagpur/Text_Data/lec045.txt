@@ -1,0 +1,196 @@
+ 
+ Soil and Water Conservation Engineering  
+Dr. Poulomi Ganguli  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 48 
+Chute Spillway Design – I 
+ 
+Hello. In the lecture 47, we studied the D esign of Chute Spillway  Principle. N ow, we are 
+going to solve some design problem , so that you understand how to design the  chute 
+spillway . So, this lecture is again divided into two parts that is part 1 and then part 2. 
+And now , we are going to start the part 1 design problem . 
+(Refer Slide Time: 00:41)  
+ 
+So, Chute Spillway Design P art 1.  
+ (Refer Slide Time: 00:45)  
+ 
+Now, the coming to the problem in the first  what are  the dimension given , the spillway 
+crest level is 200 meter, and the level  of bottom flank at which low ogee weir is to be 
+constructed  is 192 meter , design discharge is  5,000 cumecs , downstream tail water 
+corresponding to this discharge  is 103 meter . The spillway length consists of 5 span of  
+10 meter  clear wi dth. And the thickness of each spillway is to assume 3 meter  and 
+assume if there is any data needed . 
+(Refer Slide Time: 01:29)  
+ 
+  
+ So, first we go for the discharge , and we  go for the trial and error method here first . And 
+see how our assumption is correct or not . And if it does  not follow the correct 
+assumption , then we have to  redesign our problem . So, first we calculate the design of 
+the approach channel , so the first component of the  chute spillway . So, we first calculate 
+the Q  using this equation , so H e is the  height total height that combination of design  
+height as well as the velocity of approach . 
+And assuming the coefficient of discharge as 2.18, and taking L e as the  clear wi dth 
+which is again an  approximate . So, L e as given in the data , we have a  10 meter  span is 
+the spillway span of 5 spans are located h ere. So, 10 meter of each wi dth and the 5  spans , 
+so this come out to be  10 multiplied by 5,  so 50 meter that way going to plug here . And 
+C is the coefficient of discharge . And in that way after plugging this one to equation 1,  
+we have H as 12.58  meter . So, this is the H e is upstream level is designed here . 
+(Refer Slide Time: 02:57)  
+ 
+Now, the upstream  water level this one is a combination of the crest  level plus H. So, the 
+crest level is given in the problem as  200 meter  the spillway crest level , which is located 
+here. So, 200 meter  plus our calculated height , now it comes out to be 212.8 . Now, bed 
+level of river in a flank , it is given as  192 meter  in the problem . The level of bottom flank 
+at which low ogee weir  is to be constructed is  192 meter . So, we plug it  here, so total 
+water depth what will be it is ? This is the  subtraction of the upstream water level minus 
+the bed level in the river  flank , so which comes out to be  20.8 meter .  
+ Now, we assume that the channel is  1 is to 1  of the side slope . Now, the w idth of the 
+channel B  is total length of the spillway that is  50 meter . And since , we assume d it as a 
+trapezoidal , so 50 plus 4 into 3, so  1 is to 1 slope , so it is the total width  of the channel is  
+if we assume it is as a plane , so it is trapezoidal chann el. 
+(Refer Slide Time: 04:37)  
+ 
+So, we have this , so this is the  50 meter and 1  is to 1 slope, so  we calculate this as  50 
+plus 4 into 3 62 meter . Now, coming to the area of the channel , it is a B  plus y into the 
+depth or the y thickness here , so it comes o ut to be  1720 square meter  is the area . So, this 
+is the total dimension of the channel .  
+ (Refer Slide Time: 05:09)  
+ 
+ 
+Now, coming to the velocity of approach , which is  cube the discharge divided by the 
+area total area of the channel . So, since the discharg e is given in the problem is  5,000 
+cumecs and a calculated area is  1720 square meter , we divide  this and we get the velocity 
+of app roach , which comes out to be  2.9 meter per second . Now, the velocity head is V 
+square upon  2 g, which is again a  calculation from the kinetic head , so this is now comes 
+out to be  0.43 meter . 
+So, once we ha ve this , we calculated the calculate the  wetted perimeter of the channel . 
+So, this is  the velocity head here  0.43 meter  and now , coming to the calc ulation  of wetted 
+perimeter . Since, we assume that channel as the trapezoidal , so it is the formula is B plus  
+2 root 2  d, where is d is the water depth . So, B is the thickness of the channel that we 
+calculate d in previous step in 2 root 2  and 2  d that we calculated early  earlier . So, the 
+depth of water is coming out to be here in calculation of the wetted  perimeter . So, the 
+wetted  perimeter of the channel comes out to be 120.8 meter .  
+ (Refer Slide Time: 06:51)  
+ 
+ 
+Now,  we plug this into equation of hydraulic radius , so since it is trape zoidal channels . 
+So, R = A/ P, so  this comes out to be  14.2 meter . So, this is the hydraulic radius . And 
+now, we calculate the frictional head . So, assuming  the length of the channel as 160  
+meter , the head loss due to friction up to the sp illway crest is giv en by the M anning’s  
+formula . So, the head loss is calculated using  the M anning’s  formula that we also 
+calculate  studied in the spillway design . 
+So, here we use the equation . So, here the s  comes from the M anning ’s formula . So, this 
+one after plugging this , we comes  this it the equation reduced to this form . And here we 
+calculate the h f the head loss due to friction , where  we assume the Manning ’s formula  
+roughness coefficient as  0.019 , which is an approximation or the value for a natural bed 
+channel .  
+ (Refer  Slide Time: 08:25 ) 
+ 
+Now, the level of upstream  water level . So, upstream water level plus the velocity head  
+minus head loss up to the spillway crest . So, here the upstream water level was 
+calculated as  212.8, and velocity head we calculate as  0.43, and h ead loss due to friction 
+was 0.016 that we calculate here , and that comes out to be  213.2  meter .  
+Hence, the head over the crest including the velocity of approach is  213.2  minus  200 
+meter , which is given in the  problem that is spillway crest level , if you  remember . So, 
+this comes out to be  H e as 13.21  meter . And now, the H d is a combination of  H a and H 
+e sorry , so H e is a summation of  H a plus H  d. So, from that we can calculate the value 
+of H d as H e minus H  a, so that comes out to be  12.78 meter .  
+ (Refer Slide Time: 10:03)  
+ 
+Now, we have to correct a coefficient of discharge . So, how we calculate  coefficient of 
+discharge ? So, there will be  correction in number of way, so correction due to the height 
+of the weir. So, this kind of  graph is  always given with along with the designed problem . 
+So, h upon  H d is now we calculated h as 8  meter is given in the problem , and H d we 
+calculated as 12.78 , so it comes out to be 0.63.  And H e upon  H d is again we calcu late 
+as one 1.03 . So, now, we have the ratio betwe en H e by H d, whic h is 1.03  here. So, if we  
+click our pen here and we take the value here upon the C by C  d, we find that C by C  d is 
+comes out to be 0.98 . So, here is the value . 
+(Refer Slide Time: 11:20)  
+  
+ Now, we correct  for h upon  H d, this is given . And this is the corresponding slope at 1 is 
+to 1 we assume that trapezoidal channel with 1 is to 1  slope , and the corresponding 
+correction factor comes out to be 1.008 . 
+(Refer Slide Time: 11:43)  
+ 
+Now, the total correction factor is now combination of C is 2.2 multiplied by 0.98,  and 
+then 1.008, so  the value of corr ection factor come s out to be 2.17 . Now, coming to the 
+effective length of the  spillway  crest . So, L we use this equation here . Now, we go for 
+the calculation of L e. So, assume  we assume that  K p as 0.01, and K a as 0.1. So, now 
+we calculate the L e  
+ 
+as this is the  50 meter , and we plug this in the equation , and L e comes out to be 46.3 
+meter . Now, the correct head will  H e is given by following equation . So, we plug 
+everything back in the  equat ion of discharge that is Q  equal to . So, we plug  everything 
+here, so C is 2.17, L of the channel is 46,  and the discharge is  5,000 and then we solve 
+for H e.  
+ (Refer Slide Time: 13:11)  
+ 
+So, the H e is comes out to be 13.6 meter . Hence, corrected design height is a subtraction  
+of H e and H a, where  H a is the velocity of ap proach , now it co mes out to be 13.2  meter . 
+Hence, the design shall be don e for a design head equal to 13.2  meter . 
+(Refer Slide Time: 13:31)  
+ 
+Now, design of the crest  profile . So, design o f the crest  profile is the ratio between  H a 
+by H  e. So, we have the  H a as the velocity  of approach , and H e is again a combination  
+H a plus H d, which comes out to be  0.0315 . And now we calculate h by H e, which 
+comes out be 0.58. S ince, H a by H e lies between 0 to 0.08,  it is the value is 0.0135   
+ which is between this . So, and h by  H e is 0.58,  we can  directly equation use this 
+equation . So, these equations are given in the next slide . 
+(Refer Slide Time: 14:13)  
+ 
+So, as we say  from the previous slide  that a downstream profile of the low ogee weir  is 
+given based on the h by h by  H e value  and if how much is the ratio of h by H e ranges , 
+and depending upon  H a by H e, we change the equation of the ogee downstream profile , 
+so we use this kind of equation. So, we plug everything into this equation , and we get a 
+value of y reduced to like this . 
+(Refer Slide Time: 14:49)  
+  
+ 
+ 
+ 
+And a position of now we coming to the position of the downstream apron of the 
+spillway  so, the apron or the toe of the spillway should b e at such an elevation that it 
+does not affect the coefficient of  discharge . So, this is the coefficient of discharge . 
+Hence, the maximum apron  elevation is that T E L, the TEL  water level , and which is 
+subtracted by de sign height and the depth , so which i s comes out to be 190.41  meter . 
+(Refer Slide Time: 15:19)  
+ 
+Hence, provide the toe of the spillway at a level of 190.4  meter . Now, we can calculate 
+the discharge intensity  downstream of the spillway piers , which is again a ratio of  
+discharge divided by are a. So, area we calculate early , so this is  around 80.7 meter 
+square per second . So, this is the specific d ischarge , so the unit is in meter  square per 
+second . Now, if d is the width, then the velocity head will be  80 the discharge  divided by 
+the depth in m eter per second . 
+Now, we calculate the specific energy . Now, we going for the stilling basin design , so we 
+need the specific energy , which is the depth plus the kinetic head . So, d divide d V square  
+by 2 g, where we calculate from here V, and the  2 g g is the acceleration due to gravity . 
+But, the specific energy of the spillway is  213 meter minus 194.4 , so it comes out to be  
+23.214 . So, we plug everything in the equation of the  specific energy , we have given the  
+ specific en ergy as 23.21  and specific energy u sing the equation here , so we can calculate 
+d here . 
+(Refer Slide Time: 16:49)  
+ 
+So, it is a quadratic equation , and by we can calculate by trial and error method , the 
+quadratic equation or we can use a numerical  method or computer programming to solve 
+this kind of equation , and we comes the d value as 4.2  meter . 
+(Refer Slide Time: 17:09)  
+ 
+Now, the downstream  profile is design ed between the relative level  200 meter  and the 
+relative apron level 190.4  meter . Hence, the maximum ordinate y is given  is the  
+ subtr action between  200 and this 190.4,  which comes out to be  9.6 meter . Now, since we 
+are calculating the profile , we plug everything into this equation , which we calculated 
+earlier , so x comes out to be 15.08. N ow, the remaining co -ordinates of the downstream  
+profile will vary between x and 15.08,  which can be worked out in table 2. 
+(Refer Slide Time: 17:53)  
+ 
+So, this is the coordinates of the downstream profile . Here as you can see this is the x 
+level , this is the x the horizontal and the vertical axis , it is like a projectile . So, once you 
+plug this values here , you get the x value corresponding y value  the related to x value , 
+you will  get this one this curve . So, this is the downstream profile of the  coordinates .  
+ (Refer Slide Time: 18:19)  
+ 
+Now, the coordin ates of the upstream profile it is vary according to this . So, this is  listed 
+here. So, this way , we can design the complete  design a spillway . 
+So, thank you . 

@@ -1,0 +1,315 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 09 
+Modification s in Universal soil loss  Equation – Part II  
+ 
+Welcome friends . Welcome back to NPTEL  online certification course  entitled Soil and 
+Water Conservation  Engineering . I am Rajendra Singh, professor in the Agricultural and 
+Food Engineering Department , IIT, Kharagpur . We are in week number 2. It is lecture 
+number  9, and the topic is Modific ations in Universal soil loss, equation part 2 that 
+simply means that it is a continuation of the  previous lecture .  
+In the previous lecture also, we saw  modification s in the Universal Soil Loss  Equation 
+that was part 1 and today , we continue  onwards  to go to part 2 to give you an idea about 
+the course cont ent for this week . Once again , in lecture  6, we start ed with soil loss 
+estimation and there, we saw the use of one of the most famous  equations  known as the 
+Universal Soil Loss  Equation for estimating the  soil loss .  
+(Refer Slide Time: 01:19)  
+ 
+Lecture 7 we spent on determini ng two important components of the Universal Soil Loss 
+Equation : erosivity  and erodibility . And in lecture  8, we saw that the Universal Soil Loss  
+Equation has been modified to  modif y the Universal Soil Loss  Equation and just to remind you  in modification , is that rainfall erosivity  index or rainfall erosivity  factor  
+which is a part of universal soil loss  equation that is replaced by a ru noff factor .  
+In the runoff factor , there are two unknowns:  VQ., which is surface runoff volume 
+normally determined using the SCS curve number. I n lecture  8, in part 1, we covered th e 
+Modifi ed Universal Soil Loss  Equation . The second  unknown is  QP or peak rate of 
+runoff , and in today lecture , lecture  9, we will go t hrough the modifications inve rse of 
+soil loss equation part 2, and we will start with the how -to find  QP And then, we will 
+further go ahead , and in the last lecture of this week , we will cove r soil loss 
+measurements . 
+(Refer Slide Time: 02:3 1) 
+ 
+So, let us begin with  today 's lecture  to give you once again an idea about the modified 
+form of Universal Soil Loss  Equation . So, the modified form  of universal soil loss  
+equation is given by  William 's in 1975 . It is given by the following equation : 
+A = 11 .8(V Q.QP)0.56K.LS.C.P  
+You remember the universal soil loss  equation original form is A = R.K.LS.C.P 
+So, basically , this R is the rainfall erosivity  index replaced by runoff factor here and here 
+just now I mentioned that VQ is runoff volume . And this runoff  volume is estimated using 
+the SCS curve number method , and the other unknown is  QP, which is peak flow 
+estimated using the rational method . (Refer Slide Time: 03:36)  
+ 
+Let us start with the rational method  proposed by Mulvaney,  an Irish engineer  way back 
+in 1851 , and this relationship gives as: 
+Q = C .i.A/36  
+Where Q is the peak runoff rate in m3/s or  cumec , C is a dime nsion less runoff 
+coefficient , i is the average rainfall intensity for a duration equal to the time of 
+concentration and  at the desired freque ncy or return period  (cm/h) , and A is the 
+catchment area in hectares . 
+So, once again , because we are using this  empirical equation , if we have to use this 
+constant 36, we must always remember that unit of i is in cm/h  and unit of A is hectares ; 
+that we hav e to remember . And like while discussing the Universal Soil Loss  Equation a 
+few lecture s back , I told you that there are certain things , as a student , you are always 
+expected to remember . And the rational formula is one such thing that if you have read 
+hydrology , if you say  that you  are an agricultural engineer , then it is  expected  that you 
+will never forget  the rational formula a nd its variables . (Refer Slide Time: 05:56)  
+ 
+Now, there are certain assumptions  of rational formu la. These are the assumptions o f the 
+rational formula that is rainfall is uniformly distributed over the catchment. The  second 
+assumption is rainfall is uniformly distributed over the storm duration . The third 
+assumption reads  that the rainfall rate resulting from a ny rainfall ev ent is maximum 
+when the rainfall  lasts for a duration equal to or greater than the  time of  concentration . 
+The fourth assumption is that the return period of a peak  runoff is the same as that of 
+rainfall intensity. T he last one says that the  fraction of rainfall t hat becomes runoff  is 
+independent of r ainfall intensity or volume .  
+Let us take th ese assumption s one by one , and basic ally, you can see here the first one 
+says that whatever be the area of your catchment rainfall is assumed  to be uniform 
+throughout . So, be they  area of 10 hectare s or 10 square kilomet res, the assumption s say 
+that rainfall  uniformly distributed over the entire catchment second is about the storm 
+duration , the again the assu mption say s that the storm duration could be of 1 hour or 5-
+hour dur ation . Still,  rainfall intensity remain s. It is the assumption t hat rainfall intensity 
+remains uniform over the entire duration . The third one is the basic reason behind the 
+definition of  the intensity of rainfall you remember . In the rational formula, we define 
+rainfall intensity a s ever rainfall intensity having a duration equal to the time of 
+concentration . That comes because of the assumption that it is assumed that the run off 
+rate will be maximum when the rain fall lasts for a duration equal to or g reater than  the 
+time of concentrati on. So, if a rainfall event occurs for a duration equal to the time of concentration  or longer 
+duration , then the runoff rate will be maximum . That is, a peak rat e of runoff will be 
+generated , and the next one is that the ret urn period  of peak runoff  is the same as that of 
+that is there is a n equivalence between the rainfall and  runoff that is the assumption . So, 
+these are the assumption s, and as you can very well imagine , if you just concentrate on 
+the first 2, we know that t here are hardly any rainfall or other in other words , we see 
+many rainfall events where  it rains at one part of the area town  campus  whatever you 
+call, and it does  not rain  next, or maybe 500 meters away you will find that there is no 
+rain. 
+It is difficult  to get a rai nfall event where the rainfall is uniformly  distributed over the 
+entire  area of interest same thing  is true with the distribution of rainfall over th e storm 
+duration . We know that in any given rainfall event , the intensity of rainfall goes up  and 
+down ; the rain is  very heavily for some duration , then becomes milder  and then  might 
+become very heavy . So, hardly  there is any rainfall event where the  rainfall is uniformly 
+distributed over the storm duration s. 
+So, these are the assumptions that bring question mark s to the rational method . Still,  
+practically it is seen  that it gives a pretty good estimation of the peak  rate of runo ff and 
+that is why it is quite  properly use d in spite of  these limitation s as for  as the assumptio n 
+are concerned . 
+(Refer Slide Tim e: 09:34)  
+ Now, for estimation of peak runoff using the rational  method , these are the steps we need 
+to follow . We have to choose t he runoff coefficient C. We have to estimate the time of 
+concentration . We  have to select a frequency or return per iod for defining the rainfall 
+intens ity. We have to obtain the region's intensity duration frequency curve or IDF curve . 
+We have to determine the average rainfall intensity from  the IDF curve , which is i in the  
+C.i.A/36 and the n finally, use the rational f ormula to estimate  QP or peak rate of runoff . 
+So, these are the steps we need to follow . Let us see how to do these or take these steps 
+one by one . 
+(Refer Slide Time: 10:23)  
+ 
+So, the first thing is runoff coefficient  C, which represents the fraction of ru noff to 
+rainfall that is a part of rainfall that gets converted into runoff  characteris ed by  C. It 
+mean s integrated effects of infiltration , storage , evaporation , natural retention and 
+interception. So, there are many abstractions that we consider in the h ydrological cycle 
+before  rainfall occurs . There are specific  abstraction s before rainfall ge ts convert ed into a 
+runoff . The integrated effect of all those abstraction s are represented by this runoff  
+coefficient  C. Because each of these proces ses is quite c omplex to determine  the precise 
+value of  C, the designer m ust use  their experience and  judgment  in choosing its values . (Refer Slide Time: 11:26)  
+ 
+So, it is a bit subjective  matter , and there are standard tables available for obtaining the 
+value of C for that drainage area . For example, if you see streets  that are supposed to be 
+quite impervious in nature, that means that  no absorption of rainfall takes place there , 
+and the value of  C is 0.7 to 0.95.  This means that  because absorption i s less , almost 70 to 
+95 per cent o f the rainfall gets  converted into the runoff , then if you lo ok at the 
+agricultural area , say the flat agric ultural area , and if you look at the sandy loam soil 
+which is cultivated the value of  C is 0.2. That simply means that only 20 per cent of 
+rainfall is getting converted into runoff. So, depending upon whether we are in  the urban 
+area or agriculture area depending upon various kinds of uses , the value of  C can be re ad 
+and also there is a range . So, that is where  the modular or user experi ence comes into the  
+picture . (Refer Slide Time: 12:50)  
+ 
+Many times , when w e work in a catchment, there is a possible  like w e saw in the case  of 
+when we we re discussing  SCS curve  number , then also we saw that because  of the land -
+use change , curve number ch anges . And then, we have to use the weighted curve 
+number s. The same concept is use d here : we have to use a weighted runoff coefficient; 
+that means we in a given area if land supposes different land uses over two l and areas . 
+So, for corresponding to the se land uses , we have to get the value of  the runoff  
+coefficient  from the table . Then we have to get the weighted runoff coefficient for the 
+area by first multiplying the corresponding values of  C, and A summing up for all land 
+uses that will be the numerator  and denominator will be the total  area of the catchment 
+under consideration . So, this is how the weighted  runoff coefficient is obtained . (Refer Slide Time: 13:56)  
+ 
+Then the next important thing is the time of concentration we have to find . So, in the 
+rational  method , Tc or time of concentration  is used to determine rainfall intensity 
+because remember we define i for a duration equal t o the time of concentration . The time 
+of concentration is the time required f or water to flow from the hydrau lically most 
+remote point of  the basin to the outlet . 
+So, that means, for defining  Tc or finding  the Tc, we first have to find out hydraulically  
+the most remote point in the watershed and ; obviously, it dep ends on th e shape of the 
+watershed  also. So, if it could be a f an-shaped watershed, it could be elongat ed. So, 
+depending upon that , if it is elongated, it will obviously be longitudly placed with respect 
+to outlet wherein, if it is a fan shape,  then it may be little down  either on left or right 
+depend ing upon the fan shape basically . So, here basically , the time of concentration 
+means that time required for a drop of water root travel following the stream path to the 
+outlet . (Refer Slide Time: 15:19)  
+ 
+So, the time of concentration is estimated using a famous formula k nown as Kirpich  
+formula , which was given by Kirpich  in 1940.  
+Tc = 0.0195 L0.77 S-0.385 
+Where Tc is the time of concentration  in minutes , L is the maximum flow  length 
+measured along the drainage  line in meters , and S is basin slop e.  
+So, that simply means t hat to use the Kirpich  formula , we shoul d know the maximum 
+flow length a nd the basin slop e. So, these two components we have to know , and then we 
+can use the Kirpich  formula to find the  time of concentration . (Refer Slide Time: 16:13)  
+ 
+And i is defined fo r a time equal to the time of concentration and a for a given frequency . 
+So that means  we have to decide  on a frequency or return period , also referred to as  
+recurrence interval or return period . Choice  of frequency or return period depends on the 
+nature o f the project how risky the structure we are going to design. Standard tables are 
+availabl e for referring to these values . 
+(Refer Slide Time: 16:47)  
+ 
+For example , we can see this  table where  the guideline for the selection of return period  
+is the title . So, depen ding upon the structure , say, for example, if you have  simple  road drainage , then the return period could be 25 to 50 years w ere in . If you see  a serious 
+structure , we are going to design . For example, suppose you are going to design a 
+emergency sp illway for a dam where the risk to life of people is too high. In that case,  
+we take a 100 to 10,000  years return period , and PMP  means probable maximum 
+precipitation . So,  it depends on what ki nd of structure we are design ing based on that  
+recurrence inter val or return period is chosen . 
+(Refer Slide Time: 17:34)  
+ 
+Then once the rainfall duration , Tc and frequency are obtained , we can find the rainfall 
+intensity . We use the intensity duration frequency curve , IDF curve, which is popularly 
+known and  relates i that is rainfall intensity  in mm/h to storm  duration  T in hours . 
+So, here this i is plotted against  T for the differen t return period s. So, for example, if our  
+T of interest is , say 3 hours some where here and our  T value is 50, we can obviously find 
+out u sing this relationship : the intensity which we are interested in  or intensity for the 
+duration  equal to the time of concentration  and of desired frequencies . So, this is how we 
+use the IDF curve to find out the intensity duration frequency curve , and once everything 
+is decided , we have to use the rational formula simply . (Refer Slide Time: 18:39)  
+ 
+So, let us take a problem and see how to solve using rational formula . So, to problem 
+states that our catchment has a total area of 5 square kilomet res, the slope of the land i s 
+0.006 , and the maximum length of travel is 1.95 kilometres. A principal  spillway  has to 
+be designed to handle a flow  having a 25 year return period  the maximum depth of 
+rainfall in the catchment with 25 year return period  is given below .  
+That means  IDF characteristics are tabula ted he re there is . For different durations , the 
+depth of rainfall for 25 year return  period is given here  consider ing that the 2 km2 area 
+has a cultivated sandy loam and 3 km2 has cultivated tight clay  and estimate the peak 
+flow rate for de signing this spillway . So, almost all data or information is given , and we 
+have to design  the peak flow rat e using the rational formula . (Refer Slide Time: 19:48)  
+ 
+Remember that we have been given drainage area A to the solution . So, the area is given 
+5 km2, but remember , the unit here is a hectare . So, we have to ; obviously, convert slope 
+is given at  0.006 , length of travel i s given a s 1950  meter s, return period is gi ven 25 years. 
+Remember , in 5 km2of the total catchment area , and we have two land uses; 2 km2 of 
+cultivated sandy loam and 3 km2of cultivated tight clay. So obviously, we have to rea d 
+the runoff coeffici ent table , and we find that for cultivated tight c lay, the value  is 0.5, and 
+for cultivated sandy loam , the value is 0.2. 
+Weighted runoff coefficient = (2×0.2+3 ×0.5)/5 = 0.38  (Refer Slide Time: 21:14)  
+ 
+Then, obviously, we h ave to use the  Kirpich  formula for obtaining  the time of 
+concentration .  
+Tc = 0.0195 L0.77 S-0.385  = 0.0195 (1950 )0.77 (0.006 )-0.385  = 47.7 min  
+Then we have to interpolat e the table data . So, if we  want to go back to our table , then 
+we have to obtain the values  so, obviously, from this 47.7-minute duration , depth of 
+rainfall which will come out to be 62.31  mm and then rainfall intensity , we have to  
+calculate which comes out to be 78.38  mm/h  or 7.838  cm/h . 
+So, i is known to us , C already we have  found out , A is already given .  
+Q =C .i.A/36  = (0.38)( 7.838 )(5×10)/36 = 41.37 m3/s (Refer Slide Time: 22:46)  
+ 
+Let us take another problem to see how to use the r ational method once again . So, an 
+agriculture a rea has a runoff coefficient o f 0.2 and an area of 0.75 km2. The slope of the 
+catchment is 0.5 per cent, the maximum length of travel of water is 1 km. The maxi mum 
+depth of rainfall with 50 year return period  is given here ; for different durations , the 
+depth  of rainfall is  given . If the bund is to be designed for drainage at  the outlet for this 
+area for a return period of 50 years , estimate  the peak flow rate that is  the problem . 
+(Refer Slide Time: 22:32)  
+ So, coming to a solution , the value of  C is given , drainage area is given , the slope is 
+given , the maximum l ength of travel is given , the return period  of 50 years is given . So 
+obviously, we can use the Kirpich  formula  to obtain the time of concentration : 
+Tc = 0.0195 L0.77 S-0.385  = 0.0195 (1000)0.77 (0.005)-0.385  = 30.6 min 
+Then again , given the 50 year return period table data , we have to interp olate the value 
+correspond ing to 30.6 min, and if you do , then the maximum depth of rainfall  for 30.6-
+minute  durati ons we obtain 53.42  mm. And that means  the rainfall intensity  we have t o 
+convert for  an hour is only 30.6 minutes . So, we get the rainfall intensity of  104.75  mm/h  
+or 10.475  cm/h. Then you can use  the rational formula : 
+Q =C.i.A/36  = (0. 2)(10.475 )(0.75×100)/36 = 4.36 m3/s 
+ So, that is what  our interest was that we needed to estimate the peak flow  rate using the 
+rational method , and that is how  we saw the  rational method and application  in 
+estimating the  peak flow rate . 
+(Refer Slide Tim e: 25:15)  
+ 
+We can take  a problem straightway on the  Modified Universal Soil Loss  Equation 
+because now we  know how to determine various component parameters or  variable s. 
+So, the problem is determin ing the sediment yield from a storm with a total runoff  
+volume of 120 cubic meter s and a peak discharge of 5 cubic meters per second use K equals 0.33, LS equals  0.697 , C equal to  0.04 and P equals to 0.5. MUSLE  or Modified 
+Universal Soil Loss  Equation a is given by this formula .  
+A = 11.8(V Q.QP)0.56K.LS.C.P  
+(VQ.QP)0.56 = (120×5)0.56 = 35.96  
+A = 11.8( 35.96 )0.56 0.33×0.697 ×0.04×0.5 = 1.95 Mg o r Tonnes  
+So, that is how we can use the Modified Universal Soil Loss  Equation  once we know all 
+the variables or  the components of the equation . 
+(Refer Slide Time: 26:57)  
+ 
+One more variation of the universal soil loss equation is available,  referred to as the 
+revised universal soil loss  equation . So, this is the third one ; we had Universal Soil Loss  
+Equation , we had Modified Universal Soil Loss  Equation , now we have Revised 
+Universal Soil Loss  Equati on which Renard and others proposed  in 1991 . 
+So, basically , Revised  USLE is a cooperative effort  between scie ntists and users to 
+update USLE . So, USLE has been updated , and we will see what the various new thin gs 
+have been brought into this updated version , which is referred to as  a Revised  USLE or 
+RUSLE . So, we saw  USLE, MUSLE , and now we have RUSLE . The most important 
+thing change is  that RUSLE  is implemented using a computer program with an inbuilt 
+database which is more suitable for application to the  USA. So, basically , there is a compu ter program now at a database, but the  only problem 
+limitation is that this database has been generated primar ily for the United States of 
+America . So, that is the only limitation , but the good thing is that all comput ations can be 
+done using a computer program . 
+(Refer Slide Time: 28:27)  
+ 
+And the changes offered in the RUSLE  are, obviously, computeri sing the algorithm to 
+assist  the calculation . So, the user does  not have to bother , then R factor w as developed 
+using rai nfall data bases from across the US So, all the database that was available across 
+we does have been used for getting the  R factor value , and that  simply means that new 
+Isoerodent  maps have been generated and used and just for your  reminding you  for 
+reminding you, Isoerodent s are the lines joining th e places of equal erosivity . 
+So, equal  erosivity  maps have been genera ted and used in the case of  RUSLE  and; 
+obviously, the next change  is that seasonally variable soil erodibility  term K which 
+includes all soils fo und in the web soil survey , has been developed  that is now  K has 
+been developed for all kinds of soils  number one and number t wo the  because from one 
+season to other the crops type could change . So, soil erodibility of the soil characteristics 
+could be aff ected . So, seasonally variables soil erodibility term has been generated for 
+use in the case of  RUSLE.   (Refer Slide Time: 29:49)  
+ 
+And just to give an idea , this is the Isoerodent  map example , and this one the older one 
+was used by Wischmeier and Smith in  1965  and a new one was developed by EPA  that is 
+envir onmental protection agency in 2001  and if we  just June in the same that is Gulf of 
+Mexico  area. 
+(Refer Slide Time: 30:26)  
+ 
+So, you can see here the isoerodent  maps are the values are much finer  and highest value 
+has gone even up  to 700 as compared to the 600 that was the limit in case of earlier map. 
+So, a much finer  value of erosivity  index can be obtained using  the new isoerodent  maps , and other changes are the new slope length and st eepness algorith m reflecting rill  to 
+interrill erosion has been  incorpor ated the LS factor may include multiples slope segment  
+calculations that are slope could change , and it also allow s for the depositional feature . 
+In the case of  USLE , we were not allowing any solve de position . Still,  RUSLE allows 
+deposition, and there is a new approach for calcu lating  crop management terms  C with 
+sub-factors representing prior  land use crop canopy surfa ce covered . And surface runoff  
+that was the much better value of  C is now available , and also , there is a new 
+conservation practice value  P for rangeland s strip crop rotation contour  factor values and 
+subsurface d rainage. 
+(Refer Slide Time: 31:36)  
+ 
+So that means  new conservation practices have also been  incorporated in the Revised 
+Univers al Soil Loss  Equation . Still,  the issue is that even thoug h it offers several 
+modification s to USLE to better estimate  soil loss , it is not . So, popular because of the 
+simple reason , not very popular because the inbuilt database in the computer program is 
+US-centric, limiting  its applicability in other regions  of the world .  
+So, there are 7 modification s done in RUSLE , but its application has  remained limited to 
+the United States because the database inbuilt in the program  is more US-centric . So, this 
+is on e of the significant  limitations that is why the revised simplex method  revised 
+universal soil loss  equation is not very popular , and with this , we come to the end of thi s 
+class . So, we saw how to use a rational method for estimating QP in the Modified Universal 
+Soil Loss  Equation . And then, we saw the ap plication of the Rational method and 
+Modified Universal Soil Loss Equation. F inally, we saw the latest revision  that is revised 
+universal soil loss  equations . So, all 2 versions ; we have covered  in the last three lectures 
+also. 
+Thank you very much . 

@@ -1,0 +1,307 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 24 
+Gate Problems on Various Topics Covered  
+ 
+Hello friends , welcome to NPTEL online certificati on course on Solid Water 
+Conservation Engineering . I am Rajendra Singh, a Professor in Agriculture and Food 
+Engineering department of I IT, Kharagpur.  
+(Refer Slide Time: 00:29)  
+ 
+So, let us start with question number 1 ; two triangular channels  A and B , have  the sam e 
+bed slope , roughness coefficient and depth of flow. The side slope of channel A is 1 
+horizontal to 1 vertical while that of B is  two horizontal  to 1 vertical. Find the ratio of  
+discharges in channels A and B. So, we have 2 triangular channels  other than the side 
+slope , rest of the characteristics of the same. And we have to find the ratio of discharges 
+in these 2 channels . So, let us take  let us see how  we handle this problem . (Refer Slide Time: 01:11)  
+ 
+So, if we  take the case of  data which is gi ven, so, we hav e channel section triangular for 
+channel A,  Z is 1 ; for channel B,  Z is equal to  2. Now , this is the typical  cross -section 
+triangular cross -section, where the depth of flow is d side slope with z. And  top width at 
+the water surface is small t, and with freeboard , the total depth is capital D , and the top 
+with long  ultimate top is capital T . 
+So, if you remember , we discussed  various formulae ; a table was provided in one of the 
+lectures where we saw that for a  triangular channel , A is zd2, wher e z is the side slope , 
+and d is the depth of water d here . And P is 2d(z2+1)0.5. So, this side is d(z2+1)0.5 and 
+then there are 2 sides , so that is why it is two times of that.  
+And also , from the continuity equation , we know  Q = AV; that A is cross -sectio nal area , 
+V is the velocity of flow .  
+So, for channel A area using the equation A = zd2, value of z is 1, so A = d2. Similarly , 
+wetted perimeter P will be  
+P = 2d(12+1)0.5 = 2.83d  
+And hydraulic radius here radius R we know is the ratio of cross -sectional ar ea A and 
+wetted perimeter P. So,  
+R =  A/P = d2/2.83d = 0.353d  Similarly, for  channel B where only difference is the value of z is 2 ,  
+A = 2d2 
+P = 2d(22+1)0.5 = 4.47d  
+R =  A/P = 2d2/4.47d = 0.447d  
+Now for channel A , putting the value  of A and  R. Basically A and we know that V 
+equals 1/n R2/3S1/2, and we also know that n and S are remaining constant. So, basically , 
+in this equation , if you put the continuity equation we put , it will be Q equals to  A×1/n 
+R2/3S1/2. 
+So, for channel A , 
+QA = d2×1/n RA2/3S1/2. 
+Similarly for  channel B , 
+QB = 2d2×1/n RB2/3S1/2. 
+So, if you we have to ca lculate the ratio of discharges Q A by Q B. So,  
+QA/QB = ½ (RA/RB)2/3 = ½ (0.353d /0.447d )2/3  = 0.427  
+So, the ratio or discharges of channel s A and B is  0.427. So, that is the final answer  to 
+this question. So this is how  we can  solve this problem . (Refer Slide Time: 05:46)  
+ 
+Now, we take the second question,  question number  2, which says that a triangular 
+shaped  grassed waterway with a longitudinal slope of 2.5 per  cent is to carry a disch arge 
+of 1.5 cubic meter s per second, with a permissible velocity of 1.2 meter s per second. The 
+side slope of t he channel is 1.5 :1, which  is horizontal is to vertical . Without  considering 
+freeboard  calculate the  top width of the channel. So, you know that  this is what it is , so if 
+this is  what it says is that  this is  d and this is  t. So, we do not have to  consider any  
+freeboard here  and this is the value of t  we need to calculate that is the problem says with 
+all the data given.  
+(Refer Slide Time: 06:38)  
+ So, if you look into the solution , we have been given Q equals 1.5 cumec, z is side slope 
+z is 1.5 , bed slope S is  0.025, permissible velocity V is 1. 2 meters per second , and 
+channel section is  triangular. And for triangular sections  channel section just n ow we 
+saw, 
+A = zd2; P =  2d(z2+1)0.5; t = 2zd  
+So, from continuity question again , Q equals to A V, Q value is given here, V is  given 
+here. So, area comes out to be 1.5 /1.2 or 1.25 square meters. So, z d2 is the  area of a 
+triangular section. So,  
+zd2 = 1.25 
+1.5d2 = 1.25 
+d = 0.91 m . 
+And we know that t = 2zd, the value of z is known  d we have calculated. So, by putting 
+the value here . 
+t = 2×0.91×1.5 = 2.73 m  
+So, the top surface water surface width, basically it is nothing but the water surface width 
+at the top is 2.73 meters that is the second question  answer  of this question . 
+(Refer Slide Time: 08:23)  
+ Then we go into question number 3,  and again a trapezoidal gross waterway is 
+constructed along with  a longitudinal gradient of  4 per  cent. If the cross -sectional a rea of 
+flow is  1.5 square meters, the wetted perimeter  is 12.5 meters , and Manning’s  n for the 
+water is  0.04 m-1/3s, or the second  calculate the flow through  the waterway. So, Q = A/n 
+R2/3 S1/2, this is the equation we have to use . 
+So, here the longitudina l gradient is given 4 per  cent, the cross -sectional area is already  
+given 1.5 2 square meters, the wetted peri meter  is 12.5 meters . So, also, we know the 
+hydraulic  radius is  A/P. This is just without going into a detail ed solution just so that if 
+similar pr oblems come , this is how we have to attack the problem. So, A by P is given , P 
+is given so we can calculate the value of R  n value is given. So, that way all , everything 
+will be known ; the only thing we need to calculate is  R-value where A and P values are  
+already given. So, this is how we can easily solve this  problem. So,  let us go into the 
+solution part of it . 
+(Refer Slide Time : 09:51)  
+ 
+So, see a longitudinal slope is 4 per  cent, the cross -sectional area  is 1.52 square meters, 
+the wetted perimeter  is 12 .5 meters, Manning’s n is 0.04  units. Hydraulic radius we said 
+that saw that we have to calculate the hydraulic radius that is  
+R = A/P = 1.52/12.5 = 0.1216  
+So, velocity of flow we can calculate separately  V = 1/n R2/3 S1/2 = 1/0.04 (0.1216 )2/3 (0.04)1/2 = 1.23 m/s  
+And continuity equation Q equals AV, and the area is given as 1.5 and velocity we have 
+calculated  1.23. So, the  Q value comes out to be  1.5×1.23 =  1.87 cubic  meter s per 
+second. So,  that is the  answer to this particular  problem , so very straightf orward , simple 
+question . 
+(Refer Slide Time: 10:54)  
+ 
+Then question number 4, says that determine the most efficient  trapezoidal section of a 
+drainage ditch  required  to carry a peak runoff of 1.6 cubic meter s per second. The 
+challenge is constructed in  alluvial soil , having Manning’s roughness coefficient of  
+0.025. The bed slope  and side slope of the channel  are 1:2500 ; 1:1.5 vertical  to 
+horizontal. So, this is a tricky thi ng typically . We use horizontal is to vertical, but in this 
+probabilit y, given vertica l is to horizontal.  
+So, we have to be careful while reading the question  that there might be a few tricks 
+involved. So, this is the trick here that instead of  giving horizontal eastward cut , it is 
+even vertical i n two horizontal, but the meaning remains th e same  from here the  z value 
+will come out to be 1.5 only respectively. So, we have to basically get a design or  
+determine the most efficient  trapezoidal section  in this particular problem . (Refer Slide Time: 11:59)  
+ 
+The data given are discharge Q is equa l to 1.6 cumec side slope value just now we saw, 
+which was given vertical is to horizontal, but the meaning remains the same. So, the 
+value of z is 1.5 ; bed slope is o ne to 2500, Manning’s n is 0.025 and channel section is 
+most  efficient trapezoidal. And i f you remember , in one of the  lectures earlier , we 
+derived the equations for the most efficient trapezoidal section , which  is the  most 
+efficient hydraulic section or a most economical section . 
+And found there were three  conditions the . One of the  2 of cond itions are listed here that 
+is B, the relationship between  B and D, that is , bottom  width and the depth of flow is  
+B = 2/√3 D & R = D/2  
+So, these 2 relationships will develop the third was of course, if you remember  though 
+this is if  this is the drawing,  and this is B  this is Z  is to 1 . So, we know that  this portion  is 
+nothing , but this is D; this is Z D. So,  this portion is D2 + ZD2 or D√z2+1. So, this is what 
+it is, and the top width is  Z D. This time all this type of this side also it is Z D. So, the top 
+width is  B+2ZD. 
+So, we found that half of the top width that is  B+2ZD that is half of that  is equal to the 
+side length, which is D√z2+1. So, this was the third condition. So, there were 3 
+conditions  1, 2, and 3. And in this problem , we need to use these 2 , that is B relationship between B and D and  R equal to D /2, because we have to use the Manning’s equation 
+and the continuity equation . 
+So, from here , the cross -sectional area of the ditch is a trapezoidal section we know that 
+cross -sectional area is given as 
+A = BD + ZD2 
+ and then putting B in terms of d and the  value of Z , which is given as 1.5 here. We get , 
+A = 2/√3 D2 + 1.5  D2 = 2.655D2 
+The v elocity of flow V = 1/n R2/3 S1/2 S, and n value is given as 0.025 . R is given  in terms 
+of D for the most economical section or most efficient trapezoidal section ; this is D /2, so  
+V = 1/n (D/2)2/3 (1/2500)1/2 = 0.5D2/3 
+So, we  know area in terms of D we know velocity in terms of d from this equation . 
+(Refer Slide Time: 15:39)  
+ 
+So now,  what we have is we know Q equals 1.6 cumecs , area is 2.655 D2, and V is 
+0.5D2/3. So now, we have to put use the continuity equation that if Q equ als to A V, by 
+putting the values of Q , A and V in this equation we get , 
+1.6 = (2.655D2)×(0.5D2/3) = 1.327D8/3  
+So obviously, from here , we can write D  = (1.6/1.327 )3/8 = 1.07 m  
+So, from here  the value of D comes out to be 1.0 7 meters so; that means, B whic h is the 
+relation  with the D ;  
+B = 2/√3 D = 1.24 m  
+So, we know d , we know B , and we can add a fre eboard of 20 per  cent. So, the depth , d 
+comes out to be 1.25  meter s. So, without  freeboard , the value of D and  B are here. And if 
+you add the 20 per  cent free board, then the total width  depth of the ditch comes out to be 
+1.28 meter. So, this is how we have  to we can calculate the  most efficient section.  
+(Refer Slide Time: 17:50)  
+ 
+So, we go into question number 5, which says that it is proposed to construct benc h 
+terraces on a 10 per  cent hill slop e. If the batter slope is half horizontal to 1 vertical, 
+determine the percentage area that will be  lost for cultivation  due to bench terracing. So, 
+this is a bench terrace problem where we have to calculate the area lo ss due to the 
+construction of bench terra cing. (Refer Slide Time: 18:23)  
+ 
+we derived earlier that area loss under bench terraces when the batter slope was 1 :1. So 
+now, we have to see the same relationship  when the batter slope is  ½:1. So obviously, we 
+know that we took that D the vertical interval  of the benches  on a land with the S per  
+cent slope, along A B. So, A B is basically the original slope or length over which 
+cultivation would have taken place had the benches had not been laid . 
+So, because benches are being laid where the batter slope is ½:1. So, that simply means 
+what; this is this portion we know is  the depth of cut or so, it is a refer ence to it, 
+basically , if you consider  just horizontal , so it is  D/2. And because this slope is 1 :1, If the 
+slope  is ½:1, decimall y this portion will come  out to be D /4. So, D /4 here and D /4 here 
+both side D /4 is there because of the risers slope and the battery rider  is 1. L is the 
+horizontal interval between  the benches that is the  projectile length of  AB on a horizonta l 
+plane. That is this is L, this is from  here to here,  this is  D, this is D , and this is L ; so, for 
+this triangle bigger triangle if you consider . (Refer Slide Time: 19:55)  
+ 
+So, actual distance A B, basically which is  if we consider triangle  here, the triangle 
+between  this is the triangle we are considering  A this is B basically, A BC, AB which is L 
+is basically this is L ,  this is D . So, it is  
+AB = √(L2+D2)  
+and then  we said that we w ould expand .  
+AB = L(1+D2/2L2+D2/8L4+…..) 
+And then we only consider  the first two terms way we can be taken as   
+AB = L + D2/2L 
+So, this is the simplification or assumption we are making that  only first two terms are  
+useful. (Refer Slide Time: 20:35)  
+ 
+But we know that  
+L = 100D/S  because from  fig; this is D , this is L , and this has a S per  cent slope. So, this 
+is S/100, so by equal it triangle , we can see that D /L is equal to S /100 or L equal to 
+100D/S, so th is is what we are using. And so A B is we know that we have already 
+derived equation ,  
+AB = 100 D/S +  (D2/2)×(S/100D)  
+ = 100D/S + DS/200  (Refer Slide Time: 21:27)  
+ 
+Now , if W is the width available for the cultivation of terracing , so,  
+W + D/2 = L = 100D/S  
+W = 100D/S – D/2 = (200D -DS)/2S  
+That set the width of the terracing if it is half is to 1 riser slope.  
+So, a width  that is not available for cultivation is A B-W. We have calculated  AB, we 
+have calculated W. So, we are putting t his equation ,  
+= 100D/S + DS/200 – 200D /2S +DS/2S  
+ = DS/200  + DS/2S  
+So, this is the width that is not available for cultivation, and this is the width we have to 
+use as a numerator for calculating the percent ages. (Refer Slide Time: 22:16)  
+ 
+So, with width loss expressed in percentage  of original s o this is what we calculated. And 
+this is the original value of  L basically . 
+= (DS/200  + DS/2S ) / (100D/S + DS/200 ) × 100 
+Eliminatin g D from numerator and denomin ator 
+= (S/200  + S/2S ) / (100/S + S/200) × 100  
+(Refer Slide Time: 23:10)  
+ And then , we can fur ther simplify by dividing the numerator and denominator both by  
+100S; the width loss comes out to be , 
+= (S+100)/(200 /S +  S/100)  
+If you remember , for a 1:1 or batter slope , we derived this relation ship like this. So, the 
+numerator denominator remains the s ame in a numerator . We have 200 in place of 1 00. 
+So, you can very well see that when we have a 1 :1 batter slope , then area loss would be 
+much more . 
+And so the percentage  is taken  as percentage width is taken a percentage a loss. So, by 
+putting  the value of  S percentage , your loss comes out to be 5.47 per  cent. So, when we 
+use ½:1 battle slope , and if the land slope is 10 per  cent, then the total area  that will be  
+lost due to  bench terracing is 5.47 per  cent, that is the answer to this particular problem . 
+And if you  remember the formula , then you can straight away get the answer  frequently . 
+(Refer Slide Time: 24:19)  
+ 
+Then we go to question number 6, which says that bench terraces are to be constructed 
+on a 15 per cent hand -land slope. The  batter slope is 1 :1, and the vertical interv al is 2.5 
+meters. Earth work in cutting  is equal to filling. Find the  quantum of Earthwork in cubic 
+meter s per hectare. So,  this is a straightforward probl em, where we have to use the  
+relationship  for Earthwork.  (Refer Slide Time: 24 :46)  
+ 
+And h  this is here for a batter slope of 1 :1; 
+D = WS/(100-S).  
+Putting the value of D in S , we can calculate W ,  
+W = D(100 -S)/S = (2.5×85)/15 = 14.17 m.  
+So, Earthwork per  hectare for a  riser 1:1 is 1250 D , and this comes out to be , 
+Ew = 1250 WS/(100-S) = (1250 ×14.17 ×15)/85 = 3125.7 m3 
+In fact, we can straight away  use 1250 D without doing  any of these manipulations . That 
+is 1250  times  the D value , which  is 1250 ×2.5. So, we will get the same a nswer , so 
+straight away , in a single step , this problem can be solved. And it comes out to be 3125.7  
+cubic meters . There is that total Earthwork involved . 
+(Refer Slide Time: 25:38)   
+Then we take another question 7 ; bench terraces are to be  constructed on a hill having  a 
+15 per  cent slope . If the vertical interval  of the terrace is 1.5 meters, calculate  the length 
+of terrace per hectare, Earthwork , an area lost  when the battle  slope of the terrace  is 1:1. 
+So, 1 :1 is the battle slope, and length the 15 p er cent slope is there, and the vertical 
+interval is given 1.5 m eters . We have to calculate length, Earthwork and area lost all 3 . 
+(Refer Slide Time: 26:11)  
+ 
+So, the data g ave our land slope 15  per cent vertical interval  1.5, but slope 1:1. So, the 
+width of the bench terrace we know for the 1:1 batter slope is given b y; 
+W = D(100-S)/S = 1.5(100 -15)/15 = 8.5 m.  The length per  hectare ,  we know for 1 :1 is 10000 /(W+D). So, we know, D we know  so 
+we by putting it we get 1000 meters . So length per actually 1000 meters of the terrace . 
+(Refer Slide Time: 26:50)  
+ 
+And the Earth work per hectare will be  1250 D. So, 1250 times  D, and it comes out to be 
+1875 or 1875 cubic me ters, so it is the Earthwork per hectare. And area lost  per hectare 
+just now we saw for 1 :1 batter slope this was the relationship we derived earlier in a 
+class.  And so S value  by putting S value of 15 per  cent we can calculate , and we get the 
+answer as , 
+Area lost  per hectare   = (S+200)/(200 /S +  S/100)  = (15+200)/(200 /15 +  15/100)  = 
+15.95%  
+So, these are the three  answers 15.95 per  cent and earthwork  1875, and the length is 1000  
+meter s. 
+(Refer Slide Time: 27:36)   
+And we take the  last question that is question number 8, that is  if the width of the bench 
+terrace is W, the drop is D , and the existing land slope is S; then for 1 50 per cent batter 
+slope, derive the rel ationship that expresses drop is a function of W and S. So, this is a  
+relationship we need to draw here in this case . 
+(Refer Slide Time: 28:05)  
+ 
+So, basically , the batter slope is giv en as 150 per  cent or 1.5:1 . 
+So, here  basically for deriving this relati onship if you remember we earlier we used 
+equivalent triangle concept, because land slope  so we have a triangle M a nd A. And then 
+we have a because of this  batter of 1.5:1 ; this is D by 2. So, this portion will be 1.5 times 
+D by 2 or 3 D by 4 , basically 3 D by 4. And the W basically will start from this place W, 
+width of the terrace will b egin from this place please remember we are whenever we had. In the case of riser  at a battle slope, then a battle slope was there then we took the width 
+from this place . 
+So, basically from the equivalent triangle , 
+(D/2)/(W/2+3D/4) = S/100  
+So from here , if we cross multiply  and if we divide this by 2 ; 
+100D = WS + 3DS/2  
+From here , if we take th ese D terms here . So 100D, and this is nothing but 1.5 S,  so 1.5 S 
+here, and  W  remains on the right hand side . 
+D(100 -1.5S) = WS  
+(Refer Slide Time: 30:24)  
+ 
+So, from here this D (100-1.5S)=WS , or from here ,  
+D = WS/(100 -1.5 S ).  
+So, this is the derivation . This is the relationship  which we are  we have been asked to  
+delay . So, this is th e basically answer  of this particular  problem . So, this shows that,  this 
+way we have seen th at, we have  solved various kinds of problem that has been asked in 
+great question paper on  grass waterways and the bench terraces  where many times sometimes we have  to derive a relationship sometimes we have to remember a 
+relationship. And sometimes  the th eoretical aspect because we derived what is the most 
+economical section, what is the  area lost when the righteous slope is 1:1. 
+So, there might be little bit variat ions like this in this one question was half is to 1 the 
+other question at 1.5:1 . So, if you have to understand how relationship fundamentally is 
+being derived and even if you do not remember the formulae , you can easily derive the 
+formula using the first principles. So, that is why if you practice more problems , the 
+more variety y ou will come across, and it will be easier for you to attack the problem in 
+any examination situation.  
+Thank you very much.  

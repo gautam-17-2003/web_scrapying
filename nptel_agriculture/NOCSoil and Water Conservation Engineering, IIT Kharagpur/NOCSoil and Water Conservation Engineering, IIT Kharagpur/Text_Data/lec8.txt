@@ -1,0 +1,303 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 08 
+Modifications in Universal Soil Loss Equation  
+ 
+Welcome back , friends . Welcome to this  NPTEL  online certification course  and title  is 
+Soil and Water Conservation Engineering . I am  Rajendra Singh, Professor Agricul tural 
+Food Engineering  Department,  IIT, Kharagpur . We are in lecture  8, week  2. The topic  is 
+Modifications in  Universal Soil Loss Equation. This is part 1 of the lecture . We will 
+continue this lecture also in  the next clas s. 
+(Refer Slide Time : 00:49)  
+ 
+In this week course content , in lecture  6, we covered the Universal Soil Loss Equation  
+(USLE)  or method for finding out the soil loss . In lecture  7, which  is the previous 
+lecture , we saw how to estimate  two major  components of  USLE  that is rainfall erosivity  
+and soil erodibility . 
+In today’s lecture , we will see mo difications in the USLE , and this will be part 1 of the 
+lecture , and we will co ntinue with this in the next lectur e, also where we will see part 2 
+of modifications in  the USLE . And finally, in lecture  10, which  is the last lect ure of this 
+week , we will see soil loss measurement . (Refer Slide Time : 01:35)  
+ 
+Now, coming to  modification s, the modified  form of USLE , the name also is Modified 
+Universal Soil Loss Equation . Why modifications were  needed . Because , USLE as we 
+saw, is unable to predict sediment yield from a single  rainstorm event , and when  we 
+define  USLE , we say that  it gives a  long term average  estimation of soil loss . That is why 
+the unity in  USLE is for sediment  yield is  metric tons per hectare per year . 
+To overcome this problem  that we cannot estimate sediment yield from a single event 
+using USLE, Williams in 1975 modified the USLE. T he name is  given as Modified  
+Universal Soil Loss Equation or MUSLE . This modification is  based on the fact  that 
+runoff  is a superior  indicator of  sediment yield  than rainfall , which simply means  which 
+is logical because no runoff  will yield  no se diment. However,  there can be  rainfall with 
+little or no runoff . That means that because you remember that once again , we go  to the 
+basics , there are  two major components : detachment and transportation . Now, 
+detachment is primarily because of rain drop impa ct, where as transport ation  is because of 
+the overland flow or the runoff . So, it means  that even if there is a rainfall  there , there is 
+a rainfall event , there might be detachment . Suppose the entire rainfall volume is 
+absorbed by the soil or  is not allowe d to flow because of this cover on the soil surface  
+then, obviously, there will be no  runoff. That means  there will be no transportation , so 
+there will be no sediment yi eld from the given area . Based on this very fact, Williams proposes that runoff is a su perior indicator of sediment 
+yield. T hat is why  he modified  USL E by replacing the rainfall  erosivity  index or rainfall 
+erosivity factor  with a runoff factor . So, that is the major modification . One of the major 
+component s is the rainfall erosivity  index  or rainfall  erosivity factor  R. In the previous 
+class , we saw how to estimate that that is replaced in modified universal soil  loss 
+equation by a  runoff  factor . 
+(Refer Slide Time : 04:32)  
+ 
+This is how the MUSLE  looks , and it is given by this  formula : 
+A = 11.8(VQ.QP)0.56 K.LS.C.P  
+Where R was the rainfall erosivity index ; That has been replaced by this  term 
+11.8( VQ.QP)0.56. That is being called as  runof f factor instead of the  rainfall erosivity 
+factor . The r est of the terminology , as you can see , is the same ; K, LS, C and P repre sents 
+soil erodibility  factor , topographic factor , crop management factor , and conservation 
+practices factor . 
+Here, two new ter ms are coming:  VQ, which is the volume  of runoff and  QP, which is the 
+peak flow  rate or peak rate of runoff . The units  are cubic meter  and cubic meter  per 
+second , respectively. F or estimating  these  two components , that is , the volume of runoff 
+and peak flow rate , two standard  methods are used . So, runoff volume is estimated using 
+the SCS curve number  method  and pe ak flow is estimated using the rational  method . I am sure that these  two methods  you might have studied  in hydrology , but to take the 
+course forwa rd, we will repeat this here , and if for the benefit of those who were not 
+read, they will be getting it for t he first time . 
+(Refer Slide Time : 06:20)  
+ 
+We start with  the SCS Curve Number  method (SCS-CN) and metho ). It was developed 
+by the Soil Conservation Service , United States, Department  of Agriculture  in 196 9. Tha t 
+is why the first term of this method . SCS come from the Soil Conservation  Service, 
+which is a USDA  organization , but just to let you know that  the nam e soil conservation 
+service . Now, it has been changed to Natural  Resource Conservation Service  (NRCS ), 
+but the method is still known as the SCS-CN met hod only , and this method is based on 
+two fundamental hypothese s. The first one says  that runoff starts  after the initial 
+abstraction  (Ia) has been satisfied . This abstraction  consists of interception , surface 
+storage  and infiltration . This hypothesis is v ery true in  nature also  because when we 
+know when from  our hydrologic cycle knowledge , we know  whether  rainfall occurs  a 
+part of that gets intercepted  either by  any kinds of the abstract object may be  plant  
+canopy maybe  there a re some bushes on the surface  or buildings and roads or whatever . 
+Some interception takes place  because o f the undulating  topography on the surface , a 
+subpart of the  water gets stored on the surface . Obviously,  a part of this get s infiltrated , 
+and then the remain der of that basically  flows  is runoff . So, that means  a runoff will  start 
+only after the interception , surfa ce storage , and infiltration process  are completed , or the initial  abstraction  Ia which is the combined term to represent all these obstructions , has 
+been satisfied that is the  first hypothesis . 
+(Refer Slide Time : 08:24)  
+ 
+The second  hypothesis  says that  the ratio of actual  retention of rainfall  to the potential  
+maximum retention  (S). S is equal to the ratio  of direct runoff to  rainfal l minus initial 
+abstraction , and mathe matically this is represe nted like: 
+(P - Ia - VQ)/S = V Q/(P - Ia) 
+Where Ia is an initial abstraction; VQ is surface runoff ; P is the p recipitation . 
+Suppose initial abstraction and the runoff from the total rainfall is taken away. In that 
+case,  the actual r etention is the volume of water that is retained  in the basin . This is 
+actual retention , and its ratio is divi ded by maximum potential maximum retention  on the 
+left-hand side . On the right -hand s ide, we have a direct runoff that is a total flow that  is 
+taking place  divided by the rainfall  minus initial abstraction . So, mathematically , this is 
+the second hypothesis that this  ratio of actual  retention to maximum re tention  is equal to 
+the ratio of direct  runoff  to rainfall minus initial abstraction . By some mathematical  
+rearrangements , we can also write this equation  in this form : 
+VQ = (P - Ia)2/(P - Ia + S) We have already seen  S as the potential maximum retention by drainage basin , and VQ is 
+the runoff volume  we want to determine . P is the mean precipitation  over the drainage 
+basin. 
+(Refer Slide Time : 10:26)  
+ 
+Now, this quantity  Ia can be expressed as a function of  S that is  the hypothesis given by  
+SCS. They said that  Ia is equal  to 0.2S. For a given storm , 20 per cent of the potential 
+maximum retention  is the  initial abstraction  before runoff begins . So, initial abstraction 
+is 20 per cent of the potential maximum re tention , that is , the physical meaning of this  
+expression . (Refer Slide Time : 11:19)  
+ 
+For Indian condi tions , the value of  Ia could be 0.3S. Howeve r, still we in India also be 
+used typically use 0.2 S. Therefore, in our original equation , in (P - Ia), we replace Ia by 
+0.2S.  So, this is the form of equation we get: 
+VQ = (P – 0.2S)2/(P – 0.8S) 
+If we again make some kind of rearrangement , this is  the fo rm of equation we get : 
+VQ = P – S(1.2 – S / (P + 0.8S)) 
+As you can see here , this is a  one-parameter model  containing  S only as a  parameter . The 
+S is the only parameter in the model  because  P is the input we want  to find out  the VQ or 
+volume of surface run off. So, S is the only parameter that needs to be determined , and 
+then th is SCS relationship can also be expressed gr aphical ly in this form  that is the 
+relationship between  P, VQ, Ia and F, where F is the actu al retention capacity of the soil. 
+If we  plot p recipitation  versus time , then thi s is what we get basically , and here , that 
+means the initial period of  time will b e an initial abstraction , and then  the flow will  start, 
+but a part of  that will be first retained here . So, this is  F gives  the actual reten tion of a 
+part that will be retained  and then whatever  remain s is there that will flow a s surface 
+runoff . The mass curve  of the same can be represented  here that P verses  VQ if he plots 
+then; obviously, this is a 45-degree  line where  P equal s VQ.  (Refer S lide Time : 13:34)  
+ 
+Now the  most important thing is  estimating  S that is  because it is a  single parameter 
+model . So, obviously , the focus will be on estimating S; if you can estimate S properly, 
+then knowing the precipitation, we can determine  the runoff . Estimation of the 
+watersheds  potential maximum retention  S is the  difficul t part of applying  the SCS -CN 
+method to watershed because it is very difficult  to know the potential maximum retention  
+of a given area . 
+In order to overcome this problem , SCS develop ed the concept of  dimensionless  curve  
+number (CN) to aid in the estimation of S. CN is dimensionless number which  can be 
+which can help us estimate  the potential  maximum retention . Thus they g ave a 
+relationship between curve number  and S, which is given he re:  
+S = (1000 / CN ) - 10 
+Where the unit of  S is in inches . (Refer Slide Time : 14:59)  
+ 
+If we want  S to be in millimet res, 
+S = (25400  / CN) - 254 
+So, this will help you find S in millimetres, which  means that we can replace  S in terms 
+of CN in our origina l equation .  
+Here you remember  we are using the previous form that is  S in inches , and if we replace  
+S in terms of curve  number , this is a form of the equation : 
+VQ = {P - (200/CN)  + 2}2 / {P + (800/CN ) - 8} 
+So, now in the entire equation , CN is the only pa rameter  to be determined , which  means 
+it is still a single parameter model , but the parameter now is curve  number . To determine 
+the curve number of an area, we need to know the soil  and surface cover characteristics . (Refer Slide Time : 16:31)  
+ 
+If you know  the soil characteristic s and surface characteristics, we can find out  the curve 
+number  applicable for that particular  area.  For determining curve  number ,  SCS 
+classified  around  8500  soils into four hydrological  groups , and these groups  are 
+designated as  A, B, C, and D. Based on their infiltration  characteristics , SCS classified  
+all the soils  into four categories . So, the categories are group s A, B, C, and  D.  
+Group A is composed of soil s considered to have a low runoff  potentia l. So, these soils 
+have  a high infiltration rate  even when  thoroughly wetted . So that means  the in filtration 
+rate range for  such soil is  7.62,  11.43  mm/h . Suppose you know the infiltration capacity 
+of the soil of your area in this range. In that case,  you can say that  my soil belongs  to 
+hydrological  soil group  A. Similarly, group  B soils of a  moderate infiltratio n rate when 
+thoroughly wetted , and the range is  3.81 2 to 7.62 mm/h . The group  C soils have a slow 
+infiltration  rate, and the values are  1.27 to 3.81 mm/h.  For group  D, the va lue of 
+infiltration  rate lies between 0 to 1.27 mm/h . So, knowing the infiltration characteristics , 
+we can determine  which soil  hydrology group  A, B , C or D our soil  belongs  to. (Refer  Slide Time : 18:33)  
+ 
+And once  that is known , then using the cover condi tions or cover description  and per  
+cent imperviousness , we can find the curve number  applicable for a given area or  for a 
+given  watershed . Now, there is not yet another very important compone nt: the initial 
+condition  or Antecedent Moisture  Condition  2 (AMC  II). So, that standard runoff  table  
+was given by soil conservation service  for AMC II conditions . 
+From the tabl e, you can see that if we take the impervious area, which is a parking lot 
+that is 100 per cent per impervious , then based on the soil groups  or irrespective of soil 
+groups . In fact, in this case , the value is 98, which means that whatever rainfall occurs , it 
+is almost gets  translated  into the runoff ; there is no  loss in filtration or in abstraction s. In 
+this case , everything is almost getting  translated , which is quite obvious because of the 
+impervious area, but if you come to agricultural area and take the example of  pasture or  
+grassland  or range land. Then our values vary from  39 to 80 depending upon  whether if 
+soil belongs  to group A or group  D higher . The higher  the value of curve number , the 
+higher the run off, and you see that  group  D soils are poor  infiltration . That means  more 
+runoff will be gene rated from there, which  is why the curve  number valu es are high. 
+We can also say  that the higher  the curve number , the mor e runoff generation  for a given 
+area. Knowing  the soil hydrological  soil group  and cover conditions , we can use the 
+standard table provided by  SCS for finding out the CN. These are  for AMC  II conditions , 
+as already mentioned .  (Refer  Slide Time : 20:46)  
+ 
+Now,  as I already mentioned that  3 AMC conditions  are use d: AMC I, AMC II, and 
+AMC III . This AMC  is defined  based on 5-day antecedent rainfall  in inches that is  
+previous  five days. The SCS is also said  the values w ill differ for the dormant season  and 
+growing season . 
+If we take the  AMC  II, the rainfall has to be between 0.5 to 1.1 inches in the dormant 
+season , and in the growing season , it has to be between  1.4 to 2.1 inches . So obviously, 
+based on this  table , we can find out which  AMC  condition  we are working  on. If you are 
+working in  AMC II, then the standard table  value you have obtained from the table  can 
+be utilized . (Refer Slide Time : 21:57)  
+ 
+Otherwise , we have to  manipulate our value , and for that also  SCS is provided with a 
+table. In the adjustment table ,  these are the  curve number value for  AMC II, which we 
+read from the table . Based on  whether we are working in  AMC II or AMC III, we can 
+find out the corresponding values;  for example,  from  our table , we read the value of 
+curve  number is 75. If we are  working  AMC I, then our  value will be 57, and if AMC III, 
+it is 88, so, obviously,  AMC I lesser rainfall ; that means  lesser runoff ; that means,  the 
+curve number  value will be  is be lower than  AMC II condition . Where in  AMC III 
+rainfall magnitude is higher , that means  more runoff  could be expected , and that is why 
+the curve  number is high compared to AMC II so; that means, again we see that higher 
+curve number means higher magnitude  runoff . (Refer Slide Time : 23:02)  
+ 
+People have als o generated  certain kind s of nomograph s to help estimate  CN easily . So, 
+as you  can see that  this is a plot between  direct ru noff value , Q and the rainfall , P in 
+inches . These are d ifferent CNs nomograph of different curve  number s; So, if the total 
+rainfall  at a particular place i s 5 inches , and if  you know that the applicable curve 
+number is 70, then f rom here  roughly , we can say that  the direct  runoff will be  2 inches . 
+So, if you know your rainfall on the curve numb er, you can directly read the expected 
+value of  direct runoff  from this curve instead of  using  an equation  used for developing 
+this nomograph . 
+(Refer Slide Time : 24:09)  
+ After knowing the entire background , let us take a problem  on how to estimate  the direct  
+runoff volume using the  SCS-CN meth od. 
+A 71-hectare urban watershed includes 60 ha  of open area with 80% grass cover  and 11 
+ha of industrial  development that is 72% impervious . The soil in the  SCS Group B. 
+Estimate  the total runoff volume for a 24-hour rainfall  where P = 4.0 cm for AMC -III 
+conditions .  
+(Refer Slide Time : 25:00)  
+ 
+We need to follow the following steps . Basicall y, we have first to  find out the  area-
+weighted average CN for AMC II, which is the baseline condition , and then we have to  
+adjust CN for soil moisture condition . The prob lem says  AMC III. So, that is why we 
+have to adjust . Then we have to compute the value of  S that is  potential maximum 
+retention , and we have to confirm that the initial  abstraction , which is 0.2S, is les s than  
+precipitation  for runoff to occur . If it is mo re than that , then, obviously, the runoff will 
+not occur . And then, we have to  calculate the surface  runoff volume using the SCS CN 
+equation .  
+Here data are given : the tot al area is 75 ha which has  two components A1 and A2 (A1 = 
+60 ha open area  with 80% grass cover : A2 = 15 hectares  with 72% of the impervious  
+industrial area ); the soil hydrology group is  B;  rainfall is  4 cm; AMC condition  is 3. (Refer Slide Time : 26:04)  
+ 
+The f irst thing  will be  to calculate the  average  CN for AMC  II baseline condition . So, 
+our total area is 75 hectares . So, we have to reach  CN table for an open area with  80% 
+grass cover , and the  area is 60 hectares , and 72% impervious industrial  area, the area is 
+54; 15 hectares . So, if you look at the table , we have to be in soil group  B. 
+(Refer Slide Time : 26:33)  
+ 
+1. CN es timation;  
+For open space good condition , grass cover  > 75%; CN =  61 (A1 = 60 ha);   
+For 72% industrial , the CN =  88 (A2 = 15 ha ); 
+Average Curve Number = (61×60+88 ×15)/(60+15) = 64.66 = 65  The applicable  weighted curve numbe r for this area is 65 for AMC II condition .  
+(Refer Slide Time : 27:25)  
+ 
+2. We have to obtain t he corresponding value for  AMC III and the straight away , we can 
+read from the table  that CN for AMC III is  82, corresponding to AMC II. 
+(Refer Slide Time : 27:53)  
+ 
+3. Once we know the curve  number , we can use this equation . So, this will give us  S 
+value : 
+S = (25400  / CN) – 254 = (25400  / 82) – 254 = 55.75 mm = 5.575 cm.   
+4. Initial  abstraction , we already know , is 0.2S.  
+Ia = 0.2S  = 0.2×5.575 = 1.115 cm which is less than  P is 4 cm.  
+So, ah; obviously, because the initial abstraction is less than P, there will be a runoff.  
+5. Finally,  
+VQ = (P – 0.2S)2/(P – 0.8S) = (4 – 1.115 )2/(4 – 0.8×5.575 ) = 0.9 8 cm. 
+So, that means for the given conditions in a given area , out of the  4 cm of precipitation , 
+we can get the direct surface runoff volume  is 0.98 cm. 
+(Refer Slide Time : 29:18)  
+ 
+We can also take another problem  on the SCS curve number . 
+Determine  the runoff from  a watershed  of 60 h. The following  data is given : 
+Depth o f rainfall  = 100 mm  
+Antecedent Moisture Condition = AMC I 
+Soil group = C  
+Crop cover : Row crop , good  condition , 40 ha 
+        Woodland , good condition ; 20 ha (Refer Slide Time : 29:44)  
+ 
+So, obviously, we have to f ollow the same steps  so; that means  we hav e to find out the  
+weighted  area average CN for bas eline condition , which is  AMC II , from the table . The 
+soil group given in this case is  C. 
+(Refer Slide Time : 29:53)  
+ 
+So, we have to read this col umn corresponding to  hydrological soil group  C,  
+For row cro p, good condition , CN =  82(A = 40 ha) ; 
+For woodland, good condition  CN = 70 (A = 20 ha) ; Average  CN = (82 ×40+70 ×20)/60 = 78 for AMC II condition.  
+(Refer  Slide Time : 30:36)  
+ 
+We have  to find out the corresponding value for  AMC I, and here in the table , we s ee 
+that we have 75 and 80. So;, for 78, we have to interpolate  that value , and that  is what we 
+are doing here ; 
+CN for AMC I = 57+(6/5) ×3 = 60.6  
+We say that 57 corresponds to 75, and then for the next 3, we are interpolating  between 
+75 and 80 where the  value ranges from  56. Now 57 to 63, and thus , we get the value is 
+60.6 that is corresponding to  AMC II CN of  78. The curve number for  AMC I is 60.6. (Refer Slide Time : 31:17)  
+ 
+And thus  now, we can estimate  the value of  S by putting CN =  60.6  
+S = (25400  / CN) – 254 = (25400  / 60.6) – 254 = 165.14 mm. 
+The initial obstruction , Ia = 0.2S = 0.2 ×165.14 = 33 mm (wh ich is l ess than P) 
+So, the total  surface volume;  
+VQ = (P – 0.2S)2/(P – Ia +S) = (100 – 33)2/(100 – 33 + 165.14 ) = 19.34 mm.  
+That means, for this  given ar ea and conditions , out of 100 mm of rainfall, 19.34 mm is  
+converted into the  surface runoff volume . 
+So, we have seen  a modified universal soil loss equation  where rainfall erosivity  index is  
+replaced by run off factor. For estimating runoff  factor , we have to estimate surface 
+runoff volume for which the SCS-CN technique is used that we saw in this lecture . In the 
+next lecture , we will take up the other term that is QP the peak rate of runoff for runoff  
+which  we use the rational  method . So, we will  see how to  use a n rational  method  to 
+estimate and go further . 
+Thank you very much . 

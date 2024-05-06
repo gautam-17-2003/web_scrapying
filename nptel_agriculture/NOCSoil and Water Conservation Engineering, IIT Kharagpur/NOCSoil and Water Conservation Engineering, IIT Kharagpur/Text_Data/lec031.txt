@@ -1,0 +1,251 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 31 
+Hydraulic and Structural Design  of Gully  Control Structures of drop Spillway  
+ 
+So, welcome s tudents to our next  lecture it is on a Hydraulic and Structural Design of 
+Gully Control Structures  of drop Spillway . So, we will design by using many  number of 
+examples  in the subsequent slides . So, this lecture is  solving many examples  first our 
+design is  for free flow condition .  
+(Refer Slide Time: 00:59)  
+ 
+So, the first case can be the values of Q, F are known on way to find the combination of 
+capital  H and small  h for desired Q and minimum freeboard . If you will see this figure  
+small  h is nothin g, but the summation of capital S that is the depth of water in the above 
+the crest of the weir h v is here is a  kinetic  head loss and small f is the freeboard .  
+So, in this case the design discharge Q is known , capital F is known from this figure you 
+can see  and you have to make a combination between capital H and small  h. So, the 
+value of capital H or the length of the weir generally considered depending on the  width 
+approach channel or the existing site .  (Refer Slide Time: 01:50)  
+ 
+So, for this in the step 1, you have to  use the formula as you have talked in the previous 
+class , 
+ 
+  
+This is for SI unit and then you have to obtain a relationship between L and small h .  
+We can do it by using some trial and error approach , in this case  you have to first assume  
+small  h then you have to compute the value of L by using this equation . Then you have 
+to check whether this is tallying with the practical value of capital L that  is the length of 
+the weir. And depending upon the site condition you can select the suitable combin ation 
+of small h and capital L.  (Refer Slide Time: 02:44)  
+ 
+In the step 3, for free board you can use the weir equation that equal to that is given 
+ 
+ 
+ 
+(Refer Slide Time: 03:31)  
+ So, this will be  more clear when will be solving some problems . Suppose this one 
+example , Q is given as 10 cume c, capital F is 2.5 meter and this is a free flow condition . 
+So, the tail water is not obstructing and we have to find a combinat ion of the length of a 
+weir L and h  is the depth of weir for the desired Q and the mi nimum  freeboard that is 
+small f .  
+(Refer Slide Time: 03:58)  
+ 
+For the solution you have to use this  formula   
+ 
+and by putting the known value s Q and capital F and C is known that 1.84 for 
+rectangular your F is 2.5. So, you can get one relation ship between  L and  h. So, your L 
+equa l to 6.386 divided by h to the power 3 by 2. So, you have to make a combination 
+between L and h. So, in this case your assume the value of h and get the value of capital 
+L.  
+  (Refer Slide Time: 04:35)  
+ 
+So, this is shown in this figure in this table , you can see that different trail valu es are of h 
+we have  started from h equal to  1 and up to  1.5. So, when  I am using h equal to  1.5, I am 
+getting the computer value of L as 3.48 meter . And that is almost matching with the  
+practical value of  L that is your edge consider as 3.5 meter and the corresponding 
+discharge is about 10.06, which is nearly equal to  the target that is your given discharge 
+of 10 cumec . So, in this case we can select the length of weir as 3.5 meter and the depth 
+as 0.5 meter and we should not that the selection of L and h that depends on the site 
+conditions .  
+(Refer Slide Time: 05:31)  
+  
+ 
+ 
+In the step 3, you have to use the weir formula to estimate what is your freeboard , the 
+small f . So, you have to estimate what is the  value of small f , so, that equal to  small h 
+minus the kinetic energy weir plus the depth weir. 
+So, before that for that you have to calculate what is the value of capital H plus V a 
+square by 2 g by using the your formula . So, here we get  it is 1.04 becau se, Q is known it 
+is 10.06 and C is 1. 84 and L is 3.5 meter . So, by putting this values we can get small f 
+equal to  0.46 meter . So; that means, you have to provide  0.46 meter of freeboard , h equal 
+to small h equal to  1.5 meter and L equal to  3.5 meter .  
+(Refer Slide Time: 06:26)  
+ 
+For the  design of free flow  condition , this is case 2 suppose the known values are small  h 
+that is the depth of weir length of weir L capital F and C, C is equal to 1.84 that is known 
+for rectangular and you have to find the desig n discharge that equal to  Q. The solution in 
+this case is simple as we need to put the known values in the equation that is  Q equal to 
+C L h to the power 3 by 2 by using weir formula .  (Refer Slide Time: 07:00)  
+ 
+For design under  submerged flow condition , you can see this figure the tail water is 
+above the crest level . That means  what about H2 height is there that is above the crest  
+level . So, you are getting submerged to be able to cons ider the effect of submergence  one 
+must first recognize  those situation s where the effective like ly to exist for this purpose .  
+We must have a reasonably accurate estimate of the tail water elevations . So, this 
+depends on the accurate computation of the water surface profiles for various discharges 
+which are computed based on  the known  upstream stage -discharge relationship which 
+are called as also called as normal rating curves . So, many times we have the normal 
+rating curves  and by using those rating curves  so, generally convert the stage value into 
+discharge or  vice versa .  (Refer Slide Time: 08:01)  
+ 
+The design for su bmerged flow condition is likely to occur specifically the submergence 
+is likely to occur because , at the upper end of a drainage ditch where the spillways design 
+for a discharge capacit y greater than the averag e bank full capacity of the drainage ditch 
+below . 
+Where, the spillway crest elevation is below average ground or bank elevation  so as to 
+provide a definite approach channel to the spillway for low flows . And the spillways is 
+located on a relatively deep gully or channel just upstream from a highway cu lvert and 
+earth fill where which require and permit a considerable head on the culvert to discharge 
+the spillway design flood .  (Refer Slide Time: 08:51)  
+ 
+The submer ged flow is also likely to occur at a locati on where the channel below the 
+spillway  so flat in gra de, or so small in cross sectional  area, or so high resistance to flow 
+that it is stage discharge curve indicates water surface elevations  above the spillway 
+crest .  
+(Refer Slide Time: 09:11)  
+ 
+For the design of submerged  flow case , the submerged  discharge is related to free 
+discharge by using the equation  
+    or     
+  . Where Q f is the discharge in the free flow condition and Q s is the discharge under 
+submerge d flow condition . So, in this case you w ill get a specific ratio  so, that ratio the 
+Q s divided by Q f equal to  R and similarly , small q s is a s ubmerge discharge for unit 
+length of weir and small q f is the free discharge for unit length of weir. 
+(Refer Slide Time: 09:55)  
+ 
+You can see this plo t, in this plot  in the x  axis you will get H2 minus H1  that is the ratio 
+of submergence or submergence ratio and  the y  axis we are getting R. So, that is equal to 
+Q s divided by Q f and for a specific channel you can get such type of rating curves .  
+So, this is a plot between R versus s ubmergence ratio that  it is H2 by H1 curve and here 
+you can see H1 is the upstream head of water  and H2 is the submergence which is above 
+the crest level . So, this is the crest level. (Refer Slide Time: 10:48)  
+ 
+In this case , the known values are the design discharge Q, the t ail water height H2 is 
+known , small  f the free board is known and C is equal to  1.84 for the rectangular weir. 
+We have to find the combination of L and H with the associated submergence . For the 
+solution on e should remember that to  for flowing water generally H1 should be greater 
+than H2, the upstream water level should be always greater than that of the downstream 
+or tail  water level that is H2.  
+So, H1 equal to in this case small  h minus f because , H1 is the depth of flowing water  
+and small h is the depth of the weir depth  and small f is your freeboard . So, naturally you 
+will get if small h is assume d you will get what is the value of H1 so, that equal to  h 
+minus f , you can see this table . 
+And by the weir formula you can get Q f and the freeboard condition free flow condition 
+that equal to  1.84 into H1 to the power 3 by 2. And you can calculate what is the value of 
+H2 divided by H1? 
+So, once you have calculate d this value H2 divided by H1, you can estimate that is the 
+value of R. So, R equal to H2 divided by H1, then by using the R versus H2 divided by 
+H1 curve as well shown in the previous  slide  you can estimate the value of q s that equal 
+to R into q f. And from here you can get what is the value of L. So, L equal to  capital Q divided by Q s this capital Q is given  and you have estimated the 
+value of Q s from the graph , so, you can get what is the value of L.  
+So, in this case H2 is known , if L is fixed  then plot small  h versus L and then  interpolate  
+small  h for given L.  
+(Refer Slide Time: 13:11)  
+ 
+So, this is your solving one example , suppose  the required discharge capacity is given as 
+13.6 cumec , submergence for Q 13.6 is given 0.75 meter that equal to  H2 equal to 0.75 
+meter . Selected freeboard  that your s mall f that equal to  0.23 meter and the know the 
+discharge coefficient for rectangular is 1.84. 
+So, the following that to  find the practical combination of small  h and capital L for a 
+weir that will carry the required peak discharge of 13.6 cumec with the associated 
+submergence then the chosen freeboard . So, that you have to find out .  (Refer Slide Time: 13:57)  
+ 
+So, this is a solution approach , the solution is carried out by using trial and error method 
+in a tabular format . With begin with assuming  a value  of small  h in column 1 we can see 
+we are assumed value of  1.07 meter , in such a way that H1 is greater than H2. So, the 
+value of H2 is given that is 0.75 so, we have selected small h 1.07 so that H1 equal to 
+here 0.84. Then we have  estimated the value of q f that is your free flow condition . So, 
+that equal to  1.64 by using  this formula .  
+Now, you can get the value of H2 divided by H1, here H1 is 0.84 and H2 is given  point 7 
+5. So, by using that you can estimate  what is the value of H2 divided by H1 and the  equal 
+to R so, R equal to  also 0.89.  
+Then, by using this R you can estimate what is the value of  q s by using the graph 
+between R and the ratio between q s and q f. So, you will get q s equal to  R into q f and 
+then you can get the length of weir equal to  capital Q that is your given discharge divided 
+by the estimated  q s value ok. So, by that way we can solve for L.  (Refer Slide Time: 15:52)  
+ 
+So, here you can see  this is a solution approach for H2 divided by H1 equal to  0.89, this  
+is 0.89 and we got R equal to  0.1. So, here you will get H 2 divided by H1 0.89 here and 
+correspondingly you are getting R equal to 0.1.  
+(Refer Slide Time: 16:20)  
+ 
+So, R is obtained from R versus H2 divided by H1 curve and then values in column 7 
+and 8 are obtained . You can se e the values in  7 and 8 are obtained  we have filled up the 
+table whatever we have shown for and in this case we are getting L equal to  83.02  or 
+approximately it is 83 ok. So, this is the solution for submergence .  (Refer Slide Time: 16:56)  
+ 
+So, in this ca se we got the that if you have  assume small h equal to  1.67 you are getting 
+L equal to  6 meter . So, are L is given as 6 meter  so, you will get h equal to  1.67 and L 
+equal to 6 meter in this case .  
+(Refer Slide Time: 17:15) . 
+ 
+The 2nd case the known values are L, small h , small f , crest elevation , the crest elevation 
+is generally given to estimate what is the upstream water depth above the crest level  from 
+the stage discharge relationship . Then you have to find the discharge capacity Q. The solution of Q involves different steps , in step 1; you have to  estimate what is the value of 
+Q f by using the weir formula .  
+So, Q  f is the free flow condition discharge  so, that equal to  1.84 into L H1 to the 3 by 2 
+and here H1 equal to  small h minus f , f is the free boar d. In a 2nd step you have to go for 
+trial and error method as you have done before . The process begins by assuming Q value 
+and then obtaining tail water  elevation H2 from the Q versus H2 curve . With known H2 
+divided by H1 that equal to  R whatever we have o btained as in case 1, we can estimate Q 
+s that is the su bmerge flow discharge .  
+The process  ends when the assume d discharge and estimated Q s match. Will see this 
+table , first you have to estimate or you have  to go for a trial value of Q you have to 
+assume  some value of Q, get the value of H2 from  the given H2 and Q curve , get the 
+value of R which is nothing , but H2 divided by H1.  
+Where H1 equal to small h minus f and that is known  and you will get Q s equal to  R 
+into Q f as you have done in step 1 by usin g the weir formula Q f equal to 1.84 into L H1 
+to the power 3 by 2 and when Q is nearly equal to Q s the trial Q is the final value .  
+(Refer Slide Time: 19:08)  
+ 
+So, this is one example you can see the weir dimensions are given L equal to 5.5 meter 
+and the  depth is 1 meter , crest elevation is 194.8 , freeboard is 0.15, discharge coefficient 
+1.84 and the given discharge H2 Q is given in FPS unit we have whatever plot is given that is in FPS unit. You have to  find the discharge Q of the weir operating under th e 
+specified tail  water condition with a freeboard f  equal to  0.15 meter as specified .  
+(Refer Slide Time: 19:43)  
+ 
+You can see  this plot whatever given the rating curve is given between tail water  
+elevation and discharge this elevation is not the water depth H1. R ather  this is H1 plus 
+the crest  level , the crest level elevation .  
+You can see this the crest  elevation is given 639 feet and here all are in feet, the tail 
+water elevation is in  feet and here the dis charge is  in c f s . So, here the tail  water 
+elevation  equal to  H2 plus crest elevation . So, here the tail water elevation  this height  is 
+equal to  the crest elevation plus the value of  H2.  (Refer Slide Time: 20:44)  
+ 
+So, for this calculation  you have to go for a trail value of Q that if you have taken  here 6 
+cumec , which equal to 212 cubic feet per second  and from this graph you can get for Q 
+equal to  212 c f s here I can get the tail water elevation this value which is approximately  
+195.32  meter . 
+ Hence, H2 equal to tail water elevation  minus crest elev ation  so, that equal to  195.32 
+minus 194.8 in meter  and which  equivalent to  639 feet. So, this is equal to  639 feet so, 
+194.8  meter equal to  639 feet so, you will get approximately  0.52 meter . So, the tail  
+water elevation is  0.52 meter .  (Refer Slide Time:  21:59)  
+ 
+ 
+ 
+ 
+So, in the step 1, the given value is h and f  so, you will get  
+ 
+that equal to  1 minus 0.15 so, that equal to  0.85 meter . And Q f by using weir formula 
+you can get  
+ 
+so, that equal to 793 meter cube per second .  
+And in this case  you have to assume the assume  value is  6 you got H2 equal to  0.52, the 
+value of R that equal to 0.62 sorry 61. So, H2 divided by H1 equal to  0.61 so, that equal 
+to H2 divided by 0.85 and R you can get from the  curve R versus H2 divided by H1 
+curve ok . So, you can get Q s equal to R Q f that equal to 7.93 R so, that equal to  7.45. 
+But in this case you will see this is very high because , Q is not matching with Q s. (Refer Slide Time: 23:17)  
+ 
+So, you have to again continue  the trial and error process . For this you can se e we have  
+got H2 divided by H1 equal to  0.61, here H2 divided by H1 equal to  0.61 in this table 
+and correspondingly  you got R equal to  0.94. So, you can get the R value of 0.94 from 
+this plot  and that we are using in the calculation . 
+(Refer Slide Time: 23: 43) 
+ 
+Now, for different trail values of Q in this table you can see that if  I am taking Q equal to  
+6.8 cumec  then, I am getting Q s equal to  6.82 and that is nearly equal to  design 
+discharge is Q . So, in this case  I can use Q s value as 6.8 cumec .  Thank you. 

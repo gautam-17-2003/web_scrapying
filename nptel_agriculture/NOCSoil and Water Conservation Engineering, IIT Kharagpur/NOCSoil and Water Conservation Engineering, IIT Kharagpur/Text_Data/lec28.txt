@@ -1,0 +1,420 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 29 
+Basics of Ope n Channel Hydraulics – 1 
+ 
+Hello , friends welcome back to NPTEL  online certification course on Soil and Water 
+Conservation Engineering . 
+I am Rajendra Singh Professor in Agriculture and Food Engineering  Department of IIT 
+Kharagpur . We are in week 6 lecture 29 and the topic today is Basics of Open Channel 
+Hydraulics par t I. To have a rule relook at the course content of this week , we started this 
+week with lecture 26 introducing the gully control measures . 
+We continued in lecture 27 with gully control measures and  with a special focus on 
+permanent structures . And then lecture 28 was on design  considerations for permanent 
+gully  control structures and this lecture will be basics of open channel hydraulics part I 
+and the basics of open channel hydraulics will continue in lectures lecture 30 that will be 
+the next le cture and it will be part 2. 
+(Refer Slide Time: 01:16 ) 
+ 
+Now, coming to open channels  it is an open channel in a conduit  where liquid flows with 
+a free surface  and free surface is in contact with at atmosphere . So, we know that every 
+time we draw that we d raw a trapezoidal channel and then we make a water surface  and 
+then we put the dimensions . So, that simply means it  is a liquid that flows with a free 
+surface and the pressure on the liquid surface is atmospheric . 
+And the different examples of open channel s could be rivers , they are the greatest examples 
+then streams , irrigation canals , storm drains , the street gutters  and sewers  that are flowing 
+partially full  for example, this one  this is also example of open channel . 
+And open channels  could have differen t cross -sectional shapes for example, we have 
+already seen  trapezoidal , triangular , rectangular and also as we have seen that it could be 
+circular conduit  flowing parsley full that could be an example of sewers . So, this could 
+also be a particular shape . So, these are various possible shapes of open channel  open 
+channels . 
+(Refer Slide Time: 02:42 ) 
+ 
+Then coming to the flow classification based on fluid particle motion  flow is basically 
+classified into two categories ; laminar flow  and turbulent flow . So, basically , say fluid 
+magical motion , we know that if it is laminar flow and the  flow there  will follow 
+streamlines and where is in turbulent motion streamlines will not be followed . 
+(Refer Slide Time: 03:12 ) 
+ 
+ And typically this classification  is based on  Reynolds number  that is designated  by R 
+suffix e and given by rho v d by mu or v d by mu . So, this is the  formula that we used for 
+finding out Reynolds number . 
+And for open channel flow , the especially  the flow to be laminar Reynolds number  should 
+be less than 500 and for turbulent flow , Reynolds number will be greater than 500. I  am 
+sure that you must have read in hydraulics pipe flow and in pipe flow laminar flow  limit 
+was reminiscent my limit was 2000, but in open general flow , it is 500. 
+(Refer Slide Time: 14:00 ) 
+ 
+ Then flow could also be classified with respect to space  and if you do  so, flow could be 
+uniform flow  or nonuniform flow , and when  if it is a uniform flow then the depth of flow 
+remains constant along the channel . So, flow with  a constant discharge in a channel of 
+constant geometrical shape and slope is an example of  uniform flow . 
+So, if you have a  channel and if this is the channel bed  and if the flow is taking place . So, 
+uniform flow means , the depth here  and if here we measur e a depth then , if this is y  1 and 
+this is y 2 then y 1 will be equal to  y 2. So that means, with respect to space the depth of 
+flow will remain constant ly provided  discharges constant channels  shape and slope is 
+constant . So, if channel slope is  constant and flow is constant , then it will produce uniform 
+death throughout the length of the  channel . 
+ On the other hand , if it is a nonuniform flow , then depth of flow changes along the 
+channel . So, if it is a nonuniform flow  even with a constant discharge  in a channel of 
+varying geometrically shape or slope  so, something has to happen  for flow to become 
+nonuniform . 
+So, that could be by a change in slope of the channel or by putting some kind of a structure 
+in the channel flow could get converted into nonuniform flow. But basically , if with respect 
+to space the depth of flow remains constant in a channel that is referred to as uniform flow . 
+And if the depth changes then it is it for this nonuniform flow . 
+(Refer Slide Time: 06:00 ) 
+  
+Similarly , flow can also be classified  with respect to time . So, with respect to time , the 
+flow is an effort to edge or classified  as a steady flow and unsteady flow . So, a steady flow 
+means the depth of flow does not change with time at a location in the channel . So, if we , 
+if we in  this case if we draw a channel and if flow is taking place in this  so, this is your 
+channel bed  and this is the water surface . So, if you consider a particular location and if 
+measure the depth of water . So, over a period of time , there will be no change in the depth 
+of flow  so, with respect to time at a particular location the depth of load does not change . 
+So, that is a steady flow where is a depth of flow changes with time at a location , then it is 
+refer red to as unsteady inflow . If it is a  flow of this  kind of or a particular place after some 
+time if flow is having a different  depth , then it is referred to it unsteady flow . So, with 
+respect to time it is steady flow or unsteady flow with respect to space it was a  uniform 
+flow, non inform flow with parti cle motion to us laminar flow or turbulent flow  so, 
+different possible classifications of flow as possible . 
+(Refer Slide Time: 07:22 ) 
+ 
+So, continuing with the flow classification  so, if we combine these terms which we have 
+just seen the flow could be a steady uniform flow  that is there is a constant depth  in time  
+and distance . So, if you have to take a flow case where the flow depth does not change 
+with the space and if you take a particular location it does not change with time , then it is 
+refer red to as it steady uniform flow . 
+On the other hand , we have other classification is steady nonuniform ; flow we are depth 
+varies with distance , but not time . So, if you consider here  so, if there  is some kind of a n 
+obstruction  in the flow , because of that the depth will change with space , but if you take a 
+particular section and if you measure the flow with time the flow remaining constant the 
+depth will remain constant . 
+So, that kind of flow is referred to as steady nonuniform . So, with ti me it is steady , but it 
+faces is changing  so, it is very right it is nonuniform . Then there is a nother case of unsteady 
+flow where depth varies with both time  and distance . So, if the flow varies both with time 
+and distance then it is referred to as it uns teady flow . And there is a vertical possibility of 
+unsteady uniform flow , but typically this was  not possible that with time flow changes , but 
+with distance it does  not change that is very rare  so, it is typically we only talk about 
+unsteady flow . 
+(Refer S lide Time: 09:02 ) 
+ 
+Then, we can come to another kind of classification that is nonuniform flow within 
+nonuniform flow , flow could be further classified as gradually varied flow  or rapidly 
+varied flow . So, when the velocity and depth of flow  change over a long distance in a 
+channel then , it is referred to as not gradually varied flow , where any velocity and depth 
+of flow change over a short distance then it is referred to as it is rapidly varied flow .  
+(Refer Slide Time: 09:31 ) 
+ 
+And the different types of flow may occur in the same channel . So, if it is same channel , 
+which is subject to different kind s of conditions , then the flow may change from one place 
+to the other and the type of flow may be different . For example, if it is a sluice gate  so, 
+immediately after sluice gate , there will be case of rapidly varied flow . 
+That is a flow depth will change rapidly  over a short distance of and after that  it might take 
+a form of uniform flow . And then if there is  some obstruction V R is placed , then sudde nly 
+the flow because of hydraulic jump phenomena the rapidly varied flow will occur and then 
+for some distance there might be uniform flow , when there is some sudden fall then rapidly 
+varied flow . 
+Then after that then there is nothing happening much then c ould be a gradually varied 
+flow, then further if slope changes daily and it will be rapidly very flow ing and finally, it 
+could further finally, uniform flow . So, depending upon the conditions within the channel 
+whether the slope is changing or depth is cha nging or some structures  output  in the same 
+channel over a certain length  different types of flow could be seen . 
+(Refer Slide Time: 10:43 ) 
+ 
+So, a steady uniform flow in channel if you consider in open channels , then basically  we 
+know that ; the steady uniform flow that is the depth of flow does not change with time or 
+with the space that  is the uniform flow . So, in this case , streamlines are  straight and 
+parallel ; that means, streamlines will be followed , hydrostatic pressure distribution wi ll be 
+uniform  that is here the uniform  hydrostatic pressure we will there and velocity head will 
+be constant . 
+So, this is velocity head 𝑉2
+2𝑔, that will remain constant through out the channel. So, channel 
+bottom which is here , the water surface  that is this line water surface which is also referred 
+to as Hydraulic Grade Line or HGL  and Energy Grade Line that is EGL  these are all 
+parallel . 
+So, here these are three parallel lines are there and if flow is steady uniform , then continuity 
+equation and  manning equations are applied . And we have already had a lot of example s 
+solved  dealing with the steady uniform flow  but, whatever cases we discussed  under 
+vegetative waterways there were all considered as  cases of steady uniform flow . So, in the 
+open cha nnel so, that we have  already a  lot of experience with .  
+(Refer Slide Time: 12:06 ) 
+ 
+Then, we come to the next that is steady nonuniform flow  in open channels  and if you look 
+at the energy relations for steady nonuniform flow . And if this is a channel and if you 
+consider two sections  delta x distance  apart that is this is section 1 and this is section 2, 
+which are delta x difference apart in a channel . 
+𝑝1
++𝛼1𝑉12
+2𝑔+𝑧1=𝑝2
++𝛼2𝑉22
+2𝑔+𝑧2+ℎ𝐿 
+Then, the one -dimensional energy equation may be written as  that is at section  1 the sum 
+of the energy that is pressure , velocity and elevation that the sum of pressure head , the 
+velocity head , and the elevation head  at section 1  equal to  the sum  of the pressure head , 
+the velocity head , and the elevation head  at section 2 plus the h L that is head loss due to 
+friction . So, this is  the form of a one-dimensional energy equation  for non-uniform steady 
+flow.  
+(Refer Slide Time: 13:09 ) 
+ 
+Now, from the figure , we can see that  𝑝1
++𝑧1=𝑦1+ 𝑆0𝑥, that is at section  1 if you 
+consider this section 2, we see  that 𝑝2
++𝑧2=𝑦2. 𝑦1,𝑦2 are depth of flow . And this is the 
+elevation change because of the bed slope  (S0) which we have seen in previous figures . 
+So, S 0 is be d slope and they tell the distance between two sections it delta x  so, this 
+elevation is  from the datum it is  𝑆0𝑥. 
+If you consider the energy coefficients alpha  1 and alpha  2 is equal to  1, then equation  1 
+the previous equation we are simply replacing the pressure head and elevation heads  
+summation by these considerations in terms of depth  and slope .  
+So,  
+𝑦1+𝑉12
+2𝑔+𝑆0𝑥=𝑦2+𝑉22
+2𝑔+ℎ𝐿 
+(Refer Slide Time: 13:51 ) 
+ 
+So, this has come in place of this  and this and this has come  in place of this from equation 
+number  1. So, if we consider a special case, where channel bottom is horizontal , that is  S0 
+= 0; and head loss is  0, h L = 0. T hen equation  2 becomes (y1 + 𝑉12
+2𝑔). we remember we had  
+𝑆0𝑥 = 0, so, that term is gone . And we are assuming  ℎ𝐿= 0, 
+So,  
+𝑦1+𝑉12
+2𝑔=𝑦2+𝑉22
+2𝑔 
+ 
+ Now, at the same time , the sum of the depth of flow  and velocity head is defined as 
+specific energy , that is :  
+E = y + 𝑉2
+2𝑔 
+And this question says the specific energy of section 1 is the same as question specific 
+energy of section 2; that means, equation three states that  specific  energy at section 1 is 
+equal to specific energy at section 2.  
+(Refer Slide Time: 15:56 ) 
+  
+ And the  from continuity equation we know  𝐴1𝑉1=𝐴2𝑉2 = Q. So, we can also write that 
+equation that is we can replace  V by 𝑄
+𝐴. So, we can write this equation as : 
+𝑦1+𝑄2
+2𝑔𝐴12=𝑦2+𝑄2
+2𝑔𝐴22 
+ And A depends on y  because  A has y be it any kind of cross -section  so, specific energy  is 
+solely  a function of depth  at each section . So, it is a function of depth only because  ‘A’ is 
+also a function of depth and depth is already there .  
+(Refer Slide Time: 16:35 ) 
+ 
+So, we can make a  specific energy plot . So, for a given channel  and given  Q is the depth 
+of flow is plotted against  E, then we get a specific  energy curve . So, y is plotted against  E 
+and the curve we get is referred to as a specific energy curve . Now you can see that this 
+line dotted  line represents is 1 is to 1 slope line . 
+So, you just notice that there is a typical shape of this specific energy curve and specific 
+location also and  that is because it 1 is to 1 line E is equal to y . So, everywhere , if you see  
+E is equal to y  so, beat here anywhere . And since  E is greater than y , because it has a 
+velocity head also  so, E is y equals to V square by 2 g. 
+ So, due to velocity head is always be greater than y , which  simply means that a specific 
+can converge curve  will always be  below 1 is to 1 line, because on x -axis E will always be 
+greater than y . So, that is why it will always lie below this 1 is to 1 line, this is a very 
+important  point you should always remember because you should never make a mistake 
+of trying you r specific energy curve if somebody asks you to draw over this 1 is to 1 line. 
+So, this is  one important fact about this specific energy curve .  
+(Refer Slide Time: 18:05 ) 
+ 
+Now, we see here from this curve that is for given specific energy if you just draw  a vertical 
+line here . This vertical line if you consider then , for a given specific energy depth could 
+be either large that is there are  two depths possible this is y1 and this is y2 two depths are 
+possible for the same energy . And for y 1 when the depth of flow is more , the potential 
+energy is high  and for y 2 with the depth is less kinetic energy is high .  
+ And th is y1 and y2 were  due to depths where the specific energy is the same they are 
+referred to as  alternate depths . So, y1 and y 2 here where the  specific energy is the same 
+then, they are referred to in alternate depth . So, it can be seen that on  a specific energy 
+curve , a point 4 that is this point is reached where the is specific energy is minimum  only 
+a single depth occurs . 
+So, at this point  specific energy is minimum , as you can see here  just a single depth , of 
+course,  that is y c  and this depth is referred to as critical depth . So, because  of a typical 
+shape , there  is a point i n which were , just energy in minimum there is only  one depth  of 
+possible and that depth is referred to as critical depth . 
+(Refer Slide Time: 19:30 ) 
+ 
+And at this point , that is where this critical depth occurs flow is termed as  critical . So, this 
+point flow is critical flow and critical flow is the flow that occurs  when the specific energy 
+is minimum  for a given discharge . 
+So, that is a typical definition that critical flow is the flow that occurs when the specific 
+energy is minimum for a given discharge  so, this is the definition of critical flow . And this 
+is very important  in the floral regime because a lot of developments  are different on this 
+critical flow identification and will see this  in later parts of the lecture . 
+(Refer Slide Time: 20:17 ) 
+ 
+And the flow which the depth is less than critical , that is velocity is greater than critical , it 
+is termed as supercritical  so, this is depth critical depth and below this , the depth will be 
+less than critical depth . And that means, velocit y will be greater than velocity critical 
+velocity and that is why the flow is , therefore, a supercritical flow . 
+On the other hand , the flow for which the depth is more than critical that is any point above 
+here then, where velocity is less than critical  that it returned is subcritical flow . So, that is 
+why it is identified identification of critical flow helps in identifying the flow regime  or 
+the dividing flow regime into three distinct phases  that is critical flow , subcritical flow , 
+and supercritical fl ow.  
+(Refer Slide Time: 21:08 ) 
+  
+And if we see the characteristics of critical flow  that critical flow occurs when the specific 
+energy is minimum  we know that  so, for a given  Q we know that , 
+𝐸=𝑦+𝑄2
+2𝑔𝐴2 
+So, if we solve for 𝑑𝐸
+𝑑𝑦=0, 
+then we can determine the depth for this condition that is for critical flow condition s. So, 
+if we do that d E by d y  so, this is  1 and of course,  we have already said that A is a function 
+of y. So, that is why will also differentiat e which is A so, if we do that we get  equation 8, 
+i.e.,  
+𝑑𝐸
+𝑑𝑦=1−𝑄2
+𝑔𝐴3 𝑑𝐴
+𝑑𝑦 
+ 
+So, if the  T is the width of the channel at the water surface , then d A = T d y that is  obvious 
+and putting this in equation 8 and setting 𝑑𝐸
+𝑑𝑦= 0 for critical condition . If we do that  we 
+will get , 
+𝑄2𝑇𝑐
+𝑔𝐴3=1 
+(Refer Slide Time: 22:28 ) 
+ 
+ So, this is the condition which we get  𝑄2𝑇𝑐
+𝑔𝐴𝑐3=1 and this equation cell can be written  in 
+several other forms ; like for example,  
+𝐴𝑐
+𝑇𝑐=𝑄2
+𝑔𝐴𝑐2 
+𝐴𝑐
+𝑇𝑐=𝑉2
+𝑔 
+ So, if the channel is a rectangular cross -section , then Ac by Tc is equal to critical depth y 
+c which is quite obvious because , because  we know that for  a rectangular section  so, it will 
+be this is B equal to  T and this is y . 
+So, A area by area equal to B y or T y so, it so; that means, A by T equal to  y so, that is 
+well so, Ac is equal to critical depth . So, if we also define  q small  q is discharge d per unit 
+width of the channel or capital  Q by B for rectangular channel B equal to  Tc. Then we can 
+write:  
+𝑦𝑐= 𝑞2
+𝑔𝑦𝑐2 or 𝑦𝑐=(𝑞2
+𝑔)1/3 
+So, critical depth for  a rectangular  channel can be found out provided we know the 
+discharge per unit width and ; obviously, gravitational  ah; acceleration due to gravity g will 
+be known to us . 
+(Refer Slide Time: 23:48 ) 
+ 
+Further , if you apply equation 11 to a rectangular channel , then we also can write  
+𝑦𝑐=𝑉𝑐2
+𝑔=𝑉𝑐2
+𝑔𝑦𝑐=1  
+or if you take square root of that . So, we can write that  
+𝑉𝑐
+√𝑔𝑦𝑐 = 1 
+and this term that is left hand side of equation 13 is referred to as Froude number F, which 
+is the ratio of stream velocity inertia force  to wave velocity gravity force . 
+So, this is a critical flow condition , so, at critical flow  Froude number is 1 and for  
+subcritical flow , when velocity will be less than V c Froude number will be less than 1 for 
+supercritical flow when velocity will be greater than V c, then it will be greater than 1. So, 
+this is important finding  and Froude number is  used to classify or identify the flow re gimes . 
+That is whether  the flow is critical , super critical or subcritical that is specific energy  which 
+responds to a specific energy also we have already seen this .  
+(Refer Slide Time: 24:59 ) 
+ 
+ And there are  many practical applications of this specific energy  constant . So, we already 
+have seen that Froude number helps in attending type of flow  of flow regime . And critical 
+flow concept is useful in measurement of flow in the open channels  large number of flumes  
+and broad crested weirs  are based on critical flow concept . That is if you consider the 
+broadcaster weir,  we typically we provided hump  in the channel bed and because of that 
+what happens the flow will becomes for sub critical , because depth will larger depth will 
+be there . 
+ And then on the o ther side it  is a freefall  so, from subcritical to supercritical it goes and 
+because of that there will be some critical flow depth formation on the channel on the on 
+the hump itself . And that facilitates measurement of or the discharge measurement by just  
+a single measurement on upstream side that  is the concept on which the broadcasted weirs  
+work which works on the function of specific energy  concept .  
+(Refer Slide Time: 26:02 ) 
+ 
+ Similarly , in the critical flow  typically occurs where whenever there is a slope changes in 
+a channel . So, whatever slope changes the flow changes from subcritical to supercritical 
+and or otherwise  so, because of that there will be critical flow or with there is a free a over 
+fall at the end of channel . So, if long channel is the re suddenly there is a free or fall , then 
+the, at the end of the channel there will be  critical flow . 
+It is critical flow concept is useful in handling smooth channel transition problems  so, how 
+to if it is there is change in slope or change in bed width , then how the slope will change 
+and how transition should take place ? That is found out through use using this huge critical 
+flow concept  and also by compute the water surface for advice . So, channel transition 
+already we have seen could be due to gradual c hange in channel  bottom or in channel 
+width  both cases there will be  channel transition .  
+(Refer Slide Time: 27:02 ) 
+ 
+ So, if you look at example number 1, then it says determine the critical depth  in a 
+trapezoidal channel  for a discharge of  14 cumec  that width of the channel bottom is 6 meter 
+and the side slope upward at an angle of 45 degrees . So, we have been given data given 
+our Q equals to 14 cumec , B equals to 6 meters and z is 1, because 45 degree is nothing , 
+but 1  is to 1 slope .  
+So, this is the condition we have already seen  that is  
+  
+(𝑄2𝑦𝑐)
+𝑔𝐴𝑐3=1 
+𝐴𝑐3
+𝑇𝑐=𝑄2
+𝑔 = 142
+9.81=19.98 
+So, Q  is known g is known  so, that value comes out to be 19.98.  And for a trapezoidal 
+channel we know that if we are talking about critical condition because , this is a critical 
+condition we are talking about . So, if depth you consider that depth is critical  so, area is 
+critical . So, the critical area is  
+𝐴𝑐 = B𝑦𝑐+𝑧𝑦𝑐2=6𝑦𝑐+ 𝑦𝑐2 
+B is given is 6 and z is given as 1 
+So,  
+𝑇𝑐 = B + 2z 𝑦𝑐=6+2𝑦𝑐 
+ (Refer Slide Time: 28:24 ) 
+ 
+So, if we put the values  in the previous found relationship . So,  
+(6𝑦𝑐+𝑦𝑐2)3
+6+2𝑦𝑐=19.98 
+ that means, it is only a function this equation in function of y c . So, by trial and error we 
+can find out  and will find the value o f yc which comes out to be 0.78 meters . So, the critical 
+depth for the given condition in this channel is 0.78 meters .  
+(Refer Slide Time: 29:02 ) 
+ 
+ So, we take another example , a rectangular channel  lined with planed wood  n equals to 
+0.012 has a width of 8.2 meters . When the depth of water is 1 meter , the flow is 10.5 
+cumec . Determine the required slope ; the specific energy and the type of flow these things 
+we have to find out .  
+So, data given our rectangular given B is equal to 8.2 meters rectangular channel of course,  
+y is given as 1 meter that is depth of water , Q is given as 10.5 cumec and for wood , planed , 
+the value of mannings roughness coefficient n is given at 0.012. L et us say that channel 
+bed slope is S so, cross sectional area of the channel is b times y and b is known , y is 
+known  so, it is 8.2 square meters . Wetted perimeter B plus 2 y B is known , y is known , so, 
+it is 10.2 meters , hydraulic radius is ratios at  A by P so, A  by P 8 by 2 by 10 by 2 is 0.8 
+meters . 
+(Refer Slide Time: 30:15 ) 
+ 
+So, from continuity equation  V = Q/A, so, Q is known , A is known  so, V comes out to be 
+1.28 meters per second . And manning equation we know  V = (1/ n)R2/3S1/2, V is known , n 
+is known , R we have already calculated . So, only unknown  S so, from here we can find 
+which comes out to be  S = 1:3148  where  so, that is the bed slope of the channel , that is 
+there will be 1 meter fall over 3148  meters horizontal . 
+Now, a specific energy can be calculated using the base equation that is  
+Y = E = y + V2/2g. So, y is known here , V is known here , g is known here by putting the 
+values we get  a specific energy value is  1.08 meters . And then third thing we have to find 
+out the Froude number , the equation we already know Froude number is   
+𝐹= 𝑉
+√𝑔𝑦 
+and so, V is known here , y is known here , g is known here . 
+So, if you put the values we get  a value of  Froude number it  is 0.41 and you if you 
+remember ; that if Froude number is less than  1, then the flow is subcritical  that we just 
+saw we saw that for critic al flow F is equal to  1 and for subcritical is less than  1 for 
+supercritical is greater than 1. 
+So, since it is here 0.41 so, flow is subcritical . So, the three answers we have that slope is  
+1 is to 3148, energy is specific energy  1.08 meters and drop Froude number is 0.41 and 
+flow is subcritical . So, with this we have seen some of the fundamentals of  a weapon 
+channel already leaks  in a in specific energy concept , what could be is possible application 
+and will continue with the further with the further fundamentals of open channel hydraulics 
+in the next lecture when we come is . 
+Thank you very much . 
+ 

@@ -1,0 +1,380 @@
+ 
+ Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 22 
+Problems o n Grassed Waterways  
+ 
+Hello friends , welcome back to NPTEL  online certification co urse on  Soil and Water 
+Conservation Engineering . I am Rajendra Singh, Professor in Agriculture and Food 
+Engineer ing Department of IIT Kharagpur . We are in a week -5, lecture -22. And the topic 
+today  is Problems on Grassed Waterways .  
+(Refer Slide Time: 00:36 ) 
+ 
+Just to remind you of the course content which we are covering this week . In lecture 21 
+that is the previous lecture , we covered grass waterw ays. Today , lecture 22 will use those 
+concepts to design problems to handle problems on grass waterw ays. Lectur e 23 will 
+handle parabolic grass waterways , and in lecture s 24 and 25, we will  tackle  numerical 
+questions that are ask ed in the GATE  examination on various topics that  we have 
+covered already .  
+ (Refer Slide Time: 01:11)  
+ 
+Let us start with problem number 1 that is a pr oblem with grass waterways . Problem 1 is 
+states : determine the dimensions of a trapezoidal -shape d grassed  waterway to carry the 
+peak runoff rate of 4 cubic meter s per second . The grade of the water way is 0.3 per cent. 
+Assume  permissible  flow ve locity of 0.9 meters per second  and manning’s  ‘n’ is 0.45. 
+So, we sa y we have been given a trapezoidal cross -section . We have given the peak flow 
+rate that is 4 cubic meter s per second . The grade of waterway s is given permissible f low 
+velocity is identifie d, and manning’s  ‘n’ value  is given . 
+So, it is a very standard problem which we saw there is a typical problem  where we 
+know th e shape , we know these b ed slope, we know the discharge . So, let us talk about 
+the solution . So, let us assume that  the trapezoid al channel the  side slope of this 
+trapezoidal channel is 2 is to 1. Let us also assume that the bottom width is 2 meters and 
+the flow depth is 1 meter . So, these are the assumptions we are making about the cross -
+section of the channel s. So that means that our channel is something li ke this , this is 2 
+meters , the flow depth is  1 meter , and the side slope is 2:1, alright the side . So, this is the 
+cross -section we are  assuming .  
+ (Refer Slide Time: 02:50)  
+ 
+The c ross-sectional area will be from the  trapezoidal s ection area is 
+A = (b +  z×d)d  
+So, we know the values of b and d that we have already  assumed , and the z value is 
+already assumed . So, putting these  values  
+A = (2+2 ×1)1 = 4 m2. 
+Similarly , the perimeter of the waterway perimeter means  we know that if this is our  
+depth , so this is our  d, this is z, and this is b. So, basically , perimeter means the length 
+which is in  contact with the water . We can easily calculate . And the direct formula is  
+p = b + 2d ×√(1 + z2) 
+And because we know the values of b, d and z, the value of p erimeter , we can calculate ; 
+p = 2+2 ×1×√(1 + 22) =  6.47 m  
+So, the hydraulic radius of the waterway  
+R = A/P  = 4/6.47 = 0.62 m  
+ (Refer Slide Time: 04:23)  
+ 
+So, once hydraulic radius is known we can calculate  flow velocity by  using manning’s  
+equa tion,  
+v = 1/n R2/3 S1/2 = 1/0.045 (0.62 )2/3 (0.3/100)1/2 = 0.8 85 m/s  
+We have been given the  permissible velocity is 0.9 m /s. So, because it is less than  0.9 
+m/s, so that means  this is acceptable . 
+And th e discharge  
+Q = Av  = 4×0.885 = 3.54 m3/s 
+So, the Q comes out to be 3.54 cubic meter s per second , but we have to design a section 
+that could carry 4 cubic meter s per second . So that simply means the design  channel does 
+not have sufficient ca pacit y to carry the peak runoff rate . So that means  we have to take 
+another  trial value of bottom  width . Maybe the cross -section has to change . So, we are 
+changing the bottom width to 2.5 meters and side slope we are keeping the same , depth 
+also we are keepin g the  same .  
+ (Refer Slide Time: 05:51)  
+ 
+So, that means  we have to again calculate  all the values cross -sectional area . And if we 
+calculate , it comes out to be ,  
+A = (b +  z×d)d = (2.5+2 ×1)1 = 4.5 m2 
+p = b + 2d ×√(1 + z2) =2.5 + 2×1×√(1 + 22) = 6.97 m  
+R = A/p  = 4.5 /6.97 = 0.645 m  
+Velocity,  
+v = 1/n R2/3 S1/2 = 1/0.045 (0.6 45)2/3 (0.3/100)1/2 = 0.91 m/s 
+Now, then it comes out to be 0.91 meter s per second which i s very close to  0.9 meter s 
+per second  that is a permiss ible. So, we may  take this value let  us say .  
+ (Refer Slide Time: 06:35)  
+ 
+And then , we need to calculate the Q; 
+Q = A ×v = 4.5 ×0.91 = 4.09 m3/s 
+We were required to design  for 4 cubic meter s per second . So that means the charge 
+capacity of the waterway which we have designed is about the same as the peak runoff 
+rate, hence the selected bottom width  2.5 meters , depth of flow  is 1 meter , and side slope 
+of 2:1 can be used for  the construction of the  grass ed waterway . So, this is how  we 
+started with the assumption  of the cross -section . And we  calculated and found that the 
+discharge capacity w as not sufficient , then we change d the bottom width , and we did a 
+second iteration to get the right value . So, this is how  typically we design a grass 
+waterway .   
+ (Refer Slide T ime: 07:25)  
+ 
+Now, we go to this 2 nd problem , which states that calculate the peak runoff rate  expected 
+to occur once in  10-years  for the design of  grass waterway  to dispose runoff from a 35-
+hectare watershed . Other details are given a s under ; time of conc entration of watershed is 
+30 minutes , runoff  coefficient of the water shed for the given characteristic 0.4,  and 
+maximum rainfall for 10-years,  the 30-minutes storm is 6 centimetres , so that simply 
+means we have to estimate peak runoff rate . 
+And we know tha t we have to use the rational formula  that is Q = CIA/36, so that simply 
+means the value of C is already given here . This C value is  given  here, the area is given 
+here, the only thing we have to do is estimate  I that is  because we have been given  that 
+say 6 centimet res for 30 minutes storm . So that means  we have to just calculate the value 
+of I and put in this  so that we can  get the peak r unoff rate , so that is for bit a .  
+ (Refer Slide Time: 08:32)  
+ 
+In bi t ‘b’, using  the peak r unoff that we have estimated i n bit ‘a’, determine the mean 
+velocity of flow  and flow depth passing through a trapezoidal grassed way  with the 
+following details . The side slope  is 4:1, bottom  width  is 5 meter s, the slope of water is 2 
+per cent. The a ssumed roughness coefficient  is 0.04. So, once we estimate the peak  for 
+the given cross -section , we have to calculate the mean velocity of flow and flow dep th, 
+basically the depth we have  to calculate .  
+(Refer Slide Time: 09:06)  
+ 
+So, for bit ‘a’,  
+  
+ 
+The Tc is given at 30 minutes , C given  a 0.4, A is given as 35 ha, and maximum rainfall 
+for 30-minute duration  is 6 centimet res. So, obviously , we as I have already mentioned , 
+we have to use   
+Q = CIA/36 
+where  Q is in cubic meter per second ; A drainage area is in hectares ; rainfall intensity for 
+a duration  equal time o r desired recurrence  interval centimet re per hour . So, for these 
+units , we have to  ensure that we  are maintaining the desired units . 
+(Refer Slide Time: 09:41)  
+ 
+So, the rainfall intensity for using rational formula  will be  this is 6 centimet res over 30 
+minutes . We want intensity that is centimet re per hour . So, we have to multiply that by 
+60 minutes  so that we calculate the intensity as 12 centimet res per hour . So, now we 
+know  C, I, A ,  all the values  putting in equation . 
+Qpeak = (0.40×12×35)/36 = 4.67 m3/s  
+So, this is the discharge  for which we have to  design , the find out the depth and the 
+velocity for the given cross -section in bit ‘b’.  
+ (Refer Slide Time: 10:28)  
+ 
+Coming to part ‘b’, Manning ’s equation , we have to use  for determ ining  the velocity of 
+flow we every time we do the same ,  
+v = 1/n R2/3 S1/2  = 1/0 .04 R2/3 (0.02)1/2 
+                                                               v = 3.54 R2/3                                                        (1) 
+And so we get velocity in  terms of R that is hydraulic radius . 
+(Refer Slide Time: 11:06)  
+  
+ Now, coming to discharge : discharge is  Q = Av and Q value we have already e stimated 
+as 4.67 cubic meter per second that is equal to Av.  
+                                                           4.67 = Av                                                               (2) 
+So, if you substitute  velocity value from previous equations in this equation , 
+4.67 = 3.54AR2/3 
+                                                            AR2/3 = 1.32                                                          (3) 
+And from s tandard equatio ns, we know that  
+A = bd + zd2 
+R = ( bd + zd2)/(b + 2d ×√(1 + z2)) 
+(Refer Slide Time: 12:03)  
+ 
+So, putting A and R in equation 3, 
+(bd + zd2)× ((bd + zd2)/(b + 2d ×√(1 + z2)))2/3 = 1.32 
+Substituting known values o f b = 5, z = 4, which is already given .  
+                          (5d + 4d2)× ((5d + 4d2)/(5 + 2d ×√(1 + 42)))2/3 = 1.32                          (4)  
+ (Refer Slide Time: 12:43)  
+ 
+And then , if we  solve equation 4, only d is un known , so we can solve this by trial -and-
+error . So, if you use d equals 0.5 meters  as a first guess , the left -hand side of the equation 
+comes  out to be 1.848,  which is greater than 1.32 that is the right -hand s ide. So, now we 
+change the  reduced d to 0.4, and in this time , we get 1.23,  which is less than 1.3 2, so that 
+means  we have to increase d slightly more than its current value of  0.4. 
+(Refer Slide Time: 13:29)  
+ 
+And let  us say that  in this iteration , we put 0.45. And then , we get the value of 1.523, so 
+it is greater than 1.3, which  means  we have to reduce from 0.45. And now we do 0.42.  
+ When we do , we get 1.344, which is still greater than 1.32. So, now we can assume 
+another value of very close to 0.42, that is 0.416, and when we calculate , we exactly get  
+the value of 1.3, which is equal to 1.32. So, d equals 4.16 exactly satisfies the condition 
+we are looking for . So, the depth of flow comes out to be  0. 41 6 meters . 
+(Refer Slide Time: 14:15)  
+ 
+So, the final design dimensions are ; b is already known  5 mete rs, d we have calculated  
+we can also say a 0. 5 meter by adding a freeboard  of 0.084  meters . So, total depth D is 
+0.5 meters , z equal to  4:1, Q we have calculated  as 4.67, and velocity is 0.85.  So, this is 
+what the final  design is all about .    
+ (Refer Slide Time: 14:48)  
+ 
+Then we co me to problem number  3. And this is the main irrigatio n channel of a 
+trapezoidal  cross -section designed to carry a discharge of 45 cumec . The maximum 
+allowable  depth of water  is 1.8 meters . The bottom width of the channel is  6 mete rs, 
+while the side slope z is to be  2. Assuming the roughness coefficient to be 0.025, find the 
+bed slope  on which the channe l needs to be constructed . So, it is a straightforward 
+problem where everything else is given , and we have to just find the bed slo pe. 
+(Refer Slide Time: 15:23)  
+  
+  So, here discharge  Q is 0.45  cumec ; maximum depth of water , d is 1.8 meters ; bottom 
+width is  6 meters ; side slope with  2; Manning ’s roughness coefficient is 0.025 . So, for a 
+trapezoidal cross -section , we know  
+A = bd + zd2 
+So, we know b, d, and z . So, by putting the values in this equation ,  
+A = 6 ×1.8 + 2 ×1.82 = 17.28 m2 
+And from the continuity equation , the velocity will be , 
+V = Q/A =  45/17.28 = 2.6 m/s  
+(Refer Slide Time: 16:05)  
+ 
+Using M anning ’s equation , 
+v = 1/n R2/3 S1/2   
+And the wetted perimeter p = b + 2d ×√(1 + z2) = 6+2×1.8×√(1 + 4) = 14.05 m  
+Hydraulic radius  R = A /p = 17.28/14.05 = 1.23 m  
+So, putting the known value in this equation , that is velocity is  2.6 Manning ’s n is 0.025; 
+R value we calculate is 1. 23. We have  to only unknown this slope . So, by putt ing in this 
+equation we get the value of S   
+ 2.6 = 1/0.025 (1.23)2/3 S1/2 
+S = 0.006  
+The bed slope  that we have to maintain a 0.6 per cent that  is the bed slope we need to 
+maintain . 
+(Refer Slide Time: 16:52)  
+ 
+The next question that is  problem of  4 states th at a steady discharge  of 60 cubic  meter s 
+per second is passing through a  trape zoidal irrigation channel with a bottom width  of 5 
+meter , bed slope  of 0.01 percent and M anning ’s n value of  0.25. Find th e conveyance of 
+the ch annel  in cubic meter s per second . So, in this case , we have to find out the 
+conveyance that  is the difference in this particular  problem .  
+ (Refer Slide Time: 17:24)  
+ 
+So, here we have been given discharge  Q equals 60 cumec; bottom w idth is 5 meters ; 
+bed slope  is 0.0001 , and M anning ’s n is 0.025. So, from continuing equation   
+Q = AV = 1/n A R2/3 S1/2 
+Now, here this term AR2/3/n is known as the conveyance of the channel section  and 
+generally dictated by  K, So that means, we have to find the conveyance  of the channel 
+section K that simply means  we have to find  this entire  quantity .  
+So, 
+K = Q/S1/2 = 60/(0.0001)1/2 = 6000  
+So, conveyance of  the channel section is  6000  cumec , so that is the question so , but the 
+thing is that you sho uld know what is convinced  that the trick involved in this problem 
+was what is a convenient conveyance . So, we should always remember that this  quantity 
+AR2/3/n is referred to as a conveyan ce of a channel section , so that is learning from this 
+particular problem .   
+ (Refer Slide Time: 18:52)  
+ 
+Now, we go to problem number  5, which says that design the most economical  
+trapezoidal  section of a  waterway  to carry a discharge of  10 cume c meter s per second in 
+a bed slope of 1 in 3000.  For stability , the side slope  is half is to 1 in half is to 1, and the 
+value of M anning ’s of n is 0.025 . So, if but the important thing is here that we do no t 
+have to design just a channel , but we have  to design a most economical trapezoidal 
+section , so that has  a different connotation and wi ll see what  that means  actually . 
+(Refer Slide Time: 19:32)  
+  
+  So, so for solving this problem , we do need to know the concept  of the most  economical  
+section or a best hydraulic section . Both these terms are commonly used that is the most 
+economical section or a best hydraulic section . So, in this equation , that is   
+Q = 1/n A R2/3 S1/2 
+Where  AR2/3 is called a section factor . 
+And for uniform flow , section factor is  A(A/P)2/3 
+So that is for a channel for a given n and S, Q will increase  with incr easing A, but will 
+decrease  with increasing P. So, as you can see here  because Q is a function of  Q is 
+proportional to A  times P2/3 here so that simply means  Q is directly prop ortional to A, so 
+that means, A increases  Q increases . And it is indirectly proportional to P, which  means 
+P increases  Q decreases . So, this is a typical relation that  with an increase in cross -
+sectional area , Q increases , but an increase in weighted perimeter  Q decreases . So, this is 
+on this concept of the economical section is based on . 
+(Refer Slide Time: 21:06)  
+ 
+So, thus for a given A  and given the shape of the channel , there will be a certain ratio  of 
+depth  to width  y by B for which the section factor will be maximum . And such a ratio 
+gives the best hydraulic section . So, A channel proportion  that will say minimum wet ted 
+p meter for a given A  is referre d to as the best hydraulic section , a channel proportion 
+that yields a minimum weighted perimeter for a given cross -sectional area is referred to  
+ as the best hydraulic section . And the best hydraulic section  is also referred to as the 
+most  economical secti on because it also will say minimum  excavation . So, a depth to 
+width ratio is such that it  requires minimum excavation. So that is why the best hydraulic 
+section and the most economical section , these terms are used  synonymously or 
+interchangeably .  
+(Refer  Slide Time: 22:01)  
+ 
+So, if we try to find out for a trapezoidal channel section ,  
+                                                            A = BD + ZD2                                                      (1) 
+                                                           B = A/D – ZD                                                       (2) 
+                                                     P = B + 2D×√(1 + Z2)                                               (3) 
+Putting the value of B from (2) in (3 ) 
+                                             P = A/D - ZD + 2D×√(1 + Z2)                                           (4) 
+And for most economical section , P should  be the minimum that  we have already seen 
+that P  should be minimum for a given A . So, dp/dD = 0.  
+Thus, dP/dD = -A/D2 – Z + 2×√(1 + Z2)  = 0                                           
+ (Refer Slide Time: 23:43)  
+ 
+And from here  
+2×√(1 + Z2)  =A/D2 + Z 
+And by putting the v alue of A,  
+2×√(1 + Z2)  = (BD+Z D2)/D2 + Z = (B+2ZD)/D 
+                                              D×√(1 + Z2)  = (B+2ZD)/2                                              (5) 
+And then combining  3 and 5, 
+P = B + 2 ((B+2ZD)/2) = 2(B + ZD)                                                                                (6) 
+ Thus, the most economical se ction , the hydraulic radius , may be given  using equation 1 
+and using 7.  
+R = A/P = D(B+ZD)/(2(B+ZD)) = D/2                                                                          (7) 
+.  
+ (Refer Slide Time: 25:25)  
+ 
+This is  because  we can now write  that the  two conditions for the most economical 
+section are ; half of the top width  is equal to side slope distance  for a given side slope  
+from equation number  5 because  this is what to s ay. And the second condition is 
+hydraulic radius  is half of th e depth  from equa tion number  7. So, these are the  two 
+important things we are getting here . 
+(Refer Slide Time: 25:50)  
+ 
+So, half of the top width , so here from this equation , this is the top width , and half of that 
+is equal to  site length , because  if you rem ember , this is section . This is B, and this is  Z  
+ and if you say  this is D, then if we calculate , then this side is nothing , but this is BD + 
+ZD2. So, from here this length , this is D, and this is B, and this is Z. So, this is ZD. So, 
+the side is √(Z2D2 + D2) or D ×√(1 + Z2) So, this is what we are talking about , so that is 
+why perimeter we write B plus 2 times of this . So, here saying that this is equal to B plus 
+2ZD, which is here the top width here  this is T, so this is half of that . So, this is  one, and 
+hydraulic radius is half of  the depth  total depth of the channel depth . So, these are the  
+two important conditions  we have obtained fr om the most economical s ection that is half 
+of the top width  is equal to side slope distance  for a given side sl ope, and hydraulic 
+radius is half of the depth . So, these are the  two important conditions . 
+(Refer Slide Time: 27:25)  
+ 
+Along with these , we can also find  a third condit ion, where in that condition we can be 
+found if Z is also variables  in the previous case , we said that Z is a constant , so now Z is 
+also variable . So, from this continuing with these equations  
+B = 2D ×√(1 + Z2) – 2ZD = 2D ×(√(1 + Z2)-Z)                                                             (8) 
+And putting B from  equation number  8 on equations  1 and 3, so   
+A = BD +ZD2 = 2D2 ×(√(1 + Z2)-Z) + ZD2  = D2×(√(1 + Z2)-Z)     
+Or D = (A/(2(√(1 + Z2)-Z)))1/2                                                                                               (9)     
+ P = B + 2 ((B+2ZD)/2) = 2D×(√(1 + Z2)-Z) + 2D×(√(1 + Z2)  = 2D( 2√(1 + Z2)-Z)  (10)                                                                                                                                              
+So, A and P , we are getting in these  two terms now . 
+(Refer Slide Time: 29: 01) 
+ 
+So, now putting the value of D from  equation  9 in equation  10  
+P = 2(A/(2(√(1 + Z2)-Z)))1/2 (2(√(1 + Z2)-Z))  
+P2 = 4A (2(√(1 + Z2)-Z))                                              
+that is from the equation a , which we have obtained in the equation  of P. This is what we 
+obtained or  let me just go back  so that we can really see what exactly equation 9 and 
+equation  10 was.   
+ (Refer Slide Time: 29:33)  
+ 
+So, equation 9 was here ,  
+D = (A/(2(√(1 + Z2)-Z)))1/2                                                                                                
+and this is equation number  10 that is   
+P = 2D( 2√(1 + Z2)-Z)   
+So, P will be  two times of this , and of course , whatever is in parentheses that remains the 
+way it is , so that is what it is .   
+ (Refer Slide Time:  30:09) 
+ 
+So, here and then what is remains here in parentheses . So, by when we t ry to little bit 
+manipulate to A1/2 
+P2 = 4A (2(√(1 + Z2)-Z))                                              
+And for most economical  side slopes  of the most efficient section , we say that perimeter 
+has to be minimum with reference to Z that is the variable here Z is a variable , so dP/dZ 
+= 0. So, hence  this value  will if you substitute here  and apply the condition , then we get  
+2P(dP /dZ) = 4A(2 × 1/ 2 × (1+Z2)-1/2 × 2Z – 1) = 0 
+2Z/(1+Z2)-1/2 = 1 
+4Z2 = 1+Z2  
+Z = 1/√3                                                                                                                          (11)  
+ (Refer Slide Time: 31:05)  
+ 
+And then if you put the value of Z in equations , and finally  we will get  
+B = 2D(√(1 + Z2)-Z) = 2D(2√(1 + 1/3) - 1/√3)   
+B = (2/√3)D                                                                                                                    (12) 
+So, the third condition for the most  economical  trapezoidal section is  the bed width is  2 
+by root 3 of the depth  in terms of B and D that is a relationship between B and D. So, this 
+is the third condition , and that will be the condition that will be used for solving our  
+problem really .   
+ (Refer Slide Time: 31:32)  
+ 
+So, now in the problem , Q was 10 cumec ; S was 1  by 3000; Z was 1. 5,  n was 0.025. So, 
+velocity is  
+V = 1/n R2/3 S1/2  1/0.025 (D/2)2/3 (1/3000)1/2 = 0.46 D2/3 
+Q = AV or 10 = (BD + 1.5D2)( 0.46D2/3) 
+(BD + 1.5D2)(D2/3) = 21.74  
+Putting  B = (2/√3)D, 
+((2/√3)D2 + 1. 5D2)(D2/3) = 21.74  
+D = 2.2 m  
+Hence  B = 2.54 m 
+So, with this , we have seen that different kinds of problems can be handled with 
+whatever knowledge . And you can see that we frequently use certain formu lae. For 
+example, the Q = AV that a continuity equation ; V = 1/n R2/3 S1/2 that is M anning ’s 
+equation . And, of course , the Q = CIA/36 is a rational formula . These three  are very 
+commonly used . And of course,  we have to always rem ember that the hydraulic radius is 
+A/P. And then for  a given cr oss-section , if yo u can remember the formula for A and P,  
+ otherwise we can always find out from basic trigonometry , and then our life will be 
+easier . We can solv e any problem on grassed water away . 
+Hopefully , if you solve some more problems and practice a few more problems , there 
+should not be any issues in designing grass waterways . 
+Thank you very much . 

@@ -1,0 +1,345 @@
+ Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 20 
+Problems o n Broad – Base Terraces  
+ 
+Hello, friend s. Welcome back to NPTEL  online certificat ion course on Soil and Water 
+Conservation Engineering . I am Rajendra Singh, professor in Agriculture and Food 
+Engineering Department of IIT Kharagpur . We are in week four lecture 20, and today we 
+will solve Problems on Broad Base Terrace . 
+ (Refer Slide Tim e: 00:41 ) 
+ 
+Now,  just to  remind you of the course content that we covered this week up  till now . In 
+lecture  16, we started the week by introducing terrace ; in lecture 17, we covered the 
+concepts  corresponding to bench terraces . 
+In lecture 18, we used the c oncept s learnt in lecture 17 to design  bench terraces . That is , 
+we solved problems dealing with the design of bench terraces . In lecture  19, we dealt 
+with broad -based terraces , and in today’s  lecture , we will solve certain problems dealing 
+with the design of broad -based  terraces . (Refer Slide Time: 01:22 ) 
+ 
+Let us start with problem number 1, and this problem states that for a  broad -based terrace 
+constructed on a 7 per cent land slope , the channel depth is  0.3 meters , and the width of 
+the terrace  is 6 meter s. Compute the cut and fill height s and the slope ratio s for the front 
+slope and back slope , assuming a balanced cross -section . 
+So, that means  it is a broad -based terrace , constructed on a 7 per cent land slope , channel 
+depth and channel width of  the terra ce are already given . And we have to compute the 
+cut and fill height s. At the slope ratio s for the front slope and the back slope  and we have 
+to assume a  balanced cross -section . And balanced  cross -section means the cut  is equal to 
+fill. That is, this is the information  that is already given in this particular problem . (Refer Slide Time: 02:25 ) 
+ 
+So, once again , the data given are land slope S equal s 7 per cent; channel depth , h equal 
+to 0.3 meters ; terrace width , W is 6 meters  and balance d cross -section . So, we have been 
+given his known to us , W is known to us and of course,  the land slope  which is here S 
+that is known to us . 
+So, these are  three  things which are known to us and of course,  balance cross -section  so, 
+that simply means ; cut is equal to fill that is also  known to us  so; that means, this cut is 
+equal to this fill that is known to us . And for this section , when it is a or width of the  
+when all the three widths  are same that when means  when the section is balance d or the 
+cross -section  is balance d. 
+Then we know the relati onship between cut fill, the channel depth  and terrace width , 
+which is given by equation 3, which we saw in the previous lecture . And that reads as  C 
+plus f equal to h plus  S times  W. W here C is cut , f is fill ed, C is cut , f is fill ed, is the  
+depth of the channel  and W is the terrace width , and S is the land  slope . So, this is what it 
+is, and as per this problem statement , it is a balance cross -section  so, C is equal to f that 
+is cut is equal to  f. 
+So, from this relationship , C equal  to f is h plus SW divided by two because C plus you 
+can also write 2 C equals to or two f equal to h plus SW or in this case writing  C equal to 
+f equal to h plus SW by 2. And in this , we know the value of h , we know the value of  S, we know the value of  W, so; that means, by just by putting the  values of h  S and W, we 
+can get the values of  C and f  that is cut and fill . 
+And so, C equals f, which is equal to his 0.3; S is 7 per cent; that means  0.07 W is the 
+width of the terraces , which is given 6 meters . So, by putting the value , you get C equal 
+to f is equal to 0.36 meters . 
+So, that is cut fill is 0.36 meters  so; that means, from the  this is the bottom of the 
+channel , that is measured at the channel centerline  the bottom of the channel ; channel 
+and this is the original land slope , the vertical  difference between two is cut . 
+Similarly , here the terrace centerline  the top of the ridge  and the original land slope at 
+this particular vertical line ; the vertical difference is the fill. So, the cut and fill value we 
+have obtained in this problem . We have to  obtain the slopes . 
+(Refer Slide Time: 05:53 ) 
+ 
+So, from the geometry for the front slope , the change in elevation over W is equal to h. 
+So, this is the front slope , so that this is W and elevation change from here to  here. This 
+is h basically . So, the front slope wi ll be S f is W by h and W value is known h value is 
+known W is six h  0.3, so that means, it is 20. 
+So, the front slope ratio  comes out to be 20 is to 1, that is  20 horizontal to 1 vertical . So, 
+we are alwa ys in this subject typically ; we represent slopes as hor izontal is to vertical 
+ratio. For the  back slope , if you see , the change in elevation over  W has two components . One is , of course,  hh this is already there , but at the same time , there is a n elevatio n 
+difference of the original land slope basically . 
+ So, that we have to take into account the width , which is the same , so it is h plus SW. 
+So, that is why the back slope  is W divided by  h plus WS. So, six divided by 0.3, which 
+is h W is 6 S is 0.07, and b y calculating this, we get 8.33 S b equals 8.33. 
+So, the back slope  ratio is 8.33 is to 1 so, the front slope ratio comes out to be 20 is to 1, 
+back slope  ratio comes out to b e 8.33 is to 1. So, that is means cut and fill is equal to 0.36 
+meters , front  slope ratio is 20 is to 1, and back slope ratio is 8.33 is to 1. So, these  are the  
+answers which we have obtained for this particular problem . 
+(Refer Slide Time: 07:18 ) 
+ 
+Now, we go to the second problem , which says that design a 300-meter long variable 
+grade d terrace for land having an average slope of 3 per cent. The maximum permeab le 
+velocity of water in the terrace channel is 60 centimet res per second . The i ntensity of 1-
+hour rainfall ex pected during a 10-year recurrent interval is 10 centimet res per hour . The 
+region is less humid , and soils are normal . 
+So, that means  we have to design a 300-meter long variable graded terrace for a 
+lands cape of 3 per cent. The maximum permeabil ity velocity is given here 60 
+centimet res per second . The i ntensity of 1-hour rai nfall for a 10-year re currence interval is given as 10 centimet res per hour , and the region  identified as less humid and soils a re 
+normal . 
+So, that is means remember we had a condition for the vertical interval . So, that simply  
+shows that we can straightaw ay use one of the equations recommended for  graded 
+terraces . 
+(Refer Slide Time: 08:31 ) 
+ 
+So, the data once again with the symbol length of variable graded terrace l small l is 300 
+meters , land slope S is 3 per cent, the maximum permissible velocity of wate r which is 
+nothing , but the non -erosive velocity we call is 60 centimet re per second and intensity of  
+1 hour 10-year rain fall is 10 centimet re per second , the region is less humid and  with 
+normal soils . 
+So, the first thing we need to estimate is vertical i ntervals  and vertical intervals , and for 
+this purpose , we may use equation two previous lecture , in which  there was an equation 
+given for vertical interval s for less humid regions and normal soil . So, as per the 
+relationship , vertical  interval equals S plus six by 10, where  S is the land slope , the land 
+slope which is 3 per cent in this case . 
+So, putting the value of  S, we can calculate the vertical interval as 3 plus 6 9 by ten that 
+is 0.9 meters . And the relationship between  HI and VI we already know beca use we know that  HI and VI are related  with reference to  S per cent land slope . So, this is  VI. 
+This is  HI, so VI by HI is equal to  S by 100. 
+So, this we have seen many times  so, from this relationship  HI is equa lled to 100 VI by 
+S. So, same here 100 VI by S and VI value we already know  S value we already know  
+so, putting these values we get horizontal interval equals to 30 meter s. So, for this 
+particular ly given conditions  vertical interval is 0.9 meters , and the horizontal interval is 
+30 meters . 
+(Refer Sl ide Time: 10:31 ) 
+ 
+Now, step two is to let the grades of variable gr aded terrace be we can use the standard 
+table we already saw tab le 2, in lecture 19 0.5  0.4 0.2 and 0.2 for each quarter length 
+from outlet respectively . (Refer Slide Time: 10:55 ) 
+ 
+And th is we can see ah ; we can also see the table basically  by looking in to the table  
+because here the channel grades  are recommended for variable graded terraces  based on 
+us NRCS  recommendations . So, our terrace length is 300 meters ; that means  we fall here 
+in this 260-360 range , and then the recommended  grades are in per  cent 0.50 for the 
+lower quarter , 0.40 for the second quarter , 0.30 for the third qua rter and 0.20 for the 
+upper quarter . 
+So, right from  upstream to downstream , the slope is increasing point 0.20 0.30 0.40 0.50  
+slowly . So, this is these are the recommended grades which we can accept basically . (Refer Slide Time: 11:43 ) 
+ 
+And so, that means,  these are the grades  which we have chosen . Next step three , we need 
+to determine the peak  of runoff , and obviously, for this , we use the rational  method we 
+already know that whenever we need peak . Peak rate of runoff , we use a rational method 
+which is Q equals to CIA by 36. 
+Where C is the runoff coefficient , Q is in cubic meter  per second , that is peak runoff r ate 
+in cubic meter per second , C is the runoff coefficient , I is the rainfall intensity equal to 
+time concentration  unit is centimet re per hour . And A is the d rainage area , and the unit 
+used is hectares , and using this is the rational formula . Using this , we can use cultivate 
+the peak rate of runoff . (Refer Slide Time: 12:34 ) 
+ 
+So, for this case , the drainage area that is the terrace area which is (Refer Time: 1 2:40) 
+drainage area is nothing , but the multiplication of length of the terrace and the horizonta l 
+interval , because the area between two terraces that is used as a drainage area for  the 
+designing the  graded channel . And that means  a length is given as 300 meters HI we 
+have calculated as  30 meters . 
+So, the area comes out to be  9000  square meters  and o r because the unit required q I am 
+equal  to CIA hectares . So, we are again converting this 9000  square meter s into 0.9 
+hectare s divided by 10000, where 10000 square meters equal to 1 hectare . So, it comes 
+out to be 0.9 hectare s. Now we need to determine th e time of concentration because  the 
+definition says that it is  peak rainfall intensity for a duration equal to the time of 
+concentration .  
+And for the time of concentratio n, we use the Kirpich  formula that is the standard 
+formula we use , and as per this fo rmula , T c is equal to  0.0195 L  to the power 0.77 S to 
+the power minus 0.385 , where L is the total flow length  and S is the  total slope  over the 
+flow length . 
+So, the total flow  length typically is l onger  time plus horizontal interval  that every time 
+you ha ve seen that in between  two graded terraces will be built here. And then the 
+second one is let us say here so ; obviously, this is the horizontal interval  between these 
+two. So, this is the area that x is the terrace  area. So, the flow  has to  traverse this  distance , and along the  channel perpendicular , longitudinal distance  has traverse d this 
+length of the terrace . 
+So, that is why that is the t otal flow length is HI plus the length along the channel . So, 
+this is 300 plus 30 or 330 meters . And the total slope  is elevation difference again the 
+elevation difference here , plus the grade of the channel we have to consider and the total 
+length for cal culating the slope . So, H is the difference  in elevation between  most remote 
+point s and the outlet . So, the most rem ote point could be considered the upstream of the 
+previous  terrace . 
+(Refer Slide Time: 14:57 ) 
+ 
+Now, coming to the elevation difference between  adjacent terraces over  HI, the island 
+slope is 3 per cent. So, 0.03 times 30 so, 0.9 meters , it comes out to be straight  away . 
+And over the channel length , we have already deci ded the slopes that are 0.5 per cent. 
+This should  be read as point 4 per cent. So, 0.4 percent , then 0.3 percent and 0.2 percent  
+so, from table we read point 0.2 0.3 0.4 and 0.5 percent . 
+So, that is why the , and total 300 meters  so, the quarter length is  75 meters . So that 
+means  0.005  times 75 0.004  times 75 0.003  times 75 0.002  times 75 and then calculate 
+slopes of these . So, the total elevation di fference is this  plus sum of these four . So, all 
+sums come  out to be 1.95 meters . So, the total elevation difference is 1.95 meters ; the total length is 330 meters  slope over 
+the total flow length is 0.006 that is the  slope we calculate . 
+(Refer Slide Time: 16:10 ) 
+ 
+So, that simply means that now putti ng the because , we know L now we know S. So, 
+putting the value in Kirpichs formula that is 0.0195 330  to power 0.77 0.006  to the power 
+minus  0.385  we get the time of concentration equals to 12.15 meters for the given area . 
+Now, we have been given a 1-hour intensity  is 10 centimet res per hour , and we have to 
+obtain the intensity corresponding to 12.15  meters . So, like in the previous ah ; class 
+where we solved the problem on  bench terraces , and we use d the standard nomograph . 
+So, the same standard nomograph w e have to use here , which relates 1-hour rainfall 
+intensity , 1-hour rainfall intensity to rainfall intensity for different durations . And the 
+durations are given here 5 minutes, 15 minutes , 30 minutes , 60 minutes , 120 minutes and  
+so on. 
+So, for our case , it is 1-hour intensity 10 centimet res per hour , so; that means  1-hour 
+intensity . So, our value will lie on this horizontal line , then corresponding to 10 
+centimet res per hour , and we have to look for 12.15  minutes . So, this is a 5-minute line  
+so, this is on e point of reference , and this is 15 minutes , this is one point of reference . 
+And we have to find the m; this is ten will be somewhere here  so, 12.5 will be somewhere 
+here so more tha n 20 somewhere here . So, roughly we are approximately we are saying 
+this v alue is 22 centimet res per hour . So, we are assuming  rather from this nomograph , we are reading the value th at 
+correspond s to the time of concentration , the intensity , the peak intensity  is 22 
+centimet res per hour , and that is the value we will use in our  CIA by 36. 
+(Refer Slide Time: 18:12 ) 
+ 
+So, that means, now we can use  the r ational runoff  formula , and for the , we assume  C 
+equals 0.3 s o, now, CIA by 36. So,  C, we assumed at  0.3.  we ha ve just now 
+approximated at 22 the area we have calculated as 0.9 hectares . So, putting th e value we 
+get, Q value equals 0.165  cubic meter s per second , this is this should be read a  cubic 
+meter per second , not the  3. 
+So, it is a cubic meter per second or  cumec  which is the unit of discharge , because here 
+we are calculating the peak runoff rate . Now,  once we have  calculated that ah ; discharge 
+which our terrace would be able to handle or grade channel should be able to handle . 
+Then we have to  come to  defin e the terrace cross -section . So, for the terrace cross -
+section , we need to select the cut , front and back slopes . So, for this , again , we can use 
+the standard table , that is , table 3 provided in lecture number 19 that is the  US SCS 
+recommendation and from this ta ble, we will just see the table ; the table is here . (Refer Slide Time: 19:25 ) 
+ 
+So, from this table , the land slope  is ours  3 per cent so, closer to this  3 per cent. And for 
+this, the channel slopes are recommended as six is to 1, which  is a cut slope . This is ridg e 
+fore slope or what we are calling as front slope eight is to 1, and the back slope is eight  to 
+1. 
+So, six is to 1 8 is to 1 are our recommended  slopes from the table . So that means  we can 
+come back here and we see that using a standard table , we get S c equals to 6 is to 6 S f 
+equals to 8 is to 1 and S b equ als to 8 is to 1. So, slopes we have taken a decision 
+regarding . (Refer Slide Time: 20:17 ) 
+ 
+So, now we need to choose the channel shape and determine it  is dimensions . So, let us 
+say that we con sider a triangular channel . So, triangular channel means ; we are saying 
+that the depth of the channel is h , that is , the depth of M bounding or depth of the cut 
+channel is h . Here, in this case , so, obviously, the total cross -sectional area is the area 
+that will be utilized for water flow . 
+(Refer Slide Time: 20:50 ) 
+ 
+So, here, that means  the half is to  6 is to 1 times h because  this is the channel  here this is 
+h, this slope is six to 1, this slope is eight  is to 1. So, that simply means that this width is  eight h and t his width is  six h and  so, two triangles . So, this triangle is half into six h into 
+h, and the other triangle is half into eight h into the hand. This is how we can calculate the 
+total cross -sectional area , which comes out to be seven  h square . 
+Now, we can assume  we assume a simple value of h equals 0.3, which is the h value we 
+are assuming . So, the cross -sectional area A is 1.27 square meters ; we also require the 
+wetted perimeter because we have to calculate the hydraulic radius . 
+So that means, length of this and the length of thi s sum of these two because  we know 
+these two values we can always calculate using Pythagoras  theorem . So, here S 1 plus S 
+2 that is h square plus six h square h square plus eight h square , here it will be  the eight h 
+square , and if we solve this , it will come out to be  14.1 h for 14.15 h or the value of h we 
+are assuming 0.3 s o, the wetted perimeter is 4.24 meters . So, the hydraulic radius will be 
+the ratio of A and P A value we calculated as 1.27 P-value we calculated as 4.24. So, the 
+value of the hydraulic radius is 0.3 meters . 
+(Refer Slid e Time: 22:31 ) 
+ 
+So, from there , Manning’s  equation can be used for calculating the velocity , which is n 
+by n R R to the power  two by 3 S to the power half . So, n value we are assuming as 0.04,  
+R we have already calculated , and the grade is already given  so 0.0025.  So, using this , 
+the flow velocity we get is 0.56 meter s per second which are a non-erosive  velocity  as 
+per recommendations . And Q of the channel is  A times  V A we know  V we know , so; it 
+comes out to be 0.71 cubic meter s per second . So, the design channel  has sufficient capacity because  the capacity required w as 0.165 
+cubic meters per second , wherein we are calculating 0.71 cubic meter s per second . So, 
+now, we can say that the channel has sufficient capacity , so; assuming 20 per cent 
+freeboa rd that is 0.2 h ridge height will be 1.2 h or 0.36 meters . So, this way , we have 
+designed the  various cross -sections  various parameters of the channel . 
+(Refer Slide Time: 23:39 ) 
+ 
+So, the answers are vertical interval is 0.9 meters , the horizontal interva l is 30, terrace 
+grade s of 0.4 0.3 0.4 0.3 and 0.2 for each quarter length , terrace flow depth is 0.3, slope 
+ratios are six to 1 8 is to 1, terrace ridge height is 0.36, and channel flow velocity is 0.71,  
+terrace channel  flow capacity is 0.71 cubic meter p er second . So, these are the various 
+dimensions we have already designed . (Refer Slide Time: 24:12 ) 
+ 
+Now, we go to the third channel , which is also a design channel , design a n 800-meter 
+long level broad terrace , for land having an average slope of 4 per cent, maximum  
+expected rainfall having 10-year recurrence interval is 18 centimet res. The i nfiltration 
+capacity of the soil of the area is such that 40 per cent of the rainfall is absorbed in the 
+field, and the region is sub humid and has clay loam . 
+(Refer S lide Time: 24:40 ) 
+ 
+So, the data given are length , length of the level broad terrace is l is 800 meters , the land 
+slope is 4 per cent, maximum expected rainfall having ten years recurrence  interval is 18 centimet res, infilt ration capacity is 40 per cent of  rainfall , and it is a sub -humid  region 
+with clay loam soil . 
+So, we need to estimate vertical interval  for the purpose we have to use the same 
+equation because  it is a less humid region and normal soil . So, VI equals S plus six by 
+ten, so; VI comes out to be 1 meter because S is 4percent  and HI once VI is known , HI 
+comes out to be 25 meters . 
+(Refer Slide Time: 25:20 ) 
+ 
+So, now we need to determine the maximum runoff volume and  so the maximum 
+expected rainfall having ten years recurrence interval is 18 centi metres. And infilt ration 
+capacity  is 40 per cent of the rainfall  that simply means the runoff potential is 60 per cent 
+of rainfall because  40 per cent is absorbed in infilt ration . 
+So, the level terrace system needs to be designed to handle  the maximum runo ff 
+potential , which is 60 per cent of the rainfal l. So, it is 60 per cent of the rainfall ; that 
+means 0.6 or 0.18 or 0.108  meters that is the maximum runoff to be stored . (Refer Slide Time: 25:59 ) 
+ 
+Now, the storage area  is the maximum runoff depth times h orizontal interval , so, putting 
+these values , we get 2.7 square meters . And here also , we need to choose a channel shape 
+and determine it  is dimension . So, let us consider a trapezoidal section with cut slope , 
+front slope , back slope with six is to 1, 8 is to 1, and 8 is to 1. 
+ So, this ratio we are assum ing here and  a trapezoidal section we are considering so ; that 
+means, the when we calculate the flow area that we have to consider three sections  a one 
+a two and a three because slope here is six is to 1 here it 8 is to 1. 
+(Refer Slide Time: 26:42 ) 
+ So, the cross -sectional area  so, three a one a two a three  the first  one is a triangle , half 6 6 
+h into h , the second  one is a rectangle b times h , and the third  one is rectangle half eight h 
+times h  so, it is the plus seven  h square . 
+Since the storage area required is 2.7 square meters , the cross -section area of the channel 
+should be equal  to the required storage area . So, assuming b equals 0.4 meters , let us say 
+that the bottom width is 40 centimet res or 0.4 meters. And if we put in the  in this b  h plus 
+seven  h square is 2.7, if you put in this equation  b equals to 0.4 we get  seven  h square 
+plus 0.4 h equal to 2.7, or we can write seven  h square  plus 0.4 h minus 2.7 equals to 0. 
+ So, the quadratic equation we can  use solve using a straight formula which we know 
+minus b plus -minus square root of b square minus 4 ac by two a. So, by putting the 
+values of b b, this is b , this is  a, and this is c . So, putting these values here , we get the 
+value of h as 0.65 or 0.59. So,  we select ei ther of the two , so; we select h equals 0.65 
+meters . 
+(Refer Slide Time: 28:09 ) 
+ 
+So, assuming 20 per cent freeboard that is 0.2 h, ridge height  comes out to be 0.78 and 
+terrace width  8.78 6.24 meters . So, terrace the answers are vertical inter val is 1 meter , 
+the horizontal interval is 25 meters , flow de pth is 0.56 meters , channel bottom width 0.4 
+meters , slopes ratio s are six is to 1 8 is to 1 and 8 is to o 1, channel  ridge height is 0.78 
+meters , and the channel width is 6.24 meters . So, these a re all various parameters of this 
+level  broad base terrace . (Refer Slide Time: 28:48 ) 
+ 
+So, now, we take the last  problem , and that says the compute the depth of cut and fill and 
+side slope of a broad base terrace for 30-centimet re depth of flow on an 8 per cent land 
+slope . Consider that  the tillage operations are to be performed using machines , and the 
+width of the machine is  4.27 meters . So, we have been given the  depth of flow , land 
+slope and width of the machine . 
+(Refer Slide Time: 29:18 ) 
+ 
+So, that sim ply means the data given are land slope S equals to 8 per cent, channel depth 
+h equal to 0.3 meters that are here h is given here , this is h , this is h , this is the this is h it given here , and machiner y width is given as 4.27 meters . So, because the machine ry 
+width of the terrace is typically kept  W equal to machinery width  so, W comes out to be 
+4.27 meters . 
+So, from a first problem , we saw this equation C plus f equals h plus S times W, now 
+putting the known value of h S and W because  h S and W is known , C plus f we come  
+out to be 0.68 meters . So, this is what we get C plus f equal to 0.18 0.64 meters . 
+(Refer Slide  Time: 30:08 ) 
+ 
+And since we normally use a balanced cross -section , where the cut is equal to fill so ; that 
+means  C equal to f will be 0.32 meters . And then front slope because front slope we 
+know the width is the width and the fall is h which is 0.3 so, it is 4.27 by 0.3 that is 14.2. 
+So, the front  slope ratio comes out to be 14.2 is to 1, wherein for the back slope , when 
+we calculate the back slop e, the el evation difference is h plus WS. So, here the slope 
+ratio will be W divided by h plus WS, W is 4.27,  his 0.3, W is 4.27, S is 0.08. 
+So that means  it comes out to be 6.67, so the back slope ratio comes out to be 6.67 is to 
+1. So that means  the cut and fill  comes out to be 0.32 meters , the front slope ratio  comes 
+out to be 14.2 is to 1, and the backslope ratio comes out to be 6.67 is to 1. 
+So, with this , we have seen that we can design  broad base terraces , be it graded terraces 
+or be it a level terra ces. And also , we can  find what should be the cut and fill for a given 
+condition and what should be the  ratios , the slope ratios . So, these are the problems , but as I have said earlier also that there can be other forms of the problem . So, if you solve 
+some more problems for practice , probably things will be even clear er, but I think that  
+with this much practice its elf, you will be able  to design  broad base terraces . 
+Thank you very much . 

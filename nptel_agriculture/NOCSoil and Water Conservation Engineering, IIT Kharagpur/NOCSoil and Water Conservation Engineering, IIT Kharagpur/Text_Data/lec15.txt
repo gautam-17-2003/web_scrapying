@@ -1,0 +1,381 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 15 
+Problem s on Graded Bunds  
+ 
+Hello friends , welcome to NPTEL online certification course on  Soil and Water 
+Conservation Engineering.  I am Rajendra Singh,  Professor in the Agricultural  and Food 
+Engineering Department  of IIT Kharagpur . We are in week number 3 , lecture 15 . And 
+today, we will be solving problems on graded bunds . We saw the princi ples o f 
+components of graded bunds. In the previous lecture , today , we will utilize them to solve 
+Problems on  Graded Bunds . 
+(Refer Slide Time: 00:50)  
+ 
+Just to give you an idea of the course content, which we have gone through . This 
+particular week  we st arted  this week with lecture 11 , where  we introduced bunds;  then, 
+in lecture 12,  we went through contour bund; that is , design parameters, design principle, 
+design considerations  and lecture 13. We applied those  design parameters considerations 
+into solving some o f the problems, dealing with the design of contour bunds . 
+In the previous lecture, that in lecture 14 , we covered graded bunds  and today, we will be 
+solving problems on graded bunds .   (Refer Slide Time: 01:26)  
+ 
+Let us start with problem number 1 , which r eads a 350 -meter -long graded bund  has been 
+proposed to be constructed  on a land of 3 per  cent slope. So, the length of  the graded 
+bund is given as 300 meters , and slope land slope is given as 3 per  cent the type of soil is 
+sandy. So, the soil we have to we  are dealing  with it is sandy soil . 
+The rainfall intensity of the area  was recorded  as 18 centimetres  per hour  for a duration 
+equal to the time of concentration. This is very important . The duration of the rainfall is 
+also given . That is, rainfall intensit y is given as 18  centimetre s per hour, but the 
+important thing is the rainfall was for a duration equal to the time of concentration . 
+And we have to maintain a uniform  grade of point one 8 per  cent along the  bund. So, this 
+is also , so it is a graded bund , so that is why a uniform g rade of  0.18 per  cent has to be 
+maintained . 
+Further , the problem says that assume VI, that is , the vertical interval is  1.25 meters , and 
+the runoff coefficient C is 0.35. Using  the above data determine the dimensions  of the 
+bund. So, we have to  determine the dimensi ons of the bund  and the dimensions of the 
+bund. We saw that simply means we have to design  or decide on the  top width the 
+bottom width height side slope of the bund . 
+So, this is  typically this is how a cross -section of a  bund looks like. So, what we have to 
+decide on  this side slope  and then we have to find out , what is the  bed width  or bottom width ? What is the  top width? And of course,  the height;  so, this is what  the problem 
+wants  to design  utilizing the data that is g iven.  So let us  see how to go ahead with this . 
+ (Refer Slide Time: 03:38)  
+ 
+Now,  just to have a check on the data which is available with us  length of the bund is 
+given as  350 meters , the land slope  is given as 3 per  cent, rainfall intensity for a duration  
+equal to  the time of concentration is given as 18 centime tres per hour . The grade of the 
+bund is given as 0.18 per  cent vertical interval is 1.25 meters , and runoff coefficient C is 
+0.35.  
+Now,  in any of such problems we have to where we have to decide on the dimensions of 
+the bund . So, the determining factor , of cou rse, is the amount of water the flow  that the 
+structure has to handle . In this case , it is the graded bund . So, we  remember the graded 
+bunds are designed for safe  this removal of  excess flow , so that means  whatever flow is 
+generated over the area between thes e two bunds  is taken off safely  from the area. So, 
+that is why the computation of  peak runoff rate becomes the most vital thing this is the 
+first thing . 
+We discussed how to determine the peak  runoff rate. And we also decided we said that  
+for design for  determining the peak runoff rate from any area watershed catchment . We 
+use the rational method , which I also mentioned that  you should always remember 
+because this is such a  fundamental  thing. A nd this is  given as  Q =CIA/36  
+This is the formulae , and also remember, when we discuss this formula, we also said that 
+there certain units which we should always remember . So, in this case , Q is in cubic 
+meter per second , C is the runoff coefficient which  is the coefficient the value is given 
+here in  0.35, I is rainfall intensity  for a duration equal to  the time of concentration in 
+centimetre per hour , and A is the  drainage area  in hectares . So, that means  we need to 
+know  the C, I, A, and in this problem , C is already given , I is already given . So, we have 
+to find out that is the drainage area  and; obviously, because we are talking about the 
+graded bunds . So, the area lying between 2  consecutive bunds is the drainage  area we are 
+talking about in this case . So, we have to find  that out . So, let us  say let us see how to do 
+that. 
+So, for doing that , the first thing  we need to remember  or determine is  the horizontal  
+spacing  of the bund.  Because  we remember we said that if this  is what we are talking 
+about , this is one graded bund . This is another graded bund . So, this is the area we are 
+talking about , the area between  these  two.  
+So, in this case , obviously,  we decided that there is something called the horizontal  
+interval . So, this is a horizontal interval , any corresponding  point we can take into bunds , 
+and the  horizontal distance between that is the horizontal interval . So, that is horizontal 
+interval  basically , and the length of the bund length will be perpendicular to the board 
+basically. So, so this is  what the area we are looki ng for that is the area  where in which 
+whatever rainfall occurs  that we have to handle. So, that is why that becomes the 
+drainage area  or that that will decide the peak runoff rate , which we have to handle . So, 
+that is why the first thi ng we need to  determ ine is  the horizontal interval . 
+And we know that from previous class also and also in contour bunds , we know that  
+there is a direct relationship between horizontal interval  and the vertical interval  that is  
+HI = (VI/S)×100 
+Where  S is t he land slope in per cent.  
+So, as I also said in the previous class , you really do not need to remember  all the 
+formul ae all the time . You can  get many  times you can derive the formula . So, in this case , for us , the vertical interval is already given land  slope is already given as 
+3 per  cent that is here . So, data both the unknowns are  given here . So, putting the value 
+of VI and S,  
+HI = (1.25/3) ×100 = 41.66  or approximately 4 2 meters . 
+So, the area between  forms  between 2  consecutive bunds already we have  explained that 
+it is HI times  length of  the bund . So, HI is what we have  calculated , and the length of the 
+bund is already given . So, 
+A = HI × length of the bund  = 42 ×350 = 14700 m2 
+But remember , in the rational  formula , the unit required is hectares . And that is why we 
+have to divide this by 10000 square meters , that is 10000 square meters is equal to 1 
+hectare you remember . So, by doing that , we get the area as 1.47  hectares that is a 
+drainage area .  
+ (Refer Slide Time: 09:57)  
+ 
+And once the drainage are a is known,  then we can put the value in  
+Q =CIA/36  = (0.35×18×1.47) /36 = 0.26 m3/s 
+This is the discharge  graded  bund system has to handle. So, this is an important  finding 
+for us . Now, let us come to now we know what the discharge th at our system has to h andle is . 
+So now, we can go  ahead and decide on  the components of the  graded bund or the cross -
+section , basic ally. So, the first thing we decide is the  side slope of the  bund  and that I 
+have already seen  that is the type of soil  is sandy. So, the side slop e of the bund will be 
+1.5:1. So, this is  already a standard valu e. So, we are taking that is 1.5 :1. 
+ (Refer Slide Time: 11:05)  
+ 
+Now,  this come the definition sketch . So, this is typically we say as D or H that is  a 
+depth of impounding , and this land slope  is 3 per  cent. Now, what we are doing here? 
+That is, this is one of the  alterations that you can also assume the value and go forward 
+and calculate . So, what we are doing here is that we are assuming that a depth of water h 
+as 0.3 meters . 
+So, this is our  assumpti on rest of calculating  the value  of what we are  doing . We are  
+starting  with a n assumption , which always do es. So, we assume this as 0.3 , this slope we 
+already know is  1.5 is to 1  so; that means, if this is 0.3 , this is H. This dista nce is 1.5 H or 
+1.5 times or 0.3 . 
+That is how we are getting  0.45 meters . And this is a 3 per  cent slope . So, this is 3 per  
+cent this is  0.3, so obviously, if we calculate  this will come out to be  10 meters. So, that 
+is why AD is 10 meters , and DC is 0.45 meter s. And then  again , this can be soil. So, again  that this is a  seepage line , and the slope is  
+being taken as  5:1 because , say, a sandy soil. So,  all these  components or design 
+parameters  are here in front of us , and then we have to on  the total height and the base 
+width and the top width , and then we have to see that  it should be able to handle the 
+discharge  for which it is being designed . 
+ (Refer Slide Time: 12:56)  
+ 
+So now , basically , the total area will be the area o f triangle ABC that is the area of ADB 
+and the area of BDC . So, it is the sum of 2 triangles  that is total area is  an area sum of 
+area ADC  plus area BDC .  
+A = area of ADB + area of BDC  
+Let area of ADB be a1; 
+ a1 = 0.5 ×BD×AD 
+Where BD = 0.30 m and AD = (100×0.3)/3 = 10 m  
+Thus, a 1 = 0.5×0.3×10 = 1.5 m2 
+(Refer  Slide Time: 14:24)   
+Let the area of BDC be a 2,  
+a2 = 0.5 ×BD×DC = 0.5×0.3×0.45 = 0.0675 m2 
+Total ar ea = A = a 1 + a2 = 1.5 +0.0675 = 1.57 m2 (approx. ). 
+So, this is the total area  which we have it should  that we  storage area. Basically , we are  
+talking about . 
+ (Refer Slide Time: 14:52)  
+ 
+Now,  the next thi ng we have to calculate is the wetted perimeter . We saw that  it is 
+nothing but the length that is in constant touch with water . In this case, it will be AB and 
+BC. So, AB and BC , we can again the same  two triangles are there. So, we can  find out , P = AB +  BC = √(102+0.32) + √(0.32+0.452) = 10.54 m  
+So, the hydraulic radius is , 
+R = A/P = 1.57/10.54 = 0.15 m  
+For flow velocity , we have to use  Manning’s formula , which is ; 
+V = (1/n) R2/3 S1/2   
+Where n value , we normally assume as 0.05 . So, that is what  is being assum ed, and this 
+is 0.15 , and the grade of the channel is given 0.0018 . So,  
+V = (1/0.05) 0.152/3 0.00181/2 = 0.3  m/s 
+We are getting , and you remember , non-erosive velocity means, it should be  less than 0.5 
+per cent and 0.65  in any case , so this is here this v elocity is  non-erosive . 
+ (Refer Slide Time: 16:35)  
+ 
+So that means, from knowing the  velocity and area , we can calculate Q which, is here . 
+Q = A ×V = 1.57 ×0.30 = 0.47 m3/s 
+ The channel capacity obtain ed 0.47 m3/s is greater than  the required. We require  only 
+this much  (0.26 m3/s), and we are getting much greater . So, we may accept this or we may go and reduce the v alue of depth of ponding  h. So, that iteration process is there , but 
+we are not doing  but because you can do that anywhere  and once h is calculate d. 
+Then the  base width will be ; 
+B = (ns + z) × h = (5 +1.5 ) × 0.3 = 1.95 m  
+ (Refer Slide Time: 17:21)  
+ 
+The total height of the  bund will be the depth of water plus the freeboard . Generally, we 
+are ass uming 25 per  cent, but let us say we are assuming here is 15 centimetres . So, the 
+total height comes out to be 0.45 m. 
+So, that  top width will be ; 
+T = B - 2×0.45×1.5 = 1.95  - 2×0.45×1.5 = 0.60 m.  
+So, this way , the different dimensions  of the bund . 
+ (Refer Slide Time: 17:56)   
+We obtained are the height  is 0.45  meters , the base width is 1.95 meters , the top width is 
+0.6 metres , and the side slope  is soil dependent , which we started with 1.5:1. So, this is 
+how we have  designed a handled the  particular problem . 
+ (Refer Slide Time: 18:14)  
+ 
+Let us take the next pro blem , determine the dimensions of a graded bund which has to be 
+constructed on land having a slope of 2 per  cent and vertical interval of 1 -meter  soil type 
+is sandy. So, a  side slope of 2 :1 is recommended , and the slope of the seepage line is 5:1. 
+So, thes e slopes are already given  the channel formed between the bunds is under 
+vegetation  with Manning’s roughness coefficient value o f 0.04. And it has a bed slope of 0.25 per  cent. The graded bunds are to be constructed to drain a flow of  3.5 cubic  meter s 
+per second. So, in this case , flow is already given . 
+So, we have to determine the dimensions of the bund and also calculate the volume of 
+earth work per hectare assume a free board of 15 centimetre s. So, almost all data is 
+already given , including the flow in th is case . 
+ (Refer Slide Time: 19:08)  
+ 
+So, in this case , we can straight away try to use the height of the bund formula , which we 
+saw we almost derived  using such paper .  
+h = {(Q×n)3/8 × [√(1+z2) + √(1+(100/s)2)]1/4} / {(S/100)3/16×(50/s + z/2)5/8} 
+So, is where h is a function of Q, n, z and 2 slopes S and s, remember  S is the channel 
+bed slope  and s is the  land slope. So, all the values are given ; Q = 3.5 m3/s;  n = 0.04; z = 
+2;  s = 2 %; S = 0.25 %. So, all the  unknown values are given .  
+ (Refer Slide Time: 19:55)   
+So putting these in the equation,  
+h = {(3.5×0.04)3/8 × [√(1+22) + √(1+(100/2)2)]1/4} / {(0.25/100)3/16×(50/2 + 2/2)5/8} 
+h = 0.62 m  
+(Refer Slide Time: 20:11)  
+ 
+And once h is know n, then; obviously, we have to get the total gross  height of the  bund  
+the free board value is given is 15 centimetres . So, the gross height of the bund is  
+calculated as height plus  15 centimetre s that is 77 centimetre s or 0.77 meters. That is the 
+value of H we have obtained .  (Refer Slide Time: 20:34)  
+ 
+  
+And once h is known, the rest of the things are  simple ; we know  that bed width is   
+B = (ns + z)×h = (5+2)×62 = 434 c m = 4.34  m 
+Top width  is; 
+T = B  - 2×z×H = 434 - 2×2×77 = 126 cm = 1.26 m  
+So, because in this  problem , everything else was given we straightaway, calculated the 
+value of h, and thus it was simpler to calculate  all other  values.  
+ (Refer Slide Time: 21:18)   
+So, in the second part of this , we have to calculate the earthwork . And earthwork per 
+hectar e, we required horizontal interval , and we already know the relationship between 
+horizontal interval  and vertical interval . The value of the vertical int erval is given. So, 
+horizontal interval ; 
+HI = (VI×100)/s  = (1×100)/2 = 50  m 
+The l ength of  graded bund p er hectare  (L) = 10000/HI  = 10000/50 = 200 m  
+The v olume of earth work per hectare = 0.5×(T+B)  ×H×L = 0.5 ×(1.26+ 4.34) ×0.77×200 
+= 431 m3/ha 
+So, that is  pretty straight forward ; it was simple because  values were all given to us . 
+ (Refer Slide Time: 22:20)   
+So, the final answers are dimensions of the bund height = 0.77 meters , base width  = 4.34 
+meters, top width = 1.26 meters , side slope  = 2:1 and volume of earthwork per hectare 
+431 m3. So, this is what  the answer will be . 
+ (Refer Slide Time: 22:41)  
+ 
+Take the third problem  in a given area having a land slope of 2 per  cent graded bunds 
+have t o be constructed with a channel between  them to drain a discharge of 0.005 cubic 
+meter s per second . 
+The bund should have a side slope of 2 :1; according to the recommendation , the run off 
+depth of the field was calculated using the NRCS curve number technique . Consi dering the AMC 2 condition , and curve number for the area was reported to be 75 . This runoff 
+depth was considered to be the depth of ponding behind the bund . Using the above data , 
+what channel slope  can be recommended  between the  bunds . Use n equals 0.04 and 6-
+hour rainfall 2 5-year frequency rainfall is 120 millimetres.  
+So, in this case , we have been a lot of data is given , but the important thing is that we 
+have to ca lculate the runoff volume in depth using the NRCS curve number technique. 
+So, that is important . 
+ (Refer Slide Time: 23:42)  
+ 
+And if you remember , the NRCS curve number method was used for calculating  the 
+volume of runoff in depth units . And this is how th e curve number looks  formula looks 
+like: 
+VQ = (P – 0.2S)2/(P+0.8S)  
+Where, P = precipitatio n, and S = potential moisture r etention  
+S is related to curve number by this formula ;  
+S = (25400/CN) - 254 
+This is  when  S is in millimetres , and this particular form ula is used . And because curve number is given , by p utting curve number here , we can get the 
+maximum potential retention  S value ; 
+S = (25400/75) -254 = 84.67  mm 
+(Refer Slide Time: 24:36)  
+ 
+That is , precipitation is given as 120 millimetres or 12 centimetre s. And the value of S 
+we have  calculated is 8.467 centimetres. We are converting into centimetre s because the 
+value of P and S required in the  curve number method is in centimetre s. 
+VQ = (12 – 0.2×8.467 )2/(12+0.8×8.467 ) = 5.66 cm  
+So, depth of  ponding  in previous cases , we calculated , in this case,  calculating VQ, we 
+directly get the depth of  ponding. So,  this is another variation of the problem which we 
+might  face. 
+ (Refer Slide Time: 25:19)   
+And once  we have obtained this , we can  substitute  all the values because Q is known ; n 
+is known ; z is known ; s is known , and h is known . We can substitute in this . So, only 
+unknown is  S or channel bed slope . So, by putting all the values in this equation   
+h = {(Q×n)3/8 × [√(1+z2) + √(1+(100/s)2)]1/4} / {(S/100)3/16×(50/s + z/2)5/8} 
+0.0566 = {(0.005 ×0.04)3/8 × [√(1+22) + √(1+(100/2)2)]1/4} / {(S/100)3/16×(50/2 + 
+2/2)5/8} 
+(Refer Slide Time: 25:41)  
+ 
+.   
+ 
+On simpl ification , we get S or the channel  slope ; 
+(S/100)3/16 = 0.2543  
+S = 0.0674 %  
+The recommended channel  slope is 0.0 674 per  cent. 
+ (Refer Slide Time: 25:58)  
+ 
+So now we go to the last problem  design a 300 metre  long graded bund for a cultivated 
+land with sandy soil sandy loam soil  surface slope of 4 per  cent bund channel is to be  
+formed by embankment only . The horizonta l distance between 2 bunds is 50 meters  the 
+maximum depth of rainfall in the catchment with a 10 year return period is  given below. 
+So, the duration versus depth of rainfall relationship is given here . 
+ (Refer Slide Time:  26:31)   
+So, data available are the length of bund 350 meters , the land slope is 4 per  cent, soil 
+sandy loam , HI is 50 meters , and rainfall data is given  so; obviously, here again , we have 
+to determine the peak rate of runoff using the rational method  in the previous case w hich 
+we handle r ational method . They are we had been given rainfall for the time of 
+concentration for a duration equal to the time of concentration , but this is not the case . 
+So, here  we have to calculate the time  of concentration Tc using  Kirpich formula ,  
+Tc = 0.019 5 L0.77 S-0.385 
+The total length  which the flow has to flow , which we consider is  horizontal interval plus  
+length l, which is the length of the bund itself , the perpendicular distance we always  talk 
+about . 
+So, because if we consider here  in 3 dimension s if you  see here so; that means, any drop 
+which occurs first it has to flow here that is horizontal interval  and then the length. So, 
+that is the maximum length which comes out to be  400 meters in this case. 
+ (Refer Slide Time: 27:55)   
+And total elevation drop w ill be  plot width is 4 per  cent slope  over 50 meter s 
+((4/100 )×50) is 2 meters . The total length of the bund is 350 meters. So, what we are 
+doing as a variation , we can say that  we are breaking that into four diffe rent parts 75  
+meter s, 75 meter s, 100 meter s and 100 meter s. And we are saying that the  variable slope  
+is provided. So, the  lower 75 is 0.14 per  cent, the second 75  is 0.13  drop, 100 meter s is 
+upper one  has 0.1 per  cent. So,  for each , we can calculate the slope value  becaus e length 
+is known , slope p er cent is known. So, slope length we can find out .  
+ (Refer Slide Time: 28:41)  
+ 
+And thus the over the channel , the total drop  comes out to be 0.4225 meters , and the total 
+drop comes out to be ; Total dr op H = 2+0.4225 = 2.4225 m  
+That means  the total slope  will be ; 
+S = H/L  = 2.4225/ 400 = 0.006  
+So, in  the formula , now we know L , we know S . So, by putting this formula  
+Tc = 0.019 5 (400)0.77 (0.006 )-0.385 = 14.07 min 
+And then, we have to use this to obtain  the data from the  table itself . 
+ (Refer Slide Time: 29: 18) 
+ 
+So, if you look at the table , the value is given for 10 and 20. We have to obtain for 14 , 
+so; obviously, we can  always interpolate in between these 2 . So, interpolating , we get as 
+25+((55-25)×(4/10)) = 37 mm. 
+The rainfall intensity for 14 minutes , that is, rainfall in 14 minutes  is 37 mm. So, the 
+intensity will be :: (37/14)×60 = 158.6 mm/h  or roughly say 16 cm/h . (Refer Slide Time: 29:59)  
+ 
+So, once T c is known , the intensity is known , and we know the  C, we know the total area 
+because  HI and L are kno wn. So, the area is known . So, we can put in the rational 
+formula  
+Area = 50 ×350 = 175000m2 = 1.7 5 ha 
+QP = (0.3 ×16×1.75)/36 = 0.23 m3/s 
+ (Refer Slide Time: 30:23)  
+ So, that means  we have to handle this discharge . And then the rest of the things, side  
+slope  for sandy loam is  known 1.5 :1, for seepage line  in sandy loam is 5 :1. We assume a 
+depth  of 25 centimetres , and like previously, we have solved this problem  we can go  
+ahead and get the  cross -section , etcetera . 
+ (Refer Slide Time: 30:45)  
+ 
+So, here the sum of 2 areas  will find out which comes out to be 0.83. If I am calculate the 
+wetted perimete r and once  we have done  that, 
+ (Refer Slide Time: 30:57)  
+ We calculate  the hydraulic radius , which comes out to be 0.1234 meters  and once the 
+hydraulic radius is kno wn. 
+ (Refer Slide Time: 31:08)  
+ 
+Then, we can use the values in Manning’s equation to calcu late the velocity of flow  
+V = (1/0.04 )×0.12342/3×0.0061/2 = 0.23 m/s which is non-erosive . 
+The discharge capacity , Q = AV = 0.83 ×0.29 = 0.19 m3/s 
+The problem is that  the channel  capacity we are calculating is 0.19 m3/s, but the 
+discharge we have to handle is 0. 23 m3/s; that means  the channel does not have sufficient 
+capacity to carry QP. So, we need to increase d and recalculate the dimension , so this is 
+that variatio n because  this calculated value is not sufficie nt to  handle the  desired  
+discharge . 
+. 
+ (Refer Slide Time: 31:54)   
+So, obviously, then it is just a iteration.  So, we will go and change the value, calculate A 
+calculate P, then calculate the hydraulic radius , which new value comes out  to be  0. 147.  
+(Refer S lide Time: 32:03)  
+ 
+And then, we have to now calculate once again the velocity , which is 0.54  fine, still fine . 
+And then QP value we have to calculate , which comes out to be 0.64 m3/s, which is 
+sufficient b ecause the discharge we have to handle was 0.23. So, the channel now has 
+sufficient capacity to carry  QP under non -erosive limits , so; that means  we have handled 
+the problem . 
+ (Refer Slide Time: 32:27)   
+So, the bund dimensions  the discharge is handled . So, the bund dimensions can be 
+calculated the base width of the bund we know  how to calculate , the height of the bund 
+we know  how to calculate , the top width of bund we know  how to calculate. So, once  H 
+is known , everything  else can be calculated easily . 
+ (Refer Slide Time: 32:48)  
+ 
+So, thus, in thi s case , the final answers are  the height of bund  0.45 m , base width 195  m, 
+top width 0.6 , side slope 1.5 :1, the discharge capacity is  0.64 m3/s which is slightly 
+higher , but we accept that . So, with this , we hav e handled  four different kinds of p roblems , and where I mean , 
+ultimately , we have to have flow with us and  once flow there  that, for estimating that 
+flow. We might have to use the rational method. We might have to find out the time of 
+concentration  if requ ired and also which is possible to use the S CS curve number 
+technique. So, all these will be used for  finding out the flow . Once flow you know  then, 
+we can either assume the value of d or go and calculate the value of d and then other 
+dimensions. So, if yo u practice a few more problems like thi s and we will be giving 
+putting some problems into the assignment , I think things will be very clear to you.  
+Thank you very much . 

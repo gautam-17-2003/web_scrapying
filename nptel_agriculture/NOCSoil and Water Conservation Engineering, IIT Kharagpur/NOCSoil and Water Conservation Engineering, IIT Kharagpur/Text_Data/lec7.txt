@@ -1,0 +1,293 @@
+Soil and Water Conservat ion Eng ineer ing 
+Prof. Rajendra S ingh 
+Department of Agr icultural and Food Eng ineer ing 
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  - 07 
+Erosivity and Erod ibility 
+ 
+Hello fr iends. Welcome back to NPTEL  online cert ification course  entitled Soil and 
+Water Conservat ion Engineering. I am Rajendra Singh, Professor  in Agricultur al and 
+Food Engineering Department of  IIT, Kharagpur . We are  in lecture 7, week number 2 
+and the top ic today  is Erosivity and Erodibility.  
+(Refer Slide Time : 00:39) 
+ 
+Just to g ive you a background up of what we are cover ing th is week , we saw how to 
+estimate soil loss in the previous lecturer . During the process , we went through the 
+Universal Soil Loss Equation . We saw that rainfall erosivity index and soil erodib ility 
+index are two important factors. I n lecture 7 today , we will be cover ing eros ivity and 
+erodibility. In lecture 8, we will see mod ifications in the Universal Soil Loss Equation 
+that w ill be part 1 of the lecture . In lecture 9, we will continue w ith th at same 
+modification in the Universal Soil Loss Equation that is part 2 and in las t lecture of the 
+week, lectur e 10, we will go through  soil loss measurement . (Refer Slide Time : 01:27)  
+ 
+Coming to eros ivity and erod ibility now, to rem ind you , I would l ike to wr ite the 
+equat ion wh ich we saw for Universal Soil Loss Equation  that is: 
+A = R K LS C P  
+We def ined R as rainfall  erosivity index , and K is soil erod ibility index , and that is what 
+erosivity and  erodibility is our top ic today . If you remember  the proces s of a soil erosion, 
+we know that there are three  processes : detachment , transportat ion and depos ition. 
+The first one  is detachment , of course,  and we also s aw that it is the ra indrop  impact  that 
+is respons ible for detachment . So, that ab ility of ra in to d etach  the soil particles is 
+referred to as eros ivity, where on the other hand , the suscept ibility of so il to withstand 
+the ra indrop  impact is referred to as erod ibility. That makes  it clear that  erosivity is a 
+rainfall characteristi c, and  that is wh y R is defined as the rainfall eros ivity index . Where 
+erodibility is a so il character istic, and that  is why we def ine K as soil erod ibility index or 
+soil erod ibility factor . Soil eros ion occurs when ra infall eros ivity exceeds the so il 
+erodibility. Whenever erosivity is greater than the erod ibility, soil eros ion w ill take place . (Refer Slide Time : 03:26)  
+ 
+Now, erosivity is the potent ial ab ility of ra in to cause eros ion. It depends on  several 
+rainfall character istics: rainfall intens ity, drop s ize distribution, terminal veloc ity, wind 
+velocity  and direction of the slope.  We know that  kinetic energy  is respons ible for 
+raindrop  impact . So obviously, if the  drop s ize is larger , then the impact w ill be much 
+higher. Terminal veloc ity, which aga in depends on the drop s ize, the higher the veloc ity 
+more w ill increase  the k inetic energy . Wind vel ocity, when we saw the  impact of wind, 
+we saw the w ind change the d irection in which the  raindrops  hit the so il surface . That 
+could make a n angle  that might make the erosion process o r detachment process more 
+severe . The slope direction  will have the  same  impact . If the slope directio n, we saw  if 
+the so il is like th is if rainfall is vert ical, then soil particles w ill move much larger d own 
+the slope  than in the upward  directions. So, these are some of the factors on wh ich 
+erosivity primarily depends . (Refer Slide Time : 04:46)  
+ 
+Now, estimation of erosivity from rainfall data  could be done by 2 methods; EI 30 index 
+method or KE greater than the 25 index method and we will see these methods  one by 
+one. 
+Coming to  the EI30 index method , this method was given by Wishmeier  in 1965 . You 
+remember  Wishmeier  and Smith;  they were respons ible for provid ing the Universal Soil  
+Loss Equation , and it was Wishmeier  who gave the  EI30 index method . As the na me 
+itself suggest , it is computed by the product of k inetic energy of storm  (E) and 30-minute 
+maximum ra infall intens ity (I30).  I30 is the ra infall intens ity suff ix 30 represent s the 30 
+minutes durat ion during the storm  where t he ra infall intens ity is max imum . So, it is 
+referred to as or defined as  30-minute maximum ra infall intens ity. (Refer Slide Time : 06:32)  
+ 
+Now, the relation between E and I is given by Wischme ir and Smith in 1958 .  
+E = 0.119  + 0.0873 log 10I 
+Where E is the kinetic energy  in MJ/ha-mm, and I is the ra infall intens ity in mm/h. 
+Like any other e mpirical equat ion, dimens ion, we have to be careful about the un its if we 
+want to use the equat ion in present  form  or given for m because the coeff icients or 
+constants are there because of the units  used for variables. That means, if you want to use 
+this Wischme ir and  Smith quest ion, I has to be put  in mm/h,  and E will alway s be the 
+output in MJ/ha-mm. Now ra infall eros ivity index , R is given by  EI30 equals to E times 
+I30.  (Refer Slide Time : 08:11)  
+ 
+Both E and I30 are obta ined for rainfall events  because of the ra infall character istics that 
+we have to obta in for a part icular ra infall event . For identifying a specific  rainfall event , 
+we use the ra in gauge char t. This rain gauge char t comes from a recor ding type 
+raingauge used to find out the  E and I30. 
+This example here, you see , is a typ ical ra in gauge chart that is obta ined from s iphon or 
+float type of record ing ra in gauge . I am sure that you have read various k inds of ra in 
+gauges : non-record ing and record ing. Within the record ing, you probably have heard a 
+tipping bucket, weighing bucket, and  float or s iphon  type of ra in gauge . So, this is the 
+siphon  or float type of ra in gauge that  is the standard record ing type ra in gauge adopted  
+in India , and that  is why  I am show ing the chat here . 
+In this case , as you can guess , that is float or siphon type . The term inology is used 
+because there  is a float chamber  inside  rainfall guess  collected , and as  in the chamber  
+itself, it is a cyl indrical chamber . As the wat er level goes up , there  is a float here that 
+float r ises and th is float  is connected to some kind of record ing mechan ism here . In this 
+record ing magnes ium, there  is a chart place . That is why  you see  that the maximum 10 
+mm of rainfall  is the float chamber' s capacity . Here th is chart show s, it starts at 8 o'clock 
+because typ ically  in India , 8 AM is the t ime where the ra infall is recorded . It is supposed 
+to be recorded as per  IMD. So, that is wh y this chat also start s at 8 o'clock . Suppose  this 
+line shows tha t the  rainfall event starts at 8 o'clock and continuous up to around 12 o'clock . The  total ra infall is becom ing 10 mm. This is becom ing 10 mm; that means  the 
+float chamber's capacity  is completely f illed, and then the  siphon ing takes place and ; that 
+means  this record ing mech anism comes back , or float come s back to 0 level and then 
+again record ing starts . That s imply means here you can see that here s iphon ing has taken 
+place , but immed iately there  is a cont inuous record that shows that ther e is a ra infall 
+event over th is per iod of time. So, from  8:00 hours to 14:30  hours , that is continuous 
+rainfall, and then from th is rain gauge chart , we can also read the magn itude of ra infall. 
+The previous  10 mm and here as we see th is is 6 mm, which  means  that 16 mm of 
+rainfall occurs during this period . That is one ra infall event .  
+Then after 14:30  hours till 24 hours , we see a horizontal l ine which shows that there  is no 
+rainfall occurr ing. Then aga in, this pen is starting rising or  the floa t rising. From 24 
+hours t ill 5, it reaches  the total capac ity that is 10 mm. That means  it represents  4 mm 
+(10-6) of rainfall  and then siphon ing occurs  in this period . Then aga in, the pen  is starting 
+up and goes  here, which means the second event continues  till 6 AM. That m eans the 
+total durat ion of the storm here  is 6 hours , and the total ra infall wh ich is occurr ing here is 
+8 mm (4+4) of rainfall. 
+On this part icular day for wh ich this chart  is taken , there are two rainfall ev ents; one is 
+continuing from  8 o'clock in the morn ing till 2:30 in the afternoon and hav ing 16 mm of 
+rainfall when the  second event  is start ing at 12 midnight, continuing till 6 o'clock in the 
+morn ing with a  total ra infall of 8 mm. So, this is how we can  identify a part icular ra infall 
+event , and th is is how we can calculate both E as well I30 from a g iven rain gauge chart . (Refer Slide Time : 13:37)  
+ 
+From the ra in gauge chart , we identify the event . So, we isolat e the event, and then E and 
+I30 are estimated . So, here you see , while estimating the E, the ent ire rainfall event  is 
+being use d. The entire rainfall event  is being used here for calculat ing the E. Wherein for  
+estimating the  I30, the name  itself suggest s, we have to look into the ent ire storm and look 
+for the 30-minute durat ion where  the rainfall intens ity is maximum . That is why  it is 
+defined as maximum 30-minute intens ity due  in the event . 
+(Refer Slide Time : 14:28)  
+ Let us take an  example . Follow ing rainfall event  is isolated from a ra in gauge chart , 
+calculate the ra infall eros ivity index .  
+Here you  see a pa rticular date  is given. Starting times and shifting times are given; time 
+interval  is given; reading at the start  is given; reading at shifting time is given; and 
+rainfall magn itude for d ifferent  intervals . So, basically  this data  has come from a 
+raingauge  chart . 
+(Refer Slide Time : 15:03)  
+ 
+Using th is data , we can go an d estimate the  EI30 or ra infall eros ivity index . As you can 
+see that  we have  rainfall in mm and  durat ion of rainfall. So, we can calculate rainfall 
+intens ity for each durat ion. That is column  2; that is the ra infall d ivided by co lumn 1, the 
+durat ion of 20 minutes mult iplied by  60. We can get in the desired unit of mm/h , and 
+once we  know the intensity,  we can use the Wischme ir and Smith equat ion. 
+So, using th is equation, we can calculate the E in MJ/ha-mm quite eas ily. That is what 
+we have  done here. For each  I, this is the  E in MJ/ha-mm, but in this equat ion, you 
+remember the  EI30 unit is MJ-mm/ha-h, which  simply means  E is being used  in MJ/ha 
+and I30 is in mm/h . That means merely  the E, which is there  in MJ/ha-mm, that has to be 
+converted  into MJ/ha. So, we mult iply column  4 with column 2; column 2 is nothing  but 
+the magnitude of the rainfall in different durations to get the E of rainfall in the  desired 
+unit, that is, MJ/ha for d ifferent  intervals. Then the total sum  is obta ined by add ing the se 
+values, which is 4.59.  In this case, which has to be used in this equation and then , that 
+means, E we have calculated,  the next  import ant th ing is to calculate the  I30. (Refer Slide Time : 16:54)  
+ 
+For I30, the first th ing is that we have to  identify 30-minute durat ions. So, here if we 
+analyz e one by one , we see that there are  three d ifferent events , we can  identify of  30-
+minute durat ion; 22 plus 8 is 30; 8 + 10 + 12 is 30, and in each of these  30 minutes , we 
+can calculate ; what  is the total rainfall: 3.3 mm, 12.2 mm and 10 mm. From these 30-
+minute durations , we can identify where the intensity will be maximum ; that is , the 
+maximum 30-minute durat ion ra infall is 12.2 mm. That means  the max imum  intens ity is 
+continuous , and I30 is two times of 30-minute durat ion; that is 24.4 mm. So,  the 
+maximum  I30 for th is part icular problem  is 24.4mm/h .  
+Once we know  E and I30, the mul tiplication of this sum value will  give us the total  
+rainfall erosivity index  or EI30 for this particular  event . So, that is how we estimate the  
+EI30 for a given event . (Refer Slide Time : 18:06)  
+ 
+We can take  its get another problem . For example, the follow ing mass curve read ing was 
+taken from a record ing type ra in gauge  to analyze  the ra infall time. Since the beginning 
+of the storm  is given in here, that is 4 to 5:20 PM. T he duration and cumulative rainfall 
+values are given here ; that means  the rainfall event starts , and the total rainfall is 33 
+during this period. W e have to calculate the  rainfall eros ivity index . So, just follow ing 
+the procedure we saw earl ier in the earl ier example , we can do that . 
+(Refer Slide Time : 19:02)  
+ So, obviou sly, we know the cumulative rainfall values for different times and time 
+interval s. So, for different durat ions, so, here 4 to 4:20; that means, 20 minutes, the 
+magn itude of ra infall is 1 mm. So, for d ifferent durat ions, we can f ind out ; what  the total 
+amount of rainfall is. Thus,  we c an calculate the  intens ity of ra infall. Once we know the  
+intens ity of ra infall, we can calculate E in MJ/ha-mm by us ing the  Wischme ir and Smith 
+equat ion. Then aga in, by mult iplying th is with the total magn itude of rainfall , we can get  
+in the E in MJ/ha. We have to find out different continuous 30 -minute durations again,  
+and her e again, we se e three d ifferent events . 
+So, three  different events are there ; that means  rainfall in these  30 minutes : 9 mm, 27 
+mm and 23 mm. So, a 30-minute durat ion where the  intens ity is max imum  when the total 
+magn itude of ra infall is 27 mm. That means  the intens ity I30 is maximum , i.e. 54 mm/h . 
+Once we know  the sum of E or KE  and I30, multiplication of these two will give us th e 
+EI30 or rainfall eros ivity index  in MJ-mm/ha-h. So, that is the answer  which we are 
+looking for th is part icular problem . 
+(Refer Sli de Time : 20:54)  
+ 
+Now,  we will continue w ith erosivity further , and here we are go ing into the following  
+KE>25 index method . So, the EI30 method , just now we saw how to calculate the ra infall 
+erosivity. But this  method  was bas ically developed under America n cond itions, which 
+may not be su itable for trop ical and sub tropical zone s. So, that is the drawback of  EI30 
+method , as far as its development cond itions are concerned . So, to overcome that drawba ck, Hudson  in 1981  developed  KE>25 index  method , which  was meant for 
+comput ing the ra infall erosivity of tropical storm s.  
+The first method , which Wischmeir and Smith gave,  was based on  American data . It may 
+not be suitable or suitable for tropical and subtropical zones. T hat is how this new 
+method came  KE>25 came , and in this method , erosion takes place only a t a threshold  
+value of ra infall intens ity. 
+(Refer Slide Time : 22:24)  
+ 
+The log ic is given as follow s: the threshold value first , which is the use of rainfall 
+intensity, is 25 mm/h , determ ined based on exper iments. 
+Based on many large  exper iments , the threshold value of ra infall intens ity is obta ined 25 
+mm/h , which  is wh y the name of the method  is KE>25 index method . That is assume d 
+that ra infall intens ity is less than 25 mm/h does not yield a significant soil e rosion; 
+hence, this method is called the  KE>25 index method . In the exper iment wh ich w as 
+conducted  in trop ical cond itions, they showed that  if the ra infall intens ity is less than 25 
+mm/h , then the  soil eros ion was not s ignificant.  
+The est imation procedure  of th is method  is very s imilar to EI30. The only difference is 
+that in the EI 30 method, we calculate kinetic energy for all rainfall intensities . In this 
+case, KE is calculated only  if I is greater than 25 mm per hour . So, any ra infall intens ity in any duration weather ra infall intens ity is less than 25 mm/h  that is neglected basically  
+in this particular method . 
+(Refer Slide Time : 24:04)  
+ 
+So, let us take the problem through to  see how to use th is. It is the same problem that was 
+used for apply ing the  EI30 method . So, now, in the  same problem  where is the follow ing 
+mass curve read ing was t aken from a record ing type ra ingauge chart to analyze  the 
+rainfall. The ra infall beg ins at 4 o'clock continues to still 5:20 and the cumu lative ra infall 
+during the  event  is 33 mm. The same event  is being used , and we have to calc ulate the 
+rainfall erosiovity index us ing the  KE>25 index method . Earlier, we used EI30 method . 
+So, now, we are us ing KE>25 index method . (Refer Slide Time : 24:49)  
+ 
+Here is the solut ion. So, here a gain, the time since beg inning and cumulat ive rainfall w ill 
+be wr itten as  it is, and the durat ion rema ins the same . There is no change there  is 4 to 
+4:20, 20 minutes , then ra infall is 0 to 1; that is 1 mm, then in 20-27; 7 minutes ra infall is 
+2 mm and  so on. So, all those calculat ions rema in the same th e data extract ion from the 
+raingauge chart or ra ingauge data wh ich is given in tabular form rema ins the same  
+intens ity value calculat ion is also same . 
+We calculate rainfall intens ity, the procedure rema ins th e same as  it was  in EI30 metho d. 
+But this difference start s from here  in any durat ion, if I is less than 25 mm/h , then KE is 
+not calculated . That means  KE is calculated only  if I is greater than  25 mm/h . Similarly, 
+here it is 17.14 ; it is less than 25 mm p er hour . So, we are not  calculat ing the kinetic 
+energy . So, only those  events or  those dura tions where the  intens ity is more than  25; so, 
+only three  durat ions where  intens ity is greater than  25, we are calculat ing rest of the 
+places we are not  calculat ing. So, that is how you see only 3 values  of E that is  in 
+MJ/ha-mm which comes from the Wischme ir and Smith equat ion. Then it will be 
+express  in MJ/ha  also only for these durat ions. So, that means that only  this event  E will 
+be mult iplied by the ra infall amo unt, and that  is how these values w ill come . 
+So, the total sum w ill be 7.428 ; remember , in the EI30 method , we calculate d E for each 
+of these durat ions, so obviously, this sum was larger .  I30 calculat ions rema in the same . So, that is why , in this case , also w ill get I30 as 54 mm/h  and; obviously,  EI30 value w ill 
+be then  multiplication of these two. 
+(Refer Slide Time : 27:32)  
+ 
+In this case , the d ifference  is that  the sum of the E was 8.698 ; here, it is 7.428 . That is 
+why EI30 is 470 MJ-mm/ha-h, which  is now  getting reduced to  401 MJ-mm/ha-h because 
+we are only cons idering I greater than 25 mm/h  for calculat ing the  E. So, that is the only 
+difference here . So, two methods ; one is this method  say that it is more suitable for 
+tropical storms or  tropical reg ions. Here we neglect the ra infall intens ity is the durat ions 
+with ra infall intens ity is less than  25 mm/h  for calculat ing the  rainfall eros ivity that  is 
+only d ifference otherw ise. So, the process ing, we saw more or less  the same in  both 
+method s in a similar fa shion. (Refer Slide Time : 28:28)  
+ 
+The next th ing is erod ibility which is the so il’s inherent suscept ibility to erosion, and this 
+can be est imated us ing run off plots or so il propert ies. 
+(Refer Slide Time : 28:38)  
+ 
+So, as per the runoff plot , runoff from ru noff plots  is collected  in a tank , and its volume  
+is measured . For est imating the so il loss , the water  in the tank is churned thorough ly. So, 
+that the so il water m ix is complete and then from th is tank we take out a sample of  500 to 
+1000  cc that  is a half-litre to one -litre sample  is taken . (Refer Slide Time : 29:10)  
+ 
+Then th is sample  is taken to a laboratory  where wh ich we find out the amount of so il in 
+the in the sample  in grams per litre. So, how m any grams of so il was the re. That g ives us 
+the total  soil loss in grams per litre. 
+Soil loss = soil loss (g/l ) × runo ff volum e (l) × 10-6 tonne  
+The soil loss from the plo t in grams per litre is obtained from  the laboratory ; the total 
+runoff  volume we have  already calculator  in litres. So, this will give us soil loss in grams 
+to convert that  in tonne , which is normally  unit we mult iply th at with 10-6.  
+In this way , we get so il loss  in ton nes and then so il loss per hectare , which is usual ly unit 
+transfer hectare so il loss in ton nes divided by area of the plot  in hectare that  is from 
+where the sa mple has  come ;  
+Soil loss per ha (tonnes/ha) = Soil loss in tonne  / Area of plot in ha  
+That w ill give us so il loss per hectare  in tones per hectare , and that  is how  erodibility can 
+be found out  exper imentally  using the n ew plots. (Refer Slide Ti me: 30:14)  
+ 
+We have to determine  the adjusted soil loss for new plots  because we might have use d a 
+non-standard plot . So, we convert that to a standard USLE  plot where  we know that the 
+slope  9 per cent and length of 22.13  meter s are used, and th is plot  is cont inuously fallow 
+tilled up and down . So, we adjust a soil loss,  which is soil loss per hectare , which we 
+calculated earl ier divided by the LS factor . 
+Adjusted Soil Loss = Soil lo ss per ha  / (LS factor)  
+The soil erodibility  factor (K) can be calculated by : 
+K = Adjusted Soil L oss / Rainfall Eeosivity Index (R)  
+So, from  using th ese soil loss values and the ra infall eros ivity values , we can determine  
+the so il erod ibility for a g iven exper imental data. (Refer Slide Time : 31:16)  
+ 
+Alternat ively, we can also use  the so il propert ies for est imating the  erodibility. We use 
+the soil propert ies likes percent sand , percent slit, percent clay and  organ ic matter . This 
+empirical equat ion is use d here to determine the soil erodibility .  
+K = 2.8 ×10-7 M1.14 (1.2 - a) + 4.3 × 10-3 (b - 2) + 3.3 × 10-3 (c - 3) 
+Where M = particle s ize parameters that  is percent  (%silt + %very f ine sand × (100 - 
+%clay); b is the so il structure code (very f ine granular - 1; fine granular - 2 medium or 
+coarse granular  - 3; block platy and mass ive – 4); c =  profile permeab ility class  (if the 
+permeab ility is rap id -1; medium to rap id – 2; moderate  – 3; slow to moderate  – 4; slow  
+– 5; very slow  – 6)  
+Using b and c code  and know ing the per  cent sand , silt, clay and organ ic matter which 
+can be obta ined from an exper iment from the lab oratory , we can also determ ine K using 
+this emp irical equat ion. 
+So, erodibility can be est imated using a design runoff plot for experiments and  soil 
+propert ies us ing the emp irical relat ionsh ip. Similarly, we saw for rainfall eros ivity, we 
+have two methods : EI 30 method and  K > 25 index method . So, with this, we come to  the 
+end of this class where we have seen how to estimate rainfall erosivity and  soil 
+erodibility. 
+Thank you very much .  

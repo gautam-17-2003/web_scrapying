@@ -1,0 +1,422 @@
+ 
+ Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food  Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture - 37 
+Structural D esign of Drop Spillway – 4 
+ 
+Welcome students to our next lecture on the  Structu ral Stability of Drop S pillway against 
+sliding . So, in this case , we will in this class we will talk about what is sliding and what 
+are the different forces acting  for slid ing, and what are the different resistance forces 
+which are responsible for sliding . 
+(Refer Slide Time: 00:41)  
+ 
+So, we can say that  the different horizontal forces , which are acting of f stream of this 
+drop structure against headwall . They are mostly causing the sliding along the plane of 
+sliding as you can see  in this figure . So, the hor izontal forces acting on the  structure  in 
+the downstream direction having a tendency to slide the structure . And this  H is the 
+horizontal force , which is responsible  for sliding along the plane of sliding . And there are  
+different sliding resisting forces t his could be friction resistance of the foundation . 
+Friction resistance between the sidewall and the earth fill passive resistance of the earth 
+downstream from  the toewall  and headwall extension . And hydrostatic pressure of the 
+tail water against the headw all and wingwalls during the time of flow.  
+ So, you can see this figure , the H  is the horizontal  forces , which are acting or which is  
+pushing the structure to slide along this plan e of slid ing. But, there are different resistive 
+forces of this found ation material , which is  acting in opposite direction to that of H and 
+which is the main cause of stability  of this structure against sliding . Now, we will discuss 
+what are the different forces acting on this , and how to compute all these forces . We 
+have already d iscussed in our last lecture s that how to estimate the horizontal  forces , 
+what are the vertical forces . We can see this diagram the sigma  V is the sum mation of all 
+these vertical forces , which is because of the  pressure of this standing water . The vertical  
+pressure or the vertical width because , of the earth fi ll or the backfill materials . And the 
+vertical forces because of the concrete structure that is the  concrete structure or the drop . 
+(Refer Slide Time: 02:55)  
+ 
+So, these are the different  horizontal  forces , which is given by   
+ 
+where m u is the coefficient of friction , and that estimated as tan beta, where beta is angle 
+of internal friction of the foundation material , because the friction force , which is 
+existing at the foundation metal  is the main forc e, which  opposing the sliding of the 
+structure , which is causing because of the force H or the horizontal forces . 
+Then plus C into A, C  the cohesion  resistance of found ation material per unit area and A  
+is the area of plane of sliding . So, you will multipl y C into A, so  that is the cohesive  
+ resisting force of the foundation material , so that is also oppos ing the horizontal forces . 
+In ideal  condition if H equal to  R H the all those  horizontal forces , it will be equal to  the 
+horizontal  sliding r esisting force . So, there wo uld not be any slide , so that is the most 
+ideal condition , but that seldom occu rs. 
+(Refer Slide Time: 04:19)  
+ 
+So, in this case we have to take some factor of safety . So, the factor of s afety is taken as 
+1.5, so  that 
+ 
+In other words , 
+ 
+  
+that should be greater than 1.5 . So, everything will be clear , we will solve  a practical 
+example . So, will solve this problem , you can get a clear picture how to estimate the 
+values of  vertical forces , then horizontal  forces , then take the ratio of that  R H divided by 
+H. Then if it is greater than 1.5,  then the structure  is stable against sliding . Otherwise , we 
+have to increase the weight of the structure and that is possible by increasing the  depth of 
+the cutoff  wall or toewall.   
+ (Refer Slide Time: 05:11)  
+ 
+This is a problem the  for solving this  problem,  we have to clear ly understand what is 
+given here . So, the problem is that check the stability against sliding of the given drop 
+spillway with full flow condition . We have already talked what is full flow condit ion that 
+means, the water is flowing over the crest , and the type-b drainage , total fall is 2.5  metre  
+relative permeability for f oundation equal to backfill . So, here the ratio is  equal that we 
+have already also  solved  similar type of problems . 
+And the pro perty of backfill material are angle of internal friction  phi is given as 35  
+degree  dry specific wei ght of the backfill material , so that equal 1900  kg per metre cube . 
+Moist specific weight of the backfill  material that equal to 2000  kg per metre cube , and 
+submerged specific weigh t is given as 1050  kg per metre cube . 
+Then the properties of foundation material , which is resisting the sliding  they are given 
+by the angle of interna l friction , beta that equal to 12  degree s that is that we can use for 
+completing  the mu value , mu equal to tan beta . Then submerged specific weight of this 
+foundation material  is 1000  kg per metre cube . Cohesion C that equal to 2440  kg per 
+metre square  and specific weight of concrete , because the whole structure is constructed 
+by usin g concrete , so that equal to  2400  kg per metre cube , so that will be the useful for  
+calculating the vertical weights of different parts of this drop structure . 
+And using the figure you  can see , the crest level  water is 0.75  metre , then the  height of 
+the he ad wall is g iven by Y  naught  that equal to 2.8  metre from  the plane of that is above   
+ the top of this apron , and this is filled with the bac kfill material . And the backfill is case -
+C, case-C means it is compacted earth and filled with berm constructed to cr est elevation 
+and water table is hi gh. This is for the drainage condition type -b drainage condition , and 
+here water t able is high  condit ion. 
+And there is tail water , you can see the tailwater depth a bove the endsill  is given us t that 
+equal to 0.75  metre , height of endsill equal to 0. 3 metre . So, the tailwater depth above  the 
+apron is t plus S that equal to 1.05  metre . And the de pth of cut  off wall equal to 1.2  metre  
+and the thick ness of  this apron is equal 0.3 metre , and this distance is 3.3 metre . And the 
+plane of sliding is this one that is at the bottom of this toe wall or cut off wall , so that 
+means, we have to estimate all these vertical forces and horizontal flow forces in 
+reference to this plane of sliding . So, this is the main basic thing , you have  to understand 
+before solving the problem .  
+(Refer Slide Time: 08:53)  
+ 
+ 
+Now, we have to go for solving the problem . As a first step, we have to identify  the 
+elevation of the situation line Y 2,  because the re is full flow condition  and type -b 
+drainage . So, in this case the value of Y 2  will be computed by using the tabular valu e 
+that we have already solved in the previous classes . So, from  the table we can see for 
+case-C backfill condition , high water table , the relative permeability  of foundation to 
+backfil l equal , drainage type -b, and full flow condition the value of    
+ 
+ 
+So, by using this value we can calculate, what is the value of Y 2 . So, know the values of 
+t that is 0.75, S 0.3 and F 2.5, so  you can get 1.425  metre , so that means  this depth is  
+1.425 metre. So, this shows that the saturation line lies above the apron  at a dis tance of 
+1.425  metre that mean this backfill material is now saturated or submerged . And this 
+backfill  material is moist , because it is no more saturated . And this depth is computed as  
+Y naught  minus  Y 2 that equal to 2.8  minus 1.425, so  that is 1.375 . So, this depth i s now 
+1.375,  which is the moist backfill . 
+Now, the pressure difference will be there . So, for this depth Y 1, you will be getting the 
+weight because of mo ist backfill  and for the dept h Y 2, you will be  getting  the vertical 
+pressure or horizont al pressure because of the saturated or submerged back fill. And for 
+depth Y 3  equal to  1.2 metre , we will have water pressure as well as submerged  
+founda tion. And there will be tail water pressure for a depth of t plus s equal to 1.5  metre , 
+which is acting in op posite direction to that of H. And there will be wate r pressure 
+because of this crest  water level of H equal to 0.75 metre . Once this is clear , then we 
+have to g o for our next step.  
+(Refer Slide Time: 11:37)  
+ 
+So, here you have to identify the , what are the different horizontal pressure s or the  what 
+are the different vertical pressures  without that w e cannot solve the problem . So, for that  
+as discussed  I was discussing that water pressure have crest , it will e xert horizontal  
+ pressure as well as vertical pressure , so because of this water depth  of 0.75 metre . The 
+horizontal water pressure , what will be created that will cause the flow of the water to the 
+downstream side . So, there i s no headwall here , so because of that  the horizontal pressure 
+is 0. B ut, because this  water column , it will be exerting down or water pressure . And that 
+will be transmitted to the backfill  material for a  depth of Y 1  as well as for a depth of  Y 
+2. 
+Then second is the pressure due to the mo ist backfill  metal up to this d epth, which is 
+both vertical as well as horizontal . The vertical weight will be transmitted to the 
+downstr eam saturated or submerged soil layer , which is of depth  Y 2 equal to  1.425  
+metre . Then for this depth , you will be getting submerged weight , and that is also 
+causing horizontal pressure as well as vertical pressure .  
+Then the pressure due to tai lwater above the apron  so, this one i t will be causing the 
+pressure in the opposite direction . Pressure due to su bmerged foundation here that is for 
+a depth of Y 3 equal to 1.2  metre , you will be getting the submerged weight as well as 
+water pressure  of at this location , which is causing horizontal pressure forces . So, by 
+using this concept now will  be solving our  problem .  
+(Refer Slide Time: 13:49)  
+ 
+So, this is the whole pressure diagram . We can see  F 1 if the pressure that is water 
+pressure , which is  flowing  above the cro ss above  the crest . And this water pressure  is 
+giving a vertical load to the top soil layer , so because of that we will be getting a  
+ rectangular p ressure diagram . Now, the force F 2  is the pres sure at the horizontal 
+pressure , which is  because of the moist soil or the moist  backfill material . 
+Similarly , the value  F 3 if will see , so this F 3 the magnitude of  F 3 will be equal to 
+because this pressure , because of water a nd this pressure from the mo ist backfill , they 
+will t hey will get transmitted to  the lower soil layer , and will be getting  F 3 as a 
+horizontal  will be getting a rectan gular pressu re diagram . And the backfill material  in 
+this zone  Y 2 equal to 1.725  metre depth will have also , it is own  horizontal pressure , so 
+that is given by your F 4. 
+And you know that  in all the se pressure triangle s, when solve d the base of these pres sure 
+triangle gives the value of pressure force that equal to  gamma into H,  the specific weight 
+in time s the depth of this  soil column or  water column . If want to  complete what is your 
+total force that i s F, then we have to  multiply  or we  have  find out wha t is the area under 
+this pressure  triangle . So, that will go half , into pressure , into the height , so you will  be 
+getting the total area . And total area gives you the force value . And this  F 5 is the water 
+pressure , because  this water is this  the depth is now saturated , because this is a sa turation 
+line because of type -b drainage . 
+F 6, we have already talked about . This is your tail water pressure , because as tail water 
+here, so that is causing horizontal pressure forces also . Then we have F 8 and F 9 ;  F 8 is 
+the horizontal pressure force , which is  because of the foundatio n material , which is 
+submerged and F 9  is the water pressure in this submerged  foundation , which is having a 
+depth of Y 3 that equal to 1.2  metre . And F 7 will be the transmitted vertical pressure 
+from  F 5. Once thi s is clear , so the we can see that total 9 forces  along with the 9 forces , 
+these are the 9 horizontal forces , then there other vertical forces as well as the uplift 
+pressure forces . Which is also the main cause of sliding , because it reduces the vertical 
+force  component , which is opposite which is  working in a opposite direction .  
+ (Refer Slide Time: 17:23)  
+ 
+ 
+Now, in the thir d step , we have to  we have to estimate the ratio of horizontal to vertical 
+pressures for the backfill material , because here phi equal to 35  degree alrea dy given in 
+the problem . So, you will  be getting  K b 
+ 
+   
+= 0.271   
+that means, if you have some vertical pressure to convert that v ertical pressure into 
+horizontal pressure , we have to  multiply with  0.271 for the b ackfill material . And for 
+foundation material ,  
+ 
+=0.656  
+which is equal to 1 minus sin 12 degree divided by 1 plus sin 12  degree . So, in the 
+foundation material to convert the vertical forces into a horizontal forces , you have  to 
+multiply the vertical forc e with  0.656,  then you can get the value of horizontal forces .  
+ (Refer Slide Time: 18:19)  
+ 
+ 
+Now, in ste p-4, you have to estimate  the horizontal  pressure forces above apron . So, all 
+the forces are computed for unit width  that means I am taking one meter wid th, which is 
+normal to the plane of paper . So, at crest level , the water depth is 0.75  metre . So, you 
+will get vertical  pressure that equal to P  w, so will get  
+ 
+So, gamma w the specific weight of water you know that it is 1000  kg per metre cube 
+into 0.75  metre the water depth , so will get 75 0 kg per metre square . 
+So, this water pressure , because there  is no  head wall at the above the crest level . So, is 
+not exerti ng any  horizontal water pressure , but it is exerti ng the vertical water pressure , 
+which getti ng transmitted to t he bottom soi l layer that is to a depth of Y 1 that equal to 
+1.375  metre . So, for that you wi ll be getting the  F 1 pressure diagram as  rectangular 
+pressure diagram . So, at 1.375  metre below crest in the mo ist backfill  that means, at this  
+reference line the horizontal pressure due to the transmitter water pressure  on top will be 
+equal to  K b times  P w, K b we have estimated a s 0.271  in the previous slide . 
+ 
+And that  you have to multiply with the P  w that is the vertical pressure , which is coming 
+from the  top because of standing water level , so that vertical pressure is converted into  
+horizontal pres sure force by multiplying with K  b,   
+ 
+ 
+so that equal to 203.25  kg per metre square , so that is it will convert into  ton per metre 
+square it is c oming 0.2033  ton per metre square . So, you can see this value as  0.2033  ton 
+per metre square , so that means  this length of this pressure diagram is  0.2033.  So, total 
+force  will be equal to this result 0.2033 times Y 1, so  this is  the height of this force . So, 
+you will be getting  total area  as Y 1 into P  w 1, so  you will be getting 0.2795  ton, so that 
+is the area of the pressure rectangle .  
+(Refer Slide Time: 21:17)  
+ 
+ 
+ 
+ 
+ 
+Now, we have to  estimate what is the value of F 2.  So, for F 2 the vertical pressur e due to 
+the mo ist weight of backfill material is given by gamma m into Y 1. G amma m is the 
+specific weight of the backfill material , so that equal to 2000  into 1.375, so  that equal to 
+2750  kg per metre square . So, this is within the moist soil , which is a bove the saturation 
+line. So, this vertical pressure has to be converted into equivalent h orizontal pressure , so  
+ that is given by P  m that equal to  K b times  P v m, so that means we have to m ultiply 
+with 0.271. So, by multiplying with  0.271  will be getting  P m equa l to 0.7453  ton per 
+metre square , so that you can see also here , in this figure tha t is 0.7453  ton per metre 
+square . 
+So, the total area will be calculated as the area of this  pressure triangle . So, the area of 
+the pressure  triangle will be base th at equal to 0.75 7453  into the height that is 1.375 
+divided by 2, so  that the area  of triangle you know this . So, F 2 will be equal to 0.5124  
+ton so, this the area of the pressure triangle . So, we have compute already  F 1 and F 2 
+once this F 1 and F 2 are computed , so the whole value the vertical value will b e 
+transmitting to the next soil layer  that is Y 2. 
+(Refer Slide Time: 23:03)  
+ 
+ 
+ 
+So, our next step is to compute , what is my vertical forces at 2.8 metre below crest in the 
+submerged backfill , because  this Y 2 depth is totally submerged . So, total vertical 
+pressure transmitted f rom the top , so that is denoted by P v s 1, so  that will be equal to 
+vertical  pressure due to water above cre st, this value plus vertical pressure due to the 
+moist weight of bac kfill material  that equal to P  v m. So, this value  so total will be  
+ transmitted , so total will be equal to 750 plus 2750, so  that equal to 3500  kg per metre 
+square , so that means  this value is now 3500  kg per metre square . 
+Now, this value has to be convert ed into equivalent  horizontal forces , so that we can do 
+by using multiplying this value with the value of  K b, we have already done before . So, 
+K b value equal to  0.271  for the backfill material . So, now  you multiply  0.271 with 350 0, 
+so you will be ge tting 0.9485 ton per metre square . So, this is the of value of P s 1 , so 
+that means, this value is now  9485, so  that is the you can see width of this pressure 
+rectang le is 0.9485 . 
+And what is the depth you  calculate d the area , so depth is  Y 2 this value , so this the 
+depth . So, we will get the area of this  pressure rectangle  now, so that equal to F 3 . So, F 
+3 will get 0.9485  into 1.725, so  that equal to 1.6362 . Now, similarly we will g o for 
+calculation of pressure F 4 . So, the press ure F 4  is caused because of th e own weight of 
+this submerged backfill of two  depth 1.725 metre . 
+(Refer Slide Time: 25:15)  
+ 
+ 
+ 
+  
+ So, the vertical pressure due to the submerged due backfill material  will be given by 
+gamma s into Y 2 . So, gamma s is the specific weight of the submerged backfill  that is 
+1050 into 1.725, so  will ge t 1811.25  kg per meter square . So, this is the vertical pressure . 
+Now, this has to be converted into the horizontal pressure force . So, by multiplying with 
+K b, so we wi ll get P s 2  that equal to  K b into P v s 2, so that will get 0.271 into 1811.25  
+that eq ual to 0.4909  ton per metre square . So, we can see this va lue is 0.4909  ton per 
+meter square . 
+So, this basis base of this pressure triangle F 4 is now  0.4909.  So, we have to calculate 
+the area of this pressure  triangle , area of this whole triangle  so that is equal to base into 
+the height equal to that equal to Y 2, so  that is  1.725 . So, multiply 1.725 with 0.4909 
+divided by 2, so  will be getting  0.4234  ton so  that means, this F 4  value  is equal to  
+0.4234  ton.  
+(Refer Slide Time: 26:53)  
+ 
+ 
+ 
+Now, we have to estimate the value of F 5. So, F 5 is caused because of the water 
+pressure in the submerged backfill , so that you can compute a s P w 2 equal to gamma w 
+Y 2, so that equal to 1000 into 1.725, so  that equal to 1.725 ton per metre square . Now, 
+we have to es timate what is the value of this  pressure area related to 5 corresponding to  F  
+ 5. So, F 5 will be equal to half into base , base is equal to 1.725  into the height  Y 2 is 
+equal to 1.725 . So, will get  1.4878  ton, so now you have calculated what is the pressure  
+F 5.  
+(Refer Slide Time: 27:49)  
+ 
+ 
+ 
+Similarly , we have to calculate what is pressure  F 6. F 6 is the water pressure because of 
+the tailwater . So, simple way you can estimate that equal to  gamma w into height of this 
+tail water , so that equal to t plus S,  so that equal to  1.050  ton per metre square . So, here 
+we can  see this is 1.05  ton per metre square . Then we have to estimate what is the area of 
+this pressure tria ngle to calculate the value of F 6 . So, for th is we have  to estimate , you 
+have  to multiply 1.05  with the height of the tail water t hat equal to 1.05 , then into half of 
+that so, will be getting  0.5513  ton.   
+ (Refer Slide Time: 28:37)  
+ 
+Now, we have to estimate what is the values of  F 7, F 8,  and F 9 . So, for that  you have  to 
+calculate at 3.1  below cr est in the submerged foundation that is along the plane of 
+sliding . So, along this plane of sliding , we have to  estimate what is the total horizontal 
+pressure . So, the horizontal pressure exacerbated by  the foundation material from the top 
+equal to vertical pressure due to water above cre st, this water pressure plus vertical 
+pressure due to moist  backfill , this pressure  plus vertical pressure due to submerged 
+backfill , so this pressure . So, total will be  equal  to as we have estimated before  5311.25  
+kg per metre square . So, this is the horizontal pressure , which is because of the 
+submerged  foundation .  
+ (Refer Slide Time: 29:41 ) 
+ 
+ 
+ 
+So, the horizo ntal pressure corresponding to P v s 3  will be equal to K f into P  v s 3 . So, 
+those pressures w ere vertical pressures , whatever we have  calculated those are vertical 
+pressures not horizontal pressures , so that is the correction , we can  change to vertical 
+pressure . So, we have to multiply with  the value of K  f, so 
+ 
+  
+we have computed before that equal to 0.656 . So, 0.656 times 5311.25  that is the vertical 
+pressure , which is exerted to the foundation material . So, will be getting  3.4842  ton, so 
+that you can see a lso from the figure that is 3.4842 ton per metre square . 
+So, then we have to get what is the area of the pressure triangle . So, the area of the 
+pressure  triangle  will be  3.4842 into half sorry 1.2, so  this valu e is 1.2. So, we will get 
+the area of the pressure triangle , so that equal to  4.1810  ton. So, the value of  F 7 is equal 
+to 4.1810  ton.   
+ (Refer Slide Time: 30:53)  
+ 
+ 
+ 
+ 
+Now, we have to estimate what are the values of F 8 and F 9.  The vertical pressure due to  
+submerged foundation mater ial above plane of sliding , so that is equal to we have 
+already computed , so gamma s f into Y 3. So, gamma s f is given as 1000 into 1.2, s o, 
+will get 1200  kg per metre square . So, we have to convert  this vertical weight  into 
+equivalent horizontal pressure forces . So, we have to  multiply this w ith K  f. So, K f we 
+have  estimated as 0.656 times 1200  will give you 0.7872  ton per metre square , so that 
+you can see from this figure this value is 0.78 72  ton per metre square . 
+Then we have to calculate  what is the area of this pressure  triangle . So, area of this 
+pressure  triangle  will be hal f into the ba se that is equal  0.7872 into the de pth is Y 3 that 
+equal to 1.2, so  will get 0.4723  ton. And the next pressure will be our water pressure , 
+which is in the  foundation metal b ecause of depth of 1.2  metre .  
+ (Refer Slide Time: 32:19)  
+ 
+ 
+ 
+So, the water  pressure will be given by gam ma w into Y 3, so  that will be equal to  1000 
+into 1.2 that equal to 1200  kg per metre square . And you have to convert into pressure 
+triangle area of the  pressure  triangle , so that will be equal to  half into 1.2 into 1.2 is this 
+the value Y 3, so  will get 0.72  ton. So, you have already computed all these horizontal 
+pressure forces . 
+(Refer Slide Time: 32:43)  
+  
+ So, our some of these horizontal forces will be equal  
+ 
+This F 6 is negative , because it is exerti ng the pressure  in opposite direction , which is 
+against the sliding force . So, total we will get  9.1613 ton that equal to 9161.3  kg. So, 
+once this pressure forces  has been computed  now, will go for computation of our vertical 
+force s. 
+(Refer Slide Time: 33:15)  
+ 
+We have alr eady computed  in our previous class  that h ow to estimate the total vertical 
+forces . These are the different vertical forces as shown in the diagram . The force V 2  is 
+because t he concrete head wall , because it a concrete structure , so because the concrete 
+headwall , whic h is having a depth of 2.8  metre , and the thickness is 0.25  metre . So, the 
+area of this cross sectional  area of this  headwall will be equal to 2.8 into 0.25 into 1  
+metre . We have taken 1  metre or as width which is normal to our  plane of paper . So, will 
+be getting 1680,  it will m ultiply with 2400  kg per metre cube , which is the specific 
+weight of  concrete .  
+Similarly , the force V 3  is the  due to the concrete apron. So,  we have total length is  4.55 
+metre into 0.3  the thickness of thi s apron into 2400,  you will get 3276  kg. Similarly, V 4  
+is the concrete cut off wall  this force , so that will be equal to similarly we can compute 
+that equal to 1008. V 5  is the concrete toe wall , similar way we can  compute the area is 
+0.3 into 0.35 into 2400  sorry 1.25 into 0.35 into 2400 you will get 1008 .  
+ Similarly , for end sill that is your V 6 that we computed 252. For submerged backfill it is 
+the speci fic weight is 1050  into 0.55  for is depth  into 1.425 for a depth of Y 2, so  that is 
+coming as  822.94. F or the  moist  backfill that is V 8,  so the width is 0.55  metre , because 
+of the all the pressure will be acted on the str ucture . The structure is elongated up to a 
+depth , length of  0.55 metre . So, all the pressures will be acting on this only on this  
+structure . So, for the mo ist backfill  we will be ge tting it is 1512.5, because 2000  is the 
+specific weight of this  moist backfill .  
+(Refer Slide Time: 3 5:49) 
+ 
+Then V 9  is the water above crest , which is also causing the vertical force , so that equal 
+to 412.5.  V 10 is the ta il water above apron , so that equal to  3517.5,  because 3.3 metre is 
+the length of this apron . V 11  is the tail water above end sill . So, the tail water above end 
+sill will get this value . This is the tail water above end sill , so you will get 262.5  in the 
+similar way if you compute , because t is 0.75 into 0.35  is the this thickness . So, you will 
+get 262.5 . 
+And the other forces li ke V 12, V 13, V 14 and V 15  all are the vertical forces , which are 
+acting upward direction . So, all will be in a negative forces . And he re the pre ssure 
+diagram is given , the pressures  are given here  1720, 1640.99  13 15 32.46 and 1424.88.  
+So, this pressure forces will be mu ltiplied with the area . So, for V 12 the area is 0.55 into 
+1 which is acting on this . So, you will get 5  sorry 94 6.  
+ Similar ly, for V 3  the uplift force w ill be equal to 0.35 into 1  that is the area into 1640.09  
+this value  so, will be getting 574 . For V 14, similarly it is 3.3 metre is the length of this 
+apron , so on this structure it will be acting . So, for this we h ave t o multiply 1532  this 
+value with  3.3 into 1, so  that is  5057. S imilarly , we can compute for V 15, so  that equal 
+to 498.7  kg and all these forces are the uplift forces are negative . 
+(Refer Slide Time: 38:07)  
+ 
+ 
+ 
+So, now you can compute what is the tot al resultant vertical forces  which is acting on 
+this structure . So, the total resultant forces will be equal to the sum of all this process 
+from V 2 to V 11 minus V 12 to V 15, so  that you will get as 6676  kg. Now, the 
+horizontal sliding resisting force can be computed as we know this formula that is R H  
+equal to m u into sigma V plus C A, so  that will be equal to  if you put m u equal to tan 12  
+degree , so will get the value as  9471.4  kg. And the ratio you can g et as 9471.4  w equal to  
+R H divided by 9161.3,  so we will get 1.034  value , but this value is  much less than 1.5, 
+so because of that the str ucture is not stable against sliding . 
+So, this is very if  R H equal to R  that is ideal case , so in this case  the ideal case is not 
+generally prescribed . So, for that this structure you can say that is  not stable agai nst  
+ sliding . So, this ends our lecture  here so, in this lecture we discussed that how to 
+calculate the sliding  condition . The stability analysis , we have carried out  again st sliding . 
+So, for that you have t o estimate what are the total horizontal pressure forces , total 
+vertical forces including the uplift pressure , then take the ratio between  R H and V . So, if 
+it is greater than 1.5,  then the structure is stable against sliding . Otherwise , this is not you 
+have to redesign the structure again , so that this will be a slight  stable against sliding . 
+Thank you very much . 

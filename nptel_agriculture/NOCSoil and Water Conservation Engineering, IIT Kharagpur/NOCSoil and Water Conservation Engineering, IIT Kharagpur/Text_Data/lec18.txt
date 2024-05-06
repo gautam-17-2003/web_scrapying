@@ -1,0 +1,346 @@
+ 
+ Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture  -18 
+Problems on Bench Terraces  
+ 
+Hello friends , welcome back to NPTEL  online certificati on course  on Soil and Water 
+Conservation E ngineering . I am Professor  Rajendra S ingh from the Agriculture and F ood 
+Engineering Department of IIT  Kharagpur . We are in week 4, lecture  18, and today we 
+will see Problems on Bench T erraces . 
+(Refer Slide Time: 00:40 ) 
+ 
+Just to give you an idea about the course content of this week . We started lecture 16 by 
+introducing terraces . In lecture 17,  we saw some of the concepts or relationships on how 
+to derive for bench terraces . Then today’s lecture , we will solve problems deali ng wi th 
+the design of bench terraces . In lecture 19, we will see  broad -based terraces . And lecture 
+20, we will solve problems on broad -base terraces .  
+ (Refer Slide Time: 01:10 ) 
+ 
+Now, starting with problem number 1 , in a hilly region , bench terracing is pro posed for 
+cultivation purpose s. The general land slope is 30 per cent. Every soil depth is about 1 
+meter , limiting the depth of the cut to 2.7 meters . The r iser is to be laid on 1 is to 1 
+gradient . And compute the following that is the width of the terrace , and earthwork per 
+hectare , and its cost at  Indian rupees 2.5 per cubic meter . So, this is what it is . So, the 
+land slope is given , the depth of cut is given , riser slope is given , we have to find the 
+width of a terrace , and then we have to find out the earthwork  and its cost, the unit cost is 
+given . 
+(Refer Slide Time: 02:02 ) 
+  
+ So, that means  the data that are given are land slope S equals 30 per cent. Soil depth is 1 
+meter . The d epth of cut , which is D/2, is 0.7. And the riser slope is 1:1. And in the 
+previous class , we derived t he relationship between the width of the bench terrace and 
+the depth of cut , and that is the relationship we have to use here . But, as I earlier also the 
+case of bund  also I said, you typically need not remember the formula e, you c an go and 
+derive the formula from the  fundamental principles , probably you understand the 
+concept . 
+So, let us try here , this is  for this one, this is the land slope , which is given here , what  is 
+going on  I try again. So, this is the bench terrace  we are tr ying to do . And in this case , it 
+is said that it is a  one is to 1 riser, so that means, here and  that means, the width will be 
+further on the other side . So, this is we are  from here ; the width is starting, this is  D by 
+two that is a depth of curve . So, this is also D by two because the rise r slope i s 1:1, and 
+then we have W/2 here. So, for this triangle ABC here, and then a land slope we have is 
+S/100. 
+So, this is S, this is 100, so that means  we have two equilateral  triangles , where we can  
+write that  
+D/2)/(W/2 + D/2) = S/100  
+D = WS/(100 -S) 
+So, you can simply de rive this relationship and in a couple of minutes very quickly . So, 
+we can write  
+W = D(100 -S)/S 
+Given that is D/2 is 0.7. So, D is available , a value of S is known to us . So, by putting the 
+value of  D and S in this equation , we can f ind out the value of W   
+W = 1.4(100-30)/30 = 3.27 m   
+ (Refer Slide Time: 05:27 ) 
+ 
+Similarly, earthwork we  derive  the relationship for earthwork , so we have to calculate 
+the earthwork . And earthwork per hectare for a vertica l riser, Ew = 1250  D. And again , 
+we derived very simply  because we said that this is a vertical ris er. So, basically , we 
+have to find out the area of this , and this is D/2, this is W/2, so that means  the area of this 
+triangle is ½ × W/2 × D/2 = WD/8 . And this has to be multiplied by  length , which at the 
+length of the terrace per hectare  so, WD/100 times 10000 /W.  
+Volum e, Ew = (DW/8 ) × (10000/W ) = 1250D   m3/ha 
+And in the case of 1:1 slope ris er, D equals to this . So, we have  to replace this equation . 
+So, the earthwork per hectare for riser  slope of 1:1 we have  the relationship ; we have to 
+use 1250 D.  
+ (Refer Slide Time: 06:5 4) 
+ 
+And, if we d o that putting the values here , W value we k now, S value we know . So, 
+putting here , earthwork comes out to be  
+Ew = 1250 WS/(100-S) = 1250 (3.27×30)/70 = 1752 m3 
+Obviously , this is everything per hectare  becaus e we used per hectare length 10000 /W in 
+our deriving the relationship . So, the cost of earthwork  per hectare  is because the  per-unit 
+cost is given as 2.5 rupees , so it comes out to be Indian rupees = 2.5 ×1752 = 4380 . So, 
+the answers are the width of the terrace is 3.27 meters , earthwork  per hectare is 1752  
+cubic meters , and the cost of earth work per hectare is Indian rupees 4380. So, very 
+simply , we can solve this probl em.  
+ (Refer Slide Time: 07:42 ) 
+ 
+Let us go to the next problem , which is a design problem . Design a bench terrace  for an 
+area, which has sandy  loam soil and a land slope of 15 per cent. Terrace  width  acts as a 
+channel , which is provi ded with a uniform grade  of 0.4 per cent, so we say  uniform  
+graded  terrace  basically . Other details are maximum rainfall intensity of the area during 
+10-years , the return period is 25 centimet res per hour , for the duration equal to the time 
+of concent ration . And the total length of the bench terrace is 150 meters that are the 
+longitudinal length is given . Assume  other information a s per standards . So, these are the 
+data given . 
+(Refer Slide Time: 08:27 ) 
+  
+ So if we  sum the data , so the soil is sandy loam . Land  slope , S is 15 per cent. Terrace  
+channel grade is 0.4 per cent. 10-year maximum rainfall intensity for a duration equal to 
+the time of concentration is 25 centimet res per hour . And the length of the terrace  is 150 
+meters . So, for the given rainfall condition , we let  us say that  we choose a n inward -
+sloping bench terrace with a slope of 5 per cent. So, it is a high rainfall area , we are 
+assuming , and we are  designing an inward -sloping bench terrace  with a slope of 5 per 
+cent. And we are also making certain assumptions  that are the terrace width is 600 
+meters for the given land slope 15 per cent, and we are assuming a ba tter slope of 1:1 
+that is 1:1 riser is 1:1 slope . So, these are the assumptions  we are making . 
+(Refer Slide Time: 09:23 ) 
+ 
+So, let us go ahead . So, the area o f the terrace is 
+A = (L×W)/10000  = (150×6)/10000 = 0.09 ha.  
+And this is the area , which will act as a catchment area . So, whatever rainfall occurs in  
+that has to be drained out . And the peak discharge t o be handled , we typically use the 
+Rational  formula . 
+We have seen that many times , in the formula , where  I is the rainfall intensity in 
+centimet re per hour for a duration equal to the time of concentration , which is the case 
+given here ; in this case,  the problem  clearly states that  rainfall inte nsity is 25 centimet re  
+ per hour. The a rea we have obtained is 0.09 hectares . And the C  value runoff  coefficient  
+we are assuming is 0.3 because not given , 
+Q = CI A/36  = (0.3×25×0.09) /36 = 0.01875 m3/s 
+Please rememb er that cubic meter per second  is also written as cumec . So, some times 
+some of the textbooks , you might come across the term cumec , whic h simply refers to 
+cubic meter per second ; you must remember this . 
+(Refer Slide Time: 10:45 ) 
+ 
+So, now we have to design  the cross -section . So, let us say that  the depth of the channel 
+let us assume as 0.3 meters . So, here we are assuming that this depth is 30 centimet res or 
+0.3 meters . And this is the batter slopes  1:1, so obviously, this will also be  0.3 meters . 
+And the terrace width is 6 meters , but we are also assuming that shoulder  bund  this width 
+of shoulder bund is 0.75 meters , so that is why effectively the width of the terrace which 
+is of level is 5.25 meters or that the area  where  the flow will take place is  5.25 meters . 
+So, the area of the flow available in the area of the tria ngle ABC , which is the sum of 
+two triangles , ADB  and BDC , are two triangle s.  
+Total area of ABC = area of ADB + area of BDC  
+         = ½ × 0.3 × 0.3 + ½ × 0.3 × 5.25 
+         = 0.045 + 0.79 = 0.84 m2  
+ (Refer Slide Time: 12:12 ) 
+ 
+So, now wetted  perim eter als o we have to find out . So, wetted  perimeter , we already 
+know that it is this length AB and BC. So, we can always find : what is the value of AB 
+and what is the value of BC very easily . So, the wetted perimeter ; 
+P = AB +  BC 
+= √(0.302+0.302) + √(5.252+0.302) = 0.424 + 5.259 = 5.68 m 
+The hydraulic radius , which is the ratio of area and wetted perimeter . The a rea we have 
+calculated , wetted perimeter we have calculated . So, the value of R comes out to be  
+R = A /P = 0.84/5.68 = 0.14 8 m or 0.15 m  
+So, now we have to use M anning’s equation for calculating the velocity of flow . The 
+value M anning’s n, we are assuming at 0.04. 
+V = 1/ n R2/3 S1/2 = 1/0.04 (0.15)2/3 (0.004)1/2 = 0.45 m/s  
+And the velocity comes out to be  0.45 meter s per second , which is a non -erosive  velocity  
+because we know that eve n for sandy soil , the value i s 0.5, and otherwise , it is 0.69; 
+these are the recommendations . So, it is a non -erosive velocity , we calculated .  
+ (Refer Slide Time: 13:43 ) 
+ 
+So, now, using the C ontinui ty equation ,  
+Q = A ×V = 0.84×0.45 = 0. 378 m3/s 
+The calculated discharge capacity is  0.378  cubic meter s per second , where the required 
+capacity is 0.01875  cubic meter s per second . 
+So, the calculated discharge capacity of a channel is much larger than the re quired 
+capacity . So, as far as design is concerned , there i s no problem ; as far as safe disposal of 
+runoff is concerne d, there is no problem , but the only case is  that is  it is a case of over 
+design . So, here we have two options , we may either accept the d esign or go for another 
+iteration by assuming a lower depth of  the channel , so that also is possible that we start  
+with 30 centimet res or 0.3 meters , we can also go lower the channel  width  anything is 
+possible .  
+ (Refer Slide Time: 14:47 ) 
+ 
+Now we go to the next problem that is problem number 3; that is design ing a 150-meter 
+long inward -sloping bench terrace for an area  having an average  land slope of 20 per 
+cent. The soil is clay loam . The terrace  channel has a uniform grid of 0.5 per cent. The 
+maximum inten sity of one-hour rainfall for the location is 10 centimet res per hour . So,  
+the type of terrace is already given , its length is given , the land slope is given , the grade 
+is a grade of the channel is given , and intensity maximum intensity rainfall is given . So, 
+these are the data , which are already available to us. 
+(Refer Slide Time: 15:37 ) 
+  
+ Now, that means  the data gi ven are a type of terrace is  the inward -sloping  terrace . The 
+length of the terrace , l, is 150 meters . Land slope , S is 20 per cent. Soil is cl ay loa m. And 
+terrace  channel slope is 0.5 per cent. And maximum one-hour rainfall intensity is 10 
+centimet res per hour . For the terrace , we may assume that the inner end is 0.2 meters  
+lower than the other end , so that means  we are  instead of  the slope ; we are saying that 
+elevation difference . The w idth we are assuming is 4.5 meters , which is generally 
+recommende d that 15 to 25 per cent, it could be 4.5 meters 25 to 30 per cent is 3 meters , 
+these are general recomm endations , we can use them . And the batter s lope is 1:1. So, 
+these are the assumptions . We are making three assumptions . 
+(Refer Slide Time: 16:32 ) 
+ 
+Now, we use the Rational formula  all the time to determine the peak runoff rate , which 
+we have to do here also that is Q = CIA/36. So, the first thing is that we have to find out 
+what is the area of the terrace , which is the width , times lengt h; its width is 4.5 meters , 
+length is given as 150 meters , so it comes out to be 675 square meters or 0.675  hectares  
+because 1 hectare is 10,000 square meter . So, using that , we can calculate the area .  
+ (Refer Slide Time: 17:08 ) 
+ 
+Now, in this case , we have  to determine the time of concentration  because you remember  
+CIA, I is intensity for a duration equal to the time of concentration , we have given we 
+have been give n in the problem one-hour rainfall . So, we have to find out the time of 
+concentration . And for that , we typically use the kirpi ch formula , which is  
+Tc = 0.0195 L0.77 S-0.385 
+So, the length of flow is typically the l onger  the len gth, the longitudinal lengt h, and the 
+width of the terrace , so that if the terrace  is a like  this here something like this , so 
+obviously, the flow has to travers e this distance , and the longitudinal distance .  
+L = I+W  = 150+4 .5 = 154.5 m 
+Total fall over the flow length , there are two fall s, one is in this direction , and one is the 
+longitudinal direction . So, this fall  is already given as 0.2 meters ; we are assuming that , 
+and thi s is channel is graded grade  slope  is given as 0.5 per cent.  
+H = fal l over terrace width + fall  over chann el length  
+= 0.2 + 150 × (0.5/100) = 0.275 m  
+So, the total  fall comes out to be 0.275  meters .  
+So, the slop e is the total elevation difference over total length ,   
+ S = H/L  = 0.275/154.5  = 0.00178 , and that i s the value we have to use for S in case of 
+Kirpi ch formula . So, now  we know L, we know S. So, by putting in this formula , we get  
+Tc = 0.0195 154.50.77 0.00178-0.385 = 10.8 min  
+(Refer Slide Time: 19:17 ) 
+ 
+Now, we have been given a 1-hour intensity of rainfall , which is 10 centimet res per hour , 
+but our time of concentration is only 10.5 minutes . So, we have to find the intensity 
+corresponding to that . For th at, we can use a standard nomo graph , which relates one-
+hour rainfall intensity in centimet re per hour to rainfall intensity for any duration  
+centimet re per hour . And for different d urations , these curves are available that is 5-
+minute duration , 15-minute d eviation , 30 minutes , 60 minute s and so on, and the rest of 
+the values , we have to  typically interpolate . 
+So, now, first, we get our difference ; 1-hour intensity is 10 centimet res per hour , which  
+means  our value will lie on this line . So, this is one thing , and we have to talk about  we 
+have to search for 10.8 minutes , this is 5 minutes . So, here this line , this is 5 minutes , and 
+this is 15 minutes . So, somewh ere here , our value will lie . And typically , if we take half 
+is that will be 10 minutes somewhere here , and this is 22.5, so that is why we may say 
+that it will be around 22 centimet res per hour .   
+ So, that is why from the  nomo graph , we get that the rai nfall intensity for 10.8 minutes , 
+that is , our time of concentration  comes out to be 22 centimet res per hour . And then , we 
+assume a value of  the runoff coefficient is 0.6. So,  
+Q = CI A/36  = (0.6×22×0.0675 )/36 = 0.02 5 m3/s 
+(Refer Slide Time: 21:25 ) 
+ 
+Now, we have to check for flow velocity of flow and carrying capacity of the channel 
+formed by construction . So, let us say that this is ou r typical  drying for this particular 
+one. So, this is the inward -sloping bench terrace ; the elevation difference is 20 
+centimetres or 0.2 meter s, just shown here . The total  width we assumed was 4.5, but we 
+are also assuming tha t the shoulder  bund  has a base width of 75 centimet res, so that 
+means  the flow  width of the terrace , which is available for flow , is 3.75 meters . And th is 
+is a typical dimension of the  shoulder bu nd, which is being used here . And this riser is 
+1:1 that we have assumed . 
+So, basically , the total area of flow is this one . This is the total area of flow , which is  a 
+sum of the areas of two triangles , ABC  and BCD, and because this is 0.2 meters , this is 
+1:1, so this is 0.2 meters , and this is 3.75 already given . So, we can easily calculate the 
+area of these two triangles or the total area that is the total flow area . Basically , we can 
+call it a flow area , the total flow area is available with us .  
+ (Refer Slide Time: 22:54 ) 
+ 
+So, calculating the area of ABC ,  a1 = ½ × 0.20 × 0.20 = 0.02 m2 
+Area of BCD , a2 = ½ × 0.20 × 3.75 = 0.375  m2 
+A = a1 + a2 = 0.02 +0.375 = 0.395 m2 
+Similarly , we require a wetted perimeter , whic h is AB plus BD, because all dimensions 
+are known , so we can easily calculate the length , and it comes out to be  
+P = AB +  BD = √(0.202+0.202) + √(3.752+0.202) = 0.283 + 5.25 4 = 5.54 m 
+So, the wetted perimeter comes out to be 5.54 meters . So, hydraulic rad ius R is the ratio 
+of A and P that is cross -sectional area and wetted perimeter . Cross-sectional area , we 
+have calculated , but at the perimeter , we have calculated . So, the value of R  comes out to 
+be  
+R = A/P  = 0.395/5.54 = 0.0713 or 0.071 m  
+So, this is th e hydraulic radius  for the  design ing section .  
+ (Refer Slide Time: 23:54 ) 
+ 
+So, using M anning’s formula , we can calculate the velocity of flow . And the velocity of 
+flow is : (the value of n, we are assuming at 0.04) 
+V = 1/ n R2/3 S1/2 = 1/0.04 (0. 071)2/3 (0.00 5)1/2 = 0.30 m/s 
+So, using thi s, we get the velocity of flow is 0.3 meter s per second , which is non -erosive , 
+that is, because it is less than 0.69 for normal soils , so that is why  it is a non -erosive  
+velocity that is the recommended non-non-erosive  velocit y limit . 
+(Refer Slide Time: 24:38 ) 
+  
+ So, here, using C ontinuity  equation ; 
+Q = A ×V = 0.395 ×0.30 = 0.12 m3/s 
+So, the carrying capacity  comes out to be 0.12 cubic meter s per second , which is the 
+calculated discharge , and which is larger than the required cap acity, which is 0.025  cubic 
+meters . 
+This is the value  we got , which  is 0.025  cubic meter s per second , so that means  that is 
+the flow we wanted to dispose  of. The channel section  we have designed is the capacity 
+to take the carrier discharge of 0.12 cubic me ters per second . So,  since it is larger than 
+this, so there is absolutely no problem . So, we may go ahead and accept the design , so 
+that is how the channel cross -section can be or the terrace design can be completed . 
+(Refer Slide Time: 25:54 ) 
+. 
+So, now we  go to the  next problem , which says that on a 20 per cent hill slope , it is 
+proposed to construct bench  terraces . If the vertical interval of the terrace  is 2 meters , 
+calculate the following ; length of terrace  per hectare , earthwork required per he ctare , and 
+area lost per hectare both for a vertical cut , and ba tter slope of 1 is to 1. The cut should 
+be equal to fill the best -balanced cross -section. That is what we always  do. 
+So, 20 per cent hill slope is given , bench  terrace  we have to construct , the vertic al 
+interval is given as 2 meters , we have to calculate the length of the terrace , we have to 
+calculate the earth work  required per hectare , we have to calculate the area loss per  
+ hectare  for two cases  when the riser is vertical , and the when the bet ter is 1:1. And of 
+course,  this is the guideline that cut should be equal to fill. T his is what is the problem . 
+(Refer Slide Time: 26:54 ) 
+ 
+So, that simply means that for this problem , we have given land s lope, S equal s 20 per 
+cent, and the vertica l interval that equals 2 meter s; two important  conditions are already 
+given . So, let us say take a case of case 1, where is the riser is vertical . So, the width of  
+the bench  terrace , we calculated in this case ,  
+W = 100D/S  = (100×2)/20 = 10 m  
+And the length of terrace per  hectare  means  the to per hectare  area divided by the width 
+that will give us the tota l length of terrace  per hectare  = 10000/10 = 1000 m per hectare 
+area. 
+And the earthwork  per hectare , we design  we calculate this relationship 1250 times D. 
+So, there is a  very straightforward relationship , and because  the value of D is known to 
+us. So, by putting the value of D equals 2, the total earthwork comes out to be 2500  cubic 
+meters , so that means, if the riser is vertical , the width is 10 meters ; the length of terrace 
+per hectare is  1000  meters , and the earthwork  per hectare is 2500  cubic meters . These are 
+the answers we get .  
+ (Refer Slide Time:  28:37 ) 
+ 
+But, we have another case , where we have to find out the  area that is lost . So, here, 
+earlier , we derived it for the 1:1 riser slope in the previous lecture , we derived it . So, let 
+us consider the original length AE, which is converted in terrace  bit BD of width W, 
+terrace BD of width W, so AE. So, here it i s here , in this case , it will be D and W. So, AE 
+in terms of  D and W,  
+AB = √(D2 + W2)  
+So, the area lost will be the  this is original area , this is the width , we are calculating , and 
+this is the original area .  
+Area lost (%) = (√(D2 + W2) – W)/√(D2 + W2) × 100  
+= (√(22 + 102) – 10)/√(22 + 102) × 100  = 2 
+So, in the case of the vertical riser, the area lost is 2 per cent.  
+ (Refer Slide Time: 30:10 ) 
+ 
+Now, we have a case of a 1:1 batter  slope . So, width relationship already we know , we 
+derived , and first problem number 1 . So,  
+W = D(100 -S)/S = 2(100 -20)/20 = 8 m.  
+A length per hectare  will be  it will remain the same , because we  in the b ottom , it will be 
+W plus D. So,  
+L = 10000/(W+D)  = 10000/(8+2) = 1000 m  
+The length remains 1000 meters , but the width is lower now , which  is an important point 
+to note .  
+ (Refer Slide Time: 30:52 ) 
+ 
+An earthwork  per hectare will be 1250  D., And in place of D, we are writing  in terms of 
+WS for a 1:1 riser.  
+= 1250D = 1250 WS/(100 -S) = 1250 ×(8×20)/(100 -20) = 2500 m3   
+So, it remains the same , as in the case of riser your vertical riser . An area lost per hecta re 
+is the relationship  we derived  in the previous class that is  
+= (S+200)/(200/ S + S/100)  = (20+200)/(200/ 20 + 20/100)  = 21.57%  
+So, the area lost per hectare is 21.57  per cent. So, here we can see  that, when we use the 
+vertical riser , we only lost 2 per cent of the area, but when we are using a 1:1 riser, we 
+are losing  almost 21 per cent of the area . 
+So, with this , we come to the end of this class . So, we have seen whatever concepts we 
+know . With that , we can solve and design solve diff erent kinds of prob lems or design 
+bench terraces  for different given cases . So, as we have seen frequently , you have to use  
+Manning’s equation frequency frequently ; we have to use  the R ational formula . So, these 
+things you should always remember , and a lso the general relatio nships . If you remember 
+the equations , that is fine . Otherwise , you can derive also . As I have shown , it is easier to 
+derive provided  you remember the principles behind  each one of them . So, it can easily 
+derive any of the equati ons. So, I hope that , with this, you will be able to design bench 
+terraces . Please do  solve some problems on  your own , so that you are in practice .  
+ Thank you very much . 

@@ -1,0 +1,272 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 06 
+Soil Loss Estimation  
+ 
+Hello friends , welcome back to NPTEL  online certification course entitled Soil and 
+Water Conservation Engineering . I am Rajendr a Singh, Professor in Agriculture and 
+Food Engineering Department, IIT Kharagpur . We are st arting week 2 today tha t is we 
+are in lecture number  6, and the topic is  Soil Loss Estimation . 
+(Refer Slide  Time: 00:43)  
+ 
+This week , this will be our course content ; today will start with soil loss estimation . In 
+lecture 2 of this week , lecture 7 will go into erosive and erodibility, and lecture 3 of this 
+week, that means, overall lecture 8 will cover  modifica tions in uni versal soil loss 
+equation part 1. Lecture 4, cumulative lecture number 9 will cover  modification in 
+universal soil loss equation part 2. This week's last lecture, which will be lecture number 
+10 of this course,  will see how to measure soil loss  in field conditions . (Refer Slide Time: 01:32)  
+ 
+We start today with the soil loss estimation . We cover the most widely accepted method 
+for estimat ing the average annual soil loss, which is referred to as the Universal Soil 
+Loss Equation, which is  very po pularly known as USLE . The USLE  is a very popular 
+component of soil and water conservation , and as it says , it is the most widely  accepted 
+method . The i mportant thing to note here is that it is used for estimating the average 
+annual soil l oss that in a lon g-term soil loss it gives, it means that this method cannot be 
+used for estimating the soil loss for a sing le event . It provid es us with average  annual soil 
+loss. It also helps in determining the adequacy  of conservation measures . Obviously,  
+suppose we kno w the soil losses. In that case, we will estimate soil loss when no 
+conservation measure is taken using USL E. We will use the USLE for another field 
+condition, whe re certain  conservation practices have been taken . So, by comparing these 
+two estimates, we c an determine  how effective these  soil conservation measures are . 
+This USLE  was initially proposed by Wischmeier  and Smith  in 1958; Wischmeier Smith 
+modified this equation to it s present form in 1978. The definition of  USLE  is like this  – 
+the USLE  is an ero sion prediction model  for estimating  long term averages  of soil 
+erosion  from sheet  and rill erosion s from a specified land  under a specified condition . 
+There is an important terminology here: the erosion prediction model for the long -term 
+average of soil e rosion that we already mentioned . It only considers  sheet and rill 
+erosion s; that means the gully erosion process is  not considered as far as a  USLE  is concerned . It estimate s soil loss from a specified type of land , where a partic ular type of 
+crop is bein g grown  and a specified condition or under  if any  conservation measure had  
+been taken or not . So, under these specific conditions, we use universal soil loss equation 
+to measure soil loss or estimate soil loss . 
+(Refer Slide Time: 04:22)  
+ 
+Now, continuing  USLE, you remember that we were discussing the factors affecting 
+erosion in one of the classes discussing the factors affecting erosion. I gave the equation 
+that erosion is a function of climate, topography, vegetation and soil . So, the same 
+equation is wri tten here also that erosion is a function of climate , topography , vegetation 
+or land use and  soil. But, ultimately , these are the factors responsible for erosion, which 
+means that the  universal soil loss equation also consider s only these components . 
+If you look at the Universal Soil Loss Equation , 
+A = R K LS C P  
+Where A =Average annual soil loss, metric ton/ha or t/ha  
+R = Rainfall erosivity factor or index, MJ×mm/ha×h  
+K = Soil erodibility factor or index, t×ha×h/ha×MJ×mm  
+LS = Topographic factor  
+C = Crop ma nagement factor  
+P = Conservation practice factor  Let me remind you  that they are certain essential  things are certain fun damental things of 
+a subject . The USLE  is that kind of a fundamental thing  of soil and water conservation 
+engineering . It is expected t hat if you say to somebody that you have read this course , 
+you at least will know the  universal soil loss equation . So, that is why I will request  that 
+you please do  remember and do understand this universal soil loss equation . 
+(Refer Slide Time: 07:53)  
+ 
+Let us  see these terms  one by one . Let us  see the first term , which is  Rainfall  Erosivity 
+Index  or Rainfall E rosivity  Factor , which is  designated by letter capital  R. Rainfall 
+erosivity  refers to the intrinsic capacity  of rainfall to cause soil  erosion , and it is the 
+function of kinetic energy and intensity  of rainstorm . From lecture number 1, when we 
+started classifying soil erosion, we always saw water erosion start  with raindrops splash 
+erosion . We also saw  it is the raindrop impact  which is the major fa ctor behind the 
+detachment process . That intrinsic  capacity of the  rainfall to  cause soil erosion means 
+starting the detachment process which; obviously, depends on the kinetic energy and 
+intensity of the rainstorm  referred to in terms of  rainfall erosivit y. 
+It is expressed as a product of the kinetic energy  of the storm  and maximum  30 minute  
+intensity of the storm .  
+R = EI 30 = KE × I 30 
+Rainfall Erosivity  Index R is also referred  to as  EI30, where E is the kinetic energy , and 
+I30 is the maximum  30-minute ra infall  intensity during the storm .  In a given sto rm for which we want to estimate  from ; which we want to estimate the  soil 
+loss, and tha t simply means first we have to estimate the  rainfall  erosivity . During that 
+particu lar storm , we have to find the 30 -minute duration where the rainfall intensity is 
+maximum . We will  see how to calculate  and estimate all these  terms when we come to  
+the later part of this particular class . 
+(Refer Slide Time: 10:22)  
+ 
+The equation is basically  based on  the fact that the product of kinetic energy of the storm 
+and 30 -minute  maximum rainfall intensity  gives  the best estimation of soil loss . That was 
+given by Wischmeier in 1965 based on a large number of experimen ts. The 30 minutes 
+maximum rainfall intensity  either value is estim ated from  rain gauge charts . We shall 
+discuss the procedure to find  I30 probably  the next class . (Refer Slide Time: 11:32)  
+ 
+The next term is  soil erodibility factor  K and erodibility . Remember  erosivity is the 
+characteristic of rainfall , and erodibility  is related to soil . So, erodibility is  the resistance 
+of the soil to both detachment  and transportation . If any particular soil  can resist 
+detachment and transportation, the erosion will be less , so erodibility  is the measure of  
+erosion . It can be determine d through the measurement of soil  loss from a  standard 
+runoff  plot. If you have to do some kind of  experimentation  to find out the value of the  
+applicable value of s oil erodibility factor . When we say standard runoff  plot is also 
+referred to as standard  USLE plot, and there are specific  standards . That is  a single plot 
+having 9 per cent slope , or in d egrees , it is 5.16 degrees , and the length of the  plot is 
+22.13 meters  or 72.6 feet. This plot is kept fallow  with periodic  tillage up and  
+downslope . So, that means that  it is a plot standard plot  with a slope of  9 per cent. 
+Then i t is referred to as a standard USLE  plot, and that is a plot that is measured  for soil 
+loss estimation or  estimating the  soil erodibility  factor . Then the topographic factor , crop 
+management factor and conservation practice factor  are all taken is 1 , and you remember 
+equation R K LS C P. So, these 3 terms are gone . We are  only left with R and K, so, that 
+means soil loss or A is a function of  R and K. If we are using  a standard USLE p lot the 
+soil loss becomes a function of R and K and because  for conducting experiments , we can 
+always use the rainfall simulator s. We will always know the rainfall intens ity or rainfall 
+pattern under which we measure  the soil loss . That means it will be poss ible for us to 
+estimate  the value of the rainfall erosivity in dex. So, if R is known and A is measured that soil loss is measured from the standard plot, we can obviously  find out or estimate  
+the value of applicable  K for a  given condition . That is how the soil loss erodibility  
+factor  for a given soil  can be estimated using the standard  runoff  plots. 
+(Refer Slide Time: 15:35)  
+ 
+Based on the runoff  plot studies , certain values of erodibility factor  have been 
+recommended  for different soils of I ndia (Subraman ya, 2008). In the different state  
+stations , you can see A gra, Dehradun , Hyderabad , Kharagpur , Kota , Ootakamund and  
+Vasad, and these are the different types  of soil s. The K value var ies from  0.07 so, the 
+minimum  is 0.04 both in K haragpur  and Ootakamund , where the soils are lateritic  or 
+sand sandy loam  basically .  The highest  value here we find is 0.1 5 that is  how silt loam  
+was reported from D ehradun . These are the experimental values that have been reported 
+which can be used for different  kinds of soil type s. (Refer Slide Time: 16:34)  
+ 
+Then we come to the next factor , a topographic factor, which  include s a factor for slope 
+length  (L) and slope steepness  (S).  L and S are taken toge ther and written as  LS. It 
+represents a soil loss ratio  under given condition s to that at a site  with standard slope 
+steepness  of 9 per cent and slope  length  of 22.13  m. Basically , here also  is the USLE  
+standard plot is used as a reference . So, there  you measure the soil loss , and then you 
+measure soil loss for another field where  the slope length  and slope steepness are  
+different . Then you can find out  the applicant value of the LS, as we saw in the case of 
+K. The steeper and longer the slope, the higher the risk of erosion. So obviously, if the 
+slope is more , then the flow velocit y will increase, which means the kinetic energy of the 
+flowing water will increas e. That means  erosive capacity will be  more , and more  erosion 
+will take place . If that kind of slope  continu es for a longer length, more erosion will 
+occur . Topographic  factor  can be estimated using this equ ation: 
+LS = (L/22.13)m[65.41 Sin2θ + 4.58 Sinθ + 0.0651]  
+ Where L is the slope length  in meters   
+θ is the angle of slope .  
+m is the exponent depend ing on the slope . 
+The exponent, m , is taken as  0.5 for slope 5 per cent or more ,  0.4 for slope range 3.5 to 
+4.5 per cent, 0.3 for 1 to 3 per cent, and 0.2 for less than  1 per cent. As you can  see, if m 
+is more , this factor will be more; that means the soil loss will be more so obviously . (Refer Slide Time: 19:01)  
+ 
+Topography factor values can also be obtained from standard tables . Here I have 
+mentioned the reference for  tables  where LS factor has been tab ulated for different slope 
+lengths  and different slope percentages , and the rec ommended value . If slope length is 
+30.5 meters  or 100  feet, then the values are different slopes starting from 0 to  10 per  
+cent. So, if the  length is 30.5 meters  and the slope is 0, that  means horizontal, then the  LS 
+value will be 0.07. Where in if it s slope is 10 per cent, then this  value will be  1.38. So, 
+depending upon  where  the slope increases , the value of  the LS factor  also increases . 
+(Refer Slide Time: 19:59)  
+ Similarly , this site  produces  tables for  different  slope length s 61 meters , 122 meters  and 
+then 244 meters  and 488 meter s. So, values  can be the LS values  can be referred from  
+these  table s. 
+(Refer Slide Ti me: 20:17)  
+ 
+The next factor  is the crop management  factor . It is the soil loss ratio  from a land  
+cropped under specified conditions  to corresponding loss  from  clean tilled  continuous 
+fallow land . So, again  the soil loss  is measured  from  a standard USLE  plot, where  it is 
+fallow land , but clean t illed up and down slope some tilled is operation has take n place . 
+Then if you meas ure soil loss from any other area which has been  crop differently , the 
+ratio of both soil los ses will define the value of  C. It include s the effects of  various crops 
+factors  like crop cover , crop sequence , tillage practices  and residue management . All this 
+will impact the value of C can also be  obtained  from standard tables . (Refer Slide Time: 21:23)  
+ 
+This is a table based on reports fro m different ICAR research cent res that  the values of C 
+are there . For example, in Kharagpur , Kota and V asad research centre s, these are the 
+values  for maize, paddy, cow pea, et c. So, that is how you can  refer to the values  of C 
+from the standard literature . 
+(Refer Slide Time: 22:03)  
+ 
+The last factor  is so, conservation practice factor , P, which represents  the ratio of soil 
+loss from a land  where conservation practices like contouring  strip cropping  and 
+terracing , etc. , are adopted  to that where they are no t. So, in the standard USLE  plot, we know that no such  practices are adopted . So, if you take the soil loss value from a  field, 
+say, contouring has taken place then; obviously, with reference to USLE  plot what is the 
+soil loss that will define  the value of  P. So, the value of P is taken is 1  for no  
+conservation practice . Similarly , the value of C is taken as 1 , if no crop is  there and  land 
+is fallow and continuously being t illed. Like LS and C, for P also, standard tables are 
+available , which can be referre d, 
+(Refer Slide Time: 23:01)  
+ 
+For example, this is a n example table for different slopes  and different kinds  of 
+conservation practices : contouring , contour  strip cropping , terracing and  contouring 
+together . If the slope is between 2.1 to 7 per cent, the value is 0.5 for contouring , for 
+contour s trip cropping , the value is 0. 2, and for terracing and contouring , the value is 1. 
+From the equation ,  A is directly  proportional to  P, so, larger P's value,  the greater will be 
+A. From this relationship , we can see  that if we adopt a combination of terracing and 
+contouring  over 2.1 to 7 per cent. Then obviously , the soil  loss will be less as compared 
+to when we  only adopt cont ouring .  (Refer Slide Time: 23:59)  
+ 
+Let us try to solve a problem . The problem says that g iving the following data , calculate 
+the average  annual soil loss . 
+Rainfall erosivity factor (R ) = 200 MJ×mm/ha×h  
+Soil erodibility  factor  (K) = 0.35 t×ha×h/ha×MJ×mm   
+Slope length (L) = 61 m  
+Average s lope steepness  (S) = 8%,  
+Crop management factor (C) = 0.2 
+Conservation  practice fact or (P) = 1 (which means  that no conservation practice is  taken ) 
+To see  if we say  A equal s R K LS C P, we must  use a universal soil loss equation  to 
+estimate  the average annual soil loss . 
+Here R, K, C and P value s are given . For the LS factor , we have  L and S known . So, 
+either we have  to use the relationship  or use the standard tables to obtain the  LS. We 
+have to determine  the value of the LS factor , knowing L and S; if we can obtain that , we 
+will be able  to solve this problem . (Refer Slide Time: 25:43)  
+ 
+Coming to the solution , we can  find LS factor  for L equal s 61 meters and an average 
+steepness  slope of  8 per cent; we have gone to the standard table  just now we saw earlier . 
+We have to refer  to the slope length  equal to  61 meter s or 200 feet, and we have to refer  
+to the slope  8 per cent. From the table , we can read  the value o f LS as 1.41. So that 
+means, LS factor  applicable in this particular problem will be  1.41. 
+(Refer Slide Time: 26:24)  
+ 
+We have been given R equal s 200 MJ×mm /ha×h ,  K is 0.3 4 t×ha×h/ha×MJ×mm , C is 
+0.2, P is 0.1 , and we already have estimated LS equal to  1.41. We now know  the values of all these factors  and does putting  in th e equation and 
+calculate .  
+A = 200×0.34×1.41×0.2×1 
+A = 19.18  t/ha/yr  
+The e stimated  average annual soil loss (A) is 19.18 t/ha/y . 
+That means if you want to use the universal soil loss equation for estimating  soil loss  
+from given conditions , then we have to  obtain the values of all these factors R K LS C 
+and P. 
+(Refer Slide Time: 27:29)  
+ 
+For soil loss estimation, we obviously apply USLE and what it means t o provide a 
+specific reliable guide for selecting appropriate erosion control practices for farmlands 
+and construction the areas that are  the application of USLE . For example, we already 
+know  that if we adopt a particular crop management factor, if we adopt a particular 
+conser vation practice factor, what should be the soil loss  value ? Using this , we can know  
+what kind of cropping pattern we should adopt  and w hat conservation practice we adopt . 
+The USLE  could be applied to provide reliable  guides for selecting appropriate  erosion 
+control  practices for  farm lands and construction  areas. That means  we have to first  know 
+how much erosion for a given area on an annual basis, and  based on that, we can  decide  what kind of erosion control practice  should  be adopted . Determine  upland erosion for 
+reservoir  sedimentation in -stream  loading  control of  pollution from crop land and 
+alternative land  use treatment combination s. 
+Obviously, we know one of the ill ef fects of erosion is that it fills the reservoirs or 
+storage structures or stream beds . Because  ultimately , whatever soil is eroded that 
+reaches the streams or the storage structures like a reservoir . If you want to maintain the 
+life of the reservoir or if you want to keep the  reversed cross -section free from 
+sedimentation . So obviously  have to control erosion on the upside of  the catchment from 
+where the water is reaching a particular reservoir at a  particular stream . We can control 
+that by using  suitable  land use  treatment combination s. These are the important 
+applications . 
+(Refer Slide Time: 29:45)  
+ 
+In India, soil loss rates have been classified into six categories  based on 21 observation s, 
+64 estimated erosion values  by USLE  at different  location s sprea d across the country . 
+The erosion classes are slight , moderate , high, very high, severe , very severe . The 
+erosion rates are slight means  0 to 5 t/ha/y; moderate is  5 to 10 t/ha/y; very severe is 
+greater than 80  t/ha/y. The moderate erosion  is allowed up  to what level we can allow . 
+If there  are 14,05,640 km2 of the area,  that falls under  the moderate erosion class . Where  
+in 8,01,350 km2 falls under the slight erosion . We must keep soil lo ss within the 
+moderate limit . That means  these  many levels  are unaccept able, so we have to take various kinds of soil erosion measures  to control  the high er loss of soil erosion wherever 
+it is occurring . 
+(Refer Slide Time: 31:08)  
+ 
+Then obviously, USLE  has certain  limitations  as well . It is empirical in nature  that means 
+all coefficients  are empirical . The value s of R or K or LS or C or P are applicable only 
+for the areas for which  we have estimated those values . Then next is the prediction of  
+average annual  soil loss ; it only predicts  average annual soil loss . 
+If you want to  determine  the soil loss from a particular event , then USLE  cannot be used . 
+Then, obviously, when we define  USLE , we s ee that i t is only limited to sheet and rill 
+erosion . That means Gully erosion  is one of the primary or major erosion concerns  that is 
+not taken into account , then non-consideration  of sediment deposition . So, here it only 
+talks about sediment  loss. There is no conside ration of  soil deposition  in USLE . So, that 
+is one of the  major limitations of  USLE . 
+With this , we have seen  USLE  that how to use  USLE , the factors involved in the USLE, 
+and the applications  and the limita tions of USLE . That we have seen in this  first lecture 
+of this week , that is  week  lecture number 6. And in  the following  lectures , we will see 
+how to estimate erosiv ity, erodibility , the various modifications available for USLE  and 
+how to apply that  in the coming weeks . 
+Thank you very much . 

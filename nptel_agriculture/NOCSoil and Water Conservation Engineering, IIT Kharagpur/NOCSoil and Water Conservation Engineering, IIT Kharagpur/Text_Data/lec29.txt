@@ -1,0 +1,420 @@
+Soil and Water Conservation Engineering  
+Prof. Rajendra Singh  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+ 
+Lecture – 30 
+Basic of Ope n Channel Hydraulics – 2 
+ 
+Hello friends , welcome back to NPTEL  online certification course on Soli W ater 
+Conservation Engineering . I am Rajendra Singh Professor in the A gricultural and Food 
+Engineering Department of  IIT Kharagpur . We are in week 6 lecture 30 and the topic is 
+Basics of Open Channel Hydraulics part -2. 
+(Refer Slide Time: 00:37)  
+ 
+To give you an overlook of what we have covered in this week up till now . We started this 
+week with lecture 26, where we introduced gully control measures . In lecture 27, we 
+focused on gully control measures with respect to permanent s tructures . In lecture 28, we 
+dealt with design considerations for permanent gully control structures . And lecture 29, 
+we went through the basics of open channel hydraulics part 1. And today’s lecture is a 
+continuation of that that is basics of open channel  hydraulics part 2. 
+ (Refer Slide Time: 01:15)  
+ 
+Last time we discussed the concept of specific energy , and today we continue with  the 
+application of specific energy concept s especially  with reference to flow over a raised 
+hump . So, the case is suppose d there is a channel where there is a raised hump certainly a 
+raised hump comes this is the concept  I also mentioned is used in  broadcasted (Refer Time: 
+01:41) also.  
+So, if upstream depth and discharge are known , that is at this any point upstream which is 
+point 1 here. If depth and  discharge are known then specific energy concept s can be used 
+to find the velocity and depth over the hump . So, the velocity a depth over the hump can 
+be found out by knowing the upstream conditions . And that is because of the appl ication 
+of specific energy concept s. 
+So, if you apply  Bernoulli’s  energy equation over section s 1 and 2. Section 1 you 2 notices 
+is the hump where the hump height is delta z. Assuming  horizontal rectangular channel 
+that is Z1 equal to Z2 and taking alpha equals to 1, that is in Bernoulli’s energy equation . 
+So, we get  
+𝑦1+𝑉12
+2𝑔 =𝑦2+𝑉22
+2𝑔+∆𝑧 
+So, basically here  so elevation head is not there . So, it is the  pressure head and velocity 
+head pressure head in velocity head that is there . And of course, this z is  in will part of the 
+depth of flow , because the depth of flow is less  so here due to this hump  so this is equation 
+number 14. We are  continuing with the equation number earlier  equation number .  
+(Refer Slide Time: 03:03)  
+ 
+𝐸1=𝐸2+𝑧 
+𝐸1− 𝐸2=𝑧 
+𝑦1+𝑉12
+2𝑔 =𝑦2+𝑉22
+2𝑔+∆𝑧 
+𝑦1+𝐸1 =𝑦2+𝐸2+∆𝑧, so 𝑦1+𝐸1= 𝑦2+𝐸2 
+So, in terms of specific energy because we know that specific energy is nothing , but y 1 
+plus y plus V square by 2g. So that means equations  say 14 can be written as  y𝑦1+𝐸1 =
+𝑦2+𝐸2+∆𝑧. So, point A on the specific energy curve  corresponds to section 1. So, 
+section 1 where the depth is very high and if you go here this is the point on a specific 
+energy  curve if you draw for this flow then this is  specific energy  for this point a 
+corresponds to a flow depth on the upstream side . 
+However, as seen point  B or B dash may  present section 2. So, both these 2 points have a 
+because here you see the  energy  the depth is  z and energy here is  E 1. W here in this is  E 2 
+that there i s a difference of delta z from this equation . So, E 1 is E 2 plus delta z . So, this 
+is E 2 plus delta z is E 1. So, that is what it is  so this E 1 corresponds to section 1 and E 2 
+corresponds to section  2, but the same energy  E 2 is obtained at two points  B and B dash.  
+Then the question is which of these two  B or B dash represents section 2. So obviously, 
+we can say that point  B corresponds to specific energy  and flow depth at  section 2 because 
+in between section s 1, 2 there cannot be two points where  E 1 minus  E 2 is equal to delta 
+z. So, because the difference between  these two is delta z  so between this point and this 
+point there cannot be  another point . So, that is why this point basically represents section 
+2. So, point A corresponds to section 1, and point  B corresponds to section 2 on the specific 
+energy curve .  
+(Refer Slide Time: 05:03)  
+ 
+So, if you take the example a rectangular channel with a flatbed and width of 5 meter s and 
+maximum depth of 2 meter s has a discharge of 10 cumecs . The normal d epth is 1.25 
+meters . What is the depth of flow  in a section in which the bed rises 0.2 meter s over a 
+distance of 1 meter ? Assume that frictional  losses are negligible so  that means we have 
+been given channel bed width is 5 meter s, discharge is  10 cumecs or  cubic meter per 
+second , y 1 is 1.25 meter , that is normal depth is given and delta z, that because there is a 
+rise bed rise is 0.2 meter . So, delta z is 0.2 meter s. So that means we can for a ramp case 
+we know that from  a specific energy concept , E 1 is equal to  E 2 plus delta z .  
+ (Refer Slide Time: 06:03)  
+ 
+So, w e also know that E equals y plus V square by  2g so that means for E 1 section 1 we 
+can write  E 1 equals to  y 1 plus V 1 square by  2g or y 1 we can replace V by Q by A. So, 
+y 1 plus Q square  divided by  2g A1  square and we know the value of  y 1. W e know the 
+value of the loss  discharge  Q and cross -sectional area because we know the bed width , we 
+know the  depth of flow . So, cross -sectional area  By, we can found out find out and value 
+of g is also known . So, everything is known here  so by putting the values we get  E 1 equals 
+1.38 meters . 
+Similarly, specific energy at  section 2 assuming the depth of flow Y 2, we can write in 
+terms of y 2, E 2 is y 2 plus Q square by  2g a y 2 square or  y 2 plus 10 square ; that it 
+becomes  Q equals to 10, 2, 9.81 5 y 2 square ; that means if we simplify we get  y 2 plus 
+0.2 by y 2 square. A nd we know that  E 2 equals E 1 minus delta z from the previous 
+equation and  so y 2 plus 0.2 y 2 square which is here is equal to 1.38. T hat is E 1 value we 
+have already obtained and the z delta z value we all know 0.2. So, from here  y 2 plus 0.2 
+by y 2 square is 1.18, and because  y 2 is the only  unknown  so we can solve by trial and 
+error and we get a value of  y 2 equal to 0.96 meters . 
+So, this shows that the water level at  section 2 is 1.16;  that is 0.2 from the bed elevation . 
+So, 0.2 which is a jump  ramp , ramp height plus 0.96,  that is 1.16 meters . And there is a 
+drop of 9 centimeter s in water level due to a 20-centimeter rise in the bed . Because the 
+upstream flow depth is 1.25 meters  to 1.25 meters , wherein the flow depth at the ramp is 
+including the ramp height is comes out to be 1.16 meter s. So, there is a drop of 9 
+centimeters in water  level due to a 20-centimeter rise in bed . So, that is one of the concepts 
+of the specific energy because using specific energy we can find out the flow depth at the 
+ramp .  
+(Refer Slide Time: 08:37)  
+ 
+Then we come to hydraulic jump  is a hydraulic jump  is defined as a rise in the  level of 
+water in an open  channel . So, if the water level rises suddenly then this phenomenon is 
+referred to as hydraulic jump . And it occurs when water flowing at a high velocity  is 
+retarded to a  slow velocity . Suddenly if  the flow is supercritical that is flowing at a very 
+high velocity , then if it is retarded because of a certain region then ; obviously, there will 
+be a sudden rise in the  level of water and that is referred to as a Hydraulic J ump.  
+(Refer Slide Time: 09:19)  
+ 
+And t he slowing of water leads to an increase in height that changes the kinetic energy of 
+flow into  potential energy . And in the process some of the energy dissipated in the form 
+of heat due to  turbulence . So, basically , the hydraulic jump phenomen on is used f or energy 
+dissipation and is often designed to occur over  dam spillway  so on the downstream side of 
+the dam spillway where the water flows with a very high velocity .  
+Then we  create a condition such that hydraulic jump occurs and energy is dissipated  so 
+that the downstream channel remains safe . Also below the sluice gates in the channel  so if 
+the sluice gate is there , then also because of the flow conditions changing drastically there 
+will be hydraulic  jump formation . And also occurs when the channel slope changes from 
+steep to miles . So, wherever there are float condition s changes therefrom supercritical to 
+subcritical , then we have the  hydrologic jump phenomena taking place .  
+(Refer Slide Time: 10:27)  
+ 
+So, if we try to analyze hydraulic jump ; hydraulic jump involves  large energy losses . 
+Energy or specific energy equation  cannot be applied because  we saw that energy remains 
+more or less  constant  in the specific energy previous equations whenever we saw  we 
+neglected the losses  or there were mino r losses because of the friction . But because of the 
+hydraulic  jump phenomen on, a lot of energy  loss is there  so, that is why we have to apply  
+the momentum equation in this case . So that means, if we consider a control volume  
+containing the hydraulic jump here, then we have to  consider the forces  acting on this 
+control volume . 
+(Refer Slide Time: 11:19)  
+ 
+So, if we consider that then ; obviously, because of the velocity of flow there is a force 
+acting in the flow direction , flow is taking in this direction . And then hydraulic jump 
+phenomena occur  so that means there is some retardation and then a flow force is created 
+which acts in the opposite direction . So, the  
+𝑅𝑒𝑠𝑢𝑙𝑡𝑎𝑛𝑡  𝑓𝑜𝑟𝑐𝑒  𝑖𝑛 𝑥−𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛 =𝐹1−𝐹2, and momentum change will be  obvious , 
+if you consider momentum in section 1 is  M 1 and section 2 is  M 2. So, the momentum 
+change s 𝑀1−𝑀2, and for this  momentum equation the  momentum change equal to  a total 
+change in the  forces . So, from this , we can write  𝐹1−𝐹2=𝑀1−𝑀2 
+(Refer Sli de Time: 12:09)  
+ 
+𝐹1=  g 𝑦1
+2𝑦1𝐵 
+𝑀1= Q𝑉1=  Q𝑄
+𝑦1𝐵 
+Or we can  rearrange and write  𝐹1−𝐹2=𝑀1−𝑀2=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡 . And if you consider a 
+rectangular channel then  F 1 that is a force at  section 1 is pressure times area . And the 
+pressure is basically gH. So, gH basically if it is a rectangular section then force x at 
+the center . So, the center of the depth  so that is why, if y 1 is  depth and the  y1 by 2 that 
+will be centroid . So, rho g  y1 by y 2 and the rectangular channel  so, y 1 time B is the  depth 
+of the cross -sectional area . 
+(Refer Slide Time: 12:53)  
+ 
+Similarly, if you consider momentum  in section 1, then momentum is mass into velocity . 
+And mass is nothing , but  times  Q, and velocity is V1. So, again velocity we can w rite 
+in terms of  Q and cross -sectional area . So, Q and cross -sectional area , so B y1 so this is 
+what it is . So, similarly , if we can write  𝐹2=  g 𝑦2
+2𝑦2𝐵 and 𝑀2= Q𝑄
+𝑦2𝐵. So, we are 
+now writing everything in terms of  Q and y .  
+(Refer Slide Time: 13:33)  
+ 
+And if we equate  that and we rearrange the terms with a little bit of manipulation , we get 
+this formula ; we say that   
+𝑦2= 𝑦1
+2(√1+8𝐹𝑟2-1) 
+And important thing is that here  Fr is the Froude number  we remember , remember the 
+earlier we used  F for Froude number , but because here in the momentum equation , F is 
+being used to represent force . So, if that is why we are writing  Fr, so F r1 is Froude number 
+at section 1.  
+Basically , it means that Froude number at section 1. So, y 1 and y 2 are conjugate depth  so 
+using this  relationship , we can find out knowing if we know the Froude number ; that 
+means, the velocity of flow and the  depth of flow our discharge in the  upstream section . 
+They can then we can find out the conjugate depth  in the hydraulic jump .  
+Similarly, if we manipulate this equation a little bit then ; the energy loss in the hydraulic 
+jump can be obtained in the form of this relationship that is ,  
+∆𝐸=(𝑦2−𝑦1)3
+4𝑦1𝑦2 
+So, if we know the  conjugate depth we can find out how much energy  loss is taking place 
+in hydrology up phenomena . 
+(Refer Slide Time: 14:57)  
+ 
+And also  based on experiments  the length of a hydraulic jump , that is distance which is 
+measured from the front face of the jump to  point on the surface immediately after the  
+roller . So, basically here from here to this is the place . So, this is nothing , but this is the 
+long length of the hydraulic jump .  
+And this length is experimentally determined  a 6 y 2 and that is true only when  F that is 
+Froude number remains between 4 and 20. So, the Froude number is 4 in 20 the 
+experiments showed that within this range length of the hydraulic jump was 6 times y 2. 
+So, if we know the  y2 we can also find out what is the length of the hydraulic jump .  
+(Refer Slide Time: 15:45)  
+ 
+So, we now come to practical applications of  hydraulic jump phenomena . Hydraulic jump 
+is used in the design of stilling basins for energy dissipation and  as we know stilling basins 
+are used as a terminal structure in a spillway . So, many times we have talked about apron 
+basically this apron , and this stilling basin is also  x is a n apron in a structure . So, stilling 
+bases are used as a turbulent structure there is the last structure . So, the flow falls on this 
+apron and it is expected the hydrogen phenomenon will occur and ene rgy dissipation will 
+take place .  
+So, stilling basins are designed in such a way that hydraulic jump is created  so that a high 
+level of kinetic energy is reduced through dissipation and by a transfer to potential energy 
+due to greater  subcritical flow dept h. So, we know that in the hydrologic phenomena the 
+flow depth rises . So obviously, the kinetic energy gets converted into potential energy , and 
+also bec ause of the roller formation and so on a lot of energy further dissipated . 
+So, this helps in  controllin g scour and erosion of the downstream  channel because if a very 
+high-velocity flow will go into the downstream channel , then that might cause erosion 
+because you remember every time when we design grass water we always talked about the 
+non-erosive velocity . So, we always want to focus on nonerosion velocity or we want to 
+have control velocity  so that erosion can be minimized . And that is what happens here that 
+when hydraulic jump phenomena occur , we do  not want very high flow velocity to go into 
+the downstream channel and that is why we see that we put  or stilling basin . So, that 
+hydraulic jump phenomen on occurs the  kinetic energy gets converted into potential 
+energy , and because of this conversion process lot of energy loss takes place .  
+And the velo city of flow gets reduced . So, that downstream section of the channel  remains 
+safe from scour or erosion . Flow at the lower end of the spillway of a dam is  usually 
+supercritical . Since the flow in the channel do wnstream is usually subcritical. H ydraulic 
+jump forms near the base of the spillway . So this is what we are talking about because of 
+the very high flow and because we are seeing that the velocity is retarded . So, there will 
+be a rise in the water level and that is why in between hydraulic jump phenom ena will take 
+place .  
+(Refer Slide Time: 18:27)  
+ 
+Now, the downstream portion of the spillway must be designed . So, that hydraulic jump 
+always forms on the concrete  structure itself . So, the concrete apron which we provide 
+here that is here . The hydraulic jump phenomena  must occur within the confines of this 
+apron . If hydraulic jump forms  downstream of the contact  concrete structure say for 
+example, instead of in figure A it is happening here , but if it forms build beyond this apron 
+then severe  erosion of f oundation material could  undermine the dam and cause complete  
+failure of it .  
+So, that is also an important design consideration that when we design a pronounced 
+stilling basin , we must always see that hydraulic jump phenomena  do occur over the apron 
+or the concrete  structure itself . And U.S. B ureau of reclamation ha s standardized the 
+stilling basin designs and this we will see when we  discuss later on when we go into the 
+design of  in a greater way  we will see all these design s of stilling basins and all little later 
+maybe later in the  course .  
+(Refer Slide Time: 19:45)  
+ 
+So, let us take one example ; a hydraulic jump occurs downstream from a 15-meter wide 
+sluice gate . The upstream depth is 1.5 meters and the velocity is 20 meter s per second . 
+Determine  the Froude number and the Froude number corresponding to the  conjugate 
+depth , the depth , and velocity after the jump , and the energy loss in the jump . So, all these 
+we have to find out . So, we have been given the data given are velocity upstream velocity 
+is 20 meter per second here and upstream depth that is  y 1 equal to 1.5 meters .  
+So, the Froude number for upstream section  F 1 is V 1 by root g  y 1 that  is a standard 
+equation . We know V 1, we know g , we know y 1. So, while  putting the value we get the 
+Froude number is 5.2 and this is greater than 1. So, the flow is supercritical  which  is very 
+important to notice . And once we know  y 1 then  and we know the  y1 and we know the 
+Froude number . 
+Then we know the equation to find out the conjugate depth that is  y 2 equals y1 by 2 square 
+root 1 plus 8 F r 1 square minus 1. So, we know further  the Froude number  upstream 
+Froude  number which is here , and y 1 that is the depth of flow we know . So, by putting 
+the known values here we cal culate  y 2 comes out to be 10.3 meters . So, that means the 
+depth of flow goes up from 1.5 meters to 10.3 meters in the hydraulic jump phenomena .  
+(Refer Slide Time: 21:23)  
+ 
+And then of course so from the continuity equation , we can calculate V 2. So, it is V 2 is 
+A 1, B 1,  A 2, B 2. So, 1.5  times  20 and then divided by 10 by 3. So, we get 2.9 meter s per 
+second  that are the velocity of flow . And drown stream Froude number then can be found 
+out B 2 by root g y 2. So, V  2 is known g is known  y 2 is known  so, we can put the value 
+is 0.29.   
+And using the  equation the energy loss can also you find out this is a standard equation  y 
+2 minus  y 1 cube  4 y 1 y 2 y 2 is known  y 1 is known  so by putting the value we can find 
+out and delta E comes out to be 11 meters . That the flow depth goes up from 1.5 meter s to 
+10.3 meters and there is a n energy loss of 11 meters in the hydraulic jump phenomena . So, 
+that is what we get  from this problem .  
+(Refer Slide Time: 22:28)  
+ 
+Another example we can take water on a horizontal  apron of a 30-meter wide spillway that 
+has a depth of  0.2 meters and a velocity of 5.5 meter s per second . Determine the flow depth 
+after the jump the Froude number before and after  the jump and power dissipated within 
+the jump . So, V  1 is given  y 1 is  given so here also at  section 1 Froude number can be 
+found out V 1 by the square root of g  y 1 putting  the values  we get  F 1 equal to 3.9.  
+And then using the standard equation we can find out conjugate depth where  y 2 equals y 
+1 by 2. A  square root of 8 plus 1 plus 8 F r 1 square minus 1, y 1 is 0.2. If the F value we 
+have obtained is 3.9. So, by putting these values we get  y 2 equals 1 meter . So, here flow 
+depth goes up from  0.2 to 1 meter . 
+(Refer Slide Time: 23:31)  
+ 
+And continuity section here  so here we can find out  a 1, v 1, a  2, v 2 and from here we can 
+find out that comes out to be 1.1 meter s per second . So, downstream  Froude number will 
+be F 2 that is V 2 by the square root of g y 2. So, V  2 is known , y 2 is known  so this value 
+comes out to be 0.35 so it is a subcritical flow less than 1. In an energy loss equation , we 
+know  y 2 minus  y 1 cube  4 y 1 y  2. So, these values are  y 2 y 1 is  known  so we can put the 
+value  and we get a n energy loss of 0.64 meters . What we have to find is the power 
+dissipated . And power dissipated we know is gamma  Q H gamma value we know is 1000  
+kg per cubic meter .  
+Q is area times velocity , so we can find out here  and H is we have found out that is the 
+total energy loss . So, from here we get it is 21120  kg meter per  second . That is the total 
+power dissipated an energy loss was 0.64 meters and power dissipated 21120  kg meter s 
+per second in the hydraulic jump phenomena . So, this is how we can design how much 
+energy is being g ot dissipated or (Refer Time: 24:48) power i s getting dissipated and  so, 
+on in the  hydraulic jump phenomena .  
+(Refer Slide Time: 24:56)  
+ 
+So, now we come to a gradually varied flow . So, in a rapidly varied flow hydraulic jump 
+phenomena because they are the flow they have changes over a very short di stance . And 
+that is how  with the distinguished rapidly varied flow and gradually varied flow . It was 
+assumed that the friction losses are insignificant , reasonable because rapidly very flow 
+occurs over a short distance . But since gradually varied flow occurs over a  long distance  
+friction losses are considered .  
+So, that is a major difference here . The r apidly varied flow w here say  occurs over a very 
+short distance  so friction losses are negligible . Very gradually varied flow because  the flow 
+that is the other depth etcetera changes over a long distance  so friction losses are 
+considered . And a specific energy curve shows that for a given  Q there are two flow depths 
+that are possible in a steady flow . And from Manning’s equation , all the time we have 
+found  one depth , and that depth is referred to as a normal depth .  
+(Refer Slide Time: 26:00)  
+ 
+𝐴𝑐
+𝑇𝑐=𝑄2
+𝑔𝐴𝑐2 
+So, the consideration of channel slope and friction helps us in deciding whether this flow 
+is subcritical or supercritical . So, we have to calcula te the  normal depth using Manning’s 
+equation and we have to calculate the critical depth using the equation we have already 
+seen critical depth  formula  so critical depth we can calculate . So, y n may  be greater  less 
+than or equal to y c .  
+So, these two depths we have calculated y n and second depth is y c . So, first is calculated 
+by Manning’s equation , second is the critical depth by using standard formulae and then 
+we have two depths . So, then these two values  y n may be greater less than or equal to y c 
+which is quite obvious . 
+(Refer Slide Time: 26:43)  
+ 
+ And if that is  so then for a given channel in roughness if  y 1 is equal  to y c that is possible 
+only, if the slope of the channel is critical because only at critical depth because critical 
+depth is only one and  so normal depth will be equal to critical depth only if the  slope of 
+the channel is critical  so this is one  finding . Second is if the slope is le ss than the critical 
+slope  that is here and y n is greater than y c that is normal flow depth is greater than critical 
+flow depth that is this is the normal flow depth . So, this is y c this is a here it is  here if it is 
+y n and then  obviously, we can calcu late the critical depth for any given flow condition . 
+So, the flow will be subcritical and the slope will be called mild . So, if s g is less than s 0 
+that the bed slope is less than critical slope  and y n that is normal depth is greater than 
+critical depth then the  flow will be subcritical that is here and the slope will be mild on the 
+other hand if the slope is greater than s c that is here and y n is less than y c . So, here you 
+see y c is line is a dashed line where is  y 1 y n has come down .  
+So, this is  y n. So, this is y c y n . So, y n is less than y c then flow will be supercritical and  
+the slope will be steep . So, from mild to steep slope , if we go flow changes from subcritical 
+to supercritical . On the other hand , it is just reverse that is from the steep two -mile slope 
+you go then also flow changes from supercritical to subcritical and in this case hydraulic 
+jump phenomena take place  so this these are the changes .  
+(Refer Slide Time: 28:39)  
+ 
+And considering the energy equation , equation 2 of lecture 29 that very common  equation 
+that is  y 1 plus V 1 square by  2g s0 delta x and  y 2 plus V 2 square . So, for as reach of delta 
+x in length defining  S f as friction slope that is  hl by delta x . So, the only change in this 
+equation is the equation of h L we are writing S f delta x in terms of  friction slope S f so 
+this is equation number 19. And if we say delta y is equal to  y 2 minus  y 1 and  V 2 square 
+by 2g minus  V 1 square by  2g is d by d x V square by  2g delta x .  
+And if we put this in the equation num ber 19 then we get  y 2 y minus 1 that we are bringing 
+on this side  so this is becoming delta y . This is 0 minus S f also we are bringing on this 
+side as . So, as z minus delta  minus delta x coming on this side we are in this  V 1 square  
+by 2g we are taking o n this side . So, it becomes v two square minus this thing and then we 
+can write  this term here . So, it is d by d x V square by  2g delta x equation number 22. So, 
+simple manipulations  of the terms  on the left and right -hand side s.  
+(Refer Slide Time: 30:07)  
+ 
+So, dividing the entire equation by delta x and taking the limit as delta x approaches 0 we 
+get d y by d x plus d by d x V square by  2g is equal to S 0 minus S f. A nd the second term 
+can rewrite as d by d y V square by  2g times d y by d x . So, from here  d y by d x  and that 
+is d y by d x and d y by d x . we can take common  and then we can write for d y by d x d y 
+by d x will be S 0 minus S f.1 plus d by d y V square by 2 g.  
+So, we are just  manipulating this term a little bit instead of writing d by d x we  are writing 
+d by d y and then d y by d x . So, that basically it means the same , but then it helps us in  
+finding out d y by d x a single term . Now, this equation d y by d x is simply t old what 
+depth change in depth with x so ; that means, it tells us the wa ter surface profile how the 
+depth changes with distance basically this equation , but this equation can be  converted into 
+more usual form  if the denominator is expressed in terms of Froude number and that is 
+why we do a little bit of manipulation . 
+(Refer Slide Time: 31:25)  
+ 
+And then finally, we can write this equation as d y by d x equals to  S 0 minus S f divided 
+by 1 minus  F r square  F r is Froude number . So, now we have d y by d x in terms of S 0, 
+S f, and Froude number , and this is a general differenti al equation for  gradually varied 
+flow and this is used to describe the various types of water surface profiles that occur in 
+an open channel . So, using this one can find out the water surface profiles .  
+(Refer Slide Time: 31:55)  
+ 
+So, if you take an exampl e water flows in a river shown in the figure with a uniform  bottom 
+slope . So, slope this bottom slope is inform total depth at each section is measured by using 
+pitot tube as indicated . So, here in the center of the channel and its certain height and here 
+center option is certain height total head is the measure . The v alue determine s the value of 
+d y by d x at a location , where the Froude number is  2.75. So, these are the values that are 
+given to us and the distance between the two sections is 1250  meter s that are also given to 
+us.  
+(Refer Slide Time: 32:31)  
+ 
+So, this equation , 
+𝑑𝑦
+𝑑𝑥=𝑆𝑜−𝑆𝑓
+1−𝐹𝑟2 
+So, we know that  y 1 plus V 1 square by  2g plus S 0 I said this is the basic equation we 
+are writing , or from here S 0 minus  S f is 1 by delta x , y 1 plus V 1 square by  2g minus  y 
+2 plus V 2 square by  2g. W e are doing it  because these values are already available from 
+pitot tube measurement and delta x is also known . So, that is why we can calculate  S 0 
+minus S f directly . 
+(Refer Slide Time: 33:03)  
+ 
+So, by putting the values   ∆x =1250, y 1 V 1 square by  2g value is given , to difference is 
+191.5 -189 for say ing this section and for the second section  this comes out to be 2 meters . 
+So, S  0 by S f is 1 by 1250  and 2.5 minus 2; that means, 0.0004 putting the value of S 0, S 
+f, f r in 2.75.  That is where we have to find out the profile depth . So, d y by d x comes out 
+to be 0.0004 divided by 1 minus 2.75 square or we get a value of minus 6 into 10 to power 
+minus 5 and minus value shows that there is a fall in -depth as we move towards the channel 
+for the given condition .  
+So, that is how we have seen now in this case  first the application of  the energy concept , 
+then we went to  the rapidly varied flow in the form of hydraulic jump . We saw the concept 
+of hydraulic jump its application . And then finally, we moved into the gradually varied 
+flow and  so saw how the fundamental equation of gradually varied flow could be used for 
+designing the water surface profiles .  
+And all these concepts are very useful when  we go into designing various  permanent gully 
+control structures and we will see this application . So, I will expect that you will go through 
+this part very carefully and keep some of the basics in your mind because that will be 
+helpful when we design the structures . 
+Thank you very much . 
+ 
