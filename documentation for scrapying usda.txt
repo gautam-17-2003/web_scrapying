@@ -1,0 +1,9 @@
+﻿Steps followed : 
+
+
+* We started with scraping https://www.usda.gov/topics 
+* Beginning with scraping the content available directly under the topics i.e. Animals, Farming etc. 
+* After that we scrape the content of subtopics under various topics.
+* We made different folders for topics and subtopics itself.
+* Under the folder in which the content is scraped, the folder is named as the topic or subtopic for the same url.
+* At last we got almost 600-700 kb of data.
