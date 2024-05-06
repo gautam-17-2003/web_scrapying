@@ -1,0 +1,326 @@
+Soil Science and Technology
+Prof. Somsubhra Chakraborty
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 51
+GIS and GPS
+Welcome friends to this week 11 of you know week 11 lectures of Soil Science and
+Technology.  And  that  you  know  the  highlight  of  this  week  lectures  will  be  some
+advanced  technologies,  which  we  generally  used  nowadays  for  different  soil
+applications. And we will be talking about GIS and then GPS or in other words they are
+Geographic Information System or Global Positioning System.
+And then  in the forthcoming  in the coming  lectures  we will be talking  about, geo
+statistics which is a specialized branch of statistics. And then we will be talking about
+some advance sensors like diffuse reflectance spectroscopy as well as portable X-ray
+fluorescence sensors.
+So, in this first lecture of week 11, we will be talking about two important terms these
+are GIS and GPS. And nowadays, there has been extensive use of these technologies for
+different soil applications, be it you know efficient management of soil resources or
+precision agriculture and we will be talking in details about these terms. And then we
+will be talking about their you know, their principles and different backgrounds.
+(Refer Slide Time: 01:41)
+So, let us start today’s lecture so GIS and GPS. So, the in this lecture we will be for we
+will be covering this following concepts slight; why it is GIS and how it works, and then
+what is vector data and raster data, and then I will give you some examples of GIS, and
+then we will be talking about GPS and how it works.
+(Refer Slide Time: 02:05)
+So, let us starts with the GIS. The GIS is a short form of Geographic Information
+System. So, this geographic information system or GIS is basically a computer base
+system  including  software,  then  hardware,  then  people  and  geographic  information.
+Obviously,  it  requires  some  software,  specialized  softwares  and  there  are  some
+specialized softwares like ArcGIS, then you know QGIS, SAGA GIS. So, there are
+couple of specialized GIS software which you know we people or in our scientist uses
+use these days extensively.
+So, it is a combination of software and then hardware you required computer system to
+produce this maps, and then obviously you require some user as well as some geographic
+information which is stored in the database. So, obviously GIS what is the utility of GIS
+we can see, a GIS can create and then you know a GIS can create, then edit, then query,
+and analyze, and display map information on the computer.
+So, as we can see here in this picture, GIS basically composed of different data layers
+and here you can see that there are three different data layers, which are stacked over
+each other. Obviously, the first layer is the street data followed by building data andvegetation data and this street data is overlaid on some background and followed by
+building data and vegetation data.
+So,  you  see  that  while  we  stack  all  these  three  layers  together  we  are  getting  an
+integrated data and we are getting a real world representation, where we get both street
+data building and you know street building as well as vegetation.
+So, basically DIS is a combination of different layers, which are stacked over each other
+and after stacking them each other we you know we generalize  any you know we
+generalize any real world feature. Not only that at the same time we create, edit, query,
+and analyze from those real world features or real world map also; apart from that
+traditional mapping.
+(Refer Slide Time: 04:29)
+So, let us go ahead and see what GIS can do? Now, 80 percent of the local government
+activities estimated to be geographically based. For example, you know they do different
+types of zoning, then you know public work you know public works like streets, you
+know water supplies, sewers, planning and all these things, then garbage collections,
+then land ownership and variation, and you know public safety, fire and police. So, all
+these thing can be managed you know all these things are basically geography based.
+And you know GIS is very very helpful for properly managing these things, which have
+some geographical connotation.Secondly, a significant portion of state government has a geographic component. For
+example, you know natural resource management or highways or transportation you can
+use GIS. Then third one is the business and you know business use of GIS for every wide
+arrays application; you can see you know different types of retail size selection, and then
+customer analysis, then logistic you know logistics like vehicle tracking and routing.
+And  then  natural  resources  you  know  explorations  for  petroleum,  etcetera.  Then
+precision agriculture, precision agriculture is highly related to the; you know to the GIS
+and its applications and then civil engineering and construction. So, all these are related
+to different GIS applications.
+Then obviously, for military applications also you indicate GIS; specifically battlefield
+management  as  well  as  satellite  imagery  representation.  So,  all  these  are  managed
+through GIS applications.
+And obviously, some scientific research you know also employees GIS; starting from
+geography, geology, botany, then anthropology, sociology, economics, political science,
+epidemiology, criminology and all these thing.
+So, you can see GIS is a wide you know GIS can be used in wide range of domains and it
+is nowadays becoming a important tool in the hand of you know agricultural as well as
+national policy makers. So, let us see what are the other important thing in GIS?
+(Refer Slide Time: 06:51)
+So, let us see some examples of applied GIS you can see. In this slide, I have listed a
+couple of them obviously, this list is not exhaustive list. So, you can see here for urban
+planning management and policy making you can do zoning, subdivision, planning, then
+land acquisition, then you know economic development, then code enforcement, and
+then  housing  renovation  programs  and  emergency  response,  crime  analysis,  tax
+assessments.
+For environmental science, you can use monitoring environmental risk, then modeling
+storm  water  runoff,  then  management  of  watershed,  floodplains,  wetland,  forest,
+aquifers, then environmental impact analysis, hazardous or toxic. Toxicity analysis and
+you know toxic facility siting, then groundwater modeling and contamination tracking.
+And you know political  science like  you know, redistricting  and then  analyzing of
+election results then predictive modeling. So, these are some examples of you know of
+GIS.
+Apart from that in civil engineering, you can use locating underground facilities, and
+then  designing  you  know  alignment  for  highway  transit  and  then  coordination  of
+infrastructural maintenance. In case of business, you can do some demographic analysis,
+market penetration, share analysis, site selection you can do.
+The  educational  administration  you  can  do,  attending  you  know  attendance  area
+maintenance and then enrollment projections and some time in you know in advance
+areas you can use GIS for school bus routing also.
+ For real estate, obviously neighborhood land prices then traffic impact analysis and then
+determination of highest and best use all these can be done through GIS. In case of health
+care you can do epidemiological study and then needs analysis and service inventory. So,
+you can see a lot of thing you can do using GIS. So, now you know about the application
+of GIS let us move ahead and see you know how GIS works.(Refer Slide Time: 08:51)
+Now, this slide basically shows GIS data has a spatial or geographical references. So,
+this might be a reference that describe the feature on earth using some a latitude and
+longitude, and national coordinate system, an address, a district, a wetland identifier, a
+road name. So, basically they a sense is a GIS store, a GIS stores information about the
+world is a collection of thematic layers that can be linked together by geography.
+ So, you can see here in this we call it attribute table. So, in this attribute table, it is
+basically linked with the actual map which is shown above this attribute table. Now, this
+map or the study area is the map of the study area is divided into some numeric you
+know into some you know, large number of polygons is we can see, this one polygon,
+this one polygon. So, this polygon basically represents some you know mapping unit or
+homogenized area based on certain characteristics.
+ Not only we can map it, but also in the attribute table we can you know, we can tag this
+individual polygons with some specific features and we can actually you know populate
+or actually input their respective properties in the attribute table. Just like here you can
+see, the polygon of class 3 basically you know represents as scrub with growth index of
+17 and fire hazard a very high and soil type of clay.
+So, obviously this polygon which has been identified some with some identifier can be
+grouped into can be characterized by this particular properties. So, if you want to know
+what is the particular property of that polygon if we make a query, it will automaticallyextract this information from the attribute table and make the further analysis or give us
+the output.
+So, this is how these information in the attribute table is geographically related or tagged
+with any location, so that is why not only we can see and analyze and query from map,
+but also we can extract whatever information we can you know whatever information we
+required by you know analyzing this database. So, you now you probably have an idea
+about how this GIS thing works.
+(Refer Slide Time: 11:17)
+So, in the GIS system architecture and components you can see, basically it starts with
+data input so we basically input the data, which creates a geographic database. Once we
+create the geographic database, the next step is to input some query for example, you
+want to answer certain questions and I will show you one practical example later one. So,
+if we input our query obviously, it will be directed to the geographic database. And this
+geographic database will automatically do some transformation analysis and based on
+this transformation analysis, it will give us the output display and reporting.
+So, we can get directly report from the geography database or this geographic database
+can produce some transform, you know geography database some came under grow
+some transformation and show us some analysis and do some analysis and then further it
+produces the output. So, ultimately the output we are getting in terms of maps as well as
+in terms of some quantitative measured or different or specific queries.(Refer Slide Time: 12:21)
+So, the GIS data model is basically can be shown as I have told you, it can be shown as a
+you know is as a stacked feature as a stacking of individual data layer. So, you can see
+these GIS data models can be produced as a stacking of you know as a you know, this
+GIS model can we can be can be produced as a result of stacking of this individual
+layers.
+Starting from digital ortho-photo, we will be talking about digital ortho-photo later, and
+then you can see about the streets, then you know hydrography, then parcel of lands, then
+buildings, then zoning, then utilities as well as administrative boundaries. So, all these
+layers are you know stacked over each other or laid over each other to produce this
+ultimate representation of earth features.
+So, data basically is organized by layers and coverage’s or themes these are basically
+synonymous concept this layers coverage’s or themes with each layer representing some
+common feature. For example, in the buildings obviously, this layer will be shown only
+the building, we will show only the buildings which is present at that particular place
+And layers are integrated using explicit location on the earth surface thus it geographic
+location is the organized principal. So, these layer are basically will be stacked together
+based on some geography connotation, so that is why this geographic location is the
+organizing principle in case of GIS data model. So, let us see some example.(Refer Slide Time: 13:57)
+So, you can see here we have three layers or three themes, these are roads and then
+hydrology or water and then topography or land elevation. So, you can see here all of
+them are represented in terms of longitude and latitude, these are the road, this is the
+hydrology and this is the topographical features that means, the surface and awareness or
+you know  or land  elevation  basically.  So, they  can  be related,  because  the precise
+geographic coordinates are recorded for each of the theme.
+So, you can for each of these layers or you know or theme basically we have got the
+precise, you know geographic location or geographic coordinates or latitude longitude.
+So, basically we can be integrate these layers together and layers of comprised of two
+types of data, you can see here, one is called spatial data which describes the location.
+So, basically  you see  GIS  is  basically  geographic  information  system.  So, the  first
+objective of GIS to give a some spatial inference that means, we want to see what is the
+spatial variability or in other words you want to see where the data exist or where a
+particular feature exist. So these spatial data can helps us to describe the location or
+where in terms of some geographic location.
+Secondly attribute data, which is present in the attribute table can specify what, how
+much and when. So, these all queries can be answered by using proper GIS analysis. So,
+you can see here roads are been tagged with a longitude and latitude, then hydrology can
+be tagged longitude and latitude, then topography is again will tagged with longitude andlatitude. And layers may be represented in two ways, first of all in vector format as
+points and lines and secondly in raster format or image format as pixel.
+So, there are two types of features you will in case of GIS will be talking about this later
+on, one is call the vector format which is basically represented by line, points and
+polygons whereas, another feature of GIS is basically in the raster format and these raster
+is basically represented by grid of cells and we will be talking about that in a few
+minutes.  So, all  geographic  data  has  four properties  for example,  projection,  scale,
+accuracy and resolution; we will be talking about those terms later on.
+(Refer Slide Time: 16:27)
+So, let us go ahead and see what is the you know of what are the other features? For
+example, here you can see spatial data basically shows your spatial data gives you the
+information of where, a particular you know a particular feature is located or in other
+words this gives us the spatial a specific location or the you know remember that these
+spatial data is basically located or stored in terms of a specific file feature file type we
+call it shape file.
+And the shape file or geo database or similar geographic file. We will be seeing the
+shape file in a you know shortly I will show you, some shape file and remember that
+another type of data as we have talked about is attribute and descriptive data, which
+basically  gives  you  the  information  about  what,  how  much  and  when.  And  these
+specifics these specifies characteristics at that location natural or human created andstored in a database table, just like in you know and this database table is called the
+attribute table.
+So, this descriptive data is basically stored in attribute table and we have to input this
+data  basically  from different  sources. And these attribute  data in the attribute  table
+basically helps us to answer this question what, how much and when. So, GIS system
+traditionally maintain spatial and attribute data separately. So, in a GIS software it can be
+maintained separately both in a spatial file or shape file, another in a attribute data and
+the GIS software has the capability to join them for display or analysis. So, this is the
+beauty of GIS software.
+It  is  not  the  simple  mapping,  it  is  not  that  simple  database  management,  it  is  a
+combination of both of them to create an interactive solution for each and every problem,
+which is related to geography. So, for example in ArcView, which is a software the
+attributes of table you know, attributes of a specific thing in a table is used to link a
+shape file that is a spatial structure with a database table containing attribute information
+or in order to display the attribute data spatially on a map.
+(Refer Slide Time: 18:45)
+So, you can see this is a shape file. And the shape file format is a popular geo spatial
+vector data format for geographic information system software. And the type of you
+know these the you know you can see these are the political boundaries of India and thiscan be called this can be considered as a shape file. Remember that the shape file can be
+represented by either points polygons and you know or lines, we will see that later on.
+(Refer Slide Time: 19:13)
+So, the two fundamental feature of data models we will see there are two types, one is
+called vector data another is raster data. So, in vector is basically a series of x and y
+coordinates and we basically you know, used for representing discrete data like you
+know for you know for discrete data representing as points lines and polygons. And as I
+have told you, the raster is basically represented by grids and cells and it basically shows
+the continuous data such as elevation slope and surface.
+ So, raster data described by cell grid one value per cells. We can see its shows, the clear
+differences between these two data type, this is the vector data, which is shown by points
+and this is by line and then polygon. And you can basically describe any vector data by
+using three different features. And raster data is basically denoted by either this cells or
+zone of cells or you know this grids of cells.(Refer Slide Time: 20:21)
+So, this slide shows vector and raster representation of the spatial fields as you know see
+here. Vector data is again can be represented in terms of some polygons whereas, raster
+data can be represented in terms of some you know some gridded cells. Remember that
+the raster data is you know raster data basically represents some continuous data fields,
+like elevation.
+For example, the image is basically a rasterize format. Any image is basically can be
+converted in you know is basically a raster data format, where each individual pixel
+represent a grid or you know a grid in that raster data.(Refer Slide Time: 21:05)
+So, let us see the data representation in a GIS obviously, remember that in the real world
+anything or any feature can be represented by a combination of a raster and vector data.
+(Refer Slide Time: 21:21)
+And so let us see how it go, you know how it happens. So, you see it is a gridded cell
+basically you know these are you know number of rows is we can see and also the
+number of columns and these are basically contains some cell, where there is no data and
+cell size are almost similar. So, we can see points data which is a kind of vector feature,you can assign this points as grids just like this. And also polygons has a zone of cells
+just like this and also line is a sequence of cells like this or sequence of grids like this.
+So, you can see you can literally represents your vector data in terms of your you know
+raster data by using either specific grids or a zone of cells or line as a sequence of cells.
+So, this is how you can represent any feature of the earth surface, in terms of both you
+know vector data as well as raster data.
+(Refer Slide Time: 22:23)
+So, this is again note you can see it is the gridded cell. The polygon cells are represented
+by this green field you know grids whereas, this no data or the cells which does not
+contain any data is basically represented by this black cells. So, again this is a cell
+network which is basically line as a sequence, and as you can see you know these are
+some examples to show how these you know vector data and raster data can represent
+any feature over the earth surface.(Refer Slide Time: 22:57)
+So, let us see some good examples you can see this you know this some images or we
+call  it  dumb rasters, why we call  it  dumb rasters? Although, they look very good,
+however,  they  does  not  produce  any  good  quantitative  or  you  know  or  any  good
+information about you know about some specific features. If we ask the question, I like
+how way you know if we ask the question when, how and all this things, now all these
+cannot be answered by just interpreting this images; so this called dumb rasters.
+And as you can these are the smart raster obviously, because all these are you know
+represented by some specific attributes. For example, it is a smart raster of 5 feet grid
+and you can see the values are given and counts are given and also some features are
+given for each of the cell. So, whenever any images is associated with a in attribute table,
+we call it as smart display of data.(Refer Slide Time: 24:01)
+So, some important terms before we see some examples of GIS first of all is projection.
+Projection is the method by which the card 3-D surface of the earth is represented by X
+and Y coordinates on 2-D flat map or screen. And remember that although know we are
+trying to represent any 3-D surface in terms of 2-D flat map of screen, they are you know
+there has to be some distortion and so this distortion is inevitable.
+Second is a scale. So, there is a ratio of distance on a map to the equivalent distance on
+the ground. And in theory GIS scale independent, but in practice there is an implicit
+range of scales for data output in any project. So, if you see any GIS map it always a will
+associate with some scale.
+Thirdly, you know accuracy. How well does the database info matches with the real
+world.  So, it  can  be  measured  into  three  you know  aspects.  First  of all  positional
+accuracy so that means, how to lose the features to their real world location. Secondly, is
+a consistency, so do feature characterization in database match those in the real world?
+So, the second consistency so the second is consistency base accuracy. So, is a road in
+the  database,  a  road  in  the  real  world,  so  that  type  of  validation  can  be  done  by
+consistency based accuracy measurement.
+Thirdly is completeness, which is are all real world instances of feature present in the
+database. So, or in other words are all roads are included. So, these type of answers you
+can see while you are doing this you know accuracy analysis.And also resolution; resolution basically shows, the size of the smallest feature which is
+able to be recognized. So, for raster data it is the pixel size obviously, as the size of the
+pixel  goes  down,  the  resolution  is  increases.  Similarly,  just  like  in  case  of  in  any
+photograph as the resolution increases, the size of the pixel size goes down or in other
+words as the size of the pixel size goes down, their smallest feature can be identified
+through these individual pixels. So, guys you know so I hope that you have gathered
+some knowledge about this important terms.
+(Refer Slide Time: 26:45)
+And you can see here, you know let us see some one example of GIS. Here you can see
+this is a; you know this is basically shows a raster image layer, which is the digital ortho-
+photo  photograph  layer.  And  digital  ortho-photo  is  basically  combines  the  visual
+properties of a photograph with the positional accuracy of feedback in computer readable
+format.
+So, this is the our base map and then people have used the you know there are two types
+of vectors layer. This is the vector layer of street one street network, and this is another
+vector layer showing the land parcel layers. So, it is represented by lines however this
+land parcel vector layer is represented by polygons. So, let us see how these three can be
+integrated to produce you know to produce the answer of a specific query.(Refer Slide Time: 27:41)
+So, in this picture you can see, these three layers basically two vector layers and one
+raster layer are overlaid based on the common geographic location. So, they have similar
+geographic location; so they are overlaid to each other.
+(Refer Slide Time: 27:57)
+And ultimately you can see, after the we put some query. So, our query is to identify the
+parcel, which you we within a half mile buffer of the park and central. So, if it is the park
+and central and we are overlaying all these three layers to each other, we are stacking all
+these three layers to each other. Obviously, then you can identify the areas which are theyou know identify the areas which are containing the parcel, you know a half mile buffer
+of park and central.
+So, you can see by using by this is the actual use of you know GIS and by using these
+GIS we can query in our case the query was to identify the specific locations, which are
+within half mile buffer park and central. And you can see by overlaying all these layers
+together we can identify those areas.
+So, I hope guys now you are getting some ideas about this GIS and obviously they you
+know the you know a plenty of research is going on the GIS applications in soil science.
+Obviously, we can use the GIS for identification of aspect of you know different filed
+location not only that we can also do some geo statistical mapping using GIS software’s
+we will see that later on.
+And so all these better resource management to identify you know to identify the earth
+surface features are in efficiently managed by this geographic information systems. So,
+guys let us stop here and in the next lecture we will be starting from GPS. And then we
+will see that how this GPS is helping us for identification or you know for positional
+identification and how we are using this GPS nowadays and so on and so forth. So, guys
+thank you let us meet in the next lecture of week 11.
+Thank you.

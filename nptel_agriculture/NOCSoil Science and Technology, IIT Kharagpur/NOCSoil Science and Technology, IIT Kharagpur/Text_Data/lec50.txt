@@ -1,0 +1,295 @@
+Soil Science and Technology
+Prof. Somsubhra Chakraborty
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 50
+Remote Sensing in Soil Survey
+ Welcome, friends to this final lecture of week 10 and in this lecture, we will be talking
+about the Remote Sensing in Soil Survey. And in the last lecture, we talked about the soil
+survey and this week covers several aspects of soil survey we talked about what is soil
+survey and what are the utilities of the soil survey. Remember, soil survey is very much
+important for better management of natural resources; that means, natural resources of
+we talked about soil. 
+And then we talked about what are the objectives both fundamental objectives as well as
+applied objectives of soil survey and then we talked about what are the you know uses of
+soil survey, what are the different process procedure of soil survey, we talked about
+different orders of soil survey starting from 1st order, 2nd order, 3rd order, 4th order to
+5th order remember that 5th order is the you know lease detailed where as 1st order is the
+more detail soil survey and in 1st order the size of the land with survey is less than 0.5
+hectare and obviously, the scale is much more detail in case of 1st order then that of the
+5th order.
+And, then we talked about different types of remote sensing objective, remote sensing
+platforms which cover different ranges of soil order you know or different orders of soil
+survey and then we talked about different map you know what are the different mapping
+units and what are the different terms like mapping association and then consociation
+then undifferentiated group and so on so forth. And then we talked about different steps
+which are involved in actual soil survey and I told you about the what are the individual
+soil  profile  parameters  we  generally  consider  when  we  describe  any  particular  soil
+profile. 
+So, you also talked about different limitations of soil survey. Now, remember that soil
+survey while discussing about the soil survey I talked about some base maps and we
+talked about 4 types of base maps; one is cadastral map, then you know cadastral maps,
+then topographic maps and aerial imagery and then remote sensing. So, will be focusingin this lecture most on remote sensing because it has become a indispensible tool in not
+only in different other domains of science, but also in soil survey. So, we will be only
+focusing on what are the aspects of remote sensing or what are the applicabilities of
+remote sensing in soil survey. 
+(Refer Slide Time: 03:02)
+So, will be covering this following concept first of all covering what is the what is
+remote sensing and then we know then what is the SCORPAN model and then will be
+talking about remote sensing of soil forming factors.
+(Refer Slide Time: 03:18)
+So, let us start with the definition of remote sensing you know that remote sensing is a
+method for getting information about the you know about of different objects on the
+planet without any physical contact with it. So, it is a remotely sensed remember that
+there are several you know satellite platforms, remote sensing can be done from several
+platforms; it can be done from satellite platform, it can be done from we know from
+different low altitude flights or aerial imageries or it can be done through drones also.
+So, we will be mostly focusing on the satellite based remote sensing and remember that
+there is different satellites and satellite constellations which are actually rounding our
+earth you know throughout the year. And these satellites can captured different images
+and they can send us and these images are basically showing you know these images can
+be  analyzed  to  show  different  features  of  the  earth  surface,  different  distribution,
+different special distribution of several things in the earth surface and we can effectively
+use those images as base map in doing any soil survey.
+Because, this remote sensing are very very sensitive to several features; not only the
+geological features, but also different types of soil chemical and physical features and
+they can identify those features over the surface. And we will discuss how they can use
+this how we can use this features or how they we can use this information for our soil
+survey. 
+(Refer Slide Time: 04:55)
+So, this shows then example of satellite picture. You can see it is an image and images
+you  know  satellite  imagery  consists  of  photographs  collected  by  satellites  and  the
+satellite image we can used for further analysis and we can quarry different types of you
+know different types of landforms as well as different types of other information from
+this images.
+(Refer Slide Time: 05:29)
+Now, nowadays image you know remote sense has become a important tool in soil
+survey and these because of several advantages we can see here different platforms of
+remote sensing starting from low altitude flight for aerial imagery and then different
+types of satellites you know like Landsat, Ikonos, Quickbard, Aster some of them are
+you know commercial satellites and their respective you know pictures taken by this
+satellites.
+So, obviously, remote sensing has several advantages. You know some these remote
+sensing the advantages can be delineated as like you know there are several advantages
+of remote sensing. First of all, it can provide a view for the large region you know using
+this satellite imagery you can capture a large region of area. And secondly, it can offers
+geo referenced information and digital information. So, not only you can capture a large
+area, but also you can gather it in a digitize format, but also and also you can geo
+reference this information; that means, it has some special reference this is very veryimportant anything which have must have a special reference which you know that
+shows the you know special distribution of several features. 
+And finally, most of the remote sensors operate in every season, every day and every
+time and even in real tough weather. So, that is why we can get in you know continuous
+inflow of data or continuous inflow of images in digitize format from this remote sensing
+different remote sensing platform, they are working throughout the year and we can
+gather the information periodically to analyze anything over the earth surface. 
+(Refer Slide Time: 07:25)
+So, remote sensing in soil survey why it is important? Remote sensing can be used as a
+tool to gain additional information for soil survey, obviously. So, because viewing the
+remotely sensed image in various spectral bands helps in the you know distinguishing
+unique features and the SCORPAN factors are used as a means of differentiation. So, we
+are talking about this SCORPAN thing from the very beginning of this lecture. What is
+this SCORPAN we will learn in a you know in a couple of slide.(Refer Slide Time: 08:01)
+So, let us go ahead and see what is the conceptual model of soil formation? So, before
+going to the SCORPAN we need to discuss this thing. Now, according to this scientist
+Jenny, Hans Jenny in 1941, he has developed a soil you know equation which shows the
+soil formation. Now, soil formation according to his equation is basically function of 5
+different  factors.  These  five  different  factors  are  basically  P;  I  am  sorry  these  are
+basically five different factors which are denoted by P then Cl, then O, then R and T.
+So, P basically stands for parent material, Cl basically stands for climate, O basically
+stands for organisms, R basically stands for relief and T basically stands for time. So, we
+can see that you know soil can be defined as a function of five different important
+factors.  You  know  parent  material  you  know  parent  material,  then  climate,  then
+organism, then relief and time.
+So, obviously, some of the most commonly you know for getting this relief factor we can
+use nowadays called DEM will we will talk about DEM little bit in you know in a while
+I remember that  DEM is digitize file which shows the surface feature of any you know
+surface feature of the earth and these terrain attributes basically quantify the relief factors
+in Jenny’s model and some of the most commonly used terrain indices  which will
+develop  from DEM  are  basically  slope then  altitude  above  channel  network  valley
+bottom flatness, topographic wetness index and so on so forth.So, will discuss this later on while will be discussing the DEM file, but remember that
+according to the Jenny you know soil can be defined as a function of this 5 different
+factors. Now, this is the base model through from which this new SCORPAN model
+concept has the evolved and this SCORPAN model concept as given by renowned soil
+scientist Alex McBratney of the University of Sydney in the year 2003. 
+(Refer Slide Time: 10:32)
+And the SCORPAN model says that soil basically is a function of these S C O R P A N
+plus some error. So, according to the SCORPAN model soil is soil formation can be
+defined as basically is a function of soil which stands for S, then climate, then organisms,
+then R stands for relief, the P stands for parent material, A stands for age and N stands
+for location XY.
+So, basically we are giving some locational context to the soil form to a particular soil.
+So, a particular soil at a particular place is a function of all these factors for some
+unmeasure or you know errors. So, remember one thing that using this model it is
+possible  to  basically;  digitize  or  to  basically  save  any  soil  formation  or  any  soil
+formation I would say decision framework in digitize format.
+For example, we get this information of soil from this legacy soil data or soil profiles
+from the soil profiles or soil maps like any base map or any soil profile data which has
+been already gathered and characterized. Then also we can get different types of soil
+sensing to remote sensing and also climate can be you know climate organism reliefparent material we can gathered this from different remote sensing platform or different
+other sources age can be used age can be a data on the age can also be gathered through
+different sources. Location context we can get it from GPS and this f stands for basically
+special inference model when we generally use some models to specify or to predict any
+particular soil property. 
+So, you see this is why this is what we call SCORPAN model now the beauty of
+SCORPAN model is you can gather all this information above this factors any digitize
+formate you can keep it. Now, how we can gathered this digitize information for this
+factor this is the question.
+(Refer Slide Time: 12:43)
+So, 1st of all climate obviously, soil you can get it from different types of soil sensing or
+soil characterization data which has been already done and then climate data you know,
+you can use different types of climate model outputs. For organism you can use remote
+sensing and vegetation and land use remote sensing of the vegetation and land use for
+relief you can use are the DEM or DTM digital you know digital terrain models and for
+parent material you can also use remote sensing or digitized geological map and for
+location you can use map distance from landscape features.
+So,  remember  one  thing  that  for  organism,  relief,  parent  material  all  these  can  be
+gathered through remote sensing and that is why it is becoming very very important for
+using this remote sensing data for digital for this soil survey purpose because using thesoil survey for or in the better management of soil survey or better application of soil
+survey you need this  information  and this information you can gather from remote
+sensing.
+(Refer Slide Time: 14:00)
+So, let us see what is you know how we can use the remote sensing data? Now, this
+shows basically the reflectance pattern of different types of features which are present
+over the earth surface. So, you can see this is a reflectance pattern of turbid river water,
+this is a clear lake water reflectance pattern; obviously, there is a dry soil with 5 percent
+water you can see here two important absorption here wet 1450 and 1900 nanometer
+which are coming from the moisture which is present in the soil.
+And this Greenland basically shows the you know reflectance pattern of the vegetation;
+obviously, remember that these vegetation can you know these vegetation are showing
+high observance in the visible region and reflectance in the near infrared region. So, this
+is a feature of healthy vegetation and you know wet soil this is in wet soil, so obviously,
+dry soil and wet soil which 20 percent water is showing the differences in the reflectance
+pattern.
+So, the idea is you can use this reflectance patterns which you this reflectance pattern
+you can gather this information of this reflectance pattern by analyzing these remotely
+sense images. Because, images are nothing, but some you know images context spectral
+information and from each image from each pixel of the image you can gather this typeof spectrum. Now, once you gather the image and you analyze the individual pixel of this
+image and you gather this type of spectra; obviously, you can identify, what is the feature
+which is present in that particular pixel.
+Now, so, that is how we can use the remote sensing to gather the information about the
+surface feature over the earth surface; whether it is a soil, whether it is a plant, whether it
+is a dry soil, whether it is a wet soil whether is a water, so, all these information you can
+gather it, you can see here it is an  NDVI map will be talking about this NDVI. So, it
+basically shows the distribution of healthy vegetation and dead  vegetation or non-healthy
+vegetation in a particular field.
+So, that also we can gather from this information we can be gathered from this remote
+sensing. So, that is why this remote sensing has become a very important tool in the in
+soil survey. 
+(Refer Slide Time: 16:26)
+So, let us talk about this plants. So, plant you know it is an important feature important
+you know important component of organisms. So, plant leaves contain chlorophyll which
+absorb visible radiation you can see here in this range it is called it is observing visible
+radiation that is 0.4 to 0.7 microns or 400 to 700 nanometer especially red and they
+reflect in the near infrared radiation that is 0.7 to 1.1 nanometer. So, you see here now
+you see there are two graph two basically reflective spectra one is for healthy sugar beets
+another is for stressed sugar beets.So,  obviously,  healthy  sugar  beets  you  know  having  more  chlorophyll.  So,  there
+absorbing more visible length from 0 to or 400 to 700 nanometer. However, the stressed
+sugar beet has less chlorophyll. So, they are basically not absorbing as much as this
+healthy visitation, so, the reflecting more. However, in the reflect in the near infrared
+region this healthy vegetation is reflecting more .
+So,  the lushy vegetation can be differentiated from dead or senescent vegetation by
+observing this NIR peaks and their you know these reflectance pattern.
+(Refer Slide Time: 17:39)
+So, using this they we have scientist of develop a index call NDVI which is basically
+normalizes difference vegetation index and it is used to find the relative abundance of
+vegetation. And NDVI can be calculated by using this formula where NDVI equal to
+NIR minus red over NIR plus red and it ranges from -1 to +1. So, it is a normalized
+index, obviously.
+An NIR means near infrared red band and R means red band of LANDSAT respectively.
+LANDSAT it is satellite and this green vegetation reflects NIR and absorb red. So, this
+near infrared, you know this green vegetation reflects NIR, so, here you can see higher
+the NDVI higher the vegetation density and vice versa. So, obviously, this is an NDVI
+map and high values are represented by this green color and low values are represented
+by this red color. So, obviously, by this NDVI maps you can see the spatial distribution
+of the healthy vegetation as well as the diseased plants.So, this is how we can gather the information of the organism from analyzing different
+types of maps which we can generate through remote sensing. 
+(Refer Slide Time: 18:55)
+So, guys this is an NDVI map in grey scale. Obviously, you can see here black means no
+vegetation, example river highways white or high vegetation intensity that is thick grass
+adjacent to river and intermediate grayscales are lighter in color more the vegetation
+density. So, it shows also how this vegetation and you know the other features. So, this
+NDVI is becoming a very very important aspect nowadays for identifying the vegetation
+and their characteristics and their density in all these things. So, all this information we
+can gather from remote sensing data. (Refer Slide Time: 19:33)
+So, next is the parent material  you. So, this parent material data is very very also
+important  it  is  an  important  you  know  important  factor  is  SCORPAN  model  and
+remember the soil is made up of wide variety of the parent material. It can be made up
+calcite, it can be made of you know montmorillonite, hematite all these different types of
+clay minerals and other minerals which are present in the soil and they characterize
+different types of rocks.
+So, these individual minerals or clay minerals all they have their individual spectral
+pattern. So, you can see is the calcite have their own spectral patterns and you can see
+here  this  is  a  reflectance  pattern.  So,  they  have  their  different  types  of  you  know
+absorption peaks and you know this is a montmorillonite which is the important soil clay
+mineral, it is also having important peaks. So, also hematite having in their own peaks in
+shortwave infrared region as well as this you know visible region.
+So, you can see soil made of this individual minerals and these minerals can be identified
+by analyzing the reflectance peaks. So, we know the minerals present in the soil vary in
+the spectral responses and it is particularly evident in shortwave infrared region that is
+1.1 to 3 microns. So, our 1300 nanometer to 3000 nanometer. So, you can use this
+spectral features which you can gather from remote sensing images to identify which is
+the particular parent material which is more prevalent in that particular area now you cansee it is a parent material map which you have created from different remote sensing
+from a particular remote sensing platform. 
+(Refer Slide Time: 21:14)
+Now,  soil;  soil  can  be  identified  using  physical,  chemical,  biological  properties.
+Obviously, each chemical has a typical spectral featured are response which is used as
+we can see here for example, gypsum it is a showing the gypsum and you know gypsum
+has a diagnostics spectral responses in shortwave infrared region. You can see these are
+the important absorption features at by using this absorption features you can map the
+dominance of gypsum will be talking about this thing letter on while will be discussing
+different types of diffuse reflectance spectroscopy in our coming lectures. 
+But, remember  that, using this  spectral  pictures  it is possible to identify  individual
+component which is present in the soil. Now, you can see here we are using also remote
+sensing to identify the organic matter concentration to percentage of organic matter and
+special variability over the earth surface. So, these are some applications of remote
+sensing for identifying the soil features.(Refer Slide Time: 22:22)
+So, not only the soil features also you can use for identifying remote sensing you can use
+for you know creating the DEMs and the DEM is basically Digital Elevation Model
+which is a 3D representation of the terrain surface. It is basically save in terms of rasters
+or gridded cells and this gridded cells  are basically containing different numbers or
+different elevations values which we can see in you know in the form of DEM. 
+And from these DEM it is very very you can see; you can see the values high or low and
+you can identify which are the areas which are having higher elevation which are the
+areas which are having lower elevation. And you can also calculate different types of
+surface  features  or  indices  from  this  DEM  you  can  use  it  for  soil  survey  and  for
+predicting a particular soil property at a particular point. 
+So, that is why it is called the you know it is becoming a very important feature in soil
+survey. So, that is why remote sensing is also becoming more and more important
+nowadays for effective soil survey.(Refer Slide Time: 23:23)
+So, relief factors again it you know you can collect it from this DEM and relief help in
+generation of the ancillary data as I have talked about you can develop different types of
+slope altitude curvature wetness index from analyzing this really for digital elevation
+model. For example, you can see here blue in this digital elevation model blue basically
+shows low elevation white is basically shows high elevation and here you can see blue
+means level land and white is extremely steep land.
+So, you use this digital elevation model or you can use this relief data. You can use this
+relief data to identify there are surface features and surface curvatures and surface you
+know irregularities and you can use this for effective soil survey and proper mapping of
+the soil and delineation of the mapping units.
+So, guys you can see that we have covered I would try to give you a basic overview of
+how remote sensing we can use the remote sensing effectively for soil survey. Now,
+remember that again soil survey you know soil survey is a costly process and it requires
+huge amount of involvement. So, nowadays we are making it is simpler. Now, it is you
+know we are earlier it was kind of subjective, now you have giving a much more
+quantitative as more much more quantitative support by using some ancillary data and
+this  ancillary  data which we can gather you know from different a remote sensing
+platform is becoming you know a very important tool nowadays.And remember we are basically based on we know you know these ancillary data are we
+are gathering this ancillary data based on the SCORPAN model and SCORPAN model
+says that you can gather all this information in digitized format. We are using different
+remote sensing platform to get the information for the organisms, for relief, for parent
+material, for other soil features and we are actually incorporating them for better you
+know better delineation of different features over the soil over the surface and we better
+delineation of the soil mapping units and better description of the soil.
+So, obviously, it will it is a kind of high you know its a kind of overview of the use of
+remote sensing for soil survey. Now, there is a vast amount of research which is going on
+in different countries of application of this remote sensing for this soil survey. I would
+encourage you to go ahead and see some literature, do some more research in this you
+know regarding this remote sensing it is a application for soil survey and I hope that you
+have gathered some knowledge in this week 10 of lectures.
+(Refer Slide Time: 26:24)
+And, now you have completed this week 10 of lectures for and also you can come you
+know you can consult this reference that is remote sensing for soil survey application by
+Janis Boettinger who is an professor and of soil science at Utah and so, you can use this
+is a reference. And hopefully this inform you know this lecturer is been informative to
+you and let us wrap up here and let us meet in the next week of lecture that is week
+elevens of lectures on soil survey and technology.Thank you and let us meet in the next week of lectures, bye.
