@@ -1,0 +1,318 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+SIndian Institute of Technology, Kharagpur
+Lecture – 31
+Estimation of Tractor Axle and PTO Torque in Fare Machines
+Well, students welcome to my lecture number – 31 on Estimation of Tractor Axle and
+PTO Torque in Farm Machines is very important. See, so far we have been discussing
+about how to measure the draft and once we know the draft and know the speed we
+should be in a position to find out this the power involved in the tractor implement
+combination system.
+Now, but there has been an attempt because once we know how much is the actual in a
+power available of the torque axle, we can know that how much of loss is taking place
+and then accordingly we can design an equipment or the implement which can be of a
+different size. So, with that we utilize the maximum power of the tractor and that is why
+an attempt has been made to find out for the tractor axle, how much is the torque and the
+tractor axle and how much is the in a torque for the PTO when the PTO is operating.
+So, this attempt I think it is worth telling you here because you will be using these two
+whenever an equipment is connected, whenever a rotavatory is connected to PTO you
+would like to know how much is the power at the PTO. So, if you know the torque there
+you can multiply by the speed and get the power similarly in case of the three-point
+linkage or in case of other equipment when you know the tractor axle torque measure by
+multiply that by the speed you will be in a position to find out how much is the power
+available tractor axle, irrespective what is the total power.
+Because so far we had been only assuming that let us say about in the drawbar about 60
+to 65 percent of power is available and just to be by that we are multiplying that and
+taking  60  percent  of  that  power  and  then  designing  the  whole  equipment  the  size
+etcetera, but now an attempt has been made to find out these details which will give us
+more accurate information about the size of the tractor. So, let us see how we have done
+this. (Refer Slide Time: 02:23)
+See, we know that the power transmission how in a two wheel drive to we start with a
+two wheel drive tractor has been taken and you know that what is the 2 wheel drive
+tractor and the 4 wheel drive tractor. In a two wheel drive tractor we see that power is
+given to the rear wheels and the 4 wheel drive tractor the power is given to both the rear
+and the front wheels, and the weight distribution also in case of a 4 wheel drive are more
+or less equal. In case of a 2 wheel drive the weight is more on the rear side.
+So, we will discuss power transmission of a 2 wheel drive tractor. Now, what is this and
+where is the axle that we are talking with respect to what? So, see here we know that the
+engine tractor engine is over here, then the power comes through the transmission then it
+comes to differential and then goes to the wheels here and this is the axle which we are
+talking of here is your PTO.
+So, you there is a power loss, this here there is another power loss at this location then
+there will be power losses in these locations as well and ultimately what we are getting
+so far as I told you here is we generally take about 60 percent of the power of this tractor
+what we get here at the drawbar. But, then we are interested now to find out what is the
+axle, what is the torque at the PTO here and what is the torque at this axle torque and this
+torque.
+Because, once we know the torque the power P is nothing, but a function of the torque
+and the omega. So, we know this thing. So, we will be in a position to find out thesedetails and that is why this particular tractor this particular lecture which is relevant and
+which will and in for added information to the knowledge which is. So, far not available
+and we have developed at Kharagpur and we would like to show you here.
+(Refer Slide Time: 04:17)
+Conceptualization of the axle torque measurement. How do we conceptualize this; that
+means, where do we keep or where do we measure? Because you see the tractor axle you
+have seen the tractor axle, it is very difficult to approach in the tractor axle. You very
+difficult to locate at the place where we should put, but there is no space for that. So, first
+of all you need to get any space where you will have this. So, what is the concept behind
+this let us have a look at this.
+The torque transducer is mounted on an extension shaft at wheel flange and tire rim of a
+tractor. Now, where it is connected, then what are these two sets of this wire gauge,
+factor strain gauges, bonded type have been used at 45 degree shear plane on opposite
+sides of the extension shaft. The sensor should be fitted on both sides halves the tractor
+of the rear axle. We want that both sides, so that we can get information from both sides
+of these two axles.
+The twisting moment caused by the rotation of the loaded cell wheel measured by this
+torque transmission. Rotation of the loaded wheel measured by this torque transducer,
+because whatever if the twisting moment which is coming that can be measured. Now,
+how do we get to this where we have? Now, you see the tractor tire is here then tire andbetween the tire and the axle there is hardly any place. But, we need to do these, we need
+to fix. You can see here that the strain gauges are fixed then this extended shaft. Shaft
+needs to be extended to get certain wheel and data logger is here, there is a laptop in
+which you can measure these values they with the wireless.
+ But, then how do we extend? You may recall I had talked off that the field trade of the
+tractor can be adjusted from 48 inches to 76 inches. So, within 48 to 76 there is space for
+you on both sides of the tractor wheel to extend that. Generally, the farmers do not do
+this because it is fixed in the laboratory in the factory itself and then when it comes they
+do not require this, but then in order that we as an engineer as a R and D person you
+would require to know how do we do this? How do we fix these strain gauges or how do
+we fix the instrumentation for measuring the torque at the axle of the tractor.
+So, therefore, there is need for extension and this extension can be taken from there itself
+from the ones which are already available with you. So, once you extend that you are in a
+position to fix, now here you can see here that in the actual tractor we had shown you the
+arrangements by which you can do this. So, in the arrangements or the locations where it
+is possible to do so, this has been shown to you only to understand that yes, it is possible
+to extend this.
+The various arrangements from 48 to 76 inches I am not going into details of those
+arrangements, but when what I want to appreciate say and you must appreciate that part
+is that we have enough space for doing this part of the instrumentation and fixing the
+instrumentation. Now, what is the beauty of this? See, we do have made this strain
+gauges, but then we do not have that many of the wire sets that are connected because we
+have made it wireless type and then remote connected. So, I will show you how we have
+made and we are in a position to do this.(Refer Slide Time: 07:57)
+The how the concept has been developed I am giving you the secret behind this. In fact,
+how did we do this? See, this was developed in fact, we have made flanges and these
+flanges will be on the tractor wheel on one side and the other will be with the axle. So,
+the extension will take place with this.
+So, the rosette type well the rosette type strain gauges for at 45 degree. In fact, this has
+been this talked of the earlier and what is the gauge factor of the strain gauge. So, this
+now where they are fitted, these strain gauge mounting positions. This is the position of
+mounting. Now, how do we reach at this position, this is the secret. We had done lot of
+experimentation and trial and error methods and also theory behind this such that we are
+in a position to get the position where we will get maximum response the moment we put
+the strain gauges.
+So, we could designed the locations where we have put the or mounted the strain gauges
+where  we  could  get  a  larger  response  the  of  the  of  the  strains  which  were  being
+experienced by this particular flange. Now, these are the two locations of these are the
+two ones which are shown in different views. So, this is in fact, the French which is the
+one which has the strain gauges and then they are mounted and connected with the wheel
+and the strain gauge and the tractor axle.(Refer Slide Time: 09:38)
+How do we do it and how do we find that the, this the exact location is where it is in a
+position to measure the values of the strain. Yes, see strain, now we need to find out this.
+So, ANSYS software was used and then we could know where are those locations and
+what are the locations where how is the values where you can see these you can see these
+here. The where are the values where we are in a better position to understand where if
+we fix this the strain gauges we will be able to get the a larger value of response or a
+good value of response.
+So, that we have tested using ANSYS software and we have modeled and we could
+know that where is this location as I told you in the earlier case earlier diagram that we
+have found out that location. And that has been done on the basis of this software itself
+and of course, certain other knowledge of the designer we were in a position to find out.
+So, that the maximum stress obtaining point will be best part of the more sensitivity.
+So, we can get the maximum stress obtaining point this was the crux of the problem
+while we were trying to do the hence this same simulation part for finding out the
+location.(Refer Slide Time: 11:15)
+Dynamic simulation of sensor along with the tire yes, this has also been done. It is very
+essential you should do this thing, so that we know that when the tire is connected to the
+this particular axle and the whole instrumentation where does it what happens to it and
+where are the locations where it will be weaker and all that because that is needed. Once
+we know that this is a weak position say accordingly the material of construction of this
+flange has to be has to be has to be chosen.
+So,  for  simulation  the  driver  along  with  the  four  supporting  person’s  weight  was
+considered for testing the test tractor axle and found a very safe value. Yeah, it you need
+to get certain assumptions so, here for simulation the weight of the driver with another 4
+persons. So, I even say about 5 person’s weight roughly of a certain value which was
+taken and that was taken for finding out the safe values. What are the safe values which
+can be taken, so that it will not break. So, this will not break here.
+And, for the simulation  is  also carried  out by applying  twisting moment  along the
+bending moment on tires. So, for this also we could do this it is very essential to do this.
+So, that we can understand where the weaker point is and where we can get larger
+response and what is the material of construction which must be taken, otherwise we will
+fail.  In fact,  the whole equipment  will  fail once it is  taken to the tractor  with the
+implement in the field. Because, in the field we have no idea about where is the what is
+the moisture content and all that at each place in the field while the oppression is goingon and that is why it is very essential that we must have clear idea about all these things
+well before we design and fix this for field testing.
+(Refer Slide Time: 13:18)
+When telemetry system as I told you that well we have designed this system, but then we
+are measuring some radio frequency using the frequency. So, that we do not have to
+touch anything and then this instrument although it has the strain gauges, but then they
+are put in such a way that from wireless we are in a position to record the data and this is
+the beauty of this.
+So, that had it been anything else and people have tried on the rotating shafts with the
+slip rings and all that, but then you have those wires which are connected for a long
+duration and long length and all that. So, this is the beauty here that we have not used
+that and we have used a telemetry system for logging this data logging the information
+you can see here there is LCD display and data logging unit is somewhere here.(Refer Slide Time: 14:10)
+And, we are in a position to get this well see the wireless transmitting and receiving unit.
+Well, we have the wireless transmitting and receiving unit. You can see that this is a
+transmitting unit and receiving unit with the display storage. You can see here that what
+are the details of the this units which has been developed. And, in fact, up to a distance
+of 100 meters. We thought that 100 meters is a very long distance and then if somebody
+is outside the field he will be in a position to measure these values.
+(Refer Slide Time: 14:52)
+Now, testing of developed system on actual field conditions; well, we have tested this
+under actual field condition it is worth showing you that how they are tested and how
+they actually take place in the field. Now, since this is instrumented tractor, I told you
+that the instrumented tractor we have and wherein we are in a position to measure most
+of the parameters for example, to start with wheel slip, we can measure the speeds from
+the actual speed, the theoretical speed, then the fuel consumption, this the engine speed
+and then we can measure the draft all these it can be measured.
+And, therein we have also attempted to measure the axle of the, I mean the power of the
+tractor axle as well as also we will talk and so about the PTO power PTO torque. So,
+here let me show you what we have tested in the actual field condition, one by one you
+can have a look at this and then we will be in a position to see how we have got these.
+(Refer Slide Time: 16:12)
+You can see and proceed that the whole transformer instrumented tractor with all these
+here is the place where this is the location where we are having the equipment which is
+measuring the tractor axle torque. And other details are shown here you can see the other
+details which are shown in this case. The complete information you can see here we have
+put the three-point liquid dynamometer which we developed here and that has been fixed
+over here at the same time we have all the strain gauges also. So, that we can compare
+the whole details of when a two bottom mold board plow is connected to a tractor, you
+can see all the details.Similarly, for a you could see this for a basic harrow and see the arrangement here. Same
+tractor, same instrumented tractor has been used and all these arrangements same, only
+the implement has been changed. Just to demonstrate to you that it is possible that we
+can measure these forces using any equipment or in implement which is connected to the
+tractor. All these details are there you can you can see that the where it is, you can see
+here where it is.
+(Refer Slide Time: 18:03)
+Now, you can see an arrangement to with the respect to cultivator. You can see a
+cultivator being used in the field and we are in a position to measure this. Now, this is to
+show you that all these equipment can be used and then we can have these information
+collected by using the instrumented tractor.(Refer Slide Time: 18:24)
+So, then we are in a position to measure the performance of the torque sensor during
+various  field  operations.  I  have  shown  you  or  how  they  are  connected  to  this  the
+instrument a tractor all these equipment and what is the variation in the performance.
+You  can  see  at  actual  field  condition;  the  actual  field  condition  here  we  had  the
+implements moldboard plough cultivator and harrow and then the mean torque left hand
+wheel and right hand wheel you can see the difference between the left hand right hand
+wheel and the coefficient of variation.
+So, we need not find much difference and accuracy level is so high. You can see that we
+are in a position to measure this with the cultivator with the harrow you can see this very
+high level of accuracy and also by the RMSE values. You can see these small where is
+RMSE, which indicate that the developed torque sensing device for the axle of the tractor
+is very much accurate and very handy for measurement of this storm. It is also found out
+on tarmacadam road; that means, on that condition when we have certain load; that
+means, on tarmacadam road you can put either a trailer or whatever and then road see
+you can have L1, L2 and L3 these are the conditions under which the these are the
+conditions of the surface.
+And, then you what are the values that we have got? Theoretical values and observed
+values. You can see the difference between theoretical and observed values the variation
+is accuracy is 96 percent the coefficient of variation is 0.08. So, you can find here thateven for tarmacadam road when we are comparing the torque theoretical and observed
+which we have observed in the actual condition and then what we have. So, the torque
+values can be very well measured and very well estimated using this device which has
+been developed at IIT, Kharagpur.
+(Refer Slide Time: 20:32)
+So, the flow diagram from tractor to the active implement. Now, where it is in fact, then
+this has to be fixed onto the tractor. Now, you can see that this portion which is for this
+portion is well known to you; you can see that this is what it is and then the PTO is here.
+The torque transducer is this. This is the torque transducer at this location here which has
+to be fitted particularly for a we are talking with respect to a PTO torque that was we had
+talked about the axle and now we are talking with respect to a PTO.
+Because, we have seen that PTO is also very extensively used nowadays particularly
+with rotavator and also with you can use with other equipment or machines say, for
+example, like threshers etcetera when you use. You would like to know how much is the
+power that actually being utilized by that particular equipment. So, it is worth knowing
+how much is this power we know the RPM, but we do not know the torque. So, we have
+made an attempt to find out the torque of this PTO.
+And, on a similar count, so, you can see here the arrangement. There is a universal joint
+universal shaft which is shown over here. These universal shaft with the you can see that
+hooks joint on both sides here connected and this is the shaft and this is the extendedPTO axle, because the existing axle which is there we do not have enough space for
+fitting of the strain gauges. So, there is a need to extend that.
+So, for that a proper designing was done, simulation was done and then he wanted to find
+out what should be the actual length and how that should be connected. Now, we know
+that to this particularly when we are talking with respect to PTO we are using a and a
+active implement with this. So, let us see how the it is connected.
+(Refer Slide Time: 22:45)
+PTO torque measurement. Now, where these are connected adjust some details we are
+giving here because this has been developed at IIT, Kharagpur and we would like that
+this should be used by all the three-point linkage dynamometer which we have developed
+we have given to various centers in the in the country. And they are being used because
+some amount of money was given to us to make 4 – 5 units and those have been given
+and  they  are  being  used  at  several  other  locations  including  some  of  the  tractor
+companies.
+Now, here the concept is a similar concept which you have seen for strain gauges with
+the wheat stone bridge and other details are there and strain gauges where they are to be
+put. Now, you can see that the strain gauges are to be put into this a PTO torque
+transducer here. So, extend the extension shaft as I told you the extension has to be made
+and in the extension will show you the extension. Extension we have to put the gaugesfor tension and compression you can see here these for compression this is for tension
+over here and of course, we know that by measuring this we can get the torque of these.
+Now, 1 2 3 4 these are details and this is the wheel, these are maintain the strain gauges
+are applied at an angle of 45 degree to the shear plane to get maximum sensitivity of the
+strain gauges. Yes, this is very important because it you must get maximum sensitivity
+then only you can say that we have in a position to measure actual value, otherwise you
+will not. So, if the this is important.
+(Refer Slide Time: 24:35)
+Yes, here is the one as I told you earlier that we have designed and extended this and for
+this proper designing has been done and you can have a look at this there you can see
+that  how the proper dimensions  have been taken,  how these dimensions  have been
+decided. With respect to the torque proper loading that if the extension is this how much
+will be the load, what will be the diameter at the various sections, these have been
+suitably designed using for using the standard methodology for shafts and the loading
+onto the shafts it is very essential that these to be taken care of.
+So, using this you can see that this is the one which is designed and this is the one where
+we have fitted the strain gauges. You can see the wires coming out over here and this is
+the location where this strain gauges are fixed and this is the one which is already
+available for the way it was available in the normal PTO. So, this is the one which isavailable in the normal PTO for use or for connection to the a active implement or active
+device which is there.
+(Refer Slide Time: 25:52)
+Well, signal processing cum transmitting unit here. Well, these some details are given
+here which worth showing to you. We might not tell you every details of this because
+this has been developed and there are some secrecy of IPR and that is why I will just tell
+you that these details are there the signal processing cum transmitting unit. This is the
+this is the details of this these there amplifier, there is a microcontroller, then XBee
+shield, radio frequency transmitting module over here, then this is for transmitting and
+processing unit. So, details of the transmitting and processing unit here, this a block
+diagram here, this is a circuit diagram here.
+Now, then these are the details of the actual ones you can see that how they look like
+here. You can see here there is a battery here, that 2 is amplifier here, 3 is the Arduino
+board, 4 is the XBee shield and 5 is XBee module, 6 is on and off switch. So, these
+details are all given over here, the actual ones which were used in the system.(Refer Slide Time: 27:11)
+So, once you know that the processing cum transmitting unit over here and similar
+information you will get for the receiving and displaying and logging unit. Yes, similar
+information as I told you in the other case that here the block diagram of the signal
+receiving and display and logging unit. You have the XBee shield, the microcontroller,
+LCD and computer here and these the radio frequency receiver module and the circuit
+diagram, this is the circuit diagram here details are shown a over here. Just to explain to
+you that what is what instrumentation and knowledge has gone into developing this PTO
+torque sensor and what has gone into the axle torque sensor.
+This is what we discussed today and. In fact, it is very essential to understand that so
+much of high level of instrumentation which is required for accurate measurement of
+power utilized by any implement when it is connected to the power source. This is the
+receiving unit, this is the actual unit which is shown over here in these details, these are
+the details of the block diagram and the circuit diagram and here is the actual unit which
+is there. So, this unit is then connected and once it is tested you can see what is the result
+and what do we get out of this.(Refer Slide Time: 28:26)
+In the field, well, this is a developed system on actual field condition. This is how it
+works in the field condition. Well, you will see the operation of this field testing of this
+unit. You can see that how here the this unit is in the operation condition.
+(Refer Slide Time: 28:48)
+And, we are in a position to measure at a distance. You can see here, this is where torque
+is being 154, how the torque varying as the implement is being tested in the field.(Refer Slide Time: 28:56)
+Observe PTO torque during field. Yes, what did you get the during this field testing,
+what did you get? We saw that we have got values in the maximum torque we got here
+for a particular equipment which was connected and then the minimum torque was this
+and the mean torque values are this. Now, these you can see here that the variations
+which are shown over here these are the actual things with respect to time then the PTO
+torque Newton meter measurement here.
+So, we can see here that very successfully we are in a position to measure the PTO
+torque as well. Now, if you have a device by which you can compare, it is well and good
+this data, but we claim that this particular equipment is well in a position to be tested
+anywhere in the world, the way we have done for the tractor axle torque.
+So, these two equipment we discussed today which can be used for measurement of the
+power from the tractor which is being utilized by a machine or equipment and the what
+further design changes can be done for having better you can say equipment management
+or you can say better machinery management or managing the size of the machinery or
+design matching implements to the tractor power. I think we will close here and let you
+know that if you have any other questions etcetera which we can ask, we can answer you
+at appropriate power time.
+Thank you.

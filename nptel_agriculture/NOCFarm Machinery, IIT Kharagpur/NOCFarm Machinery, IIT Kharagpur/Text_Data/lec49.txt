@@ -1,0 +1,381 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 49
+Advanced Technology Approach for Cotton Harvesting
+Well, welcome students to my lecture number 49 which I have particularly wanted that
+we should give you some  technology which has an advanced  level particularly  for
+harvesting. Now, harvesting of cotton has been the case in this particular lecture, why?
+We wanted that we have, so far I have discussed about the different technology used for
+harvesting of cereal crops, for root crops, fruit crops all we have discussed. And we have
+also discussed the various equipment which are used various machines which are used,
+what  are  their  power  sources,  what  are  their  capacities  and  what  are  their  special
+features, what material they are made of and all that now.
+Now, we would like to I thought the one work which we have developed done at IIT
+Kharagpur over a period of time we wanted to share with you which is an advanced
+technology used for harvesting of cotton. Particularly you know about this crop you must
+have heard that harvesting of cotton is a very difficult task and in this respect we wanted
+to develop a technology which will be gradually reducing the tragedy of the people who
+are involved in this.
+So, let us discuss in detail about this particular approach of cotton harvesting though the
+slides which I have brought for you.(Refer Slide Time: 01:41)
+Well, why robot in cotton harvesting? This is a question which I have asked, but the
+question is as I said we need to know about the details of how the present task is done.
+You can see here the 4 figures I have given the photographs you can see here, in the
+photographs which are given here and these some of the equipment.
+Now, what we what is done in this? The problem in hand picking is first of all it is a
+drudgery and is labour intensive is very high cost of labour is very high. You know that
+because of the non availability scarcity of labour as such the cost as increased for every
+crop for that matter and for every operation for that matter. So, and more so, particularly
+because this is a drudgery proned crop where when the person goes lot of thorns etcetera
+are there while it is picked and many a times they get hurt in their fingers and all that.
+So, what are the problems related? I have just jotted down for your information is that
+not  suitable  for  every  variety  at  all  at  once  process,  mechanical  cotton  stripping.
+Sometimes, we can do that use a machine and that is strip of everything, but it is not
+done because we required at different stages not at one time. One go harvesting the way
+we do for other crops this is not done for this particular crop. Then capacity is less, some
+of the machine, some of the attempts which people have made are less capacity and still
+arduous and not very effective.
+Now, advantages of robot harvesting, what then we thought that instead of human being
+let there be a robot which is utilised. You may ask question us to why you are thinking ofrobot in this country, no. In fact, we have to think ahead because time will come when
+there will be a lot of cotton grown and lot of yields to be harvested in time and you will
+not have people for doing that. In fact, this is the problem now itself.
+So, you can imagine what will happen and their therefore, there is such machines start
+such is all it is already started in several locations we also wanted to do at IIT Kharagpur
+and the work which we have done is going to be shared over here.
+(Refer Slide Time: 04:13)
+So, now basic harvesting cycle of a robotic arm; now actually what it is for example, if
+you have to if the human being has to go in the harvesting in the crop what we will do?
+We will identify the ball white ball of the cotton and try to pick it up and then store at
+one location, this is what generally is done. So, your machine should also be doing this
+particular thing because, when we will say robot is also a machine human machine you
+can say.
+So, now what are the aspects? The first point which has to be looked into all the for the
+complete cycle and cycle time for this operation is the image processing time, that you
+require you have to capture the images, identification of the cotton balls. You must first
+identify where it is, whether the we are identifying the cotton balls or something else. So,
+first we have to identify the cotton balls and for that we have to take the images. So, by
+you have to take the images, process the image to identify the actual one.Then vision time; actually this vision times talks of the machine vision the procedure
+here rectification of the images because when the images are taken what is the condition
+of that, then this it will be distorted, it may be that the images not exactly of the crop, it is
+of cotton or of not of cotton, but of something else. So, we need to actually identify
+where they are and once we know that this is cotton identify that yes it is a positive
+image which is cotton.
+So, once we know the cotton then we need to know where it is, from which point
+because human being can go to that place and do it, but the machine will not do it. So,
+machine for the machine every coordinate has to be identified, every location in the X,
+Y, Z plane has to be located and the movements it has to do to actually grip and then pull
+it off.
+So, this is the one which is done in this aspect then inverse kinematics. In fact, what we
+do is when we try to find out the primary basic location which we call the forward
+kinematics and when we want to know about the angles for example, X, Y, Z will talk of
+this. Then the moment we talk of the angles required for corresponding X, Y, Z planes or
+X, Y, Z axis. So, we employ inverse kinematics where we can get the orientation and
+other angle details the limits etcetera.
+Then the picking time, then once it is known we are in a position to find out the angle
+etcetera then we will find out what is the amount of torque required for taking that the
+ball and removing it from there. So, accordingly there has to be a equipment, there has to
+be a system which will try to pull it and then pick the cotton from there.
+So, the cycle starts from taking the image of the equipment 2, picking the actual cotton
+ball into the field. This is the complete basic harvest cycle of the robotic arm. We call it
+robotic arm as such because there will be around just like a human being it will just go
+there pick up once it identifies and then take it. So, this is the complete cycle.(Refer Slide Time: 07:43)
+Now, algorithm used for cotton recognition, now what is the algorithm? Well, it is very
+big algorithm which has been used and in fact, is work of one of our research students.
+So, we may not be in a position to tell you every details of that, but we nutshell we have
+given you some of these aspects of this algorithm which the person has done it. So, we
+can you can have a look at this actually.
+So,  input  color  image  that  convert  this  image  into  double  then  the  split  3  color
+components R, G, B, then pixel find out the pixels of that. Then you again divide into A
+and B, where A is R equal to G is equal to B is equal to 1 and then R is equal to G is
+equal to B is equal to 0, where you will call whether it is the actual image or not, then
+open operation and small area removal and then final segmenting of the image. So, this
+will talk of the image process.
+Now, when we go to the other side color difference methods algorithm, color different
+algorithm here, calculate B minus G for each pixel. Similarly, you will calculate  (B – G)
+/(R-G)  for each pixel
+Now, then the next one is see here a various color difference method algorithms have
+been tried. Now, this is one this is one here, the other one is here calculate B by G for
+each pixel here this is B minus G, this is B by G. Here calculate (B – G) / (R – G) this
+given, then in this what we calculate is over here that is calculate CA CA = B – (R/3) – (G/3)
+Now,  these  are  the  concepts  which  had  been  used  for  identification  and  the
+differentiation recognition of that. Now, this is the detail of this until unless you have
+idea about the particular image processing you may not be in a position to appreciate
+this. But, then as an engineer you must know what is the technology which is being used
+for robotics and application of robotics.
+We may not be in a position to tell you every details of that because as such being an
+agriculture engineer we are not equipped with the detailed knowledge of that. We have
+only picked up the knowledge and try to explain and apply that into our application our
+picking of that. So, that knowledge we have so, application part and if you want to go
+into more details of that you should always go for the details in the relevant books and
+you will find them.
+(Refer Slide Time: 10:27)
+Well,  for  how  you  would  segment  the  cotton,  segmentation  using  color  difference
+method the methods which we I told we have given there. The methods or see A is
+original image, B is after B - R segmentation, after R - B segmentation and the other is
+after B - G segmentation. Now, why? Because until unless we actually identify the
+correct image you will the job will not be done. So, this part segmentation is very
+important.Now, segmentation using color difference method several color difference methods have
+been employed as I said earlier and those have helped us in main identifying.
+You can see here that in A, B, C, D how we are in a position to identify from the A, A is
+the original image. So, from the original image to a image which is giving you here D
+after B - G segmentation is gives you very clear information about what it is if you if you
+compare A and B here. Then this is the information which we get from there. Now, this
+is done by the by the computer and then it is done by the processing system.
+(Refer Slide Time: 11:43)
+The comparison between different methods during evening time, now you see this one
+aspect which has to be looked into what time of the day the picking is taking taken place
+and what will happen with the climate or morning evening or day time. So, during
+evening time a comparison has been made between different methods. Now you can see
+here the original image which was there A, then the chromatic aberration method B, then
+the color difference ratio method C, the color difference method D and the band ratio
+method E.
+Now, you can very easily identify that A and E are very close to exactly what the
+situation is or if you compare even A and B now out of this one has to choose it will
+come out of experience and when you have large volume of data then only you can
+compare that what is the exact matter and where is this actual balls which are there.(Refer Slide Time: 12:47)
+ Well, the parameters used in performance evaluation of proposed algorithms. What are
+the parameters used we taught? It is also to let you know about what they are? And how
+they  are  done?  In  fact,  these  generally  until  unless  you  have  some  idea  about  the
+algorithm you will not be able to follow it, but then as an information which you can if
+you want you can go to the books and get more details. For example, I will tell you here
+the hits rate that is correct ones 
+Hits rates = [ TDC / (TDC + MC)]
+Where TDC is true detection of the cotton and MC is missing cotton. So, hits rate is
+dependent on this and a false positive is false detected, this false positive it may be
+positive, but it is not detecting even one. Then false negative is MC here the missing
+cotton, missing cotton divided by the total cotton which is true detection cotton plus
+missing total.
+So, you can say that this is the process, which have been algorithm to process each
+image. This is these are the parameters which have been used to identify this which we
+have discussed earlier.(Refer Slide Time: 14:03)
+So, what is the what other parameters used in evaluation of proposed algorithm? Then
+with respect to the number of pixels, we talked of the number of pixels, number of pixels
+background.  Yes,  it  is  in  the  background  because  you  have  to  identify  from  this
+background. That is many a times it is in the it is hidden in the background, the cottons
+are hidden in the background sometimes. So, how will you take it up?
+So, what we have is sensitivity then we have specificity and then accuracy. Now, these
+are the parameters which have been used and how they are used? What are their values?
+What they depend on? It is given here that number of pixels predicted as cotton when
+these pixels are of cotton. Then TN talks number of pixels predicted as background when
+these pixels are of background.
+So, these are some of the important parameters which must be looked into when we are
+thinking of evaluating the proposed algorithm, a whether the algorithm is in the right
+direction  or  not,  whether  it  will  properly  identify  the  balls  are  not  this  is  what  is
+important.
+So, we have to have these parameters taken into consideration when you are evaluating
+the accurate accuracy of where the where the balls are.(Refer Slide Time: 15:29)
+The performance of cotton segmented algorithms, now, what is the performance? Well,
+the values which we have got here as we discussed in the other ones is that see what are
+the different methods? What are their hits and false positive, false negative? We have
+seen earlier on what basis we got.
+So, if we take these let us have a look at these values which are there and this will give
+you some information how you are in a position or how the researcher has developed the
+algorithm and correctly predicted the location of the of the balls the cotton balls. See, the
+color difference method hits 93.3 percent the false method, false positive 21.33 and then
+false negative is this. So, you can see that color difference method with any light noon
+time which is about the 50 klx of the illumination level.
+Now, evening time the illumination level is 2300 lx . So, depending upon this what is the
+behaviour? What is the performance of this? You can see color difference hits are 88.62,
+% then false are minimum false negatives are also less. Similarly, for band ratio we find
+here that chromatic aberration is giving 94.3 % and these two are also very less. Now,
+you can see this chromatic aberration in this case also is 96 and the false negatives are
+less ok.
+So, if you compare that in noon time and in evening time the cotton segmentation
+algorithms we find that chromatic aberration gives a better performance as compared toothers. Now, it is a question of argument you can say that how do you say that these
+values are really 94, 91 and then 2 and this is 8 and 5 how statistically different?
+Well, here I would say that the argument is that you need to take large volume of data
+then only you can question this. It is just an attempt made and it is giving us the results.
+So, we will see that definitely this has given us the actual what we are comparing and
+how we are in a position to identify the cotton balls.
+(Refer Slide Time: 18:09)
+Well, the same thing which we have done with respect to the other parameters which we
+say the sensitivity, specificity and then accuracy level  of the color difference color
+difference ratio, then band ratio and chromatic aberrations. Comparison of algorithms in
+terms of these parameters, we talked of other parameters there, you talked of these
+parameters here.
+You see here that in each of the situations then chromatic aberration. Now, you see here
+that this. In fact, we have this accuracy is also 99.52 % as compared to the accuracy in
+the other ones. And then the other details which are all given it is very much in you can
+say that very much in inclined towards chromatic aberration is the method which gives
+us the better result.
+Time taken, now let us see what is the in respect of time taken; that means, which
+method is taking less time, more time or what is that. Because, we have to also comparedwhen we say that accuracy we have to also talk of what is the time taken for that method.
+It you may have a accuracy very high, but the time taken is more then there will be a
+problem. But, we can see in this aspect that for this particular method you can see the
+time taken minimum time and the average time is this which is much more than the other
+times which are taken by the other methods color difference method, color difference
+ratio and even the band ratio.
+So, with these we still feel that chromatic aberration method which has been adopted to
+identify appears to be the one which will give us higher level of accuracy and lesser time
+for a locating the cotton balls in the in that plant.
+(Refer Slide Time: 20:05)
+Coordinates of targeted objects well, this is. In fact, we have talked of this because when
+we are talking of the target object. Our target object is the cotton balls and how do we
+locate the target object? We need to know about it is X, Y, X and also we know about the
+orientation of that. So, this, this talks of that where we have talked of the X, Y, Z values,
+we need to know the X, Y, Z values when we are talking of the coordinates of the target.(Refer Slide Time: 20:41)
+Well, algorithms for finding real world coordinates using scene construction method.
+Now, there is one you need to construct the scene sometimes in the laboratory when we
+want to identify a certain situation whether the cotton ball is exact located at that place or
+not, whether my system or the algorithm which I have written or the instrument which I
+have made will be in a position to identify properly or not.
+So, 2nd methods have been employed here, first method is talking of the algorithm for
+finding real world coordinates using scene reconstruction method. The second one is
+algorithm for finding real world coordinates using triangular method.
+Now, these 2nd flow charts are given here if you have some knowledge we will you will
+appreciate otherwise you will say that we do not understand what is that it is, but then it
+is starts from the images which we have already discussed that images taking, then
+disparity, then construction of the scene, then the images on the left, then centroid cotton
+balls, point cloud of the scene and then X, Y, Z values. How do you get to the X, Y, Z
+values?
+In fact, we get the positive images go to the negative images and then we try to locate
+that and what should be the location of the arm all details are given and we have tried in
+2 methods here. In both the methods there are some level of success which we got. So,
+we thought of sharing that also with you although, it may not be essential for you tofollow both the methods, but then we find that if both are given to you, you will be able
+to appreciate why one method is giving advantage over the other one.
+(Refer Slide Time: 22:31)
+Now, location result using scene construct method, now as you have seen that on the
+right we have given a pattern and on the basis of the one which we have talked of actual
+points and the output points if how do we how this particular algorithm is in a position to
+reconstruct what we have. And you can see that the values which are here. The values
+which are say for example, X millimetre here and the X millimetre here, you can see this
+was minus and this is this output points.
+Similarly, at say value of minus 280 here and in this slightly off ok. Similarly, say this is
+this much and this value is this value is this here. So, you can see that the scene has been
+reconstructed  in that method you were trying to only validate we are trying to see
+whether the system is working or not.
+This is all laboratory exercise which has been done to reconstruct and then understand
+the system. Because, once the machine is designed and the whole robot arm is designed
+it when it goes to the field how it will behave. So, that part is a separate thing which we
+have not done, but what we have done is we have taken the real image of a crop where
+the cotton balls are there. And then from there we have tried to understand the whole
+design of it whole mechanics of this and whole system of this processing of the image
+and identify the image.(Refer Slide Time: 24:15)
+Well, matrix represent a position of rigid body. This is this talks of the basics of that I
+need not go into that, but there will be the design of the end effector will come into play
+over here. So, what is done is an object can be represented by a. Now, this is the basics I
+will not like to give you the basics here, but then if you go into details you will definitely
+find here. So, I will skip this, but I have given to you. So, that you can understand the
+mechanics behind this, the theory behind the whole aspects of identifying an object.
+(Refer Slide Time: 24:55)
+Robot what is the kinematics of robot as such? Because, you know that this will find out
+as I have already said that will find out the X, Y, Z because, we have to have an end
+effector. And this end effector will tell what is the location and when it will be in a
+position to find out the real location of the cotton ball. So, we have a forward kinematics
+wherein we are in a position to find out the X, Y, Z location and then the inverse
+kinematics, where we are in a position to find out the angles θ X, θy and θz Cartesian
+space.
+Now, this the details remaining this the kinematics has to be followed. Now, these are
+the basics of the system before you enter into the details of designing. It is worth giving
+as an information to you, but then until unless you have knowledge about the image
+processing, you have some knowledge about what the robot kinematics is and what are
+other details of the matrix etcetera you may not be in a position to follow.
+But, what is to be understood and appreciated is the attempt, the approach which will
+help you to see that there are possibilities of developing such a thing. If you want to
+develop say another fruit harvesting or an fruit identification then definitely you will be
+in a position to do that using the method.
+(Refer Slide Time: 26:39)
+Now, well, some of these details  are also further given about parameters  and then
+mechanics of this, how to get the angles and then how to get the arm of the robot these
+are some of the details with a different links and the axis which are to be followed. So,that you can see that these locate the exact. So, these are the some of the details which
+we have been taken from literature for your knowledge which you can go into details and
+try to follow them.
+(Refer Slide Time: 27:01)
+This is the different parameters of the robotic arm. What are the parameters of the
+robotic arm? What are the angle? You can see that we what we have shown here is that
+this is how what are the different details? How this will move? And what are the angles it
+will move at? And what are the positions it will move? What distance is it will move
+before it reaches the particular location the end effector which will reach the arm? So,
+how the arm and you can see the details of the distances which have been made and what
+are the connections which are required to move it in different angles etcetera in both the
+situations we have indicated over here.(Refer Slide Time: 27:47)
+Inverse  kinematics  as  I  said  that  we  I  need  not  explain  the  details  of this  inverse
+kinematics. I have already talked of, but the flowchart is given here for you to follow and
+you can always use this for understanding the system better and identifying the angles as
+reverse  kinematics  talks  of  the  angles  to  be  identified  with  respect  to  X,  Y,  Z
+coordinates.
+(Refer Slide Time: 28:15)
+Well, a GUI has to be retained this will help you to understand this is program which you
+have to graphical user interface. Now, you have to use to design the manipulator.Now, here all the all details are shown to you on the diagram here I will just pick up and
+tell you some of the things. For example, you see here this is the X, Y, Z situation here.
+And if this is the item here, this is the your arm, now these are the arms which are
+moving here and you will try to locate. So, you can see here 1, 2, 3, 4 and 5.
+Now, this 1, 2, 3,4 and 5 are here input positions X, Y, Z here and then highest, lowest,
+leftmost, rightmost, this is how we try to, this is how we try to identify the location. If
+particular location has to be identified in this X, Y, Z plane and this is the arm this is the
+robotic arm which is going to identify.
+So, at least it must get some locations of left the highest, lowest, sideways and then
+location centre these positions, 5 positions and then the output the angular limits you can
+say accordingly are given here, the lower limits and the upper limits of the angles with
+respect to this. After you have found out this you must also require what will be the
+amount of torque required for doing this task from here to there and to this what is the
+torque required.
+So, the maximum torque required is also given in this particular the joint torque. How
+much will be at each joint these joints? What will be the torque required? And then what
+are the values of this? So, accordingly the motor has to be selected, the motor has to be
+designed. Generally, we do not design in the sense what I mean design by this here is
+you select the particular type of motor which will give that that much of torque at least
+that much of torque. So, depending upon the requirement you have to choose the torque
+which is slightly higher in capacity and it will be able to do the task.
+so, the motor switch will be required for each of these links here you can see 1, 2, 3 and
+4. So, each motor with different torques which are given over here. in this if you say exit
+this will the GUI it will exit out of GUI. So, this GUI which has been developed this is
+for the design of the manipulator.
+So, what the manipulator? And then what is the curvature? You really how the what will
+be the works space of that robotic arm? You can see here we have shown here the work
+space of the robotic arm which way it will move; you can see here the patterns which are
+shown here. So, it is shown how it will move and the torque is given over here.So, this speaking arm design has to be picked up in such a way has to be designed in
+such a way or the GUI has to tell us has to what is the torque required? What is the space
+required? And what are the locations of the cotton ball which is available? And on that
+basis, if you can design the end effector which will do the job.
+(Refer Slide Time: 31:39)
+Now, these talks of the torque requirement calculated in Mat Lab using RTB and the one
+which is for each of the joints you can see this is what it is shown. So, for each of the
+joints joint 1, 2, 3, 4, what are the torque joint torque required is given over here. This
+has been done using GUI as I showed earlier graph.(Refer Slide Time: 32:07)
+This is the flowchart to operate the complete robotic arm I will not go into details of this,
+but I have talked of these slowly that you need to know the take the image as I if you go
+back to the previous the first slide where I had shown you that what is the cycle? We
+need to identify it, then we need to segment it, then we need to locate it is actually and
+then find out it is X, Y, Z position, then we find out it is through reverse I mean inverse
+kinematics. Find out the theta angle θ X, θy and θz these angles. So, that the end effector
+can go to that location and pick up the balls.
+So, the whole flowchart of rotation of the robotic arm is given in this. Here, you for you
+to appreciate and understand if you can, but then what you know from this particular
+lecture is that advance approach has been employed for doing this.(Refer Slide Time: 33:03)
+ I will Arduino flowchart to run servo motors how the servo motors will run? So, this is a
+flowchart for that. You can see the details on the right hand side which we have given
+here for all the details of the electronic hardware which is employed in this.
+(Refer Slide Time: 33:21)
+The working robotic arm so, this is the one which is developed at IIT Kharagpur and I
+will just show you the a small video of this particular thing. You can have a look at what
+are the items or the components of this robotic arm. There is a manipulator, then we have
+not kept the end effector in this now. The stereo vision we can see the location where thestereo vision is there then there is a power source which will be giving the power to the
+whole system. Then Arduino mega control unit the control unit is over here. And there is
+a  laptop  for  processing  the  information  and  interaction  between  the  person  or  the
+engineer and the system.
+So, you can see here I will just show you the working of this system. You can just have a
+look at this.
+(Refer Slide Time: 34:15)
+How it moves? maybe that this is this spare this is location where you can have a look at
+this that how it moves and what are the different ways that it has to reach to the actual
+point, you know can just see that this happens yes. So, it is going in now with this you
+can see that the it reaches the location, then to be in a position to pick up. So, this is as if
+it has just picked up. So, this is one which we can show you that it has done the job and it
+will come back to this position.
+Now, the all these aspects will take place, this is the stage at which we have developed
+and we are hoping that it will be the machine will be ready in some course of time you
+can see the various aspects.
+So, as such in this particular lecture we wanted to share with you the research work done
+at IIT Kharagpur regarding the advanced technology used for cotton harvesting. You can
+use this you can use the technology for many other things. And there is a need for use ofartificial intelligence sensors, embedded systems and various other aspects all related to
+internet of things for designing the agricultural machines. And devices which will require
+less power which will be able to do the task easily and which will also not get affected
+by the various factors related to the crop or to the soil and things like that.
+So, with this I think some approach has been given. I hope you will definitely have many
+questions and we would like to answer this at some point of time when we encounter
+those questions. And I hope that you will get benefited out of this and we will try to
+answer questions at a later point of time.
+Thank you very much.

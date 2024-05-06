@@ -1,0 +1,281 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 22
+Design of a Seeding Equipment: Part – II
+Dear students, I welcome to you to my lecture number 22 which is Design of Seeding
+Equipment Part-II. In fact, you must have seen that we discussed over the last 5-6
+lectures in which we talked about the different seeding equipment, where may be a seed
+drill or a planter or a pneumatic planter and things like that including even vegetable
+planters.
+Now, here we would like to learn about the different designs which are involved for
+these an equipment. Well, we will go into the components one by one you have seen the
+in the previous in the class we have talked about the hopper. And, after the hopper then
+where we keep the either the fertilizer or the seed we need to meter that to the soil level
+or into the furrow. Now, what is the idea behind doing that? What is the mechanism
+involved in that? What are the components made of? What is the mechanics behind that?
+Everything  needs  to be learned  as  an  engineer  because, then this  will help you in
+working out a new design. Supposing you are thinking of modifying the design or you
+are thinking of a completely new seeding equipment. Then you will think of this as the
+base and then you will go ahead with incorporating the new designs, which we think to
+be tested or to be incorporate for betterment of the seeding equipment or for better
+efficiency of that equipment.
+So, in this regard let us follow the slides which I have put together here. In fact, there
+will be a lot of mathematics involved and that is why the slides have put across and we
+will go very slow in this so, that you can understand. And, definitely during the process
+when we will  have the  assignments  etcetera  at  that  time,  you can  learn about  any
+difficulties you have faced or any clarifications that you require could be taken care of at
+that time. So, let us go to the second slide.(Refer Slide Time: 02:38)
+Design of seed metering unit. Well, first is the seed metering unit because we know that
+the hopper is the one, where we have the whole material the seed or the fertilizer. We are
+talking of seed here let us consider only the seed.
+So, in the seed hopper we need to have the metering mechanism. Now, how to design
+that? See what happens is we would have decided that what is the seed rate to be given in
+a certain field as for the design or as per the requirement of the crop and, what is the
+spacing that we would like to maintain? What is the speed at which we would like to
+operate our equipment or the tractor drawn equipment or the seeding equipment which
+we have.
+So, when we are talking of these definitely we must have an idea about what is the
+volume, what is the volume of seed which is being fed through that small unit. And that
+unit is known as seed metering unit; that means, we will meter the seed right from the
+hopper to the a last point which is the soil in the furrow. So, we are talking of the one
+which is very popular the one which is very popular is the fluted roller type.
+Now, there are other types we will talk of them at a later stage, but then we will discuss
+more about fluted roller type, which is very widely used. In fact, this is the one where
+now lot of modifications have been done and people have changed their material also; so,
+that they damage the seed is minimum. So, that germination will be higher etcetera. So,
+we have taken the metering unit as a fluted roller type.So, the fluted roller type this is the fluted roller type is the one which we have decided.
+These are the flutes which you can see here, these are the flutes which are there inside
+which the whole seed falls. Now, we have decided that this total volume which will be
+there inside is not exactly that we can calculate. So, there are ways by which we can
+calculate and how do we calculate.
+See here we are talking of V 1 the total volume, volume of seed fed by one flute as
+accepted in theory as expressed by V 1 is (A1  + A2) × l, l is the length of from here to
+there; this is the total length of the flute. So, A 1 is in area of cross section shown in the
+diagram l is the length now. What are those A 1 and A2? Now, you see if you come to this
+particular slide here then we see that this is the area A 1, which is shown over here, this is
+the area and this is a small area which is A 2.
+Now, this area because what happens the whole thing is there inside the hopper and
+when it is in the hopper these flutes so, they will be filled up and, how much is the
+material  which is  carried  inside this  is  the  one which is  of question and which  is
+important to us. So, we say that will certain portion will be there in the flute and certain
+portion will be slightly more than that or slightly maybe lesser than that; we do not know
+what it would be.
+So, we would like to find out this A 1 + A2. We tell that we will be editing I will put that
+this is an addition from the actual groove and then extra whatever comes. So, for that we
+will have V1 = (A1 + A2) and once l length is multiplied so, you know that this is the area
+the volume of the cylinder which will come into area and to length will give you the
+volume in the cylinder. So, now if the so, here if we see the whole thing in this then we
+find here that there are two diameters or the two cylinder diameters.
+One is the outer one which is here you can see this the outer one from this point to this
+point over here which is called D then the other one which is dotted one from here and if
+to this which is small d. So, these are important to us because, we will be requiring this
+to find out as to how much is the material which has gone. And, we will be interested in
+finding out from each flute what is the amount of material? And once we know the
+number of flutes, once we know the speed at which this flute is moving with respect to
+the ground wheel we will be in a position to find out how much is the total volume. So,
+this is how we will proceed. Let us go to the second slide.(Refer Slide Time: 07:55)
+The volume of the seed by one turn of the fluted roll right. Now, fluted roll you have
+seen that the fluted roll had several flutes. So, when the fluted roll is turning once, what
+is the total volume taken. That is now, you see here volume of seed fed by the one turn of
+the fluted roll. So, V 0 here this depends on then what D g diameter of the ground wheel.
+Yes, it will depend on a diameter of the ground wheel. Then W is the inter row, this is
+the inter row width inter row width between the rows of the plant. Then R s this Rs, this Rs
+is seed rate which has been defined or decided for that particular crop because, it will
+vary from crop to crop and from condition to condition and requirement to requirement.
+Then Dg we have target of diameter, this here ground G r this is the speed ratio, G r is
+speed ratio. Now, a speed ratio between what? Speed ratio because we are interested that
+when we are taking power from the ground wheel, how much is the ground wheel
+rotating and how much is the rotation of the metering shaft. So, G r is therefore, number
+of teeth on metering shaft by number of teeth in the ground wheel. It is just number of
+teeth or you say the speed. So, the ratio of that is the one which is G r.
+So, once we take this into consideration by taking into the taking to consideration the
+units as well, this is 10-6 also comes into picture where volume is given in meter cube.
+So, the total volume of the seed fed by one turn of the fluted roll so, it has been how
+many turns are there and how many number of flutes are there in that. So, we need to
+understand this part of it while, we are trying to find out what is the total volume of seedwhich has been fed by one turn of the fluted roll. So, it takes care of the ground wheel
+diameter, the seed rate at which it is decided.
+And, then the inter roll width between the crop and density of the seed of course, density
+and seed because we are talking with respect to the total volume. And, the here the seed
+rate is in kg per hectare. So, definitely we have to talk of the bulk density which is in the
+rho (ρ) here. So, then taking this if you calculating you will find that, this volume is
+given by this particular formula right. So, the volume of seed fed by one turn of the
+fluted roll V0 is given like this. Now, let us go ahead.
+(Refer Slide Time: 11:18)
+Well we have seen there is a two figures, in this figure and this figure. Now, the actual
+volume of seeds delivered by one turn of the fluted roll, the active layer taken into
+account of course now what is this? We had talked of that V 0 is something else here.
+Now, what happens is that the coefficient of filling flutes with seeds says xi (ξ). Now,
+what happens generally we are thinking that, this will have enough filling and there
+would not be any place in the flutes left for the seeds?
+This will be completely filled this is what we feel, but this generally does not happen. So,
+we find that this coefficient of filling flutes with seeds is varying from 0.7 to 0.85 for
+perpendicular  feeding  of  seeds  and  0.9  for  fine  grained  seeds.  Yes,  it  is  like  this
+therefore, what comes to us is the total area which we had got earlier A 1 + A2. The areawhich we have gone has shown you there this A 1 + A2 which was there in the figure and
+here also we can. So, this is the A 1 and this is A2, here A2 this one.
+So, A1 plus A2 area. Now, z is the number of flutes. How many flutes? Yes, definitely
+because the number of flutes are important we are talking of the total flute one rotation
+of  that  and  how  much  we  have  got.  What  is  the  total  volume?  We  assumed  that
+everything  will  be  filled  up,  but  that  does  not  happen  and  that  is  why  we  have
+incorporated effector xi (ξ), l is the actual length of the flutes that is known to us earlier.
+D is the diameter of the roll; well the D is the diameter of the roll, which has been told
+earlier.
+Now, here there are two important things: we need to look into this s distance of seeds
+from the perimeter of the feed roll, moving with the same speed as seeds shifting on the
+roller perimeter. Now, you can see here that s’ this s’ this is s’ if you with see this s’ here
+is important here. Because, this s’ is the distance of seeds from the perimeter of the feed
+roll, from the perimeter of the feed roll what is how much is that amount because, we do
+have the, with the same speed as shifting on the roller perimeter.
+Now, s = s’× m where m is what, m is for different seeds. So, what exactly we get is
+because we are getting the through this s’ we are getting this total s. Now, this s talks of
+how what will be the total amount of material which will be inside this, this area. You
+can see that from here to this under this area under this area. And therefore, now we have
+this s is spacing provide to ensure that seeds occupying in the flutes.
+What is the complete amount of seeds provided there? Will be m times this s’ and m is
+well for m this is of course, from literature we have found the people have done research
+and on that basis we got that m for wheat, oats and barley is 3.6 and for millet 2.4. So, if
+you can take this than the amount s, s here the will be above the into the fluted role, you
+will get that value of s which is m times s’. And, s’ this is distance from the perimeter of
+the feed roll.
+So, if we have this now go back to the equation here V rz, Vrz here is talking of xi (ξ)
+times A times z, where z is the number of flutes, A is the area it were total area and xi (ξ)
+is one which we consider that it may not be completely filled up certain portion is filled
+up plus π.D.s’. Because, π.D is the total diameter which comes out over here and then thes’ is the one, which is above it. So, π.D.s’ is the total distance actually, this will be total
+here.
+And, then if we multiply the whole distance into l we are going to get the total volume
+because, this will talk of the area this D and s’ is area this is also area. So, this total will
+be area into this length will give you the value of volume of seats delivered by one turn
+of the fluted roll, active layer taken into account. This is the value. So, if we understand
+this part of it now, we go ahead because we are interested to find out how much is the
+area or how much is the volume of the seed which is above than the fluted role.
+Because we would like to know the total amount which is falling which is essential. That
+we may think that we are seeding 120 kg per hectare and then we find that because of the
+faulty design of the fluted roll we do not get that. So, we have to be very careful about
+this part.
+(Refer Slide Time: 16:59)
+Well, we need to know this what are what are those actually, we would be interested to
+find out what is this A 1 and A2, which I had shown you in the earlier; what you had
+shown you A1 and A2 in the earlier figure. So, this is these are the values A 1 and A2. How
+do we find this? How do we calculate these out of the diagram which we have given?
+Now, you see that we have in order to find out this A 2, what we have? We have O P and
+Q; this is the OPQ which is a spherical section. So, this is sphere section OPQ is the total
+a section area which we are getting.Now, this area is nothing, but is equal to this from the formula direct formula of spheres
+here. Now, which comes out to be {(D2 × α1)/8} where, α1 is this. This α1 if you go if you
+see the earlier figure, this α 1  was the area was the angle which is covering the whole
+portion of the of one of the flutes.
+So, then {(D2 × α1)/8} this is the value which talks of OPQ. Now, in order to get this we
+must they are the subtract this from triangle OPQ. So, we must subtract the area of this
+from here. Now, what is the area of triangle OPQ? The angle of the triangular area OPQ
+is nothing PQ into OR by 2 which is nothing, but half base into altitude.
+So, we are talking OR is this, then PQ is this who are base into altitude this will give you
+this area. Now, using the geometry then we are finding out what are the values of OR PQ
+etcetera and taking into consideration this alpha 1. So, totally then area A 2 can be found
+out from subtracting this subtracting form out of this we have subtracted this. Now, these
+are given here.
+So, area of sphere section minus the area of triangular section will give us A 2 and this A2
+taking into consideration, this angle α 1 we are getting A2 is given by this here. Now, we
+need to find out A 1 also because, these two are the ones which are important to us. So,
+how do we go to find out A 1? We will follow a similar methodology as we have done in
+this case, that we will have O’PQ here and then O’PQ triangle here. So, similar thing we
+will do and try to get the values of A 1 right.
+(Refer Slide Time: 19:59)
+So, in the similar manner as I said we are getting the value of A 1 which is which is this.
+Now, if you work out you will be in a position to get this, you can ϕ 2 is the imaginary
+angle as it is as we have taken with respect to α 1, this is ϕ2 angle. So, this ϕ2 is now we
+will get eliminated with the trigonometry and then ultimately what we are getting with
+respect to A1 and A2 is A1 + A2 here which is the total area A.
+Now 
+ . In fact, if you take this into diameter you will
+get the figure 8 over here also, but we are taking this as the radius. So, we are getting 
+ here. And, now α1 which we have got here with respect to b and D, we
+will get these values this is b here. And, this is the value which is D they total into half
+D. Then so, b is known to us d is the diameter which has been already said and this is
+half of this over here.
+So, α1 is this then ϕ2 is this. So
+  . Now, this is the value which we are
+getting about b, this distance from here to there, so we are now in a position to get
+everything with respect to total area what we have and we know the length. So, once we
+know the length and area we will be in a position to get the total volume yes .
+(Refer Slide Time: 21:52)
+So, assuming D which has been told to you the d and small one has given the figure and
+taking into consideration all the aspects of seeds displaced by the flutes, when it is there
+inside the hopper we get a volume which is 
+  here. Now it is nothing,
+but  
+,  this is the volume which we are we are so, on we have shown here over
+here.
+Then the volume of seed fed directly by the roll can be expressed as, now what how
+much is the one which is fed by the roll. Now, with you so far we were talking about
+how much is there inside the a fluted roll and then how much is being delivered because,
+this has a meaning. It fully may not be delivered because this is continuously moving.
+So, what do we get yes we find that this V 1’ which is nothing, but 
+  and taking
+into consideration both the diameters; the inner diameter and the outer diameter we
+actually get this.
+So, what we get is alpha here V 1 is nothing, but 
+ . Because, we feel that
+this is the angle alpha this is the angle alpha (α), this angle considers from here to there
+this  is  the  angle  alpha  (α)  this  angle  alpha  (α)  here.  So,  
+  here.  So,  
+ that means 
+  this. Where now, if you want to find out
+the value of V1’ because, this is V 1’ here and V1’ we have already found out.
+So, if we find out V 1 then this will nothing, but 
+  which is given over here. Now,
+this talks of the volume V 2 of the seeds fed in the layer of thickness s, the small layer of
+thickness s which we had shown over here. So, in this layer this is the thickness which
+has been shown in this layer s. So, what is the total volume then, diameter D + s
+definitely? So, diameter D + s here into π D, then now this is l, l is the total length and s
+here will talk of the thickness of that. So, thickness of the layer which we had discussed
+earlier s dash.
+So, what we are getting is total length into thickness and then the diameter. So, we will
+get this as the volume V 2 therefore, the total volume of seeds sown by one turn of the
+roll, is V0 which is nothing, but V 1 + V2 and then we have got V 1 over here and we havegot V2 over here. So,   once we add these we are getting the total volume of seeds sown
+by one turn of the roll. So, we are now in a position to see how much is sown by one turn
+of the roll, fluted roll here and this is the total volume.
+(Refer Slide Time: 25:11)
+ Well,  since  the  actual  volume  of  seeds  removed  is  always  somewhat  lower  than
+theoretical value. Yes, this is another thing which I we have been talking right from the
+beginning of the design here. That we feel that the fluted rolls will be properly filled up
+to the brim when the and they are emptied the whole thing it will be complete, but those
+things do not happen. We have seen that there is a small hump amount of seed which
+will be there; it is also possible that the total volume may not be emptied in to the seed
+tube.
+So, that is why there is a feeling that the, that seed removed is always somewhat lower
+than the theoretical value. We think theoretically this is the value, but it will be slightly
+lower yeah. Let us say how much is lower a figure lambda (λ). So, this is the coefficient
+a material feed reduction. Yes, there is a assumption here and there is quite likely this
+assumption. Because, on the basis of what experience we have seen in the field or you
+might have also seen you will see when go to the laboratory classes. Or when you take a
+seed tube and or a seeding equipment and go to the field you will find and if you make a
+transparent system by which you can see from outside you will see what happens. So,that  is  why we say that  actually  it  does  not  fall  that  much  so, we are making  an
+assumption.
+Now, these are engineers way of looking at things because, as an engineer you would
+like to be as realistic as possible about the design. So, therefore, we think that a slight
+reduction  of the  order which is  varying from 60 to 80 percent  or 0.6 to 0.8. And
+therefore, this lambda (λ) enters into picture about for the total volume of seeds fed
+during one turn of the ground wheel per farrow opener of the drill.
+Now, this comes into picture then because we had talked of that there will be a slight
+reduction. So, this lambda (λ) now comes here. So, this lambda (λ) has come, we have
+already said and n’ is the number of revolution of the feed roll per one turn of the ground
+wheel because, there is a ratio between the ground wheel and the metering shaft. So, this
+ratio depending on this ratio we will have a number of revolutions.
+So, this revolutions also comes into picture and accordingly then the volume of seed
+which comes is V’ rz. And, if you want to convert this to per hectare the total volume
+sown per hectare is nothing, but this here which is the volume of seed fed during one
+turn of in meter cube. Then the number of furrow openers because these per furrow
+opener. So, the number of furrow openers will give this much and then area sown by the
+seed in meter square.
+So, if you take this  you will find that this  comes into hectare because, we have a
+dimension here 10,000. So, 1 hectare is nothing, but 10 to the power 4 and that is how
+then the total volume shown per this is this is value. So, ultimately then we are now in a
+position to find out or while designing a seed metering a mechanism particularly in this
+case of fluted rod we have designed and we have taken all considerations as to what
+should be the value. 
+How much is possibility of filling up the flutes? How much is the possibility that it may
+not filled up or how much is the possibility that all will be not employed or full will be
+emptied. This we need to look into actually and that is what we have considered as an
+engineer. Now, we will think of this at a later a stage may be a problem, when we take
+up a problem we can discuss more and more and try to understand this.
+Thank you.

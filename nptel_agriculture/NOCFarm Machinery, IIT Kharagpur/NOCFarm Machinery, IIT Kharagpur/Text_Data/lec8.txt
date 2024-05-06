@@ -1,0 +1,317 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 08
+Mechanics of tractor implement hitch system and traction prediction models
+ 
+Well, in my previous lecture we discussed about the hitching of the implements of
+different kinds, the pull type implements in the vertical and horizontal hitching as well as
+3-point linkage hitching. Now when we have this hitching with the tractor, what is the
+mechanics behind the implement and tractor combination?
+And what are the different prediction models which people have developed over the
+years,  researchers  have  done  over  the  years  in  order  to  find  out  the  total  draft
+requirement?  And  hence  the  total  power  requirement,  because  this  will  help  us  in
+designing a particular equipment for matching to the power source.
+Let us have a look at the different slides through these slides we will go through. And I
+have named this lecture as mechanics of tractor implement hitch system and traction
+prediction models.
+(Refer Slide Time: 01:17)
+Yes, mechanics have tried to implement combination under static condition; where you
+must have seen that when the tractor is simply standing condition, and when the P is 0the very simple. What I have done through the slide difference slide you will find, that I
+have made things very simple and not complicated by keeping all the forces acting in on
+the soil, and the wheel at one point of time. So, that you can understand step by step how
+are these things happening.
+So, in the in this one we have given a very simple diagram, which will talk of the front
+reaction this is the rear reaction, and there is a P load P here, which I have assumed to be
+0. Then in this condition only the center of gravity of the tractor is over here, and this
+total weight is Wt. So, if you take forces in the vertical direction, we get this only. And if
+you take moment here that you get R f is equal to this, and R r is equal to this.
+Now, move the moment there is a force on to this. There will be change in these reaction
+forces. So, those think we call as weight transfer, that the moment there is a value of P,
+when P is positive not 0 more than that, then there will be a weight transfer taking place
+between these and to these and these size. We will talk of this slightly later.
+Now, let us go to the next slide.
+(Refer Slide Time: 03:12)
+Here well, but before I go to actual so, you then differences, I have tried to make you
+understand how that aspect of the same here, now, yes. So, now you can see that these
+are the forces the R r and Rf here. So, if you consider this with respect to this particularfigure  particular  problem,  we find  that  in very easily  we can  find out what  is  the
+horizontal distance from rear axle centre line to the centre gravity of the tractor.
+The center of gravity is if it is here, we are interested to know what this distance is. This
+is wheelbase, we know this is wheelbase ah. It has been already said earlier. So, taking a
+simple moment as we described earlier, you can find out what is the value of L 1 here.
+And once you know the value of L 1, there is another aspect which is asked identify if the
+tractor is 2-wheel drive or 4-wheel drive the total weight is given over here.
+So, it is such that the moment we know that on a 2-wheel drive tractor, the weight
+distribution is slightly different. About 60 to 65 percent I have said earlier also and the
+rest weight on the rear wheels. But when the weight is approximately 50 percent on both
+sides, then we call that tractor to be 4-wheel drive tractor.
+So, that is the hint I have given here. That when it a 2-wheel drives tractor weight
+distribution front and rear axle approximately 35 and 65 and for a 4 wheel drive it is 50
+percent. And on that basis you can answer this question here. Because, the R r which is 70
+kilo Newton and this value the front axle is 72 kilo Newton, which is already given to
+you.
+So, from here you can know that R r is this and Rf is 72 kilo Newton; that means, this
+tractor is a 4-wheel drive tractor. And hence the answer is there is a 4-wheel drive
+tractor.(Refer Slide Time: 06:05)
+Well we go to a working condition. Now the moment we go to a working condition you
+please consider the previous figure and this figure here. There we had not talked of the
+force and we have said that P is equal to 0.
+Now, here we have put an implement.
+(Refer Slide Time: 06:24)
+So, here we have said that there is a force here. And this will have 2 components very
+simple as you have seen earlier that when there will be a line of pull, through the line of
+pull there will be a pull force acting. So, the horizontal component will be the pull, andthis Py will be acting downwards. Now this is the location where it acts where the weight
+of the implement is also acting at this particular point 
+The location of this particular point is about distance Y 1 which is Y1, vertical distance of
+center of resistance from the ground wheel this. Here the moment the tractor is in soil
+you will find that the contact point is not exactly under the center line as we had seen in
+the earlier case
+Ah In the earlier case, it is slightly at a distance e f, in case of the ef and in case of the
+front wheels and e r in case of the rear wheels. And therefore, you will find that this
+distance er and ef have been very clearly indicated when the same when the implement is
+in the working condition, and the implement is working condition in the soil. And the
+other related forces will be RR r rolling resistance in the front; similarly, RR r rolling
+resistance at the rear and h this is the cross tractive force.
+So now from the static condition of simple in the tractor, you have come to a condition
+where this combination is working in the field this will have. So, if we take the vertical
+this is ∑v = 0, and then the forces if we take the summation of the forces this is what we
+get here. Then taking moment about C, this is the point C here. So, if we take moment
+about the point C here, we get the equation with respect to this here, where W m, Py, PX
+are indicated here.
+Then the in a forward the front wheel dynamic reaction is given by this here. Now taking
+moment about point D, when you take moment about point D over here, we get the rear
+wheel dynamic reaction by this. And X 1 total distance which comprises X m; that means,
+distance from the center line of the wheel to the center of the resistance. And the
+wheelbase plus ef, because this will talk if you are taking moment about D then X 1 is
+given by this where X 1 has been used, in the equation wherever X 1 has been used in
+equation this is the value which happens.
+So, if you take the moment, then from the previous one now here condition different.
+Now we will see another condition in which when it is at certain angle, yes. So, these
+this you can see that same combination, but now it is a certain angle slow. It is on a slope
+here.(Refer Slide Time: 10:07)
+So, the moment it is on a slope beta comes into play here. And then we have the forces
+which we discussed earlier the CG will act here, and these components the because beta
+(β) will be in this direction, sinβ will be acting in this direction here, and then this is the
+force F which acts the line pull. Then it will it will have a component Fcosα by here, then
+a component which is Fsinα here.
+And this is the Rf over here, this is the point of resistance this portion in the rolling
+resistance. In fact, this should be rolling resistance here R rf of front field and this R rr here
+rolling resistance in this. All the forces which we have shown there are same here.
+Except that the nomenclature certain distance is say x p is the distance from this centre of
+this point hitch, ok. And y p is from this location here.
+So, y p and x p has been explained to you as what is their position with respect to this
+line? This is the line which is drawn which is at an angle of beta from the horizontal line.
+So, considering similar aspects of mechanics here we find if the pull F is equal to F s and
+is given by this here.
+And at Rf is equal to 0 now, this is a condition which needs to be considered, what will
+happen is the moment I have said earlier. The moment there is a pull onto the tractor, the
+there will be change in the reaction. And hence there will be may not be a physical, but
+there will be a weight transfer taking place this weight transfer. And that means, thisvalue of Rf the reaction force on the front wheel it is start decreasing. It will start
+decreasing.
+So, a point a limiting point where we can say that the maximum pull force that we can
+get Fs the maximum pull force which will be equal to F s when Rf is equal to 0. So, R f is
+equal to 0 this is the value. We know the angle alpha (α), we know angle beta (β), we
+know Mt, we know yc, we know yp all this X1 and X2 all the details are there. Then we
+will be in a position to find out this F s.
+Now, look at the traction. How do we get actually the pulling ability of the tractor wheel
+of the implement? How what do we get from there? See, here we have given the certain
+tractor wheel here. And it is imprint it is footprint is shown over here. And you can see
+that this is virtually an elliptical in shape here it is virtually elliptical in shape with the
+length here and breadth here.
+Now, what happens? Whenever we have supposing that these grips these grips, when
+here soil is fixed now where the moment it goes into the soil, soil will come inside. This
+it is just like as if we have some sort of a here, and there will be soil into this.
+Now, if there is a load on this here, say in certain load W, then the force required to put
+here and F. So, when we are trying to push this what will happen is this will have a
+resistance being offered? Now that resistance will be offered on the basis of what is the
+area. And what is the cohesion force you can say cohesion between the particles here?
+Now, this same thing has been very nicely said by coulombs equation which is given as
+over here. F = AC + W tanϕ. So, the force this force is the force which is the shear force.
+This shear force is given as W is the normal weight coming on to this. And A is is the
+area on which it is acting area of the footprint. So, we get that F is equal to AC into this.
+Where phi (ϕ) is the angle of an internal friction which has been explained over here.
+Now, this is very important so far as the capability of the tractors lug is there. Because
+when this lug is the there is the change in the design of the lug will have a greater
+bearing on the pulling ability of the tractor. And higher tractors have higher sizes of the
+tractor fields you might have seen that we are starting from 12.4 into 28 to 13.6 and
+maybe even higher than that. So, those values will have a greater bearing; so, the largertractors  have  larger  fields  and  because  they  can  pull  these  the  implement  larger
+implements.
+Of course the torque is on to the tractor axle here, and we know that when the torque is
+acting at this position here, at this location is the pull here. So, we have to have a this is
+the one which we are talking of the torque here, now this torque and this center distance
+we will make up the total torque the force here, and this order will make the torque.
+Now, while we are getting the torque out of this, the important parameter is the lugs
+which are here. So, these lugs if these lugs are not properly designed or these are worn
+out, then the pulling ability will decrease of this. So, it is important to understand that the
+lugs of the tractor are important, and if the lugs are not there then this the pulling ability
+will be simply virtually 0 and is given by the famous equation this. This footprint is not
+necessarily a rectangular one. This footprint is in fact, a we find that this is generally an
+elliptical in shape. This is elliptical in shape, you can say that this is elliptical in shape
+here with l and b.
+And therefore, as it is said here therefore, the pressure which we get on to these P =
+W/(0.78 bl) this has been worked out. That the value is 0.78 times not bl, which is for a
+rectangular case. For a track of course, this is W/bl. And the value of this angle of
+internal friction varies from 25 to 45 depending on the soil structure yes. And C is the
+cohesion force, and cohesion force for a pure sand C is equal to 0.
+So, when we talk of the traction which is nothing but the driving force developed by a
+wheel track or other traction device. This is traction. It is important to understand that
+without the proper tractive traction field, you cannot get enough traction or enough
+pulling ability of the tractor or from the power of the tractor.
+So, a traction is the driving force developed by the wheel or a track or any other device
+which we get, and it is bearing is on the lugs which are there which has a gripping
+capability onto the soil, when they grip the soil and is being pulled depending upon the
+type of the soil, the C and phi (ϕ) values the C and phi (ϕ) values the amount of force,
+this force shear force will depend. And we will be in a position with what is the total
+pulling ability of the tractor.Now, if you see the same thing here it is very nicely you may told about this particular
+driving wheel. That D is the pull here, and W t is weight coming onto this. And the force
+is here this is soil force over here rolling resistance over here, and this is the vertical
+force of the soil reaction. And G.T. as gross tractive force over here, and tau (τ) is the
+torque. So, this is the mechanics or the one or the point of consideration for you when
+you want to design a particular implement or try to find out the total power for a
+particular implement width of an implement while connected to a soil.
+So, it is very important to understand this aspect of traction. And when we are talking of
+attaching of the implements, we are simply talking how to attach. Once it attached, we
+must see what are the forces which are acting there. And once the forces are coming, we
+should see what is the traction device which is developing this particular amount of
+traction; which will actually help us in getting the design of the implement which we
+want.
+(Refer Slide Time: 20:01)
+Well I talked of the tires it is also very important to know what are these tires. And how
+these tires are employed, and what is their design, under what conditions which type of
+tires are used, why certain type of tires are used under field conditions, why different
+types of tires are used under road conditions. We see that most of the tires which we
+have are the bias ply tires which are used like this here.Now, this is the rim diameter say 12 ply rating, 13.6 if this is the designation of this
+particular tire. Then we know it has also been told to you earlier even in the field
+condition I told; that what is the meaning of these which is written on the tire itself. You
+can see the crossing bias ply these plies these fibers and these fibers are making an angle
+of 45 degrees.
+In case of this is not a situation they are parallel here virtually and the condition under
+which these radial tires. In fact, these radial tires rolling higher rolling resistance, but
+improved coefficient of traction is obtained in case of radial tires. And these radial tires
+you must have seen that mostly these are our passenger vehicles which are mostly going
+onto the roads and high speed vehicles. They have their own advantages, but when we
+talk of the tracking ability or the pulling ability there is not so much in these as compared
+to the bias ply ratings or bias ply type of tires.
+So, it is important to understand why this type of tires are used mostly in tractors, and not
+this type; although, in European condition these are also used because most of the time
+those are being used on road conditions and for haulage operations are other earthmoving
+operations. So, those are being used, but these are the ones which are used under Indian
+conditions or not European non-European conditions.
+(Refer Slide Time: 22:41)
+Terms related to traction models. Now, we talked I had said that we will we also talking
+of some of the prediction models.Now, I have been telling in the beginning itself that the moment there will be the forces
+are there on the wheels. And the moment there is a pull behind the tractor because of the
+implement  there  will be change in these reactions. And when there  is  a change in
+reactions there will be weight transfer taking place which is physically we do not see, but
+yes there is a change. Because as we discussed earlier, that the moment R f comes to 0
+virtually the implement will get lifted. And that is why at a limiting value of R f, we find
+what the maximum pull that we can get is. And once we must limit the maximum pull
+within pull within that value.
+Now, the moment we have a wheel, we have a wheel, and if this wheel is rolled let us
+say that for one rotation. So, this distance if this is the diameter of the wheel is D, this D
+here; this will be πD for one revolution. Now on a condition, if you see that this is on a
+road on a road or level road, where there is no load on the wheel.
+So, when there is no load on the wheel, we will call this the radius of the wheel, this
+diameter D is equal to 2r. So, this radius is then known as rolling radius. So, this r is
+known as rolling radius. So, the rolling radius is the radius obtained when under 0
+conditions, that is under 0 conditions. So, if we want to define this, what is rolling radius
+is the radius obtained by rotation of the wheel under a 0 load condition and divided by
+2π.
+So, these distances suppose this is the distance S. So, S/2π will be r here. This is what the
+rolling radius which we design here is. Now since there is there will be a change in the
+reaction these reactions, and if this distance is changed because of some load. Now this
+was the condition when there was no load. When there is a load now, supposing there is
+a load on the wheel. So, there will be load on the wheel.
+The moment there is a load on the wheel what will happen? The earlier distance OD will
+not remain OD. Now it will become now OD 1 where, where the D 1 will be less than D
+where this D1 will be less than D. Now since D 1 is less than D we will say that there is a
+reduction in the distance travelled. Because this πD will become now πD 1 and πD1. So,
+the distance πD is greater than πD 1.
+Now, that means, there is a reduction. So, this reduction is known as travel reduction.
+And now this travel reduction happens because of the load behind the wheel because of
+which there is a slippage of the wheel which occurs. So, sometimes interchangeably thistravel reduction is also known as wheel slip then I which has to happen, ideally it should
+be 0. Ideally what we want is D 1 should be equal to D only, but it does not happen. There
+because the definitely when the load is required there will be some resistance required
+for overcoming that. And that is why we will have a wheel slippage. So, we talk of that
+as wheel slippage it could be wheel slip or it could be called travel reduction or travel
+reduction ratio.
+Now, this table direction ratio is now given as (1 – v a/vt) where actual velocity theoretical
+velocity here. Then other aspects of the attractive model is talk of drawbar power. Now
+we know the drawbar power, we have if we know the drawbar force. We can multiply by
+the velocity we can get the drawbar power. And the axle power the axle power is the
+power which we are getting at the axle of the tractor. Which is in fact, not possible to
+find out, there are other ways by which we can find out, but yes there is it that power
+which is coming at the axle. And from here we go through the wheels now.
+Net traction; so, why we call net traction here? Because the pull which we have got
+earlier and the rolling resistance which you have got there will be difference in this and
+then the dynamic rear. So, the net traction coefficient is given through this equation. And
+coefficient of rolling resistance is rolling resistance by dynamic load onto the wheel. So,
+it is it is easier to understand once you know about what a rolling radius is and what the
+travel reductions are.
+What slippage takes place, what slippage happens in the wheel, because of which there
+will be a traction which will be a gross traction, and then there will be a traction which is
+net traction, because the growth traction will take care of everything and the moment we
+talk of net traction we have to I mean subtract the rolling resistance. And then we will be
+in a position to get.
+Now, if we talk of coefficients, we have to talk with respect to the total dynamic load
+which is coming out to the wheel. And that is why we are talking of coefficient here.
+Otherwise this is what is the net load which is net traction which we are getting. And the
+moment we divide by this we are talking of the net coefficient.
+Similarly, rolling resistance we get here. This is the value, but the moment we talk of
+with  respect  to  the  dynamic  load  which  is  coming  on  to  the  wheel  it  becomes  a
+coefficient.(Refer Slide Time: 29:53)
+There are certain other aspects which need to be explained about the wheels. See wheel a
+simple wheel which has only to be pulled here, we call this wheel where there is no no
+torque this torque is not there. So, this is towed wheel.
+This is we call as towed wheel. The famous example is the front wheel of the tire tractor.
+Driving wheel, now the moment  we have a torque coming  onto this wheel weight
+remaining same, and the horizontal this pull is there h pull is over here. So, when the
+driving pull h is 0 greater than 0 we have and this is the reaction here, we call this as a
+driving wheel.
+The moment we have everything that is the weight coming here the reaction of the soil,
+but there is no pull here, when the pull is not there, h is the pull. So, when the pull is 0
+we call this as a self-propelled. And the example of this is the transport wheel of the
+power tiller. So, rear wheel will drive is the driving wheel. And towed wheel is the front
+wheel, and a self-propelled wheel is the wheel example is a power tiller.
+And braked wheel is where we are calling where braked wheel where this torque is there,
+and there is a soil reaction here. And the pull is also over here, we call this to be a braked
+wheel.(Refer Slide Time: 31:46)
+Traction models where there are the several scientists have done several studies. And
+they have found out on the different types of models.
+Particularly in order to find out what are the different coefficients of rolling resistance
+gross traction, and the net traction I have talked of gross traction net traction. But the
+equations which have been given are just have a look at this that this is the equation
+which is given by Wismer and Luth in 1973 for the rolling resistance for gross traction.
+This is the equation, here he has talked of the wheel slip in this case and Cn a wheel
+numeric which talks of (CI bd/W) where CI is the cone index. We will talk of cone index
+slightly later; it is talk of the strength of the soil.
+And the tractive force here; the moment we talked net tractive force it has to be gross
+tractive force minus the rolling resistance. So, you can just see that the net tractive force
+comes like this. And these are the details are explained over here. So, this is the traction
+model given by Wismer and Luth.(Refer Slide Time: 32:58)
+Now, another scientist  in 1987 Brixius  model.  What  the Wismer and Luth did not
+consider was this aspect of the δ/h. Delta by h which delta (δ) caused the deflection of
+the tire and h is the sectional height. We know that when the tire is over here and then
+because of this there will be a deflection coming up because of the soil pressure there
+will be deflections.
+Now, this deflection we generally take this deflection is the ratio of del (δ) by point 20
+percent of this, on a normal pressure that we maintain in these wires ah, in this tires. So,
+he has considered this aspect and accordingly then he got a number instead of the wheel
+numeric which was there in case of this. Here you got a mobility number between given
+with this. And he has also found out the rolling resistance as well gross traction. And so,
+if you want to get the net traction definitely there is a difference of these 2.
+So, these 2 models have been used all over the world being used all over the world,
+depending on the soil, depending on the condition which the person wants to study, and
+they have been very popularly used, and lot of research is going on. People at other
+locations also have done some work.(Refer Slide Time: 34:29)
+Ah Say at IIT Kharagpur also we have done similar work and found out for reactions,
+particularly with respect to the soils which are in sandy lateritic sandy clay loam soils
+which are there in Indian conditions.
+So, well these are the different traction models, as I said from Brixius and Wismer and
+Luth and the conditions in under in Indian conditions we have developed these models.
+We will like in our next class, I would also like to show you how we take we test these,
+and what is a soil strength, how do you maintain soil strength, how do you measure soil
+strength, how do you measure the traction into the lab conditions. We will show you
+these in the next course of classes.
+Thank you.

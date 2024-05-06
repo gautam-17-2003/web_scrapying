@@ -1,0 +1,342 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 35
+Tractor Mounted Contact Type Microcontroller Based Improved Variable Rate
+Herbicide Applicator
+Well, welcome students to my lecture number 35, here I want to show you about another
+equipment  which  has  been  developed  particularly  for  control  of  weeds  and  where
+chemical is used. Well we have discussed the various aspects of control of weeds which
+is  started  from  manual  control  just  manually  moving  the  weeds  to  small  weeding
+devices.
+Then we have also talked of power tiller drawn devices. And then we have also talked of
+the various types of tines which are utilized for cutting and removing the weeds. Then
+we have discussed a ultrasonic sensor based unit wherein we wanted to control the weeds
+which are there in the row as well as in intra row.
+This has been discussed at length now, but then we have done something else which also
+has made a mark and which has been used all over the world in earlier we use of
+herbicides.
+Particularly the if you have a selective herbicide which is available, then it is very easy
+because, in that case; then the smothering of the weeds will be very easy and for a longer
+duration of time. So, you would be in a position to control the weeds quickly. And
+maybe once or twice itself application will be will suffice to give you enough time in
+which the plants will grow and the seeds will not revive. 
+I  remind  again  that  we  are  not  talking  of  eradication  of  weeds  which  is  simply
+impossible. What we talk is control of the weeds so, we employ different methods we
+also talked of the biological method, we also talked of flame and all that. So, in the line
+of these particularly when advanced level, we have used image processing to develop
+this particular equipment.
+So, let us have a look at what we did in the name itself. So, is microcontroller based,
+variable rate herbicide applicator because, we wanted to check as to how we can vary therate depending upon our requirement of the infestation which is there in between the
+rows. So, let us have a look at how the whole system is designed.
+(Refer Slide Time: 02:42)
+Well, mechanical weeds well if you recall mechanical weeds mechanical weed control
+was that by mechanical devices as I said earlier that we have different methods by which
+we are controlling the weeds mechanical is one, then we go to chemical one we has
+talked of biological as well. 
+So, I have put this slide just to remind you to bring back to your memory that see, in
+mechanical also we were trying to control the weeds in the rows as well as intra rows.
+Now same thing we want to do here, of course, we will not be controlling the intra row
+weeds  in  this  case.  Because  we  do  not  have  we  have  not  made  arrangement  for
+controlling intra row weeds, but definitely we are talking of the inter row weeds.
+Here there is a chemical system which has been developed and this system is application.
+In fact, we are calling this as an applicator because, it will if you spray the chemical.
+Then very likelihood that it will spread to the different locations as well as it may also
+fall on the plant. And if it is not a selective herbicide it will harm the plant as well. 
+So, that is why we are talking of application of that; that means, simply applying on there
+is a you can see here that there is a roller here, now these are the different rollers. So, on
+these rollers then we are melting these rollers through the chemical and when this rollermoves in between the rows. It will apply the chemical on to the weeds and within 48
+hours these weeds are killed this has been seen. 
+So, by for just to record your memory that weed control we are doing these and chemical
+weed control here. But very important to understand here is we are talking of selective
+herbicides, not select non selective herbicides we would not like to advocate for with this
+system. 
+Now, what we are doing how we are doing? We will discuss in detail as we go ahead.
+(Refer Slide Time: 05:01)
+What are the components of this chemical herbicide well; they are the simple we need to
+know about what are the components of the control system of the chemical applicator.
+We know that the power source will be there and then other components will be there,
+but only here let us see what are the control system which is I mean which is controlling
+the application part of the chemical. 
+Now, you see here we are talking of we are talking of a web camera we are talking of
+laptop, we are talking of a program, which has to be written to see that this system is able
+to identify the location, where these chemical has to be applied. The microcontroller unit
+with the relay and components DC solenoid valve, because dc solenoid valve will be
+energized as and when requirement comes.And there is a power for battery here and this whole thing is shown in this particular
+diagram system which was which has been tested in the field condition. And then we
+will show you video of that in the later course of these explanation. 
+(Refer Slide Time: 06:19)
+Visual basic well; design in fact, what are the various systems of this control system. In
+fact, see what we would like to do is initially the system takes image; image capturing
+the system will like to take the image of that.
+Then processing of that image because the there will be requirement of processing of that
+image because, we would like that that image should be differentiating between the plant
+and the weeds. 
+So, accordingly there has to be image correction, then segmentation of the image and
+image morphology. These are the systems which will try to differentiate. Then we will
+then talk of what is the how do we actually understand that, but this particular one is
+weed or not a weed. 
+So, the RGB analysis is the one which is done and the intensities of all pixels in image
+are compared depending upon which one is more or which one is less. So, for that for
+example, the pixel is marked green, whose green intensity is greater than the red and blue
+intensity.So, it will be marked green if the green intensity is greater than the red and blue. So, we
+are talking of red green and blue. So, this RGB the on the basis of these pixels and this
+on the basis of the level of intensity of this we can call and identify the conceptual way. 
+Now, using this visual basic program was developed in the system. And the once it is
+identified  then  the  system  was  instructed  through  the  solenoid  valve  to  apply  the
+chemical. Now we will show you where it is applying and how? And what how do we at
+attempt to various variable rates. 
+(Refer Slide Time: 08:29)
+Well; for making the decisions of course, inside this is inside this software because how
+do we take a decision. And all that this is the part of the software which I mean just if
+you go through that you will understand. But then, until and unless you do not know
+coding you will not be able to appreciate this part.
+But then since we have done we would like to just tell you that there is a threshold
+method by which we are in a position to identify. And what are the parameters which
+tells that the level of identification is useful or not.
+So, one of these is green index calculation, we will find out what is a green index? And
+then make a decision on the basis of that. So, the ratio of green pixel to the total number
+of pixels, if you see; as we discussed in the RGB analysis earlier that we are talking of
+the intensity of this RGB. So, if the green index is the ratio of the green pixels to that ofthe total pixels is a green index. So, if we take green index as itself as a parameter to
+differentiate, then itself also it will give us some idea as to what is the extent and what is
+the type of width that we have. 
+Well let me tell you that there are many things which have not been answered in this
+particular experimentation or in this particular device. But then to a great extent we have
+tried to understand the whole concept of weeds and the plants. 
+(Refer Slide Time: 10:03)
+Spray amount and the solenoid operation well, this spray amount will be calculated see;
+we know that what is the amount of spray means application. In fact, here I would not
+like to call it a spray we will call this application part. So, the application in fact, I will
+not call it spray.
+I will see the application, application amount will be calculated from the formula set in
+the code well definitely we will set formula depending upon; what is the chemical, what
+is the area required and what is the rate at which we want to deliver and all that which is
+predetermined by the designer.
+The accordingly once we have this the micro control will operate the solenoid valve and
+the liquid is released towards the rollers. So, as I showed you in the diagram that there
+are rollers. So, these rollers are sponge rollers you can have different material also, but
+we had tried different materials. And found that this sponge has a longer longevity at thesame time  could retain moisture for a longer duration of time.  So, it  saves on the
+chemical because, the ports are there and the in those ports. If you can maintain a certain
+level of moisture; of that chemical on to the rollers, then we are in a position to maintain
+or minimize the wastage of this because, if it is fully saturated and the moment it will be
+coming in contact with the hard ground, it will ooze out and hence we will lose the
+chemical.
+So, that we have taken care of sensing the motion. Actually this system has another thing
+because; we are also trying to sense the motion in order that what should be the rate at
+which it should move.
+So, that we are in a position to apply the chemical and the images are being taken
+because, the system is on online actually. We are taking the images in the front and then
+at the back we are instructing through the microcontroller. And through the solenoid
+system to apply the chemical on to the rollers and the rollers are behind. 
+So, it is very important that we should have devices which will maintain and maintain
+the speed at which we are trying to move. The signals provide a microcontroller it means
+that machine is moving and has moved a set distance well. These are the sensing motion
+of the system which we are we have understood. 
+Now, these are the deals once you go through details you will try to understand, but this
+has not only this lot of thought has been given be in this for operation, for designing this
+particular machine.(Refer Slide Time: 12:57)
+Well, flowchart of this control program well, if I put the whole thing that I discussed
+here into a form of a flowchart, you can see there that there is start of this proximity
+pulse counting by microcontroller.
+So, it controls the microcontroller proximity pulse is controlling how many pulses are
+taking, what is the image that heat has captured? Then the image is being processed.
+Then green index and decision of herbicide application is taken subsequently as we have
+given the formula in the code of that, then the communication with controller.
+Now, this information has to be communicated to the controller to make a decision as to
+whether to apply the chemical or not. So, if it is yes, you can see that decision for if it is
+yes, then yes, solenoid valve will be operated.
+And switched on and the chemical will be applied; if it is not then DC solenoid will be
+closed or and then, otherwise if it is not that it will go back to the system and try to take
+the images. And go on this how the system will go on like this until and unless we stop
+the whole operation. So, as such this is a very simple flowchart or very simple program,
+he takes the images after the images are taken, then it identifies to the microcontroller.
+Then micro controller after identifying and finding out the intensity of the infestation, it
+will give information through the solenoid valve. And solenoid valve will get operated
+and gave the chemicals on to the rollers. And the rollers are anyway being just pulled wehave not a given any other power source for pulling because, they are just being dragged
+behind the tractor.
+So, they will be going in between the rows, they have been made just equal to the width
+of the rows. So, such that it does not come in contact with the plants, but then it will be
+in a position to operate only onto the weeds. 
+(Refer Slide Time: 15:11)
+Well this is how things will happen actually; you see here that you can see that from all
+the camera this has come to the laptop. Then it will go to the microcontroller, then it will
+go to the various solenoids and then from the solenoids then it will come into the rollers.
+So, you can see here that it comes to the rollers. 
+And now this is the information, once it comes to the control, then the whole information
+is now taken care of this is the weed here. This is the weed here and these are the
+locations where your camera is there. So, the whole system is dragged this system is
+dragged. So, if you see here, here we have seen cameras number 1 2 3.
+The three cameras you can see that 1, 2, 3 camera in fact, if it is a 6 unit there will be 6
+camera. And like this then rollers R 1, R2, R 3, this representative system has been shown
+to you, here as to how the system is working. (Refer Slide Time: 16:38)
+Image processing using visual studio; well; how do we do this image processing using
+visual? This is the electronics part of it and the processing of the images etcetera. So,
+since you are not aware so, much with the system image processing, I will just like to tell
+you that try to understand what we want to say here, that we are in a position to grab the
+images of the weeds.
+And then trying to process with respect to what is the intensity of that how do we do this
+thing and then what information we feed to the to the microcontroller and then after that
+to the solenoid valves and all that and these solenoid valve etcetera. In fact, these are all
+independent units which need to be read separately. 
+But then these we have combined here only to have as an engineer you should be aware
+that various such systems are developed and they are working very successfully. In fact,
+on wider row crops you will find that they have a better application part.
+So, if I just go through what is written here, you can just read here that open library was
+used  with  the  files  coded  and  imported.  Then  the  main  software  was  created  with
+algorithms  of detecting,  green pixels  and making  corresponding  in corporations  for
+decision making for the application. This is a brief which has been and said what I
+explained to you is in fact, here. And the details of the system is shown over here, you can see that this is in the laptop he
+is trying to see here and the other systems are say the camera is over here. Now these are
+the rollers you can see only four rollers are shown here and the two have been lifted up
+just because particularly when you move you will find that the width is slightly larger.
+So, we have tried to design a system by which in this can be folded and within the same
+width of the tractor and it does not look very odd. So, that is why we have done this thing
+this only talks of how we have created and they used the knowledge of image analysis
+for designing such a system.
+(Refer Slide Time: 19:06)
+Well you can see here intermediate calculations of green index and herbicide amount in
+the software. Well this is this will be of not much use to you, but only prove you that yes
+we have any position to do this and get the get the green index. Green index and the
+herbicide amount, how do we do this thing, what we have written the software, what is
+the formula that we have used here; those are the things.
+And now since this is a proper intellectual property matter, that is why we may not be in
+a position to tell you all details, but then as an engineer you should know that yeah these
+are this is possible. And then by going through all details you could be definitely in a
+position to design one, a new one or something better than this like this. So, we just wanted to show you the intermediate calculations for green index and what
+should be the corresponding wide side amount through the software? This decision has to
+be taken. Before you instruct these solenoid valve for application and ultimately it will
+follow the rollers and since the rollers are being pulled in between the rows.
+They will smear and the chemical will ooze out and on to the weed and those weeds after
+48 hours also they will be simply killed. So, they will not revive in the meantime your
+crop revives and then crop grows. 
+(Refer Slide Time: 20:39)
+Flow pattern according to GI range and previous flow; actually this is a system which
+have been created because several images in the process of movement. Since it is an
+online system, you need to understand this part that since it is an online system we have
+to take several images. And then we have to identify the images accordingly and then on
+the basis of that the green index have to have to be an understood and to we taken into
+consideration for application part. 
+So, this is this is one flow pattern which has been given as a representative to you and
+this you can understand those who have the idea about these image processing, they will
+be only able to understand this. But then what we are saying that; what we have in the
+different images which we get here spray decisions.Now depending upon you can see here that see Q1 talks of the spray decision in the
+previous or third image analysis because, images have been taken over several images.
+And what we are doing, how much he what image was there and by the time it has
+moved? Whether we have been in a position to identify that image  and taking the
+intensity or not because ultimately on the basis of this itself we are in a position to decide
+what the amount of chemical is has to be given.
+Similarly, the spray it say Q2 talks of the spray decision the second image and then Q3
+talks in the last image and fourth is the spray in the present image analysis. So, this is
+how and 1 and 0 is talking of you represent a spray or no spray. 
+So, we are talking of this spray or no spray depending upon the value of the green index
+that we have here so, you can see this. So, depending on the GI range that we have set
+for; application, we are in a position to apply the chemical or apply yes, this is the
+herbicide through you can say the rollers. So, this talks of the flow pattern here.
+(Refer Slide Time: 23:04)
+Well final working window; well this is a again until and unless you have seen the
+arrangement for image processing, you may not appreciate this part. But then since we
+have done this and we want to show you how we have done? It is worth informing you. 
+See here the application rate liter per hector; this is the application rate what we are
+thinking. Then this is the roller width what is the width of the roller? This is veryimportant because, this width of the roller will depend on the row to row spacing of the
+crop. We have in tea gardens, where the row is very big even in the other archers where
+citrus pomegranates are applied the distances are very high.
+So, in those locations, then this roller width will be varying. Speed of operation where
+the speed operation is another parameter, which needs to be maintained and to in order to
+control. Because what will happen is when you apply this; if you are moving at a very
+faster rate, then the amount of chemical which will ooze out on to the weeds will be will
+be lesser.
+At the same time because of the higher speed of rotation and because of the centrifugal
+action of the rotation roller lot of chemical will be thrown off. And although it may not
+go on to this, but on to the cover it will be thrown off and it will go waste it go waste.
+And that is why what we would like is that a proper speed should be taken. 
+Now, so, if you have taken a parabolic see then you put your you in this. Now he talks of
+this start here that similarly now a camera 1 camera 2 camera 3 4 5 6. So, all these
+camera depending upon the, depending upon the images that have been taken it will start
+labeling. And telling what is the original image, the banner image this will be leveled
+here in each of the cases you will find this. 
+And the amount of green index which will be found out, accordingly the chemical will
+be decided the amount of chemical will be decide it. So, you can see here that we are
+talking of the green index here in each of these from the cameras what we have taken.
+Because you will find that these are not so, much to you can say that the chemicals. The
+weeds may not be so, uniform all through the field, you may find in some of the rows it
+is very dense in some of the rows is not that much dense. 
+So, it is very essential to identify the type of the weeds of course, which we have not
+done in this could be said as a limitation of this particular exercise. That we have not
+been position to exactly say the type of the weed we have just found out that yes, it is a
+weed which can be which can be removed or which should be killed.
+But at the same time even the extent of infestation, because sometimes in the weeds you
+will find there may be more and different types of weeds entangled into that. So, many atimes when you are talking of a selective one, it will it will take only one group of weeds
+it will kill not mother groups.
+And therefore, it is very essential to have this information and you can say that this is the
+one which we are still working on this part of it; when you have two three weeds
+entangled together or grown together. So, what would be the herbicide? Most of the time
+in that case, we are talking of parquet or which is a non you can say that it will kill the
+crop also.
+So, for that you will have to cover the cover these rollers and we have to be very careful.
+So, that it does even drip onto that, if you spray the situation is very dangerous. So, we
+do not spray, but we would like to apply this cover the rollers; in that case, then the roller
+size will be smaller we have tested all these things. 
+So, far as if the control of weeds is concerned yes, we are in a position to control these
+weeds to a greater extent by using this system.
+(Refer Slide Time: 28:01)
+Well digital image processing well, this is how the images you can see that here we have
+talked of all the details? This is the processed image which is shown over here and the G
+intensity, B intensity, G intensity, R intensity, everything has been shown here and the
+values also are shown in this particular figure.Just to tell you as that what do we do in the image processing, how it is happens in all
+that, how do we get the values of this x y and RGB values which we get, what exactly we
+try to do in image  processing? For that  you need to know learn image  processing
+separately.
+Since we have learnt image processing separately and try to use here that is why these
+details are being shown to you for or your information and well you can use it wherever
+you want.
+(Refer Slide Time: 28:56)
+Calculation of the green index well this has been talked that we will the green index is
+this total number of green pixels by the total pixels in the image. And the green index
+lies between 0 and 1, where 0 represents no weeds and 1 represents full of weeds of the
+same in the same area. 
+And the amount of herbicide calculation is very simple you can see here, that the spray
+amount milliliter per hectare it multiplied by the green index. So, this will talk with
+respect to and then we can get the total spray amount where a is the A is talking of the
+area of the field of you. This is the area of the field.
+So, once you know the area of the field say for example, if you want milliliter here. So,
+amount in milliliter per hectare, then the green index which is talking of what should be
+and then the area. So, this will come these two will cancel and ultimately you will getSA. So, it is a very simple way of finding out the herbicide amount and calculation of
+green index. 
+Now, why we are showing now here we talked up all these things and now they I am
+showing the calculation, this is what is there in the software which we have developed.
+(Refer Slide Time: 30:20)
+Well field now we would like to show you that this is the operation of this in the field
+here.
+(Refer Slide Time: 30:41)
+ 
+ (Refer Slide Time: 30:42)
+You can have a look at how the old system this is the camera which is inside covered,
+then you can see the tank which is there.
+(Refer Slide Time: 30:48)
+ (Refer Slide Time: 30:52)Then the control system unit and these are the various pipes which are connected and
+you can see that these are the rollers, these are the rollers these are the rollers here. The
+tube is coming on to this, then these are perforated tubes onto the rollers you can see
+here.
+(Refer Slide Time: 31:04)
+ (Refer Slide Time: 31:07)Field performance evaluation yeah, you can have a look at this oh you can see each and
+every aspect of this. This has been tested and the steel further testing of this is going on
+under the field conditions. And we hope to bring this unit into the market depending
+upon the acceptability with the farmers and the type of crop etcetera. 
+(Refer Slide Time: 31:38)
+Well I have already told you that how do we measure the weed intensity? I have talked
+of the quadrant long back. So, we can have a quadrant and before and after you can you
+can simply measure before and after. See if this is the situation here and this is the
+situation here; depending upon what you get you see here, what we have got here, what
+we have got here itself. It  is  a  weed  density  before  the  application  and  then  after  the  application  and  two
+situations here and after 48 hours this is the color of this because, we have used the
+chemical. So, that chemical will, but we will burn this and well, it will die and then by
+the time another three weeks will be required for these two get up. And that is why we
+say that we are controlling and by the time our chemical has I mean and our plant has
+grown a lot. And vigor and all that is strength it has got enough strength as compared to
+the weed.
+And we have seen that this system about 40 to 45 percent of the chemical we are in a
+position to safe and that way you can imagine that how much of chemical can be saved ?
+So, this is one system, advanced system which has been applied for chemical control of
+weeds if you have any questions we will answer that later. Thank you for this. 
+Thank you. 

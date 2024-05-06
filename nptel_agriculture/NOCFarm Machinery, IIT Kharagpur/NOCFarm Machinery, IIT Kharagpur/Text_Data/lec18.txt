@@ -1,0 +1,296 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 18
+Microcontroller based uniform seed rate application system
+Welcome students to my 18th lecture which I want to give you on a advanced technology
+which we have developed at IIT Kharagpur. It goes microcontroller based uniform seed
+rate  application  system.  Well  we  have  talked  of  the  different  types  of  seed  rate
+application systems or seeding systems we have talked of. Now there are a certain lagoon
+of those you because those units are driven by the ground field, the metering mechanism
+or the metering shaft the seed metering shaft is driven taking power from the ground
+field. And you know that the ground field is facing the different types of soil. So, we find
+that many times we get losses many times you get missings of the seeds.
+Many times seed damage also takes place in the because of the metering device. So, we
+have gone into a technology by which we are in a better position to solve all those
+problems  to some extent let us go through this. So and using microcontrollers  and
+electronics here this is what you can say that use a precision agriculture; that means, use
+of  electronics  in  agricultural  equipment  design,  where  we  can  solve  some  of  our
+problems because of the mechanical design which we were facing so far.
+(Refer Slide Time: 01:40)
+Well what is this mechanical system this actually when we are talking of a commercial
+level mechanical planter the seed material mechanism operated by the ground wheel as I
+said. What are the drawbacks of this? As I said earlier high missing adjustment of seed
+rate is difficult.
+And then  absence  of seed monitoring  system  actually,  we are  not in a position  to
+monitor. So, these are some of the important difficulties that we faced when we have this
+equipment. So, to in order to take care of this as I said we need help of a system which
+we call from mechanical transmission, we are talking of a mechatronics mechatronics
+transmission.
+Where we are going to use the electronics part of it we are going to use a high level of
+mechanization for doing the seed metering. It is a blend of this mechatronics is nothing,
+but  the  blend  of  mechan  you  can  say  mechanical  and  electronics  or  mechanics  or
+electronics to put it mechanical and electrons put together what you get. The in very
+simple definition of this at your level as an agricultural engineer you must know what
+exactly this mechatronics means and that is why in a very simple way I have tried to
+define it.
+(Refer Slide Time: 03:07)
+Advantage of this well, if you have seen the difficulties or the drawbacks the in the
+system earlier definitely we if you overcome those then those are the advantages that we
+are going to get if you have a mechatronics system. What are those? There would not beany skidding because, we may not be taking power from the ground wheel uniform seed
+rate application yes there will be uniform seeding which will take place there will be
+hardly any missings and losses.
+Optimum use of seeds we will not be losing seeds definitely we will have a precise and a
+pinpointed system by which we can put seeds as well as we want. Then definitely there
+would not be any loss or optimum use will be there electronic seed controller and seed
+monitoring system. The seed controlling and monitoring will be an electronic one which
+will do very precise.
+And of course, easy adjustment of the seed rate yes, this is another thing when you might
+have seen that in the seed comfort laser drill or only a seed drill this if they fluted roller
+type what we have done? We have changed the exposure length of the fluted role. And
+there that way we have been an equation to adjust the seed rate, but then in this case you
+can do it very easily you can do it very without any problem. So, these are definitely the
+advantage of mechatronics system here.
+(Refer Slide Time: 04:37)
+A block diagram of uniform seed rate application system now what are the electronic
+parts what are the components which are involved in such a system? It is important for
+you to know it is important for you to understand. See you how do we read how do you
+find out the speed we want to know what is the speed at which my tractors will travel
+and what will be relevant soil slippage which may take place to the tractor wheels.So, for that we have the speed measuring there is a radar sensor, there is a radar sensor
+here. So, if the radar sensor is fixed at a location in the tractor where it will measure the
+actual speed of the tractor. This is very important we must know what is the theoretical
+speed we can always get by rotating the field and this actual speed when there is it load
+onto the field what will be there. So, we would like to measure this and once we know
+these two then we will be in a position to and to estimate what is the level of slip the
+talkers.  Then  for  seed  detection  and  seed  monitoring  for  seed  detection  and  seed
+monitoring we have the infrared sensor.
+Now, this another aspect because we need this we want to know the whether the seed has
+been falling or not whether the seed is going through the tube or not this monitoring and
+detection is very important. So, these two aspects one will talk of the speed of movement
+the other will talk of monitoring of the seed these information goes to a microcontroller
+here. So, this microcontroller gives takes this information and once is equipped with all
+this then it will go to the motor controller. It will then advise the motor controller to
+operate permanent magnet D C motor. Then this will do here this is P M D C motor. So,
+operate the seed metering this will this are the say the information is once information
+from these two comes the controller will then advise the motor controller. This is the
+motor controller of the particular P M D C motor. Then the job of metering mechanism
+will be completed or this metering mechanism will take place.
+Then this will happen now here are the seed metering device seed. In fact, this is seed
+measuring plate, which is being seen here and these are the seeds which are shown here I
+mean at this location now these are cut off device in over here. So, this is a block
+diagram of the seed application system the of a microcontroller based system here.
+Now how we have done definitely this requires knowledge of the electronics on the part
+of the design you may not be an agricultural an aggregate as an agricultural engineer you
+may not have gone through some of the courses, but I think at IIT Kharagpur. We are
+learning this part of it and then trying to apply by taking help from our colleagues from
+different departments and even somebody is interested to learn the courses.
+These courses on his own and use these equipment the devices and components for
+getting a good seed application system. So, these are the components of a shown in the
+block diagram.(Refer Slide Time: 08:22)
+Motor speed control method how do you control the motor speed? Well it is important
+we must know what is the science behind it? Because how the seeds are falling? 
+N = (V × i)/(Sd × n)
+So, the N is the R P M of the D C motor,V is the forward speed of the tractor V is the
+forward speed of the tractor, then desired seed spacing, what desired seed spacing we
+want this is here. Then the number of holes in the seed plate well I have shown you in
+this.
+See this is the holes which are there the locations where the seeds will be there and this is
+the location where it will be cut off and it will fall. So, number of holes in the seed plates
+there are n 8 are shown here this one seed plate here. Then seed spacing very nicely
+shown here you can have a look at this then S d is the desired seed spacing these are the
+two locations where the seeds are spaced. So, using this you can know what is the R P M
+of the motor what R P M of the motor should be there.
+If you want to have a certain number of seed at certain spacing for a particular crop
+because the crop will differ and the styles I type of the seed will be differing at many
+things will be there. So, when you want to have for a particular crop what should be the
+R P M this has to be designed. And this is the formula using which you can design. Now
+once this is designed the other power transmission are reduction unit.That is PMDC motor is here this forward DC chain drive because then we with the motor
+now we are in a position to operate the seed metering mechanism. So, this is the chain
+and sprocket type of mechanism. So, we are talking of mechanical and then electronics.
+So, there are certain  portions  we will talk  of the electronics  input  information  and
+directly mechanical device to do the job, this is what is done in this case here. So, motor
+a speed control method this is how we do in the microcontroller may met equipment.
+(Refer Slide Time: 10:47)
+Measurement of static torque on seed metering shaft very important see as a designer
+you must know what is the torque which is coming on to the seed. Because you will
+design when you are thinking of designing of a seed drill you will definitely think of a
+seed hopper then you will think of the seed metering shaft.
+And then there will be the metering mechanisms either it is a plate inclined plate or a
+vertical plate or you will think of a opening or whatever maybe decides when you think
+of this you must know, how much is the power required what is the torque on the shaft
+which is required. So, measurement of static torque on seed metering shaft we have done
+this part it is very essential as a designer. So, I will just tell you that, we have done this
+part there is a load cell here  yes so, torque measurement here so; there is a load cell here
+this load cell.
+In fact, we are interested to know through see we have used the mechanism here to see
+what is the distance and then how much is the load force we when we apply through thiswhat is the load coming on to their to the system. And this is the assembly, which you
+write  shown  earlier  about  the  power  transmission  the  chain  and  sprocket  power
+transmission. There is a idler here which will talk of the tension of the chain digital
+display. Now this is the digital display that we are getting about what is the distance and
+what is the force applied here through this so, known distances are there.
+ So, we are in a position when we are measuring the torque we are in a position to
+measure the force and that display is shown over there. Now, so, the load cell has a
+standard load cell had been used in this case.
+(Refer Slide Time: 13:16)
+Mechatronics a transmission system now, then what is this mechatronics? Now here
+when we are talking of the see P M D C motor we have given information to the motor to
+rotate now this encoder is the one which will talk of the R P M of this. So, we are in a
+position to monitor the R P M and then chain drive is of course, is there which will now
+ultimately meter the C D metering mechanism. So, what we are doing in this is the P M
+D C motor which has instruction through the microcontroller by it is own controller.
+And then we are in a position to utilize the rotation of this shaft which is the over here
+through the encoder. And then we are in a position to transmit power from this is
+sprocket to this sprocket. So, depending upon the ratio we are in a position to know what
+is the speed at which it should move depending upon the seed rate, that we want,depending upon the type of seed we have and the crop etcetera and the speed at which
+the whole tractor is moving.
+So, we need to design all these things in a befitting manner, while keeping in point
+keeping in view the electronics part of it, what are the electronics components give you
+and then what are the mechanical parts and how they should be matched together to get
+the total output of not scaling and then getting everything the way we want for this
+mechatronics system the advanced system which was not there earlier.
+(Refer Slide Time: 15:06)
+Well here it is shown that the real time seed counting system there is a you can see here,
+there is a seed counting system these are IR sensors in each one of them. So that real
+time seed countering we can do this is this is one view of the machine which has been
+shown to you here and there is a 12 volt D C motor which we discussed earlier.
+So, we are in a position to know from each location as to whether the seeds are falling or
+not and there are sensors. And there are other methodologies and there are other aspects
+of how to know whether the seed is actually falling or not or there is a condition of the
+seed in between the tube etcetera that we are in a position to see and understand.(Refer Slide Time: 16:13)
+With performance parameters of precision planter I think well precision we do need to
+know what are the performance parameters of precision planter? You see here miss index
+in fact, we should be talking of missing index how what are the misses how many misses
+will take place when the seed is falling actually this is what it is? So, the miss index here
+I is the percentage of spacing greater than 1.5 times  the set planting distance S in
+millimetre. Well these are some of the aspects which we need to design on the basis of
+the literature available, on the basis of literature available as to for a particular seed what
+is what is this and how this value should be actually thought of.
+Because we do not want several missings because, otherwise this will talk of a bad
+performance of the equipment. Then multiple index, now this may also happen that
+multiple seeds are there, see we are talking of precision planting we are talking of
+precision application of everything either seed fertilizer whatever. So, we want certain
+amount only should go which is just required.
+So, for that we do not want that there should not be anyone at the same time we do not
+want that there should be multiple of that when I want one, only I do not want multiple I
+do not want the zero at some point of time. So, we do not want this multiple index also,
+which also say is that multiple index is the percentage of spacing that are less than or
+equal to half of the set plant now S.The some aspects, some spacing ones we have planting distance we have measured. So,
+if you would like that there should be multiple should not be there within a certain
+distance that is what we will describe explain as the multiple index. And multiple see
+seeds falling, we would like to consider this in this particular as per this definition.
+Then quality of feed index, what is the quality of feed index? That means how the feeds
+after how is the metering shaft working? Now you can see here quality of feed index I q
+is the percentage of spacing that are more than half, but not more than 1.5 times the set
+planting distance. Now, if this is well we have designed these aspects looking into the
+several  other  parameters  and  the  plant  population  which  actually  is  desired  by  the
+agronomist. So, keeping into these, these performance indicators for a precision planter
+have been developed and design.
+Iq = 100 – (Imiss + Imulti)
+The number the missing index and the multiple index both we would not like to have
+them. So, out of the 100 if we reduce or if we subtract this is the one which we are
+talking of the quality. 
+So, this Iq is the one which we are they said and if this. In fact, this is a very simple way
+of defining so, all of you must look into this and if you feel that there is some other
+improvement in this you could you could may add because we are not talking with
+respect to the power source we are not talking with respect to any accuracy of any other
+equipment. What we are talking is? Whether the seed is flowing at that location or not,
+whether multiple seeds are coming, if they are coming, what is the distance between
+seeds multiple seeds are coming, how far is the distance between these two?
+So, then precision in spacing yes, this is the crux. In fact, we are all talking of precision
+we are talking of the distances where, we would like to keep the seeds because until
+unless this is maintained, then the whole aspect of the whole purpose of precision will be
+defeated say.
+So, the precision in the space I p is measure of the variability coefficient of variation you
+can say what is the level of variation we can allow in the spacing S between seeds or
+plants? So, this precision spacing we will like say, there has to be because when the
+equipment is working there is possibility that there will be some dispersion of the seedswhen they are fall into the going into the into the furrow while the tractor and the
+equipment is going forward it is quite likely. So, we need to have a monitoring about the
+forward speed, we need to have monitoring of the system which we are having whether
+electronic system or a mechanical system.
+And then we would like to see what is the deviation or the variability measure of the
+variability of the spacing we would like to have. So, that has been given as this would be
+suffix I think S this is suffix here S d has shown here. So, it is a suffix is the Standard
+Deviation.
+Ip = Sd /S
+ where S is the spacing between the seeds or the plant so, between spacing this is the one
+which is there. So, this is these parameters the miss index, the multiple index the quality
+of index, the precision in spacing, these are the ones which talk of the performance
+parameter of a precision planter.
+ We have talked of these, because we find that the moment we talk of the precision
+equipment  seeding is  one  which  is  very important  from all  counts. And the losses
+etcetera should not be there and what happens is that the seed if it is properly placed at
+the right, place in the right environment of the soil and with the less congestion around it
+of other plants or unwanted plants or weeds.
+Then it will grow and we have found that the growth is also high yield is also very high
+in this case. That is why; it is very important that precision planting must be done for
+these a crops whatever is the crop that we are choosing in this context.(Refer Slide Time: 22:42)
+Comparison of field test results well, when we did this exercise when we did this job we
+wanted that what is the efficiency of our system as compared to other systems or the
+compare to systems, which are all existing because, in the existing system there was no
+mechatronics.
+ It was all a mechanical system and the power is taken from the ground field and the
+preparation of the ground is also varied from location to location several things. So, in
+that  context  when  we  designed  the  machine  and  wanted  to  use  electronics  and
+mechatronics in the system, we had these parameters and the changes which I discussed
+with respect to the speed of operation with respect to the metering of the seed etcetera.
+And then ultimately, when we measure the performance with regard to those parameters
+of machine and then multiple seeds etcetera and variability we find a comparison. And it
+is encouraging one you could have a look at this, this is very encouraging one. See this
+every seed spacing in existing system is this. So, we are not very far off this is one which
+we need that S it should not be very far up so very very close.
+Average miss missing index is this. Now we have this value here, you can see that large
+reduction in this missing index; that means, we are in a position to see that all the places
+there will be 95 percent of the places there will be seeds available in this multiple index
+you see the value of multiple index here that 10.8. So, much  of multiple seeds are falling
+with the existing system because, of the skidding because of some time some locationsbecause of the soil moisture and all that it could be possible multiple index is higher in
+this case we have very less.
+Now average quality feed index is this and we have got this very encouraging very high.
+So, you see that the quality feed index is 87.5 % ,it is 88 percent very close. Then
+average precision index now you see here average precision index is 24.25, but 11.5
+here. Now, develop system I think here we would we will talking of the accuracy I think
+here we are talking of the accuracy of this. So, you see the accuracy is better. So, the
+developed system which has a mechatronics system developed at I I T Kharagpur is a
+innovative one.
+And further work we are doing with respect to in fact, using even the embedded systems
+and  other  electronic  devices.  And  we  will  continue  to  do  that,  but  yes  for  your
+knowledge we would like we wanted you to have an infer this information that work is
+going on you can think of such units in future. Because, it is the when we are talking
+precision if this is the way by which if we have better equipment more and more tractor
+utilization or utilization of power will be done because, we know that more power on the
+farm more will be the output this is direct relation. So, how can you get more a power?
+Not by manual power or the animal power to that extent, but definitely we are talking of
+a tractor power. So, when you want that better tractors are use more tractors are used,
+then the equipment has to be there which will match the capacity of these. So, and in the
+performance of this then definitely we have got all these equipment which are each per
+with respect to each parameter we find that this is better. And cost is also we must also
+look into the cost of this system the cost of the system is also not very high. 
+And a time will come when the multiple units when the manufacturers come and try to
+manufacture all these equipment and use the units you will find the cost will also come
+down. So, there will be a cost comparison also at one stage of time or one point of time
+and we are called confident that definitely the there is a future for such equipment.
+Which are accurate and which we will be giving more precise and hence ultimately
+giving higher yield.(Refer Slide Time: 27:16)
+Comparison between conventional where some more comparisons here I can show you
+transmission system, vary variation of seed rate, seed monitoring system, cost, yes I was
+talking of the cost wait this is the same. Say with the same weight unit you can find out
+that the planter developed at I I T Kharagpur we have certain comparisons here. And will
+just electric motor driven mechatronics a system here this is mechanical transmission.
+We do not say here by the way it is not that we are saying that this is a bad system
+existing, but we are thinking of improvement we are thinking of high quality we are
+thinking of more and more precision. We are thinking of advanced technology to be used
+for solving our problems which we had in this machine mechanical system.
+So, we are talking with respect to that the uniform seed spacing yes, we want and then
+leads to better yield saving in the seeds and better yields losses are lesser. So, when
+losses are lesser also it will add to more and more yield. Then variation of the seed rate
+the we have difficulty in variation we have to change the gear ratios or interchanging
+these sprockets and things like that. But here easily by an electronic control system
+which varies the motor speed this can be very easily done and maybe the operator who is
+sitting on the tractor itself he should be in a position to do this.
+Seed monitoring well there is no seed monitoring at the existing one, but we have a seed
+monitoring here I discussed. Cost yes, I said that there will be cost higher, but then when
+we talk of a unit which will be multiple unit being the manufactured and large scale thiswill come down. And it will be all advantages weight of course, remains to be same. So,
+with respect to what we have design at IIT Kharagpur I think this is a new technology
+which is which is available and more and more work is going on in this line and for your
+information we wanted to let you know about this.
+Thank you. 

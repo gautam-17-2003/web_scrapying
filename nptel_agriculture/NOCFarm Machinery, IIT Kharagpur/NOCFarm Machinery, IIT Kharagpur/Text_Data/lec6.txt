@@ -1,0 +1,315 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 06
+Design of a Tractor PTO Operated Rotavator
+Well  students,  in  my  previous  lecture  I  discussed  about  the  PTO  driven  Tractor
+Rotavator. Now, we will talk about design of a tractor PTO Operated Rotavator. We will
+see what are the various design nuances which are important in designing PTO driven
+unit. In the market, we will find that there are various manufacturers  and they are
+manufacturing different sizes, different horse power requirement, ranges and different
+types of blades as well as the other important features of those.
+So, it is very essential as a designer you must have an idea as to how we should go about
+the design of such a rotavator.
+(Refer Slide Time: 01:05)
+Well, when you know about this design, it is very important to know how the power
+comes to this rotavator or how power is taken from the tractor for this rotavator.
+Now, let us have a look at it. See here the tractor engine is there; now, from the tractor
+engine we know that the power of the tractor engine is available at the end of the crank
+shaft. Now, after the crank shaft we have the clutch and the clutch and the flywheel; so,flywheel clutch and after that, then we will have the transmission. So, once it goes into
+the transmission, then we have certain losses at the end of the crank shaft. We get certain
+power of the tractor depending upon what is the power which the tractor has, we will get
+some losses. We have just estimated about 5 to 10 percent losses sometimes.
+Now, after this it enters into the transmission. Now, there could be various types of
+transmission depending on the tractor which is being used or if you are asked to have a
+certain type of tractor transmission which is already given to you, for example if you are
+given that 6 plus 2 gear box or 8 plus 2 gear box or 10 plus 2 gear box. So, depending
+upon that you will find in that what is the type of output that I am going to get and then,
+it comes from the transmission, it comes to the differential here. And it is well known the
+differential tasks about what it does and its importance now and how the power from this
+goes to the rear wheel, the two rear wheels.
+Now, we know that in the transmission this PTO power to the PTO goes from the lay
+shaft or the counter shaft, it is directly connected to the PTO here. Now, in some of the
+tractors, you will find ground PTO and engine PTO. Not many tractors have this thing,
+but in some of the tractors we will find like this. So, this is how PTO is available to you.
+We also know that this PTO is not only a simple PTO. There are different variations of
+this PTO may be 6 splines, 21 splines. I have explained in my earlier lecture as well and
+then, we have shown also that what RPM is. The RPM of 6 splines is about 540 RPM
+plus minus 10 and then, 21 splines where we have 1000 plus minus 20 RPM depending
+on that. Now once this PTO is to be used and moreover we have the maximum power of
+the tractor available at this PTO. Now, at this PTO, then how to take the power out?
+Because we have to utilize this power which is rotating in one plane and we want it to be
+changed to about 90 degrees or so.
+So, then we have to have some sort of an arrangement for the cutting attachment, this
+PTO to the gearbox of the rotavator. So, a rotavator is over here and then, it will have
+something like this. What is there in this gearbox? Yes, now just have a look at it. See
+the gearbox here; this is a gearbox here; in this gearbox, we have the arrangements; you
+can see a shaft over here.
+So, bevel gear here and the shaft we will say bevel gear here. So, this is the arrangement
+by which we are in a position to change the rotation of this to this about in 90 degreesand the universal shaft. Now, you might have seen in other course of study that how we
+can connect this PTO to other shafts or other units. Sometimes this is the longer unit
+which is known as a cardan shaft and this shaft has on at its two ends. There are two
+reversible couplings. Actually these couplings are known as universal hooks joint. You
+can also have a look at this at the tractor, here you can also have a look at this.
+There are various types of disks we can see. We may see this in the later slides that how
+do they look like this universal hooks joints. So, this joint has an unique advantage and
+unique formations such that even if there are certain variations in inclinations of this, it
+will take care of that. So, using this cardan shaft and the true universal hook joints on the
+two ends, this PTO is connected to the gearbox to this gearbox here and then, comes to
+the rotavator.
+Now, in the rotavator as we have shown earlier that this after this, now the power is
+available here. Now, since the power is available here, how do we get this power to
+rotate the shaft because this has to be rotated. Now, see we just told you that earlier in
+fact using a chain sprocket, you can get the shaft of the rotavator operated or you can
+have gear element or here the gear arrangement has been shown which we got side drive
+reaching for the gears. Now this and at the end of this, we will have the shaft of the rotor
+connected.
+So, the shaft of the rotor is connected over here, so that the power goes to this. That
+means, if we see from beginning that we have the tractor here, the power is available at
+the end of the crank shaft through clutch and then, enters in to the transmission from
+transmission, it goes to there is a differential, then it goes to PTO. Of course, the PTO
+goes directly from the counter shaft. It comes to PTO here and with the PTO, then we
+have the cardan shaft using the two universal hooks joints. We have connected to the
+gearbox and then, gearbox with the side gear connect to the shaft.
+So, this is the way the power flow takes from the tractor to this. So, you may, you may
+have certain losses which are taking place. We will have a look at these losses or actually
+how much is the power available because it is very important for you to know how much
+is the power available. Then only you can see a design what should be the size of the
+rotavator, how many blades will be there, what will be the width of that, what will bedesired diameter of the shaft and so on and so forth. So, it is very important to know
+about these aspects initially, right
+(Refer Slide Time: 07:57)
+.
+So, we would have now we have seen that the shaft, the rotator will have blades and
+these blades will operate now in rotary; let us have a look at it. See the rotator machine
+cutting resistance is determined by the peripheral force is K 0, which depends on many
+working parameters of the machine. Now, A here is the specific work; now, what we
+want is, we must know how much is the total quantity of work that is how much amount
+of soil volume it will handle. Because that will be the basis for actually design that is the
+load which implement or which the power source is going to handle.
+So, we must have an idea about what is the amount of work that it will handle. So, this
+specific work A is given as M times twice pi z which is already known to you. The
+number of working elements l which is also known to you, length of the soil slides which
+we have discussed in the previous classes. Then, a is the working depth and b is the
+working width mind you we are slightly very cautious, r 1 must be very cautious about the
+units which have been used here.
+Because then if you change the units or if you do not use these units, then the parameters
+which are there will have a different value. So, you must have a look at this and be
+cautious about while using this particular equations; so, this is the equation which gives
+you the value of specific work in this fashion.Now, sometimes this K x without work force, this K x, sometimes this K x is very small
+resistance of pushing force of the machine, actually resistance or pushing force of the
+machine, the component of the cutting resistance parallel to the direction of travel. Now,
+this resistance may not be to that extent sometime and that is why, it has been given a
+very small you can say that this particular factor and many a times if we ignore this part,
+then the specific work A simply comes to this value.
+Now, so at this value then has two important components. One is the static work; the
+other is dynamic work. So, these two are then added up to A is equal to A 0 plus AB. So,
+what we want to tell through this particular slide is that the amount of work which the
+rotavator will handle is very important. And it will help us in taking the total amount of
+power to be generated or power to be designed for the power source for a particular type
+of design of the rotavator.
+(Refer Slide Time: 10:59)
+.
+Now, let us go to the next part of it. Yes now we had talked of the two parts of the
+specific work, we talked of A 0 and AB. One was the static specific work; the other was
+the dynamic work. Now, what are these and how do we get these things? Actually now
+these have been worked out over series of experiments by various researchers and then,
+compiled and then, we are all over the world we are using this sort of information. So, I
+have also picked up here for your knowledge and then, kept it here. You can see thestatic specific work, sorry yes. So, static specific work here A 0 is dependent on important
+C0K 0.
+Now, what are this C 0 and K0, now this C0 and K0 you have to get from the table which
+has been prepared here. This talks of the type of the machine which is the rotavator, the
+rotary hoe or another type of plow. Now, these are standards and made worldwide; so,
+you need not bother about this, but then you must have an idea because this has been
+created for a worldwide audience for use.
+So, rotary cultivators, for all the rotary cultivators you can see that the type of knives, the
+type of knives say L type of knife or a bent one, you can see the working depth. If the
+working depth of operation of this is between 10 to 15 or 3.5 to 6 or 6 to 12 or 5 to 15,
+then length of the soil slices, we can find out the soil slices. We have already obtained
+the soil slices in our previous lecture.
+So, we know how to get those soil slices using the various parameters, the length of the
+soil size there which will have dependence on the total draft requirement or total value of
+the volume of the soil which is actually being handled by the outsource; so, this is very
+important. So if you have those values also known to you here then and in the soil, in the
+particular soil because the soil will also vary from one location to another location, the
+type of the soil.
+There are various details which are required from the soil. In fact, it is not within the
+scope of this particular lecture to talk about the different type of soils, but then as an
+engineer’s point of view; if we just talk about the tilt soil, meadow soil, tilled and
+meadow soil and this if you only take these two aspects and then go ahead, then we will
+find  that  the  values  of C 0 and  K  alpha  u.  Alpha u  is  the  dynamic  resistance  is  a
+coefficient  of dynamic  resistance  u/v  for the forward speed and u i for the rotation
+peripheral velocity of the rotor.
+So, for these two we can get where you have C 0 and C from this particular table. So,
+once you know this information with regard to this soil, the length of the slice is cut, the
+working depth and the type of blade used in the rotavator. You will be in a position to get
+what is the static specific work here using the situation and then, dynamic specific work
+also you can get from this equation. Now, this equation talks of alpha v and this alsotalks of alpha u. So, alpha v with v square which is the velocity of the forward velocity
+of the tractor and u is the peripheral velocity of the rotor.
+So, using that information we can get the value of B because it talks of the specific
+dynamic which is here, right. The length of the soil is constant; now, here this is one
+thing which needs to be looked into length of the soil is constant actually. Although it
+say it is an assumption, but many a times this may not happen. This not happen many a
+time; the soil length may vary depending upon the speed and depending upon the design
+it may vary, but we assume here, we assume that the length of soil are always constant.
+Then, the working set on the peripheral speed or on the speed of the machine travel, we
+can get this dynamic values of A B, that is the dynamic specific work.
+So, once we get the A 0, the the static one and A B the dynamic one, so we will be in a
+position to get the two details and there is also a relationship between this alpha v and
+alpha  u.  Now,  this  relationship  also  has  been  found  out  which  exist  between  the
+coefficients of the dynamic resistance between the forward speed. And this has the
+relationship until and unless we have also seen that u and v has a very close relationship
+so far as the power require is concerned, so far as the slices cut or total performance of
+the shaft is concerned, rotavator is concerned.
+So, that is why another the relationship has been found out and it is given as alpha v is
+given as alpha u times u/v whole square; kindly check that the unit should be taken care
+of properly whenever you do any problem etcetera.(Refer Slide Time: 16:31)
+Well so, if we have to design the rotavator for say for 30 hertz power tractor, so for 30
+hertz power tractor, then what are the consideration? We have already discussed all the
+details of how from engine the power will come.
+Here also in brief it is still given from engine to transmission. We expect that there will
+be some losses of power or let us say about 10 percent loss of power from transmission;
+it comes to PTO where we are expecting another 10 percent. So, may be about 80, 85 or
+90 percent power is available with the PTO. From this power we need to take the
+maximum power to this rotor and that is why it is very important that you should design
+in such a way that the rotavator is matching the power. 
+Of course, there should be certain buffer of the power source because of taking care of
+some of the eventualities or some of the obstacles which may come in the operation. So,
+for that we must have a slightly safety factor as well, but then it must match as much
+possible to the power source requirement, so that we can say that it is a good matching
+implement to the power source and that is what is the crux of this particular design as
+well.
+So, let us see there is a mistake. Here it should be actually brake power, brake horse
+power; say 30 horse power. So, the power available at the PTO, now power available at
+the PTO is varying from about we have taken 87. It can vary from some other from 86 to
+about 90 percent or so. So, about 85 to 90 percent power is available at the PTO whichwe have. I have also earlier told you that this is the location or the power out where we
+get maximum power from the tractor.
+So, we have taken about 0.87 percent of that. So, we get about 26.1 horse power; now
+this horse power so, 20 percent loss through the transmission, we assume that let there
+will be 20 percent just slightly higher we have taken. And in fact, these we will go for
+taking of the factor of safety that we are keeping so far as the unseen unforcing situations
+when the implement is operating in the field may come through. So, for that let us say
+about 20 percent loss.
+So, therefore the power available at the shaft is about this 80 percent of this. So, about
+15.6 kilowatt is the power which is available at the shaft at the rotor. Now, if this is the
+power, it will be utilized by the rotor. what should be the other details? So, for example,
+let us consider the forward speed of the tractor. Now, the forward speed of the tractor has
+a greater bearing on the rotation speed of the rotor of the rotavator because we have
+talked of u/v ratios. So, u/v varying from 2.5 to 5 or so; so, we need to look into this; so,
+we can think of a value here about 2.5 to 5 and hence, u/v has to be considered over here.
+Now, one consideration in the speed of the tractor we know that these tractor particularly
+for first ploughing or even for second ploughing, we do not go speeds which are very
+high speeds because the condition of the soil is not well known and hence, we go about 3
+to 3.5 kilometers an hour or so. So varying from as low as 2.5 kilometer to as high as
+about 4 kilometer and some of the high horse power factors.
+So, we will take about say 3 kilometers per hour here. Now, 3 kilometer per hour here is
+the forward speed that is V. So, if we consider u/v ratio anywhere between 2.5 to 5 and
+let us say it is 5, then we are getting the rotator speed to be 4.17 meter per second here.
+Then, we know what we know here that twice pi; in fact, this should be pi here. So, if I
+write this 2ᴨNR/60, where R is the radius of the shaft, we can see here that. So, if we
+take this, this is the radius over here. So, we can say that the rotor speed, well this should
+also be in the lower case, but does not matter.
+So, this is now from here we can get what is the RPM of the rotor So, we get the RPM of
+the rotor about to 160 revolutions per minute. Now, power K 0 into 2ᴨNR/60, this K 0 is
+this value because K 0 into 2ᴨNR/60 is this. So, you can get what is the value of K 0. It
+should be the peripheral force constant at a constant arm length of R at this point whatwill be the valur here K 0 because this is the one where we need to know as to what will
+be the forces which will be entering into, will be encountered by the blade over there. 
+There will be torsional forces, there will be bending forces so those will have to be found
+out in order to actually design and say that the design is safe and the rotor is designed,
+rotor of it is designed. Let us go to the next slide.
+(Refer Slide Time: 22:33)
+Yes. So, if you take up the specific work, A is equal to A 0 plus AB, specific work. So, we
+need to know about what are the details of this one which I have explained earlier also
+that you must know what is the total specific work? Because that becomes the basis for
+your design. 
+How much is the volume of soil? The rotavator will be handling the blades and then,
+only we can think of the power source; so, it is very important to know about this part.
+So, A to A0, this is over here where A 0 is as per its values are already given here, where
+C0 is 2.5 to 5, Ki  is this. These are the constants or these are the values which we take
+from the table or available all literature and from there we need to use these values.
+So, A0  and AB now these value A becomes to be this here and A 0 comes to be this. So,
+total A which is the total specific work comes out to be 1.1 for 4 kg per centimeter
+square. Now, this is the value which has been theoretically found out. Now, one may
+cause because this is the value which has been found out; at some point or the other wehave to have some factor of safety. And that factor of safety has to be taken into
+consideration either at this stage or at some other location. Let us see where we should
+come for this.
+So, moment acting M, so what is the moment? Now, we can know here that moment is
+this. This is the detail of the moment because it will talk of the specific work, then it we
+will talk of the number of blades etcetera , z was the number of blade on one plane and l
+is the bite length, a is the depth of operation and bm is the total width of the machine.
+So, if we talk of the total moment here, the moment acting upon M is this. Now, we
+know that. So, we know that l is v/u is equal to this. M is K 0 into R. So, putting value and
+solving the above equation, we get width of the rotor here, sorry width of rotor total
+width of the machine as this here; a o, this is the total width of the machine.
+Now, once we get the width of the machine, we know now this should be the maximum
+width of the machine for 30 horse power tractor. Now, depends on whether we actually
+take 1.63 or we should take slightly lesser or we can still take care may be 1.7 meter or
+so. So, this is the consolation which a designer has to look into depending upon this
+power source, ok. Let us go ahead.
+(Refer Slide Time: 25:47)
+.
+So, the number of disks, then once we know we would like to find out the number of
+disks and width of the machine is known to us here. Then, in between if we have toassume certain things, we would like to assume what is the space, how much space you
+would like to leave between the disks which the blades are fitted on to the tar on to the
+rotor.
+Now, we would like that this has also a consideration with regard to the total length of
+this particular blade. For example, this is the blade here; it has something to do with this
+also  this  length  because  then  only  you  should  see  that  the  next  one  comes  from
+somewhere there. So, therefore these considerations let us say 8 is about 20 centimeters. 
+So, if this is 20 centimeters, so the number of disks on this shaft will be about number
+will be 8; 8.16; we can take comfortably 8. Now, number of blades, how do you fix the
+number of blades? Generally what has happened is that on the disks which are there if
+you find one joints which are there many a times on the two ends, we keep only two
+blades and in between there are four blades are kept into the other ones.
+So, keeping that into view, we can have a look at this. Let out of the eight disk, the two
+disk will have 2 each and the 6 disc will have 4 each. So that way 2 into 2, 4 and 6 into 4,
+24; so, that is 28. So, total number of blades will be 28. So, now each disks consist of 4
+blades, but other as it has been said by here right the arrangement of the blades on the
+disk at an angular interval, this is very important that what angular position you are
+going to put this will be about 12.85. It has been found out because we know that how
+many are there and what is the, how many are there in a plane and then, for 360 degrees
+what will be there?
+Now, this orientation is very important at what? This will talk of actually the angle at
+which if you talk this is from the center; so, we are talking of this angle. So, what is this
+angle? This angle is about 12.85 because then it will talk of this value which is for R
+theta. So, this distance, this theta is this distance where R is known to us. This is shaft
+radius, radius of the shaft of shaft and theta is this angle. So, we will know as to which
+location the blades are fitted.(Refer Slide Time: 28:42)
+Now, then the blade design is very important. Blade design you see here that the front
+view and the side view of the blade designs are given, we know that on these blades
+definitely there will be bending stresses and torsional stresses which will come on that
+because when they handle so much of soil with their depth and their width of cut.
+So, we will consider these two aspects; the bending stresses and so, force acting on one
+blade K0 is this, where we can consider the details of these are the general details of
+thickness of the blade, width of the blade etcetera as it has been shown here. We will we
+will go ahead yes.(Refer Slide Time: 29:32)
+So, we can get the bending. We have got already the bending stress; now, we will get the
+torsional stress here and from standard design, sub design formulae, we know that the
+equivalent stress is given as this. So, once we know the equivalent stress, we should be in
+a position to find out what is the width of the blade or as we do in case of all the shaft
+design etcetera.
+So, here in case of this case say for a high carbon steel, we have taken a value of 1080 kg
+per centimeter square for the equivalent stress. And then, once you use this value in this
+where the other values of this and these are known, then you can get the value of width
+of the blade as 5.82 centimeter. One can take the blade to be 5.82 may be about 6
+centimeter blade one can take and then, the thickness of the blade can be found out from
+a receive of the blade . So, you can take this and b comes to be 0.971 centimeter, may be
+about 1 centimeter or so can be taken comfortably.(Refer Slide Time: 30:55)
+So, if you conclude then that what we have designed and we need for 30 hertz per
+tractor. These are the details of the design of a rotavator, PTO driven rotavator. Now, this
+design can be utilized for other horse power and depending upon what type of rotavator
+you want, what design of the blade you want, what type of soil you have, all this
+considerations you need to look into for the design of the rotavator.
+Well, you can have a look at this. The total power is about 15.6 kilo Watt, specific work
+done in about this, then the total width of the machine is 1.63 meter, number of disks 8
+here and the total width of the dimensions of the blades are right here; these are the
+dimensions of the blade.
+So, I think through this we have explained as to how you can design a rotavator. Now, it
+is up to you to think of the change in the material depending on the type of the soil that
+you have used. And the horse power of the tractor that you have and the conditions in
+which it is to be used etcetera etcetera and for the purpose for which it has to be used.
+It is only used for mulching operation, then, you can think of something else. If you think
+of no only tilling operation and preparing the field, you can think of a different design
+and so on and so forth. I hope that you have been in a position to understand what I
+wanted to mean by design of a rotavator. We will look forward to your questions and
+queries in the later course of time.Thank you.

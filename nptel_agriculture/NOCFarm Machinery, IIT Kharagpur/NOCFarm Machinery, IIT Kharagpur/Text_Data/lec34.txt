@@ -1,0 +1,302 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Architectural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 34
+Advanced Level Machinery for Inter and Intra Row Weeding
+Well, welcome students to this lecture 34 on Advanced Level Machinery for Inter and
+Intra Row Weeding. Well, I would like to tell you, why, we have given this name,
+because as you have seen that in previous lectures we have already discussed about the
+different types of intercultural operation equipment. You have seen that this is one of the
+operation, which is very much time consuming. At the same time it takes about 25 to 30
+percent of the total energy, and the cost involved in total production input for the for a
+particular crop depending upon the level of infestation. Sometimes it has been found that
+as low as 300 man hours to about 1200 man hours per hectare is required for weeding
+and that is why there are various methods employed over the period we have discussed
+these methods.
+Now, we are coming to a level where we are talking of advanced level, because you have
+seen that the weeds are all over in the fields. In the in between the rows as well as the in
+between the two plants as well which we call as intra row weeds. Now, generally it has
+been found that about 80 percent of the weeds are there in the inter row weeds that
+means, between the rows. And about 20 to 25 percent weeds are there intra row, which
+we call between the plants in the row itself.
+And just, in order to I mean minimize the cost of a weeding as I told, which is very high
+that is why generally we do not go for it until unless the field is very small or we are
+talking of vegetable crops a small plots vegetable crops and human being can take out
+those small weeds which are there in between the rows and which are very close to the
+plants.
+So, this is not generally done, but then once you are thinking of taking every weed out of
+this, because these they take the nutrients, they are competing with the crop for the
+nutrients. So, we would like that this should not happen and every nutrient, which is
+available in the soil should go to the plant and so that the plant will be stronger. So, itwill have a better vigor and then yield into better grain etcetera and that is why, we
+would like to create.
+So, the present a machinery, which we have developed at IIT, Kharagpur does talk of
+taking and cleaning weeds between in between the rows and in a in the in the rows as
+well, now between the plants, so that we get about 99 percent cleaning of the weeds. And
+one must know, that these weeds we are not we are not growing. In fact, when we plow
+the field and when we have the seeds sown, we do not sow the weeds, but then the weeds
+grow on their own, because they have affinity for a particular crop.
+You might have also seen that in one crop one type of weeds grows and in another crop
+another type of weed grows, because these weeds have some affinity with a particular
+type of crop and that is why, they grow in those crops/. And if you want to sow the weed
+seeds, it is very difficult, in fact, we had done in one case and we wanted to sow a
+different types of weeds and to our surprise that it was not um, in fact though that much
+of growth, which we wanted to have.
+So, it is surprising that when we are not sowing them, they grow in large number. And
+when we want to sow them particularly for some study, we wanted then we did not get
+that. So, in order this is a becomes, in fact in all sorts of crops and whether we are talking
+of a lowland crop or for a upland crop and they take a lot of energy as I said. And
+therefore, the advanced level of technology is used for cleaning up the weeds in between
+the rows as well as the, in between the plants as well and that is how we are talking of
+the advanced level machinery for inter and intra row weed; intra row is that between the
+plant to plant in a particular row. Let us, have a look at this and see what are the
+machines and how they come forward.
+(Refer Slide Time: 04:46)Well, for this we have seen the mechanical and manual methods also we have talked of
+other methods like biological methods and then flame weeding etcetera different types,
+which  have  been  employed  we  have  seen  those  things.  Now,  we  are  talking  of  a
+combination of technology available. We know the mechanical means and then we are
+talking  of  using  mechanical  electronics  and  computers  and  as  well  as  other
+communication and other high technology tool. In order that our machines should be in a
+position to locate all the weeds, which are a inter row and intra row. And it should be
+able to clean this.
+So, we can see that this technology particular technology of inter, intra row advanced
+level uses mechatronics, here which is nothing but it is an interdisciplinary one which is
+a  combination  of  mechanical  engineering,  electronics  computers  and  several  others
+control engineering depending upon the level of mechanization we have.
+Well, we definitely keep in mind that this particular equipment will be a slightly costly
+one, but then if you think of a tradeoff and when large number of with such machines
+will  be produced,  then the  cost will  come  down even  the input.  And in when the
+components, which are there will also be cheaper at that time, but then it is worth going
+for such a machines. See what are the advantage of certain rows see reduces labour
+requirement it is definitely true as I said earlier the labor requirement is quite high.
+So, labor reduces labor requirement and then human treasury you have seen that how
+these operations are like a manually done in the in my earlier lectures. And therefore, thedrudgery is definitely reduced, because this is automatic one. This will be behind the
+tractor, then reduce the time and cost of operation. Yes, it will also reduce the cost of
+operation. Reduces yield loss and improve quality sure when the losses will be reduced
+because the nutrients which the weeds were taking so far so long.
+Now, though it will be utilized by the plant and hence you will have a stronger better
+crop a stronger vigor of the plant as well as you get better and stronger grades. And
+hence, the quality of the grain will be better. Now, just see what we have meant as I said
+you can see, but in between that means, see this is what we is what we are talking of
+between the rows, these talking between the rows, this is between the rows and these are
+in between the rows.
+You can see that this between this and this, this is what it is, so this is what we call as a
+inter row and intra row weeding. We would like to clean this and the mechanism or the
+technology, which we want to use here is mechatronics that means, use of mechanical
+engineering,  mechanical  principles  and  electronics  and  control  systems  engineering
+principles clubbed together and marriage together to get this a type of a weeding device.
+z
+How does it work? How does this work, I am trying to give you the basic principles of a
+operation of such a device working of control system. What are the systems here in this?
+You see the ultrasonic sensor, a microcontroller and a motor drive. Here, here is your
+ultrasonic sensor; here is your ultrasonic sensor, then this is your microcontroller and
+then this is the motor drive and this is the dc motor here.So, you can see here that in this particular device we are talking of cleaning the row as I
+said earlier. We are talking of cleaning the weeds in between this location. And then
+whatever is weeds here, you can see that this row and this row these are the weeds these
+are the weeds here. So, they will be killed. And then the weeds, which are in between say
+like this is if I call this as a weed, this as a weed, so cleaning of this. So, the working how
+the system is that we are taking image of the weeds.
+See, the idea is that what we do ultrasonic sensor this, it will sense that there is a weed in
+whether it is inside in between the plants or between the rows. So, it will sense, then it
+will send it to micro controller. And then it will give to the motor drive and then this
+motor  drive  will  operate  this  particular  small  linkage  mechanism,  which  has  been
+introduced here. The  mechanical linkage has been coupled in such a way that you have a
+motor which will drive on the basis of what the compute the micro control a devices is.
+Once the ultrasonic sensor has detected that there is a crop here.
+Now, it is a question that how much is the crop and what is the extent of it that remains
+another question to be answered, but then the moment it identifies that, there are green or
+there are certain types of grasses, it will identify and do the job. So, the concept is first
+identify, then process in the micro controller and then it will go to the motor drive, which
+will drive the linkage through which the cutter which is moving in between the rows or
+within the rows, it will work. So, this is how the whole system is designed.
+Well, ultrasonic sensor based rotary hoe crank mechanism for intra row weeding. Now,
+we have seen in the earlier one that how this ultrasonic sensor is breaking, then it goes to
+microcontroller after that they drive and then ultimately the mechanism will be operated.
+Here, we have shown you the same concept here. Say for example, you can see the
+ultrasonic sensor here, then it goes to the microcontroller, then the motor drive, then the
+crank. Now, this is the linkage actuation and this will rotate the rotary hoe.
+So, you have seen that the arrangement is this is the concept, which has been used. As if
+a person when he sees the weeds, he would see the weed the location and then try to take
+out the weeds either by small device as you have seen in earlier lectures or by manually.
+So, the same concept I am utilized with the technology, which is going to give us a
+higher output and work output in this case. You can see here, some of the items, which
+are indicated here is the rotary weeder. One is rotary weeder, two is cranking mechanism
+here, these are given inside this here, then ultrasonic sensor and then, fourth is PMW DC
+motor and five is the control unit.
+Now, these are given here in this particular arrangement. This is the arrangement where
+all these are shown here. You can see these that the rotary weeder is the one which is in
+this case here, then the cranking mechanism while the cranking mechanism is connected
+one is here, which you can see in this case over here. Then third is the ultrasonic sensor,
+this sensor which is over here in this case the sensor is going upead and it will be
+checking that. Then fourth is, PMW DC motor this is the motor over here.
+So, this motor wheel will be will be in a position to operate this. This is a motor, which
+will try to operate this and then the control unit, of course you have the control unit,
+which is there at the top of this. So, you have these unit this is the system, which is
+basically a working in this particular device.
+(Refer Slide Time: 12:55)Now, what are more details we would like to give you some more details about this
+particular system? See the what are those. Now, let me tell you that, since IPR is a point
+which is of concern in this particular device which we have developed at IIT Kharagpur.
+Therefore, we will not be in a position to give you more details except that, we will let
+you know that yes, yes. A device like this has been developed and it is working there
+more details or details of this and the circuit etcetera. We are showing you, but then all
+details of the circuits have for IPR reasons we have not given. Although it appears that
+everything is very clear here, for the viewers to have a look at it.
+So, let us see what are the things which are here you can see the ultrasonic sensor here.
+So, this is the sensor here which will have a look at the weeds. If you look at the weeds
+and see what is the level of extremes extends extensive or intensive the amount and the
+spread of the weeds it will see. Then, the micro controller it will take care of all the
+information that he has got from there. It will try to process the information, because we
+have put certain information which we which will be required only for those weeds and
+the features of those weeds will be taken care of in this processing.
+Then, the a DC motor the pulse width modulated DC motor, because then this way more
+motor will start giving the action, which is which is required for us. And the motor drive
+this is the drive for the motor which is electronic drive. And the circuit is given shown
+here. All the details of the circuit is shown in this case, here for you to know as a
+knowledge which we want to give you as an engineer, that such a system involves all
+these things. And therefore, if you are going to design one, you would require such itemswell. What we have done here the specification may not be told to you, but then you
+could be in a position to get such units. And then try to make a new unit of this or try to a
+design completely different system, but then these will be required.
+Performance curves of draft force for inter intra row weeding unit. Now, since we have
+done this system we have also found out what is the draft force required, because how
+much is the force required, etcetera. We must measure and then only we will be in a
+position to see whether the system or the linkages which we have designed or within the
+capacity or not or within the strength or not they may break in the actual situation, when
+we go. That is why, we have done this in the laboratory conditions and we are in a
+position to measure that.
+So, the see maximum draft force encounter or intra row weeding unit was 250 Newton’s.
+And in case of the every and average draft was 150 Newton’s, so the soil bin test yes.
+These tests are generally done in soil bin, because there we are in a position to control
+this control the type of vegetation we want, a type of soil we want in this soil bin. And
+that is why, these tests are done in the soil bin to measure that well.
+I do admit that there will be difference, when it goes to the field conditions, we have
+tested field condition, which you will see here, but then they have the ideal condition,
+which we try to create in this soil bin. We are in a position to control that and that is why
+we have found out. So, the link force, so there are two links. So, link force 1 is here and
+the link force 2 is shown here, I mean the real time graph, this is the real time graph here.So, for a time window of 10 seconds, we are in position to show you. These variations of
+the values and we are in position to measure this. Now, this is this is given in kg’s here
+and we are just telling you there, this is in a Newton. So, please do not think that the
+values are here. Here we are talking of kg, but we are we have given in Newton that is
+why is say 25 kg here and 15 kg here. So, you can see that these varying from -10 to 50
+and this is 0 -30. So, depending upon where is the situation, how the force is measured.
+So, we have measured this with all the instrumentation, which is possible in the soil bin.
+I will show you, this soil bin in which we have done that. 
+There are lateral shifting force and torque load while actuation now, this is this is also
+very important. You must know, what is the performance of the lateral force and the
+torque for intra row weeding because laterally the linkage has to move. So, what is the
+force required for movement of that and then what is the torque required for rotation of
+this, in when we are trying to take the in the soil bin.
+The weeds trying to clear the weeds, it will require the forces in the lateral direction as
+well as the torque on this. So, what are these values, we have used in them also and then
+found out those values. So, let us have a look at these see the maximum lateral shifting
+force was 90 Newton’s in this soil bin. You can see your lateral shifting force here, we
+are talking of the kg over here and then Newton’s here. So, units are kg here that means,
+this should be just ten multiplied by 10 roughly.So, you can say that 90 Newton means 9 about 9 kg or so. Lateral shifting force and
+average, lateral shifting force in the soil bin. And maximum torque encounter it intra-row
+weeding unit was this maximum torque, because then it is when it goes to intra-row
+weeding that means, within the row within a particular row there and there is a torque
+required, so that value of torque has been also found here.
+You can see the torque while in actuation. So, we can measure that this value is about 0.9
+Newton meter. So, these information’s are essential for design. And it is only possible if
+you have whole instrumentation prepared and control the soil and the vegetation, which
+we want in a particular field and that is possible only in soil bin and that has been, we
+have a see variety of a bin in IIT, Kharagpur. And there, we have done this we will show
+you this in the next slide. 
+(Refer Slide Time: 20:07)
+Well, this is the some fabrication details you must see how these details work and what
+they are so for that you would like to show you. Here the you can see the auto CAD
+design of what we are having these are the cutters, which are there. These are the
+dimensions of the cutter were there. And you can see here the machine, which is there in
+the bin the machine, which has been shown in the bin. What are the details you can see
+the load cell 1 and 2 for draft force. You can see we have put here load cells 1 and 2 for
+the  draft  force  measurement;  for  there  is  a  torque  transducer  at  this  location,  for
+measurement of the torque which will be required.Then the vertical axis rotary weeder; this is the vertical axis rotary weeder, which will be
+there. Now, the inter-row weeding hoe specifications inter-row that means, between the
+row what are the specifications, which we have got. This is the beam; in fact I will show
+you in bin more details of the bin slightly later. But, then what are the rather details you
+could see that diameter is about 350 mm, blade length is 105 mm, blade offset angle with
+direction of travel is about 45 degree, number of blades per hoe are 9.
+So, these are the details of the blades, which we have actually fabricated and the tested in
+the soil bin, so we wanted these 9. You can see that you know these are there inside here
+1, 2, 3, 4, 5, 6, 7, 8, 9. So, you can see that this is 9th one and this is 1 hoe and the details
+of the dimensions are given over here. So, this is about the inter-row weeding operation,
+details of the system, which is there well.
+(Refer Slide Time: 21:53)
+We have not satisfied only with that we just wanted to simulate the inter-row weeder hoe
+from the point of a strength and that is a Absqus software using a Absqus software, we
+have simulated the weeders the system, which we had designed. In order to find out,
+what are the stresses, which are coming on to these, what forces are there and how we
+can minimize, what sort of material we need to have, so that it can sustain over the
+period of time, when it goes in the field.
+And it will have certain level of life as well, it should not just go away after 200 hours or
+so. At least, it should have 500 to 700 hours of operation, when they these are to bereplaced etcetera. And that is why, we wanted to test and you can see here the details of
+what are the different details of these software’s all the details, which are given over
+here. You can see the different conditions, where we can show you that, what are the
+details here what are the details. And how the forces are there, what are the stresses you
+can see here through this we are showing, what are the stresses you can see over here.
+These, so these they have put, we have tried to put all them here only to show you that
+we have done, these things this simulation. And the simulation helps us in understanding
+which are the weak points. And what sort of welding, if there is any what sort of
+materials should be there and what should be thickness of the blade etcetera of the
+components. So, for that we have used this simulation and try to do that.
+(Refer Slide Time: 23:37)
+Well now, we have discussed both of these so much. And then, you can see that the
+details are there, as I showed you that there is a soil bin and the soil bin how do we
+operate. So, I would like to show you a short video of this, so that you can have a look at
+what it is in the soil bin. First let me, tell you that the details are already given here about
+the  PMDC  motor,  the  cracking  mechanism,  ultrasonic  sensor,  rotary  hoe  removing
+weeds and proximity switch, then the circuit control of the units, all the details are over
+here. And you can see that the wires etcetera.(Refer Slide Time: 24:26)
+Now, let us have a look at the video, which is yes.
+(Refer Slide Time: 24:32)
+Now, this is the this is the 80 feet bin, you can see that this bin is prepared.We wanted to show you, how we prepare this and what sort of soil you can have, you are
+also measuring the strength of the soil.
+(Refer Slide Time: 25:10)
+Now, these are simulated weed, which are kept and you can see that how the system
+intra-row weeding is going on. You can have a look at this intra row-weeding. So, the
+whole arrangement and it works very well in the field conditions also. So, this has in fact
+so this you can see, it has an arrangement by which we are in a position to show all these
+details. And even at different speeds, we have tried to show you that even when the
+tractor is moving at a high speed also, you can see that these works. So, the arrangement
+what we want to show you here is that the system has worked very well in the soil binand it is expected to definitely do wherein the field as well. We have tested in the field
+also.
+The other I will show you, which has been operated in the field, I will show you here, but
+before that let me show you that see these are the these are the ones, which are there in
+the for intra-row. And these are the ones, which are there for the inter-rows, this is for
+the intra row. So, you can see here that we have the three rows here and then in between
+we have the intra-row weeders.
+Now, we will see also the operation of this in the actual field condition. Details are given
+here that the universal coupling is used, you can see the universal coupling is used at this
+location here, this universal coupling. Input gearbox for PTO gear you can see here, this
+is the bigger box one, which is there. Then the 3rd, inter-row weeding unit, I have shown
+you already. The gauge wheel, the gauge wheel is here, because it will try to maintain the
+depth of operation. Then intra-row weeding unit, intra-row to the crank, rotary weeding
+hoe with blades seven these, which are given here. So, these are the details of this. 
+(Refer Slide Time: 27:10)
+Now, I will show you how this works actually in the field condition, we have tested in
+the field condition, you may you may see that the weeds are not so much, but then we
+have created this to show you that how in the field condition it will have. And large
+number of weeds are there, it will definitely, you will be able to understand what it is. (Refer Slide Time: 27:31)
+Well we have measured the performance of these unit, which has been developed at a
+IIT, Kharagpur. And we claim that this unit is going to be a boon for the complete
+cleaning of dry land, crops from the weeds. And some preliminary information, we
+would like to show you, we have been testing this for a long time and still it is going on,
+but some information, which I want to show you here is the performance, which we have
+developed, you can see that the damage.
+Now, the level of damage which is which is there with the plants is about not more than
+12 percent we can see here that 12 percent is the maximum damage you can see. At a
+spacing of 40 centimeter, when the spacing is 40 centimeter damage is slightly higher.
+And weeding efficiency we these one beauty is that no nowhere, you get the weeding
+efficiency in any of the equipment more than 75 percent, until unless you go for manual
+weeding.
+So, if you go for manual weeding, you will have something of the order of 99 %, because
+the manually a person, if he has a kitchen garden or he has a small plot of vegetables
+etcetera, he would like to clean each and every weed from there. So, it can go up to 100
+percent, which is slightly non-realistic, but then he claims that yes it is. But, otherwise all
+mechanical weeding etcetera, they cannot go more than  70 to 75 percent only.
+But, in this case may vary we are having rows inter and intra row. It is going to as high
+as about 94.4 or so when the spacing is slightly higher. Yes, we are talking a higherspacing, because in the higher spacing rows you can use it where the particularly for
+orchard crops and all that. And it will be one, which will give you a better performance.
+So, we have discussed today about the inter and intra row weeder, which is an advanced
+one and which is going to give the farmer another alternative for doing things faster. I
+think, if you have any questions for the later, you can ask me.
+Thank you.

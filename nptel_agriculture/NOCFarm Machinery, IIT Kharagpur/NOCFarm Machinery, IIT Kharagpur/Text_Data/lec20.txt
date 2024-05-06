@@ -1,0 +1,340 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 20
+Embedded GPS integrated Variable Rate Fertilizer Applicator
+Welcome  students to my 20th lecture  in the series  of this NPTEL course on Farm
+Machinery. Well this is entitled as Embedded GPS integrated Variable Rate Fertilizer
+Applicator. Well before I say get into details of this, I must tell you that we had also
+discussed of the GPS DGPS integrated Variable Rate Fertilizer Applicator. Where in,
+actually we wanted to tell you as to how we should be in a position to identify what is the
+amount of nitrogen which is already present in the soil at any particular point of time.
+ It could be because of the previous crop there could be nitrogen fixation because of the
+previous crop if it is in leguminous crop all because of the residual amount which has
+been applied in the previous year or years like that. So, we wanted to have a precise
+amount of this fertilizer particularly urea, particularly this we wanted to give with respect
+to nitrogen application.
+So, we wanted to check how much is there in the plot, in the given plot and what should
+be applied now this will be also varying from location to location in a plot and that is
+why we had discussed in my previous lecture that we would like to a follow procedure of
+finding out what is the amount which is already present. Now there are two ways I had
+told earlier one is a sensor based approach direct online, the other is map based approach.
+So, we discussed about to map based approach because sensor based approach so far we
+have not been in a position to design that or developed that.
+All though people in other locations  are trying we are also trying, but we have not yet as
+successful. So, we are not in a position to talk about that , but definitely this map based
+approach we say which people have tried at different locations. We have tried at IIT
+Kharagpur also and we have been grated amount of success in this. So, in the map based
+approach we said that we would like to have an information about the condition of the
+soil of a particular field, where in we want to apply the amount of nitrogen through urea.So,  we had  as  discussed earlier  we  had  taken  samples  soil  samples,  real  soil,  soil
+samples, from the field large number of samples then we identify the various constituents
+of this NPK. We mostly talked of n, but we definitely found out also P and K of the
+location and then we you might have; if you see my previous lecture you will also see
+that I can graded that in each of the grids.
+What was the amount of nitrogen present at those locations and corresponding how much
+of urea was present over there. So, in the embedded and their we got a certain type of
+machine wherein we had the GPS which was rover GPS which were there on the tractor
+itself. There was another which was there at the base and the system which was there
+which was connecting the fertilizer application system.
+Now, since the cost involved in all these was quite high we wanted to think of further
+innovation in this and with the help of our friends and with help of our knowledge we
+rate more about electronics and we thought of having introduction of embedded systems
+and then we have modified the same units. So, I would today I will discuss about that
+where is the modification and how far this modification has been in a position to give
+you a cheaper unit.
+Because, ultimately we must produce units which are cheaper and which we are in
+position to produce at our location or in our country so, that we do not have to barrow
+from anywhere else and we should be in a position to produce large number too, in fact
+export and give it to other people. So, in this context this lecture has been prepared. So,
+let us go one by one; well what is this embedded system you would ask me.(Refer Slide Time: 04:31)
+Now, look as an electronics engineer many things are needed, but as an agricultural
+engineer I went into finding out what are the things which are the basic importance to an
+agricultural engineer to understand. We may not be in a position to know the much
+details of the electronic hardware etcetera, but definitely will have some idea about what
+it is and what is its job. So, embedded system is a computer system with a dedicated
+function within the larger mechanical or electrical system often with real time computing
+constraints.
+Now, it is all the detail. Now why we are having I am saying also and I have written here
+so that when you see the lecture at any point of time; you can come back and have this
+definitions known. But then I have written here for your benefit so, that you we can
+follow and have a dialog here for this lecture today. Embedded is complete device often
+including hardware and mechanical parts as a part of a complete device; what are the
+components of this embedded system well what are the hardware well you might have
+heard of these. It is at our level it is very essential to know this part we have we should
+have our other colleagues who could help us in finding out the details of electronics per
+it.
+But then definitely we must have some idea when we are thinking of designing such a
+system, when we are thinking of agro electronics and when we are thinking of internet of
+things into agricultural application definitely we will have to have some idea about this.So, the hardware consist the processor, the timer, port, memories, input-output devices,
+sensors. Main application software we do need to you will have to have the software
+created for the job that you want to be done by this, it could be to form the series of task
+or multiple tasks depending upon what you want.
+So, this the component of application software real time operating system. Now this real
+time  operating  system  defines  the  way the  system  works  and supervise  the system
+software, it will supervise the system that whether everything is going on in proper way
+or not. Now, if you see the figure which I have given on this site the whole details are
+given over here. Now, you can see the software is the base which will. In fact, do the job
+the work the single task or multitask that you want it will do the job. So, it is there in the
+centre, the embedded computer that we are calling off hardware and link to other systems
+we will definitely link to other systems which will ask it to do the job, but then there are
+certain inputs.
+So, we will have certain input variables to the system and there will be definitely certain
+output variables which will come out of this and hence there will be user interface. This
+user interface will help us that what sort of data, what sort of parameters, which need to
+be embedded into this apart from the input variables how do you get.
+So, this is what we talk about the embedded system as such if you want to know more
+and more details of this when you can open any electronics book and you can have about
+these details, but what is important from an agricultural engineer’s point of view is to
+understand the application part of it. We are more concern about application their better
+hardware engineers.
+But then what we are concerned is how that knowledge can be introduced into our
+application which will give us a precise application of this; precise application of the
+item which I want to do precise time and the operation at which I want to do. (Refer Slide Time: 08:29)
+Application of embedded system in agriculture well this is a worth giving you because
+then as an agricultural engineer as a or a designer you, you may not be a formation
+engineer you could be dealing with my be soil water you may be dealing with some other
+machines and things like that. So, the use of this all the applications this system is
+enormous just jotted down into these details, but then details if you go into details of
+each and every aspect you will find that it application is enormous.
+The water management, yes we would like to manage water we know that water is a
+scarce commodity day by day we are losing water. So, how best we can manage water?
+How  you  can  utilise  embedded  system  to  manage  water  at  location?  What  is  the
+available water at that location? What is the amount of water available at certain depth of
+the aquifer and what is the catchment area? How do you manage? What sort of GPS
+location we have? How do you manage that?
+So, you require application of this embedded system there as well. Then soil monitoring,
+soil monitoring sensors we need to know about the soil moisture content we would like
+to know, they contain nutrients contains of the soil these are important we things which
+we will have to have and for that because this soil is there at various locations.
+And then from satellite we have information about every field at various locations. We
+would like to know what is the soil type? What is constituents? What are the other details
+of this, so that we will know what is sort of crop can be grown, what will happen if themoisture is high? What will happen if the moisture is less? What sort of equipment can
+be employed onto operation for doing particular field operation? Things like that these
+are essential.
+The drones for field monitoring, now embedded system can also be there on that because
+when we have a drone, need not to say that drone is now everybody knows for the
+various applications of taking photographs and then finding out the diseases we are also
+working on various aspects of utilisation of drones identifying things. Now I saw in one
+WhatsApp videos that people are also using this for transporting or supplying food
+materials or the food Tiffin etcetera several aspects of this.
+So, here also you can utilise this embedded system you can write a software which talk
+of what to do and where to do accordingly this drone which is nothing, but also a robot
+form of a robot which will do and do their job. Then machines for rooting operations,
+what are the various machines the infrastructure requirement the road making or the
+earth moving machinery etcetera.
+You can have the embedded system which will minimise the cost of various other
+application other items or components which will be there in the whole gemmate of the
+system. That is why we say that embedded system if help is taken then it will be cheaper
+system as compared to any another system. So, I wanted to show you that what are the
+various major applications of embedded system if you go into details of each one of them
+you will find much more details. (Refer Slide Time: 12:02)
+Well it is important because I said in the beginning that we had discussed about the
+differential GPS based variable rate fertilizer applicator application system earlier, you
+may mark that this is system which is an IPR and it is developed at IIT K haragpur. So,
+the this is important here; now this system has been developed we wanted as you as I
+discussed initially that we wanted to make unity will cheaper. Because ultimately our
+aim is to make it simpler cheaper machines compatible and then this can be used by the
+farmers can be purchased by the farmers and hence we want we went into the embedded
+system.
+So, when we have an embedded system what are the things that we get what are the
+things we add what are  the things we delete from the total components. Let me go to the
+next slide first then I will come back to this slide.(Refer Slide Time: 13:12)
+Now, if you see this particular slide here the with the VRFA system earlier system here
+is the earlier system. This is a earlier system here, where we had the satellite information
+from here this is the rover GPS, then this is the base GPS, at the base of the location
+where we are doing this and this is the system which is there, this system is there
+connected with the fertilizer applicator system.
+You can see here the furrows and all that is connected to three point linkage here of the
+tractor. Now you see this was the system and I would like to draw your attention towards
+what was there in that system, well just see on the other side here that GPS rover, then
+GPS base which are these two here.
+Then the computer which was there. So, you have certain cost for the computer, then
+microcontroller, then the DC actuator motor, because this DC actuator motor will now
+then do the job of changing the location and the exposure of the fluted role in into this
+system, the rake and pinion arrangement; well the rake and pinion, feed shaft with fluted
+roller.
+Now, here when we talk of this we must see the ground wheel because we have taken
+power from the ground wheel. So, when we take power from the grounds seed fertilizer
+chain revenue unit will talk of the details of this power transmission at later stage, but
+then I am talking of those details. Here then it goes to the feed shaft rotary mechanism.Now here, this DC motor will do the job here and then the variable rate application will
+be applied or the amount of fertilizers to be applied will be activated by end of this.
+And power for the transmission is taken here. So, ultimately from the in location of the
+GPS rover and compare with the GPS we will have an accurate information has to where
+we  have  reached  with  when  the  tractor  is  going  into  the  field.  And  then  the
+microcontroller  will talk of the conditions  and find out and then we will have this
+software that software will identify the grid etcetera and then the dc motor will be asked
+to do the job. And then it will ultimately through the power transmission unit it will
+indicate the feed shaft with the fluted roller change the position of the fluted roller and
+then the variable application will be available to us. 
+Now, this is that part of it now in the next system that we had called as a embedded
+system what did we do. So, I will show you what we did, now here you can see here that
+we do not have this part, we do not have this part, we do not have this part now you can
+see that so many things has have been  minimised. These are virtually eliminated by the
+system this system which I want, we wanted to indicate this is you can say a higher
+version of the earlier unit where we had the GPS based the GPS based system.
+Now here we have a GPS module system variable rate system here the micro if we see
+the working micro procedure see microprocessor, microcontroller unit, the relay is their,
+DC motor is there, fluted roll and potentiometers. So, this all will do the same thing,
+display will indicate certain aspects display will tell where you have reached and what is
+the available an nitrogen at that place and hence the urea and how much urea you should
+apply so that the exact amount which is required at that position will be applied. So, the
+same thing which was done earlier here will be done by this system.
+But then with lesser number of components and many of the components have been
+embedded into one. So, if we go back to the previous slide then will be in a better
+position to compare those systems at this point of time. Yes, now you can see we have
+discussed this part now what we can get here is; that if this is the balance here now you
+can you can check in this in LCD touch screen display of 2000 and Ublox GPS module is
+rounded off 2000 rupees, then Raspberry PI 2 model B has a rounded of price of 3 k and
+Arduino price is 1.5 k.Now and what is here DGPS which has a price of a about 4.5 because you need one at
+the base one at the lower there, then laptop which is about something of the all of this.
+So, you can see that how much is the difference between this is 2000 and 4000 and this is
+3000 about 7000 and this is 8500 roughly, say location of about for 4000, 48,000 to
+45,000 here and 30000. So, we are getting a larger reduction in this and that is why this
+is shown that this is in this way. Here you are using more money or you are in requiring
+more money for the same job, here you are requiring sorry here you are requiring less
+money I am sorry here you are requiring less money and here you are requiring high
+money when you have DGPS like this. 
+Now, with these are the systems which way when we compare with the previous one. Let
+us now proceed because we have now compared what is the DGPS which was the earlier
+and what is the embedded system which we have, what are the things we do not need
+etcetera. 
+(Refer Slide Time: 19:24)
+Of course soil analysis the methodology here also it is needless to tell you that the
+moment we want to utilise this system what it does. In fact, it cuts the drone those items
+which we do not have, but the basic system remains; that you need to measure the
+amount of soil which is there, the in the grid the nitrogen which is there and amount of
+information that you need from a particular field about the soil that details are requiredanyway.  So,  the  soil  analysis  is  required  at  Kharagpur  since  we  did  the  work  at
+Kharagpur we had made.
+We had made 32 grids of this size 5 meter into 4 meter side and this is a grid, one grid is
+this another grid is this. Now what, where are the locations where you can takes soils
+samples. Now this you there are lot of debate in the previous one people have taken
+samples at the corners here, here, here and one from the centre. Now in this we decided
+that know this may not be representing that.
+So, we wanted to have a larger zone of idea soil which is covered by the samples when
+we take diagonally. So, we thought that if this is the say for example, if I talk of this,
+then the there will be zone which it covered this, it covers this zone, this covers this
+zone, this covers here, this covers here. So, more or less we will be this, what we think
+and possibly we got also the information. In fact, we compare that when we have these
+four locations or the four corners and one at the centre and take an average of that.
+And with this we found that there is better accuracy of the data information that we got
+here as compared to that one. So, the that is why we decided this to be the grid and this is
+to be the process of collecting the soil samples, those samples have to be taken to the
+laboratory for finding out this. Now is a different question that how much sample you
+will do this and if this system has to be operated the machine has to be operated how
+much time, when and all this information has to be hired has to be taken before and
+given. Those are at different aspect we will not talk of that at present, but what will say
+that in case you have gone found out the information then you can use this machine and
+get the benefit of that. So, we will with this promise we are going ahead. (Refer Slide Time: 21:59)
+Well this stocks of this stocks of the information actually what is the information with
+respect to the grids as I said that we made 32 grids. So, you can see here that 32 grids
+from grid 1 to 32 grids here and at each grid we had found out what is the amount of
+nitrogen which was available through this you can see this. So, we know that about in
+urea 46 percent nitrogen is present.
+So, with this when we know how much of urea is there in a particular, at a particular grid
+say at grid 1 this is the amount of urea which is which is already there this 90 at this is
+this. So, we had decided our design was such that we can give up to 400 kg per hectare
+of the urea to the system. This is what we had decided because of the limitations of the
+size of the fluted roles and the size of the machine which we are taking.
+So, we had said that a minimum of 5kg to a maximum of 400 kg or so you will you will
+recall that in my previous talk also I talked of this and here also I am saying that up to
+maximum of 400. So, with that base of 400, we had written the software the user
+interface which will tell us that if you go to the grid if you reach to a particular grid what
+is  the  amount  which  is  available  there  and  how  much  is  to  be  given.  So,  auto
+automatically this system will do and will show you how it does. 
+So, the data points, these are the data points urea you can see in this one that each data
+point there are various data points here at each point here we are in a position the
+available once or given with this known this colour and the urea to be applied is given inthis and I have talked of these samples etcetera. So, this data tells us what we got at IIT
+Kharagpur.
+You will have to if you want to do this experiment you repeat the experiment or to verify
+the experiment you will have to follow it at your location as well in order that check
+what it happens at your locations. 
+(Refer Slide Time: 24:22)
+Embedded electronic control unit well some details of this actually as I told you that we
+as an agricultural engineer you must have idea what is happening inside, what are there
+the constituent of this embedded system, what does it do? And so, that we know that a
+these  are  the  information’s  coming  because  it  has  these  inputs.  So, if  you  see  the
+microprocessor GPS module has certain things, see this GPS module, now this has the
+microprocessor system on chip and then the the NMEA sentence there will be a string in
+which they details of the information which will be available to convert the latitude
+longitude to LTP which is local tangent plane.
+Because local tangent plane of that area in the field which we are talking off. Then
+calculate the shortest distance of the current position for the field boundary, it will talk of
+always  the  shortest distance  because  when parsing of data  will be required  by the
+software it will tell us to what is the shortest distance and accordingly it will find out the
+coordinates of that point. So, that is very important we must know the coordinate of that
+point when parsing of data is taking place by the system.So, that remained the grid so what will happened so we need to determine the grid and
+location all right. So, where there it will display user input here. In fact, this is going
+here. So, it will display the user input it will display the information and then say what is
+the amount of user input which is to be given then match the grid with the fertilizer
+requirement. Then this has to be match with the fertilizer requirement how much is the
+requirement require.
+So, then it will go to the come microcontroller now, this microcontroller well which will
+have  direction  of  single  direction  signal  to  the  motor  via  relay  feedback  from  the
+potentiometer interrupt back to processor and then a information between mechanical
+fertilizer and the applicator potentiometer applicator and the potentiometer.
+The job will be taken up and a whole thing will be done, we will show you how these are
+being done actually. So, the embedded electronic control unit we have since this is done
+at our place and we have the IPR issues. So, we are not telling you all the details of the
+circuit as such, but we are definitely telling you what we are doing, how we are trying to
+do this thing. 
+(Refer Slide Time: 26:58)
+Now, this slide shows some of the locations of what it is in the field because we wanted
+to do in the field we have done this test in the field. Now, figure A here this shows the
+setup or the machine system in the field there you can see here that we have talked of the
+lever this is the lever here. Now this is the lever which actually will move and change theexposure of the fluted roller while we want to have a change and now this will be done
+on the advice of the DC motor which is there. 
+That motor has been accordingly this has been fixed at 120 rpm this fixed because we
+want certain amount of information certain amount of chemical sorry the fertilizers to be
+applied. So, we have set all this things then we have the relay system which will tell us
+as to how much is the gap and what is the I mean what are the systems which are
+working with respect to the others.
+Then 2 is the 3 is the 4 is microcontroller, where this is the microcontroller system over
+here. Now there is a TFT LCD display, this LCD display over here which will tell us
+what is the amount of information which is display in this TFT display this is about thin
+film transistor LCD display. 
+Now figure B shows the fertilizer collected zippers see what happens we when we are
+testing in the field we do not want that this should be lost. So, we have the zippers here
+you can see that zipper bags we have kept to each one of this and then we have collected
+while we are testing. So, that we can test unnecessary waste because once it goes to the
+soil you will appreciate that we will lose that. So, we do not want to do that. So, we
+wanted to have those things. Figure C shows the lever which marks the movement of the
+fluted roller.
+So, this is the lever I have shown you the lever in the previous figure also, but this is the
+lever. So, this lever we will move when we show video you will see how it moves. So,
+we will move to the next and have a look at field testing. (Refer Slide Time: 29:27)
+Well field testing of the unit, now we have discussed a lot about this unit now and all the
+locations and the systems which are there are indicated here. I can show you again the
+electronic controller is here, the embedded GPS module is here then the DC motor is
+here, there is a battery which is running giving the power to the whole system, and then a
+machine is working in the field. So, we will show you the video of how it works in a
+field.
+How it changes the location of the exposure of the fluted roller. Well you can see there
+this particular location it has moved.(Refer Slide Time: 30:20)
+This lever has moved, here change their you might have seen that this speeds are there
+lower speed higher speed you have seen this speed and then this lever moves you can
+again see that the lever is moving. If you watch properly you can see that this lever
+moves and these are the advice of the motor which is there. 
+(Refer Slide Time: 30:55)
+Well comparison of data three different speeds as I said that we have tested in the field
+condition and we tried at two, three speeds in the field at 2 kilometre per hour, 3
+kilometre per hour and 4 kilometre per hour and then this is a detailed information aboutthat. I have, we have given we have shared with you so, that you can have a look at it and
+understand the level of accuracy or the level of effort that we have made in actually field
+testing of the system. 
+(Refer Slide Time: 31:24)
+Well if you compare this the actual amount dropped and the required urea you will find
+that R square is coming about 0.9528 and hence you will appreciate the our effort that
+yes this system is working all right. But then there are certain hiccups because when we
+compare the; when we compare the errors with respect to at different display at 2
+kilometre we will find that the error is very less about 2 percent error what is the
+fertilizer actually dropped and the fertilizer to happened dropped this.
+Then in 3 kilometre with this is to be happened dropped, but this much has been dropped
+then at 4 kilometre this is to be dropped this has been dropped. Now that means, there is
+a speed the there is some mismatch between this period which we are moving. So, we are
+further working on to this and trying to see that either it should not be dependent on the
+speed possibly we have to do some more manipulation of the speed forward speed and
+the movement of the exposer etcetera.
+So, you can find that this value is very high. So, as such a we find that 2 kilometre if you
+move which is generally we are 2 to 3 kilometre per hour is the speed at which we
+appeared, these equipment or these machines you will get a reasonably accurate delivery
+or accurate application of the fertilizer. Thank you very much. 

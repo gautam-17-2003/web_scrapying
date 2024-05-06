@@ -1,0 +1,307 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 45
+Advanced Level Spraying Equipment: Drone Assisted Variable Rate Chemical 
+Application System and Electrostatic Sprayer
+Well students, welcome to the lecture number 45 wherein we want to tell you about
+another  Advanced  Level  Spraying  Equipment  which  we  have  developed  at  IIT,
+Kharagpur and which has lot of application now and being talked of in several aspects of
+its application which is Drone Assisted Variable Rate Chemical Application System. At
+the same time we have also talked of electrostatic sprayer because when we are talking
+of the deposition efficiency on that then there is a question mark of the sprayers many a
+times  because  of  the  wind  etcetera.  So,  in  order  to  see  that  the  deposition  of  the
+chemicals at the right target is enough and good quality then only the effectiveness of the
+chemical spray will take place. So, we will discuss in this particular session drone
+assisted technology as well as electrostatic sprayer.
+(Refer Slide Time: 01:09)
+.
+Now, what is drone? Of course, you know that this is also a robot. What are the details of
+that? You can see that this is one which I have shown you here and this is the drone here.
+Now, what where are they applications and where it is? See it is used for crop yield. So,you can used for crop yield monitoring, you can find out for spreading, if you want to
+spread certain items you can just carry that and spread wherever you want. You want to
+map certain things then you can take a photograph of that and you can map the whole
+information then crop monitoring you can monitor the crops details of growth etcetera
+then the animal monitoring if you have animals etcetera at one location you want to
+check whether they are. So, you can get that. 
+Variable rate fertilizers what is the level of fertility of that if you want to measure and if
+you want to see in this possible to do. Then diagnosis of diseases well, diagnosis of
+diseases are also through this is possible and then water stress if there is water stress at
+some location it is possible to use this drone application and then find out. So, as such it
+has various application, let us have a look at more benefits of this
+(Refer Slide Time: 02:35)
+Drone assisted a variable rate chemical application. Well, so we saw what we can do
+here? So, the chemical frequently needed to kill insects and growth in agriculture, we
+know these things, we have discussed all this that to there would there is a requirement
+of the chemicals at some places, when we want this.
+So, what are the essentials of that when you have a look at the essentials, which are
+indicated in this diagram here. See it could be mobile app information that we want to
+give and this is the spraying drone which is over here and the health monitoring which is
+possible and then the image processing. So, you should have a camera, which will do theimages and that those can be processed at the location. And the position control, what is
+the position of this.
+So, with these details of the systems which can be put together for the drone, it will it
+will give us or it will help us in locating a place, then getting certain information, getting
+back to us that information can be processed. And then after processing, it necessary
+requirement or necessary job, necessary task can be carried out with the help of the same
+vehicle.
+Now, this UAV which we which we call as Unmanned Aerial Vehicle also, this is
+operated by manual flight plans and the sprayer is manual triggered by RF controlled
+Nozzles. Now, this is one way that means, you can control from a distance. Now, it is
+possible that you have different sizes of this, which we call as payloads.
+So, varying sizes of payloads of this could be designed and all that. But then, it will be
+better, if you design as per the requirement and the in a country like ours, where 60
+percent of the area is about and less than 1 hectares. So, one has to think of small such
+devices which can do the job at in short distances, at the same time in arduous places
+also a hill regions where people cannot reach. So, such devices may help us a lot.
+(Refer Slide Time: 05:05)
+The various benefits of this aerial spray; what are the various benefits? See we have just
+dotted down here. You can see that it can treat crops faster than ground machines, yes.Then quick and timely application, it is possible. No yield loss due to wheel tracks, if
+they if it is there.
+Then no direct contact prevents spreading of the disease, because these are all aerial, we
+said aerial spraying, when we are doing from the top that these are not in contact. No soil
+compaction, you are not if you have a vehicle, which is going in between, then it will
+compact the soil, which is not happening. Applications are not limited by wet soil. So, if
+the soil is wet or if flooding has taken place and you want to do some spraying, it is
+possible, you can use this device and do it.
+So, these are benefits of this aerial spraying and that way this particular device has been
+used in large applications in even in defense and in the markets in other requirements,
+policy and all this various application. So, we want to take this technology and to use it
+in agriculture for our spraying or for a identification of the disease and take care of the
+health of the crop, which we have put. So, this is an attempt, which has been made in this
+direction.
+(Refer Slide Time: 06:31)
+Methodology  of  aerial;  what  is  the  methodology  followed  in  this  case?  See  image
+acquisition and pre-processing. You need to first you have to take the image of what you
+want to do or what is the basic thing, the image has to be taken. Supposing we are at one
+corner of a field and then you want to know what is the infestation level or what is the
+disease which has happened and at what locations. So, accordingly you need to get theimages, maybe it is difficult to reach at those locations. So, you will have this drone will
+then go at that location through the GPS, we should be able to locate there and then it
+will take the images.
+And then pre-processing, it will do some pre-processing. Take multi-spectral images,
+capture data and filter them by processing. So, what it can do? See airborne camera can
+take multiple multi-spectral images; it can take multi-spectral images, capturing the data
+and then filtering them by processing. So, these job which it can do initially. So, we take
+the image and pre-processing, it can do at that location.
+Then  it  needs  to  image  segmentation.  This  image  needs  to  segmented  for  our
+requirement that is see partitioning of a digital image into multiple segments and then
+assigning a level to every pixel. Because, then we should be able to understand what is
+the level of pixel of that, what type of image it is and how we can process this image for
+our information and assess the level of infestation or whatever that has happened to it.
+Then feature extraction, what are the features. Then extracting the features such as the
+shape, the contours, the colors the textures, the intensity, the homogeneity, the corners all
+details. These are very important. Features extraction, how will you extract that means,
+you need to process information in such a way that you are in a position to identify once
+the images are in front of you as a designer as an engineer.
+So, what is the shape of that, what is the contour, what is the color and what are the
+texture of that, what is the intensity of that, which has happened maybe if infected, how
+much  is  there,  whether  it  is  homogeneous  or  not,  whether  it  is  erratic  or  only  at
+impatches all these details, you can get. You can identify the corners, where the corners
+are, then classification all or recognition of this that may refining the features using
+genetic  algorithm  or  optimization  algorithms.  Now,  you  will  write  to  refine  this
+information that you have got. And then decision making; guiding the sensor and the
+vehicle to spray or monitor accordingly.
+So, this is the process methodology which is for aerial spraying. You see the image has
+to be taken, it has to be pre-process. Then segmentation of image has to be done for
+understanding. Then features have to be extracted that means, we have to understand
+what is fought by which features we understand that this point is a corner of feet or it is ashape of that or the talks of the color and things like that and then classification and
+recognition of this.
+And once you have done this, then you will take a decision, has to what is to be done,
+whether  chemical  has  to  be  sprayed  at  what  quantity  and  at  what  rate  and  what
+frequency. Now, those decisions you will make.
+(Refer Slide Time: 10:09)
+Identification  of infested zone in a crop field; now, how will you do this, see this
+particular concept is given here to understand. You have the drone here, you have the
+drone here. Now, the NIR camera is here, storage of images along with position, now
+you need to store the images. The processing of the images have to be done.
+And then the GPS receiver there, this is through you can say that drone and GPS receiver
+are in unison. And then the information which has from the camera it is getting and the
+location it is identifying that these two information comes to and then images are along
+with the position, there is stored. And after is storing, the images are process, as we have
+seen what are the different steps which are done. So, this is process.
+And once this process we find out a certain parameter is certain index by which we
+should be able to categories what is the intensity level, what of the infestation which has
+taken or what we want to identify. If you want to identify that there are weeds or if we
+want to find out that there non-weeds or whatever that we are interested in, so in thatcase, this NDVI index, one index we have been normalized difference vegetation index.
+This  has  been  this  field  mapping  based  on  this  has  to  be  done.  Now,  this  is  the
+identification of the infested crop in the field crop. This is the process, which we need to
+follow.
+(Refer Slide Time: 11:53)
+Chemical sprayer block diagram. Now, what is the; this is also shown to you that what is
+the block diagram of this system, which is taking place here. See the controller is there,
+which will have the information with regard to GPS, the stability of the controller, then
+altitude and then motor speed control. These are important, which will be the controller
+side and then the spray side. Then what is it, the after the controller has taken care of all
+the details of the location of that, then the features have been extracted and distance have
+been taken the accordingly, then spray mechanism has to be directed. So, we have the
+tank status; what is the tank, what is the speed control of the spraying then what is the
+pump location, whether it is on or off? Now, this part is done. So, two aspects, one is the
+controller part of is, second part is the spraying part of it.
+So, this chemicals sprayer block diagram has been various it has been shown to you to
+capture in your mind that what are the things, which take place. You have the controller
+and you have this. Now, you before that you know that way in know with the location, so
+for that GPS, you have to have the image for that camera is required, pre-processing of
+image with respect to the position. And then accordingly, you will take a decision withregard to what it is, what is the intensity etcetera. And then this spray mechanism to do
+the needful and it will do it. So, this talked of the chemical sprayer block diagram. A
+simple way which is explained, which you can follow.
+(Refer Slide Time: 13:37)
+Aerial spraying mechanism; what is this aerial spraying mechanism? Well, if the same
+thing has been put it slightly in another way, the see the micro controller see the signals
+from  the  receiver,  see  microcontroller,  then  the  tank  of  the  status  monitoring
+microcontroller.
+Then there will be a buzzer depending upon what is the what you want to identify
+through this buzzer, whether you want to say that the chemical is not there, or you want
+to give some instruction or whatever through this. Then the motor driver, the motor will
+be given, motor driver will try to drive the pump, because then this will this is the in fact,
+keep the power to the water pump to operate.
+And then the splitter that means, it will talk of this will split into the nozzle and the other
+nozzle on two sides. Because, we have the pump here on splitter here, definitely we will
+talk of the solenoid valves etcetera, which will in fact, talk of which side the chemical
+will go and all that nozzles. So, this is the aerial spray mechanism which is there in
+nutshell. As we have discussed about the chemical spring there and the aerial spray
+mechanism as such which takes place.(Refer Slide Time: 15:03)
+The variable rate chemical application system for drone assisted sprayer. Now, the whole
+thing has been put here again, now you just see how these some more details are there.
+You can see here the GPS, fine; you have the microcontroller, yes; and the variable rate
+controller, it will like to control this.
+Now, what do you need here, what is our requirement, our requirement is this NDVI,
+because we would like to maintain a certain NDVI with respect to our task, so that NDVI
+index  receiver  is  here.  So,  this  needs  to  be  decoded  and  then  it  will  go  to  is
+microcontroller, which will again inform or try to say that there is should be a variation
+in the rate of the controller. Then it will go to the actuator and then ultimately the it will
+go to spray nozzle.
+Now, of course the transmitter, which will talk of the ground station and then image
+processing etcetera, has to be done. So, as you have seen that the rate the variable
+chemical application is taking with respect to the NDVI. If you find that the NDVI is up
+to mark or not accordingly, then you need to change this variable rate through the
+instruction of the microcontroller and then the spray nozzle will as soon give you the
+amount.
+Therefore, this quantification of vegetation by measuring the difference between the
+near-infrared and the red light this thing details that means,NDVI = (NIR-RED) / (NIR+RED)
+This difference upon NIR + red this is this is the way we defined that means, this NDVI,
+in fact always will vary between minus 1 to plus 1. So, these values are known.
+Now, this values once they are known actually, then you are in a position to code or
+decode with respect through the microcontroller and talk to the spray nozzle as to what is
+to be done, how much is to be given. Accordingly, you can maintain the variable rate or
+you can decide the rate change etcetera.
+(Refer Slide Time: 17:23)
+Initial prototype development as so, we developed at IIT Kharagpur, we developed a
+small prototype about 500 gram payloader and so on. And we would like to show you
+this the working of this here, the details are you can have the details here in the system.
+The flight controller is over there, then there is a air pump, then there is a carbon fiber,
+then the air frame, then the spraying nozzles, which is which is given here, then the
+pesticide tank which is connected and the brushless motor or CF propeller. So, these are
+the propellers or the three propellers. And all details are shown you over here. Now, let
+us have a look at how it works.(Refer Slide Time: 18:17)
+Now you can see that this is very small one about 500 grams payload capacity, we will
+just tested, because the aim is to make a small is possible, which will be in a position for
+the farmers small, who can use this. Here is spraying and showing you whether there is
+spray can which is coming out of this, this is being controlled. And the distance you can
+vary above the ground as well as the in the horizontal direction.
+You can see very small system, which is working. And we are working on more details
+of this and we want that such small systems can be prepared for small plots maybe in a
+radius about 50 meters and you can see how cheap such units can be fabricated, which
+can be used by the farmers. This further work is going on this.(Refer Slide Time: 19:41)
+Now, the another aspect which we wanted to discuss here is the electrostatic sprayer. In
+fact, long back people had tried above electrostatic sprayer, but those times in fact,
+because of the difficulties of the wires and then electricity availability and the safety
+aspects because of all those things, it was simply difficult for the people to continue with
+the electrostatic sprayers.
+But now, because of the modern technology coming to play and availability of the a
+wireless items available, this has become very easy and we are in a position to use this.
+And some of the even manufacturers  have come out with some of the electrostatic
+sprayers. Now these as we can know that these sprayers may be manual carried spraying
+equipment  is  there but then you have to have some sort of safety, which must be
+provided to the operator.
+Now, it works on the very simple aspects of Coulomb’s law electrostatics sprayer. Here
+we have nothing but the force of the charge q experiences  such as this. So, is the
+electrical field here. So, the q is positive, force in the same direction as the field; if q is
+negative, the force in the above direction.
+Now, on this basis itself, you are in a position to create the electric field, what we want is
+charge these particles, these spray particles, which are there, if they are charge. Now,
+why they were so much in fact tried earlier and why there was demand for such an things
+earlier and because of the difficulties we have we did not continue on these.The beauty is that when the particles are charge is greater deposition efficiency very high
+deposition efficiency of 90 to 98 percent you get for the particles on the target, which is
+not possible in the earlier case or which is slightly lesser than that. So, in order to
+increase deposition efficiency what will happen is that you are chemical will be less, at
+the  same  time  the  effectiveness  of  the  chemical  will  be  very  much.  So,  such  as
+electrostatic sprayers are beneficial from that count and efforts are in various direction in
+order to do this and they come out with efficient and good units, which can be used.
+(Refer Slide Time: 22:29)
+Working of electrostatic sprayers; how do the work, actually we need to look into this
+here. See atomized droplets pass an electro electrode inside the nozzle. So, negatively
+charged electrons are attached to the droplets, this is what. See while we discuss in fact,
+you we have given you here this right up, so that it will help you in understanding the
+details of that when you go through the video. Maybe while we are talking, you may
+forget and that is why we have given you some right of here, which is what I have told.
+So, the electrostatic charge, though safe, pulls the spray towards the plant 75 times
+greater than the force of gravity. So, this is the beauty of that. So, if this particles will fall
+on the ground, but then with this electrostatic charging, they will fall on to the targets
+and the deposition will be better.
+The droplets will reverse direction and move against gravity to coat and even hidden
+surfaces; this is which is important. What happens is many a times in this canopy,sometimes we will find that the sets or press or there underneath the chemical sorry
+underneath the plants and the chemical does not go up to that many a times,, but this
+technology  helps  us  in right deposition at that  location.  So, the negatively  charged
+droplets are carried in an stream towards the surface. Since, the surface has a natural
+positive charge, the droplets are magnetically charged to the surface attached. So, they
+get attracted and then this. So, this is the beauty of this system.
+Well what was of the problem earlier, in fact it was because of the voltage and because
+of the electric wire etcetera being carried and the electricity availability in the field and
+all that because of which of these did not take off earlier. But now, they have come back
+and because of many wireless systems available these are being taken as I told earlier.
+Now, charging of spray. What do we do here then there are three ways to charge the
+liquid to reduce the drift, yes, it must be told. So, here the aim is that you are not
+allowing the chemical particles or dismiss to get a drifted away. And the that way even if
+there is a wind slight wind, it will not affect this to that extent. Well if you if you say that
+this will not affect it all means is slightly wrong, but then to some extent. But otherwise,
+if there is high wind, all these things will not work. But, then we can say that this
+charging helps in deposition grater deposition.
+So, the three one is that 5 to 20 kilovolt induction charging of conductive liquids; then
+ionized  charging  of conductive  or non conductive  liquids,  which  requires  30 to 70
+kilovolt; and then direct charging of semi conductive liquids about 40 to 50 kilo volts.
+So, these are the three ways to charge the liquid to reduce the drift. So, this is a way one
+can do.
+So, what we are seeing here is that electrostatic sprayer is a prospect we which can be
+taken up and small units can be fabricated and made for a small farmers which you
+which will be within their which this is one aspect, which can be looked into. And
+manufacturers have come out with some of the units are still long way to go.(Refer Slide Time: 26:27)
+Knapsack electrostatic spinning spraying disc now. Advantages we see here, we wanted
+to  explain  to  you  the  knapsack  electrostatic  spinning  disc  and  the  advantage  of
+electrostatic  spraying.  Now,  this  is  worth  showing  you  here  because  then  you  will
+understand what are the advantages, which we get through a particular unit and what we
+do not get.
+See knapsack electrostatic spinning disc is what you get the electrode potential is 1.2
+kilovolt, the spinning disc revolution is this much about 2000 to 3000 rpm and spray
+charge is so much micro coulomb. The and then flow rate is 50 milliliter per minute,
+mean droplet size 160 micrometer and the actual capacity is something of this capacity
+of this spray takes place.
+Now, advantage of electrostatic spraying. What are the advantage; in fact, I said that
+there are several advantage of such things, it will definitely increase the deposition
+efficiency. So, reduction in drift, yes no doubt about it, increasing the penetration into
+the canopy. Yes, this is what where is the biggest advantage, where you get, because it
+can go and catch the insects, which are under the leaf.
+In fact, I might have told you earlier that generally spraying is done in the early hours,
+morning hours and then afternoon, later afternoon, so that the insects are come onto the
+upper surface of the leaf. Otherwise, if you put in daytime and when the temperature isvery high that they will be underneath and then you can spray, but still it will not be
+effective, they will not be killed.
+Reduce the amount of required pesticides by 30 percent. Yes, this is another thing. When
+the efficiency is higher, when deposition efficiency is higher, then definitely you will
+require less amount. The deposition of liquid is enhanced by 2 to 3 fold, the deposition,
+yes  I  was  talking  of  this  deposition  only  by  this  message  using  under  the  same
+conditions, yes we under the same condition.
+Now, electrostatic sprayer saves the overdose as well as chemical consumption and thus
+preventing from the environmental pollution, good yes. So, we can say that by this
+methodology,  we  are  in  a  position  to  exactly  cover  all  the  targets  and  then  you
+economize  on  the  chemical  and  also  the  it  will  not  fall  into  the  soil  and  hence
+environmental pollution can be also taken care of.
+So, by these two technology which I discussed, one is about drone, the other is about this
+electrostatic sprayer. I think these you as the student; you would like to venture more
+into these and try to use your knowledge to design such equipment and small equipment
+as much as possible. And you can think of having indigenous designs for such things and
+I think this will help you in helping the industry and also helping the country.
+Well I think I have tried to explain to you all facets of electrostatic spraying, other
+spraying, the drone spraying, we have talked of the different sizes of the sprayers and all
+that. And we have covered everything. Even then, I am sure you might have questions at
+various stages, which we would like to answer as and when they come. So, for the time
+being, we will we would like to close this.
+Thank you very much.

@@ -1,0 +1,246 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 27
+Estimation of Wheel Slip in Farm Machines
+Dear students, welcome to my lecture number 27 on “Estimation of Wheel Slip in Farm
+Machines”. Well, why I have a prepared this lecture is because, in the previous class we
+had discussed in my previous lecture, we had discussed about testing of seed drill and
+then how to report the test of a seed drill.
+Now, there we saw that there are several parameters which need to be estimated. And to
+be reported so as to confirm to the requirements of the ministry or the Bureau of Indian
+Standards. So, that the machine can be certified and it can be sold by the manufacturers
+or accepted by the government for to be sold in the market by the manufacturers.
+Now, one of these parameters was a slip. There are the parameters for example, the draft
+requirement, then the uniformity of the seed, and amount of seed fall and miss etcetera,
+but here we will talk of which slip particularly in farm machines. Now, we will let you
+know as to what is this wheel slip. In fact, we have discussed about this long back, but
+then in this context it will be very imperative to let you start with the wheel slip. And
+then  see  how  we  measure  this  under  the  actual  field  conditions,  and  what  sort  of
+instrumentation is available, and what sort of instrumentation advanced instrumentation
+we have developed at IIT, Kharagpur. So, I would like to deal with that in this particular
+lecture.(Refer Slide Time: 02:02)
+Well, what is wheel slip? Needless to tell you: this wheel slip we had already discussed
+and which means that
+S = 1 – (Va/Vt) ×100
+ In fact, if we talk of this percent slip. This comes when there will be load on the wheel
+and because of the interaction between the soil and the wheel and there is a load on the
+wheel because of when it is being pulled in the soil conditions. So, there will be a
+reduction  in  the  speed,  there  will  be  certain  direction  theoretically  it  should  have
+something, but actually you will find something else it could be more, it could be less.
+Generally, we find this.
+So, we have if you go back to that same definition which had given you earlier, this S is
+nothing, but the wheel slip. And since we have multiplied by 100 it is wheel slip which is
+a slip percent. Now, V a in fact, if I talk this is we are talking of V a, a suffix here and
+similarly we are Vt. So, Va is the actual speed as it has actual speed.
+How do we get this actual speed? Well, it is very simple revolutions per second of the
+front wheel, because this wheel is not the torque wheel or is not the wheel which is
+having the load it is also known as the torque wheel. So, we would like to take the
+revolutions of that as the actual revolutions and the distance covered in one revolution ofthat front wheel in actual field conditions. So, in the distance covered by the front wheel
+certain distance covered in one revolution of the front wheel.
+So, the revolutions per second of the front wheel into distance covered now this will give
+us the Va or actual speed. Now, what is the theoretical speed? Well, this theoretically
+speed sometimes well I have also written that sometimes you can use a fifth wheel also
+and get the actual speed of the system if it is there. Here, we have used the instead of a
+fifth wheel we have used the front wheel of the tractor which is the torque wheel and
+which actually gives us the actual speed.
+Now, theoretical speed is well average revolutions per second of rear wheels. Well, rear
+wheels of the tractor you have seen to which the equipment is connected either it is tool
+tillage tool or a seed drill or whatever. So, when it is connected the revolutions per
+second of a rear wheel into distance covered in one revolution of rear wheel on hard
+surface.
+Now, this is very important, we would like to see that on a zero condition which where
+there is no load condition. There we would like to see; what is the revolutions per second
+total revolution per second and the distance covered in one revolutions  of this. So,
+virtually you will get that as the theoretical speed.
+So, then using this V a and Vt you can find out the wheel slip. So, it is very simple if you
+do not have any equipment then you can measure these when the tractor is going into the
+field you can find out by measuring the total revolution per second of the front wheel as
+well as the average revolutions of the rear wheel.
+Now, many a times since there are both the rear wheels are there, we would like to take
+an average speed of both of them. We can take any one of them, but then I think it is
+very realistic to have an average speed of both these. So, let us see how do we do.(Refer Slide Time: 06:13)
+Measurement: how do you do this measurement? Well, we have given a method by
+which we have measured these in the system developed at IIT, Kharagpur. Well, you can
+see here that there is a disc. Now, this disc has several you can say that transparent and
+opaque you can see that in the 360 degrees here we have created alternate clear and
+opaque strips, alternative clear and opaque sticks opaque strip stripes you can say these
+stripes are at an angle of 4 degrees.
+So, you can say that about ninety such strips are there and therefore, the optical slot
+sensor now the here we will talk of this optical sensor. Now, where it is put you could
+see here that at this location we have put the optical slot sensor. We would like to see
+where it is fitted in the tractor wheel because then we can measure the rotation of the
+wheel. We are not talking of the rotation of the front wheel only we are talking of or
+rotations of all the wheels.
+Now, we will show you where they are put now the other arrangements which are there
+in the system are given here. There are two ball bearings you can see that these two there
+are two ball bearings. The 4 no. is the shaft; that is the shaft here on which this has
+carrying this particular arrangement. Is a waterproof casing of course, this casing has to
+be waterproof. So that it does not get wet or something. So, that otherwise the system
+will not work, because we generate pulses when there is a movement of this along with
+the rotation of the wheel.A signal output cable; now, there is signal output cable this is a signal output cable here
+no. 6. So, the arrangement here the presence of clear and opaque stripes between the
+emitter and detector of the sensor is detected and converted into an electrical signal
+without contacting it. This is what it is, when the wheel is rotating we will see that here
+itself this arrangement is shown here that whenever there is will be a opaque or a
+transparent. So, the moment there is so, one opaque you will find that the light is cut off
+there and when the light is cut off there this pulse will be counted.
+So, the operation takes place these pulses are counted over the period and by which we
+can measure what is the revolution of the wheel. So, this system has been developed.
+(Refer Slide Time: 09:13)
+So, number of pulses: as we said then we have to count the number of pulses in each of
+the wheels wherever this small system is incorporated. So, you can see here that either N f
+whether the speed of the front wheel of N r1 which is speed of the rear wheel, N r2 another
+rare wheel. So,
+Vt = dr × (Nr1 + Nr2) / 2
+That means, here the refreshment time is 1.5 seconds this is the time where we are trying
+to record this data and 360 degree. Well, you have seen that the whole disc is 360 degree
+and at every 4 degree interval we have created this opaque and transparent stripes and
+you are getting pulses over there from there.Now, how do we get these? Once we have got the number of pulses here so, the V t will
+be given by dr, where dr is the distance covered in one revolution of the front wheel on
+test surface and df is the distance covered in one revolution of the rear wheel rear wheel
+on hard surface. So, d r is distance covered here and d f is distance covered here by the
+front wheel. So, dr and df are clear.
+Now, in case of the rear wheel what we are doing as I said that it is you can take any one
+of these, but we have put you will see in the figure that we have put encoders into both
+the wheels for rear wheels. And therefore, we would like to take an average value of the
+rp and that is why we have put N r1, Nr2 here and hence the average value of this. In case
+of the front wheel we have just put here.
+Now, in case of the front wheel we have not put both of them because it is on the same
+excel this particular one and the rotational will be more or less is same and that is why
+you need not put and take the average of that you can take only one value. So, on the
+basis of this you will be in a position to get the value of S.
+(Refer Slide Time: 11:40)
+Well, you can see here as I was discussing that where are the encoders? Now, the
+encoders are at these locations you can see. The encoders here, you can see here the
+encoder 1, encoder 2, encoder 3, this is at the front wheel, these are for the two rear
+wheels.So, the installation of encoders on tractor how where we have installed of course, details
+of the explanation is given at how they are you two of the rear wheels and one on the
+front wheel which is already given here and mounted on the mudguard of the rear wheels
+and connected through the speedometer wire of the center of the rear wheels. Well, this
+is how they are connected this construction is given.
+One encoder is mounted with king pin and connected to the speedometer wire to the
+center of the front wheel in case of the front axle where we are measuring. So, this is this
+is the arrangement which we have met; so 1,2,3 which is all written here. Now, we will
+go ahead and see what else we have done with respect to this is the arrangement which
+we have done at IIT, Kharagpur by which we are in a position to measure very accurately
+the speed of the wheels and hence the wheel slip.
+(Refer Slide Time: 13:18)
+Well, flowchart for the whole system. Now, it is say a very realistic to give you a flow
+chart of the whole system that we have here and by which we are in a position to get you
+see here that we had the three encoders. Three encoders E 1, E2 and E3 here, then the
+microcontroller here wherein we are getting the values of N 1, N2 then Nf and from where
+we are getting Vt ,Va and hence we are getting S.
+Now, there is  an  arrangement  for in  fact,  you could have  arrangement  for how  to
+maintain. Sometimes what we can do? This is an arrangement which we are showing that
+how we can measure the wheel slip, but then if you are interested to do some otherresearch and find out that how the this wheel slip varies in different conditions. And if I
+want to maintain a certain value within a certain range say about 15 to 20 percent if I
+want to maintain between that, what should I do.
+So, for that separate arrangement we had made here you could see that there is a striper
+motor here with the implement another here with the implement. So, implement up and
+implement down. That means, when we want to depending upon the condition if the
+wheel slip is very high, then we will have to take the implement of if the wheel slip is
+low then there open will have to keep the implement down. This is a sense this part is we
+have added this may not be required for you, but what is the required for you is you just
+want to measure.
+So, what I have shown here is that we have developed a instrument by which you are in a
+position to measure this and we can also maintain. For example, as in this case we have
+seen that within 10 to 20 we are in a position to maintain that and accordingly there was
+a striper motor which was in fact, which was changed manually in the earlier case, but
+this can be done automatically also. This can be done automatically also using another
+system which we have not included in this case for your lecture.
+But, then we have done such that we depending upon the requirement or depending upon
+the slip which occurs during a field operation whether you are operating a  moldboard
+plow or you are operating a cultivator or any equipment that you have taken. So, if you
+have taken that and you want to maintain without touching, manually we do it because
+the operator does it while looking at the implements condition he does it. But then
+automatically we want to do and we have done this in the case of the particular study that
+we did in this case.(Refer Slide Time: 16:21)
+Well, we have called this device slip sensing device as a slip meter and we call it
+universal. Why we say universal because this is a independent of the tractor. In fact, we
+have developed this and put into two different tractors and we have measured that it is
+not dependent on the type of the tractor. Definitely it can be used for any whether a small
+horsepower or a bigger horsepower tractor whatever it is. So, it can be used and that is
+why we want to talk say that this is a universal slip meter which can be used any size of
+the tractor anywhere in the world for that matter.
+So, a software window to change the input values; well, here we have tried certain other
+aspects of how do we display this information on to the device and particularly in front
+of the tractor operator. You have you might have seen that in front of the tractor operator
+on the sometimes on the sides or in the front we have all is the indicator dashboard on
+which the different parameters are in or displayed.
+In this case, this is the similar thing will be displayed here where you can see what is the
+speed, what is the wheel slip, what is the depth operation and things like that. So, this
+arrangement has been this is the one which shows like this. Now, a software window to
+change the input values in the program. Well, there could be certain changes which can
+be made and this arrangement has been done and it is a small software arrangement
+which we did or software which we developed this is shown to you as to how you are
+going to change and send the information to the wheel slip meter. So, we have justshown you that we have this instrument we do not want to this is the patent pending. And
+that is why we would not like to disclosed more details of this, but then we have this.
+(Refer Slide Time: 18:38)
+Well,  validation  of  slip  sensing  device  of  the  slip  meter.  Well,  validation  is  very
+important. We can claim that we have developed this unit and it is in a position to give
+the actual amount of slip which is available in the field, but then how do we test it? How
+do  you  validate  this?  So,  for  this  validation  we  need  to  have  some  sort  of  field
+performance evaluation.
+So, validation of the actual speed; we would like to see how the validation actually speed
+is there. We can measure the actual speed you can see here the conventional method. The
+conventional method is by measuring distance covered in a particular time. You can have
+the measured by a radar sensor we had used a radar sensor in this case by which we can
+measure this is the actual speed.
+The slip meter measurement by a developed slip meter: slip meter is for measurement of
+the slip. Well, actually speed measurement conventionally we do by manually, but then
+we had used a radar sensor in this case and where what we get it a field data is given in
+front of you. So, that you can appreciate that yes, this particular device which has been
+developed is working and giving an accurate information about the wheel slip which is
+available in the field.So, you can see that the actual speed here and with different number of readings that we
+have taken, in case of conventional case, radar sensor and with the slip meter which was
+there and we find that there is hardly any variation. And there is as in different number of
+readings we have been taken in this case on a tarmacadam road and this is in actual field
+conditions which we get the field conditions of a of actual field.
+So, there also the readings are there and we can see that the difference is not much,
+except some locations here and there which can be just ignored, because a preliminary
+testing shows like this when you have large in testing we find that it is very much unison
+with what we have got and what we are declaring and what we are claiming to have.
+So, I think the validation of slip sensing device particularly with respect to actually speed
+we were in a position to very accurately do this.
+(Refer Slide Time: 21:16)
+Now,  this  validation  was  done  where?  In  fact,  this  was  done  at  the  fields  of  the
+agriculture in the department at IIT, Kharagpur and you can see that we have used
+several equipment and in fact, we have tractor used also do two different tractors. So,
+that you will know that he does not matter and that means, it is independent of the power
+source or the tractor. And, then we have used moldboard plow we have used cultivator,
+you can also use any other device maybe you can use a harrow or you can use any other
+any other equipment and measure this.We have done this validation actually in the field condition and you can see here I can
+just for your information it is worth showing you that you can see here the data in laptop
+during field testing. We are taking the data in the laptop during field testing, then slip
+measurement by counting the number of wheels manual the waver measuring and we can
+see here the operation which is going on a cultivator being operated in another trace we
+have operated a moldboard plow. So, only one case is shown over here, but then we also
+operated moldboard plow as well.
+So, this demonstration was done actually to show the operation of this particular device.
+And actual field condition in front of various officers who had come from outside to
+have a look at the device whether this is the device which is actually what we claim is
+there or not. And that is why it is written that the project coordinator from a location
+came and he is seeing this in front in the departmental farm.
+(Refer Slide Time: 23:13)
+Well, observations we got, it is very essential to also tell you what observations we got
+here. The observations as I said they are very close to what we claim and what we
+measured and predicted you can see here that there is 2 to 3 percent variation: 2 to 3
+percent variation between the measured and the predicted values of slip when front
+wheel is used to measure the actual speed. We can see here the slip percent here slip and
+conventional number of readings you can see the number of readings see the variation
+slip meter and conventional, there is hardly any difference. So, we can say that themeasurement was very accurate or we can claim that yes, it was reasonably good way of
+doing it.
+The other slip here actual  speed and the average measured speed that and average
+indicated  is  29.5.  So,  average  measured  is  this  and  average  indicated  is  29.5  the
+difference between the two values of slip which we got with respect to the actual speed
+that has been shown here.
+So, you can see here that at both the locations the actual speed is given and the wheel
+slip. So, the variation of the wheel slip is as uniform in both the cases and you can see
+that the values are not much the variation can be said to be very close. Of course, we
+cannot say that a statistically we have tested because, since we are not we are not
+showing you any statistical examination of these values. But then, we are confident that
+these values are very close to the realistic value and they are very much predicting what
+exactly we had claimed. And that is why we say that this device is working very well.
+Thank you very much.

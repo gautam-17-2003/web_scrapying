@@ -1,0 +1,264 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 23
+Design of a Seeding Equipment : Part – III
+Dear students, now we will discuss about the Design of Seeding Equipment Part-3 here.
+If I recall, we discussed in the previous design, we talked of the metering mechanism. As
+if I recall, I had told that in a seeding equipment what we have? We have the hopper, we
+have the seed metering unit, then the seed tubes, then the furrow openers and then the
+tube through which the seeds will fall.
+Now, here in this section of the design, we will be talking of the furrow opener, the
+material of the furrow opener, the design of the furrow opener, the type of the shoe
+which is there And the forces which are coming onto these shoes and how to analyze
+these and how to design this, so that we can fit this. As well as if we know that the total
+size of the equipment will be a particular dimension, then we will also try to find out the
+frame on which these shanks or these furrow openers will be fitted.
+So, what we will talk in this section is there are two things to be talked of one we are
+talking of the tines or the shanks and the shoes, which are connected each which are
+there  and  then  these  are  connected  to  the  mainframe.  Now,  there  will  be  they  it
+depending upon the total number of such shanks or the furrow openers, the size of the
+frame will also be designed. So, we will start with first the shank or the shoes or the
+furrow openers.
+(Refer Slide Time: 02:06)Well design of the tine, where many books and many locations you will find, we are
+talking of this as tines. But, then as if we are talking of tines, I had shown you earlier in a
+cultivator tine a double type of shovel type of tine. Here we are talking of the one, which
+will open the furrow and that is why the design is slightly different. If you observe the
+design here, you can see here that this is the total frame over here and this is the portion
+which is of the shoe. This one is your seed tube, through which the tube comes and then
+the seed will fall here and the furrow is made.
+Now, there are various dimensions of this particular tine. If I call, let me please permit
+me to call this as a tine, for the time being, just for the understanding part of it. So, this
+has a length a here, a height a here, a height h here, a delta h here, from the last point to
+the end of this. And they there is a location here, where we will see that the total draft
+which is acting on this.
+Now, what will happen, when the tine is moving into the soil, it will encounter these
+strength of the soil and try to open the furrow. And once the furrows are open the seed
+tube is carrying the seed and seed will fall. Now, the amount of load which comes on
+this, will determine what should be the size of this, what should be the dimensions of
+this. This is what we need to do, we will consider one at a time.
+Now, let us see here, forces on furrow openers. Now, what are the different types of
+forces which come on to these furrow openers or the tines which we are talking of? The
+on the shovel the bending force, there will be a bending force coming into picture. Yes, itwill try to bend because of the soil force, it will try to get, it will try to bend. Full sweep,
+then also there will be a bending; half sweep, now, these are the different types of furrow
+openers. Furrow openers could be of a shovel type, a full sweep type, a half sweep type,
+and shoe type.
+Now, what will what are the forces which come on to these, actually we find that the
+shovel type will have bending force, full sweep also will have bending force, half sweep
+also bending and twisting also, because it is half, then shoe type will have bending force.
+Now, this will be there. Now, question is what type of the one which you choose for your
+design, but each one of them are facing this type of force.
+Now, what is the draft? Draft on one tine, if we consider this tine into picture here what
+is the amount of draft? What is the you can say, when we are talking of draft here, we are
+all talking of the horizontal force, which is actually acting on to these shoes at this
+location.  So,  this  is  nothing  but  the  cross  section  area  of  the  furrow  and  the  soil
+resistance force. So, this is the force, which is happen, because this furrow opener is
+moving ahead and then creating a furrow.
+So, it will take care of all these soil forces, which are encountering in the process, and
+total  volume is because of the area of the furrow. So, area of the furrow and soil
+resistance force, this soil resistance force is in the kg here. So, you can say the soil
+resistance force kg or Newton, whatever you can say and cross section area is this. So,
+then what is the draft that you get? The draft is see cross section area is this much and
+soil resistance is this force.
+So, the theoretical draft on one tine using a factor of safety, we need to add a factor of
+safety always, because then see we design that the amount of force it should encounter is
+something like this. But, then we have to have a certain value of factor of safety, to see
+that the it does not fail in the process, because there could be situations, where it may
+encounter a heavy load. And in order to take care of that, we should have a fairly good
+amount of factor of safety connected together. So, this D, then is D into factor of safety.
+B0 is the width of furrow opener. Now, what is the width of furrow opener? Well, this is
+not shown here, in maybe in the next one, we will be able to show. And a max is here is the
+maximum depth of operation, this is what it comes. This is the one, which is the depthoperation. So, in this depth operation a max  is the depth operation, which we are calling,
+value amax.
+Now, width of the furrow opener, B 0 is the width. So, if we want to find out the width of
+the total furrow, then 2a max × B0, because it is nothing but the area under  when the shoe
+is moving. So, when this particular shoe or the sweep is moving inside, what is the total
+area? So it will be nothing but half base into altitude, it is just like a triangular shape, as
+it has been said here. So, the width of furrow is this. So, we get the draft on one, which is
+in kg is given by this here right.
+(Refer Slide Time: 08:01)
+The moment on tine; now, what is the moment, which is coming on that? It will try to
+when you say bending moment, because it will try to bend, we have said the bending
+stresses will get it will try to bend. Now, what is the bend? Draft on one tine, draft on
+one tine into moment arm length, definitely this will give us the total value, we have
+which we have taken here H’, which is h plus this a. So, this is H’ here. And D is the
+draft, which we had got earlier. So, the total bending B M is given by this.
+Now,  what  is  the  bending  stress?  So  bending  stress  from  general  machine  design
+formulae, you will be in a position to get this particular formula, which I need not to
+explain much into details, because all these you have undergone in different course
+elsewhere, where I is the polar moment of inertia of this section, which is considered.And Y is the distance of the neutral axis for the point at which the stress is calculated
+well.
+So, the torsion moment; now, what is the torsion moment on to the tine, it will try to
+twist this. So, what is the torsion, which comes? Draft on one tine into width of the
+sweep, so because it is at the it will act at the centerline of that and that is why, (width of
+sweep/2). So, this comes to be this value, where D e is the draft on one tine and B 0 is the
+width, so (B0/2) here.
+And so, at the torsional moment, then T M is given by (TM/J) or J is the polar area section
+modules. So, what we get in this design is important with respect to finding out how
+much is the what should be the strength, what should be the material of construction of
+this,  that  is  why, we have considered each  aspect  of the bending  and the twisting
+moments, which should come. Now, once we know about the bending moment the
+twisting moment, how do we go to an equivalent stress, which is coming under or
+equivalent moment or the equivalent total stress, which will come on to the particular
+shank. This particular item, when we consider both these aspects.
+(Refer Slide Time: 10:33)
+Well, so, then the equivalent. So, what we get equivalent over here is, we get the
+equivalent here, this and this; one is for bending, the other is for twisting moment. So
+bending and twisting moment now, if you go back to the machine design, you will find
+here, when we used to design these shafts, there are certain considerations which need tobe looked into. For example, see the combined shock and fatigue factor also comes into
+picture, because sometimes the if the shaft is a stationary, there is one case when the
+shaft rotates, there is another case, you might have learned this in a machine design.
+Now, taking a clue from there, then this equivalent stress is given by K b times bending
+and Kt times the twisting moment here. What are these K b and Kt? Kb is the combined
+shock and fatigue factor applied to bending moment, then K t is the combined shock and
+fatigue factor applied to torsional moment. Now, these values generally when gradually
+applied load, when the load is applied gradually, K b is 1 and this Kt is also 1 and that is
+why, you may find in many of the books that this is simply, in fact, instead of this, it will
+be simply like this that 
+ , that is all.
+But, we have kept this, because we want you to have a clear idea about, what exactly is
+the load coming onto that. We can consider a cantilever beam and the situation is that it
+is the shank is fitted to the frame, and this side is the force, which is connected which is
+acting on to that, where the soil forces. And that is why we wanted you that you must
+have a clear idea about the total stress, which comes on to the member. 
+And these Kb and Kt, in fact in sometimes when we are talking with respect to certain
+loads, and it is possible in some of these soils, it is possible that we may get certain loads
+are there. In that case, K t can be taken as 1.5 to 2. We can take for a safety purpose, let us
+take for safety purpose, we can say that K t can be taken as 2 here, and you can use this.
+Now, there are other things say for example, we are interested to find the thickness and
+the width b, because the we would like to find out what is the thickness t, and taken a
+width of the tine, these are important. Generally, these are assumed to be in the ratio of 1
+is to 4. Now, one would like to know, why they are such. If you go back to the machine
+design, you will find that the members, which are under such loading of bending and
+twisting moments, as well as the ratio of total length to the diameter, there slenderness
+ratio.
+So, considering these, you will find that these t and b are generally in the ratio of 1:4.
+When certain other formulae I have written here, for your information, it is about the
+polar moment of inertia of the section, which is given as this, were t and b. And polar
+section area section modules which is J, which is given as this. Now, we are talking ofthese t and b over here, when we are thinking that what should be the diameter sorry
+what should be the thickness, and what should be the width of the members, which we
+are considering for the design.
+So, we have seen that, we started with this shank, the portion of the shank, the portion of
+the shoe, then what are the forces which are acting when the sweep is moving inside this.
+And then, we are talking with respect to what are the different types of twisting and
+bending moments come, and how we take an equivalent stress with respect to these two
+and try to find out the values of these, which will help us in actually finding out what
+should be the thickness of the material, what should the total length h and a, what we
+have shown earlier to you, and the thickness b.
+(Refer Slide Time: 15:07)
+Now, the tool bar. This is see we just talked of the tines there, we have taken care of that
+what are the forces coming on to that, and what should be the values of the thickness and
+width. Now, where this will be fitted? As I said that these will be fitted on to the frame.
+So, what should be the size of the frame, what should the design of the frame, this is very
+important. So, the frame is shown over here, this is the frame here, which is shown to
+you.
+Now, this is designed for number of tines, higher number of tines. Generally, which you
+might have seen by now that the tines, which we are talking with respect to either
+cultivator or we are talking of seed drills or these we talk with respect to say 7 tinecultivate, 5 tine cultivate, 9 tine cultivator like this. And accordingly, when we are
+talking of sea drills, accordingly we are talking same thing with respect to these as well.
+And therefore, if there are the number is says 7 and 4 are in the rear, and 3 are in front,
+then we will design for 4, because we will see that is the maximum value.
+So, similarly that is what is written here, that the frame should be designed for a higher
+number of tines, which we are thinking that will be fitted onto that, because this also
+talks of the total. Because, you can see from here to here, it also talked to the total width
+of that, which will be actually trailed behind the tractor, I mean it will behind the tractor
+particularly when it is main operation, otherwise definitely these are mounted equipment.
+So, they will be in lifted form with a 3 point linkage design.
+Now, frame is subject to both bending and torsional (yes, definitely. Generally, the
+section of these frames are hollow or square or rectangular cross section. Well, we have
+seen then needless to explain over here that with respect to the designs. We find that
+hollow, square or rectangular cross sections are still giving us a fairly strong frame, and
+that is why, we pick up any one of this.
+Now, we how the bending force is come? Well, it has already we see, bending forces is
+coming because of the weight of the equipment. And then, the torsional forces are
+coming because of the soil forces total soil forces, which are coming into all the tines,
+which are there, all the shoes, which are there, while the whole implement is going, say it
+is a say, we are talking of the 7 tine or 9 tine, so you will find that all the 9 tines are
+moving in this soil and at a certain depth operation. We are maintaining a certain depth
+operation, while we want the seed to be shown. And therefore, the torsional forces are
+coming from there.
+(Refer Slide Time: 18:14)What is the procedure here? Well, as I said earlier that if you have the number of tines
+and in the power in the cultivator or in seed drills and all, so generally we like to put
+them in 2 rows on the toolbar, because they then you will be in a position to cover this,
+with the it has certain advantages. Generally, the number of tines in the front row is one
+less than the number of tines in the rear one. Yes, you might have seen this.
+Now advantage here, what does it do? It has certain purpose behind this, reduces the total
+draft requirement. Yes, it reduces the total draft requirement, instead of having longer
+one. Then facilitates easy maneuverability, it facilitates easy maneuverability a head at
+headlands and during turning; true, and also reduces the total size of the frame, because
+then if you have all 9 or 13 or 7, I mean one row, then you find the total width has
+increased.
+So, in the from aesthetic point of view also, you can think of from the maneuverability
+point  of  view,  and  most  very  important  importantly  is  the  headland  management,
+because you lose lot of tine, and hence you your field efficiency will come down. So,
+therefore, it is very important where they should be kept. So, it is said that, these are
+generally on the toolbar, they should be kept say one less than the rear one. Say if you
+are talking of a 7 tine, then 3 will be in the front, and 4 will be behind like this, so we.(Refer Slide Time: 20:09)
+So, now on the frame, then you see here total draft on the frame, what is the total draft or
+total force, which is acting on the frame here? We can see here that all the tines 1, 2, 3, 4,
+5, 6, 7, these are given here. Now, we are talking of a central line. Now, you can see that
+this is the one which we are looking over the centerline. So, the total draft is soil
+resistance into cross section area of the furrow into the number of tines. Yes, this is what
+is the total draft.
+Now, draft on one tine. What is the draft on one tine? Total draft divided by the number
+of tines. Yes, very simple as that if you know the total, you can find out. Then the draft
+on one tine is we have already found out with this certain factor of safety, we found out
+earlier De.
+Now, what is the bending moment acting about the central axis of the frame? Yes,
+bending moment acts about the central axis of the frame. So, what is this? If you take
+moment about this point here, what you are getting? Then the bending moment M B is
+even RA, where RA is this here. So, with respect to this, you will find that 5 T 0. You can
+find (2 + 2) = 4 + 1 = 5, so 5 T 0 here. And accordingly, D e and T0, De, T0, these will be
+acting in the other direction, because this is acting in this direction, and these are acting
+in the other direction. So, total bending moment acts about the central axis of the frame,
+and is given as MB is equal to this minus this. This is very simple. If you simple workout, you can get the values. So, you are in a position to get the bending moment about the
+central axis given here of the frame.
+So, now we have understood that what will be the frame. Next point comes into picture
+as what will be the material frame. We have talked of the cross section of the frame, and
+we said that hollow or generally hollow either a square cross section or rectangular cross
+section etcetera. And now, we are talking of the total the draft which comes on to this or
+the force and the moment, which is coming on to the bending moment. Now, let us go
+ahead and see what are the other forces which come into play.
+(Refer Slide Time: 22:34)
+Yes. So, like the same this is the when in bending comes on to these shoes, and twisting
+comes on to the shoes, these are connected to the frame. So, those will be definitely
+transmitted to the frame as well. And therefore, we can say that the equivalent moment
+acting on the frame is simply this. We have we have put this M B2 and MT2 we are talking
+of bending and torsional.
+Allowable stress is given by this here, these are all taken in fact you must know that
+these are all taken from the standard machine design books here. So, for any this thing,
+you can refer over there. So, the allowable stress of the material, we generally use mild
+steel is 1050 kg per centimeter square here. And Q is polar moment of inertia of the
+section. Therefore, the allowable stress S t is given by Teq/Qi, so with respect to the frame
+over here. And now, what is the detail dimensions of the frame? Now, the when we aretalking of the section, we are talking as I said earlier that we can have either a hollow
+section, whether it is a square section or rectangular section.
+If you have a square section that what you get? Q i, the polar moment of inertia you get
+like this, where a is the side, and t is the thickness of the material. Similarly, if you get
+rectangular, so a and b are the two sides that of the rectangle, and t is the thickness. So,
+(a-t), (b-t) and accordingly you can get the total area of the polar moment of inertia of
+this particular section which you require and then you can get the allowable stress here.
+So, you are in a position to get the total design of the frame; total design of the frame.
+(Refer Slide Time: 24:46)
+Well, therefore, on the basis of the equivalent stress well, allowable stress of material
+and polar moment of inertia of the frame section various dimensions of the frame can be
+computed. Yes, as we discussed there it is possible to find that what should be the
+dimension of this, what are the in between in fact we the what are these which should be
+also taken care of, if it is a rigid one of it or it is a spring tine one that those things also
+come into picture. But we are not talking of that at this point of time. Let us assume that
+once you select a frame or you get a frame, you will be in a position to get these things.
+What  is  the  material  of  construction?  Well,  what  are  the  different  materials  of
+construction? We discussed all designs right from the beginning. And we find that the
+tines mild steel or carbon steel because they need to remain strong there. Then furrow
+openers high carbon steel they can because there scouring will take place, and they willbe all with the soil. So, the idea is that they should be lasting for a longer duration of
+time; otherwise then you will have to change quite often.
+And this will warrant cost on the part of the farmer. And the frame is mild steel frame.
+So, these are the general material of construction for such a frame. So, we have what we
+have discussed is we have discussed about the tines, we have discussed about the shoes,
+we have discussed about their designs, we have discussed the forces acting on that
+furrow openers, then we have talked of the different frame on which it has to be there.
+And the arrangement of this whether it will be the front or rear, why front less than the
+rear ones, and then what should be that width etcetera and then ultimately how do we
+find out the dimensions of the frame. So, this is what we discussed in this section of the
+design of the equipment.
+Thank you.

@@ -1,0 +1,189 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 19
+GPS based automatic Variable rate fertilizer applicator
+Well welcome students. So, far we have been discussing about seed come fertilizer drills,
+seed drill and planters and transplanters etcetera. Now, I will tell you another level of
+technology that we have developed at IIT Kharagpur, which is GPS based automatic
+variable rate fertilizer application. 
+We  know  that  generally  the  nitrogen,  potassium,  phosphorus;  NPK  are  the  most
+important nutrients which are applied in the in the crop at various levels. Generally, a
+nitrogen is the one which is applied in different doses and potassium phosphorus are not
+in those number of doses. Now, question is, how do we know what is the amount of
+nitrogen which is already available in the soil?
+It is important to know how much of the nutrient is already present in the soil because
+the soil is already has another crop previous crop another previous crop there could be
+some now nitrogen fixing crops taken. So, it is possible that nitrogen is already there in
+that the field. So, it is very important to know what is the amount available at particular
+location in the field and how much we should apply; so, that we save there. So, on that
+basis we created we have designed one GPS based automatic variable rate fertilizer
+application system. (Refer Slide Time: 01:47)
+What is the variable rate fertilizer application system? We desire see we would like to
+know at a particular as I said at a particular location in the field, what is the amount of
+nitrogen there and how much should be applied for the crop. Because it may happen that
+if you have large amount of already available and you put certain amount, then excess of
+anything is bad. So, you will find that if it is that their amount then there will be a
+problem.
+Now advantages is, it reduce the cost of production definitely, the input cost minimize
+the wastage of fertilizer unnecessary and reduce the risk of environmental pollution yes
+and on both counts the environment of the soil also will be hampered. So, these are the
+benefits of the variable rate fertilizer application. We would like to apply very fertilizer
+at varying rates in the different locations in the and the field. (Refer Slide Time: 02:54)
+Two basic methods of implementing site specific inform information for VRFA. In fact,
+there are two basic methods of implementing this. See what we want to know how what
+is the level available at present and how much we should give, this is what we want to
+know. How based we can know? One is that we have a sensor take the sensor and then
+go in the field and wherever the sensor tells us that, the value is less than a particular
+value we will record and then apply immediately on there that this is on the go or you
+can say that sensor based approach.
+Now another one is map based approach; that means, we map the whole field and find
+out how what is the location of the of that field with respect to the other look other parts
+and then what is the content of the nutrients at various locations in that field. This is we
+create a map of that and on the basis of the map if we take the map and then use with the
+power advanced technology of MATLAB and other software’s through which we will be
+in a position to store this information.
+And then when we go at that location, the sensor will identify that this is the location
+where this much is to be applied and accordingly we can apply. So, this the map based
+approach  we have two items;  the  sensor based  approach  and  map  based approach.
+Nitrogen requirement of the soil we know, algorithm for managing the fertilizer drop,
+sensor based approach, detection of fertilizer present in the soil using sensors and mapbased approaches as I said, detection of the current grid using GPS and then of course,
+release of fertilizer for both the system.
+So, this is a system by which we you either take this or this, but let, but sensor base
+approach is still people are applying or trying in the world and we have not got any on
+the lagoons sensor based approach for doing this. But most of the people have done map
+based approach and this map base mostly is that the difficulty is that you need to create
+map for all the locations wherever you there.
+But there are other aspects whether you should when you should create? Whether you
+should carry create it after each and every crop or whether you should have a 3 year
+period and whether you should have a how much number of samples you should take and
+things like that, if you want to create a map based approach. 
+(Refer Slide Time: 05:29)
+Structure of the block; now what will happen? You have a GPS, the GPS base, you can
+have that a computer will be there, then microcontroller then the DC motor, a rake and
+pinion arrangement, then they feed shaft with their variable rate application, then you can
+have the chain and chain drive and then the ground wheel. So, from the ground wheel
+you will get here and then the information will be there for variable application of the
+seed. (Refer Slide Time: 05:57)
+Now, this is the conceptual diagram of a GPS based system here, you can see. This is the
+GPS rover here then this is the satellite here information the GPS antenna base which
+will be there outside and then the processor, the GPS module in this and then here is the
+controlling unit and this is the location which we are going to apply.
+So, the tractor movement is taking place in this direction. So, the conceptually this that
+we get information connecting these with the GPS, which is there on the tractor itself,
+then the base antenna is there and GPS base antenna is there and the processor is there,
+where we stored the information and then when we tractor goes to that particular grid or
+the location it identifies and goes back to the processor and tells and accordingly this
+controlling unit will do the job. (Refer Slide Time: 06:57)
+Well, selection mapping of experimental field; you should say for example, 20 × 40
+meter field has been chosen here. And you can see the grids which have been made here;
+you can if you can see the grids, which are made here and this. So, we are in a position to
+map this field. So, whole this is the process by which you should do we have done it at
+IIT, Kharagpur and that is why we want to show you this information and for your
+knowledge and which you can add and do something better. 
+(Refer Slide Time: 07:34)
+Well, sad way of the experimental field will DGPS; Differential GPS, you can see that
+we will survey. This is the one which is there at the base and then antenna and we can go
+to different locations and survey the field. Well this is very important to know what are
+the locations and what is where at this position we must have. So, the survey of the
+experimental field within DGPS that we do. 
+(Refer Slide Time: 08:03)
+In fact, see collection of soil sample; the soil sample collection is very important. From
+each of the grids, you can see that these are the grids over here. So, how many samples
+we should take as I showed you the field? So, in the field itself we should have different
+grids and out of the grids the you should take optimum number of samples.
+Maybe in a grid of say 5 meter × 5 meter or 2 meter × 2 meter, you can take from the
+centre and from the sides or the corners you can take or if it is a bigger one then you can
+take accordingly. Now, this depends on the designer, on your on your ingenuity, on your
+own experience etcetera and then this samples have to be taken to the laboratory and you
+can see that this is a very tedious task. But we need to do it for having the map, because
+until unless you do this in the laboratory at large scale basis you will not have an
+information.
+And as a designer you must have such studies done for different locations to get a
+projected idea about a larger field; this is very important.(Refer Slide Time: 09:18).
+Well, locations points experimental field with respect to true north and true east well.
+This talks up the survey points of latitude and longitude of the location here. Now this is
+the one which we did at IIT, Kharagpur that information is over given over here, how is
+the rover when it is going to different locations what are the latitude and longitude at that
+place; it is important because this information has to be feed to the computer and the
+software, we will read this at the point when the tractor moves and goes to that particular
+location. So, it is very important to have this survey points latitude and longitude of that
+location this is the one which we have done at Kharagpur.
+And accordingly this has been created you need to create this for your requirement and
+these are basics information which must be done. (Refer Slide Time: 10:18).
+Well, on the same basis I can just tell you that see the latitude longitude of experimental
+field at IIT, Kharagpur. This is the location where we have and these are the all details of
+that points which have been surveyed here. Now, this is the one which is available
+nitrogen selected  field we can have. In fact, we have developed for potassium and
+phosphorus I mean P and K as well; that means phosphorus P, but for nitrogen only I
+have shown you here that we have developed this particular source that when you have
+this colour they were 200 kg of per hectare is available for 150 kg and 100 kg.
+Now, this is the field, now in the different grids that we can these are the different grids
+and at those different grids this is the availability of nitrogen, available of nitrogen in the
+selected field. This is one example of how do we do it, when we take the information of
+GPS, differential DGPS, take the soil samples the number of soil samples then take them
+into the laboratory and find out the NPK etcetera. So, we have created the maps of NPK
+all, but I am showing you only a map of N. (Refer Slide Time: 11:40)
+Well, we have also created a graph graphical user interface for grid identification, this is
+very important. Well I am not giving you all details of this part because these are all part
+of the IPR and all that, but these people have this is very simple one which they students
+have developed, our students we have developed here and it is in a position to tell us as
+to see what is the current fertilizer rate at a particular grid code say here. Then the
+required is this, then the current length is this.
+Now  this will talk of how much is the exposure that has to be given. So, you can see
+here that when it goes to a particular spot, it will tell us the current location is this and
+then at a particular grid and this is the exposure length, we need to; that means, you need
+to explain here. So, this shows that calibration curve here, I mean the slope of the
+calibration curve all details which shows us in this grid It is a very simple one, this very
+effective one for the designer, which we have developed. (Refer Slide Time: 12:56)
+This is the flow chart of the algorithm for automatic fertilizer at the flow chart well. It is
+what giving the flow chart to you can have an idea about this. See this start of the
+program starts here. What inputs it takes the inputs are in the comport, band rate and
+fertilizer rate. Certain these are important inputs when you go into details of the electrons
+part, you will understand what they are, but this system we have developed at IIT,
+Kharagpur and that GPS data equations and processing the GPS data, which we have I
+have shown you earlier of latitude and longitude that information.
+Then if let you longitude of a current location is matching. So, there are certain aspects
+which we will talk of whether it is matching or not depending upon the requirement at
+particular ways. Then the DC motor will actuate and set exposure length as I showed you
+in the GUI which was shown earlier, this is the flow chart for that. (Refer Slide Time: 14:03).
+Power train for VRFA system, well, this is a power train now we know that this is the
+metering shaft here and then these are the locations where how we are in a position to
+operate this. These are these individual flutes which are there and then this portion has
+been large here. You can see the position sensor, there is a position sensor which is
+connected over here and then this will operate at this location so that the fluted roll can
+be adjusted. This shows the DC motor with rack and pinion arrangement.
+So, it will this is the power train of the variable red fertilizer applicator system which is
+there. This talks of the one which is existing and if you want to design and have a change
+in these, it depends on you can think of a new system whatever for fertilizer, or for seed
+etcetera. You can think of that this is system which we have created and want to let you
+know. (Refer Slide Time: 15:09).
+Well developed electronic circuit we can show that here the just the Servo motor, the
+Potentiometer, Relay switch and Arduino Uno all these are shown over here; 1 is the
+servo motor here, 2 is the potentiometer in this case, the 3 here is a relay switch and 4th
+is the Arduino Uno. So, we are in a position to show you and this is the unit which has
+been developed in the field and in fact, we have operated and this has given us a result
+which is very close to our acceptability. 
+(Refer Slide Time: 15:49).
+Well, field test we have done field test of this let me have a look at this. The micro
+controller, the micro controller is here, the fertilizer applicator is here. Then these the DC
+motor at this location and the roller position sensor roller position sensor ok, then base
+GPS is here, rover GPS is in this place. 
+Now, then we are in a position to see in the field, this has been in fact, we have also
+operated this in the field and we have measured this is for experiments. So, we have just
+put polythene in order to know that, what is the amount which is falling when the system
+is working in the field. So, it is a field test which we have done at this place to see
+whether our system has worked or not. So, this is one innovation that we have done at
+IIT, Kharagpur and which is compared to anywhere world in fact, system and which is
+working. 
+(Refer Slide Time: 16:57)
+Well when we compare this with the output the results of these two we find that we are
+not very much off, the fertilizer application system we find that we are in a position to
+give application rates between these two vary as low as 5 to about 400 kg; that means,
+for a smaller seeds also we can do and as high as high application rate and the variation
+in the application rate is not very much, it is very small. 
+You can see the graph itself you can see the predicted and actual graph itself which will
+give you a good idea about this and the actual fertilizer application and the theoreticalfail. So, you get a very good R square value of this which says that the system has
+worked well and there is a promise for this. 
+Thank you very much. 

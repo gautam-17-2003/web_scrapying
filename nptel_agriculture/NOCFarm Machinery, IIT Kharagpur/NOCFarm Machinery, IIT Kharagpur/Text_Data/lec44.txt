@@ -1,0 +1,277 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 44
+Advanced Level Spraying Equipment: Ultrasonic Sensor Based Sprayer
+Well, students welcome to the lecture number 44, where so far we had discussed about
+the various types of a Spraying equipment which are available to main the different
+locations and the text books etcetera, might have seen. We discussed all the gamest, all
+the pests of that and all the features. We talked about the Sprayers, Nozzles that other
+details everything we have discussed.
+Now we will discuss certain Advanced Level equipment which are available and this
+particular equipment in fact, is a one which is used in a practical situation. In fact, what
+happen in that Maharashtra there are pomegranate orchards; and in those orchards, there
+was a problem that whenever there is some insect or pest attacked on to the orchards, the
+sprayers available or that they continuously once a tractor run units are available.
+And once they are started, they will keep on completing the operation. They will not stop
+in between. So, irrespective of where whether the pomegranate plant is there on the
+canopy is there or not, it will continue. Now, this way lot of chemical or the actual cost
+of chemical as well as the time taken so, we lost a lot of chemical.
+So, this problem was a given to us at IIT Kharagpur to find out what can be done so that
+we only apply at the canopy at the required target and we do not required at the other
+place. So, this become a challenge, we have to do lot of background work by going over,
+there in Rahuri in Maharashtra and we did this work.
+So, I would like to tell you, how we proceed it for this particular device which is
+ultrasonic sensor. We used the ultrasonic sensor for doing this particular job and we
+achieved a reasonably good level of success on that. So, let us go through this slide
+which I have brought for you.(Refer Slide Time: 02:36)
+Need of advanced level. Well, the existing why advanced level as I said that this is a
+problem which was already given to us so, we have done.
+In the existing system, there is no cutoff that is what is see the a system which are
+available there is no cut off. That means, to avoid this spraying between the plants, in
+between the plants then. So, more than 50 percent of this chemical or the insecticide or
+pesticides and fungicides is wasted unnecessary. It should be only applied, it will target
+where which is required.
+Now, this and so, this very requirement is as enough to justify that you must go for a
+upgraded information based technology which will save this chemical and that is how we
+launched on to this particular task of their designing, ultrasonic sensor based sprayer.
+What we had taken is we are taken the sprayer which is the concept which are already
+there we saw us. That means, there is should be a tank, there should be a pump and there
+should be delivery tube and thinks like that but then, how to coordinate all this things;
+how to have a sensor which will go in front and then in form system to switch on and off.
+So, this is what was done.(Refer Slide Time: 03:55)
+So, the working principle of this ultrasonic sensor based spray; what is the working
+principle here is based on the objects sensing its this ultrasonic sprayer system, ultrasonic
+sensor if it is find say objects in its path. Then, immediately it reflects and then, that
+concept a principle of that is utilized. So, ultrasonic sensor generates high frequency
+sound waves and evaluate the eco which is received back by the sensor. So, this is the
+concept of ultrasonic sensor. It generates high frequency sound waves and then, the eco
+is received back by the sensor.
+So that means, it knows that where is it and how far is the target. So, depending upon the
+distance that you maintain for the target and the unit, you can know that what sort of
+timing you should fix so that by the time, the target reached when you are moving into
+the rotor spacing you will find the target exactly at that location.
+This is the challenge to be designed. So, nozzle stops spraying the plant is not present.
+That means, the moment, it will say that it is located the target it will spray. If it is not
+located the target, then it will not spray.
+So, there is no wastage. This is what the concept. So, concept is nothing but ultrasonic
+sensors which will have high frequency sound and then, they receive back the eco and
+this is the one which talks of which crux of the whole aspect of design.How do we plant this what should be distance; at what distance it should be fixed so that
+it reaches to the target, gets information and then feeds it back to a controlling system a
+system which will deliver this information back to the in a pump and then, to the details
+and ultimately, it will be to the nozzles and then to the spray system. So, this is what has
+been thought of in the ultrasonic sensor. 
+(Refer Slide Time: 06:06)
+When I said that to a lot of work we have to do while we went for this particular task
+because we need to know what is the canopy size; what is the spacing between the
+different plants of the pomegranate and what is the total agitation that we get; how they
+are planted and things by that background information is very important. So, people went
+there and got this background information about the plant its genetics, its details of
+morphology and all  details  and the growth rate and its  total spread up the  canopy
+etcetera.
+So, here just concept is here that to a microcontroller is here in this will say that there is a
+ultrasonic sensor which is kept over here and there is a microcontroller here. So, now,
+these two will try to synchronize and try to do the job. So, this sensor will give the
+information and then, microcontroller will try to process the information and then try to
+inform to the other systems in the process. I will come to that later. (Refer Slide Time: 07:24)
+So, if a small prototype was made, now what are the details of this prototype? What will
+be there, you know that. The moment you talking of a spraying system, you have to have
+the location where you should have the liquid. So, the tank or even holder, where you are
+holding the tank the liquid.
+So, this is the tank here, this is the tank this even here. Then, the nozzles; where are the
+nozzles ok? So, you can see that these are the details of the pipes and this is nozzle over
+here. Then, where is the solenoid; where is a solenoid? Now why solenoid? We wanted
+to regulate  this information very precisely. So, we have got this electrical solenoid
+valves. So, these valves will help you in precisely doing the job which was informed to it
+and the.
+Now, this there is a frame created, there is a frame created for attaching the system is
+created for attaching the system. Now, these are the other details you can see here that
+these sensors that are sensors here put here that means the sensors on two sides of this
+when the system will be going in. They are on the two sides and these the complete
+frame here is the complete frame here on which the whole thing is connected. So, and
+this is pump this pump where is connected here, this pump will be operated by taking
+power from the PTO.
+So, you can say through the universal joint we joint the PTO and from here you can you
+can see that this is power, power which is transferred. So, in this we are transferring thepower from the PTO to the pump. So, pump runs. So, once the pump runs, the delivery is
+available to you. Now, how to transmit that available; when to do it; how the process
+moves as we said earlier that we need to know where is the target.
+So, that is done by these ultrasonic sensors. So, this if you talk of this which is on a with
+this side, the other one is other side. So, this will in fact, first identify the target. The
+moment it identifies the target, you can see that this is at a distance of this from here.
+This is nozzles are here and this is at certain distance.
+So, we need to maintain this distance. Generally this distance varies between 2 to 3
+meters or so. So, depending upon what is the type of the sensor, generally within 3
+meters we would like to keep the sensor and the nozzles and we also need to match the
+speed of the tractor now.
+This is we can and you cannot see the tractor we will show you in the demonstration and
+the video will show you where you can understand and then appreciate that how this
+target is identified and accordingly, the speed is controlled in such a way that by the time
+it is reach there, the spraying the starts and it stops the moment we cross that. So, this is
+the  preliminary  system,  the  first system,  the  base system  which  we  had  developed
+initially.
+Now, this system in fact, we carried the system we did some preliminary testing at IIT
+Kharagpur and after that we had taken the system to Rahuri in that particular location if
+there to test whether the type of the nozzles which we have used are perfect or not; the
+system that we have developed is or not and the amount of chemical which is to be
+thrown or which is to be sprayed is alright or not. So, this unit was then transported. So,
+several 100 kilometers to Rahuri in the pomegranate farm for testing.(Refer Slide Time: 11:15)
+Some more details well block diagram of the ultrasonic sensor based spraying system
+certain details which we have given you here. Well, you can know that these systems are
+design and there are IPR protected. So, but then, it helps you to understand that IIT
+Kharagpur  has  developed  the  system  and  in  fact,  there  are  manufacturers  who  are
+interested to take this unit for use.
+Now, if you see here the sensor 2 here, sensor 1 here on the two sides. Then, you can see
+the spray nozzle here and you can say the spray nozzle on this side. Then, you can see
+here solenoid valves that these are the solenoid valves which are there. This is one
+solenoid valve, this is another solenoid valve.
+So, talking of the pump here, this pump here, then there is a safety valve here, this is the
+tank. So, the these the stocks of the pump the operation of the pump, if plant is detected
+you can see here there is plant is detected here then there is a relay switch; accordingly it
+will inform to this spray if it is not. Then, it will go back to end signal processing the
+data which it has received from the sensor.
+So, the same thing is being done for the other side also. This is the microcontroller. So,
+initial the in and out pins microcontroller is the one which has been designed and that
+process the information and deliverers to the through the solenoid valves to the nozzles
+and then the nozzles to their job.Now, we have put the this system has been shown only a single nozzle both side just a
+representative one, but then when you have is canopy and when you want that to be
+spread into a particular canopy, you should know that the canopy must be completely
+drenched; otherwise the insects which are there will not be affected maybe only 50
+percent of the insect infestation will be controlled others will not be.
+So, therefore, you have to orient these nozzles in such a way you have to plan the
+location and orientation of the nozzles and the boom which we are talking with respect to
+the canopy in such a way that you are able to spray the liquid, whether it is insecticides
+or pesticide whatever or from this side to control into the whole sensor.
+Now, the this side is the details of the circuit which is given circuit diagram of the
+spraying system of the same thing which are all details are given here on this power
+supply is given here the ultrasonic transducer is here. Then, the inlet outlet solenoid
+valves are given here. The other details all details with the battery etcetera everything is
+given over here.
+So, with these this is this slide I want to show you that these are electrical circuits and
+these are the block diagram of what we are doing; how we are doing. A conceptual way
+which you can appreciate that yes, it is possible to do this may be that this will give you
+information, which you can think of doing something better than much better than what
+we have done or you can improvise on the this system itself and get better efficiency of
+the system and so on and so forth depending upon if you can understand what is the
+concept which has been try to explain over here. (Refer Slide Time: 14:59)
+Now, testing as I said that this unit was taken in Rahuri, which is in Maharashtra and this
+unit was explained in front of the farmers, the in the directors of research and all this
+people and in fact, we had measured the deposition efficiency etcetera all details.
+So, will just show you how it operates. Just have a look at this you can see if you will be
+able to see here that wherever there is a plant, this spraying and when there is no plant
+these sprays not taking place and these are on both the sides, you can have just look you
+can just look at the performance the weight is doing. 
+And see the way whole nozzles have been oriented. The nozzles have been oriented just
+on the in such a way that from below, from the middle and from the top. So, from all the
+3 orientations the whole plant is drenched and then, this is from one side. When you get
+back to the other side, again, you can find that this will be there.
+You can see these are some of the photographs, which indicate that yes this unit was
+tested at that location, we got certain performance observations which the same and
+those observation where with regard to the nozzles, with regard to the speed up operation
+and with regard to the orientation of the nozzles etcetera.
+And then, what we did in fact, bring brought back the unit at IIT Kharagpur again and
+then, we change the nozzles, we change the orientation, perfected again and then, wetook it back and tested there in front of the people and the farmers and they found that
+this unit is working very well and it this unit ultimately save lot of chemical.
+(Refer Slide Time: 17:10)
+So, you can see another unit what we have. So, we wanted that this unit a air assisted is
+sprayer. Now air assisted spray is available in the market. So, we wanted to see if we can
+attach the one system which we have developed.
+So, if we have developed such system, we would like to check this and in fact, we did it
+and you can see here that the chemical that the chemical losses and drifts etcetera can be
+minimized the using ultrasonic sensor. They developed at IIT Kharagpur, and in fact, in
+this  what  we called  retrofitting  because  this  is  available  in the  market  and we are
+purchase that and then we have fitted our system into this.
+So, you can see the operation. We will see that both the units when the unit was not
+connected, one side we have the air assisted the sprayer which is not connected with our
+system and the other side which is connected with the ultrasonic sensor. So, you see the
+operation of that and then you will be able to appreciate that are the system is really
+working well. So, you can have a look at this. See that on this side this is here, you can
+see that only one side is spraying because the other side seen the canopy is not there it is
+on the road.So, we wanted you can have a look at this that. It is just spraying on the plants wherever
+and here you can find the on their side which was there in simply throwing all over and
+this is the problem with this that you are not able to safe, so much of chemical you will
+have so much of volume of material, you have to create and you will lose about 50
+percent of that.
+So, with this you this unit we are in a position to save about 45 to 50 percent of the
+whole chemical which we have that this location. You can see that this is these are the
+systems which are available here, you can see here. Whenever there is air; there are
+certain modifications that infact this is the first prototype and you can say that initial trial
+which  we  are  doing  after  fitting  this  system,  which  is  ultrasonic  sensor  which  is
+developed at IIT Kharagpur.
+So, there could be some initial hiccups and we need to change the orientation of this we
+need to direct the orientation of all this things. In fact, we also need to maintain the
+pressure etcetera and maybe size of the solenoid valves. We observed certain of these
+aspects which we wanted and that is why we are in confident that this system the
+ultrasonic sensor system which has been developed is worth having system and it will
+save the chemicals and definitely, it will better for the farmer. So, the cost of application
+will come down.
+(Refer Slide Time: 20:06)
+Now, we wanted to compare certain values with respect to this here; Laboratory test data
+and Modified sprayer here. Field test data of modified sprayer here. So, in the laboratory
+what  we got?  See. This  is  important  because  the  until  unleess  you  test  this  under
+laboratory and the field conditions you may not be in a position to appreciate what we
+have got.
+So, laboratory test date of the modified sprayer and field test data of the modified sprayer
+on 2 sides; you can just have a look at this. See at the pressure, when we are wearing the
+pressure when you are a pressure is 400, discharge is this the nozzle angle is this much
+and  overlap  is  this.  Now,  accordingly  as  you are  increasing  the  pressure here,  the
+discharge is changing and the nozzle angle is also changing here.
+At the same time overall overlap now we what is important is when you are you using
+such units the designer or the engineer has to go in details of how to fix; what is the
+location of the nozzle; what should be the height of the nozzle; what should be the spray
+angle of the nozzle; how much overlap that we want to put and all that.
+So, these details are very important when you are doing the modification, you are doing
+the testing or you are doing the design of the such systems. So, you can see here that as
+the pressure increased from here to here, the overlapping is also increase. So, you the
+know what is important is if the size of the if the location at where the nozzle is kept is
+remaining same; then, in order to match this you have to have you can’t have wearing.
+So, at the pressure increases this should not be like this. So, depending upon what you
+want to have and how you want to have, this is important for a laboratory testing. Now,
+in field test we have all the details which are given because it has the engine tractor
+model and all this which we had tested. So, all these details are given at what variety was
+utilized and what is the discharge rate; what will the pump pressure which we had follow
+and what is the chemical saving. So, in fact, this is one which is very important. We
+could save about 45 to 50 percent of the chemical in this system which we have done. 
+So,  the  modified  sprayer  with  this  sprayer  when  we  purchase  from  the  market  be
+modified it with our ultrasonic sensor and then, we compared we found that about 45 to
+50 percent of the chemically we can save. So, through this lecture what we wanted to
+inform to you that there is need for use of sensors and artificial intelligence knowledge
+into and the design of the equipment which will help us in minimizing the inputs whichis required. In fact, because as you know that as the area is decreasing, the land is
+decreasing; but then population is increasing. So, we need to field more and more.
+And for that, we need to produce more they can production has to be more in the same
+land and for that, each and every parameter has to be looked into whether we are talking
+of seed; whether we are talking of  fertilizer, where you are talking out the chemical,
+everything at the machine energy the fuel energy everything that we are talking of has to
+be minimized or optimized to the extent that we maximize the output and minimize this. 
+Now, this can be done today this only possible if you have the high grade sensors or high
+grade technology which is already available today. The farmer should be in a position to
+understand  which  technology  I should  take  and  in  fact,  it  should  be an  affordable
+technology. Now you see through this example you have seen that how by using simple
+ultrasonic sensors this sensors which are already available in the market, they can put
+together this solenoid bulbs are available; if you can put together and cost of another 10-
+15 thousand more, you are in a position to say about 40 to 50 percent. 
+So, if you take the whole economics over a period of time, then you see that this system
+is very very economical and the input will be to just as required. So, these are the things
+which need to be utilized. So, high technology has to be apply employed for all these
+operations.
+Now the closed here so far as the ultrasonic sensor is concerned; you will also be in our
+earlier next lecture maybe we will be talking of what is the other technology which can
+be used. We have various types of technology; what can be used for some other aspect,
+but always we need to understand that this technology must be within the reach of the
+farmer.
+So, there are double you can say the challenges to the agricultural engineers, while they
+are not equip with the electronics knowledge which they have, but then they need to take
+help  of their  technology  and then,  they have  to think  of how  they can  utilize  this
+knowledge.
+So, and the effort is going on this direction if this integrated approach is allowed, then it
+is possible that we can use this high technology which is available and used for all sorts
+of operations not only spraying, we can also think of minimizing the fuel which is beingapplied; we can also think of the we had talked of the earlier lectures if you have
+followed my lecturer, where we talked of nutrients.
+So, if you can online if you have more information about online, nutrient availability in
+the soil and you can apply through that we can use GPS or through the embedded
+systems, we have talked of this. So, what is important is that the modern technology
+needs to be implemented in to design of machines for agriculture, which will help in
+minimizing the input cost and then, maximizing the output.
+Now with this I think will close here and then, if you have any other questions, we will
+definitely welcome and queries etcetera which would have and.
+Thank you very much.

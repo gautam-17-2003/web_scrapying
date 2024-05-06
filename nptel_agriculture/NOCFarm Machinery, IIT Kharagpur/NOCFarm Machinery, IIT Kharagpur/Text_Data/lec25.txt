@@ -1,0 +1,291 @@
+Farm Machinery
+Prof. V. K. Tewari
+Department of Agricultural and Food Engineering
+Indian Institute of Technology, Kharagpur
+Lecture – 25
+Design a Tractor Drawn Seed Drill for a 40 hp Tractor – II
+Well, students now we had discussed the certain components of the seed drill in my
+previous lecture. Now, we will talk of the other components. We have talked of what?
+We have talked of the seed hopper and then we have talked of the metering mechanism.
+Now, what is important is that we should now once the seed is metered or the fertilizer is
+metered it must reach to the furrow opener. Now, what is the design of the furrow
+opener, what is the type of it, what is the shape of it, what is the size of it what material
+construction should be there for this? Now, this will be discussed in this particular
+section of the design.
+We are still talking of the same 40 horsepower tractor with which we have seed cum
+fertilizer drill. So, this is in the series and we have given that tractor on seed drill for a 40
+horsepower tractor to that mean design two; second part in which the other components
+will be taken care of. Let us go and see how they have been designed.
+In fact, I must tell  you that whatever we are doing here we are keeping things  in
+sequence, because you have been told about the theory and then you have told about the
+details  of the  material  construction  and the various parameters, the values  of those
+parameters which are available from literature and out of the experience of data available
+from other people and scientists and engineers we have taken those values. 
+And that is why you will find in this part that most of the things are known to you. But
+yes, we will go into details slightly, so that you and follow this and then you should be in
+a position to design something which you which you want to have something different
+than this maybe if you want to have for a 20 horsepower tractor what should be there, for
+a 60 horsepower tractor what should be there or for a 100 horsepower tractor what
+should be there; all these things will be the way you want. But, this is a procedure which
+is being followed and which can remain as a base for your knowledge.
+So, let us go by the different slides.(Refer Slide Time: 02:25)
+Design of the tine or which we have seen earlier, now, what do you mean by this? We
+have discussed that we talked of the amount of force that the tine tip, now this tine tip
+will be encountering it is very important we need to know how much the force that this
+will  be  encountering  is?  These  are  the  different  lengths  etcetera  which  we  have
+discussed, this is the depth up to which it will be going, this is your tube for the fertilizer
+for the seed and this is the gap which we should maintain for fixing etcetera into the
+frame.
+So, when we have this D e, we would like to know what this D e is? Now, this De is
+nothing, but one tine cross section area of the furrow and soil resistance force into factor
+of safety. Yes, we do need factor of safety as I have emphasized it time and again that
+factor of safety is a very important because, this is going into a soil and we are not aware
+of the various constraints of the soil sometimes may be hard portion. And hence we
+should be able to work out and that is why factor of safety has to be taken care of.
+Now, this cross section area of the furrow; so A is the cross section area of the furrow, S r
+is the soil resistance force which is there and of course. So now, soil resistance force we
+are talking either N or kg that we are you are aware of and cross section area in this unit.
+Now, very important is the unit of the particular parameter which is important, otherwise
+you will end up with a value which is very much off your requirement. Theoretical drafton one tine therefore, D e which is theoretical draft on one tine using the factor of safety
+this is this.
+So, width of furrow opener this need not be told we have already talked of width of
+furrow opener B0 which has been shown to you earlier and a max is the maximum depth
+of operation which we have taken in the earlier case. So, using a max and 2a max × B0
+width of the furrow. So, what we get here is D e which is equal to 48 × 0.4 × 2; 2 is the
+factor of safety and this then D e is actually 38.4 and this 38.4 in fact, we had got earlier
+as well.
+So, using this value what you get is you are getting the value of draft on a single tine and
+we have discussed that there are 13 tines which we have taken into consideration. So, we
+need to proceed from here. This  is  the basic because we must know the soil now
+supposing that soil is changed if the soil is different, then this soil resistance force will be
+will be different what you get. We had taken a certain lateritic sandy loam soil at
+Kharagpur we get the soil. So, we are very much familiar and that is why we have given
+you here.
+But, supposing you are talking of a black cotton soil or if talking of some other alluvial
+soil then in those conditions though value will change and if that these value changes
+then accordingly value of this will also change here. So, you must keep this in mind
+which soil you are considering this is very important.
+(Refer Slide Time: 06:08)
+Further, moment on the tine: well, once we know this we have discussed in the theory
+part that what are the different forces and moments which are coming on to the tine. See,
+it is very important from the safety and the strength parameter to be calculated for these.
+So, a strength parameter, strength of this material which is there, which we are calling as
+tine: so strength of this.
+Now, what are the forces that are coming into picture is the bending moment then and
+hence the bending stress then the torsional moment. Now, we have talked of this because
+these are the ones which will be encountered when these when the furrow is when the
+tine is moving and the seed drill is moving forward it will come across these forces, one
+will try to bend the other will try to twist that. And, if that happens we should have
+enough strength of that tine. So, that it will encounter this overcome this and then go
+ahead without any damage and that is why we are talking of a factor of safety.
+So, with these calculations which are already told to you we would say that draft on one
+tine into moment arm length will give you the bending moment B M. And then this value
+has been found out to this because then you know; what is the H’ which has been taken
+already in the previous case we have given you and the value of D e has already been
+known to you. So, 38.4 which is the value we have taken and 30 centimeter is this value.
+So, we are in a position to get 1152 kg centimeter is the bending moment.
+Now, with this bending moment using the standard formulae from machine design you
+can get this here, where Y and I are known to you moment of inertia and Y is the section
+distance between from this section and B M is the value which you are getting from here.
+So, then TB the bending stress is now found out to be this here, where t, b etcetera is
+known about the thickness, because we will not go into deals of this which we have
+already explained to you earlier and that is why I am not going to details off explaining,
+but then you know what are all these things. And therefore, the T B is given as this.
+Similarly, then torsion moment on the tine, in case of half sweep type furrow opener. We
+are talking of a half sweep type furrow opener here. So, the polar moment of in fact,
+these values here has been taken you can see this that the polar moment of inertia of that
+section which we are considering for the tine. So, for a half sweep type furrow opener
+then draft on one tine which is known to us here D e and width of the half sweep divided
+by 2. So, what we get is, this is the value what we are getting. B 0 is known to us becauseB0 we have explained earlier I need not go into more details. B 0 has been told to you
+what B0 was, and therefore T M or the torsional moment is nothing but T M is equal to De
+this.
+ Well, what we have discussed earlier and I still feel that the ratio between the thickness t
+and the width b tine is generally taken 1:4 many a cases it goes higher also maybe 1:6
+also because, it depends on the material available because the material available in the
+market.  Say,  you  have  found  out  or  you  have  designed  for  1:4,  but  then  material
+available in the market is slightly thicker. And I think it is better to take that rather than
+taking exactly you may not get you will get either something less than that which will
+not be acceptable to you and something more. So, x is the next available to you could be
+about 1:6. And therefore, maybe you can take that.
+(Refer Slide Time: 10:22)
+So, then using this T M which is like this here and putting those values we have discussed
+this. So, putting the value D e is 38.4, B0 is 6 which we have taken earlier and this is 2.
+So, we are getting kg centimeter because 6 is the value which we had already assumed
+earlier. So, TM is this kg centimeter.
+Torsional stress then using the same formula again from the from the design books we
+can get that τm is equal to this here. Now, t3 see this J here the polar area section modulus
+is given by this is from the standard machine design book you can get, and using this
+value then taking a value of t and b in a ratio such that we are in a position to get t interms of t3 here in terms of t3. And, therefore, the equivalent is stress then is given by this
+value here. You may recall where did it come from. In fact, this K t should be this value,
+should be this, should be K t this should be Kt here and TM.
+So, Kb and Kt if you recall we had talked of this K b and Kt. These are the parameters
+which are essential for the bending stress and the torsional stresses and the values for a
+stationery case we talked of you can have K b is equal to Kt is equal to 1 or you can have
+Kb may be 1, but Kt twisting moment can vary from 1 to 1.5 and even sometimes 2.
+Now, in this case we have taken K t as 2 and Kb as 1. These are important because this
+will give you enough strength of the material of construction which we have taken,
+because you are designing for a case where you do not know what will be the load
+coming into the soil and what will be the moisture of the soil, what will be the type
+etcetera. So, that is why we must go for a very strong a material of construction and the
+component which is therefore this and that is why nothing harm and taking K t is equal to
+2.
+And, therefore, using this we are in a position to get T equivalent using these values of
+Kb, Kt, τb then τt with these now here we are in a position to get this equation here and so,
+we need to get the value of t3 here and then see what we have got this value.
+(Refer Slide Time: 13:13)
+Well, so, this is what we have got the value t is 6 mm, it comes to 6.09. Well, since 6 is
+available you can take from the market, because 0.09. Since, you have taken factor of
+safety I think you will even if you take 6 mm it is not going to be wrong or it is not going
+to be one which will not which will not sustain the load which is going to have.
+So, therefore, if you take a value of this and due to dimensional stability we generally
+take minimum thickness to be 10 mm well of the material which is available. What is
+important is 6 mm we have got the value, but then you do not get, what you get in the
+market is depending upon what is the gauge of that material of construction of the type
+which is available to you and the one which is available is about 10 millimeter. So, if we
+take t to be 10 millimeter, then the value of b could be taken as 40 millimeter. Here we
+are assuming that the ratio could be 1:4 when we consider the ratio of t, b; t:b is equal to
+1:4.
+Now, if we take this then this is here, but it is also possible that to be strong enough you
+can take this values to be 1:6 as well, this is what you can do. And, so, that the whole
+design is well stout and then strong enough to take care of all sorts of load in a visco-
+elastic material which is the soil and which keeps on varying from maybe every 10-15
+meters or so if you go below the a ploughing depth. So, take care of all the eventualities
+we can take something like this.
+(Refer Slide Time: 15:08)
+Now, we need to know about the toolbar of the frame. We have now discussed that what
+will be the tine, what will be the number of tines: we have already discussed what should
+be the design of the tine, we have discussed then now we know that these many tines are
+to be fitted. Now, where they will be fitted and there the question of the frame comes the
+bigger frame comes where? You could see this is the frame where we would like to we
+would like to see that a frame like this. So, we need to design this particular frame and
+what will be the strength of this what should be the size of this, what should be the you
+can say the thickness of this particular material etcetera and what type of the section this
+will have this is very important. So, we need to design the toolbar or the frame for which
+you can fit all these details.
+So, total draft on a frame is the soil resistance which is available and the cross section
+area of furrow and to number of tines. It is very simple because then cross sectional area
+of furrow is known to you and the number of tines are known. So, you know what is the
+total soil load that he will encounter and then what is the filter resistance definitely when
+you multiply by the soil resistance you will know through this area. You will know with
+the number of tines you will know what is the total draft or the soil force that it will
+encounter while it is moving. So, that much has to be at least that much has to be
+sustained and with withstood by the frame.
+So, the draft on one tine is total draft divided by number of tines here. So, theoretical
+draft on one tine is in fact, that 38.4 kg we have already got in the earlier case. So, this
+need not be talked of. In fact, what we are talking of the total load. So, the total load is
+this, soil resistance cross section and number of tines.
+Then let us see; what are the values using a certain factor of safety we have definitely
+taken care of.(Refer Slide Time: 17:24)
+Bending moment: this bending moment acts about central axis of the frame, well. Here it
+is important to understand this figure is known to you, because I have discussed this in
+the earlier case and purposely I have kept this, so that you will be able to connect from
+the previous lecture to this lecture. So, these are known to you and you have seen that
+these RA and RB are at the same location. So, everything is same and then you will be
+able to recall because after all as a designer. And in this lecture series you should be able
+to recall what we have discussed earlier and it would be easier for you and that is why I
+have kept them over here. So, that it is easier for you to take up.
+Now, as well as the tines also we have discussed over here and shown to you. So, what is
+MB? MB taking RA here with respect to this you may recall this particular component, this
+is another component, this is another component, this is another component all these or I
+need not tell you these are all the drafts which are known distances which are known to
+you and once these are known you will know that what is the bending moment which is
+acting at this. So, M B will be in a position to get.
+We are aware of D e the value which was shown to you earlier. So, you are aware of this
+De you are aware of this T 0 and accordingly then we are in a position to get these values.
+So, where if you get these values what we get is the 134.4 into this to this minus this into
+this. So, these two there are three 1 2 3 this is nothing, but equal to this value and this is
+equal to this value and similarly this is equal to this value.So, virtually you can see that the difference is only here only this and this. So, 6, 2 and 4
+depending upon what is this position with respect to the location, where we are taking
+the moment. So, with these then M B comes out to be with taking this calculation you can
+check the calculations. And here well, I hope there is no problem in the calculations here,
+but then you can check and try to correct, if there is something wrong or in calculation. I
+hope there is nothing, but then still I would like to give you this challenge to check it. So,
+MB is this much in kg centimeter.
+Now, torsional moment acting on the frame, very important because we have talked of
+these are the moments when the when your beam when the tine is in this fashion it
+encountering the bending and torsional stresses same thing will come on to the frame as
+well, because frame is the one which is carrying all this.
+So, what is that value? Draft on one tine here is known height of the draft frame from the
+one tine and the number of tines very simple, because once you know the number of total
+number of tines and the height at which it is there. So, you will be able to get what is the
+torsional moment which is coming, because then you are aware of the total and then the
+torsion. So, you will be in a position to get this.
+So, this is the value which is 38.4 which were known to you earlier and this height of the
+frame has been taken to by 30 centimeters which was given H’ is the value and then
+seven is the number of tines because we are talking of seven, why? Here we are talking
+of the rear one, the front one will have six because the total number of tines we have
+taken as 13. So, the rear ones will have 6 and now so, the length will be definitely on the
+basis of those seven.
+So, the bending moment this, but I think. So, M T is equal to 8064 kg centimeter, this is
+the value. Now, if we take this consideration of the bending moment which is acting here
+for the frame and the torsional moment we can again go back to the equations which are
+known to us for finding out the values of the equivalent and all that.(Refer Slide Time: 22:01)
+So, we get back to the equivalent moment acting on the frame the equivalent moment
+acting on the frame is this equivalent very simple M B the bending moment and the
+torsional moment here. Equivalent is given and the values which you have got you may
+recall that MB for MB value was this and M T was this much. So, we are getting this is the
+value the Teq is this the value kg centimeter.
+Now, allowable stress: what is the allowable stress that we can think of the material? So,
+Teq/Qi, where Qi is the polar moment of inertia of the section because using the same
+formulae using same formulae we should be in a position to get what is the value of the
+allowable stress of the material.
+Now, we have taken mild steel is the material and hence for that we take then this is from
+the design data book. So, from design data book we are in a position to take this value
+and hence what we are getting over here using these we should be in a position to get this
+t. If you go back to the previous one you will find that we are interested in finding out
+one of the parameters, t the thickness of that. So, this thickness t comes to be point 55
+5.57 millimeter or say 6 mm.
+Now, if the 6 mm here as I have discussed you earlier, what is the thickness and width
+that we can take: I said that it could be vary from 1:4 to 1:6 and here for this we had
+taken slightly higher to take care of the factor of safety and take care of this robustness of
+the frame. So, we have taken t be ratio to b about 1:6. Now, this 1:6 is taken and thepolar moment of inertia of the square cross section is this you may recall that we had also
+talked of what should be the section of that whether a square cross section or rectangular
+cross section. We have taken a square cross section in this case here for the Q i polar
+moment here and that is why this is value which you are talking and this where you has
+been utilized here and we are in a position to get now a as 36 millimeter.
+Now, this width has been told as a, but then you we can a is the a is the side this side
+here this length, this a here. So, in this case the cross section of the frame which will be
+there is a which is equal to about 36 mm and the thickness is 6 mm. In fact, now this is
+the value which we have got. So, depending upon what you are getting in the market you
+should be able to decide these and then pick up those thing for the whole frame.
+(Refer Slide Time: 25:05)
+Well, then design of the tine of shank. Now, design of the tine of the shank we have got
+width of the tine of shank about 10 millimeter, thickness of the tine 40 millimeter we had
+got earlier and the design of frame of toolbar, width of the frame as 6 millimeter and
+thickness of the frame is 36 millimeter.
+Now, you should remember that this the detailed designs which we have talked of so far
+is about the whole of this seed cum fertilizer drill. We started that let us take about a 40
+horsepower tractor. And in that 40 horsepower tractor if we assume what should be the
+power, we cannot get the total power of the tractor and that is why we say that on the
+driver we get about 60 percent of that. So, we have taken 60 percent of that power.Now, that becomes a base. Now, we would like to know what is the force which is
+encountered by the different number, different tines which will be there for opening the
+furrow. So, then by using the unit draft of the soil which is in consideration you can take
+and then also using that. So, as I was discussing that how we go into the details of the
+design we have to find out the total draft we found out the total draft and then we try to
+find out what should be the number of tines. So, we have made a tradeoff between the
+availability of the width of the tractor and the headland management of the total tine
+etcetera and taking care of the field efficiency etcetera, we came out that there should be
+a either 19, 17, 15 or 13.
+We took for example, to explain to you 13 number of tines. Once we have got the tines
+then on the basis of this we wanted to know what should be the amount by using a
+certain crop what should be the amount of a seed rate to be given. So, accordingly on the
+basis of seed rate then we found out what seed rate after we have got the seed rate we
+wanted that how much should be the volume, now the volume will depend, because we
+want that it should not be filled up one.
+So, we wanted that every 2 hours there should be filling. And therefore, we wanted that a
+certain value of the soil a certain value of the seed should be into the hopper and
+accordingly we got that. And, on the basis of the details of the formulae etcetera we
+came out as to what should be them, what should be the number of tines, what should be
+the volume of the hopper and we found that equivalent should be the size of the fertilizer
+drill as well.
+Now, in the second part we had discussed about what should the frame and the tines. We
+discussed the design earlier and that is why I had explained to you that these tines and
+the hopper the frame need to be connected together. And that is why we have discussed
+the details of the tines, details of the frame, the construction of the frame, the cross
+section of the frame and the material etcetera.
+And, in this way we are in now in a position to complete design of a schedule for a 40
+horsepower tractor which you can do for anytime that you want. In the case here is width
+of the frame has come as 36 millimeter and thickness of the frame this is of the tool
+frames cross section actually, this cross section of that. So, with this we have explainedthe in detail what how you design. Now, maybe in the next lecture we will talk of how to
+test a such an things.
+Thank you very much.
