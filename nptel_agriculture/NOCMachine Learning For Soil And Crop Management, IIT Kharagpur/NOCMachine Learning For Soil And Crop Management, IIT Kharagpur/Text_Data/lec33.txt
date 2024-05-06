@@ -1,0 +1,267 @@
+Machine Learning  for Soil and Crop  Management  
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department  
+Indian Institute  of Technology Kharagpur  
+Lecture 33  
+ML and DL for Soil and Crop  Image  Processing  
+(Refer  Slide  Time: 00:29)  
+ 
+Welcome friends  to this NPETL Online  Certification  Course  of Machine Learning for Soil 
+and Crop  Management , and we are currently  in Week  7, and in this week , we are talking  
+about  machine learning and deep  learning  model  for soil and crop image  processing. And 
+today, we  are going to  discuss  the lecture number  33 or  third  lecture of  this week.   
+So, in the previous  two lectures,  we have  already  discussed  about  the different  machine  
+learning  algorithms . Like we have talked  about  two regularization  algorithms , actually  three  
+regularization  algorithm , one is ridge  regression, then we have discussed  Lasso  regression  
+and also, we have discussed  elastic  net regression.   
+So, we have seen what  are their importance , and also we have discussed  how they can 
+compensate the overfit ting problem  which  we generally  encounter  in case of linear  model  or 
+also they  can, how  they  can address  this multicollinearity  problem  in case of  this linear  model  
+we have  discussed . Also, side by side we have  discussed  what  are the different  strategies  for 
+calibration  and validation . Random  holdout  K-fold cross  validation  as well as leave- one cross  
+validation , leave- one-out cross  validation  we have  discussed.  
+So, today we are going to start in details  about  artificial neural  network. In the previous  
+lecture I have told you what  is artificial neural  network , and what  is the basic  functionalities  
+of artificial neural  network, and why what  is the what  is the history of artificial neural  network and then we have  discussed  about  the best why it is called  neura l network, what  is 
+based  on its similarity  with the biological  neuron system  and nervous  system,  we can we 
+define  this as an artificial  neural  network.  
+So, today also we have seen what  are the basic construction of this artificial neural  network  
+that mean s, how a node  is constructed . A node  is constructed  using different  inputs  and these 
+inputs  are having different  weights  and they are these the multiplication  of these  inputs  along 
+with their weights  are calculated  and then they, then if they are higher  than a threshold value,  
+then they will active there will be an activation  function which  will be activated  and an 
+activation  function will activate  and that will pass the signal  from  one node  to another  node . 
+Here node  means  the whole  neuron.  
+So, the signal  or the information  will be transformed  from  these inputs  to outputs  within  a 
+single  node  and these outputs  of a single  node  will be taken  as an input  with the next node  or 
+neuron, and that is why, the information  will pass from  one node  to another  node  or 
+subsequent  nodes. So, this is why it is called  artificial neural  network. And today, we are 
+going to discuss  in details  about  the artificial  neural  network  their features  and basic  
+mathematical  representation . 
+(Refer  Slide  Time: 04: 09) 
+  
+ 
+These will be the two concepts  we actually  are going to cover  today. And then secondly, we 
+are going to cover  the convolutional  neural  network which  is a modification  of the 
+convolution of the artificial  neural  network. So, these artificial neural  networks , and then 
+multilayer  perceptron  or MLP  then activation  function, then convolutional  neural  network  
+and then  convolution these  are the  important  keywords  for this  lecture.   
+So, if we start by recalling  the basic concept  of artificial neural  networks,  remember,  these  
+artificial neural  networks  is basically  composed of an input  layer  it will be basically  
+composed of an input  layer  and then there will be hidden layer  and finally,  there will be an 
+output  layer.  So, the information  will pass from  this input  layer  to the hidden  layer  to the 
+output  layer  and these  information  sorry, inputs  are connected  to the subsequent  layer  by 
+giving some  of the weights . And so, these artificial neural  network  or ANN basically  
+composed of  a node , which  is also known as  the artificial neuron.  You can see this forms  an artificial  neuron,  which  transform , which  transmits  the signal  from  
+the or inputs  from  its input  points  to the output  point. And you remember  in our previous  
+lecture,  I have  showed you the biological  neural  network system  biolog ical neuron. In the 
+biological  neuron there are dendrites,  which  are the receptor  of signals  and then they pass 
+these signals  through the cell body to the axon to the axon end where they will be transmitted  
+to the next neuron through the synaptic  to the synapses,  where the dendrites  of the next node  
+or neuron will again  will receive this  information  from  the tail of  this axon.  
+So, this is how this information  passes.  So, similarly,  here in artificial  neural  network  also it 
+consists  of input  layers  one or more hidden layers  and an output  layer.  So, in reality  you will 
+see they are having one or more  output  layer,  so, each node  or artificial  neuron connects  to 
+another  and has an associate weight  and threshold, we  have  also seen .  
+Now, if the output  of any individual  node  is above  the specified  threshold value,  then node  is 
+activated  by this activation  function and this sending data to the next layer  of the network , 
+otherwise,  if that value  will is less than the threshold predefined  threshold, then there will be 
+no data will which  will pass to the next layer  of the network.  So, this is how, this is why, this 
+is how  this information  passes  from  one layer  to another  layer  in artificial neural  network.  
+(Refer  Slide  Time: 07:37)  
+  
+Now,  let us move  ahead  and see some practical  example.  So, the most  widely  used the 
+practical  application  of this artificial neural  network is the Google  search  engine . We all use 
+this thing and  this is based  on the  artificial neural  network concept.  
+Now,  if we see the basic structure  of an of a node, then you will see that there  are several  
+inputs . We have already  discussed  this in our previous  lecture, so we have  x1, x2 up to xn, 
+and these inputs  are having different  weights  based  on their importance. So, those  inputs  
+which  are more  important, will be having more  weightage  than those  inputs  which  are less 
+important .  
+And ultimately,  there will be a transfer  function which  will sum up the  multiplication  of these 
+inputs  with their weight , and ultimately  these summation  if it, if this net input  which  is 
+denoted by these net j is higher  than a predefined  threshold value then these activation  
+function will be active  these activation  function will be activated  and then the based  on this 
+activation  function, the  final  output  will be  passed  to the next  node.  
+Now,  remember,  there  is no verbatim  signal  passing . Of course,  the if this next  input  is higher  
+than a specified  threshold, then  this activation  function will be  on and obviously based  on this 
+activation  function an output  will be  transmitte d. So, the  output  may  not be same  with  this net 
+inputs , so output  is different.  So, this  is how  these artificial neural  networks  works.  (Refer  Slide  Time: 09:37)  
+ 
+Now,  if we see that some  of the features  of this artificial neural  network  I have  mentione d it 
+that not all inputs  are equal . Of course,  some  inputs  are having more  and more  impact , so 
+those, so that is why their weights  are also different.  So, remember  that the signal  is not 
+passed  down to the next neuron verbatim,  because that depends  on this activation  function. 
+And if this activation  function is on based  on this activation  function,  the output  will be 
+determined  otherwise  the information  will not  pass.   
+So, the output  is a function of the input  that is affected  by the weights  and the transfer  
+function. So, here these  the final output  which  is denoted by O, will be based  on these  inputs  
+and their weights  as well as these activation  function or transfer  function they will calculate 
+based  on that  these final  output  will be  calculated . (Refer  Slide Time: 10:49)  
+ 
+Now,  so, what  are the roles  or features  of an artificial neural  network, why do we prefer  
+artificial neural  network ? Now, the best feature  of artificial  neural  network  or in other  words, 
+why we prefer  artificial  neural  network  in solving a complex  problem  is because it can 
+compute  any computable  function by the appropriate  selection  of the network topology and 
+weighted  values . And these weights  are based  on their experience and also these experience  
+is nothing but  trial and  error.  
+This is a very important  term trial and error. It tries evaluate and adjust  their weight. So, 
+based  on these process , based  on these repetitive  process  it learns  from  the data. And from  
+this just like our brain . We go to a new place we explore  the new,  new things  and these are 
+being stored  in our brain . And then we give it, we know  based  on those  information which  
+are stored  in our brain  we take a decision. And if you see that decision  is not working, then 
+we adjust  our, we rethink and adjust  our decision , so that that decision  can be helpful  for 
+achieving  an objective.  
+So, similarly,  just resembling  our brain , just mimicking  our brain, these  artificial neural  
+networks  also goes for trial and error to adjust  their weight . Because adjusting this weight  
+will only you know  can change  this net input  and this net input  will have  a drastic  effect  of 
+whether  they  will activate that  activation  function or not.  
+So, if  we give  these weights  based  on our experience then  it will be  a true learning  experience  
+and it will be through trial and error.  So, these,  this is the best feature of artificial  neural  
+network because  it can adjust  these weights  based  on trial and error , so it can learn  from  the 
+experience.   So, what  are the three  features  of this trial and error ? First, it will give the trial that means  it 
+will come to the output  function of the given unit input . Second, it will evaluate these output  
+with the original  value.  So, the actual  output  and the predicted  output  will be compared . And 
+if you see there is mismatch  then these artificial  neural  network will adjust  their weight  so 
+that the outputs  can be as close to  the actual  output.  
+So, this is the trial and error, and this is a very important  feature of artificial  neural  network  
+and that is why artificial  neural  netwo rk can compute  or can learn  from  any complex  
+relationship , because it can  adjust  by trial and  error  and it can  learn  from  this experience.   
+(Refer  Slide  Time: 14:03)  
+ 
+So, let us see the mathematically.  So, the mathematically  the simplest design  of this node  will 
+be this one, and we call it a perceptron. So, this is the first and simplest of all the node , which  
+we can in the neural  network. So, here you can obviously see there are x1 and then there are 
+three inputs. Let us consider  these as x2 and then let us consider  this x3 and this will be 
+computed and  finally,  activation  function based  on will be  getting  the output.  
+So, we can see that individual  nodes  can be considered  as its own linear  regression  model.  
+So, if we considered  these individual  node, so, the final output . So, we can consider, we can 
+express  this node  as this summation  of weights . Suppose, there are w1, w2 and w3. So, x1 
+multiplied  by w1, x2, w2, x3. w3 and then we add some  bias or threshold. So, the threshold is 
+defined  by the threshold can be automatically  given  or it can be well defined. So, remember  
+that here we are giving here w1, w2, w3, so more  importance  of an input  they will imply  
+more  weight.  So, suppose  our activation  function says which  is denoted by these  fx, if it is 1, then it will be 
+of no. If according  to our activation  function the condition is if this term that is wy, xi plus 
+threshold will be greater  than 0, then the activation  function will give the output  of 
+1otherwise,  if it is less than  0, then  the activation  function will produce  the output  of 0.  
+So, you can see here based  on these weights, this final term will be calculated  and then we 
+will be getting  these, based  on these condition this activation  function will be activated  and 
+then they will produce  the final output. So, if that output  exceeds  that given threshold, as we 
+have  seen in this case,  so, this threshold then it activates  the node  and passing the data to the 
+next layer  in the network , and these results  in the output  of one node  become the input  of the 
+next node  which  I have already  told you.  
+Now,  this process  of passing  data from  one layer  to the next layer  defines  these  neural  
+network as a feed forward  network. So, you can see the information  is going from  the inputs  
+to the activation  function and then it will go to the output , so it is a feed forward  network. So, 
+you can obviously understand by adjusting these weights  or adjusting these  threshold we can 
+change  the outcome.  
+So, when  we change the weights, when  we change this threshold, we can produce  different  
+types  of outcomes . So, that is why, during the trial and error process  it changes . It changes  
+weights  and so, producing different  types  of outcomes.  So, neural  network could make  
+increasingly  complex  decision , because  of these features  a neural  netwo rk can produce  
+increasingly  complex  decision  depending on the  output  of previous  decision  on layer.   
+So, you can see these layers  are interconnected  these nodes  are interconnected . Since these  
+nodes  are interconnected  and the output  of one node  is dependent  not only the  inputs  but their  
+weights  and also the bias and subsequently the activation  function. So, you can see that how 
+influencing this could be for learning  from  a complex  data set. So, from  a complex  data set, if 
+we want  to learn  by trial and error,  we have to have this kind of complex  setup, so that we 
+can learn  from  the experience by trial and error.   
+So, neural  network  that is why could make increasingly complex  decision  depending on the 
+output  of the previous  decision  layers . So, this is an exam ple of the simplest  model  that is 
+called  perceptron.  (Refer  Slide  Time: 19:07)  
+ 
+Now,  let us see mathematically  remember  that, although we are getting  these neural  networks  
+which  we are having the, it is a linear  function we can see, and we are getting  binary  output  
+like 0,1 or something like that. But in actual  neural  network  they follow  these sigmoid  
+neurons, which  are distinguished by having x values  between  0 and 1.  
+So, these x values  between  0, 1, 1, so that is why. So, you can take any values  between  0, 1, 
+1, so fraction  values  of 0 and 1 so the neural  network they can behave like the decision  trees.  
+Remember  the decision  tree I have already  discussed ? So, in the decision  tree what  happens  
+based  on these decision rules,  there will be hierarchically  segregation  of the data.  So, 
+similarly  in the neural  network also  just like decision  trees,  the x values.   
+So, since they are being distributed  in the next layer  based  on these  rules,  hierarchically,  so, 
+the values  between  0 to 1 can diminishes  the impact  of the variable  change.  So, and 
+ultimately  output  from  a single  node  and ultimately  the output  of the artificial neural  network.  
+So, that is why artificial neural  network is very helpful  for predicting any complex  
+relationship  from  the data.   
+So, what  is the goal of an artificial neural  network ? The goal of an artificial neural  network  
+will be always  to adjust  the weights  and bias to reduce  the cost function. So, in this case,  the 
+cost function is the mean  square  error.  So, you can see when  you plot the value of the weight  
+and loss of information  or so, you can see at a point . So, point  of convergence, where  the cost 
+function is  at its minimum.   So, here the MSE  will be at minimum mean  square  error will be at minimum,  so, this will be 
+the optimum  value  of the weight. So, this value  of the weight  is considered  based  on the point  
+where these error term is or the cost function is minimum.  So, this is how these  error  term is 
+being this  is how  these values  the weights  are being calculated.   
+(Refer  Slide  Time: 21:52)  
+ 
+Now,  most  deep  neural  networks  are feedforward  meaning  they flow in one direction  only. 
+So, that means  from  input  to output . However,  there are some  backpropagation network also 
+which  moves  from  the opposite , which  moves  in the opposite  direction , that means,  from  
+output  to input .  
+So, basically  these backpropagation network, they calculate the attribute  the error associated  
+with each neuron and subsequently adjust  and feed the parameter  of the model. So, this is a backpropagation network. You will see these terms  vary frequently when  you go for these  
+artificial neural  network -based  application.  
+So, what  are the advantages  and disadvantages  of artificial neural  network ? Now, there  are 
+several  advantages . First  of all, it can  adapt  to unknown situation . 
+It is very powerful . It can model  complex  functions , and it is easy to use, it can learn  by 
+examples,  and it is very  little  user  domain- specific  expertise  is needed.  So, anybody can  try to 
+feed their data by using the ANN model, but there is a disadvanta ge also that means,  there 
+will be a large complexity  of the network structure.  So, sometimes  the interpretation  may not 
+be very  straightforward.   
+So, these are some  of the advantages  and disadvantages . But irrespective of these advantages  
+and disadvantages , I would  say, that these artificial neural  network is one of the most  widely  
+used deep  learning method  in current , in modern  artificial intelligence  and machine learning  
+domain.  
+(Refer  Slide  Time: 23:49)  
+ 
+So, we have seen the single  layer  perceptron  but of course,  in real life situation,  there will be 
+a number  of perceptrons , which  are also connected  between  each other. So, of course  they are 
+called  the multilayer ed perceptron.  So, of course,  here you will see that these input  layer  is 
+connected  to the next layer , and this next layer  are subsequently connected  to the numerous  
+multiple  hidden layers  and these f inally,  there will be  an output  layer.   So, this is called  the multilayer  perceptron. Earlier , we have  seen a single  layer  where  the 
+inputs  are comi ng and output  is generated.  So, this is called  the simple  perceptron. However,  
+here you are  seeing  the multilayer  perceptron.  
+So, although, these multilayer  perceptron  actually  comprised  of sigmoid  neurons, not 
+perceptrons  as most  real world  problems  are nonlinear . So, these multilayer  perceptrons  are 
+actually  comprised  of these sigmoid  neurons  non-perceptrons , because the sigmoid  neurons  
+are nonlinear  and remember  that most  of the features  in the real world  situation  are having the  
+nonlinear  relationship . And that is why these  multilayer  perceptron  are basically  composed of 
+the sigmoid  neurons.  
+Now,  what  are the application  of these multilayer  perceptron?  The multilayer  perceptron are 
+being used for computer  vision, natural  language  processing and so on, they are a different  
+types  of application  and nowadays  these artificial neural  network has a wide  application  in 
+different  domains  of agriculture  and including soil and crop,  which  we are going to discuss  in 
+our coming lectures.   
+(Refer  Slide  Time: 25:54)  
+  
+So, what  is convolutional  neural  network?  So, convolutional  neural  network or CNN  is an 
+advanced  method, which  specifically  deals  with the images  speech  and audio signal  inputs.  
+So, when  there  is a the image  is a special  file, that means,  it has some  width it has some  
+length. So, when  we have  at this image  is divided into millions  and millions  of picture  
+elements  or pixels . We know  this time pixel  very much . Multi, megapixel  and all these things  
+we know.  
+So, an image  is divided into millions  and millio ns of pixels. And to get the information  from  
+these millions  and millions  of pixels, we generally  use the convolutional  neural  network. So, 
+it basically  consists  of three  layers , one is called  the convolutional  layer,  another  is called  the 
+pooling layer.  And the  third  one is called  up fully  connected  or a fully  connected  layer.   
+So, basically  this construction of these convolutional  neural  network basically  we input . 
+Suppose  we input  the image  and there will be convolutions . Convolutions  we will discuss . It 
+is basically  the selection  of the feature  based  on some  filters , and we are going to discuss  this 
+in our upcoming lecture.   
+So, after this convolution, we will get the feature maps , which  are derived  from  these  images.  
+And subsequently, we will go from  the subsampling and feature maps.  Ultimately,  we will be 
+getting  the fully  connected  layers  and then will be based  on this final output  will be based  on 
+these fully  connected  layers.   
+So, what  are the filters?  What  are the pooling layer? What  are the fully  connected  layers ? We 
+will be discussed  in our next lecture.  So, let us just go ahead  and I would just like to give you this reference,  which  we are going to use. So, let us wrap  up our lecture here and we will start 
+from  where we  stop in  our next  lecture.   
+So, remember  guys, whatever  I have covered  is a basic overview, but there are plenty of 
+literature  available for these deep  learning models.  Specifically,  if you are interested  to go 
+and explore  these artificial neural  network  or the application  of artific ial neural  network  in 
+different  domains . Please go and search  some  of the available literature.  There are plenty of 
+available literature,  so that you can have a more  in depth understanding of artificial  neural  
+network.  
+So, we have  a basic  overview.  We have seen the basic overview  of convolutional  neural  
+network, but in the next lecture,  we will see details  of their working and then I will, we will 
+be discussing what  are the benefits  of using the convolutional  neural  network. Thank you 
+guys. Let  us meet  in our next lecture.  

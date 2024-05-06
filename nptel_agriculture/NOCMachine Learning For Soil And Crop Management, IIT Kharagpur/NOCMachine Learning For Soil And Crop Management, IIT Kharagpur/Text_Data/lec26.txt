@@ -1,0 +1,299 @@
+Machine Learning for  Soil and  Crop Management  
+Professor. Somsubhra Chakraborty  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology , Kharagpur  
+Lecture 26  
+Use of ML for Portable Proximal Soil and Crop Sensors  
+(Refer Slide Time: 00:22)  
+ 
+Welcome friends  to this week 6 of lectures for this NPTEL online certification course of 
+Machine Learning for Soil and Crop Management . And this will be the first lecture of week 
+6, lecture number 26. And in this lecture, we are going to cover some impor tant aspects. In 
+this week, we are going to cover some of the important portable proximal sensors and how 
+we have used them along with the machine learning approaches for different types of soil 
+survey and soil property prediction as well as crop character ization.  
+So, in our previous couple of weeks, we have discussed the basics of machine learning and 
+deep learning and the basics of multivariate data analytics we have seen , different aspects of 
+sub classification as well as regression. And in our previous week, we have discussed about the diffuse reflectance spectroscopy, the details as well as how spectrally you can 
+characterize soil as well as rock . So, today, we are going to start discussing about the other 
+portable proximal sensors. (Refer Slide Time: 02:00)  
+ 
+So, these are the concepts which we are going to cover. First of all, I  will give you a very 
+brief overview of historical and modern soil survey and why we now need the application of 
+advanced sensors. And then, we are going to talk about the proximal cell sensors or proximal 
+sensors and their classification. Then, we will start with the P ortable X RF for Portable x-ray 
+fluorescence spectrometer . And then, we are going to see some S oil PXRF  Applications. 
+(Refer Slide Time: 02:51)  
+ 
+These are the som e of the keywords which we are going to discuss today. One is Proximal  
+sensors then SS NM or Site-Specific Nutrient Management then PXRF , primary x-ray and 
+Fluorescence . (Refer Slide Time: 03:08)  
+ 
+So, you know that for soil science, the historical survey of soil started long back by US 
+Department of Agriculture. And they relied on, initially they relied on reconnaissance soil 
+survey. And since the earliest days of soil survey, geology has strongly influenced the 
+discipline . And at the time, the soils were mapped based on geologic  formation , landforms 
+and lithologic. As you can see, this is a picture of reconnaissance soil survey in Texas in 
+1922. So, the history of soil survey started with the reconnaissance soil survey, where 
+geology played a major role for mapping of soil.  
+(Refer Slide Time: 04:11)  
+ 
+Now, Curtis Marbut  the scientist, he first gave this normal soil concept which identified two 
+major types of soil , one is Pedocals  and another is  Pedalfers.  So, Pedocals are  the types of soil which contain lar ge amounts of calcium carbonate and mainly found in the western 
+United States.  
+And in case of Pedalfers,  it contains a large amount of iron and aluminium and mainly found 
+in the Eastern US. And also, as the name suggests c als, which contains ca that means  it 
+contains calcium carbonate whereas in case of Pedalfers , which is alfe that means aluminium  
+and iron dominance is there.  
+(Refer Slide Time: 05:14)  
+ 
+Now, in 1950, during 1950s to 60s soil science has saw rapid advances in soil chemistry, soil 
+physics, soil biology and soil mineralogy, etc etera,  the disciplines . Which drove a shift from 
+qualitative to quantitative soil science. So, earlier scientists mainly resort to qualitative soil 
+survey, but with the advent of these some  disciplines of soil science, like soil chemistry, soil 
+physics, soil biology, soil mineralogy, it drove a shift from qualitative to quantitative soil survey.  
+People were more interested in quantitative description of soil properties. By the 1960s Guy  
+Smith was commissioned to develop a new system of soil classification based on quantifiable data and discrete classes. So, that marks a paradigm shift as far as the soil survey and soil 
+characterization are concerned.  (Refer Slide Time: 06:24)  
+ 
+So, from 1990s to present time, the Global Positioning System receivers were used to notate 
+exact location of descriptions, field notes , etcetera. And proximal and remotely sensed data 
+represent a collection of tools capable of providing large amount of data at minimal cost and reduced labor requir ements.  
+There are several types of sensors people are using nowadays, like infrared satellite imagery 
+they are using, visible near infrared diffuse reflectance spectroscopy or DRS, we have 
+discussed the details in our previous week, that ground penetrating radar , electromagnetic 
+induction, field portable x-ray fluorescence spectrometry, then  in situ soil sensors that is 
+connected to data loggers and then these data loggers can measure water and gas movement to the soil of real tine in relation to climate ob servations.  
+So, there are different types of sensors are being used to generate the quantity information 
+instead of qualitative information that gives this  soil survey a huge leap and also more chance 
+for exploiting or the machine learning and deep learnin g-based  algorithms for soil 
+characterization and answering some of the unanswered question in the soil science domain and crop size domain.  (Refer Slide Time: 08:11)  
+ 
+Now, if we take a look at this barren  surface where grow the crops are very much scarce. So, 
+what is the limiting productivity in this soil? The first question comes to our mind what is the 
+limiting productivity of this soil, is this due to pH , is this due to salinity , is this due to soil 
+textual variation , is this due to unfavourable  protec tion capacity , is this due to low organic 
+matter , is this due to pollution, we never know.  
+So, the only way of accessing or answering this question is to take the soil samples bring 
+them into the , take some soil samples bring them into the lab analyze them and after the 
+analysis which is time consuming, we can tell , okay this is the major limiting factor . But 
+think about some alternative where we are using some sensors which we can directly use in 
+the field to answer these queries.  
+This will give us more in formation for answering this question which is the most important 
+limiting factor of this  soil. So, here you can see this PXRF  sensor is placed in the soil and 
+using this PXRF  extracted data along with some machine learning and statistical application, 
+it is now possible to identify what is the major cause of this situation in the soil.  (Refer Slide Time: 10:17)  
+ 
+So, another  perspective of using this sensor is  to boost the agricultural productivity. You 
+know that fertilizers we generally use in the field for boosting the agricultural productivity 
+and most of the farmers they generally  think since they do  not have the access to the 
+traditional soil testing services, they really think that if little is good, that lot will be better for increasing the agricul tural productivity because to increase the you know, it because of 
+productivity fertilizer is one of the major inputs.  
+However, due to these indiscriminate . So, as a result of that, they generally apply these 
+fertilizer s in a blanket fashion. And due to th is blanket application of these fertilizers , there 
+are three major problems one is they are losing the inputs, and due to the application of these 
+chemical fertilizers, there is loss of natural soil fertility and the also creates human health 
+hazards becau se these are synthetic chemicals.  
+And this nitrogenous  fertilizer application, these nitrates can go to the groundwater and then 
+contaminate the groundwater which can cause human health hazard. So, to stop this fertilizer application, without soil testing,  it is important that we should take the help of some of the 
+smart sensors which are available off the shelf and we can use them for rapid measurement of soil properties use them as auxiliary tools along with the standard soil testing services.  
+So, we need  to use this type of sensors to assess the soil health along with AI ML tools are 
+artificial intelligence machine learning tools . And the three major objectives are for onsite  
+rapid testing, and then to maintain the cost effectiveness of the total analysis.  And thirdly, is 
+to minimally  processed the soil . And finally, the use of these proximal sensors and cheap soil sensors or cost effective soil 
+sensors are first to increase the utility use efficiency because we are not now , we are giving 
+the fertilizer bas ed on the need of the crop we are not applying the fertilizer in a blanket 
+fashion then we are improving the crop productivity and finally and most importantly, we are 
+improving we are increasing the profit of the farmers because unless we can increase the  
+profit of the farmers, they will not be attracted to these type of advanced sensors. 
+(Refer Slide Time: 13:28)  
+ 
+Now, if we consider the conceptual framework of the site -specific  nutrient management, 
+which is a very important word nowadays in the agricult ural domain, because site specific 
+nutrient management will help you to reduce the fertilizer consumption and to increase the 
+fertility. So, you can see that how this smart soil sensing framework  can help in site specific 
+nutrient management.  
+So, for this smart soil sensing framework, the ultimate end product  is the yield  map, which 
+we can create using different sensors, we have already discussed about the diffuse reflectance 
+spectroscopy and apart from that portable X RF is there and then on the go soil sensor is there, 
+the mobile soil testing lab then optical sensors and smartphone images, we could use all of them to develop these yield  map and ultimately these yield  map will be considered as an 
+input for variable rate application. 
+Now, this variable rate a pplication will also  take the help of this decision -making system. So, 
+this decision -making system is directly linked with this yield  map and also these decision -
+making system takes the help of remote sensing and also crop canopy sensor -based  
+measurement , UAV based measurement and also smartphone images.  So, in combination with the yield map and also remote sensing imagery, crop canopy sensor 
+measurement , UAV imagery and smartphone images, we can make a decision -making system 
+and based on this decision -maki ng system , it is now possible to develop to, it is now possible 
+to use this variable rate applicator for site specific nutrient management. So, you can see that 
+how these different components are linked together and how these are interrelated.  
+And in each of these application for example, optical sensor -based  soil property mapping, 
+then smartphone images, then portable XRF, then DRS , and then remote sensing, crop 
+canopy sensor -based  modeling , UAV,  smartphone images, you can see all of them take s the 
+help of  artificial intelligence and machine learning applications. We are going to discuss it 
+this week , in the coming weeks. So, this gives you a conceptual framework of the site -
+specific nutrient management . 
+(Refer Slide Time: 16:24)  
+ 
+And let us see what is th e definition of proximal soil sensors. So, according to Viscarra 
+Rossel et al  in 2011 he define these proximal soil sensors as these are the sensors , these are 
+the ground- based  sensors used in agriculture to gather information about different soil 
+properti es by obtaining signals with direct contact with soil samples or from a distance within 
+2 meter. So, these sensors, we generally keep them in contact with the soil or within a 
+distance within 2 meter. So, that is why they are called proximal soil sensors. (Refer Slide Time: 17:09)  
+ 
+Now, if we see the classification of the proximal soil sensors based on their mode of 
+operation, we can classify them into 5 categories. First one is the one which is the first 
+category basis reflected radiation. For example, i n this category, diffuse reflectance 
+spectroscopy, then Nix  Pro sensor , then camera images, smartphone images, digital images, 
+they will come . 
+Secondly, so, they are helpful for measurement of soil organic matter, total organic carbon, 
+total nitrogen , soil , colour, texture and moisture because they showed the colour  variation that 
+they are colour  sensitive , proximal soil sensors. Then,  the second category measures 
+incoming radiation from the soil in this category PX RF, gamma spectrometry and laser 
+induced breakdown spectroscopy will be there and they can measure in soil element,  soil 
+texture , pH, salinity, volumetric moisture . 
+In the third category, these sensors measure backscattered electromagnetic waves or temporal 
+propagation of electromagnetic waves. Th e examples of these sensors are EM  or 
+electromagnetic induction , then ground penetrating radar , then time domain reflectometry or 
+TDR and frequency domain reflectometry these sensors can measure volumetric moisture content, salinity, soil texture and struc ture. 
+The fourth category measured the horizontal or vertical soil strength example penetrometer  
+they can measure soil strength and bulk density. And the fifth category measures electro 
+chemical properties examples are ion selective electrodes and ion sensitive field effect 
+transistor  (())(19:01). So, they are helpful for measurement of pH,  salinity and ion activities.  So, we can see that there are different categories of proximal soil sensors and based on their 
+mode of operation and they are categorized a nd they can address or they can measure a set of 
+soil properties , they cannot predict or characterize all the soil properties but a set of soil 
+properties.  
+(Refer Slide Time: 19:38)  
+ 
+So, let us move ahead and see , we can start with the portable XRF, PXRF , sometimes we call 
+it PXRF , sometimes people call it small pXR F, sometime we call it HH -XRF or handheld 
+XRF. So, you can see these terms very frequently. Remember that these terms are 
+synonymous, so, PXRF,  small p XRF and HH-XRF these are same term. S o, we will be using 
+these PX RF in this course. 
+So, the PXRF stands for the portable x -ray fluorescence spectrometry , the technique is known 
+as portable x- ray fluorescence spectrometry and the instrument is known as portable x- ray 
+fluorescence spectrometer . This i s a portable x- ray fluorescence spectrometer , you can see 
+here it is a handgun type of instrument and this instrument is field  portable, this does not 
+require any consumable, it can measure the soil properties without any chemical treatment, it 
+is non- destructive  that means it does not destroy the soil samples during its analysis. 
+And it helps for multi elemental analysis and provides the simultaneous analysis of 20 to 30 elements starting from M agnesium to Uranium. So, this  is very lightweight, earlier ver sions 
+were around 1.5 kg. Now, the latest versions are lighter than that, almost 1 kilo of weight at 
+this is very fill portable rugged, and they can be taken into the field for measurement of soil 
+properties.  So, this instrument you can devise, you could go, you can take it to the , in the field or you can 
+use the with the lab also and you can touch the nose of this instrument to the bare soil surface 
+and then you can press the trigger and within 60 to 90 seconds, it will give you the reading of 
+the total elemental content , within 60 to 90 seconds and it will give you the total elemental 
+content from Magnesia to Uranium . 
+So, using these elemental contents scientists have proved the utility of this instrument for 
+measurement of soil pH, electrical conductivity , catenation capacity, all the macro and 
+micronutrients , gypsum , percent -based  saturation, heavy metals, pollution, permafrost  pH, 
+land use land cover classification , parent  material , profile horizonation, geochemistry, 
+compost EC and C EC, then  water heavy  metals , and leaf elements.  
+So, you can see this instrument has been used extensively it both soil and crop as well as in  
+the water for measurement of multiple properties. So, this is the internal construction of this 
+instrument, we are going to talk about  this principle more  in our coming slides, but this 
+instrument has changed the concept of soil testing drastically in the last 10 years . And in 
+Western countries now, it has been utilized as one of the major , one of the approved methods  
+of soil testing.  
+(Refer Slide Time: 23:06)  
+ 
+So, if we see the working principle of this instrument, this instrument basically works , the 
+working principle of PXRF is same as x -ray fluorescence. Now, basically what happens in 
+this instrument there is a primary x- ray beam. So , this primary x- radiation is produced in a 
+vacuum tight tube containing a cathode , here is the cathode which is the source of electrons with a high accelerating voltage supplied by a generator that works in a range of 20 to 60 kilo 
+volt. 
+And an anode whic h is the metal target , this is an anode which is a metal target. So, when the 
+electrons which are produced by this cathode collide with this anode, then this is a metal 
+target or anode , these x-rays will be produced which is known as the primary x- rays. So, the 
+metal of the anode is usually , so this anode  is metal.  
+So, this metal  of these anode is selected among the elements with high melting point and 
+atomic number able to produce high intensity primary x- ray radiation such as , so generally 
+the metals we are used are R h, Mo, W, C r and other. So, generally they are used for this 
+anode. And this is the kinetic  energy with which the anode is heat is converted into heat the 
+past water circuit was used to avoid the melting of the anode and overheating of the ent ire 
+system while newer system  are air cooled system. So, this is how this primary x -ray beam  is 
+generated.  
+(Refer Slide Time: 24:59)  
+ 
+So, in the next step  this primary x- ray beam generally goes through a filter also known as this 
+window and this primary x- ray beam interacts with the electrons which are there in the lower 
+orbitals of the atoms and then ejecting them and these atoms get energized and then they eject from these lower orbitals creating an electron hole . And the next step, the electrons from th e 
+higher orbital cascade down to fill up these voids. 
+And when they try to cascade down to these to fill up these voids , they will release the 
+secondary x-rays and then they are known as the fluorescence and in the terms of photons, and they will be detect ed by the detector. So, the wavelengths comprising the secondary 
+fluorescence x-ray radiation and are identified and measured by these detectors, which are 
+either gas field scintillation counters or solid state . 
+Nowadays, most of the detectors are solid st ate which converts this individual photon energy  
+into pulses of electrical energy. Now, since each chemical element has characteristic x- ray 
+spectral line and their intensity is related to the amount of the element, it is therefore, possible 
+to ascribe x- ray spectra to their own elements and access that abundance in the sample. So, 
+this is how the x- ray fluorescence technology works and the same technology works in the 
+portable x- ray also.  
+(Refer Slide Time: 26:43)  
+ 
+Now, depending on that transition, depending on the transition of these of these electrons from the higher arbiters to lower orbitals, we can see different types of naming of this 
+emission. For example, when the electrons move from this L orbital to K orbital, then we turn 
+with K alpha emission when the transition occurs from M orbital to K  orbital then it is known 
+as the K  beta emission. And so, it depends on from where this transition is occurring. 
+Ultimately, we are naming them as alpha emission or beta emission.  (Refer Slide Time: 27:35)  
+ 
+Now, if we see the evolution of PXRF,  it has been used since 1980s. But at the time the 
+instrument was heavy, heavy and with the passing of time with the advancement of 
+technologies, these technologies have been evolved drastically and with the advent of the 
+solid -state detectors, we have seen a drastic change in the technology , a drastic change is the 
+PXRF  technology which helped the scientists for better characterization. 
+And so, there are different types of companies , several companies who are producing t his 
+instrument nowadays, and they are available in the market. And so ultimately,  we have seen 
+there has been a drastic change in this technology, earlier instruments were heavy and latest instruments are lightweight, and they are more rugged and they are proof to the drop test . The 
+new versions of Olympus instruments for example, they are proof to the drop tests. So, if you drop them in the field that will not create any problem for this type of sensors. So, you can 
+see that there has been tremendous improvement in this type of sensors. (Refer Slide Time: 29:30)  
+ 
+And this instrument can be used both in situ as well as ex situ and as you can see scientists 
+are using them in the field directly touching the instrument in the soil profile to define the soil 
+profile . Also, they have been used in the lab. Of course, when you use them in the lab, you 
+can control the variability in the soil. However, for soil application also there are some prescribed steps which you can follow for reducing the heterogeneity in the measurement.  
+(Refer Slide Time: 30:17)  
+ 
+So, the limit of detection, if you can see this is the limit of detection of earlier version of Vanta PXRF Analyzer s produced by Olympus and you can see that most of the heavy 
+elements are having the LOD of less t han 5 PPM and only aluminium  and Si as they have the 
+LOD of less than 400 PPM . And some of the elements like phosphorus , sulphur  and chlorine they have the limit of 
+detection of less than 50 PPM . So, now adays  the instruments with lower limit of detection a re 
+now available, which can give you the more accurate results and they can quantify the minute 
+amount of these presence of these elements in the soil surface.  
+(Refer Slide Time: 31:14)  
+ 
+So, there are different reference methods for portable XRF  soil appl ication. One is given by 
+the US EPA as you can see the first one which is called the method 6200. The second one is 
+given by USDA, United States Department of Agriculture NRCS . And the third one is 
+produced by myself and P rofessor David Weindorf  of Texas T ech University , now he  is at 
+the Central Michigan University.  
+So, we have produced this portable x -ray fluorescence spectrometry analysis of soil as a 
+method of soil analysis published by Soil Science Society of America. So, these three are 
+largely known s tandard difference methods for PX RF soil applications. (Refer Slide Time: 3 2:11) 
+ 
+So, these are the references  which I have used. So, guys, in a nutshell, we have seen that why 
+we need these advanced sensors  nowadays  because these advanced sensors are helpful for 
+both soil survey as well as to reduce the application of chemical fertilizer in the field and to 
+maintain the environmental sustainability and to increase the profitability of the farmers , to 
+increase the productivity of the field.  
+And there are this smart solid sensing framework  using different types of sensors optical 
+sensors, PXRF sensors, spectral sensors can help in developing the yield  map which can be 
+used as an input for site specific nutrient management . Of course, along with several othe r 
+sensors like satellite imagery, then crop canopy sensors, and all these operations  are 
+interrelated and takes the help all these operations , take the help of the machine learning and 
+deep learning application to accomplish their objectives. 
+And we have s een the broad classification of the proximal sensors based on their  mode of 
+operation. And we have also seen, we have also started discussing the portable XR F we have 
+seen the basic working principle, and what are the benefits of this instrument and in the next 
+class , in the next session, we  will be starting discussing how this application of PX RF started 
+in the domain of soil and how evolution of different statistical methods happened while using 
+this PXRF  for soil and crop characterization. 
+So, I hope tha t you have learned something new. And let us up some of these discussions  you 
+will find in my other NPTEL course, soil science and technology where I briefly touched 
+these PXRF . But here we will be discussing their application in details along with the 
+mathematical explanations . And we will be , in the next lecture, we  will be discussing how we have started with the basic 
+statistical tools and then we move towards machine learning tools for exploring the soil 
+properties using the portable XRF based elemental  data from soil. So, guys, thank you. Let us 
+meet in our next lecture to start from here and I  will show you more application of PX RF for 
+soil and crop characterization along with the different machine learning applications. Thank 
+you. 

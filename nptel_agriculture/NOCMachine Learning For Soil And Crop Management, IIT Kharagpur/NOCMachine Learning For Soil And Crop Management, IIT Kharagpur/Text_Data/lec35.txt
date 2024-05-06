@@ -1,0 +1,345 @@
+Machine Learning  for Soil and Crop  Management  
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department  
+Indian Institute  of Technology Kharagpur  
+Lecture 35  
+ML and DL for Soil and Crop  Image  Processing  
+(Refer  Slide  Time: 00:22)  
+ 
+Welcome friends  to this last lecture of Week  7 of this NPTEL Online  Certification  Course  of 
+Machine Learning  for Soil and Crop  Management , and this is the 35th lecture.  And in our 
+previous  lecture of this week,  so, the topic  of this week  is machine learning and deep learning  
+for soil and crop image  processing. So, in this week  in the previous  lectures,  we have already  
+discussed  some  of the very important  concepts  for deep  learning . We have  started  with the 
+artificial neural  network,  and then we have  discussed  about  our different  structures  the 
+structur al features  of artificial neural  network, what  is activation  function.  
+And subsequently we have  discussed  about  the convolution neural  network and why 
+convolution neural  network is very important  for image  processing we have discussed . We 
+have  discussed  the structure  of the convolutional  neural  network, we have  structured  the, we 
+have  discussed  convolutional  layer  then pooling layer  then we have  also discussed  
+simultaneously , we have  also discussed  the fully  connected  layer  and how these  
+convolutional  layer  convolutional  neural  network  architecture  can help in different  image  
+processing for soil  and crop we have  discussed.  
+So, and we have  also started , we have also discussed  the digital image  processing. I have  
+discusse d what  is digital  image  and how what  are the different  types  of digital images , and 
+then, what  are the  basic operations  you can  do with the digital images  we have discussed.  (Refer  Slide  Time: 02:07)  
+ 
+ So, we will continue  from  here, and in this lectu re, we are going to cover  these concepts . We 
+are going to talk about  some  color  space models,  then, we will be talking  about  soil image  
+processing, and then I will give you an example of crop image  processing.  So, these are the 
+keywords  for this  lecture.  We are going to  talk about  more  about  this digital image,  then  RGB  
+CMYK,  smartphone  image  and HSV.  So, these are the some  of the important  keywords  for 
+this lecture.   
+So, we have  seen what  is a digital image  and a digital image  is consists  of millions  and 
+millions  of pixels  or picture  elements  and so, there are certain  phases  of digital image  
+processing. So, these are listed  here.  So, the first step is acquisition  that it could be simple  
+image  as being given, as being taken  from  a simple  camera or which  is in digital form  and the 
+major  steps  which  are involved in  this acquisition  is our scaling , as well  as color  conversion.  
+So, color  conversion basically  converts  the color  space model  like RGB  to CMYK or gray or 
+vice versa.  So, that any color  image  can be decomposed  into RGB  components . I will show  
+you one good picture  in coming slides , and then we can convert  these color  space model  to 
+other  color  space model  using some  set of equations  or algorithms  and also or vice versa. The 
+second  step is image,  another  phase  is image  enhancement.   
+So, after we take the image  we can extract  some  hidden details  from  an image , so that is 
+called  the image  enhancement.  The third  one is the image  restoration . The image  restoration  
+is generally  based  on some  mathematical  operat ions. The fourth  one is color  image  
+processing, the fifth one is wavelet  processing, then we can do some  image  compression like 
+image . We can change the  image  size and resolution and  we can compress  the image .  
+Then , we can do some  morphological  processing for extracting  some  of the information  then 
+we can do the segmentation  which  is a very important  process  of image digital image  
+processing. So, their segmentation  basically  implies  the partitioning  of the image  into parts  or 
+objects.  So, and also represen tation  finally  which  is the output  of the segmentation  image  and 
+the finally,  the object  detection  and recognition which  assigns  label  to an image based  on its 
+descriptors . 
+So, we can see, that all of these are very, very important  component  of digital image 
+processing. We will start obviously, with the image  acquisition  using a camera,  which  can 
+store  the image  in a digital form.  And  as you can see that  we can take,  we are taking an  image  
+of the 3D world  around us using  a camera and then we are sending that image  to digital  
+image  processing system.  And finally,  we can derive  the image  based  on our desired  outputs.  So, after we take the image,  we can do image  enhancement,  image  restoration , color  image  
+processing, then we can do the wavelet  processing to remove some  of the noise  and then 
+image  compression can be done  for easy of storage  and execution of different  algorithms.  
+And then we can do some  morphological  processing, segmentation  representation  and finally,  
+object  detection  recognition. So, the object  detection  recognition is our final target  or 
+objective  for which  we do the different  image  processing, when  we combine  with different  
+types  of deep  learning network.  
+(Refer  Slide  Time: 06:14)  
+ 
+So, there are different  types  as I have mentioned, there are different  types  of color  models . 
+One is, you can see that is RGB  color  model, because,  we can, any color  image  can be 
+differentiated  into RGB  images  or RGB  component, and they are also known as the additive  
+color , additive  color  model . Because,  when  we mix them  together  in different  proportion that 
+will can generate all the other  different  types  of colors. So, RGB  color  mode  and another  
+color  mode  is CMYK.   
+This one RGB  is a additive  color , additive  color  space model , however,  the CMYK  is an 
+subtractive  color model.  So, because,  why it is called  additive  because when  you keep  on 
+adding these three  components  a different  proportion, it can generate the other  color. So, that 
+is why  it is called  the additive  color  model.  
+So, RGB  color  mode  is based  for digital work , whereas,  the CMYK  is used for the print  
+products. So, CMYK is generally  used in printers.  So, C stands  for Cyan, M stands  for 
+Magenta,  Yellow  stands  for the  Y stands  for the  yellow  and K stands  for Black.   So, you can see there  are basically  four colors, and of course,  this is known as the subtractive  
+color  models  because in the here the concept  of the CMYK goes from  pure white  to pure 
+black.  So, that means,  when  we are mixing  this color, so, we are starting  with the pure white  
+page  in case of  digita l printer  and then  we are mixing this  color  so that we can change  the one 
+color  to another  color.  
+So, ultimately,  when  we mix the CMY in equal  proportion we will get the finally  this K or 
+the finally,  the black.  So, you can see it can show  the transformat ion from  white,  which  is a 
+mixture  of all the colors  to the dark black  to the black,  which, so, in a subtractive  way,  so, 
+that is why  it is known as  the subtractive  color  model.   
+(Refer  Slide  Time: 08:38)  
+ 
+So, this is another  important  color  model , which  is known as HSV.  So, unlike  these  RGB  and 
+CMYK which  uses the primary  colors  like RGB and then also CMYK , HSV is closer  to 
+human perception  of color. Remember  that while  talking  about  the Muns ill soil color  chart , I 
+told you that there are three major  parameter  in the Muns ill cell color  chart , one is called  hue 
+and other  is value  and the third  one is Chroma.  
+So, similar  here HSV stands  for the same thing hue shows  the dominant  spectral  color  and 
+value  shows  the brightness  or darkness , and then Chroma  or the saturation  shows  that the 
+chroma  shows  the saturation  or the purity. So, of course,  this HSV color  represent  the color  
+very close to  the human perception.  
+So, as you can see this in this direction, hues are changing and in this direction, we are 
+changing the purity so of course,  saturation  is changing and also the values  are changing in this vertical  direction. So, if we see this circle,  of course , this rate falls between  0 to 60 
+degree,  yellow  falls between  61 to 120 degree,  green  falls between  120 to 180 degree,  cyan  
+falls between  181 to 240 degrees,  blue falls between  241 to 300 degrees  and magenta falls 
+between  301 to  360 degrees.   
+So, it has we can see that these HSV color  model  also can represent  any color  from  the 
+human perception  point  of view , and it has also three  color . Just like in case of Muns ill cell 
+colored  chart,  it has also hue, saturation  and value.  So, of Muns ill cell color  chart,  we term 
+this saturation  as Chroma, but  basically,  these two  terms  are same.   
+So, this is another  important  color model . There  are other  types  of color  model  available.  So, 
+there are other  types  of color  model  available like LAB  color  model  CILAB  color  model  and 
+also there are other  color  models  which  are available. But so, remember  that, in case of 
+machine learn ing-based  crop image  processing, where  the features  are basically  extracted  
+from  any color  image,  we can extract  the color  in any of these color  model  format  or we can 
+extract  the color  in RGB  and then  we can transform  them  using a  set of predefined algori thms  
+to other  color  models.  
+Since these color  models  can transfer , can be can be transferred  from  one model  to another  
+model , so we can generate any other  color  model  from  a specific color  model. So, these 
+features  are being used in subsequent  machine learning algorithms  for predicting several  soil 
+properties.  
+(Refer  Slide  Time: 11:59)  
+ So, just to show  you one or two examples,  which  we have,  which  we have  produced. You can 
+use this soil image  for classification  purpose . You know  what  is classification , and in our 
+group we are trying to integrate  these mobile -based  image  or mobile  captured  image  using  
+the arduino and then we are to have  we are producing these RGB  image  and this production  
+of these RGB  image  using the  mobile  is based  on a  lens setup.  
+So, this external  lens setup  we are these can be easily  procured, and these external  lens 
+assembly  can be which  is composed of these phone  camera external  lenses  and so, that can 
+be, they can be easily  procured and they can be used with the shedding bucket  and shading  
+lead to offset  the interference from  the surrounding light and they can capture the image  of a 
+soil samples.   
+So, in our group,  we have used these  techniques  to capture  the image  of the soil and 
+subsequently after we capture  the image  of the soil, we did some , we extracted  the RGB  
+values  of these  images  and using the RGB  values  of the images  we separated  different  soil 
+types  using the  principal  component  analysis .  
+(Refer  Slide  Time: 13:49 ) 
+  
+As you can see here,  in this picture,  we can clearly  see the clustering  between  two types  of 
+sample  based  on their RGB  values  and from  this plot also we can see that while  G and B 
+values  were high closely  related  to each other  red values  are somewhat  negatively  related  to 
+these G and B values.  So, based  on the soil characteristics  and soil colored . So, that shows  
+that image  acquisition  followed  by different  types  of classification  scheme  using the image d 
+extracted  features  can help  to segregate the  soil types. 
+Now,  we have our group has developed another  image acquisition  setup  where we are putting 
+the soil samples  inside  a black  box within  a inside  this sample  holder  and then this whole  box 
+is lined  with the LED  strip to for the elimination  of the soil samples  and this is the camera  
+window  where we are putting  a mobile  phone  or smartphone  and this is smartphone  holder  
+and through this camera window,  we are taking the image  of the soil which  is being  
+illuminated  by these LED  strips.   
+The intensity  of the LED  light is being controlled by these dimmer, external  dimer, which  
+you can regulate and we can take the image  of the soil sample  and after taking the image  of 
+the soil samples,  we did two  or three different  types  of analysis  to predict  the soil texture.   (Refer  Slide  Time: 15:45)  
+ 
+So, you can see here,  we started with this 1800 by 1800 RGB  image  with three channels  that 
+is R,G and B and after taking the image  this image  was transferred  to grayscale image . You 
+know  about  the grayscale now, we have  discussed , and also we tried to extract  some  of the 
+color  featur es. We have  extracted  these HSV features,  we have extracted  these grayscale  
+features  at hue mobile  features  also. And not only the color  features,  but also some  textural  
+features  of the soil was were extracted  like grayscale.   
+And you can see, we have  converted  the image  into grayscale image  and from  this grayscale 
+image,  local  binary pattern  and also haralick features,  which  are the textual  features  were  
+extracted.   
+So, we can see here,  using the image  we have  first converted  them  into HSV as well as the 
+grayscale. From the grayscale,  we have extracted  the hue moment  color  features , as well as 
+the HSV color  features  we have extracted  from  these HSV image  subsequently from  the 
+grayscale image,  we have  computed the local  binary patterns  histogram, as well as the 
+haralick  features.   
+So, all these features  were combined together  to produce  the global  features . Simultaneously,  
+using the bag of visual  words  algorithm  some  SIFT  features  are scale invariant  feature 
+transform  was used to extract  some  of the features,  which  I am going to discuss  in the next 
+slide.   
+And those  features  were also combined with  these  global  features  to get the full feature space,  
+and using the full feature  space,  subsequently, random  forest  model  was developed. And this random  forest  model  was developed  training  model  was developed , and then it was tested  
+using the testing  set or validation  set. And then using this trained model, we predicted  the 
+sand silt and  clay.  
+So, our results  were pretty  good, I am going  to show  you. But this is the snapshot  
+methodological  overview, what  are the  steps  we have followed for these image processing.  
+(Refer  Slide  Time: 18:22)  
+ 
+Now,  if we want  to talk more  about  these scale invariant  feature  transform . So, basically,  we 
+have  used a model  called  bag of visual words  model. Now,  these bag of visual  words  model  
+which  is an algorithm  for language  processing  and information  recovery  from  the text 
+documents . So, we use these bag of visual  words  model  to for feature  extraction  of the image  
+at feature representation .  
+So, after we extracted  this feature,  so, this conventional  scale invariant  feature transform  bag 
+of visual  algorithms,  what  they did, they extracted  some  of the local  features  or local  
+description. So, these local  descriptors  or local  features  were extracted  codebook was 
+generated  using the  k means  clustering.  
+So, suppose  some  local  features,  which  are composed  of both these four to five different  
+types  of the features,  we basically  extract  from  these grayscale image  and then using the K 
+nearest  neighbor  clustering, we have  already  discussed  this k nearest  neighbor  in clustering . 
+We have identified  these individual  features . 
+From these individual  features  we have made a dictionary or codebook, and from  this 
+codebook these feature  quantization  was done. So, you can see that using this model, bag of visual  model  scale,  scale invariant  feature transform,  we extracted  those  features  and the 
+described those  features,  develop a dictionary representing  the K means  clustering, local  
+features  quantization were  done  and then the image,  the image  was finally, represented  by 
+these visual  words.  
+So, after  we took we  extracted  those  image,  in terms  of these visual  words,  these visual  words  
+features  were combined  with this global  feature to finally  calculate these random  forest  
+model  accuracy  using the training  set as well as the testing  set. So, what  we did in nutshell ? 
+We took the  image  using  the setup, then  that image  was then  the image  was processed .  
+In one process  we converted the image  into grayscale. From the grayscale we have extracted  
+the textural  features , textural  features  mean s the size variations, which  you can see from  in 
+the grayscale  image , and simultaneously  we have  extracted  the color  features  also. So, the 
+extra, so the color  features  as well as these textual  features  combined to produce  the global  
+features .  
+Simultaneously  we have  a gate converted the image  into grayscale  image . From the grayscale  
+image  using the bag of visual  words, which  is an algorithm  for processing the text the 
+language  the text, so, we have  used that algorithm  to generate some  to represent  the image  in 
+terms  of some  visual  words  and those  were extracted  and then combined  with the global  
+features  to make the full feature space and that feature space was used as the input  for 
+predic ting the sand, silt and clay  using the  random  forest  algorithm.   
+And then the accuracy  of the random  forest  was calculated  by using the testing  set. So, this 
+was the actual  operation which  we have done . (Refer  Slide  Time: 22:12)  
+ 
+And you can see the results it is clearly  visible . Clay  and sand produced  very good results  
+using the whole  feature space,  we are getting  the R square  values  of 0.98 and 0.97 which  is 
+quite  good. RPD  values  of 6.54 in case of in case of clay and RPD  values  of 5.76 in case of 
+sand and  also in case of  silt also  we got a decent  R square  values  of 0.70.  
+Part of the reason  is our data set did not contain  more  silty samples.  So, anyway, but still we 
+are getting  some  decent  R square  values  for the silt. So that shows  that this type of image  
+processing followed by machine learning is quite  helpful  for identification  or the prediction 
+of different  types  of textural  features .  
+Not only we have  used this machine learning  algorithms,  but at the same time we have  also 
+used the convolutional  neural  network, which  is a deep  learning  method. We feed the images  directly  to the convolutional  neural  method to predict  the textual  features  and we got the 
+similar  very  high accuracy,  just like as machine learning algorithms.   
+So, that convolutional  neural network algorithm  was the trade convolutional  neural  network  
+was updated in the flask  server,  which  was hosted in Amazon  Web  Service.  And we have  
+developed an app Android app for directly  predicting the soil texture  using the images  taken  
+by the  smartph one.  
+So, using that app, it is now possible  to take the image . So, as you can see here,  it shows  
+different  processes  of this app. So, this is the opening screen  and then these there are options  
+to you can take either  take the photo using, you can either  capture  the image  or you can select  
+the image  from  your gallery . After you capture or select  the image  and ROI will be generated  
+to take the ROI will be generated.  And from  this ROI you can upload these image  into the 
+server  and then the server  will make the calculations  and they will send you the results  as you 
+can see here clay,  silt and  sand.  
+And then you can type the name of the end user so the farmers  to whom  you want  to send 
+these results  and it will be directly  going to the farmer's  mobile.  So, it is an overall  
+comprehensive  overview  of how this app will work. And these apps is really,  really  helpful  
+for predicting the soil texture  using this convolutional  neural  network and the images  which  
+are taken  by the smartphone  based  setup. So, that shows  the application  of machine learning 
+and image  processing for  soil property prediction.  
+(Refer  Slide  Time: 25:32)  
+  
+Another  research,  was published by Visacarra Rossel  et al in 2008. There are numerous  
+research  I am just showing a couple  of them.  So, they have used the digital image  of both dry 
+soil samples  and wet soil samples,  and they have  developed different  types  of calibration  
+model  to predict  the organic  carbon  and iron content  of the soil.   
+As you can see here,  they are using the, they have  used these different  types  of color  features.  
+And then using the color  features,  they have  used different  types  of technique  like long linear  
+regression, full factorial  regression, 6 PLS factors , then 86 wavelets  6 PLS factors,  so, 
+different  types  of techniques,  they have  used  using different  types  of features.   
+And using those  features,  they have tried to produce  the calibration  equation  and validate  the 
+calibration  equation you can see for organic  carbon  these results  were quite  a promising and, 
+so, that research  was published in 2008. And after that, these exploration of image -based soil 
+property prediction was  tried  a couple  of times  by different  scientific  groups  of the world.  
+So, these are the prediction models, which  have been  generated  by these  in this research. You 
+can see that the calibration  samples  and the validation  samples  are being shown  in this figure,  
+and they have  modeled  both soil organic  carbon  and soil iron content . For soil iron content  
+the adjusted  validation  goes up to 0.70 and so that also show s that some  decent  validation  
+score was  observed  especially,  in case of  full factorial  regression  using the  LCH  features.  (Refer  Slide  Time: 27:49 ) 
+ 
+ Our group has  also did some  research  for using the  smartphone  captured  image from  the 
+same setup  and in combination with  some  image  processing. So, you can  see that,  after  we 
+took the  image  we did some  image  processing like  we pass  the image  through high pass  
+filtering . I will tell you what  is high pass  filtering.  So, when  the image  was passed  to the high 
+pass filters,  we retain  only the  reflectance image  and we  removed the  intensity  values  from  
+the image .  
+Because the intensity , so, what  is the purpose  of this research  because,  we have  seen that in 
+the real field condition one of the major  problem  is variabl e sunlight  intensity.  So, where the 
+variable color  intensity  is there, it is not possible , it is operationally difficult to produce  a 
+model  because our  inputs  illumination  will be variable.   
+So, to remove  these variable  illumination  concept  or component, we pass the images  through  
+high pass filters.  So, we only kept the reflectance image  and subsequently the images  were 
+segmented  and then image  normalization  and K means  clustering  was done  to get the color  
+indices  in terms  of RGB . Once we got the RGB we have converted  these RGB  to other  
+features  like HSVC.  Lab, CXYZ,  CIE Luv, HSL  and so on. And then using  these data set, we 
+have  tried  to predict  the soil organic  matter . (Refer  Slide  Time: 29:33)  
+ 
+ 
+  Now, what  is high pass filters ? A high pass filter  tends to retain  the high frequency  
+information  within  the image  while  reducing the low frequency  information.  So, you can see 
+this is an original  image  and if this image  is passed  to the high pass filter,  it will only retain  
+the high frequency  components  within an image,  while  reducing  the low frequency  
+components.  
+So, this is called  the high pass filter.  So, in this process  also, we pass the image through high 
+pass filter,  so that we can keep  only the high density components  for subsequent  image  
+processing and image  segmentation , and also the extraction  of different  types  of color  
+features.   
+So, after we did all these  operations, we use different  stacking  of different  types  of machine  
+learning  algorithms.  You can see they did there are two type two levels  of machine 
+algorithms  we have  tried.  What  is level  0 models  another  is level  1 model. In the level  0 we 
+have  tried  random  forest,  support  vector  regression  with  the radial  basis  function then  random  
+forest  and also support  vector  regression  with  linear  kernel.   
+So, at the end these predictions  of these models  when  used as an inputs  it does level  1 for 
+ridge  regression  and AdaBoost  regression  to predict  the organic  matter.  So, ultimately  our 
+target  was organic  matter,  we tried to predict  the organic  matter  using the random  forest  and 
+SVR,  predicted  there is two ridge  regression  and also random  forest  and SVR prediction  
+through AdaBoost  regression. 
+And we got very good R square  values  as you can see, validation  R square  varied  from  0.8 to 
+0.84 to 0.88 to 0.90.  So, that shows  that the it is possible  to use the smartphone  captured  
+image  with the convolutional  with different  types  of machine  learning algorithms  to predict  
+the soil organic  matter,  it was published in  the journal  of biosystems  engineering.  (Refer  Slide Time: 31:51)  
+ 
+Other  groups  are also trying to predict  the soil organic  carbon  using the smartphone  images,  
+so soil samples  were ground, so this research  was executed  by Taneja et al in 2021. So, soil 
+samples  were air dried  and then they have , they took the image  of the soil samples  and then 
+image  processing was  done  and then  they  developed.   
+So, soil samples  preparation  they did and then the image  was taken  and then image  
+processing like cropping enhancement,  segmentation  was done, color  space conversion and 
+feature extraction  was done  and then  data P  pronouncing and  partitioning.  
+Now,  one important  feature of this experimental  setup  is they have  tried different  levels  of 
+moisture  to incorporate  the variable  moisture  effect  on the  soil color. So, after  they did all  this 
+preprocessing and partitioning  they divided the color,  divided the dataset  into calibration  data 
+set and validation  data sets and finally  they did external  validation  to get the results  of R 
+square  and MSC,  RPD.  So, this is how different  groups  in the world  are trying to use the 
+images  for subsequent  prediction of different  soil features  irrespective  of variable light 
+intensity.  So, that  shows  the impact  of this image -based  soil property prediction. (Refer  Slide  Time: 33:29)  
+ 
+Just to show  these the last slide.  So, also researchers  are used are using these crop image . So 
+here you can see there are different  types  of healthy mint leaf, also these are the different  
+disease leaf like powdery mildew , mint leaf rust, fusarium  wilt, so different  types  of diseases  
+of the mint.  And using these images  and convolutional  neural  network, what  app is being  
+developed, which  will be useful  for plant  disease . I did plant  leaf disease identification  for 
+mint.  
+So, you can see that these  are the different  steps of these the Android app which  has been  
+generated.  So, you can see the for these  convolutional  neural  network  these ResNet  50 
+architecture of this convolutional  neural  network  was trained  for weekly  data saved  at the 
+training  accuracy  of the model  was nearly  85 percent,  as you can see from  here,  accuracy  
+versus  epoch  graph, and  also the validation  accuracy  was nearly  75 percent.   We will talk about  this type of classification  in our upcoming weeks  in details.  But just to 
+show  you one example,  where  crop image  is also being used in combination of convolutional  
+neural  network  models  to predict  or classify  different  features  from  the crop.   
+So, guys  these are the references,  let us wrap  up our lecture. I hope  that you have  understood  
+some  of the information  which  are really  due to you. And of course,  it is always  advised . I 
+will always  advise  you to go and explore  the huge  amount  of material  which  are available  
+online  for gaining more  and more  knowledge  in this aspect.  Because whatever  I am giving  
+you it is an overview , but if you want  to explore  more,  and you want  to feel more  confident  
+about  this type of application, you have  to read those  resources,  and then only you can have  a 
+total understanding of  what  is really  going on over  there.   
+I will try to give you as much  as information  as possible, so that you can identify  or you can 
+understand the basics,  but at the same time,  I will always  tell you to go and read those  
+resources  to clarify  your doubts. Anyway, you are more  than welcome  to send me your 
+queries  and I will be answering  your queries.  And I hope  that you have  learned  something  
+new.  And  let us wrap  up this week.  And  let us we will go from  here in  the next  week  and then  
+in the next week  we will be discussing more  application  of image  add deep  learnin g for 
+desired  feature  extraction, and  also classification  and regression. Thank  you.  

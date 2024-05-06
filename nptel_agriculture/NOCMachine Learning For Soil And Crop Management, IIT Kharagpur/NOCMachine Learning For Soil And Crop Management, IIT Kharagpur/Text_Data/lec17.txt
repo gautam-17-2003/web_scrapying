@@ -1,0 +1,305 @@
+Machine Learning  for Soil and Crop  Management  
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department  
+Indian Institute  of Technology, Kharagpur  
+Lecture – 17  
+Application  of Classification  and Clustering  Methods  in Agriculture (Contd.) 
+Welcome friends  to this 17th lecture of NPTEL online  certification  course  of Machine Learning  
+for Soil and Crop Management.  We are currently  this, in week  four,  and in this week  we are 
+discussing the Application of classification  and clustering  Methods  in Agriculture . In our first 
+lecture of  this week,  that is lecture 16th , we have discussed  the basics  of classification .  
+What is a classifier?  What  is the basic  difference  between  a classification  and clustering  
+problem ? Also, we have  discussed  the linear  discriminant analysis  which  is 1 of the widely  
+accepted  or utilized  linear  classification  problem.  So, today, we are going  to discuss  some  other  
+linear  discriminant, linear  classification  problems.   
+(Refer  Slide  Time: 01:29)  
+ 
+So, these are the major  concepts  which  we are going to cover  today. We are going to first cover  
+the logistic  regression , and then we are going  to see what  logistic  function is. Then, we are going  
+to see how to interpret  the coefficients  of a logistic  regression.  And then we are going to discuss  
+another  very important  classification  algorithm  which  is nonlinear  classification  is kNN or K 
+nearest  neighbor  classification.  So, let  us start  with  the logistic  regression .  (Refer  Slide  Time: 02:15)  
+ 
+Of course,  some  of the important  keywords  for these, for this lecture is logistic  regression, then 
+odds  ratio we are going to learn . What  is odds  ratio? We are going to, we are going to learn  what  
+is kNN,  we are going to learn  some  important  classification  metrics  like recall , Kappa  coefficient  
+RLC  curve, so  we are going to  discuss  all these.   
+(Refer  Slide  Time: 02:45)  
+ 
+Now, what  is the logistic  regression ? So, logistic  regression  is a although it is a digression, it is 
+can be used for classification  problem . And the, it is a linear  I would say meth od classification  problem. So, logistic  regression  is a process  of modeling the probability of discrete  outcome  
+given an input  variables.  So, you know  in case of normal  regression  problems  our target  variable  
+is a continuous  variable.   
+So, Y is always  continuous. However,  when  our Y is not continuous  it is a, it is a, it is a discrete 
+variable then the logistic  regression  comes  into play. So, generally  the logistic  regression  is 
+useful  when  the dependent  variable or Y is dichotomous  or binary. Sometimes  we know , that the 
+logistic,  when  our output  is either  yes, no, 0 or 1 then true, false this type of problem  generally  
+we deal  with  logistic  regression .  
+When and you can see this is a binary outcome , either  yes or no, either  true or false either  0 or 1. 
+So, in this kind of condition, we generally  use the logistic  regression  model. However,  when  
+there are more  than two possible  discrete outcomes,  then we go with the multinomial logistic  
+regression. Generally,  we are going to in this lecture  we are going to discuss the binary logistic  
+regression. So, logistic  regression  is a useful  method  for classification  problems.  
+(Refer  Slide  Time: 05:18)  
+ 
+Now,  what  is the difference between  a normal  regression  and logistic  regression  is that in case of 
+the normal  regressio n of a target  or Y is continuous , however  in case of logistic  regression  the 
+dependent  variable the outcome  of the dependent  variable is limited , as we have  seen by 
+dichotomous  or binary or sometime  multiple  are there, but they are discrete in nature . For example,  vote or no vote, morbidity  or mortality  and participation  data in a continuous  or 
+distributed  normally .  
+So, so, under  here you can see that in this case the data is not continuous  or distributed  normally.  
+Here there are either  yes or no vote or no vote morbidity  or mortality.  So, you can see these  
+binary outcomes. So, binary  logistic  regression  is a type of regression  analysis  where  the 
+dependent  variable  is a dummy variable coded  0. Suppose, yes or did not vote we do we code 
+them  with  the dummy variables  0.   
+And also the other  1 we code  them  as 1 which  actually  another  dummy variable.  So, here let us 
+consider  that there are two outcomes  what  is vote and not and do not vote. So, in case of vote we 
+can assign  the dummy  variable  1 and in case of did not vote, we can assign  the dummy variables  
+0. So, this  is the logistic  regression.  
+(Refer  Slide  Time: 07:01)  
+ 
+Now,  in case of if we, if we define  this regression  in terms  of ordinary least squares  regression , 
+then our model  will assume  this form  we know  that Y equal  to gamma  plus psi x plus e. Where 
+this is the, the psi is the slope , gamma is the offset. So, however, in  case of  logistic  regression  the 
+Y has only two values  0 and y1, where in case of normal  regression , linear  regression  we 
+generally  assu me that Y is a continuous  variable.  And the values  of Y are independent  to each other. So, we can see here in this condition, the 
+error terms  are heteroskedastic. Remember  in case of linear  regression, we assume  1 of the major  
+assumption is  the error  terms are homo scholastic  or distributed  evenly.  However,  when  these are 
+the cases  when  there are only binary outcome, then the  error terms  will be  heteroskedastic.   
+So, because the here in this case, the error will not be normally  distributed  because Y takes  on 
+only two values.  So, since  Y can take only 1 of these two values,  the error  term is not normally  
+distributed. We remember  we assume  that the error  was, is normally  distributed in case of now, 
+in case of  normal  linear  regression  or ordinary  least  square s regression.   
+So, in this condition when  the error will not be normally  distributed  and the error terms  are 
+heteroskedastic because Y have  only two values  possible  values,  then we will see the predicted  
+probabilities  can be greater  than 1 or less than 0, which  is an unrealistic  situation  because we 
+know  that the probability  of any occurrence of a, occurrence of any event  cannot  go beyond 1 or 
+go less  than  0.  
+It generally  goes, varies  between  0 to 1. So, if we are sticking  with this binary  variable, I mean  
+binary outcome  I want  to do a linear  regression  or ordinary least squares  regression, based  on 
+these data  test set, then  you will see  that the predicted  probabilities  can be some  time  greater  than  
+1 or less than 0 which  is an unrealistic  situation.  So, to rectify  this problem, we generally  use the 
+logistic  regression .  (Refer  Slide  Time: 10:17)  
+ 
+But before  we go for the logistic  regression, let us first see what  is the logistic  function. So, here 
+you can see this is a logistic  function, you can see this is a logistic  function. So, it is a sigmoid  
+function you can clearly  see. And it is useful  to describe generally , generally  this sigmoid  
+function is used for describing the population growth  in ecology in, when there is a rising  
+quickly and, and  maxing out at the carrying  capacity  of the environment.  
+So, here it is reaching  a plateau  when  it is reaching  the carrying  capacity  of the environment. So, 
+it is called a sigmoid  function. Generally,  we use this logistic  function in case of ecological  
+application. So, similarly  this logistic  function so, the what  is the mathematical ? So, 
+mathematical  representation  of the logistic  function we can see here.  So, it is an S shaped  curve  
+that can take any real valued  number  and map it into the value  between  0 to 1, but never  exactly  
+at those  limits.   
+So, this is how we can limit or we can confine  the probability of occurrence of any event  within  
+0 to 1. And it does not allow  the probability  to go beyond 1 or less than 1 and thus rectifying  the 
+problem  of discrete dichotomous  outcome  or binary outcome  of the target  variable.  So, this is the 
+mathematical  form , here you can see L is the curve maximum value . Here small k is the logistic  
+growth rate or steepness  of the curve . And the x, the x the x value  at the sigma  midpoint  here and 
+also x is when  x is the real number. So, this  is how  you calculate the  logistic  function.  (Refer  Slide  Time: 12:22)  
+ 
+ 
+So, why this called  a logistic  problem ? Logistic , in the logistic  regression  these OLS  regression  
+can be reshaped  into this form, what  is this form ? This form  is the logistic  regression  form.  So, 
+here you can see, we are taking the logarithm  of p by 1 minus  p which is alpha  plus beta x plus e. 
+So, here we  are we  are, we are, we are producing  a logit  model  to solve  the problem  of exceeding  
+the probability beyond 1 and, reducing the  probability less  than  0. 
+So, we are taking this a logit model , this is called  a logic  model . So, here p what  is p? P is the 
+probability that the event  Y occur.  So, p is the probability  that an event  Y will occur.  And the value , and the value  and the ratio of p by 1 minus  p is known as the odds  ratio or means  
+probability. So, here this  is known as  the odds  ratio.  So, when  we are taking  the log of  these odds  
+ratio p minus  1 by p it is  also known as  log odds  ratio  or in simple  form  we call it logit.  
+So, this is called  a logit,  when  we are taking  the logarithm  of this ratio of probabilities.  So, we 
+can re arrange,  the prop that the model  in this form  we call it a logit model . And what, why we 
+do these?  Becaus e when  we do this type of representation  in terms  of logit model  that will 
+restrict  the probability  within  0 to 1.  
+(Refer  Slide  Time: 14:48)  
+ 
+So, graphically, you can see it here in case, suppose, there,  there are two as I have mentioned,  
+here you can see there are two outcome  Y equal  to 0 and Y equal  to 1. And it is when  we plot Y 
+versus  x, we can see here this is the linear  probability  model. So, this is a linear  probability  
+model  and which  is exceeding the  probability below  0 and  above  1.  
+And here you can see when  we are using the same in the form  of logistic  regression  model, 
+where log of odds  when  you are expressing in terms  of alpha  plus beta X plus e, beta is the 
+coefficient . Then you can see, we are restricting  the probability through the sigmoid  function  
+within  this probability between  0 to 1. So, this is the benefit  of using these logistic  regression , as 
+compared  to the linear  probability model.  (Refer  Slide  Time: 16:01)  
+ 
+So, the logistic  distribu tion contributes, sorry  the logistic  distribution constrains  the estimated  
+probabilities  to remain  between  0 and 1. So, we know  that estimated  probability from  this 
+logistic  function if you simplify,  we can get p equal  to 1 by 1 plus exponential  of minus  alpha  
+minus  beta x. So, from  here, we can see that if these alpha  plus beta x equal  to 0, then this 
+probability generally  goes  to 0.50.  
+And when  the alpha  plus beta gets really  big, the probability of, the estimated  probability  
+approaches  1. And when  the alpha  plus beta gets really small,  the probabili ty or p generally  
+approaches  0. So, this  is how  we can restrict  the probability  of estimated  probability between  0 to 
+1.  (Refer  Slide  Time: 17:25)  
+ 
+Now, now, some  other  features  let us discuss  some  other  features.  Now,  since we know  that log 
+of based  on the logistic  regression , the sum of the log of sorry , the log of p by 1 minus  p will be 
+alpha  plus beta x plus e eta or error.  So, the slope  coefficient,  so, in this form  if we consider  this 
+form  and want  to describe the coefficient  in terms  of this logis tic regression, then we can say that 
+the slope  coefficient  which  is beta is  interpreted  as a rate of  change in  the log odds  of x changes.   
+So, here beta is representing  the rate of change  of log of words  with x as, as x is changing. But, 
+this could be some what  confusing to understand. Now,  since we know  this is the simplified  form  
+of this probability, we  can further simplify  it like  this.   (Refer  Slide  Time: 18:50)  
+ 
+So, another  interpretation  of this logistic  or logit coefficient,  which  is usually more  intuitive  is 
+that odds  ratio.  So, instead  of using the same representation  we can do another  way instead  of, 
+instead  of expressing the logistic  regression  in the previous  form , we can just present  the odds  
+ratio and take the exponential in this side. So, p by 1 minus  three will be exp1ntial of alpha  plus 
+beta x.  
+So, here we can say that exponential beta is the effect  of the independent  variable on the odds  
+ratio.  So, this is how we can more  reasonably  express  the coefficient  of a logistic  regression. So, 
+again, the exponential of beta is the effect  of the independent  variable  on the odds  ratio. So, this 
+will be much  more  meaningful  than using the original  formula , while  explaining the beta 
+coefficient.  So, instead  of instead  of explaining the beta coefficient  here,  we are explaining in 
+terms  of exponential of  beta.   (Refer  Slide  Time: 20:24)  
+ 
+So, we have seen both now, the logistic  linear  discriminant analysis  we have  also seen the 
+logistic  regression. So, logistic  regression  is conventionally, what  is the difference  between  these  
+two?  So, logistic  regression  is conventionally used for two class  and binary classification  
+problem. So, that is why we generally  go with the linear  discriminant analysis.  So, though  
+logistic  regression  can be extrapolated  and used in multiclass  classification  also, this is rarely  
+performed .  
+Generally  we stick  with the binary classification  problems. So, LDA is considered  is a better  
+choice whenever  multi class , classification  is required.  And in the case of binary classification,  
+we can use both of them . In case of binary classification , both a linear,  logistic  regression  and 
+linear  discriminant analysis  both of them  are applied. However,  in case of multi class  
+classification,  we generally  prefer  the linear  discriminant  analysis  over the logistic  regression.  (Refer  Slide  Time: 21:44)  
+ 
+Now,  let us discuss , we have  discussed  some  parametric classification  algorithm  called  linear  
+classification  algorithm.  Now,  let us see some  nonparametric classification  algorithm.  So, the 
+nonparamet ric classification  algorithm  here, the kNN classification  or K nearest  neighbor  
+classification  which  classify  based  on the similarity  measure.  So, it classify  based  on the 
+similarity  measure and  classify  by majority  of the votes  for its  neighbor  classes . 
+And assign  the most  common class  among these  K nearest  neighbors. So, but, first of all it 
+identify  suppose, we are assigning any value of K, so, it first identify.  Suppose  K is 3 so, first it 
+will identify  the nearest  three classes  for any unknown sample  and then it will assign  the label  of 
+the class  based  on the maximum voting.  So, this is how, this kNN classification  generally  works , 
+by measuring  the distance  between  the data set.   
+So, the major  question in case of kNN is suppose  there is a suppose, there  is a new sample  and 
+we want  to assign  it based  on the distance of this sample  to one of these two classes . And it will 
+identify  the nearest  class  and then based  on that distance it will classify  the sample , unknown 
+sample  to one of these classes.  So, let  us move  ahead  and see the kNN  classification .  (Refer  Slide  Time: 24:05)  
+ 
+So, here kNN classification  the step by steps are given. Suppose  there are multiple,  there are two 
+classes,  red and blue, and they are mixed  together. So, we want  to assign  a new sample  which  is 
+denoted by this green  dot to one of these two classes.  So, how we can do that using kNN  
+classification?  So, there  are several  steps , first of all, we need  to load the training  as well as the 
+test data.   
+So, suppose  this green  data is the test data and all other  samples  are the training  data set. So, we 
+need to first choose  the value  of K, that is nearest  data points  K can be any integer,  3, 4 any 
+integer  you can select.  In the next step you can calculate the distance between  this test data,  
+between  this test data and each  row of the training  data.   
+So, you can calculate  the distance  between  this training  between , this test data and between  this 
+test data and the linear  distance I am sorry,  the distance between  the test data and each row of the 
+training  data with the help of the method. So, there are several  methods  for calculating  the 
+distance, Euclidean  distance  are there,  Manhattans  or hamming  distance  are there. However,  in 
+most  of the cases,  we generally  use the Euclidean  distance.   
+Now,  based on the distance values,  we then arrange  or sort them  these, adding them  into 
+ascending  order . And then it will choose  the top K rows  and from  the, from  the, from  the sorted  
+array.  So, if they are it is, it is when  the K value  is 3, it will select  the top three rows  and then it will see what  is the maximum outcome  out of these  three  rows  or maximum class  levels  
+predicted  class  levels.   
+So, if we see that the three rows , out of the three  rows  two of them  are showing the yes and one 
+of them  are showing no or in other  words, if two of them  are showing the red class  and only one 
+of them  are assigned  to blue class,  then these  unknown or validation  samples  will be assigned  to 
+this kNN,  to this red group.  
+So, this is how, so, again, let me let me summarize  this, first we load the training  data,  then we 
+calculate  the distance  between  the test data with these,  between  these  each row of the training  
+data.  And then we ascend  them,  we sort them  in the ascending  order,  and then we select  the top 
+three or top four based on the K values  and then we assign  the value  or assign  the class  level  
+based  on the majority  class  for those  three  or four observations. So, this is how the K nearest  
+neighbor  algorithm  basically  works.  
+(Refer  Slide  Time: 27:44 ) 
+ 
+So, what  are the advan tages  of K nearest  neighbor  algorithm?  So, it is a very simple  algori thm to 
+understand and interpret.  It is very useful  for nonlinear  data,  because  there is no assumpti on 
+about  data in this algorithm. It is a versatile  algorithm  as we can see, as we can use it for 
+class ification  as well  as regression.  It has relatively  high accuracy,  but, there  are much better  supervised  learning models  than kNN.  
+And since the kNN algorithm  requires  no training, before  making prediction, new data can be 
+added  seamlessly,  which will not impact  the accuracy  of the algorithm.  So, these are some  
+advantages  of the algorithm.  
+(Refer  Slide  Time: 28:27)  
+ 
+However,  there are some  disadvantages  of kNN also. First of all, it is computationally  a bit 
+expensive  algorithm  because it stores all the training  data. And here the accuracy  depends  on the 
+quality  of the data.  And high memory  storage  is required  as compared  to other supervised  
+learning  algorithm.  Then prediction  is slow  in case of big, big values  of N, and also it is a very 
+sensitive to the scale of the big number  of data and when  it is very sensitive  to the scale of the 
+data as  well  as the, as well  as well  as irrelevant  features.   (Refer  Slide  Time: 29:15)  
+ 
+So, these are the some  of the important  advantages  and disadvantages  of, for K nearest  neighbor  
+classification.  Now,  the classification  problem  we can define  in terms  of different  performance  
+metrics  or confusion matrix,  we have  already  discussed  what  is the confusion matrix , and what  
+are the two positive  true negative  false positive  and false negative.  We already  know  from  our 
+previous  discussion of confusion matrix,  we generally  use for identifying  or calculating  the 
+accuracy  different  performance metrics  for classification.   
+(Refer  Slide  Time: 29:53)  
+ So, as  it is a simple  example here is  given. Suppose, we  are classifying  some  disease and suppose  
+these is true negative,  where  actually  there  are no disease  and we are predicted  the disease  there  
+is no disease.  So, it is a true negative  when  there is actually  no disease,  but we predicted  yes 
+there are disease.  So, it is a false positive  and here you can see this is a false  negative,  because 
+there is  actually  disease but  we are predicted  no.  
+And here when  the actual  disease is there,  and we have  also predicted  disease.  So, here you can 
+see, this is called  the true positive. So, true positive , true negative , false positive , false negative  
+four types  of outcome  we can generate from  any confusion matrix.   
+(Refer  Slide  Time: 30:48 ) 
+ 
+And using those  values  we can calculate some  important  performance  metrics  like overall  
+accuracy , recall, precision, FPR. FPR stands  for the false  positive  rate. So, accuracy  stands  for 
+this metric  simply  measures  how often  the classifier  makes  a correct  prediction. And recall  is 
+basically  the sensitiv ity or true positive  rate, this matrix  denotes  the classifiers  ability  to predict  a 
+correct  class , so formula  is given here.   
+Precision , it is a measure of classifier’s  certainty  of correctly  predicting  a given class.  False 
+positive  rate or FPR is the metric representation;  it is a representation  of the number  of incorrect  
+positive  predictors  out of the total true  negatives.  (Refer  Slide  Time: 31:39)  
+ 
+Also,  there are true negative  rate, f1 score,  Matthews’s  correlation  coefficient , Cohen’s  Kappa, 
+there are different  types  of performance metrics . And we will discuss  it, in our next class  these 
+things  in details,  but here I want  to just focus  on this Cohen's  Kappa , because it is widely  used. 
+This metric  compares  and observed accuracy with the expected  accuracy. Expected  accuracy  
+means  accuracy  by random  chance.   
+We are also going to  discuss  this in details  in our, in our upcoming lectures  and also  when  we are 
+going to discuss  the digital soil mapping. So, these  are all indicative  of the performance of the 
+classification  algorithm.   (Refer  Slide  Time: 32:28)  
+ 
+So, there is another  importa nt performance metrics  called  ROC curve.  And this is generally  
+commonly used to graph  or summarize  the performance  of a classifier  over all the possible  
+threshold. And it is generated  by plotting  the true positive  rate against  the false positive  rate. We 
+have  already  discussed  these are important  metrics , as you vary the threshold for assigning the 
+observation to  a given class.   
+So, ROC curve  you also can see in some  of the literat ure, where  they have used the ROC curve  
+for as an as in performance metrics  of any classification  algorithm.  So, in our upcoming lectures,  
+we are going to, we  are going to  discuss  this performance metrics  in details . (Refer  Slide  Time: 33:12)  
+ 
+Just I want  to, wrap  up this lecture by showing some  soil and plant  application  of K nearest , K 
+nearest  neighbors  method. So, you can see here,  here in this example,  soil samples  were  
+classified  into one of the four hydrologic  groups. So, here you can see four hydrologic  model  
+says HSG A, HSG B, HSG C, HSG D, based  on this K neares t neighbor  and all. So, they have  
+used the support  vector  machine classification , decision  tree based  classification .  
+We already  know  decision  tree and support  vector  machine classific ation.  And here you can see 
+the K nearest  neighbor hood classification  they have  used using the K value  of 4. So, different  
+performance may increases  are given like recall  position FPR, TNR , F1 score  MCC  Kappa  and 
+from  there they have calculated  which  class ification  algorithm  performed  better . So, this is the 
+application  of KNN in  soil.  (Refer  Slide  Time: 34:14)  
+ 
+And also here, application  of KNN  in plant  where  images  of guava  was used for, for classifying  
+the samples  classifying. So, basically  the image  features  of differe nt guava  diseases  were used 
+and, to classify  them  using different  types  of classification  algorithm  like K nearest  neighbor  and 
+then support  vector  machine, then boosted tree, back  tree, complex  tree. So, people, scientists  are 
+using dif ferent  types.  
+So, they have  used, first instance they have  used the RGB  histogram, which  is a specific color  
+model . In the second  table  is showing the HSB  histogram . In the third  is to, in the third  table  it is 
+showing LBP features.  So, these features  they have  used from  the images . And from  collecting  
+from  different  diseases  and then they have tried to predict  the target  variable.  So, these are some  
+examples  of KNN application  implant.   (Refer  Slide  Time: 35:35)  
+ 
+So, guys, I hope  that you have  learned  something new while  we discuss  the logistic  regression  
+and also K nearest  neighbor  classification . These logistic , while  logistic  regression  is a linear  
+classification  method. However,  this kNN method is a nonparametric  method. So, these are the 
+references  which  I used, you can, you can this you can, you can go back  to these references  and 
+you can  have more  information  regarding these technologies.  
+Thank you and, we will, we will go from  here in our next class,  and we will also discuss  in 
+details  about  different  performance  metrics  in our next lectures.  So, stay tuned and let us join in 
+our next  lecture to  discuss  other  classification  and clustering  algorithms.  Thank you.   

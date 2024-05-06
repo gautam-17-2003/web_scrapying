@@ -1,0 +1,292 @@
+Machine Learning  for Soil and Crop  Management   
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department   
+Indian Institute  of Technology, Kharagpur  
+Lecture 49  
+Digital  Soil Mapping  – General  Overview  (Contd.) 
+(Refer  Slide  Time:  0:23)   
+ 
+Welcome friends  to this 4th lecture of week  10 of NPTEL Online  Certification  Course  of 
+Machine Learning  for Soil and Crop Management . And in this week  we are talking  about  
+basic overview  of digital  soil mapping. In our first couple  of lectures , we have  discussed  the 
+basics  of digital soil mapping, digital soil mapping workflow  principle , how to take 
+management  decisions , using DSM .  
+And also we have seen different  auxiliary  variables , SCORPAN plus e model . And also we 
+have  seen what  is GIS, what  are these  applications , what  are the different  types  of data in 
+case of GIS, and also we have  seen what  are the different  types  of geography coordinate  
+system , universal  transverse  marketer  and also datum  we have  seen .  
+And in our last lecture, we have  discussed  about  Geostatistics , which  is very important  for 
+digital soil mapping, its applications , its concept  of Geostatistics , models  of Geostatistics , 
+universal  model  of variation . We have  also discussed  the inverse  distance interpolation , 
+Kriging interpolation  as well as we have  discussed  the Variogram  and different  parameters  of 
+the Variogram . 
+So, today in this lecture number  49, we are going  to discuss  and I am going to show  you how 
+we can use a software  called  R for different , different  DSM  approaches , but before  that this lecture will be  a overview  lecture for R . I am going to  show  you how  to download R  and I am 
+going to show  you some  of the basic  functions  for the beginners  in R, which  you can 
+perform . And I will also distribute  this codes  in our class  platform , so please feel free to ask 
+me any questions  in the forum  if you have . 
+(Refer  Slide  Time:  2:39)   
+ 
+So, let us start. These are the concepts , which  we are going to cover  in this lecture. First of all 
+the basic overview  of R and then we are going to see how to install R. And then we are going 
+to see what  is Rstudio. And then we are going to see some  basic operations  in R. This lecture 
+will be  basically  focusing on these concepts . 
+(Refer  Slide  Time:  3:06)   
+ And these are some  of the keywords , which  we are going to discuss , R, then R studio and 
+then CRAN,  then  packages  and what  are the libraries , we are going to  discuss  in this lecture. 
+(Refer  Slide  Time:  3:24)   
+ 
+Now,  the first question comes  to our mind  what  is R? Well R is a widely  popular  and most  
+common programming  language , it is one of the most  widely  accepted  widely  popular  and 
+one of the most  common programming language . And this helps  this language  this 
+programming language  helps  in statistical computing, data mining  and graphics . The biggest  
+advantage  of using R is it is open source , this R software  was created  by statistician  Ross 
+Ihaka and  Robert  Gentlemen , these two  statisticians  have  developed  this language  R. 
+And it is supported by the R core team  and the foundation for statistical computing. So, R 
+generally  you can see this is the symbol  of R and this is the console  or the major  console , 
+where  you can type all the commands  in R, I will show  you what  is console . And then I will 
+show  you how  to use this console  also. (Refer  Slide  Time:  4:42)   
+ 
+So, what is R? R basically  is an implementation  of the S language . So, S was created  
+originally  in 1976, it is a statistical programming language  developed  by John Chambers  
+from  Bell Labs. So, the R project  started  in 1991 and R first appeared  in 1996 as an open 
+source  software. So, you can download R freely  from  this website  I will show  you and users  
+can another  important  advantage  of using R is users  can create packages  in R, focusing  on 
+specific applications . 
+(Refer  Slide  Time:  5:31)   
+  
+Now,  when  you download  R you will see that I mean  if you go to this website  also you see 
+CRAN  or CRAN  what  is CRAN?  CRAN  is basically  a short  form  of comprehensive  R 
+archive network . And it basically  stores  R’s all the executable files, source  code , documents , 
+as well  as the packages  contributed by users .  
+So, for doing any specific operation in R you need  to download certain  packages . So, these  
+packages  are developed  by users  and you have to for example  if you want  to, if you want  to 
+execute the  partial  squares  regression  you have to  download or  install this  PLS  package in  R.  
+So, there are numerous  packages  in R focusing on specific operations , so originally  CRAN  
+had 3 mirrors  and 12 contributed packages , but right  now CRAN  has 101 mirrors  and 18,728 
+contributed packages , mirrors are the source  sites from  where you can download the 
+executable file of R. So, there are different  mirrors  available, CRAN  mirrors  are available for 
+different  countries  all over the world  and I will show  you how to download this from  any a 
+CRAN  mirror.  (Refer  Slide  Time:  7:15)   
+ 
+So, this is called  the R console , so the console  window  when  you open  R, you will see a 
+window  this is called  the console  window  and in so it is a place  where  R is waiting  for you to 
+tell it what  to do and where  it will show  the results  of a command . So, you can type 
+commands  directly  into the console , but they will be forgotten  when  you can close  the 
+session .  
+(Refer  Slide  Time:  7:54)   
+  
+ 
+  
+ 
+So, let  me show  you how  to download R  first, guys , so now  I will show  you how  to download  
+and install R. So, you go to Google  and type R software  and it will open this, it will show  this 
+the R project  for statistical computing, you click  on it and it will redirect  you to download R. 
+So, if  you click  on it this  link of download R , it will redirect  you to  CRAN  mirrors .  
+So, this CRAN  mirrors  are as I have told you this is a comprehensive  R archive  network, it is 
+available at these following URL’s.  So, every  country I mean  most  of the countries  of the 
+world  they have their own URL’s,  unfortunately  India n link was not opening for last couple  
+of days, so probably they have  removed  it, but hopefully it will be again  revived  in couple  of 
+days.  
+So, you can download this from  any CRAN  mirror, for example we can go to this Iowa  State 
+Universit y and then we can click  on this CRAN  mirror link and it will redirect  you to this page , which  will show  you that you can download it for either  Linux based  on your operating 
+system , you can download it from  the Linux you can download it for a mac operating system  
+or you can  download it for windows . 
+So, here I will show  you based  on windows , so I will just if you, I will show  you how to 
+download it from  there. So, click  on it and it will redirect  you to this page  where you will see 
+that this install R for the first time, so those  who are installing  it for the first time you can 
+click  on it install R  for the first time so it will again  redirect  you into this page which  is called  
+I mean  you can see here a link called  download R 4.1.2 for the windows , which  is having 86 
+megabytes  and 32 or  64 bit. 
+So, if you click  on it, the file will start downloading it will take some  time depending on your 
+speed , so I have already  installed  it, so I am not going to download it, but once  you download  
+this EXE  file you can just follow  the normal  process  of installing  it and from  there  you will 
+be able to install R. So, I am going to cancel  it since I have already  installed  it, it is very 
+simple  guys , you just need to install it just like any other  software . So, this is how you 
+download R . 
+(Refer  Slide  Time:  10:59)   
+ 
+Now,  if you go back  to this R console , so this R console  is the original  R graphical  user 
+interface. So, here you basically  type the functions  you give the commands  in R and it will 
+you can directly  give the comments  in R and it will be generating  the results  here. So, this is 
+called  R console . However , this is not so much  user friendly , so to make  the R more  user 
+friendly  people  are people  use different  types  of integrated  development  environment .  (Refer  Slide  Time:  11:46)   
+ 
+So, one of these IDE for R is R studio. So, there are other  IDE’s  also but this is most  popular  
+that is R studio which  is available in either  R studio desktop, which  is a regular  desktop  
+application  or R studio server  which  allows  the R studio access  using a remote  server . Again 
+just like R, it is free however  there are some  premium versions  which  are available  with 
+which  has some  amount  of cost, but generally  it is free the R studio desktop, it can run on 
+windows , mac and  the Linux. 
+(Refer  Slide  Time:  12:37)   
+  
+ 
+So, if you download, I will show  you how to download this. So, if you download it you will 
+get four different  windows , one is code  editor  window  or console  window , this is a code  
+editor  window, second will be a console  window , third  will be workspace and history  
+window  and fourth  will be  plots  and files  window .  
+So, in the code  editor , we generally  write  the codes , the codes  will appear  in the console , the 
+results  will appear  in the console . In the workspace , you will see the files which  you are, you 
+are creating  and in the plots  and files window  you will be generating  the plots  you can, you 
+can export  this plots  into different  formats  like JPG,  then  PDF  and so on.  
+So, this code  editor , the window  will allow  you to create and open  a file containing this R 
+script , the R script  is where  you can keep  the record  of your work  and R script  can be created  
+as follows , so you can click  on this file tab it will open a new and then you go to R script . And this R console  will help you for typing the commands , so you can directly  type the 
+command  here in the R console  or you just play you just run the commands  from  the code  
+editor  window  also. 
+So, this is the workspace  tab, so this workspace  tab shows  the list of R objects  you created  
+during your R session and finally  this is the history tab which  shows  the history of all the 
+previous  commands . So, here I am sorry , there will be history tabs here,  so the history you 
+can see all the history and  these the  plots  and files  window . 
+So, this  plots  tab you can  see history of  the plots  we have  created  from  this tab you can  export  
+the plot to a PDF or an image  files and there will be a file tabs also, so from  there also you 
+can see the files in your working directory . And there will be packages  tab also, which  show 
+external  R packages  available on your system , so you can download the package on 
+download and  install the  package in  R using this  command , using this , using  this package tab . 
+(Refer  Slide  Time:  15:06)   
+  
+ 
+  
+So, let me show  you how to download and use this R studio. So, again  just like R you just go 
+to Google  and type R studio, like right  now I am typing R studio, so if you click  on it you 
+will see that R studio, so there are different  versions  of R studio, of course  as I have told you 
+go to download, you see that R studio desktop it is free, but there  are some  R studio desktop  
+pro or studio server  also this free anal  studio workbench.  
+So, these are some  commercial  licenses , but you do not need  that at this point  of time, you 
+just download it from  here and remember  one thing that before  you download the R studio 
+desktop you need  to download and install R, this is mandatory. So, once  you install R, then 
+you download R studio  for windows , you just click  on it and it will start downloading so it is 
+around 169 Mb. So, it will take some  time just like R this installation  is also very simple , so 
+you can  download it and  you can  install it just  like R, okay guys .  (Refer  Slide  Time:  16:30)   
+ 
+ 
+  
+So, now we have  downloaded and install R studio, now when  you open the R studio, these  
+are some  of the codes  which  I have already  prepared  for you, but you can write  your own 
+script  by click  on this file and then you can click  on this new file and you can create  your 
+own script  also.  
+So, you can type it here also, but I am going to show  you some  of the already  made scripts . 
+So, we do not waste  time, so let us just remove  that, so this is the R studio and as you as we 
+have  discussed  this is the editor  window  and this is the console  window , this is the R 
+environment  tab and this is the files  and plots  window . 
+So, in this editor  window , will we can type the codes  and it will appear  here in the console  
+and then we can see, we will see some  of the files which  are we are going to create, these  are 
+some  of the files which  I have  already  created  for my own work  and for my other  classes , so 
+other  courses  and in the plot window  we will be seeing  different  types  of plots , which  we can 
+create by using R . 
+So, in R remember  that some  important  aspects  is you have to, if you want  to annotate  some  
+lines  you have  to start it with this hash sign, so anything which  starts  with hash basically  
+gives  some  annotation. So, suppose  you want  to use a command  and you want  to remember  
+for what  you have  used that command  you can give some  explanat ion starting  by this hash, 
+starting  by this  hash .  
+So, here I am going to show  you some  basic operation , but before  that let me tell you one 
+important  thing also, here you can see the package tab, so in this when  you click  on this 
+package tab  you can see t here a list of  packages  which  are available, so  you can get a package  from  here I am just caret  package for example or suppose  a aqp package  for example, and 
+then you can hit install and this package will be installed  or you can directly  type a package  
+called pls package and in this pls package you can and then you can type install and it will be 
+installing  this whole  pls package.  
+So, you can see that it is showing install packages  pls, so it will take some  time and when  the 
+package will be installed , then this package pls is successfully  unpacked and MD5 sums  
+checked , so that means  this pls package has been  installed . So, this by this way you can you 
+can download any package and install any package which  is not originally  contained  in R, so 
+you have  to basically  go and you have  to select  that particular  package  and then you have  to 
+hit this install button.  
+(Refer  Slide  Time:  19:51)   
+ 
+  
+ 
+ Now,  let me show  you some  of the important  operations , very basic operations , we are going  
+to start from  the, for the beginners . So, let us do some  simple  sum so I have annotated  it with 
+this hash and we can do some  1 plus 1 and then we can we can directly  click  on this run 
+button or  by taking this  cursor  here.  
+So remember  that when  you want  to run something you can either directly  copy it or you can 
+take this cursor  just here you can either  hit run or you can just click  control  enter  together , 
+they will have  the same outcome . So, run or control  and enter  you can control  plus enter  
+together  will give  you the  same output .  
+So, here you can see here we are putting 1 plus 1, so directly  we can get the results  in the 
+console , so that is 2 and this first parenthesis  I mean  in the third  bracket  we are getting  the 
+line, so sometime  you will see the output  will come in multiple  lines, so these starting  
+parenthesis  will show  which  line this we are seeing  currently .  
+So, here  let us assume  that we are creating  a variable  x with  1 plus  1 and this 1 plus  1 you can 
+see we are instructing  R that you should understand that x is basically  1 plus 1, so we are 
+running it and let us see what  it if you click  on it, if you just type x and click  run, so you will 
+see that  the output  will be  given also  here.  
+So, another  important  thing  I forgot  to mention  that whenever  you install any package you 
+have  to upload  that package by using  a command  called  library , I will show  you. So, we have 
+just for an example at this point  of time, since we have  already  installed  this R package called  
+pls, let us just use this library  pls also. So, I am typing this  library  pls, so actually  (())(22:20) . 
+So, now we have  seen that how x can we can create a variable and assign  some  values , so 
+now let us see how we can use this R as a calculator . So, you can see that 1 plus 2 by 2 minus  
+1, so if we type it so and run it you will see that the values  will come  and then infinite  
+numerical  values , so when  x equal  to 1 by 0, of course  and you want  to know  what  is the 
+value  of x it will show  the Inf, Inf stands  for infinity .  
+Similarly , y equal  to 1 by 0 and then y equal  to and y we want  to see that is infinity  and x and 
+y both are infinity , so of course  when  you subtract  them  together  will not will get a this NaN,  
+which  stands  for not a number . So, suppose  you want  to remove any object  which  you have 
+already  created  so this object  which  you have already  created  x equal  to 1 plus  1.  
+So you want  to remove  this object  from  your workspace , so you see here whenever  we 
+created  these two objects  x and y, which  is infinity , infinity , so we want  to remove  this x which  is infinity . So, we are going so these two have  been  already  populated in this global  
+environment  tab. So, we want  to remove  these x now, so that has been  removed  now if we 
+type just x, so  you will see that  error object  x is not found. 
+So, we can see we can remove  any object  from our workspace , so that we can we can see the 
+desired  results . New  line separator  if you want  to separate any lines , so we can use for 
+example here exponential  of 1 and exponential  of 0, if you want  to separate the output  you 
+can see here the separating  the output  and then you can see the constants , different  types  of 
+constants .  
+So, here this is pi and you can see the value  of 3.14 and if you want  to know  any help if you 
+want  to have any help  of understanding pi , so you have  to use this help  function an d just  click  
+on it and  then  it will open these built  in constant . So, pi  all the sign these are built  in constants  
+and functions , so if you just click  help and it will open a sheet  where you will have  all the 
+information’s , which  are required  for understanding that  particular  function. 
+So, similarly  if you want  to have  sin 2 multiply  pi, so you will see that the values  will be 
+generated  and if you want  to know  what  is the sin, so of course  all trigonometric  functions  
+will appear  and their arguments  will also be generated , remember  you can, you can recall  a 
+previous  command  in R graphical  user interface by hitting  the up arrow  on your keyboard, so 
+if you can  just go to this console  and hit the up arrow  you will see the  previous  command  will 
+be generated , all the previous  command  will be  generated . 
+So, suppose  you want  to assign  the same  value  to several  symbolic  variables  you can use this 
+x and  y and z equal  to 1 and you can  then  list them , those  variables , so here  you can  see in the 
+global  environment  x, y and z are being  created . Now,  remember  one very important  thing 
+that R is very much  case sensitive , so if you using R you must  be very, very careful  about  the 
+case R  will not  understand, if  you change  your  case. 
+So, here you can see x is lower  case, so 1 plus 1 and if you want  to know , if you want  to if 
+you want  to get the output  of capital  X, then it will create problems . So, capital  X have been  
+already  created  before in one of my, one of my previous  application . So, let me remove  this 
+capital  F. 
+Now,  let us see this small x equal  to 1 plus 1, we know  it and let us now see capital  X and 
+you will see there  is an error will appear  in red text, so object  x is not found. So, if this object  x was not created  previously and only you have  created  an object  small x, if you type it you 
+will get  this type  of output  that this is not. So, R  will not  understand if  you change  your  case.  
+So, if a command  is not completed  in one line, then typical  R prompt  is so you can just go to 
+the next line and R will basically  assign  will just automatically  give this plus sign. So, here 
+we are selecting  the whole  line and then running it and then will get the value  of x here 
+directly , so 2. 
+So, there are different  types  of data numerical  data of course  you can see here 10.2 it is a 
+numeri cal data,  then  if you want  to have  the character  data of  course  remember  that it must  be 
+in the code. So, John Doe is a name and so you have  to un you have  to instruct  R that John 
+Doe is a character  and so to instructor  you have  to put them  within  this in a in code  and you 
+can click  on it and  then  you can  see that  the same thing will be  reproduced.  
+So, logical  data generally  gives  the output  in true false and not applicable . So, if 4 is less than 
+2, if we want  to if we want  to make  a query  of course the output  will be false  and if we have  
+if you want  to give and we create an object  b with that and we want  to see the object  output  
+then also you will see the  false.  
+Complex numbers  a complex  number  we are suppose  here one complex  number  we are 
+creating  by the name of C num1 and 10 plus 0 plus 3i and if we click  on it will say and then 
+let us see it is a we are running it, so this is a complex  number  and we can use the mode  or 
+class  function also  to see the type  of data.  
+So, suppose  we have  created  a object  called name John Doe, so you want  to see the class  of 
+that name, so we can see here it is a character  and then if you want  to see the class  of b of 
+course  it is a logical , it is a logical  and class  of x it is a numeric  and or mode  of x also it will 
+be numeric , so and then  class  of this C num 1, which  is a complex  number , so you can  see it is 
+a complex  number . So, all  these type  of different  types  of output  you can  get from  R. 
+So, let us wrap  up our discussion here, in our next lecture,  we will be starting  from  here and I 
+will show  you how to use the data frame  using R, how to handle  the different  vectors  in R 
+and what  are the preparatory  stages  of of R for how to how to prepare the data before  going 
+for the  standard DSM  application .  
+Remember  one thing guys  that, once  you download any package you have  to upload, you 
+have  to you have  to, you have  to use the library  command, I will show  you in our in our next 
+lecture. So, once  you install any package  you have to call that library , before  you want  to perform  that particular  operation  without  calling  the library  it is not possible  to execute that 
+particular  operation  in R.  
+So, guys  let us wrap  up our lecture here and I hope  that you have  gathered  some  useful  
+knowledge  and thank you for your attention  and let us meet  in our next lecture to discuss  
+more  about  R, I will show  you how to use R for DSM  in upcoming  lectures  in more  details . 
+Thank you.  

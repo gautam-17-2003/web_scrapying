@@ -1,0 +1,307 @@
+Machine Learning for Soil and Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology Kharagpur  
+Lecture 21  
+Diffuse Reflectance Spectroscopy:  Basics and Applications for Crop and Soil 
+Welcome fri ends to this week five of the NP TEL online certification course of machine 
+learning for soil and crop management.  
+(Refer Slide Time:  0:31)  
+ 
+And in this week 5, we are going to discuss a very, very important topic that is D iffuse 
+Reflectan ce Spectroscopy:  The Basics and A pplication s for Crop and S oil. Now, in the modern 
+era of soil and crop analysis, diffuse reflectance spectroscopy has gained, a huge importance. 
+And now adays it became an indispensable tool for proximal soil and crop management. So, in 
+this week, we wi ll be e specially discussing different basics of what is diffuse reflectance 
+spectroscopy.  
+We wi ll be discussing some of the specs of the diffuse reflectance spec troradiometer and also 
+we are going to discuss some of the important soil application of course, there are 1000s and 
+1000s of application if you if you go and see the literature, you will see 1000s of application 
+both for soil and crop, but we will be disc ussing some of the most important advancement as 
+far as the soil and crop based monitor ing are concerned based on this diffusion reflectance 
+spectroscopy. So, this is our first lecture.  
+(Refer Slide Time:  2:11)  
+ 
+And in this lecture, we are going to disc uss on the basic concepts we wi ll be starting with the 
+sampling the spectrum, and then how from the electromagnetic spectrum, we can see different 
+types of spectral r eflectivity spectral values, we wi ll be talking about the bad chromatic images, 
+we wi ll be  talking about multispectral remote sensing, and then we will  be talking about 
+hyperspectral remote sensing and the difference between multispectral remote sensing a nd 
+hyperspectral remote sensing.  
+We are also going to talk about the basics of soil spectr oscopy and what is spectral library how 
+to create the spectral library. Now, in our previous 4 weeks, we have discussed the basics of 
+machine learning application for soil and crop and also we have discussed the multivariate data 
+analytics, how to handle different multivariate data. Also, we have discuss ed the important 
+regression and multivariate regression problem machine learning problems and their application for soil and crop.  
+We have also discussed the classification problems and different clustering  problems also for 
+predicting several important soil and crop properties or classifying several important soil and 
+crop properties. Now, all those discussion this application of this diffuse reflectance 
+spectroscopy came several times and today we are goin g to discuss what is the basic of or the 
+fundamental concept behind this soil spectroscopy and how this diffuse reflectance spectroscopy helps in identifying or predicting several important soil and crop parameters. And 
+so, these are the concepts which we are going to cover .  
+(Refer Slide Time:  4:09)  
+ 
+And also these are the important keywords whi ch we are going to cover. Soil spectroscopy 
+MIR  or mid infrared, then vis -NIR or visible to near in frared, then spectral library I wi ll show 
+you how to develop the spectral library and also chemo metrics or the statistical algorithms 
+required for measurement of a chem ical parameter is known as a chemometric. So, we are 
+going to discuss all these in our lecture.  
+(Refer Slide Time:  4:42)  
+ 
+So, let us start with the panchromatic band. So, panchromatic band which is basically a black 
+and white band is one band that usually contains a couple of 100 nanometer bandwidth. So, it 
+is quite large the bandwidth is quite large. And the bandwidth enables you to hold high signal 
+to noise and making the panchromatic band available at a high spatial resolution.  
+But in most of the cases the panchromatic band,  panchromatic images are black and white 
+images these and this image can gathered with higher resolution , can be gathered with a higher 
+resolution since spectral range gives the smaller detector allowances to be utilized while 
+sustaining the high signal to noise ratio. So, this is an example of a panchromatic image , black 
+and white image of an area.  
+(Refer Slide Time:  5:42)  
+ 
+Now, if we see that total electromagnetic spectrum, the total electromagnetic spectrum maybe 
+differentiated into several regions, like you can see here in the visible region, we are having 
+the blue band, green  band , R band, then com es the near infrared, then comes the shortwave 
+infrared and then the mid wave infrared and then long wave infrared. So, these are some of the terminologies generally scientists use and it varies you can see here from 400 nanometer to 
+14,000 nanometers.  
+Now, in case a panchromatic as we have discussed, it contains one very wide band. So, of 
+course, the resolution of this panchromatic band will be comparatively lower than that or multispectral and also further lower than hyperspectral and also the ultra -spectral. So, the 
+panchromatic that means, it contains one very large wide band to capture the information. F or 
+example, you can see these panchromatic band is containing most of the visible range.  
+So, the spectral resolution is lower than that of the multisp ectral which contains several to tens  
+of the bands which is medium resolution you can see here these are the multispectral bands and 
+hyper spectral bands are characterized by the hundreds of narrow bands, when the hundreds of 
+narrow bands capturing the whole electromagnetic spectrum or the part of the electromagnetic 
+spectrum, then we call it hyperspectral spectrum .  
+Now hyperspectral spectra is having high resolution because it can capture the minute  details 
+because it has very narrow bandwidth, more high resolution if we consider the higher resolution  
+than hyperspectral we call it u ltra-spectral which contains the 1000s of narrow bands 1000s of 
+bands. So, this is called ultra-spectral spectr a. So, here based on which sensor you are using 
+either you are using panchromatic sensor or multispectral sensor , hyperspectral sensor or 
+ultraspectral sensor this the resolution will vary.  
+So, what we can see ? Ultra spectral has the highest resolution followed by hyperspectral , 
+multispectral and panchromatic. So, thi s diffuse reflectance spectroscopy or  the soil 
+spectroscopy basically deals with this hyperspectral data which contains the hundreds of 
+narrow bands. Now, why this why we are considering this hyperspectral , why it is beneficial, 
+we are going to discuss in our coming slides.  
+(Refer Slide Time:  8:55)  
+ 
+So, let us first discuss or  discriminate between the multispectral and the hyperspectral. So, 
+multispectral imaging measures the light in a small number typically 3 to 15 of spectral bands. 
+So, the number of w idth bands are in case of multispectral remote sensing or multispectral 
+images are very low as compared to hyperspectral because, in case of hyperspectral often 
+hundreds of contiguous spectral bands are available and remember that these bands are 
+contiguous.  
+So, if you see the hyperspectral mapping of an area, this will be much more clear to you. So, 
+you can see it is an hyperspectral sensor. So, hyperspectr al spectrometer and using a detector 
+which detects a whole area and using the detected array, you ca n see that it can capture the 
+spectra of hundreds of , it can be considered these detectors array can be considered as hundreds 
+of parallel spectrometers and when we have these suppose from 400 nanometers to 2500 
+nanometer wavelength for each of the for the  for each of these wavelengths from 400 to 2500 
+nanometers, which generally we consider as visible to near infrared.  
+So, for each of the wavelength it will capture an image. So, you can consider this is a image 
+cube, ultimately, when you stack all these i mages captured using the individual wavelengths, 
+contiguous wavelengths, in the visible to near infrared or any range, it will be considered as a image cube  or hyperspectral data. Y ou can consider as a book the whole data you can consider 
+as a book or image cube you can consider as a book and individual pages of that book as an image captured by individual wavelength.  
+So, this is called the image cube  and of course, when we are capturing these are individual 
+images using the individual and we are capturing the images using the individual wavelength 
+and we are stacking them togethe r ultimately getting the high  resolution, very high resolution 
+map of an area using this hyperspectral sensor. So, again hyperspectral sensor uses a detector arrays.  
+So, basically  using this detector array, it capture the images of any surface for each of these 
+contiguous wavelength and then overlay each other and stack each other ultimately creating a 
+image cube or data cube and this data cube is known as hyperspectral da ta cube and this 
+hyperspectral data cube has much more information than that of multispectral as well as panchromatic sensor.  (Refer Slide Time:  12:08)  
+ 
+So, if you can see the difference in these images also, this will be much more clear. So, you 
+can see here the black and white photograph can be used by can be utilized by using these 
+visible bands. So, black and white photographs can be can be taken using this visible range and 
+in the digital cameras the different digital cameras can also use the , you can  also use the 
+multispectral data. So, here you can see there is a single band image, this is a multispectral 
+image and this is a hyperspectral image.  
+In case of hyperspectral image, you can see how these are there are different types , pinewood,  
+grassland , sandy soil and silt y water, how they will appear in different types of sensor. So, you 
+can see here in the visible sensor, there will be difference, but you cannot identify the spectral 
+signatures . In case of multispectral , you can see the spectral variat ion, but these bands and 
+spectral features are quite broad. So, minor features cannot be discriminated.  
+However, when you plot them using is the scientific sensor which are mostly hyperspectral 
+sensor, you can see the much more details of the spectral signatures . You can see this is the 
+spectral signatures of these individual pinewood grassland sandy soils anywhere and silty water 
+and you can see the clear differences as far as the spectral signatures are concerned. So, spectral 
+signatures, so, high resolution. So, the crux of this whole discussion is when you move from a 
+single band to multispectral to hyperspectral, we are getting much higher information than that of using the multispectral data as well as the single band data. So, let us move ahead and s ee.  
+(Refer Slide Time:  14:06)  
+ 
+So, you can see these a multispectral measurement of different types of vegetation, coniferous , 
+grassland , broadleaf , dry land vegetation and non- photosynthetic vegetation and you can see, 
+when we are using the hyperspectr al sensor, how we are getting much more information, much 
+higher signal to noise ratio, I would say and also when we are we are getting much more 
+spectral information, when you are using the spectroscopic measurement as compared t o the 
+multispectral measur ement.  
+Because the multispectral measurement , we can see the lines, but you cannot see these 
+important spectral features. So, these important spectral features can be only resolved when 
+you are using the scientific sensors or hyperspectral sensors like spectroscopic sensors.  
+(Refer Slide Time:  14:57)  
+ 
+Again, this is an example you can see here h ow the difference between the multispectral and 
+hyperspectral remote sensing data you can clearly see that these are from different crops , 
+habitation, plantation, soil and water, these are from hyperspectral data and thi s is the same 
+surface with the multispectral data. So, you can clearly see the difference between the 
+multispectral data and the hyperspectral data. So, of course, that reflects in the differences 
+between the multispectral and hyperspectral rem ote sensing.  
+(Refer Slide Time:  15:35)  
+ 
+So, if we consider all of these, there are different types of hyperspectral sensors. Now, the hyperspectral sensors which are, there are different types of hyperspectral sensors and based 
+on the some of the feature s we have discriminated them for example, if you see these, this 
+diagram you can see. I f we have the spectr oradiometers, it will capture only the , it is a 
+combination of spectrometers as well as the radiometers because the spectrometers it captures the spe ctral information and in case of radiometers it capture the intensity information.  
+So, when a instrument combines both spectrometer and radiometer , that means, it captures both 
+spectral information as well as the intensity information or radiance then it will be considered as a spectr oradiometer  and also when there is a combination of radiometers and images. 
+Because the spectr oradiometer s cannot give you the special values or  it cannot be specially 
+applied  it is a point spectroradiometer but, when these ra diometer s can be utilized, when the 
+radiometer s and images are also combined, because images can give you the special 
+information and radiometers give you the intensity information.  
+So, combining these you will be getting the imaging radiometers and when there is a 
+combination between spectrometers and images that will be considered as an imaging 
+spectrometers. So, when we combine all images, spectrometers, and  radiometers then 
+ultimately we will be getting the imaging spectroradiometers . T hese imaging 
+spectroradiometers are there in different types of sensors, satellite sensor, airborne sensors, but 
+generally when you talk about file spectros copy, we will be focusing today’ s discussion on the 
+point spectroradiometers which cannot capture the special inform ation .  
+However, the same principle will be followed in case of satellite base and airborne 
+hyperspectral remote sensing . The difference is in there , there will be imager which will capture 
+the special information. So, there are different types of satellite based sensors hyperspectral 
+sensors , airborne  (()) (18:08)  sensors , hyperspectral sensors and ground based hyperspectral 
+sensors . Some of the satel lite based hyperspectral sensors are observatory one , Hyperion and 
+then HYSI  these are satellite based sensors.  
+Airborne sensors are HyMap, P robe, CASI, AVIRIS, AVIRIS New Generation or AVIRIS -
+NG and also ground based or spectroradiometers are the these t he spectroradiometer  as well as 
+Fourier transform infrared spectroradiometers , so spectrometers so and also some imaging 
+spectrometers are also their optical and thermal which can be also used in airborne  but generally 
+our discussion in this week wi ll be f ocusing on these point spectroradiometer which we 
+generally use for ground trothing as wel l as point measurement .  
+(Refer Slide Time:  19:04)  
+ 
+So, what is soil spectroscopy? Soil s pectroscopy can characterize soil properties efficiently it 
+is defined as th e study of the spectral signatures of the soil material and the spectral signatures 
+relate to the soil characteristics such as organic and mineral components and what are the 
+advantages of this soil spectroscopy because this is very fast using a spectrophotometer you 
+can capture a scan , a whole scan of the single soil within only a couple of seconds.  
+So, it is very fast and beauty of it is it is high throughput that means, using a single spectrum, you can capture so many spectral information, you can relat e with the,  you can, which you can 
+relate to the soil and crop components. So, the measurements are very fast it is cost effective, 
+because you can see how many samples you can cover within a very short period of time and 
+also it is nondestructive that means, it does not destroy the sample since it is an optical 
+instrument, it does not destroy the sample s and it is field portable, so, you can carry it in your 
+in your field to do the measurement.  
+So, it can be used both inside the laboratory as well as in the field. So, you can see these are , 
+so, these are the advantages of using the soil spectroscopy. No w, soil composition and 
+characteristics, that the soil composition and characteristics are encoded in the spectrum at specific wavelengths of the electromagnetic spectrum. I wi ll show you how these important 
+spectral features appear in the soil from differ ent sources. Of course, individual cla y minerals 
+as well as functional groups in the organic matter and also the function groups which are present 
+in soil moisture can show their presence in the spectrum of hyperspectral spectrum or VisNIR  
+spectrum.  
+So, using those  information a nd also the chemome tric algorithm or the multivariate prediction 
+algorithm, we can predict the presence of those individual components. So, we know that the 
+soil composition and characteristics are encoded in the spectrum at specifi c wavelengths of the 
+electromagnetic s pectrum. For example, the mid infrare d spectra, which varies from 2500 
+nanometers to 25,000 nanometers.  
+So, these mid infrared spectra has encoded most information most of the information of soil 
+mineralogy or soil or ganic matter co mposition which can be accessed or  assessed qualitatively 
+and quantitatively using the absorption of reflectance at specific wavelengths.  
+So, mid  infrared spectroscopy is more capable of capturing the information of spectral features 
+which are appearing fro m the clay minerals as well as th e soil organic matter. So, may if we 
+use the mid infrared spectra fo llowed by different types of chromatic algorithm, we can, predict 
+the presence of clay as well as the clay minerals as well as the presence of soil organic matter.  
+(Refer Slide Time:
+ 22:51)   
+So, if you see the electromagnetic spectrum of course, when we go from the low frequency to 
+the higher frequency from right to left, we are increasing the frequencies and of course, from 
+higher frequency to lower frequency you can see different areas like gamma rays, X rays , UVs, 
+then visible , then infrared microwaves and radio waves. So, that the gamma rays , X rays and 
+infrared spectra, they are much more sensitive to the elemental composition or soil mineralogy. 
+So, generally using this information, the fundamentals of soil spectr oscopy has been laid out 
+and we wi ll see some of the applications.  
+(Refer Slide Time:  23:39)  
+ 
+So, we know that the infrared spectrum is sensitive to both organic and inorganic soil minerals 
+at the mid infrared spectra generally contains more direct information on soil organic and 
+mineral components, then the soil that the visible and near infrared range and various 
+components of the soil organic matter have very distinct spectral signatures in the mid infrared range as I have already told you. A nd the reason is that the fundamental molecular vibration 
+generally occur in the mid infrared range.  
+However, for we in the visible to near infrared range, we generally see the overtones and 
+combination bands. So, that is why the direct spectral features or  the most important spectral 
+features or the fundamental spectral features of soil components can be seen in the mid infrared 
+region. However, their overtones and combination bands can be seen in the visible to near 
+infrared region and the absor ption features detected in the VisNIR are basically very few, they 
+are fewer, broader and more complex than that  those which are recorded in their mid -infrared 
+regions.  
+So, we need to deve lop the chemo metric models to extract those information , we need to go 
+for the spectral preprocessing which I am going to talk about. So, spectral preprocessing 
+followed by the ch emometric algorithm is useful for predicting several soil properties because 
+in the visible near infrared range the spectral features are fewer, broader and more compl ex 
+than those recorded in the MI R.  
+(Refer Slide Time:  25:31)  
+ 
+So, what are the points which we should remember that infrared spectral bands are largely 
+nonspecific, they are not linearly related to a single soil property and overlap between the 
+properties. And this is particularly true for the visible in near infrared range , the spectra is 
+highly complex and we need several spectral preprocessing to increase the signal to noise ratio to resolve this complex pattern of the spectra . 
+And to extract the complex pattern and obtain the quantitative estimation of the soil property, 
+mathematical tra nsfer functions are used to correlate spectral wavelength to soil properties and 
+this transfer function is calibrated using the spectral wavelength as independent variables and 
+laboratory measured values of the soil properties as the dependent variable. So, once calibrated 
+on the spectra, the soil property can be predicted using the spectral information only. T here are 
+different types of spectral spectro transfer, we call them spectro transfer function.  
+So, this spectral transfer function or spectro  transf er function can be executed using different 
+types of chemometric algorithm like principal component regression, partial least squares 
+regression, random forest regression, support vector regression, we have already covered all of 
+these. So, these are known as the chemometric algorithm, why chemometric because, these will 
+be these are required to measure or predict the chemical component. So, that is why it is called 
+chemometric algorithm.  
+So, you should remember these important points before we go for disc ussing the new topic . 
+So, the infrared spectral bands are very much nonspecific, they are not linearly related to the 
+single soil properties. So, we need to have we need to extract this complex pattern using some 
+kind of mathematical transfe r functions we call them spectro trans fer or spectral transfer 
+function, which are generally executed by different types of chemometric algorithm.  
+So, once we take the spectrum, we first preprocess the spectra . After we do the preprocessing, 
+then we calibrate the spectra against the target so il property using different types of 
+chemometric algorithm. So, mostly applied the highest applied chemometric algorithm for 
+diffuse reflectance spectroscopy is the partial least squares regressio n which we have already 
+discussed.  
+(Refer Slide Time:  28:20)  
+ 
+So, you remember this slide this is so, as these gives you a snapshot of whatever we have 
+covered. So, soil spectroscopy you should remember this point that it is fast it is cost effective, 
+because it has almost 0 recurring cost, it is minimum or no sa mple pretreatments it is high 
+throughput and non- invasive and it is also portable. So, you can see you can literally carry the 
+spectroradiometer in your backpack and you can scan the soil on site by this handheld probe.  
+And then you can take the scan and you can send the scan to the PDA or the any computer and 
+then through Bluetooth and then you can do you can predict the soil properties using several 
+spectro  transfer function or a calibration algorithm which you have developed using the 
+chemometric algori thms.  
+So, what are the parameters you can measure?  You can measure organic carbon , you can 
+measure available nitrogen , phosphorus , potassium, some people has shown the application of 
+DRS for prediction of pH and clay and also moisture and heavy metals. H eavy metals cannot 
+be directly measured, but due to his co- variation with organic matter which can be also 
+measured , we wil l see some examples.  
+(Refer Slide Time:  29:51)  
+ 
+So, these are some of the important spectrometers which are available in the market. This is 
+ASD FieldSpec 4, High Resolution spectroradiometer , another one is from spectral evolution 
+which  is called the PSR 3500 spectroradiometer, these are widely used for  different spectro  
+soil spectroscopic research and crop spectroscopic based research and we are going to discuss 
+their specs our coming lectures.  
+(Refer Slide Time:  30:30)  
+ 
+ 
+ 
+So, guys, let us wrap up our lecture here , this lecture we cannot complete th e soil spectral 
+library. W e will start from here in our next lecture and I will show you how to build the soil 
+spectral library and then we will be dis cussing from here. So, so far, s o, in our next lecture we 
+are going to discuss how to build the soil spec tral library and also we are going to see the soil 
+spectra.  
+(Refer Slide Time:  30:57)  
+ 
+ 
+And these are the references which I have used so far and so, you can use it you can conceive 
+you can c onsult these references for more informations and so, let us wrap up our lecture here. 
+In the next lecture we wi ll be starting from the discussion of soil spectral library. Thank you.  

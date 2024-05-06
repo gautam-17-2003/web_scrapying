@@ -1,0 +1,337 @@
+Machine Learning  for Soil and Crop  Management  
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department  
+Indian Institute  of Technology, Kharagpur  
+Lecture 15  
+Principal  Component  Analysis  and Regressio n Applications  in Agriculture (Contd.)  
+Welcome  friends  to this NPTEL online  certifica tion course  of Machine  Learning for Soil and 
+Crop Management  and this is week  3 and we are at our lecture 15. So, this is the fifth and 
+final lecture of week 3. And in this week  we are talking  about  the Princi pal Component  
+Analysis  and Regression  Applications  in Agriculture .  
+So, in our previous  four lectures  of this week , we have discussed , what  is principal  
+component  analysis , what  are the, how principle component  analysis  can be utilized  for 
+dimensionality  reduction, how to calculate the principal  components  and then what are the 
+score plots , what  are the loading plots  and what  is biplot  PCA  biplot.  
+We have also seen, what  is p c screeplot  and from the pc screeplot , how we can calculate the 
+number  of importa nt princi ple components . And based  on the number  of princi ple 
+components , how we can go with the smaller , small, short , smaller  dimension, I would say, 
+for repre senting the  features  into pc base, space bas e.  
+And also we have  seen the principal  comp onent  regression , how to use the, what  is the 
+principal  component  regression , how we can use the pc’s for principal  component  regression , 
+we have  seen. We have also seen partial  least squares  regressi on, how it differs  from  ordinary  
+least square s regression  of multiple  linear  regression  and principle  component  regression , 
+how we can calculate the  latent factors  or latent variables  of PLSR,  we have  also seen .  
+And then we have  also seen the the application  of PLSR  for different  crop and soil properties . 
+In our last lecture , we have discussed  about  the classification  and regression  tree, which  is 
+one of the importan t machine- learning algorithm. We have  seen how to build a CART  
+algorithm  and then  what  is the recursive parti tioning, what  is prunning we  have  seen .  
+To fit the, to avoid the overfit ting, we have seen the different  types  of impurity  measures  like 
+entropy then Gini Index  and how we use them  for recursive  partitioning  in CART  we have  
+also discussed . And ultimately  we have seen some  examples  of crop and soil application  of 
+CART .  (Refer Slide Time: 03:06)  
+ 
+So, today in this lecture, we are going to discuss  two widely  used machine- learning  
+algorithms  in soil and crop based  research  and these are Random  Forest  and Support  Vector  
+Machine or  in other  words  Support  Vector  Regression .  
+So, today we are going to discus s in this lecture random  forest , what is random  forest , what  
+are the  features  of random  forest , how  it differs  from  decision  tree, what  are the  advantag es of 
+random  forest  and also we are going to discus s, what  is support  vector  machine or support  
+vector  regression . And then we are going to see some  examples  of soil and crop application  
+of both these algorithms .  
+(Refer Slide Time: 03:35)  
+ So, some  keywords  are there like Random  Forest , then ntree, then Mtry , then SVM,  
+Hyperplane  we are going  to discuss .  
+(Refer  Slide  Time: 03:44 ) 
+ 
+So, let us see what  is a Random  Forest.  Random  Forest  is basically  an ensemble learning  
+method for classification  and also regression  that operates  by constructing a multitude  of 
+decision  trees  at training  time, which  are later aggregated  to give one single  prediction for 
+each observation in  the data set .  
+So, what  happens  in this random  forest  algor ithm, we  generally  grow  multiple  trees , hundreds  
+and even  thousand number  of trees, just like we have  seen the discussion  on the trees , so, 
+these individual  trees  are being grown in the random  forest  algorithm . And then we either  
+take the majority  of the classified  classes  from  those  individual  trees , by voting as our final 
+predictio n, or in case of regression, what  we do, we take the average of the prediction from  
+the individual  trees .  
+So, you can see by using a multiple  weak  learners , we are getting  a strong learner . So, 
+random  forest  is a very very robust  and I would say it is a very widely  used method in the 
+machine- learning domain and in many  domain of science, this application  of random forest  
+has been  widely  accepted .  (Refer Slide Time: 05:19)  
+ 
+So, this random  forest , since we are also using this random  forest  algorithm  extensively in 
+soil and crop studies , we are going to discuss  this in detail . So, how this, the question  comes  
+to our mind , why we call it a random  forest ? Remember  that using the bootstrapping;  we are 
+doing the  random  sampling  from  the training  data set.  
+Suppose , we have  300 point s in the data set, so, we do the bootstra pping or bootstrap samples  
+from  the 300 data set. So, it is a random  sampling  of the training  data points  for building the 
+trees  and the number  of trees  which  varies  from  hundreds  to thousa nd, we define in r, by this 
+parameter  called  ntree, ntree stands for the  number  of trees .  
+So, for building this individual  tree, we take a bootstra p sample  from  the original  data set, 
+and this bootstrap sample,  as you know  it is a random  selection  with replacement . So, this is 
+one level  of randomness  in this whole  algorithm , sampling , random  sampling  of the training  
+data points . Now, once  we have  sample  randomly, then in the tree, we use the random  subset  
+of features , even  there are features .  
+For each sample  we have suppose , for all the samples  suppose , we have  100 features  or 200 
+features.  So, again  from  the feature space also, we are selecting  a random  subset  of features  
+for splitting  the node . So, this is basically  denoted  by this term in r called  mtry. So, generally  
+for classification  problem  it is a square  root of M and in case of, if M greater , capital  M is the 
+total number  of features , it will be  square  root.  Generally , in case of square  root of M in case of classification  problem  and in case of 
+regres sion problem , generally , we take M by 3 number  of features  randomly. So, you can see 
+here, we are, in two stages , we are sampling  randomly. For first of all we are randomly  
+sampling  from  the training  data points  for building the each of the tree and we are building  
+number  of trees .  
+And also we are, for building this individual  tree, we are selecting  random  subset  of features  
+for the, while we are splitting  the nodes . So, what  happens?  So, basically  we forms  lots of 
+decision  trees  with random  selection  of samples  and random  selection  of features . So, it 
+provides  the class  of dependent  variable based  on the many  trees  and in case of regression  
+trees , it is  a random  forest  regression .  
+It gives  us the prediction for these individual  trees  and then we take an average  for that. So, 
+you can see these trees  are random  trees , because  we are sampling  randomly bootstraps  
+samples  for building a tree and then the feature which  we are using to for splitting  the nodes , 
+are also random ly selected . So, that is why this tree which are being formed  are known as the 
+random  trees  and when  there are multiple  number  of random  trees , hundr ed to thousand  
+number  of random  trees , we call it random  forest .  
+Just like in a forest  you can see multiple  hundreds  and thousands  of trees , so similarly  here in 
+random  forest  algor ithm also, we are building these trees . And since  these  trees  are random  
+then thereby , therefore we are considering this as a random  forest. So, this is why we call this 
+algorithm  as random  forest  algorithm .  (Refer Sl ide Time: 09:09)  
+ 
+So, a simplified  representation  of the random  forest , you can see here, suppose , this is the 
+data set and from  this data set, we take the bootstrap  sample  and fit the number  of trees , here,  
+you can see this is tree 1, tree 2, tree 3 and up to tree n. So, n number  of trees  we can build. 
+And suppose  if it is a classification  problem , where  our target  variable is a categorical  
+variable, then you can see, our final class  is suppose  A and final class  is B from  tree 2 and for 
+example final  class for tree n is  class  B.  
+So, after we get the prediction  of the classes  from  these individual  trees , we take a majority  
+vote. And the majority  vote based  on this majority  voting, we select the final class . In case of 
+regression  tree, what  we do? We take the prediction for these individual trees  and then we 
+average it. So, that will be the final outcome  for an unknown sample . So, this is the 
+prediction. So, this  is how  this random  forest algorithm generally  grows . (Refer  Slide  Time: 10:14)  
+ 
+Now,  why random  forest  is widely  accepted ? Why it is more  robust  than the single  decision  
+tree?  There are three  reasons . First of all most  of the tree can provide . There are two 
+assum ptions,  major  assumptions;  first of all, we assume  that most  of the tree can provide  
+correct prediction of  class  for mo st part of the data.  
+This is the first assumption of random  forest , the second  assumptio n of random  forest  is, the 
+trees  are making mistakes  at different  places . First of all again , most  of the tree can provide  
+correct  prediction  of the class  for most  part of the data and the trees , if they are doing also 
+mista ke, they  are doing the  mistake  at different  places .  
+Since there, they are being built by taking the random  samples  and also using the random  
+features , so that is why the ultimate , even  this weak learner , ultimate , when  we are getting  the 
+values  from  all the indivi dual trees  then it becomes  much  more robust  and strong. So, strong 
+fundamental  concept  is there , when  a large number  of relatively  uncorrelated  models  or trees 
+operat es as a committee , it will outperform  any other  individual  consti tuent  models .  
+So, here we can see, here, large number  of uncorrelated  models  are operating  as a comm ittee 
+and then ultimately  it is outperforming all other  models  which are available . So, this is how 
+the random  forest  model  is widely  accepted  is more  robust  than other models  and it has also 
+very good prediction performance also.  (Refer  Slide  Time: 11:59 ) 
+ 
+So, what  is the summary  of random  forest ? The summary  of random  forest  is, it basically  
+combines  hundreds  and thousa nds of decision  trees . It trains  one on a slightly  different  set of 
+observation , because we are taking the bootstrap  samples  and then splitting  nodes  in each tree 
+considering a limited  number  of features  and then the final prediction of the random  forest  
+are made,  when  it is a regression  problem , the final prediction for the random  forest  are made 
+by averaging  the prediction  from  the each individual  tree. So, this is the summa ry of random  
+forest .  
+(Refer  Slide  Time: 12:34 ) 
+ Now,  what  is the difference  between  a decision  tree and the random  forest ? So, decision  tree 
+generally  formu lates a set of rules  to make  the predictions  using all the features . We have  
+seen that in our previous  lecture. How they are setting up the rules based  on the combi nation  
+of the feature and their values . Whereas  random  forest  randomly selects  observations  and 
+features  to build several  decision  trees  and then  averaging the  results .  
+So, of course , in case of single  decision  tree that suffers  from over fitting , however  the 
+random  forest  prevents  overfit ting by selecting  random  subset  of the features  and building 
+smaller  trees  using the subsets . So, this is the differe nce between  a decision tree and random  
+forest  and this is why  random  fores t is more robust  than  that of a decision  tree.  
+(Refer  Slide  Time: 13:32 ) 
+ 
+So, what  are the pros and cons of random  forest ? So, this random  forest  can be used for 
+classif ication , both, classification  and regression  problem  and also this random  forest  can 
+select  the relative  importance  of the features  or variables  or predicted  variables  in any 
+classification  or regression  problem . And then the hyperparameters  are easy to understand  
+and produce  the strong prediction performance.  
+And it also prevents  the overfittin g, as I have  discussed  in our previous  slide . However , there  
+is one drawback  in random  forest  that large number , when  you grow  the large  numbe r of 
+trees , that sometimes  slows  the model . So, this is one of the drawback  of random  forest  and 
+model . But, overa ll random  forest  is widely  used in as a machine- learning tool in soil and 
+crop domain of  agriculture .  (Refer  Slide  Time: 14:42 ) 
+ 
+So, let us see another  important , very important  machine- learning  algorithm  called  Support  
+Vector  Machine  or SVM . So, what  is SVM?  So, SVM  is an algorithm  which  construct  a set 
+of hyperplanes  in a high or indefinitely , indefinite  dimensional  place or infinite  dimensional  
+place, which  can be used as a classification  or regressio n. Again  just like random  forest,  just 
+like classif ication  regression  tree, we  can use this SVM  for both classif ication  and regression .  
+And when  we do the regression , we specifically  call it SVR  or Support  Vector  Regressio n. 
+So, what  happens  in this SVM?  So, this SVM  basicall y tries to create a hyperplane  in multi-
+dimensional  data set for classification  regression . And how this hyperplanes  are being  done ? 
+Hyperplanes  are being drawn  to maintain  the largest  distan ce from  the nearest  data points . So, 
+largest  distance from  the nearest  data points  of any class .  
+So, they are called the functional  margin . So, as again , the hyperplane  the, a good separation  
+in case of hyperplane  is achieved  that has the largest  distance  to the nearest  training  data 
+point of any class , I will show  you in our next slide . So, the larger the marg in, the lower  the 
+generalization  error of the classifier . So, this is how, this hyperplanes  are being drawn  in case 
+of support  vector  machine .  (Refer Slide Time: 16:29)  
+ 
+So, here you can see here, two features  are here x1 and x2 and these are the different  types  of 
+soil, different  for example two differen t types  of samples . So, we can build hyperplane  in 
+different  fashion. We can build a hyper plane , we can build  in hyperplane  here, we can also 
+build hyperplane  here .  
+However,  this one is being selected  because  that this hyperplane  is creating the or showing 
+the largest  distance from  this nearest  samples belong to a specific class . So, you can see here,  
+we are maintaining  the maximal margin  using this red hyperplane , however  for all other  
+possibilities  we are not getting  this maximal distance between  the samples  belong to two 
+different  classes .  
+So, the idea, the basic idea for sub SVM  is to draw  this kind of hyperplane , which  can divide  
+or which  can maintain  the maximum margin  between  the samp les belongs  to different  groups . 
+And these samples  which  are present  along the boundary of the margin  are known as the 
+support  vector , ok. So, this  is how  the name c omes the support  vector  name origina tes.  (Refer Slide Time: 18:07)  
+ 
+So, here you can see in this picture  this is the, this is again  the hyper plane  and this is the 
+maximum margin  linear  classifier , is the linear  classifier  which  shows  the maximum margin  
+and you can see these are the support  vectors . These are the support  vectors , these are the 
+data points  that the margin  pushes  up against .  
+So, here this is the simplest type of support  vector  machine  and we call it a Linear  SVM  or 
+LSVM.  Now, the objective  of support  vector  machine is to find a hyperplane  in an n 
+dimension space  that distinctly  classifie s the data points . And what  are the support  vectors ? I 
+have  already  discuss ed, support  vectors  are the data points  on either  side of the hyperplane  
+that are closest  to the hyperplane .  
+So, you can see here, this is the hyperplane  and the either  side of the hyperplane these are the 
+closest  point . So, that  is why they  are known as  the support  vector .  (Refer  Slide  Time: 19:10 ) 
+ 
+Now,  this is another  representation  of the support  vector  regression . Now, support  vector 
+regression  is a supervised learn ing algorithm  that is used to predic t the discrete values  and 
+these SVR  gene rally use the same principle  as like as SVM s.  
+(Refer Slide Time: 19:31)  
+  
+Now, the basic idea behind SVR  is to find the best fit line or hyperplane  that has the 
+maximum number  of points  and the larger  the margin  the lower  the general ization  error  of the 
+classifier . So, this  is in nutshell  about  the Support  Vector  Regression.  
+(Refer Slide Time: 19:52)  
+ 
+Now there  are certain  benefits  and disadvantag es of support  vector  regression . The benefits  
+are given here in blue text and the disadva ntages  are given  here in the red text. You can see 
+that the support  vector  regression  is robust  to outlier . It can help in easy implementation  of 
+the, it can be easily  implemented . This support  vector regression  algorithm  can be easily 
+implemented  and it generally  gives  us the higher  prediction  accuracy  also.  However , there are some  disadvantages  also. First of all it is not very much  suitabl e for a 
+very large  data set and if the data is very very noisy then also it does not perform  well and 
+finally  it under  performs  when  the number  of featur es are more  than the number  of training  
+samples . So, we have  to take care of this consideration while  trading with the support  vector  
+regression .  
+(Refer  Slide  Time: 20:49 ) 
+ 
+Now,  let us see some  example of random  forest  and support  vector  regression  based  
+applic ation  for soil and crop. Here in this research , you can see made by Rawal  et al in 2019.  
+They  have used the different , four differe nt models  like here you can see, it is a regression  
+tree model , multiple  linear regression  model , generalized  additiv e model  and random  forest  
+model  to measure the base saturation  percentage of the soil based  on the portabl e x-Ray 
+fluorescence spectrometer .  
+So, that shows  the application  and they used the random  forest . The random  forest  gives  the 
+best prediction accuracy . So, the random  forest  shows , visually  also, it can be seen that 
+random  forest  is giving the best accuracy . So, that shows  the application  of random  forest  for 
+soil base saturation  percentage measurement . Base saturation  percentage generally , gives  an 
+idea of  the important  nutrient  content  in the soil.  
+So, just like at a (())(21:55)  capacity . So, here we can see, using the elemental  data values  
+coming from  any proximal  sensor , if we can use the support  random  forest  regression , we can 
+predict  the best saturation  percentage of  the soil, non- invasively using this  method.  (Refer  Slide  Time: 22:17 ) 
+ 
+Another  application  from  Gorthi et al in 2021,  they have used image derived  indices  to 
+predict  the soil organic  matter , using multiple  machine learning algorithms  in two diffe rent 
+levels . And this type of construc tion is known as the Tree Based  Pipeline  Optimization  Tool  
+algorithm . So, TPOT  tool, algorithm  tool.  
+So, here you can see, there are two levels , in the level  0, in the level  0, there are random 
+forest  then radial  basis  functio n, support  vector  regression , the Linear  SVR , then also random  
+forest . And also there are two types of data, standard  scalar  and absolute  maximum scalar  and 
+using the feature space, you can see here, there  are two to three different  types  of model  here 
+in the level  0.   
+And the level  1 they have  tried both Ridge regression  and also AdaB oost regression . And 
+ultimately  they try to predict  the organic  matter . So, this shows  the application  of both 
+random forest  and support  vector  regression  for image based  prediction of soil properties . We 
+are going to discuss  this research  in detail s in our upcoming weeks , when  we will discuss  the 
+image  base, image  processing and  subsequent  machine  learning  algorithms .  
+But here, we can at least see that using  random  forest  and support  vector  regression  in 
+combination with  other machine learning algorithms; we  can predict  the soil organic  matter .  (Refer  Slide  Time: 24:04 ) 
+ 
+Another  example of the application  of suppor t vector  regression  you can see here that using  
+the diffuse  reflectance  spectroscopy,  Raj et al in 2018, they have  selected  the spectral  data, 
+they have  gathered  the spectral  data from  the soil and after gathering  the spectral  data, they 
+have utilized  some  indicators , they  call them variable  indicators .  
+So, using the variable  indicator  suite, they have selected  a number  of spectral  variables  
+instead  of taking the whole  number  of spectral  wavelengt hs from  three 350 to 2500  
+nanometer , they have selected  a certain  number  of variables  or wavelengths  from  the whole  
+feature space and then they have  utilized  that for developing the support  vector  regression  
+model  to predict  certain  soil properties .  
+So, this shows  the application  of PLSR  as well as the support  vector  regression  for soil 
+property measurement .  (Refer  Slide  Time: 25:15 ) 
+ 
+Also  we can see another  RF application , random forest  application  for soil sensor  fusion. We 
+are going to discuss  sensor  fusion in our coming weeks , but remember  that when  we fuse 
+multiple  sensors , sometime  we get better  accuracy  or synergistic  accuracy  than using those  
+sensors  individually.  
+So, here you can see, using the random  forest  algori thm, Wong et al in 2015, they have  
+predicted  the total Nitrogen content  by sensor  fusion techn ologies  and also they have 
+produced the total Carbon prediction also and they got acceptable accuracy  with an RPD  
+value , residual  predictio n variation , residual  prediction  variation  of 2.42 and here 3.39 and 
+anything which  is greater  than  2 is showing the  stable  model .  
+So, they have  produced  based  on these RPD  values  they have shown that using the RF and 
+using the sensor  fused  data, from  multiple  sensor, it is possible  to predi ct the total Nitrogen  
+and total C arbon content  in soil.  (Refer  Slide  Time: 26:37)  
+ 
+So, this is the construction of the sensor  fusion, another  research  being done  by Cardelli et al 
+in 2017, you can see here,  that here total Carbon  and total Nitrog en that were  the target  
+values . So, using the PSR,  Penalized Spine  Regression  or Partially  Squares  Regression  or 
+Elastic  Net Regression , they have  tried to model  this total Carbon and total Nitrogen using  
+the spectral  data and  they  have  predicted  the y.  
+And ultimately  the resid ual values  were further  modeled  by random  forest  using the portable 
+XRF  elemental  data and the outputs  were t he YRF . So, ultimately  the final  predicted  values  is 
+the combinat ion of the prediction from  both these two algorithms . So, this is how different  
+types of machine learning  algorithms  are utilized  for sensor  fusion for predicting  certain  soil 
+properties .  (Refer  Slide  Time: 27:42 ) 
+ 
+Let us see some  crop examples  also here,  you can see that people  have tried or have  tried to 
+use the random  forest  and support  vector  machine  regression  for predicting  the crop height  
+and maturity . This table shows  the crop height  and this table  shows  the prediction accuracy  
+values  while  for predict ing the crop maturity  using different  machine learning  and deep  
+learning alg orithms .  
+Here DL stands  for the deep  learning  method, random  foreign  support  vector  machine and 
+linear regression  both these cases . So, and also based  on different  types  of multispectral data, 
+they have  collect ed different  multispectral data and they have  extracted  those  bands  of 
+wavel engths  and they  calculated  some  spectral  vegetation indices  and then  WLVI  stands  for a 
+combination between  spectral  bands  and vegetative indexes .  
+So, they have  calculated  some  spectral  bands  and vege tative  indices  and then they try to 
+predict , incorporate  them  as predictor s, input  predictors  and they  try to predict the crop  height  
+as well as the crop maturity , based  on different  model s and they tried there,  and they 
+compared  their accuracy  prediction accuracy . So, you can see the random  forest  and support  
+vector  machines  are why  so widely  used  in crop  in and soil.  (Refer  Slide  Time: 29:13 ) 
+ 
+Another research  was there  where Ndlovu et al in 2021, they have used the UAV images  and 
+after getting  the UAV images  they have , these this is the UAV,  using  multiple  integrated  with 
+the imaging  platform , ok. So, there  are different  types  of camera they have  used and they 
+have  taken  the image  by flying the  UAV.  
+After  getting  those  images , they have  calculated  different  types  of industrie s like NDWI,  
+normalized  difference  vegetation  index, then NGRDI  that is Normalized  Difference  Green  
+Red Index, then NDRE , NDVI  rededge Clgreens , Clrededge  and so on so forth . So, and these 
+are their  formulas .  
+After calculating  those , they predicted  the maize water  indicators , there  are different  types  of 
+water  indicators  like EWT  leaf FMC  then SLA  leaf, by using different  types  of algor ithms  
+like PLSR  then artificial neural  network then decision  tree, random  forest  then support  vector  
+regression  and then  they tried then  compared  their  model  accuracies .  
+You can see from  here, the random  forest  regression  in terms  of R-square  is getting highest  
+higher  prediction accuracy  in case of EWT,  whereas  in case of FMC  again random  forest  is 
+giving the highes t predict ion accuracy  and in case of SLA  also we are seeing  the random  
+forest  is giving the highest  accuracy . So, you can see that why random  forest  is widely  
+accepted , it is  showing higher  prediction  accuracy  for multiple  soil properties .  (Refer  Slide  Time: 31:01 ) 
+ 
+So, these are the references  which  I have used guys . It is not possible  to cover  all the machine 
+learning  approaches , because there  are multitude  of machine learning approaches  for 
+regression  which  are being utilized  by the soil scientist and crop scientists for predicting  soil 
+and crop properties  like generalized  additive  model , like elastic  net, like partial , like 
+penali zed spline  regression , there are  multiple  types  of regressions , which  are there .  
+It is not possibl e, but I try to cover  all the major machin e learning algorithms  as far as the 
+predictions  as far as the regre ssions  are concerned , to discuss  like PLSR,  random  forest,  
+support  vector  regression , decision  trees , we have  discussed . If time permits , we will also 
+discuss  the others  in our subsequent  weeks .  
+So, I hope  that you have  now some  understanding of these different  machine learning  
+prediction algorithms  regression approaches  and also the principal  component  analy sis and 
+how people  are using this for different  soil and crop studies . So, let us wrap  up our lecture  
+here and in the next week  we will start discus sing about  different  clustering  algorithm . Thank  
+you very  much .  

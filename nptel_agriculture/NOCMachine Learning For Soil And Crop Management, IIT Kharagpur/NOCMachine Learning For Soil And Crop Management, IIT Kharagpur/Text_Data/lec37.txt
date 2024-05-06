@@ -1,0 +1,298 @@
+Machine Learning for Soil a nd Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 37  
+UAV and  ML Applications in Agriculture (Contd.)  
+(Refer Slide Time: 00:22 ) 
+ 
+Welcome , friends , to this  second lecture of w eek 8 of this NPTEL  online  certification course 
+of Machine Learning for Soil and Crop Management . And in this week we are talking about  
+UAV and ML applications in agriculture . So, in our first  lecture of this week , we have 
+discussed and how these machine learning and deep learning models can be used to predict or 
+to classify soil or  plant features . 
+We have discussed in details about the Convolutional Neural Network method, and they had 
+three different structures . And based on those structures , how much accuracy the researchers 
+have got  for classifying different weeds in the crop field, we have also discussed , showing 
+some good application of machine learning and deep learning for crop image based process . 
+The reason w e have discussed  this is because the same process are being used by the  UAVs 
+for making decision using the images . So, in the later part of this week we  will be seeing 
+similar type of applications . So, things will be not , things will be more clear to us  because we 
+have already learned  the basic work flow of this , how this image processing is combined with  
+the Convolutional Neural Network.  (Refer Slide Time: 0 2:03) 
+ 
+Now, in this lecture , we are going to focus on this  4 major aspects . We are going to talk a bout 
+the UAVs or Unmanned Aerial Vehicles , and then we are talking about some of the  UAV 
+parts , then we are going to discuss about the use of UAV for agricultural  operations , and 
+finally , we are going to list some of the agricultural benefits of using thes e drones or  UAVs . 
+Now, these drones are basically synonymously used for  UAVs in this whole  week . So, 
+whenever  I am using either  UAV or drone , they are basically same.  
+(Refer Slide Time: 02:40 ) 
+ These are some of the keywords which we are going to discuss . We are going to discuss this  
+UAV, then Payload , what is , and then S praying, Crop health, Multispectral sensors . So, these 
+type of  things we are going to discuss in this week. 
+(Refer Slide Time: 02:55 ) 
+ 
+So, the first question comes to our mind, what is an  UAV?  Now UAV is the short form of 
+Unmanned Aerial Vehicle, and of course , that is also known as a drone , which is basically an 
+aircraft without any human pilot , crew or passengers on board. So, there is another term 
+called UAS  or Unmanned Aircraft System . So, this UAS  is basically a combination of  UAV 
+plus ground based controller and a system of communications . 
+So, UAV is a component of U nmanned Aircraft  System , and UAVs are very , very important 
+nowadays  for different applications . And simultaneously, in agriculture also . Although, I am 
+going to discuss some of these applications in other field but we are going to focus  mostly on 
+the agriculture . (Refer Slide Time: 04: 00) 
+ 
+So, as you can see, the applications of the  UAVs is majorly , we can see in case of defense 
+operations , then taking the aerial photography,  then product deliveries , then agriculture , 
+policing and surveillance , and finally infrastructure inspection . So, also there are different 
+types of variable application where drones are being used nowa days, but we are going to 
+focus more on this agricultural aspect of  using this drone or  UAV.  
+(Refer Slide Time: 04:40 ) 
+ 
+Now, so, what are we go for the  UAV or drones in agriculture ? Because drone can help the 
+farmers by precision agriculture. Now, convent ional agriculture where farmers grow the 
+crops and then they apply the  different types of inputs for growing the crops like fertilizers , like pesticides , they are not very much efficient enough. So, their efficiency is diminished by  
+manual processes . 
+And so, to augment  their efficiency of agricultural operations it is very , very important that  
+farmers should  resort to these different precision agricultural practices . And drone is another 
+very important concept or  component of this precision agriculture . So, how? Because it can 
+reduce the human error also it can increase the efficiency . So, here, please read it as increase 
+the efficiency in  traditional farming  methods . 
+So, it can reduce the human error . So, whatever human error is there , it can be reduced . And 
+it can increase the efficiency in traditional farming methods , because it generally execute that 
+by gathering data to regulate this crop health, then crop  treatment irrigation , crop damage 
+assessment and soil analysis . We are going to discuss them in det ails. 
+So, in agriculture , you will see that most of these drone based applications are  focusing on 
+this crop health identification, then crop treatment , and then producing the irrigation or 
+spraying, and then crop damage assessment , and finally, the soil a nalysis . So, it is also very 
+much essential , because drone survey  can ensure minimum cost and time , but at the same 
+time it can boost the crop yield . 
+So, when you go for survey with a drone , that can ensure minimum cost , because you  can 
+cover a huge amount  of land within a short period of time . And when you when you finish an 
+operation within a short period of time , it can ensure the minimal cost and time , but at the 
+same time due to the judicious application , due to the  application based on empirical 
+obser vation, it is always  a fact that it can increase or boost the crop yield . 
+So, nowadays there is a term called  digital sky platform. So, this digital sky platform  
+becomes a buzz word where it consists of these drones , AIML  based algorithms and also the 
+remo te sensing . So, in this week , later in this week , we are going to see some drone based 
+remote sensing followed by some AIML  tools to  address these, one of these issues , like crop 
+health,  crop treatment , irrigation , crop damage assessment , and soil analysis . 
+So, so  far, most of the agricultural operation using drones or  UAVs are focusing on these type 
+of aspects using these remote  sensing based images as well as different types of  AIML  
+applications . Some drones are using the multispectral sensors , some drone s uses the  hyperspectral sensors , and most of the common drones are using this  RGB camera for getting 
+the high resolution color photographs . 
+(Refer Slide Time: 08:55 ) 
+ 
+Now, what are the major components of the drone ? So, in a broad sense , a drone can be  
+composed of three major part . One is the aerial platform, second is the ground control system , 
+and the third one is the communication system . So, the aerial platform basically composed of 
+airframe , the navigation system and the power system , and the payload. So, these are very, 
+very important terminologies , the airframe, the navigation system , the power system and the 
+payload.  
+And the  ground control station, or GCS  allows the human control from a remote  
+emplacement . And finally , the communication system . So, these three are the major three 
+component , in a broad sense , of a drone . (Refer Slide Time: 09:40 ) 
+ 
+So, if we see, what is a payload ? Payload  is the weight of the drone, the  weight a  drone or 
+unmanned aerial  vehicle  can carry . So, it is usually counted outside the weight of the drone  
+itself , and it can include anything additional to the drone , such as extra cameras , sensors or 
+packages for delivery . 
+In agricultural drones , which are specifically  focused on agricultural operation, most of the 
+times these  payload are synonymously used for  these image sensors , like RGB image , 
+thermal image , multispectral image , hyperspectral images , image sensors , so, apart from 
+other sensors also.  
+So, in case of agricultural operation , the payload is  majorly  encompassing these image 
+sensors because these images will be subsequently used for different types of soil and crop 
+applications . (Refer Slide Time: 10:42 ) 
+ 
+So, what are the different parts of a  drone ? As you can see,  here this is an example of a 
+agricultural drone Ph antom 4 RTK, which is being used for field mapping. And these drones 
+have different types of parts  like navigation system , it has global positioning system , or GPS,  
+it has different multiple sensors , they have  cameras , programmable cameras , as well as tool  
+for autonomous drones are also there.  
+So, this is a DJI,  this Phantom 4 RTK  is made by the company DJI, which has  also other 
+types of drones for different , different application . They have also sprayer  drones also for 
+agricultural spraying purpose . (Refe r Slide Time: 11:25 ) 
+ 
+So, if we see, the different types of sensors  which are there in a drone specifically for 
+agricultural purpose , you can see that it can consist of  this RGB camera, and also they have  
+these multispectral camera , and also they have the rmal camera, and they have also LIDAR  
+camera also . So, different types of sensors are there , and these multi , as you can see these 
+multispectral sensors , and also this RGB camera is attached to this  drone , and also you can 
+see there is a DLS  sensor which is a short form , DLS  is a strong short form of  downwelling 
+light sensor . 
+So, this downwelling light sensor is used for  different  optical  based characterization . So, this 
+DLS  sensor is b eing used along with this multi spectral camera, and RGB camera, in this 
+drone which is  being used for  taking the images of the  of the field . So, these are different 
+types of sensors and image sensors  are being used . (Refer Slide Time: 12:51 ) 
+ 
+There are two broadly there are two  types of drones one is called the fixed wing dr ones 
+another one is the rotary drone . So, fixed wing drones are having the fixed wings  and their 
+advantage is they can cover a large area of the field within a very short period of time 
+because of their fixed wing operations . Another type of drone is calle d the  rotary drone , and it 
+is the mostly , the majority of the agricultural drones are rotary drones . 
+So, this rotary  wing drones are having multiple rotors . As you can see here, they are having 
+this multiple rotors , 1, 2, 3, 4 here. So, they are having mul tiple rotors with rotating blades . 
+So, drones with 4 rotors are known as quadcopters , and when they are having 6 rotor they call 
+as the hex copters . So, these quadcopters and  hexcopters are made,  are mostly prevalent or 
+mostly dominated in the  agricultural drone enterprise . 
+So, this rotary wing drones allow for  vertical takeoff . So, they can take off vertically , and 
+they can hover  at a particular place, and they can be also useful for  closer crop inspection.  
+They are easier to control manually than fixed wing drones , and generally , these rotary  
+wing ed drones are less expensive than the fixed swing drones . 
+So, there are new types of drones and they are  called hybrid drones . So, the hybrid drones,  
+you can see , these both rotary  drones and rotary features and fi xed wing features are there . 
+So, those are known as the hybrid drones. But in general , most of these drones are basically 
+either fixed wing or rotary wing drones . (Refer Slide Time: 14:38 ) 
+ 
+So, what are the steps of data collection by a drone for agricul ture. So, the first step is of 
+course you have to analyze the area on which you want to execute this drone operation. So, 
+you have to identify first the area of operation, or the  of the field , in case of agricultural 
+operation you have to identify the fiel d. And then you have to establish a  boundary where 
+you want to operate these drones . And then you have to analyze the area of this , within this 
+boundary.  
+Once you analyze this area, you have to upload the GPS  points into the drone ’s navigation 
+system . And, so, these are the first step , that is  analyzing the area. In the second step, you 
+have to use the autonomous drones which you can use the , you can enter the  flight patterns 
+into their system, and they will fly to cover this established boundary or this  area, which you 
+have already  analyzed , and you have already uploaded the GPS  coordinates of that area into 
+the drone ’s navigation system . (Refer Slide Time: 15:53 ) 
+ 
+Now, once you upload the data , it can capture via, this  uploading the data , it can be execu ted, 
+either via  capturing the data via different sensors , and then subsequently, those images will be 
+processed by softwares for analysis and interpretation. Finally , there will be different types of  
+outputs , like formatting for easy understanding of the f armers . These outputs can be  prepared 
+in different formats . 
+Either, you can produce the 3- D mappings or photogrammetry or you can also output the 
+vegetation index based mapping. There are different  types of vegetation index like 
+Normalized Difference Vegetation Index and Normalized Difference Red Edge, or NDRE.  
+So, this NDVI  can be calculated  by using this formula , that is , NIR minus Red by NIR  plus 
+Red. 
+So, the NIR and this R ed stands for the  reflectance of the near Infrared  and the R ed spectral 
+bands . So, using this  near infrared reflectance from this near infrared and R ed spectral bands,  
+you can predict the crop health status , because  this NDVI  generally is most effective  for 
+portraying the variation of the chlorophyll content , and canopy density during t he early to 
+mid growth stages of  the crop . 
+So, this NDVI  is widely used by these drones for producing different types of  maps for 
+identifying the crop health status . And another one is known as NDRE.  So, NDRE  is 
+basically Normalized Difference Red Edge. So, this NDRE  formula stands for NIR  minus Red Edge  by NIR plus Red Edge. So, Red Edge is a band which situated,  which  is generally 
+situated between R ed band as well as the NIR band. 
+Because, when for healthy crop, the reflectance  values generally increase d rastically from 
+Red to NIR,  and this NIR,  and this R ed edge  band which is  situated just in between of these 
+Red and NIR  can show a drastic increase of the reflectance. So, these in Red Edge band is 
+also used for identification of the crop health status . So, we are going to discuss this NIR  and 
+this NDRE and NDVI  based maps in our upcoming lectures . 
+But at this point of time , you should understand these are the different  types of vegetation 
+index which shows the crop health status . 
+(Refer Slide Time: 19:13 ) 
+ 
+Now, what are the importance, what are the other application of NIR  drone ? So, for 
+agriculture as you can see here we can use this drone for irrigation monitoring using either 
+hyperspectral or multispectral or thermal sensor data, we can identify the areas that are too 
+dry or needed improvement by the farmers , and using this drone survey, it is possible to 
+improve the water use  efficiency , and you can already , using this drone you can identify or 
+recognize  the leaks  or pooling of in irrigation . 
+And also you can calculate this  vegetation index to identify the healthy crops . Vegetation 
+index like NDVI, NDRE,  just like  I have discussed in our previous slide . (Refer Slide Time:  20:03 ) 
+ 
+Also these drone can be used for crop health monitoring, because using this drone survey you 
+can identify the patches  which are showing the bacterial or fungal attack of the crops , you can 
+also get the variable reflection of the green light and NIRS,  and then you can, and also using 
+that multispectral images , can track the crop  health by using the reflection of the green and 
+NIRS.  
+You can  monitor any problem of the crop if you either , if you expecting there is some 
+problem , you can monitor that problem very quickly and then you can save the crop. So, that 
+is another advantage of  using this drone  for crop health monitoring. And finally, if there is a 
+crop failure , you can take the image as a document for claiming the  insurance . So, these are 
+some of the application for crop health monitoring using drones . (Refer Slide Time: 21:08 ) 
+ 
+Of course , you can use , another application is crop damage assessment . So, as you can see,  
+this image , in this image , the drone camera is capturing the reflectance from this different 
+zones of this field, and by analyzing the reflectance values , it is now possible to identify the 
+crop damage. So, as you can see here, it can detect the  weeds by either multispectral or  RGB 
+sensors . It can identify the pests and infections , and farmers can quantify the exact amounts 
+of chemical needed based  on this type of  maps . 
+(Refer Slide Time: 21:54 ) 
+ 
+Another application for this drone is  soil analysis , field soil analysis . So, you can get a huge 
+amount of land soil information regarding the land soil conditions using the drone survey . Generally , multispectral sensors  can gather the data which is useful for planting patterns  
+throughout the soil  analysis and  then irrigation and nitrogen level management and then you 
+can also use the photogrammetry and 3D  mapping for the farmers to analyze their soil 
+condition thoroughly. So, field soil analysis is another  important application for  drone . 
+(Refer Slide Time: 22:46 ) 
+ 
+Planting is another very important application. So, nowadays , there are different type , 
+multiple drone  startups in I ndia. They are investing in developing the agricultural drones 
+which  are focusing on agri, specific agriculture operations like  spraying and the crop health 
+monitoring. So, these drone startups in India have invented drone planting system that allows 
+drone  to shoot  pods , their seeds and th ese impor tant nutrients into  the soil , which can reduce 
+the cost by almost 85 percent , but also increases consistency  and efficiency . 
+So, it is quite obvious that in near future , with the advancement  of these technologies , it will 
+be possible to automate these agri cultural practices , conventional agricultural practices using 
+drone . (Refer Slide Time: 23:43 ) 
+ 
+Drone, another  widespread application of this drone for spraying the pesticides . So, this 
+spraying the pesticides can reduce the human exposure or human conta ct for , with these 
+harmful chemicals . And they can cover a large area relatively quickly and they can uniformly 
+spray the liquid by flying the  drone over the crop . So, this agricultural drone , spraying drone 
+has become a very important  component of the agr icultural drone market . 
+And not only the spraying, but also using the drone , you can monitor the movement of the 
+cattle , you can use the thermal sensor technology to find the lost  animals and detect an injury 
+or sickness . So, there are different types of s ensors you can use to identify the lost animals 
+and they can , their injury or sickness can be  also identified using these drone base d sensors.  (Refer Slide Time: 24:50 ) 
+ 
+So, here, you can see the spraying drone  are in operation and they can spray the droplets 
+uniformly throughout the field within a very short period of time by flying in close contact to  
+this crop. And in this operation, it is quite important that while doing the spraying , the human 
+contact to these harmful chemicals are being reduced . So, that is a  both way benefit , not only  
+uniform and cost effective and rapid spraying, but also from the health as a point of view also 
+this type of spraying drones are  making a paradigm shift in I ndian agriculture . 
+(Refer Slide Time: 25:41 ) 
+ 
+So, what are t he benefits of drone use in agriculture , if we can list out some of  the points . So, 
+first of all it can ensure the enhanced production by comprehensive irrigation planning and  monitoring of crop health and soil health. Sorry, guys , so, please consider i t as soil health . 
+And then, effective and adaptive techniques based on weather  conditions and allocate 
+resource with out wastage . 
+The third one is  greater safety for the farmers because when you are using the spraying drone 
+for spraying the pesticides , in challenging terrains , infected areas , taller crops and power line s 
+are there in some of the fields . So, they are  the human contact is being reduced by using the 
+spraying drone and that produce d the greater safety for the farmers . 
+(Refer Slide Time: 26:38 ) 
+ 
+And also it ensures the quick operation, that means quick and mindful decisions can be taken 
+without second guessing , and various sensors of the drone generally enable capturing and 
+analyzing their data from the entire field . Less wastage of resources , of co urse, these 
+agricultural drones enables optimum uses of all the resources such as fertilizer waste of  
+water , seeds and pesticides . 
+And you can get that  quick operation, by quick operation I mean that it can enhance the speed 
+of operation 10 times more than  the conventional operation. And simultaneously, it produces 
+99 percent accuracy rate.  So, this drone survey helps farmers calculate the precise land size 
+segment the various  crops and indulge  in soil mapping. (Refer Slide Time: 27:28 ) 
+ 
+Also from the poi nt of view of insurance also this is very important , because farmers can 
+easily capture the image of the damaged crop . If there is a failure by using the drone in a 
+relatively easily , and they can claim  the insurance benefits by producing those pictures . So, 
+and also these drones captured images of the agricultural fields can be an evidence for the  
+insurance companies also . 
+So, the agricultural insurance sectors can use agricultural drones for efficient and trustworthy 
+data. So, they capture the photos of c rop damages that have  occurred for the right estimation 
+of monetary payback to the farmers . So, you can see that there are different types of 
+application and different types of benefits of  applying the drones in agriculture sector . 
+Recently , couple of year s ago , there was a  locust swarm . So, locust , they are the insects 
+which can feed on the crops . And when they, the swarm of locusts can invade the crop field,  
+they damage the crop field entirely. So, to control the locust , different states of India has 
+produced several , they have developed certain methodologies to control them using the 
+organophosphorous chemicals . To spray these  organophosphorous chemicals also they use 
+these agricultural drones , spraying drones. So, that shows that  the multi- directional  uses of  
+agricultural drones for the overall benefit of agricultural enterprise . (Refer Slide Time: 29:27 ) 
+ 
+So, these are the references , guys . I hope that you have learnt something new . This is an 
+overview class of  UAVs . And in the  next lecture onwards , we will be discussing more and 
+more application of how these images are generally  taken , and what are the steps of further 
+image processing and then combine  it with the machine learning and deep learning 
+algorithms to get the desired outputs from those image s. 
+So, thank you. Let us meet in our next lecture to discuss more about  UAV based agricultural 
+operation in combination with machine learning and deep learning algorithms . Thank you, 
+guys . 
+ 

@@ -1,0 +1,314 @@
+Machine  Learning  for Soil and Crop  Management  
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department  
+Indian Institute  of Technology Kharagpur  
+Lecture – 57  
+Digital  Soil Mapping  with  Categorical  Variables  (Contd.) 
+Welcome  friends  to this second  lecture of last week  that is week  12 of NNPTEL  online  
+certification  course  of machine learning  for soil and crop management.  And in this week  we 
+are trying to discuss  the digital soil mapping with categorical  variables.  In our first lecture,  
+we have already  discussed  the hybrid approach of  regression  Kriging.  
+And in this lecture,  we are going to see how to calculate several  how to see different  types  of 
+accuracy  measures  from  a confusion matrix  and we are going to first develop a confusion  
+matrix  and then based  on that confusion matrix  we are going to calculate  several  model  
+accuracy  parameters.   
+(Refer  Slide  Time: 1:13)   
+ 
+And so, these  are the concepts  which  we are going to discuss  first of all we are going to 
+discuss  the categorical  modeling in DSM  and then we are going to discuss the Kappa  
+coefficient  and other  accuracy  measures  and then we are going to discuss the multinomial  
+logistic  model.  (Refer  Slide  Time: 1:29)   
+ 
+So, these are the keywords  categorical  model , then Kappa  coefficient , user accuracy , 
+producer’s  accuracy  and Terron.  These are  some  of the keywords  for this  lecture.   
+(Refer  Slide  Time: 1:42)   
+ 
+And also some  important  quality  measures  we are going to see in this lecture on the overall  
+accuracy , user’s  accuracy , producer’s  accur acy, Kappa  coefficient  of agreement  okay  guys.  (Refer  Slide  Time: 2:05)   
+ 
+ 
+  
+So, let me just go ahead  and discuss  we are going to discuss  this categorical  model. But 
+before  going to discuss  the categorical  model, let us again  call this library  ithir.  Let us call 
+this library  ithir  and then  for this  lecture I am going to  develop in  a contrived example. W here 
+we are going to develop  a confusion matrix  using some  values  with for number  of rows  4 and 
+number  and 4 number  of columns.  
+And we are going to give some  names  of those  columns  and some  and also we are going to 
+see how these coefficient  matrix  looks  like. So, for this contrived example,  we are going to 
+use this matrix  function  to develop this confusion matrix  once  we have  developed this 
+confusion matrix, let us assume  that we are giving the name that these  four are the different  
+names  for different  classes  and of course,  the column name is  also same.   
+So, let us see that this confusion matrix  you can see here,  this is the confusion matrix  of 
+course,  in this confusion matrix,  these diagonal  elements  like in case of DE. So, here you can 
+see 5, 15, 31, 11 so, all these 5, 15, 31, 11 are the so, the diagonal  components  of this 
+confusion matrix,  it is showing the  correctly  classified  samples.   
+So, here along these columns  these are the observed classes  and these  are the predicted  
+classes  in the row, in the row we can see the predicted  classes  in the columns  we can see the 
+observed classes.  So, if we see that what  is the total accuracy  of classification  accuracy.  So, 
+for getting  the total classification  accuracy,  we are going to use the, for calculating  the total 
+classification  accuracy  it is important  to calculate  the sums of all the columns. So, for that or 
+in other  words  total observation in  each  class.  (Refer  Slide  Time: 4:38)   
+ 
+ 
+So, we can use these col sums  function from  this confusion matrix  and let us see that for DE 
+it is 8. So, these are the number  of samples  within  each class  these are observed values . Now, 
+also at the same time we can also use these row sums  function to get the total prediction in 
+each of these classes.   
+So, you can see the total prediction in DE is 5, for VE is 26, for CH is 34, for KU it is 18. 
+Now,  as I have  said previously that the numbers  on the diagonal  of the matrix  will indicate 
+the fidelity  between  the observed  and the subsequent  prediction and numbers  on the off 
+diagonals  are shown  as the misclassification.   
+So, of course,  you can see in this contract  examples  or in this confusion matrix,  you can see 
+here this 5 shows  the fidelity  between  the DE and DE, 15 shows the fidelity  between  VE and VE. So, observed and predicted  class  31 shows  the, fidelity  between  observed CH and the 
+predicted  CH and 11 shows  the fidelity  between  observed  KU and predicted  KU.  
+And all other  value s like 1, 2 these are the off diagonal  points  and shows  the misclassification  
+within  this D E class  these  5 is the misclassification  within  the VE, this is a misclassification  
+within  the 1 is the misc lassification  within  the CH and these 12 will be the misclassified  
+samples  within  the clear  KU class.   
+(Refer  Slide  Time: 6:54)   
+ 
+Now,  to calculate  the overall  accuracy,  we are going to use this formula  that is total correct  
+by total number  of observations. So, total correct  the sum of the diagonals  and total number  
+of observation you can  take  the sum  of the columns  sums .  
+So, if  we go and use this for this  we are going to  use this ceiling  function. So, ceiling  function  
+some  of the diagonal  of confusion matrix  by some  of the column sense  of the confusion 
+matrix  multip ly by 100. So, you can see that this shows  the overall  accuracy  that is 75 
+percent .  
+ (Refer  Slide  Time: 7:36)   
+ 
+Now,  if we are concerned  about  the accuracy  of the individual  class,  then we have  to 
+calculate these accuracy  of the individual  class  in two ways.  One is using user’s accuracy  and 
+other  is producer ’s accuracy .  
+Now,  if you go back  to our PPT  and see what  are the  user ’s accuracy  and producer’s  accuracy  
+you have  to recall  that accuracy  of individual  classes  can be computed in a similar  manner as 
+that of overall  accuracy.  However,  there is a choice  of dividing the number  of correct  
+predictions  for each  class  by either  the total observation or  the predictions.  
+So, you can either  take the division between  the number  of correct  prediction by the number  
+of total prediction within  that class  or number  of observation within  that class  in the 
+corresponding columns  or rows  respectively.   
+Now,  so, if we again  we can take, we can calculate that, by for individual  class  we can divide  
+the number  of correct prediction by the number  of observation or by the number  of prediction 
+in the corresponding columns  and rows  respectively.  And traditionally,  the total number  of 
+correct  prediction of a class  is divided by the total number  of observation in the class  that is 
+the column sum  it is a traditional way.  (Refer  Slide  Time: 8:46)   
+ 
+Now,  these  accuracy  measures  when  we calculate the number  of samples  divided by the 
+column sum, then these accuracy  measure indicate  the probability  of an observation being  
+correct ly classified  and is really  a measure of omission  errors  or it is also known as the 
+producer ’s accuracy.   
+This is because the producer  of the model  is interested  in how well a certain  class  can be 
+predicted.  So, this  is called  the producer’s  accuracy  and also calculate the  omission  error.   
+(Refer  Slide  Time: 9:21)   
+ 
+Now,  I told you there  is another  way of calculating  the accuracy  of the individual  class  by 
+dividing the number  of correct  prediction by the samples  within  the individual, individual  
+row so, if the total number  of correct  predictions  of the class  is divided by the  total number  of prediction that were  predicted  in that category, then this result  is also known as the user’s 
+accuracy  and it basically  measures  the commission  error.  
+Now,  this measur e is indicative  of the probability  that a prediction on the map actually  
+represents  that particular  category  on the ground in the field or in the field.  So, these are the 
+two types  of accuracy  measures  for individual  classes.  One is called  the user’s accur acy 
+producer ’s accuracy  another  is called  the user ’s accuracy .  
+Again, producer ’s accuracy  measures  the omission error whereas  the user’s accuracy  
+measures  the commission  error so, these are the differences  for producer  accuracy , we have 
+to divide  the number  of correctly  classified  samples  with the individual  column sum, but in 
+case of the user’s accuracy,  we have  to divide  the number  of correctly  classified  sample  by 
+the correct  by the row sum.  So, this is the difference  between  producer’s  accuracy  and user’s 
+accuracy.  
+(Refer  Slide  Time: 10:48 )  
+ 
+Now,  also, the Kappa coefficient  is another  the Kappa  coefficient  is another  statistical  
+measures  or the, of the fidelity  between  the observation and prediction of a classification.  
+And the calculation  is based  on the difference  between  how much  agreement  is actually  
+present  that is observed  agreement  compared  to how much  agreement  would be expected  to 
+be present  by chance alone that  is expected  agreement.   
+So, observed agreement  by expected  agreement  gives  you the Kappa  coefficient.  So, observe  
+agreement  is simply  remember  that in this Kappa  coefficient  calcul ation  this observed 
+agreement  is showing basically  the overall  accuracy  percentage.   (Refer  Slide  Time: 11:27 ) 
+ 
+So, we may also want  to know  how different  these observed agreement  is from  the expected  
+agreement.  So, this Kappa coefficient  is a measure of this difference  and standardized  to a 
+scale of minus  1 to plus 1. So, Kappa  coefficient  can take any value  from  minus  1 to plus 1 
+whereas  these plus 1 is show ing the perfect  agreement  0 is exactly  what  would be expected  
+by chance and negative agreement  that is negative  values  indicate  agreement  less than the 
+chance.   
+So, that is potential systematic  disagreement  between  the observation and then prediction. So, 
+the Kappa  coefficient  can be calculated  by using this formula  where this k equal  to p 0 minus  
+pe and 1 minus  pe.  
+So, p 0 is the overall  or observed  accuracy,  we know  that we have already  calculated  that and 
+p is the expected  accuracy  where  this pe can be calculated  by using this formula  that is T O 
+stands  for Total  number  of observation, n is the number  of classes  and this is the individual  
+column sum and individual  rows  sum from  1 to n. So, this is how you calculate this Kappa  
+coefficient.  (Refer  Slide  Time: 12:43 )  
+ 
+And of course,  this Kappa  coefficient  can be classified  based  on its value,  when  it is less than 
+0 of course  this shows  the less than chance  agreement  then 0.01 to 0.20 that shows  the slight  
+agreement.  It is 0.21 to 0.40 fair agreement , 0.41 to 0.60 moderate agreement  and then 0.61 
+to 0.80 substant ial agreement  and 0.80 to 0.99 almost  perfect  agreement.  So, this is how you 
+classify  the values  of the Kappa  coefficient . 
+(Refer  Slide  Time : 13:25 )  
+ 
+Now, let us go back  to our R and see how we can calculate these different  components. So, if 
+we want  to see the column sum, so, this is the, we want  to see the producer’s  accuracy . So, 
+you can  see that confusion matrix  we are going  to sum the diagonal  elements  of the confusion  
+matrix  by the, and we divide it by the column sums multiplied  by 100. Of course,  this will give you the producers  accuracy,  and then if you are going to get the user's  accuracy,  it will 
+be simply  dividing by the  sum  of the rows  individual  rows.   
+Now,  if we want  to get the Kappa  coefficient  remember  in R instead  of using simple  goof 
+function, we are going to use this goofcat function, goofcat  function is goodness  of fit of 
+categor ical model.  So, using this goofcat  function here you can get the results.  So, we are 
+going to  use this goof cat function and  let us see how  this Kappa  coefficient  can be calculated.   
+(Refer  Slide  Time : 14:42 )  
+ 
+  
+So, we have  already  know  how to about  this confusion matrix.  Now,  we are going to show  
+you how  to calculate this  goofcat  based  on this  confusion matrix.  So, here  we are going to  use 
+this confusion matrix  argument  and here we are giving this con dot mat is our confusion 
+matrix.   
+Let us see just if we run this thing then you will see that how this confusion matrix  will give 
+you the results.  So, this is the confusion metric  overall  accuracy  we already  know  and then 
+producer’s  accuracy  for individual  classes  you can see for 63 percent  for DE, 75 percent  for 
+VE, 97 percent  for CH , and 48 percent  for KU.  
+And case of user’s accuracy  100 percent  for DE, then 58 percent  for VE, then 92 percent  for 
+CH, and  then  62 percent  for KU.  So, and also finally,  the Kappa coefficient  is 0.63. So, this  is 
+how, for any confusion matrix  using the goofcat function in R you can calculate not only the 
+user accuracy  producer’ s accuracy , you can also calculate the Kappa  coefficient  and based  on 
+the value  of the Kappa  coefficient,  you can conclude  wheth er that is accurate.  How much  
+agreement  between  the observed  category  and the expected  category  you are getting.  (Refer  Slide  Time: 16:20 )  
+ 
+Now,  guys, let us move  ahead  and let us discuss  one actual  categorical  model  in our multi in 
+which  we use in digital  soil mapping that is multinomial logistic  regression. Now,  
+multinomial logistic  regression  generally  we use it for modeling the nominal  outcome. So, it 
+is a kind of  a logistic  regression .  
+And we generally  use it for modeling that nominal  outcome  variable that is categorical  
+variables  in which  the log of odds  of the outcomes  are modeled  as a linear  combination of the 
+predictor  variables.  Now,  the logistic  regression  we have  already  discussed  the logistic  
+regression.  
+Now,  in case of logistic  regression  instead  of the linear  probability model  we generally  use 
+the logistic  regression  model  to keep  our probability  between  these 0 to  1 threshold levels  and 
+then we fit the linear  regression  based  on the log of odds  or so, this is the logistic  model.  
+Now,  since  dealing with the categorical  variables  it is necessary  that logistic  regression  takes  
+the natural  logarithm  of the core, of the odds  that is log of odds  to create a continuous  
+criterion .  
+And this logit of success  is then fit to the predictors  using the regression  analysis,  we already  
+have  covered  this thing in our regression  discussion  and in our classification  discussion 
+previ ously in  week  4. So,  we already  know  that this is the logistic  regression.  (Refer  Slide  Time: 18:11 )  
+ 
+ 
+  
+ 
+ Now,  we are going to see how we can execute this multinomial logistic  regression  using in 
+DSM  using R. So, you can see guys  we are going  to use this multinomial logistic  regression, 
+let us see how to go with this and so, we are going to use this ithir package and then let us 
+call this library  ithir . And  then  let us call this library  raster.   
+And we are going to install these rasterVis  package for visualization  for raster  visualization.  
+So, we are going to call this library  raster Vis and then hvTerronDat . So, this is the data which  
+we are going to use so, this hvTerronDat  if you click  on it, you will see there  are 1000s  
+observation with  the three fields  x, y and  Terron .  
+So, Terron is basically  the class  of soil based  on certain  characteristics.  And there are 12 
+Terron  classes  from  1 to 12 and  they  are named  accordingly. So, our  idea our , the objective  of 
+this exercise is to use this multinomial logistic  regression  to predict  the multinomial logistic  
+regression  to predict  these Terron  classes  using the  covariance data.   
+Now,  what  are these covariance data, the covariance data is hunterC ovariates  for the same  
+location. So, we are going to download these hunterCovariates , hunter Covariates  is of course,  
+you can say it is a large raster  stack  object  and then let us see the names  of the hvTerronDat.  
+Of course,  there are three  names  x y and  Terron  you know  that.  
+Now right  now  this Terron  is in a tabular  format,  so we need  to convert  it to the special  points  
+dataframe you know  that. So, for that we are going to use the coordinate  function. So, we are 
+instructing  R that please understand that  these x and y are the  2 coordinates .  
+Now, you can see it will be changed  to hvTerronDat  has changed  to former class  of special  
+points  data frame.  Now,  as they as these  data are of the same special  projection of the 
+hunterC ovariates  we do not know  we do not need  any kind of coordinate  transformation. So, 
+we can do dire ct intersection  we know  how  to intercept  the data.   
+So, for that we are going to extract  function and then we are going  to see we once  we have 
+extracted  that now, we converted  them  back  to simple  data frame  because we need  to run 
+some  models  and models  can be only run in simple  data frame.  So, now, you can see DSM  
+data similarly  1000 observation of  8 variables . What  are these 8 variables?  
+So, you can see x y Terron  and then 1, 2, 3, 4, 5 different  covariates  altitude  of channel  
+network, drainage index, light installation , Terron  witness  index, and  gamma total count  these  
+are the 5 covariates  which  are there in the hunter  covariates  file. So, we have  extracted  them  
+for these locations.  Now,  when  data see the structure,  so, the structure  just like we have seen 1000 observation 8 
+variables  and you can see here altitude  of channel  network, then drainage  index, light 
+installation,  Twi, gamma  total count  and so on so forth.  So, now, we want  to keep  only the 
+complete  cases  and we want  to just keep  that for further modeling  exercise for this 
+multinomial logistic  regression  we are going to  use this library  nnet .  
+So, this nnet we are going to use. So, these nnet is there in the carrot  package which  we have  
+already  installed  previously. So, I am going to call this library nnet, then we are going to set 
+the seat 655 and then we are going to again  just like previously we are going to select  the 70 
+percent  of the data as the training  data set.   
+(Refer  Slide  Time: 22:16 )  
+ 
+  
+ 
+ Now,  we are going  to fit the multinomial logistic  regression  using our target  is Terron  and 
+our predictors  are AACN and all these 5 covariates  and then we are going to use this our 
+covariates  as predict ors. So, you can see using the summary  function, you can allows  us to 
+see the  linear  models  on the  each  of these Terron  class  which  are the results  of the log odds  of 
+the each soil class  model  as a linear  combination of the covariates  and log odds  of each class  
+model  as a linear  combination of  the covariates.   
+So, if you click  on the summary  status  of you can see here for there are 12 models  and for 
+these 12 models  you can see for each of these model,  they have  been  predicted  using a linear  
+regression, their coefficients  and standard  errors and all these things  are there. So, once  we 
+know  this so, log of odds  for individual  classes  can be represented  as a linear  regression, and 
+we have  seen  these values  of the coefficients.   
+Now,  once  we have  developed this model  multinomial logistic  regression  Now,  let us 
+consider  let us calculate  the probabilities  class probabilities.  So, we are going to get these  
+class  probabilities  and then once  we calculate this class  probabilities  that is the probability of 
+the class  then  let us see the  first 6 or 8 on that  top of data frame a  poor  probability.  
+So, you can see top of the data frame of the probabilities  for 6 first for the 12 classes,  you can 
+see here the results  and from  there you can get the most  probable  Terron  class  also. So, for 
+getting  the most  probable  Terron  class  we are going to run this thing  and then we are going to 
+see the  summary  of the most  probable  Terron  class.   
+So, the Terron  class  1 appears  21 times , Terron  class  2 appears  7 times  and so on so forth.  
+Now,  once  we have done  that let us see the internal  validation  internal  validation  means  
+calibrati on again  we are going to use this goofcat  function using this goofcat function our 
+observed and  predicted  values  we just fit it.  
+Now, you can see these goofcat function will show  this is the confusion matrix  and this is the 
+overall  accuracy , producer’s  accuracy  and user’s accuracy . So, you can get the values  for 
+each of these variables  each of these classes  each of these Terron  classes  using this goofcat  
+function.  (Refer  Slide  Time: 25:20 )  
+ 
+ 
+  
+ 
+  
+Now,  let us go for the external  validation . Simila rly, using the validation  data minus  training  
+dataset,  you are going to get these results.  So, here you can see that some  of the classes  are 
+showing the 0 accuracy.  So, that means,  our model  was not accurate to accurately  predicted  
+the probabilities  for th ese classes  specifically  for Terron  class  2 Terron  class  9.  
+So, this is the inference  from  that Kappa  coefficient  is 0.34 and then let us see the class  we 
+can plot we can map the probabilities  as well as most  probable  class.  So, we can plot it the 
+most  probable  class  or we can map  it. So, for my  class  a raster  layer  has been  generated.   
+Now,  once  we have  done  that, there is a new thing that is you can use the add a land class  
+column to the raster  attribute  table.  So, here you can see that we are using a raster attribute  
+table  we can add a land class  column that is called  raster  attribute  table  in the raster  attribute  
+table  we are giving the  different  colors  for each of these classes.   
+So, these colors  are nothing but the hex colors,  I request  you to go ahead and see the hex 
+color  what  are the hex color  codes  and how these hex color  codes  are important.  So, here this 
+followings  script  is very much  important  for producing the color  map for showing this Terron  
+and classes.   
+So, here for each of these Terron  for 0 for, 0 0 1 to 0 0 0 0 2 0 1 2. So, for each of these  
+Terron  we have assigned a particular  color  using these hex color  codes,  and now we are 
+going to see the plot. So, if we run it, let us see how it looks  like. So, this is the multinomial  
+logistic  regre ssion  predicted  classes.   
+So, you can see these are the Terron s 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and this  is how we can 
+see that the most  probable  class  we can clearly  see here.  So, also here you can see when  we are showing the we want  to see the class probabilities.  So, here in the first instance we are 
+getting  the most  probable  class  in the second  instance  we are getting  the class  probability.  
+So, using here you can see we are using the type of argument  we are using the probabilities  
+and here you can see we have we can index  any classes  suppose, we want  to see the 
+probability of Terron  class  1. So, we are giving these index 1 so, we can change  this number  
+from  1 to 12 and  then  we can see the  probability of  that class  in the total area of  interest.   
+So, here using  these two sets of comments  you can either  produce  the most  probable  class  at 
+the same time  you can  produce  the map  of class  probabilities  also.  So, here in this map  we are 
+getting  the most  probable  map most  probable  class.  So, in this maps  it is showing what  are 
+the most  probable  class  in these different  zones.  
+And here we are using these hex color  codes  and these hex color  codes  have  been  added  to 
+these individual  classes.  And you can go ahead  and see the hex color  codes  and how it has 
+been  assigned  you can gather  more  information  and this is how we produce  the map using 
+this categorical  model.  
+(Refer  Slide  Time: 29:51 )  
+ 
+Okay  guys. So, I hope  that you have  you have  got some  good  knowledge  and this is again,  
+this book should be read for more details  about  this multinomial  logistic  regression  based  
+mapping of soil properties.  So, I Hope  that you have  gathered  some  useful  knowledge. And 
+let us meet  in our next lecture,  where  we will see how to utilize  the C 5 regression  model  as 
+well as the random  forest  for categorical  mapping in the digital soil mapping. So, thank you 
+guys, let  us meet  in our next  lecture.  

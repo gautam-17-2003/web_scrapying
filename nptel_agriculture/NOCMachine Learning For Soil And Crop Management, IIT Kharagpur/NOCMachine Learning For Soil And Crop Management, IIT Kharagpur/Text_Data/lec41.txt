@@ -1,0 +1,236 @@
+Machine Learning for Soil a nd Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology  Kharagpur  
+Lecture 41  
+Hyperspectral Remote Sensing and ML Applications in Agriculture 
+(Refer Slide Tim e: 00:22)  
+ 
+Welcome friends to this NPTEL online certification course of Machine Learning for Soil and 
+Crop M anagement. And today, we are going to start our week 9 lectures and the topic of this 
+lectures Hyperspectral Remote Sensing and Machine Learning A pplications  in A griculture.  
+And so, in this week, we are going to learn in detail about what is hyperspectral remote 
+sensing, we will be starting from the sampling the spectru m, we have already touched this 
+hyperspectral s pectroscopy in our previous week i n our week 5.  
+And in this week, we are going to discuss about the hyperspectral remote s ensing we are 
+going to discuss some applications and also we are going to see how this  machine learning 
+can be useful for , for these hyperspectral remote s ensing, based soil and crop 
+characterization.   (Refer Slide Time:  01:43)  
+ 
+So, let us start in this first lecture our , these are the concepts which we are going to cover first 
+of all, we are going to cover the what is spectral resolution, and then we are going to cover 
+what sampling the spectrum and also we will try to cover the hyperspectral remote sensing 
+the overview of hyperspectral remote sensing. So, these three are the major concepts of this 
+week.  
+(Refer Slide Time:  02:11)  
+ 
+And these are the keywords. So, we are going to learn about this  EM spectrum also or 
+electromagnetic spectrum . Then we are going to discuss about the multispectral data 
+hyperspectral data and also spectral resolution and imaging spectroscopy or hyperspectral remote sensing.  (Refer Slide Ti me: 02:34)  
+ 
+So, guys  you already know what is electromagnetic spectrum. Now, this electromagnetic 
+spectrum can be differentiated into different zones based on their wavelength and or wave 
+number. And based on these wavelength and wave number they are divi ded into several types 
+of wave , energies or they have named they have they have been named differently.  
+So, for example, if we start with the very high frequency component of this electromagnetic 
+spectrum, this is called the gamma waves and then X rays an d then comes the ultraviolet rays 
+then a small window from 400 to 700 nanometer wavelength range is the visible range which you can see and then the infrared range then microwaves and then the radio waves.  
+So, you can see that as we are moving from gamma rays to the radio waves, the frequency is 
+getting less and also the wavelength is continuously increasing. So, depending on, on which 
+zone  we are working different types of spectral methods have been developed so far , for 
+characterization of soil and crop properties.  (Refer Slide Time:  04:24)  
+ 
+So, that next important thing comes to our mind what is hyperspectral and multispectral data. 
+What is the difference between hyperspectral data and multispectral data? Remember 
+hyperspectral data generally composed of about 100 to 200 spectral bands of relatively 
+narrow bandwidths which generally varies from 5  to 10 nanometer.  
+Whereas, in case of multispectral data it is composed of about 5 to 10 bands of relatively 
+large bandwidths and these  bandwidths varies from  70 to 400 nanometers. So, you can see 
+that hyperspectral data and multispectral data, the major differentiating factor is the number of bands and also the bandwidths . Of course, in case of multispectral data, the bandwidth is 
+quite high and the number of bands are quite low as compared to hyperspectral data.  
+(Refer Slide Time:
+ 05:21)  
+ Now, if you recall one of our previous lecture we have discussed what is the diff erence 
+between a panchromatic b and and then multispectral data , hyperspectral data and 
+ultraspectral data if you see the panchromatic band, the panchromatic band has one very wide 
+band, whereas  it is a multispectral you can see that they have several to ten s of bands and 
+hyperspectral has  hundreds of narrow bands, and ultra spectral has thousands  of narrow bands, 
+of course.  
+So, ultraspectral  has higher r esolution than hyperspectral , so this is the hyperspectral with 
+high resolution and this is the ultraspectral  data and this is the this is the multispectral data 
+you can see and this is the panchr omatic data. So, these data have been used by different 
+sensors for different types of application.  
+(Refer Slide Time:  06:37)  
+ 
+And the next term comes to our mind what is spectral resolution. A lthough, we have 
+discussed that what is spectral resolution i n our while discussing the hyperspectral 
+spectroscopy. In a general sense the spectral resolution defines the ability of a sensor to 
+define a wavelength interval. Higher resolution means lower wavelength intervals.  
+So, the finer the spectral resolution, t he narrower the wavelength range for a particular 
+channel or band. So, remember that each wave band represents a different part of the 
+electromagnetic spectrum as you can see in this picture, when the sunlight comes and get 
+reflected from any surface, and in this case, the ground surface and the satellite captures the 
+images the satellite deflect that image through the prism into different bands or to  the constituent bands. Now, these individual bands or wavebands represents different parts of the 
+electromagnetic spectrum.  
+(Refer Slide Time:  07:56)  
+ 
+Now, if we consider the multispectral imagery, you can see that these blue green, red and 
+near infrared , mid infrared these are considered as individual layers. So, basically each image 
+band, a different , cons ider as a different layer in an image i n case of multispectral imagery .  
+However, in case of hyperspectral data, they are contiguous and you can see clearly here this 
+is, these are the different types of hyperspectral spectra, this is for vegetation this for soil and 
+this for water and this is the hyperspectral spectra . And here , in the multispectral imagery  and 
+if we take these blue, green, red , near infrared , mid infrared at individual, layer they are 
+considered as a combinely they are considered as a mult ispectral data.  (Refer Slide Time:  09:09)  
+ 
+So, let us focus on hyperspectral remote sensing. So, what is hyperspectral remote sensing? 
+Hyperspectral remote sensing is also known as the imaging spectroscopy. And this has been 
+utilized in the laboratory by physicist and chemist for over 100 years for identification of materials and their composition.  
+As you can see this is a hyperspectral da ta cube and this hyperspectral data c ube not only is 
+having t he spectral property of an, of a, of a individual pixel , but it covers the whole area to 
+give a 3D  view. So, that is why these image of this hyperspectral has 3 dimension x, y and z 
+and that is why it is called the hyperspectral image cube. So, not only we are getting the 
+spectral image, but also we are gettin g the spectral image for individual pixels.  
+So, an area can be divided into individual pixels and then for individual pixel, we wi ll be 
+getting the picture using individual wavebands, and then we are combined them together. So, 
+we can consider a book as a  image cube. And we can consider each page in that book as an 
+image taken by a single wavelength of a hyperspectral sensor.  
+So, suppose a hyperspectral sensor is operating from 350 to 2500 nanometer wavelength 
+range. So, if so, that means, they will take an image of a pixel using all these wavelengths 
+starting from 350 to 2500 nanometers, and these individual images are considered as a page 
+individual page of this book, and where we combine all thes e pages will get a 3D  view of the 
+book. So, this is like t his data cube.  
+So, this hyperspectral remote sensing is utilized, because you can see not only we are getting the compositional variability, but also same time we are having a special coverage also. So, that is why we have combined these two terms imaging and spectroscopic together. So, this is 
+an image taken by a spectral sensor . So, it is a basically combination of imaging as well as 
+spectral scanning.  
+(Refer Slide Time:  12:19)  
+ 
+So, the acquisition of imagery in hundreds of contiguous spectral bands, s uch that irradiance 
+spectrum can be derived for each of these pixel , that is what just I have told him, t his just in 
+our last slide. S o, basically this hyperspectral remote sensing it measure reflectance at close 
+intervals on the electromagnetic spectrum and bands that usually space d 10 nanometer or less 
+from one another. So, this is how this hyperspectral remote sensing operates. And we 
+ultimately get these image data cube and these image data cube, these individual image has a 
+bandwidth of 10 nanometers.  (Refer Slide Time:  13:07) 
+ 
+So, if we compare the, the the single band image as well as multispectral image and 
+hyperspectral image, we will  get this type of information of course, you can see that this is a 
+black and white photograph, and this is digita l camera that which is considered as a 
+multispectral image, they have taken the image into RGB , RGB band, and then you can see 
+here this is a hyper spectral band and one thing is very clear that as we go from a single band 
+to multispectral band to hyperspec tral, when we are getting more and more information.  
+For example, here we are not getting any spatial information, here we are getting some 
+variation in the spectral response. However, here we are getting more and more spectral 
+features. So, that means, w hen you go from single band image to multispectral data to 
+hyperspectral data, we will get more and more information about the surface on which we are 
+taking the image .  (Refer Slide Time:  14:15)  
+ 
+You can see a good, another good example here, you can se e that this ima ge can be consider 
+as, these is an RGB image which has been for this , this pixel we can take this image in blue 
+and green and red all these three bands . however, in case of hyperspectral, we can take the 
+image using all the contiguous bands. If this is a UV and IR sensor, we can get the images for 
+all these individual wavebands .  
+So, this is how this hyperspectral sensor basically works. And this is how and you can s ee the 
+number of images are also getting increased. So, that means, here in t his data cube,  not only 
+we are getting these x and y  spatial  information, but in the z direction, we are also getting the 
+number of wavelengths. So, that is why it is called the data cube.  
+(Refer Slide Time:  15:18)  
+ Now, this hyperspectral remote sensing can be used to detect the individual absorption 
+features due to specific chemical bonds in solid,  liquid and gas we know that. So, recently, 
+last coup, in a couple of years, this hyperspectral remote sensing has been extended for 
+mapping the earth  features also. So, these while we have these earth  features , while we can 
+map these earth features, we can get more and more information about the surface.  
+(Refer Slide Time:  15:56)  
+ 
+Now, if we want to differentiate between the multispectral remote sensing and hyperspectral 
+remote sensing, these are some of the important points we have to think of. One is that the 
+multispectral remote sensing has some popular sensors like Landsat , MODIS  and 
+hyperspectral remote sensors are very much limited and airborne sensor f lown during flight 
+campaigns like AVIRIS , AVIRIS  we will  be discussing this AVIRIS .  
+And also in case of multispectral remote sensing, there are a limited number of spectral bands 
+as we have seen. However, in case of hyperspectral remote sensing, we have n arrow bands 
+that measure more characteristics of surface reflectance. And in case of multispectral remote 
+sensing we have relatively high temporal resolution, but in case of hyperspectral remote 
+sensing, we have low temporal resolution and the multispectra l remote sensing has global 
+spatial extent.  
+However, in case of hyperspectral remote sensing has less special coverage. But despite all 
+these differences, despite all these benefits of this multispectral remote sensing, if you want 
+to get more information , then obviously hyperspectral remote sensing is a better choice than 
+multispectral remote sensing .  Of course, the image the storage cap , storage requirement for these images as well as the 
+processing requirement, technical requirement for processing in c ase of hyperspectral data 
+will be more as compared to the multispectral data but, but, but even then, the hyperspectral 
+data will provide you more information than that multispectral data.  
+(Refer Slide Time:  17:53)  
+ 
+Now, this hyperspectral re mote sensing started in the mid -80’s and actual detection of matrial 
+is basically using these hyperspectral remote sensing is dependent on the spectral coverage, 
+then spectral resolution and signal to noise of the ratio of the spectrometer and the abundance 
+of the mat erial and the strength and absorption features for that materials in the wavelength 
+region measured. So, the spectral coverage is one of the important point then spectral 
+resolution more spectral resolution means more minuet  features you can capture .  
+Signal to noise ratio means more signal higher signal to noise ratio, that means you are 
+getting more and more desired in signals than that of the noise. So, always in case of spectral processing, we try to enhance the signal to noise ratio of the spectrometer  and also the 
+abundance of the material and the strength of absorption features are also important in the in the for the hyperspectral remote sensing. So, these are some of the important features for 
+these hyperspectral remote sensing.  (Refer Slide Time:  19:13)  
+ 
+And these imaging spectroscopy or hyperspectral remote sensing combines as I have told you 
+it combines both imaging and spectroscopy in a single system, which often includes large 
+data sets and require new processing methods. So, we need different  types of spectral 
+processing. And also we require different types of machine learning tools to extract the information or the useful information for subsequent characterization of the surface.  
+So, we have already discussed in case of point spectroscopy o r spectroradiometer. We have 
+already discussed some of the important spectral processing like standard normal variate , 
+then we have also we have also discussed the derivative spectroscopy we have already discussed then continuum removal all these different  types of spectral processing we have 
+discussed and apart from the spectrum.  
+So, most of these spectral processing is done, they are directed towards improving the signal 
+to noise ratio. In other words, they are they try to remove the noise and enhance the spectral 
+features, which are desired and subsequently they are being fed to the machine learning tools 
+to extract the important information. We have seen several examples while discussing the 
+hyperspectral , hyperspectral radiometer based modeling of soil  properties and crop 
+properties.  (Refer Slide Time:  20:56)  
+ 
+Now, in the HSRS  or hyperspectral remote sensing imagery is typically collected and 
+represented as a data cube just like these I have already discussed with spatial  information 
+collected in the  X and Y  plane and spectral i nformation represented in the Z direction.  
+So, if we can see here, this is the X and Y information in the Z  direction, we are getting the 
+wavelength values or spectral information reflectance values for each of these wavelengt h 
+with the wave  bandwidth of around 10 nanometer. So, this is how this image data cube is 
+generated and you can see here this is an AVIRIS  hyperspectral data cube for California 
+region.  
+(Refer Slide Time:  21:50)  
+ Now, what are the different types of appl ication ? Of course, as I ha ve told you that 
+hyperspectral remote sensing has been extensively used in geology, then identifying the 
+invasive species then coastal and ocean monitoring, carbon monitoring, microbial life in the 
+Arctic as well as volcanic acti vity. Nowadays it is being used extensively in different 
+domains of agriculture.  
+(Refer Slide Time:  22:15)  
+ 
+Now, if we consider the hyperspectral remote sensing spectra, it is basically n dimensional you can see that it is an n dimensional data and the data for a given pixel corresponds to the 
+spectral reflectance for that given pixel, we have already discussed . One pixel one spectra and 
+then we combine the , the spectral data for individual wavelengths.  
+So, here you can see these are the spectral reflect ance values for differen t wavelengths 
+starting from 0.4 to, to 2.5 nanometer, micrometer and we can see that these hyperspectral 
+safe spectra are having huge amount of information, we are getting the spectral absorption 
+features here. So, this is how this type of information we can exploit in case of hyperspectral 
+remote sensing.  (Refer Slide Time:  23:13)  
+ 
+So, the distribution of the hyperspectral data in n space can be used to estimate the number of 
+spectral endmember s. So, here the spectral endmember  there are three spectral endmember s 
+you can see water,  vegetation and soil. So, if you see the spectral types or spectral pattern you 
+can identify in that pixel we have both soil , vegetation and water.  
+So, the distribution of the hyperspectral data in n space can be used to es timate the number of 
+spectral endmember s and their pure spectral signatures and to help understand the spectral 
+characteristics of the materials which make up that signature. So, once you have the signature 
+or spectral signatures or spectral pattern from an individual pixel, you will have an idea , these 
+are the spectral endmember s in that particular area of interest or particular area.  
+(Refer Slide Time:  24:10)  
+  
+So, guys, I hope that these are some, we have got some knowledge from t his lecture. And 
+these are some basic overview of hyperspectral remote sensing, these are some of the 
+references from which I have utilized some of th e material some of the pictures, some of the 
+figures. So, so, we will  start from here in our next lecture, and we will  go and discuss more 
+about these hyperspectral remote sensing.  
+(Refer Slide Time:  24:40)  
+ 
+So, let us wrap up our lecture here, and we will  meet in our next lecture. And we will  start 
+from here to discuss more about hyperspectral remote sensing, and then we will  discuss how 
+we can use the machine learning in combination with hyperspectral remote sensing for characterizing the soil and crop. Thank you.  

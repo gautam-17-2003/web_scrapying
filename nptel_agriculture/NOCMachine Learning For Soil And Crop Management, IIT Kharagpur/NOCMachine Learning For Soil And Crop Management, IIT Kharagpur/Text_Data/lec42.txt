@@ -1,0 +1,247 @@
+Machine Learning for Soil a nd Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology  Kharagpur  
+Lecture 42  
+Hyperspectral Remote Sensing and ML Applications in Agriculture (Continued)  
+(Refer Slide Time:  00:21)  
+ 
+Welcome friends to this second lecture of week 9 of NPTEL Online Certification Course of 
+Machine Learning for Soil and Crop M anagement. And in this week, week 9, we are talking 
+about Hyperspectral Remote Sensing and Machine Learning Application for A griculture. 
+And in this week, this is our second lecture, lecture number 42.  
+In our earlier lecture, that is first lecture of this week, we have described what is , what are the 
+different areas of electromagnetic spectrum and then, what a re the differences between 
+panchromatic band then hyperspectral bands , multispectral bands and ultra spectral bands and 
+what are the major differences between multispectral remote sensing and hyperspectral 
+remote sensing .  
+We have got a brief overview of hy perspectral remote sensing . Hyperspectral remote sensing 
+is a method , technique which utilizes hundreds of contiguous bands of narrow width,  
+generally less than 10 nanometers less than or equal to 10 nanometers. And then we use those 
+hyperspectral bands to get more high resolution images imagery from a ny surface.  
+And in agriculture t his hyperspectral remote sensing has been utilized for getting high 
+resolution images for analyzing both crop features as well as soil features. So, we have already got a basic overview of hyperspectral remote sensing. In this lecture, we are going to 
+learn about different types of hyperspectral imagers.  
+What are the different types of satellite imagers, and hyperspectral imagers from airborne 
+platform and different types of ai rborne hyperspectral imagers, we are going to learn and 
+what are the applications we are going to learn in this lecture.  
+(Refer Slide Time:  02:56)  
+ 
+So, these are the concepts , which are topics  which  we are going to cover in this lecture. First 
+of all, we  are going to discuss different types of hyperspectral imagers, then, we are going to 
+talk about Hyperion, which is an important hyperspectral imaging spectrometer and then we 
+are going to discuss AVIRIS  and AVIRIS -ng.  (Refer Slide Time:  03:27)  
+ 
+So, tal king about the , the keywords of this lec ture, these are a couple of keywords which we 
+are going to use in this lecture first of all, EO -1 Hyperion, then false color composite, then 
+HICO,  ECOSTRESS  and AVIRIS . We are going to discuss all of these in this le cture.  
+(Refer Slide Time:  03:53)  
+ 
+So, let us start with the wavelengths which had been used in hyperspectral r emote sensing. In 
+hyperspectral  remote sensing we use different types or different ranges of wavelength or 
+different ranges of electromagnetic s pectrum and based on that, the naming is different.  
+For example, as you can see here, the ultraviolet range, which is having this abbreviation of 
+which is having this abbreviation of UV generally utilizes 0.28 to 0.35 micron wavelength range. And then, as  in case of visible in case of visible it utilizes from 0.35 to 0.7 micron, in 
+case of near infrared, it generally varies from 0.7 to 1 micron.  
+And, i n case of shortwave infrared SWIR , it varies from 1 to 2.5 micron, in case a midwave 
+infrared or MW IR it varies from 3 to 5 micron, whereas, in case of long wave infrared, it 
+varies from 8 to 12 mic ron and thermal infrared or TIR  it varies from 3 to 50 microns and 
+infrared generally, it varies from which is in the general term IR, it varies from 1 to 1000 
+micron. So, you can se e based on the different ranges the abbreviation and wavelength ranges 
+are different . And so, these are the wavelength ranges, which are being utilized in 
+hyperspectral remote sensing.  
+(Refer Slide Time:  05:51)  
+ 
+So, let us see the feat ures of EO -1 Hyperion as I have told you that this sensor has been 
+already decommissioned. So, these EO -1 Hyperion the date , the date range for which the data 
+is available is from 2000 to 2017. And it has 220 spectral bands, which ranges between 357 
+to 2567 nanometer and it has 10 nanometer bandwidth with 30 meter spatial resolution with 
+the 7.75 kilometers s wath.  
+As you can see, this is the image of , Hyperion image of Mount Fuji which was taken in the 
+year 2000. And also here you can see this is the Hyper ion sensor. And also here you can 
+clearly see the difference in the amount of information we can gather from Landsat bands as 
+well as from the hyperspectral Hyperion spectra.  
+So, you can see these red dots are showing the individual bands of Landsat and t hese are 
+discrete as you can see. And of course, you can also see, this continuous spectrum is from Hyperion. So, it is clearly visible that how much information more we can gather from a 
+hyperspectral sensor as compared to a multispectral sensor.  
+Of cour se, these hyper multispectral sensors gathers the image in discrete bands which are 
+quite which are quite , the t hick bands as you can see, but, in case of Hyperion in case of 
+hyperspectral sensor, we can get more higher resolution images with the narrow ba ndwidth. 
+And as you can see, we can get more and more information from the hyperspectral data.  
+(Refer Slide Time:  08:09)  
+ 
+Now, these are also the hyperspectral spectra obtained from Hyperion for a given pixel. So, 
+as we know that in case of hyperspectral  remote sensing we get a data cube which is bounded 
+by X and Y direction and in the Z  direction we get the wavelengths.  
+So, for each of these wavelengths, we get the , the, for each of these pixel we get their spectral 
+feature, and you can see here we can clearly see the difference of spectral features in wheat, 
+when the early vegetative growth, here you can see the ric e in the late vegetative growth , 
+cotton in the late vegetative growth and corn  in the late vegetative growth and these are 
+showing the fal se color composites these legend s of top band, so, showing the false color 
+composite .  
+Now, the question comes what is false color composite . False color composite we are going 
+to discuss in our next slide, but you can clearly see that using a hyperspectral sensor, how 
+much information we can gather from any surface.  (Refer Slide Time:  09:34)  
+ 
+Now, if we go to the next slide and we wi ll see that false color composite . Now, the false 
+color composite allows us to visualize the wavelengths that human eye cannot see, of course, 
+in the near infrared ra nge, in the near infrared rays we cannot s ee by our naked eyes. So, we 
+need some false color composite we need some color to indicate the features from the near 
+infrared image images.  
+So, that is why we need to, we need to use some colors to see the features which are taken by 
+the near infrared images. What is the reason ? The reason is we need to have more spectral 
+separation and also we need to increase the interpretability of the data as you can clearly see 
+this is the false color composite satellite image from Great Salt L ake, Utah which was taken 
+in 2016 and you can clearly see that these vegetations are appeared red in the images. So, this is a example of false color composite.   (Refer Slide Time:  10:41)  
+ 
+Now, another the hyperspectral sensor , spaceborne hyperspectral sensor is HICO or 
+Hyperspectral Imager for Coastal O cean an d this is the first spaceborne imaging s pectrometer 
+designed to sample the coastal ocean and it is onboard to International  Space Stati on and it 
+was, the data is available from HICO  from 2009 to 2014 it has a special resolution of 90 
+meter with a spectral resolution of 128 bands ranging between 400 to 900 nanometer with 
+every 5.7 nanometer and temporal resolution is 3 days.  
+So, that mean s, in every 3 day we get an image from HICO . So, this is the image of the HICO  
+sensor onboard to the International Space Station.  (Refer Slide Time:
+ 11:38)  
+ And this is an image taken by these HICO  sensor you can clearly see the massive microcystis  
+bloom  in western Lake Erie and as the name suggests, in the HICO sensor is focused on 
+coastal ocean imagery. So, you can clearly see the features which are appearing in the coastal 
+ocean or ocean we can we can get it from the HICO  hyperspectral images.  
+(Refer Slide Time:  12:04)  
+ 
+So, and also another on boards  International Space Station onboard sensor is ECOSTRESS 
+and this ECOSTRESS  the data is available from August 2018 t o present with a spatial  
+resolution of 70 meter and it has a spectral resolution of 6 band ranging between 160 to 1200 
+nanometer it is basically a radio meter mounted in the International Space Station as you can 
+see here, this is the ECOSTRESS  sensor, it measures the temperature of the plants growing in 
+specific location of the Earth  over the  course of solar year . So, these ECOSTRESS  is another 
+spaceborne hyperspectral sensor .  (Refer Slide Time:  12:52)  
+ 
+And, what is the , what is the mission of ECOSTRESS?  So, mission of ECOSTRESS  is to 
+measure the temperature of the plants heating up as they  run out of water. So, evaporative 
+stress measurement is the major mission for ECOSTRESS  sensor. Now, as the sun heats the 
+land surface throughout the day, ECOSTRESS  measures the small temperature variation on 
+the surface of the plants. And remember that of course well water plants warm at a slower 
+rate than dry , water stressed  vegetation.  
+So, from the images, we can clearly see what are the, which portion or which areas of the 
+images are dominated by water stressed plants. As you can see here, in this pic ture, we can 
+clearly see that this red color is indicative of the image of the plants which are showing evaporative  stress, high evaporative stress and these green patches are showing the plants or  
+the areas with the plants which are suffering from low evaporative  stress. So, ECOSTRESS  
+basically shows us these features basically based on these evaporative stress index. (Refer Slide Time:  14:18)  
+ 
+Blue color, as you can see here also in this picture, you can see there are two images one was 
+taken at 2019 and other is 2020. And you can see the percentage changes from 2019 to 2020. 
+And so, evaporative  stress, how  it changes from 19 to 20 we can clearly see so in this image 
+is blue color represents the low stress and high water use whereas the red color represe nts the 
+high stress and low water use. So this is the application of ECOSTRESS .  
+(Refer Slide Time:  14:55)  
+ 
+Now we have completed discussing the NASA Satellite hyperspectral imaging sensors. So, let us discuss the airborne hyperspectral imagers which are developed by NASA and utilized 
+by NASA. So, for example AVIRIS  and also PRISM. So, AVIRIS stands for Airborne Visible/Infrared Imaging Spectrometer, whereas, PRISM stands for Portable R emote Imaging 
+Spectrometer.  
+(Refer Slide Time:  15:30)  
+ 
+So, these AVIR IS has been lately utilized extensively for different types of agricultural 
+purposes and land use management. So, these AVIRIS was first developed, it was actually 
+developed in Jet Propulsion Laboratory for Earth  remote sensing and this is a unique optical  
+sensor that delivers calibrated images of the upwelling spectral radiance, it uses scanning 
+optics and four spectrometers to image a 614 pixels worth simultaneously in all 224 bands.  
+So, it has 224 bands, it  takes an image simultaneously using four imagi ng spectrometer for 
+600 pixel, 614 pixels swath  and it has been extensively used and soil and land management as 
+you can see these AVIRIS  sensor is being calibrated before a mission in the NASA.  (Refer Slide Time:  16:31)  
+ 
+So, this AVIRIS  sensor is gener ally being flown on four aircraft platform that is NASA ’s ER-
+2 jet, Twin Otter I nternational  Turboprop and S caled C omposites ’ Proteus an d NASA’WB -
+57. So, these are the aircraft platform on which this sensor is used to capture the image of the 
+surfac e.  
+As I have already told you, if  this sensor has 224 bands, continuous spectral bands, which can 
+ranging between 400 to 2500 nanometer with a bandwidth of less than 10 nanometer . What is 
+the goal of AVIRIS? T he goal of AVIRIS  is to identify major and monitor constituents of 
+Earth  surface and atmosphere based on molecule absorption and particle scattering 
+signatures.  
+(Refer Slide Time:  17:33)  
+  
+So, these sensor has been extensively utilized for identification and characterization of Earths 
+feature. So, remembe r that the first every sensor was developed and it was operated it was in 
+operation for 3 years. So, the first develop AVIRIS  lasted for 3 years from 1984 to 1987. And 
+the sensor covered the entire VIS, NIR and SWIR  region. A s we have discussed in the 
+previous slide that is 400 to 2500 nanometer range and it was a whisk broom sensor .  
+What is the whisk broom sensor we are going to discuss in coming slide. So, it was a 
+whisk broom sensor with a signal to noise ratio of around 100 and carried onboard on ER -2 
+aircraft from 20 kilometer  altitude.  And remember that these AVIRIS  is still considered as 
+the best hyperspe ctral remote sensing center or h yperspectral imager I would say . From any 
+airborne platform.  
+(Refer Slide Time:  18:39)  
+ So, you can clearly see these AVIRIS  reflectance spectrum of a mixture of three common 
+rock forming mineral . Here you can see that so, this is the AVIRIS  spectra and the same 
+spectra which were taken by multispectral lens or thematic map and so, you can clearly see 
+the difference of t he information difference in information we can gather from evidence as 
+compared to any other multispectral sensor.  
+(Refer Slide Time:  19:09)  
+ 
+And this shows the false color composite images are five AVIRIS  flight lines and you can see 
+the and you can, you can clearly see the high resolution images showing the difference in the 
+Earth’s  surface features from the AVIRIS  image. So, that shows the amount of details we can 
+gather from the AVIRIS  image and that is why it has been extensively used in different 
+application for E arth, for Earth feature characterization.  (Refer Slide Time:  19:44)  
+ 
+Now, AVIRIS -NG, now AVIRIS -NG, what is AVIRIS -NG. AVIRIS -NG is an acronym for 
+the Airborne Visible InfraR ed Imaging Spectrometer  - Next G eneration. So these AVIRIS -
+NG has been developed to provi de the continued access to high signal to noise ratio imaging 
+spectroscopy measurement in the solar deflected spectral range, and it is expected to replace 
+the average classic instrument that has been flying since 1986.  
+So, this AVIRIS -NG has been utilized in several areas and this has been utilized to capture 
+the high resolution images of several E arth features to to characterize them with a greater , 
+greater accuracy.  
+(Refer Slide Time:  19:44)  
+ So, these wavelength range for th ese AVIRIS -NG generally ranges from 380 to 2510 
+nanometer with 5 nanometer sampling and spectra a re measured as images with 600 cross -
+track elements and spatial sampling from 0.3 to 4 meter from a Twin Otter platform. So, this 
+AVIRIS -NG has been flown to different areas from over the water body , over the land 
+surface over the crop  fields , over the different types of mountains and glaciers to capture their 
+images and subsequent analyze them.  
+(Refer Slide Time:  21:19)  
+ 
+Now, you can see a simplified flowchar t, how these AVIRIS -NG generally works. So, it has 
+spectrometer which captured the images and ultimately it produces the calibrated image cube 
+for producing the ecosystem species map, for example. So, these AVIRIS -NG has been lately 
+utilized in different c ountries for producing or for capturing the high level details from the 
+Earth features.  (Refer Slide Time:  21:58)  
+ 
+Now, in India as of March 8, 2016 this AVIRIS -NG completed a three months the airborne 
+campaign collecting imaging spectroscopic measureme nt for  57 sites. S o, you can see here, 
+these are the yellow points are known as the priority 1 points and the second the 57 point sites 
+are the priority 1 sites and priority 2 sites at these yellow , yellow points.  
+So, these red points are the priority 1 points and the yellow points at the priority 2 point s 
+there are 25 priority 2 points. So, these AVIRIS, AVIRIS -NG India sites they collected a 
+science and , and they collected  images for different science and science and applications with 
+the objectives whic h are spanning with coastal zone , then mangrove forest , then soils, forest , 
+hydrocarbon alteration, mineralogy, agriculture, urban and, and also for calibration validation.  
+So, different places are utilized , a different places have been have been explored  using these 
+AVIRIS -NG images. So, as of 2016, all priority 1 sites have been acquired and these images 
+have been utilized by different scientists group in India to explore the E arth features.  (Refer Slide Time:  23:31)  
+ 
+Now, another one is called the PR ISM. So, PRISM stands for Portable Remote Imaging 
+Spectrometer which is , which is there in the Cor al Reef Airborne Laboratory or Coral to 
+evaluate the health  and conditions of coral reef ecosystem, it date range from 2016 to 2019 
+and the spectral resolutio n varies from 349.9 to 1053.5 nanometer with the 3.5 nanometers 
+sampling.  
+(Refer Slide Time:  24:10)  
+ 
+So, what are the other spectral , hyperspectral missions as you can see, there are different 
+organizations like Chinese Academy of Science they have devel oped these Tian Gong-  1, then 
+Italian Space Agency developed PRISMA, then Japanese Ministry of Economy Trade and 
+Industry developed HISUI, German GFZ -DLR they have developed EnMAP and then Italy-Israel Space A gency they have developed the SHALOM  and HypXIM was developed by 
+France Space A gency with different date range as well as spectral range and spectral bands 
+spectral spatial resolution and thei r objectives are also different.   
+(Refer Slide Time:  24:59)  
+ 
+So now, guys t hese are the references, which I hav e used in this lecture and I hope that you 
+have gathered some knowledges before we go for discussing what are the machine learning 
+application to exploit these hyperspectral images. So, we have covered all the , the 
+hyperspectral  imagers, and both satellite  as well as the airborne hyperspectral imagers and we 
+have discussed their characteristics.  
+In the next lecture, we are going to discuss how we can handle the hyperspectral data and 
+what are the sources of the hyperspectral data. And also we are going to discuss in brief about 
+the some important features of hyperspectral sensors. So, thank you. Let us meet in our next 
+lecture. Thank you.  

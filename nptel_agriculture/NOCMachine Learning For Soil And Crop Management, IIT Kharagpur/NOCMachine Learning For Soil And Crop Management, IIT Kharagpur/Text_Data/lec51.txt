@@ -1,0 +1,339 @@
+Machine Learning  for Soil and Crop  Management   
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department   
+Indian Institute  of Technology, Kharagpur  
+Lecture 51  
+Digital  Soil Mapping  with Continuous  Variables  
+(Refer  Slide  Time: 0:24)   
+ 
+Welcome friends  to this new week , week  11 of lectures  of Digital Soil Mapping with 
+continuous  variables  in this NPTEL online  certification  course  of Machine Learning for Soil 
+and Crop Management . And in this week  we are going to see how to use, what  is the 
+continuous  modeling and  how  we can use continuous  modeling of  soil properties  and for their  
+mapping, for their  creating  the special  mapping of  those  properties . 
+(Refer  Slide  Time: 1:15)   
+ So, in my previous  week  we have  already  discussed  the basics  of DSM  and basics  of R 
+programming basic operations  of R. So, in this lecture this will be again  using R. So, I will 
+show  you how to handle  the data for DSM  and how to do the continuous  modeling for DSM  
+and then  will see the  GIS with  a very  basic overview  of GIS operation in  R. 
+(Refer  Slide  Time: 1:34)   
+ 
+So, these are  some  of the keywords  for this lecture so  GIS, rgdal, EPSG , KML,  Google  Earth, 
+so we will be  learning , we will be  discussing these  things . 
+(Refer  Slide  Time: 1:54)   
+  
+Okay guys  so let me start  with where  we left in our previous  lecture . So, I showed you how  to 
+deal with different  types  of data set, how to select  a particular , how to create a data frame,  how to call a library  and then how to install a package , we have  discussed  and also we have  
+seen that how  to change the  name of  the character , how  to create a  matrix , how  to do different  
+types  of matrix  calculations . 
+So, we will start from  there  and then we will see the sorting of the data and we will go from  
+there. Now, before  going  further I would like to show  you that there is an export  function in 
+R so you can  use this to this every  plot to you can either  save it as  an image  or you can save  it 
+as pdf. 
+So, when  you click  on save it as image  you can have  different  types  of, you can save it in 
+different  format  like png, jpg, tif, bmp, meta file, svgps  and you can change the aspect  ratio 
+and all these things . So, this is one of the way of saving the plot or you can directly  clip it 
+directly  save it as pdf also or you can copy into the clipboard and then paste it later. So, guys  
+we have  seen  that how  to create this  type  of plots . Now, let us see how  to manipulate  the data.  
+(Refer  Slide  Time: 3:30)   
+  
+So, let us see that there is a vector  called  x from  1 to 10 and then there is a mode  of x let us 
+see that  is of course  numeric , length  of x as the name  suggests  so it is 10. S o, here the  number  of rows  or with the n row is a function to identify  the number  of rows . So, here it will be 10 
+number  of rows , of course . And if you change the mode  of the data structure , so let us create  
+this vector  again  and let us let us instruct  R that you should remember  this x as a character  so 
+we are going to use this as dot character  function of x and then you will see that all the values  
+are within  the code. S o, this  is how  you can  change the  numerical  data to  character  data.  
+You can turn a matrix  into data frame  or vector . So, let us consider  there  is a matrix  using the 
+values  of 1 to 30 and  then a  number  of rows  is 3. So, we  are going to  see this  matrix . Now, let 
+us see this matrix  as a data frame  so you can see that this is the data frames  of v1 v2, v3, v4 
+variable up to  v10 and  these are the  number  of rows  because number  of rows  are 3.  
+So, you can see that how a matrix  can be represented  as a data frame. So, here you can see 
+the number  of rows  is 3, number  of column  which  is n col is 10 and you can use this dim 
+command  or dimension command  to see the dimension  that is 3 and 10. Again, we are 
+creating  a vector  of x equal  to 1 to 10, number  of rows  is, number  of row of x is 10. 
+So, you can  do a lot of things  with  play , I am just showing a  very  limited  number  of functions  
+but you see there are plenty of sources  for learning R and there are plenty of functions  in R 
+you can explore  from  different  websites  and YouTube  videos  so please go ahead  and learn  
+those  functions  and utilize  in your data set to feel more  and more  confident . I am just 
+showing a handful  of them  because of time constraint  but please pay attention  and also 
+practice this  code so  that you can  feel more  and more  confident . 
+(Refer  Slide  Time: 6:07)   
+   
+Then we can see that we can index any number  of the vectors . So, here you can see we are 
+creating  a vector  v1 and this is a vector  and then if we want  to see the third  value  so we put 
+this 3 in the parenthesis  and we will see that this will be 3 and then if you want  to see the first 
+third  value  you can  see that  is from  5, 1, 3. 
+If you want  to see the minus  4 so minus  4 index means  all these values  except  the fourth  one. 
+So, if we run it you will see that 5, 1, 3, then if we want  to see the length of v1 then we will 
+see it is 4, if we want  to see the eighth value in this if you want  to assign  the eighth value in 
+this vector  as 10 we can assign  it but if you want  to see it you will see that it is 5, 1, 3, 8 but 
+this fifth , sixth  and seventh  values  are missing , so eighth value  is 10. 
+So, this is how you can create a vector . We are dealing  with the library  ithir,  so let us call this 
+library  again  ithir and then data USYD underscore  soil and then soil data USYD soil 1 and let us see the dimension of the soil data you can see here there are 166 observations  and 16 
+variables  so there will be  166 rows  and 16, and  there will be  16 variables . 
+So, if you want  to see the structure  of the data you will see this is the structure  of the data,  
+what  are the integer , what  are the numeric  variables  they will be clearly  shown here. And if 
+you want  to reduce the data set, suppose  you want  to have  only 1 to fifth variable and then 1 
+to 2 variables . So, you can just see, you can just select  those  variables  only. So, profile  you 
+can see from  1 to 5 and also the number  of columns  1 and 2 are given here. So, here that is 
+the number  of rows  and number  of columns  you have  selected .  
+(Refer  Slide  Time: 8:44)   
+ 
+And then if you want  to select  only the number  of columns  for all the rows  so you keep  it 
+blank in the place of row and then you select  this. So you will see that for all the 166 observation these two variable that is profile  and land class  are appearing . So, I hope  it is 
+clear . 
+(Refer  Slide  Time: 9:03)   
+ 
+Now, if you want  to see the first 5 rows  of total carbon variable we can use it so these are the 
+values  of the total carbon  for first 5 observations  and you can specify  multiple  column names  using the C function. So, if you want  to combine  multiple  column  if you want  to see the 
+multiple  column combinedly you can use this C function and you can get so this is 1 to 5 and 
+then the first 5 values  of both total carbon  and CEC.  
+So, if you want  to see which  soil data, which  subset  of the soil data is having the ESP values  
+greater  than 10, so you can use this subset  function and you can see these are the observation  
+for which  we are having  the ESP values  of greater  than 10. You can add more  and more  
+constraints  that is ESP greater  than 10 and lower  depth is greater  than 0.3 using the same 
+subset  function and  you can  see the  number  of samples  are getting  down. 
+You can sort the data using the random  norm , R norm  or random  normal  and then you can 
+sort them , you can sort, further  you can create  y and then you can sort x and then you will get 
+the results  of sorting. 
+(Refer  Slide  Time: 10:36 )  
+  
+Then if you want  to, if you want  to order  the clay data and want  to see only the first 6 
+observation after ordering  so you can see we are specifying the clay and then we are ordering 
+this and then from  there we can want  to see the first 6 observation by head  function. So, head  
+will give you the first 6 observation and then soil dot data and then we are first ordering by 
+taking the  clay  variables  only, so  this is how  let me show  you.  
+So, this is the 6 observation, the first observation  will be 116th observation according  to the 
+clay content  followed by the number  1 observation, number  2, number  3, number  4 and 
+number  7. So, this is how you do this type of data manipulation . And then you can order  the 
+soil data according  to the low to high or  high to  low in this fashion by ordering the  data.  
+So, to know  the data residue , sorry  data resides  in a particular  data structure  or not so you can 
+use this match  function so you can use this match  function you can see we are specifying  
+CEC  data and then we are trying to see whether  in the CEC  data there is a missing  values  and so after removing these missing  values  from  the CEC  we want  to see what  is the maximum 
+value . 
+(Refe r Slide  Time: 12:16 )  
+ 
+So, if you see that it will see that it is 95 and then 95th variable  and if you want  to see the 
+data of the CEC  of the 95th variable just use the index and you will get the value  of 28.21  
+you can check  it from  the data set. Also you can use this ESP you can identify  this the 
+variable,  the values  which  are greater  than, ESP values  which  are greater  than 5 so which  soil 
+ESP data in the soil data set is greater  than 5 you can identify , these are the observation for 
+which  ESP  is greater  than 5.  
+So, you can add more  multiple  conditions  by using this AND sign and then you can use that 
+within  the ESP  which  are the missing  values  so you can  identify  the missing  values  like this. (Refer  Slide  Time: 13:17 )  
+ You can you can create  some  factors  like replication  of 0, 4 times  and replication  of 1, 4 
+times  and give  them  the name a . So, a  will look like  this 0 0 0 0 1 1 1 1 and  let us see x is  also 
+equal  to factor  equal  to a so let us see it will be  0 0 0 0 1 1 1 1  so here we  can see two  levels  0 
+and 1. 
+So, let us create a vector  called , let us create a variable which  is soil drainage  and you can see 
+that is well  there are  couple  of categories  like well  drained , imperfectly  drained, poor  drained , 
+poorly drained , well drained, poorly drained, so these are the val, these are the categorical  
+levels within  the soil drainage  and then  we want  to see the  factors  of the soil drainage . 
+So, let us create a factor  and then let us see the soil drainage . So, you can see these are the 
+factors , well drained, imperfectly  drained, poor drain ed, poorly drained, well drained  and 
+poorly drained  and so here levels  are there  imperfectly  drained , poorly  drained  and well 
+drained, so  there are three  levels . 
+(Refer  Slide  Time: 14:53 )  
+   
+So, you can do different  types  of manipulation  with the data and let us consider  that another  
+variable you create that is called  soil dot drainage two where  you can use this factored  soil drainage  and levels  are well drained , imperfectly  drained  and poorly drained . And let us use 
+this soil drain . 
+So, you can see based  on your data it will be labeled  as 1 2 3 3 1 3 or not. So, you can assign  
+some  values  and based  on that you can create  a new variable  that soiled  or drainage  and you 
+can numerically  arrange  those  factors  if you have alread y assigned . Now, if you want  to 
+combine  the data you can combine  the data in  form  of a table . 
+So, let us assume  that we can create a data frame  with the, with this three observation that is 
+soil and response , so vertosol, hydrosol , sodosol  and response  is 1 2 3, so 1 2 3. So, let us see 
+how it looks  like. So, it will look like this and suppose  there is another  called  soil info which  
+is the data frame which  you have  created  with the chromosol , dermosol, and tenosol  with the 
+response  4 to 6. So, let  us see how  it looks  like soil info 2, it will look like  this.  
+Now if we use this R bind function it will give you combine  of rows . So, here you can see 
+there are 3 rows  in soil info, in soil 2, soil info 1 there is 3 rows  and soil info 2 there are also 
+3 rows.  So, if we use this R bind function it will combine  all these 6 rows  together  so you can 
+see this  is how  R info will look like  1 2 3 4 5 6. 
+(Refer  Slide  Time: 16:55 )  
+  
+So, you can  create another  variable that  is a dot column which  is a vector  and you can  see that  
+is soil info and these are the values  so you can combined these values  this column with this soil info file so you can see that  how  it look like , soil  info data set  so ultimately  the soil info 3 
+will look like this. So, earlier  it is soil info and then we have added  1 column  that is soil info 
+3. 
+So, you can do some  summary  statistics  by selecting  specific web, specific  variables  like 
+mean , median , standard  deviation, variance, summary  so by selecting  a specific variable and 
+removing the, and removi ng the missing  values  so you can see here these are the results  it is a 
+mean  of soil clay, median  of soil clay, standard deviation of soil clay, variance  of soil clay 
+and this is the summary  statistics  of the soil data for all  the variables . 
+So, if you want to see the summary  statistics  of the selected  data set from  1 to 6 variable you 
+can also use this and you can see that this is for 1 to 6 variables  summary  statistics . You can 
+do some  histograms  for using histogram  the command  is hist so the function is histogram  
+function so you can see this histogram  is created  by using the clay values . You can create  the 
+box plots  for the  clay  and this you can  see this  is the box plot  showing the  distribution . 
+When plotting  1 variable  by some  factor  in the box plots  let us consider  that let us plot this 
+total carbon  by different  land classes  and our data set is soil dot data so we are going to use 
+this box plot and you can see for different  land class  like cropping, forest , improve  posture, 
+native  posture, we  are getting  the distribution  of total  carbon . 
+(Refer  Slide  Time: 19:02 )  
+  
+Normal  qq plot we have  already  discussed  about  normal  quantile  quantile  plot. So, we can 
+check  the normality , cumulative  probability plot. So, qq norm , qq line, so we you use this qq norm  we specify  the variable, we plot it and then plot character  4 we use then the size also 
+0.7 so  let us see how  it looks  like. 
+So, this is the qq norm  and then qq line if you click  on it then you will see that we will fit a 
+line to see whether  they are norma lly distributed  or not. So, this is how you can do different  
+types  of operation with the data set, you can do quantile  calculation  of the total carbon , you 
+can do the quantile, if you just by default  use this quantile  it will give you from  0 percent , 25 
+percent , 50 percent , 75 percent , 100 percent . 
+So, therefore quartile  it will give but if you specify  the range  and the sequence  it will give. 
+So, here you can see from  0 to 1 with  the interval  of 0.05 you will get  the quantile  values  so if 
+you run it you will get from  0 to 100 percent  with 5 percent  increment  you will get and 
+similarly  here another  example  is given from  0.9 to 1 with 0.01 so from  90 percent  to 100 
+percent  for each  1 percent  interval  you will get  the value . 
+(Refer  Slide  Time: 20:40 )  
+  
+So, basic linear  model  again  so summary  you can use the c bind function, clay is data. So, 
+suppose  you want  to predict  the CEC  based  on the clay content . So, let us first combined the 
+clay and CEC  so we are combining using the columbine  function and let us see the summary  
+of these two . 
+So, you can see the summary  of clay the minimum value , first quartile , median , mean , third  
+quartile , maximum and number  of missing  values  you can see here. You can directly  plot the 
+clay versus  CEC  by using this plot command  and this is the simple  plot between  clay versus  
+CEC.   
+But if you want  to use the model  mod 1 so we are using this linear  model  lm command  to 
+predict  the CEC  using the clay, our data is soil dot data so we are going to use this and then 
+you can see here this will be CEC Clay and model  data so here you can see the intercept  and 
+the slope . So, if you want  to have  the summary  of the model  dot 1 so you will get the summary  of the 
+model  of 1 and then coefficient  so this is an offset  and this is the coefficient  of the clay, what  
+are the standard  error, what  are the t values , whether  they are significant  or not at different  
+like significant  level , these  will be  also mentioned . 
+So, multiple  R square , adjusted R square , all these  things  will be mentioned. So, in this case 
+we are getting  multiple  R square  of 0.42, adjusted R square  is 0.41. But it is a simple  linear  
+regression  because we  are using only clay . 
+(Refer  Slide  Time: 22:27 )  
+ 
+So, you can have  only the coefficient  by specifying the coefficients  from  the model  also. You 
+can, another  alternative  is using this coeff  function, you can use this coeff  function to get the 
+same results , you can use this head  function to get the first 6 residuals  of the first 6 
+observation or  you can  get the first 6 predicted  values  of the models  from  first 6 observation. 
+You can use these predicted  values  versus  fitted  values  by using the plot command  you can 
+see here. You can also see the head  that means  first 6 observation of model  1 with the 
+confidence  interval  you can see here a lower  confidence  interval  and upper  limit of 
+confidence  interval  they  are same with  the fitted  values . (Refer  Slide  Time: 23:19 )  
+ For the multiple  linear  regression again  we are going to  use this, so we are going to  subset  the 
+soil data where we are combining clay, CEC,  exchangeable  sodium  and exchangeable 
+calcium  for all the 166 observations . So, when  all the rows  are involved so we do not give 
+anything and  we are only  combining these 4 or  5, 4 variables  together . 
+So, we want  to see the summary  and these are the summary  of all the variables  and then we 
+want  to see the correlation  the function is COR  we want  to omit and then do the correlation  
+and you can see this is the correlation  matrix  and you can want,  you also want  to have  a pair 
+scatter  plot using these pair commands  and you can get this scatter  plot. So, this is a clay 
+versus  CEC,  clay versus  exchangeable  sodium , exchangeable sodium  versus  exchangeable  
+calcium  and so on. S o, this  type  of paired  scatter  plot you can  also get. 
+(Refer  Slide  Time: 24:21 )  
+ 
+Model 2 is again  linear  model  where CEC  is being predicted  using clay exchangeable  
+sodium , exchangeable  calcium  and data is subset  of the soil data and then we want  to have,  
+we want  to have the summary  statistics  so you can see multiple  R square  is 0.90, adjusted  R 
+square  is again  0.90 and also you can get the values  of the offset  as well as intercept  and as 
+well as the coefficient  values  and their  significance  levels  also. 
+So, guys  this is how you do the different  types  of data handling and basic very basic 
+modeling in  R for DSM . Now, let us move  to basics  of GIS. (Refer  Slide  Time: 25:08 )  
+ 
+Now, you already  have the basic, you already  know  the basics  of GIS and so again  we are 
+going to use this library  ithir so I am calling  this library  ithir and here we are going to use this 
+HV 100 data set actually  this is the data,  soil data, 100 soil data was collected  from  hunte d 
+valley  of Australia  so that is why  the name is  HV 100. 
+So, we can use this HV, so we let us consider  this HV 100 data set and let us see the structure  
+of this HV 100 data set. So, you will see that there are 100 observation of 6 variables  and 100 
+observation like and there  are x and y, x and y are basically  coordinates  and then organi c 
+carbon EC  and then  ph so  these are the  different  variables . 
+So, we are going to load the necessary  packages  so we are going to install this package  sp so 
+we can install but I just skip it because it is already  installed , so you can try and then you can 
+call this library  sp, it is basically  doing some  special  operations , special  and then library  
+raster  you can for dealing  with the raster  data and then you can use this rgdal package also so this rgdal package will be helpful  for doing the GIS operation I have already  installed  that so 
+I am just going to  upload this  rgdal package.  
+Now, if you see this hunt HV 100 data set so this HV 100 dataset  you can see these are 
+different  sites, their x and y coordinates  and then organi c carbon  EC and ph. So, first of all 
+we want  to, this is a basically  in a data, in a basically  it is a tabular  format . So, this table  R 
+will understand this as a table  but we have to instruct R that these x and y are coordinates , 
+only then  the R will consider  it as  a special  points  data frame.  
+It is only simple  data frame  right  now but when  will instruct  R that you should understand 
+this x and y as the coordinates  then they will understand that yes these are this is the whole  
+data set frame  is the spatial  points  data frame. So, we can we can use this HV, we can assign  
+by these coordinates  by using this coordinate  function, so coordinate  HV 100 we are telling  R 
+that x and  y are the  coordinates . 
+(Refer  Slide  Time: 28:02 )  
+  
+Now, let us see the structure  you will see now this is not appearing  as a normal  structure  of 
+what  we generally  see in case of any normal  data frame.  Here you can see it is a special  
+points  data frame  since  we have  assigned  these x and y as the coordinates  then the R will 
+understand that  this is a, it is  not a simple  data frame , now  it is a special  points  data frame . 
+Remember  for doing all this GIS operation you need  the special  points  data frame , for 
+plotting  you need  the spatial  points  data frame . So, we are going to use this sp plot, sp plot 
+using this HV 100 data set we are going to focus  on this organi c carbon,  our scales  are given 
+and then  colors  which  we have  specified  and the size of  the markers  are also given. 
+So, let us see, let us run it and you will see that this plot of organi c carbon  is appearing  and 
+based  on their values  from  0.6 to 1.5 we are getting black  dots from  1.5 to 2.5 we are getting  
+blue dots, from  2.5 to 3.53 we are getting  pink dots and then orange  dots from  3.5 to 4.5 so 
+for different  interval  we are getting  these, their  colors  are being coded . 
+Now, the next important  thing is how to define  the coordina te reference system . R understand 
+that it is a spatial  points  data frame  but how to instruct  R that this is the coordinate  reference  
+system , because unless  we assign  the coordinate  reference system  it will not be projected  
+properly.  (Refer  Slide  Time: 30: 23)  
+ 
+So, we have to define this coordinate  reference  system  in this case this data set has the 
+coordinate  reference system  of WGS  1984 UTM  zone  south 56. So, to define  this coordinate  
+reference  system  we are going to use the EPSG  code . So, what  are the EPSG code ? EPSG  
+stands  for the European petroleum  survey group and basically  this is an organization  of that 
+maintains  the geodetic  parameter  database with standard  codes , so these  are known as the 
+EPSG  codes  for coordinate  systems and  datum . 
+So, you can check this website  with the, and then you will see this special  reference  and you 
+can get for all the different  location  what  are the EPSG  code . So, you can instead  of giving all 
+the details  of the coordinate  reference system  and datum  and all this thing you can 
+specifically  mention  the EPSG  code . (Refer  Slide  Time: 31:06 )  
+ 
+ 
+So, here you can see we are using this project  for string  function for this HV 100 and we are 
+defining this CRS  and then EPSG  code  is 32756, we are assigning and then let us see, now it 
+has been  already  updated. So, you see that coordinate  reference system  it is UTM  zone  56 
+south datum  WGS  84 unit in meter . So, you can see that instead  of giving all this information  
+if you just  give  the EPSG  code  it will be  a lot easier . 
+Now, we can export the data as a shape  file, so our working directory  will be there, this shape  
+file or ESRI  shape  file will be saved , the vector  shape  file so this shape  file will be saved  in 
+our directory  so for that the function is write  ogr function, here we are using this HV 100 data 
+set, so the name of this created  data, created  file will be HV underscore  dat underscore  shape  
+and it will be  saved  as a ESRI  shape  file, which is an universal  format . (Refer  Slide  Time: 32:26 )  
+ 
+ So, if you open this working directo ry you will see that the working folder  that these files 
+have  been  created , four files have  been  created  like HV dot shape  dot shp, dot shx, dot prj, 
+dot dbf. Now, why these are, what  are these four files? So, again  these ESRI  shape  file is an 
+ESRI  vector  data ESRI  means  those  organization who have  developed  this GIS software  
+called  RGIS. 
+So, this shapefile is an ESRI  vector  data storage format  for storing the location , shape  and 
+attribute  of geographical  features . It is stored  as a set of related  files so you can see four 
+different  types  of file, shp file is showing the feature geometries , so it is basically  point , 
+polygons  and lines . 
+So, dbf is the database file which  is containing the attribute  data,  shx is a indexation  data for 
+iteration  across  the featu res that is index file and dot prj is the coordinate  reference system  
+represented  as text file. So, these are four different  files. So, once  you create this shape file, 
+automatically  these four files will be created . So, that is why you see in your working 
+directory  those  four files  have  been  created . 
+(Refer  Slide  Time: 33:52 )  
+  
+Now, if you want  to see this file in a in a Google  Earth, so you need  further coordinate  
+transformation  to WGS  1984 because Google  Earth can identify  only dot kml file and for dot 
+kml file you need  the transformation  to WGS  1984 only. So, for these WGS  1984 we are 
+going to use the EPSG  code  of 4326 and then we are again  using this write OGR  function to 
+develop this  HV 100 dot  kml file. 
+So, let us see, let us run this codes  and then let us see if this file has been  created  or not. Yes, 
+this HV 100 file has been  created . So, if you just click  on it you will see that these points  will 
+be projected  directly  in the google  earth  surface . Now, you can see how exciting  these 
+operations  are and you can directly  project  these sampling  points  over the Google  Earth and 
+so this type of representation  is so fascinating  that you can use it in any type of your 
+academic presentation  or, so this  type  of things  you can  do using the  using  the R softw are and 
+also digital soil  mapping will help  you to  understand all  these things . (Refer  Slide  Time: 35:36 )  
+ 
+So, guys  let us wrap  up this thing, this is the reference again  that book  if you want  to have  
+more  detailed  information  of these GIS operations  you should  consult  that book and so I hope  
+that you have  gathered  some  important  information from  this lecture and let us wrap  up here 
+and we will see, we will again , will go from  here.  
+So, these codes  will be continuously discussed  in throughout  these upcom ing lectures  so 
+wherever  we left will start from  there and then we will discuss  further about  these codes  and 
+how to utilize  this code  for different  types  of operation. T hank you very  much . 

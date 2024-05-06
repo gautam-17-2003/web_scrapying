@@ -1,0 +1,279 @@
+Machine Learning for So il and Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology Kharagpur  
+Lecture 25  
+Diffuse Reflectance Spectroscopy: Basics and Applications for Crop and Soil (Contd.)  
+(Refer Slide Time:  0:18)  
+ 
+Welcome fr iends to this twenty fifth lecture of NP TEL online certification course of M achine 
+Learning for S oil and Crop Management. And we are at w eek 5 and this is the fifth lecture of 
+week 5. And in this week, we are talking about the D iffuse Reflectance Spectroscopy:  Basics 
+and Application for C rop and S oil. And in our previous 4 lectures, we have seen the basics of 
+diffuse reflectance spectroscopy specifically, the visible to near infrared diffuse reflectance 
+spectroscop y, and then we have seen the basics of some the working principle of 
+spectroradiometer , some specificatio n of the spectroradiometer.  
+Then w e have also seen the spectral resolution , sampling interval, spectral pre- processing 
+methods and we have also seen t he important spectral features , some of the important 
+literature s in the domain of DRS application for soil. So, guys, today, we will start from 
+there, and then we will be discussing some more application on soil and also we will be discussing some applica tion on crops.  (Refer Slide Time:  1:40)  
+ 
+ 
+So, these are the 2  concepts which we are going to cover VisNIR DRS soil application and 
+VisNIR DRS crop application in this lecture and these are some of the keywords which we 
+are going to discuss today. And t hen soil arsenic pool , then orthogonal signal correction or 
+OSC, then external parameter orthogonalization or EPO, RSI , NDSI are 2 index which are 
+used for predicting some of the crop paramete rs via the spectral modeling we wi ll be also 
+seeing.  (Refer Sl ide Time:  2:25)  
+ 
+So, let us see some example of let us first see some example of DRS based, sorry VisNIR 
+DRS  soil application. So, in our previous lecture, we have seen some of  the literature where 
+DRS was used for predicting several soil fertility and al so soil physiochemical properties. 
+DRS has also been used for predicting the soil heavy metals , metalloids as well as other 
+contaminants. So, let us see some example.  
+So, this is one example where DRS was utilized for soil arsenic prediction. So, this study 
+actually was conducted in a landfill nearby Kolkata city called Dh apa. And several hundreds , 
+couple of hundreds of soil samples were collected from these sites and after collecting the samples, we have scan them using the diffuse reflectance spectroradi ometer. So, once we 
+have collected the soil samples, we scan them using the VisNIR spectroradiometer. And then 
+we estimated the total soil arsenic using the standard method which we have used as a 
+response soil arsen ic values and just like the spectral tra nsfer model, we have used the 
+VisNIR DRS there is reflectance spectra as the predictor.  
+But before using in the model, we have done first derivative reflectance spectra, then second  
+derivative reflectance spectra, then orthogonal signal correction these 3 are the spectral pre-
+processing and after the spectral preprocessing, we have used the elastic net model , Random 
+Forests model and penalize spline regression model. And then, we have evaluated the model 
+based on the validation set and we have selected the  best performing model and then we have 
+used the model predicted arsenic values.  And finally, after we predicted the arsenic values using the best  prediction model, we have 
+interpolat ed those values using ordinary kriging and indicator kriging, which are geo 
+statistical approaches. S o, these geo statistical approaches are useful to predict the parameter 
+in some in those locations where from un- sampled location. So, these interpolation s were 
+done by ordinary k riging and indicator kriging.  
+(Refer Slide Time : 5:26)  
+ 
+So, we have seen this is the distribution of the major arsenic concentration and when we have 
+used the elastic net model, we have seen we are getting the best prediction accuracy with an 
+R squared values of 0.97 and RPD values of 6.32 which is ve ry high. So, using the elastic net 
+model, we have predicted the arsenic with high accuracy. So, that shows that these arsenic can be predicted by in the soil using diffuse reflectance spectra.  (Refer Slide Time:  6:06)  
+ 
+So, these are the original reflect ance spectra of the soil for those samples and these is the 
+elastic net coefficients and these red dots are showing the significant wavelengths which have 
+been selected by the elastic net model. Now, using this elastic net regression model, when we 
+predict ed the arsenic, we have also interpolated those values using the indicator kriging as 
+well as the ordinary kriging. So, these are the measured and predicted arsenic concentration using ordinary kriging and these are the measured and predicted arsenic soil arsenic content 
+using the indicator kriging.  
+Indicator kriging generally gives you maps the spectral variability based on the probability of 
+any value which is exceeding a threshold value. So, in our case, we have kept the threshold 
+values at 5 ppm or 5 milligram per kg and we have tried to identify the areas which are 
+having 0 to 25 percent  probability , 25 to 50 percent probability, 50 to 75 percent probability 
+and 75 to 100 percent  probability and these greens areas are water bodies. So, you can see in 
+both the cases in case of the measured values as well as the predicted values we have seen, we have identified the similar hotspots.  
+So, these regions are the pollution hotspots. So, the identification of this pollution hotspot by 
+this kriging interpolatio n can help you to identify the areas where you should give special 
+care and so, similarly, in case of indicator k riging also, these 2 areas have been come these 2 
+area came under this 75 to 100 percent  probability showing the potential hotspot zone.  
+So, that implies that our DRS method was able to identify the DRS  method was able to 
+identify or predict the  soil arsenic content not only they have they were able to predict the soil arsenic content contamination, but also they were able to produce the almost accurate 
+special  variability map or using the geo statistical interpolation like ordinary kriging and 
+indicator kriging.  
+(Refer Slide Time:  9:13)  
+ 
+Another  in the subsequent study, we have tried to predict the soil arsenic pool. Now, that 
+analysis of soil  solid arsenic phase has commonly used different types of sequential 
+extraction which are time consuming which are invasive or destructive and also very much 
+costly. So, in the soil , arsenic remains in different pools. So, for example one of t he form is 
+called we call them M g pool, which is basically the in organically bound arsenic. And then 
+there is a pure PO4  pool or phosphate pool  which is strongly absorbed arsenic .  
+And then there is HCl pool which is co- arsenic which is co -precipitated with the carbonates, 
+manganese oxide and very amorphous iron oxy hydroxides and OX is the arsenic co-
+precipitated with the amorphous iron oxy hydroxides and organic is arsenic associated with 
+the organic method and sulfides. So, you can see in the soil , arsenic can be ass ociated with 
+different phase and for proper  identification of this phase or  proper prediction of this phase is 
+very much important if we want to map that dynamics of soil arsenic.  
+So, can we map it using diffuse reflectance spectroscopy that was the hypot hesis this was the 
+research question. So, our hypothesis was yes, we can do using the diffuse reflectance 
+spectroscopy and appropriate spectral pre -processing. So, generally these individual target 
+phase are extracted generally in conventionally they are extracted by using different types of 
+extracted and it is a very cumbersome process. So, can we use VisNIR DRS as an alternative to prey dig these individual pools of arsenic in the soil along with the total arsenic? So, that 
+was our objective or that was  our research question.  
+(Refer Slide Time:  11:30)   
+ 
+So, what we did? W e after we measured these individual phase individual target phase, then 
+we have used the arsenic soil spectra to predict using different model different PSR  model. 
+So, you can see here the re are at 3  different spectral pre -processing we have used , first 
+derivative, second derivative and orthogonal  signal correction and this is AST  means to tal 
+arsenic, then organic pool, M g pool, PO4  pool , HCL pool and OX, OX pool.  
+This shows the calibra tion R square,  calibration RMSE and validation and you can see 
+comparing all of these that in case of first  derivative , second derivative total arsenic was 
+predicted very high, organic also very good, M g pool was not that highly predicted. I n case of 
+PO4 pool it was satisfactorily predicted , in case of HCl  pool it was moderately predicted. So, 
+you can see the prediction accuracy changes from one  pool to another pool, but most of the 
+pools are satisfactory predicted except for a one or two.  
+So, that shows t hat a combination of PLSR  and a proper spectral processing can identify 
+these individual phases of arsenic in the soil, which may help in future identification of the 
+soil arsenic dynamics. So, that was also published in another journal called the Geoderma.  (Refer Slide Time: 13:15 ) 
+ 
+So, VisNIR DRS for these are the prediction plots you can see our scalar values for total 
+arsenic 0.88, 0.92, 0.58, 0.70, 0.83, 0.54. So, these are the prediction plots for different 
+arsenic pools in the soil using diffuse r eflectance spectroscopy.  
+(Refer Slide Time:  13:39)  
+ 
+Now, considering the complexity of these pools, these values are still very much encouraging 
+because, you remember that this soil a rsenic and this complex and their phases are at so much 
+heterogeneous a nd it is very much if we can get a moderate prediction also for some of them, 
+that would also help us that is also greatly helped us for identifying their dynamics in the soil.  These are the spectral the coefficients , PLSR  coefficients and these PLSR  coefficients have 
+identified these red dots, which are the significant PLSR  coefficients which may use very 
+useful in future research  if they want to pinpoint , if they want to selectively use these 
+wavelengths for a subsequent machine learning application.  
+(Refer Slide Time:  14:43)  
+ 
+I have already shown you this application of DRS  for p etroleum contaminated soil so I a m 
+not going to discuss it again. But just briefly you can see that this  petroleum contaminated 
+soil using the diffuse reflectance spectroscopy and also you can see the what  we have used 
+original reflectance first derivative and second derivative in different condition like  field 
+moist intact, air dried intact and air dried ground. So, we have got in terms of validation at 
+(()) (15:19 ), we have go t satisfactory R squared values for field m oist intact when you 
+considered the validation R squared and also the potential RPDs  were also encouraging.  
+So, the RPD values were 1.64, 1.70. So, if w e can focus , if you can see that first derivative of 
+the ref lectance spectra using the field moist intact gave the best reading when we consider the 
+validation R squared among all the models and also the RMSE values and also the RPD. So, 
+using these we can consider that DRS  is a useful method for identifying the pe troleum 
+contamination in soil.  (Refer Slide Time:  16:04)  
+ 
+Another very important application for soil is , you know that  soil contain moisture and 
+moisture absorb this infrared radiation. So, one of the major obstacle for in situ application 
+for diffuse d reflectance spectroscopic based soil property model ling is the presence of 
+moisture. So, to remove the impact of moisture, scientists have proposed a methodology that 
+is called EPO or external parameter orthogonalization. It was first proposed by Roger et  al in 
+2003.  
+And this EPO algorithm is based on the proposition that field moist spectral matrix  if we 
+consider this an X  can be expressed as an amalgamation or mixture of an useful section 
+which is denoted by XP that describe a target soil properties suppose it is clay and extraneous 
+section using the influence of moisture which is XQ and also spectral noise. So, you can see 
+that the  field moist spectral matrix  can be decomposed into these 3 components.  
+This is spectral noise and this is the external sec tion including the influence of moisture XQ  
+and this is the XP which is target soil properties up in our case it was clay . So, the useful part 
+this is only the  useful part can be computed by the difference matrix, what is the difference 
+matrix D, which is the difference between the spectra of the soil with moisture and spectra of 
+the dry soil. So, if we have taken the spectra from moist soil and the same soil which is dried, 
+then we can differentiate the spectra that will give you the difference matrix D.  
+Note that the Q can be calculated from the singular value decomposition which is known as 
+SVD of D and subsequently can be used for deriving the projection matr ix P from this 
+equation, where I  denotes the identity m atrix. So, specifically this S VD helps in  removing the space of the moisture ultimately generating an orthogonal space that remains unaffected by 
+the moisture effect. So, in other way, in other words, basically this  EPO tries to orthogonally 
+project the useful spectral section from that of the mo isture from that section which is 
+influenced by moisture or that is XQ.  
+So, when then the 2 variables are orthogonal projected from each other, then they do not have 
+any interaction among this. So, in this way by orthogonal ly projecting the spectral space  
+using this mathematical procedure of EPO, we can remove the impact of moisture . Notably, 
+the number of EPO components can be derived from the SVD of D , alternatively , Q can be 
+calculated by the principal component analysis of D transpose D, this is D transpose D. So, it 
+should be read as D transpose D.  
+So, if you do the principal component analysis you can also calculate the Q  from this 
+principal component analysis. So, the idea is EPO is useful to orthogonally project the useful 
+part from the non -useful part that is moisture  and in that way we can remove the impact of 
+moisture f or in situ  prediction of soil properties without the influence of moisture .  
+(Refer Slide Time:  20:07)  
+ 
+So, we have used this technology for several scientists have used this technology and we have 
+also used this technology. And we have seen that our result  shows that using EPO method, it 
+was possible to reduce the error introduced by the weight or in situ measurement. So, if we can utilize this EPO, we can reduce the error which w e can get when we scan the sample in 
+situ of course, because in situ samples are having moist moisture and this  moisture can produce some errors. And that error can be reduced if we go with this external parameter 
+orthogonalization.  
+(Refer Slide Time:  20:52) 
+ 
+Scientists have also used a penetrometer mounted VisNIR probe for collecting the VisNIR 
+spectra you can see here Jason  Ackerson et al in 2017 they have used thiss  penetrometer 
+mounted VisNIR probe this is the original picture and the exterior, this i s an exterior picture 
+and you can see this is an interior picture. So, this here is a lamp, here is a mirror and 
+ultimately this is a fiber optic cable. So, as this penetrometer goes inside the soil, the fiber 
+optic cable is getting the soil scan, s o, for from in  situ soil scan.  
+So, for each sampling location visitor spectra were collected in situ using the penetrometer 
+mounted probe and from air dried and ground soil course. So, and then followed by an EPO 
+was applied to in situ VisNIR spectra to remove t he effects of the soil moisture and intactness 
+of the spectra. And after application of the EPO , PLSR  model calibrated using a spectral 
+library containing only spectra from these air dried and ground soil were used to predict the clay content from in situ spectra.  
+Ultimately, they have seen that prior to application of EPO , PLS  was unable to accurately 
+predict clay content from the in  situ spectra. Howe ver, after application of the EPO, PLS  
+performance or in  situ spectra was quite good wit h an average RMSE  and R square across all 
+sampling areas 88 grams per kg and then 0.0, asked values of  0.76. So, it shows that 
+application of EPO in this VisNIR penetrometer mounted VisNIR probe also gave very good R square and remove the inherent error which you can get f rom scanning the soil sample in 
+situ, moist samples in situ.  
+(Refer Slide Time:  22:56)  
+ 
+So, let us see some examples for crop you can see here the use of DRS and chemometrics for 
+water deficit in  rice this research was done in a Das et al  in (2018)  was p ublished by Das et al 
+in 2018. So, what they have done, so, they did a field experiment where we the 16 genotypes 
+and 3 replicates and then they have made the spectral measurement using FieldSpec portable 
+spectrophotometer. And simultaneously they have mea sured the sucrose reducing sugar and 
+total sugar and then they have identified the suitable bands , indices and spectral models.  
+They have proposed to novel indices, RSI which is the ratio of spectral index and normalized 
+different spectral indices , NDSI  and then they have used different models like  artificial neural 
+network, MARS, MLR , PLSR, RF and S VR and then they develop the prediction model and 
+then evaluated the prediction model and then they have used the spectral phenotyping for 
+water deficit stress .  
+So, ultimately, the best performing multivariate models for sucrose reducing sugars and total sugars were found to be MARS , multivariate adaptive regression spline, then artificial neural 
+network and also MARS  and also they produced the RPD values of 2.0, 2.44 and 1.9. So 
+these RPD values are satisfactory. So, this shows the application of DRS and chemometrics 
+can be useful for identification of the water deficit in ric e.  
+So, they have developed these novel spectral indices in near infrared range , one is RSI, which 
+is ratio  spectral index and normalized difference  spectral indices , NDSI , which is sensitive to sucrose, reducing sugars and total sugar content also identified which were subsequently 
+calibrated and validated.  
+(Refer Slide Time:  25:08)  
+ 
+So, another application so, these are the spectral signatures you can see variation in spectral 
+signatures in the rice leave at different waters deficit stress you can see these green one is 
+controlled and the vegetative stress is this one and this is a flowe ring stress. So, you can see 
+clearly see the difference in spectral patterns, when you go from the control to vegetative 
+stress to flowering stress and they have predicted the sucrose and also different other 
+parameters also using different models DRS. So , that shows that use of DRS and 
+chemometrics can be useful for water deficit identification in rice.  
+(Refer Slide Time:  26:02)  
+ They have also recently shown that use of DRS and chemometrics can be useful for salinity  
+stress of rice also. So, this VisNIR  DRS was used for leaf nutrient estimation in rice  under 
+salinity stress  and novel spectral indices in VisNIR range were developed and validated and 
+PLSR  and PCA based machine learning models were evaluated and PLSR  based models 
+provided the superior performances for predicting the salinity stress in rice. So, that shows 
+that different types of abiotic stress can be identified when we combine this  DRS with the 
+chemometric algorithms.  
+(Refer Slide Time:  26:46)  
+ 
+A recent research published by Brackx et a l., they have shown that DRS in crop, diffuse 
+reflectance spectroscopy can be utilized in crop for air quality monitoring. So, in urban areas, 
+there i s air quality is one of the major issues. So, to assess the potential of hyperspectral, this 
+research were trying to assess the potential of hyperspectral tea leaf reflectance for 
+monitoring the traffic related air pollution.  
+So, they have c ollected 29 C arpinus betulus sapling, they were exposed to the environment 
+with either high or low traffic intensity and th e local air quality was estimated by leaf 
+saturation isothermal remanent magnetism and lift chlorophyll content , index specific leaf 
+area which is denoted by SLA a nd water content were determined. And to gain insight in the 
+link between the leaf reflectanc e and air quality , the correlation between this SIRM and 
+several spectral features was determined . 
+And spectral reflectance for wavelength bands in the red and S WIR around the red edge were 
+correlated with the SI RM with a Pearson correlation which you can see very high Pearson correlation coefficient 0.85 negative Pearson correlation coefficient negative correlation was 
+there, but with the R squared value 0.72.  
+So, this is that shows that if we can use the diffuse reflectance  spectroscopic based for 
+captur ing the reflectance from the leaf to identify the air quality . There is a, this is very novel 
+application of DRS in crop.  
+(Refer Slide Time:  28:44)  
+ 
+One of our research in back in 2017, w e have seen that if we can use the diffused  reflectance 
+spectroscop y for algae different parameters for predicting the different parameters in the 
+algae also. S o, for rapid assessment of algal biomass and pigment content also we have used 
+diffuse d reflectance spectroscopy and PLSR  model has produced very good results when we 
+try to predict the chlorophyll A, chlorophyll B and then total carotenoids prediction for 2  
+different algae and we have got very good R  squared. So, that shows the high, wide range of 
+application of DRS  both in soil and crop.  (Refer Slide Time:  29:30)  
+ 
+So, guys, these are the references, I hope that you have gathered some good knowledge, but 
+of course, it is not possible to cover all these application, but I hope that I was able to 
+pinpoint some important advances at important advancement in the fiel d of DRS application 
+for soil and crop. Of course, this will give you the impetus to go ahead and read more papers there are thousands  and thousands  of papers in the field of diffuse reflectance spectroscopy 
+application in soil and crop.  
+So please go ahead and read more and more papers to gain more and more knowledge. And 
+these things will be much clearer to you once you go ahead and read those papers. So, some 
+of these references  which I have utilized in this lecture are given here. But, of course, you ar e 
+requested to go ahead and read some of the papers. And if you find a ny difficulties, let me 
+know, I wi ll be more than happy to answer your queries.  (Refer Slide Time:  30:32)  
+ 
+So, thank you guys. This makes the end of this week 5, and in the next week, we wi ll start 
+with a new topic. Thank you.  

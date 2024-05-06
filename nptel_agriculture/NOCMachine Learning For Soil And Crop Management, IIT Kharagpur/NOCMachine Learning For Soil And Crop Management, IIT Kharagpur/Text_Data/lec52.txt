@@ -1,0 +1,331 @@
+Machine Learning  for Soil and Crop  Management   
+Professor Somsubhra  Chakraborty 
+Agricultural  and Food  Engineering  Department   
+Indian Institute  of Technology, Kharagpur  
+Lecture 52  
+Digital  Soil Mapping  with Continuous  Variables  (Contd.) 
+(Refer  Slide  Time: 0:22)   
+ 
+Welcome friends  to this second  lecture of week  11 of this online  NPTEL certification  course  
+of Machine Learning for Soil and Crop Management . And in this week  we are discussing  
+about  how  to model  and map the continuous  variable  in the digital soil  mapping domain. 
+(Refer  Slide  Time: 0:53)   
+ So, in my first lecture of this week  we have  discussed  some  basic GIS operation, some  codes  
+are remaining  and I am going to discuss  this first and then in this lecture we are also going to 
+discuss  some  of the usefu l packages  for digital soil mapping and then we are going to start a 
+very important  topic  that is mass  preserving spline  and also we are going to discuss  if time 
+permits  for the covariates  and also how to intersect  the covariates  for subsequent  DSM  
+modelling. 
+(Refer  Slide  Time: 1:19)  
+ 
+So, let us just go back  to our previous  course  which  we have  ran in R. So, I have  showed you 
+that how  to use R for producing the , how  to download the  data and  then  how  to download and  
+install packages , how to call those  libraries  and we have  seen how to create the, how to 
+change  the normal  data frame  to spatial  points  data frame and then we have  seen how to 
+convert  that spatial  points  data frame  and give some , give the coordinate  reference  system , 
+proper  coordinate  refere nce system  using the EPSG  code  and how this one map can be 
+reproject  in the Google  Earth by, we  have  already  seen. 
+Now, if you want  to, now next thing is we have  seen that how these shapefiles  are being  
+created , ESRI  shapefile  are being created . So, if you want  to read any shapefile  so the 
+function is readOGR  and then you can give the name  of the shapefile,  so you can see that this 
+is shape file which  is there  in the working folder  with 100 features  and 4 fields . So, the 
+important  shapefile is  now  in the spatial points  data frame . So, just  like this HV 100. Now, we have seen with this vector  data, we have seen different  operation with the vector  
+data so far. Let us see how to deal with the different  raster  data. So, again  let us call this 
+library  ithir and then data. So, here as raster  we are going to use the dem file for that hunted 
+valley  region.  
+So, we are going to use, we are going to call this data HV underscore  dem which  is there in 
+the ithir package and let us see the structure  of the dem. Structure  of the dem is very simple  
+any type of raster  file by the way their format  is very simple , so x y and elevation  so you can 
+see here if you click  on this HV underscore  dem 21518 observation of 3 variables . So, you 
+can see x and y are the coordinates  and the third variable is the elevation . So, using this you 
+can understand that  this is only showing the  surface  roughness  of the earth  surface . 
+So, we have seen the structure , now if we want  to convert , if you want  to plot it again , right  
+now it is in simple  tabular  format , but we have  to instruct  R that you should convert  this table  
+into raster . So, for that the function is raster  from  x y z, so here the original  x y z will be 
+converted  into raster  followed by this  name. S o, we  are giving the  name as  R dot dem . 
+Now, if we want  to just like the vector  file here also we are going to assign  the coordinate  
+reference  system  using the EPSG  code . So, we have  assigned  this now if you want  to plot 
+raster  and then overlay these HV 100 points  you will see that plot, we are going to first plot 
+this R dot dem, so you can see this is the plot of this dem file and then we are going to 
+overlay  this 100 soil data with the size of the character  20. So, you can see here these are the 
+soil samples  and which  are overlaid  over  this dem  file. 
+Now, you can export  in ESRI  ascii file which  is the common universal  raster  format , so for 
+that you can use this write  raster  function and here we are having this rdem  file name, the 
+new file name will be HV underscore  dem 100 dot aac, format  will be ascii file. So, we can 
+create this  new  ascii  file. (Refer  Slide  Time: 6:00)   
+ 
+If you go to your working folder  you will see that this ascii file has been  created  HV 
+underscore  dem 100 dot aac and now you can export  if you want  to see this dem file in the Google  Earth  domain so just like previous  we have  to convert  it to kml file. So, we need  to 
+this project  raster  function. 
+So, again  we are assigning this EPSG  code  of 4326 which  is the EPSG  code for WGS  1984. 
+So, we are doing this and then we are creat ing a kml file which  is HV underscore  dem dot 
+kml file, so this file will be also created  in your working folder . So, you can see that HV 
+underscore  dem dot kml file has been  already  created . 
+So, if you just directly  click  on it you will see that on the google  earth  you will get directly  
+this dem file also. So, this  is how  you develop  the dem file and so you can import  the raster  to 
+R directly , so for that the command  is readGDAL,  so you can directly  read the raster . So, 
+here HV  dem  100 has  GDAL  driver  and it has  215 rows  with  169 columns , you can  see. 
+Now this imported  raster  read dot grid is a spatial  grid data frame, so it is a spatial  grid data 
+frame , the earlier  it was spatial  points  data frame  but it is a spatial  grid data frame , so we 
+need  to convert  it to the raster  layer  class . So, for that you can use this raster  function and 
+then this you can  see that  grid dot dem  is now  a raster  layer . 
+So, this is how you can play with different  types  of vector  data and raster  data. So, in the 
+raster  layer  you can clearly  see the dimension number  of rows  215, number  of columns  is 
+169, so total number  of values  or cells are there 36335, resolution is 100 meter  by 100 meter  
+extent  is given and also the minimum  and maximum  values  are given. So, this  is how you can 
+see, this is the dem, grid dot dem file will look like, the raster  file of this grid dot dem will 
+look like  this.  (Refer  Slide  Time: 9:12)   
+ 
+Now, we are going to see some  of the important packages  which  we require  for the DSM  
+operations  so let us see this important  packages  for soil science and pedometrics  we generally  
+going to use this aqp package  which  is algorithm for quantitative  pedology  and these are the 
+crayon  source  from  where  you can download this package,  it is a collection  of algorithm  
+related  to the modeling  of soil sources  or classification , soil profile  aggregation  and 
+visualization . Next is the GSIF,  GSIF  stands  for global  soil information facility  and it 
+basically  shows  the, it basically  contains  the tools , functions  and sample  data set for digital 
+soil mapping.  
+(Refer  Slide  Time: 9:46)   
+ GIS as there  are two packages  sp package  which  provides  the classes  and methods  for spatial  
+data and the classes  document  here the spatial  location  information  resides  for 2D and 3D 
+data and so you can do different  types  of spatial  operation  in the sp package. Raster  package  
+is also there which  deals  with the manipulating , analyzing  and modeling  the gridded spatial  
+data. You can do different  types  of operation in your raster  file using this raster  package . So, 
+high level  functions  and processing of  very  large files  also supported in  this raster  package.  
+(Refer  Slide  Time: 10:31 )  
+ 
+GIS is specifically  also dependent  on this rgdal package, so and also RSAGA is another  
+package which  provides  the access  to geo computing and terrain  analysis  function of SAGA 
+GIS which  is a software . 
+(Refer  Slide  Time: 10:51 )  
+ Now, for modeling you can use different  types  of packages  like caret  package. Caret  package 
+has extensive range  of functions  for training  and plotting  classification  regression  models . 
+Then cubist  model  is there , C5 model , we will going to discuss  all these . Gam  is basically  
+stands  for generalized  additive  models  we have  already  discussed . Nnet  for neural  network  
+models  and for geostatistical  models , geostat istical variograms  kriging we are going to use 
+the gstat  package.  
+So, for modeling we are going to in this course  we are going to see the classification  
+regression  or decision  tree and then we are going to see the cubist  and also we are going to 
+see how to use the random  forest  to create  the map for continuous  variables . Also we are 
+going to see the regression  kriging which  will be also using this gstat  package. So, all these  
+packages  are really  helpful  for producing the desired  outputs  in digital soil mapp ing and we 
+are going to  see. 
+(Refer  Slide  Time: 12:04 )  
+ 
+And for plotting , ggplot2 all  these are very  important  packages  for DSM.   (Refer  Slide  Time: 12:28 )  
+ 
+Now, let us let us start a very important  discussion that is mass  preserving  spline  but before  
+we go to discuss  the mass  preserving spline  we need  to understand that there are certain  
+issues which  we have to deal with when  we talk about  the digitized  legacy  soil data.  So, 
+remember  that this legacy  data which  I have  already  told you is basically  the data of the soil 
+which  has been  gathered  by standard  laboratory  analysis  and some  of them  are digitized  and 
+some  of them  are not . 
+So, these original  data set which  are measured  and maintained  by different  organizations  for 
+soil is known as the legacy  soil data. But the problem  is all soils are not measured  universally 
+at same depths , sometime  you will see that some  places  will have  the data for 0 to 30 
+centimeters,  some  places  will have  the data for 30 to 60 centimeters  and also some  places  will 
+have  the data from  50 to  100 centimeter . 
+So, the depth at which  this legacy  data is available to us varies  widely  from  one organization  
+to another  organization and within  on one organization also from  one data set to another  data 
+set. So, some  soils are sample  per horizon or at regular  depth. So, basically  you can see this is 
+the soil profile , it has different  horizons  like O horizon, A horizon, B horizon, C horizon. So, 
+some  soils  are sample , one  sample  is taken  from  each of this horizon and  they  assume  that the 
+sample property will represent  the whole  horizon, so this is one issue . 
+Another  issue  is some  soil studies  examine only the top soil while  other  sample  to the 
+bedrock depth . So, sometimes  some  database will have  only the  top soil  information  but some  
+other  sources  may  have up  to this 2 meter  depth or bedrock  depth. T he different  soil attributes  
+are measured  at some  location  and depth but  not at other . So, these are some  of the non-uniformity  issues which  poses  problem  for proper  digital soil 
+mapping and their execution . So, that is a number  of preprocessing  steps  are needed  to fulfill  
+the requirement  of digital soil  mapping.  
+(Refer  Slide  Time: 15:07 )  
+ 
+Now, what  is the soil depth function. So, remember  that the traditional method of sampling  
+soil involves  dividing a soil profile  into horizon like O horizon, A horizon,  B horizon, then C 
+horizon. So, the number  of horizon and the position of each are generally  based  on attributes  
+easily  observed in  the fields  such  as morphological  and soil properties . 
+So, what  happens  the surveyors  or the pedalologies  generally  go to the field and then they see 
+the what  is going, they visually  observe  different  characteristics  features  and then and then 
+define  the different  horizons  and from  this each horizon a bulk sample  is taken and it is 
+assumed  to represent  the average value  for a soil attribute  over the depth interval  from  which  
+it is sampled . 
+So, what  happens  they take 1 sample  from  each horizon and they assume  that it represent  the 
+average value for a soil attribute  over the depth  interval  from  which  it is sampled . However , 
+given soil  properties  are highly variable that  may  not be the true case.  (Refer  Slide  Time: 16:21 )  
+ 
+So, what  is the issue ? Issue is from  the pedagogical  perspective soil generally  varies  
+continuously with depth. However , representing  the soil attribute  value  as the average over 
+the depth interval  of horizon leads  to discontinuous  or stepped  profile  representation . So, it is 
+assumed  that the pedagogical , pedagogically soil properties  varies  continuously with the 
+depth. 
+So, for example, if you want  to have  higher  organic  carbon, organic  carbon  is always  
+generally  high at the top soil and then it decreases  in the subsoil . So, representing the soil 
+attribute  value  at the average  over the depth interval  of horizon  leads  to discontinuous  and 
+stepped  profile  representation .  
+So, what  if one wants  to know  the value  of an attribute  at a specified  depth ? Suppose  I want  
+to have  the value  of a variable at 35 centimeter  depth. So, how do I get that? If I want  to 
+pinpoint  what  is there in  that 35 centimeter  depth, how do I get that? (Refer  Slide  Time: 17:33 )  
+ 
+Another  issue  is difficulty  for DSM  modeling, that is observation at each horizon for each 
+profile  will rarely  be the same between  any two profile , so that is another  issue .  
+(Refer  Slide  Time: 17:57 )  
+ 
+So, due to the problem  this type of problem  we generally  take the help of digital soil mapping  
+or mass  preserving spline . Because we cannot  ignore  the legacy  data, legacy  data is the 
+original  data, which  is avail able to us, which  is measured  using the standard  laboratory  
+methods , so we cannot  no ignore  this legacy  data. So, we need  to derive a continuous  
+function using the  available  horizon data at some  inputs . So, generally  we use the polynomial  and exponential  decay  type of depth function or 
+continuous  depth function like equal  area quadratic  spline  function. So, let us see how this 
+works . 
+(Refer  Slide  Time: 18:34 )  
+ 
+So, this equal  area quadratics  spline  function is also known as the mass  preserving spline . 
+Why it is called  mass  preserving spline ? I will show  you that the original  data is preserved  
+and can be retrieved  again  by integration  of the continuous  spline . So, basically  we fit a 
+spline  from  the top of the soil profile  to the desired  depth generally  for DSM we go from  0 
+centimeter  to 2 meter  depth, we fit a continuous  spline  and then we interpolate  the values  at 
+any given depth.  
+Now, why it is called  the mass  preserving spline ? It is called  mass  preserving spline  because  
+the original  data can be preserved  and can be retrieved  again  via integration  of the continuous  
+spline . So, the spline  parameters  are the values  of the soil attribute  at the standard  depths  that 
+are specified  by the user. And basically  it needs  to harmonize  the soil profile  data and model  
+at a specified  depths . So, how  do I do that , I will show  you. (Refer  Slide  Time: 19:43 )  
+ 
+So, globalsoilmap  dot net project  is there , there  is a project , it is a global  consortium  that has 
+been  formed  that aim to make a new digital soil map of the world  using  the state of the art 
+emerging  technologies  for soil mapping and predicting soil properties  at fine resolution. So, 
+this global soilmap  dot net project  helps  in identifying or producing the digital  soil maps  at 6 
+different  depths , so they have  prescribed 6 different  depths  like 0 to 5 centimeter , 5 to 15 
+centimeter , 15 to 30 centimeter , 30 to 60 centimeter , 60 to 100 centimeter  and 100 to 200 
+centimeter . 
+So, the  maps  for digital soil  mapping are generally  produced at this 6 depths  and we are going  
+to see how we can develop  this maps  for this. So, to deal more  with this profile  spline  
+function or  mass  preserving spline  let us go to  the, let us go to  the codes . (Refer  Slide  Time: 20:53 )  
+ So, you see in this course we have discuss  all these  things  so we are again  going to use this 
+library  ithir and the data we are going to use is called  the one profile  data and let us see the 
+structure  of the one profile  data. So, the one profile  data is having 8 observation and 4 
+variables , so soil id is given, upper  boundary is given, lower  boundary is given and carbon  
+concentration  or carbon conten t is given, organic  carbon con tent is given.  
+So, we can fit a spline  to the maximum soil depth of any depth less than that and so whatever  
+maximum depth information  is you have you can fit the spline  up to that depth from  the top 
+of the profile  to that maximum soil  depth, such  that it will interpolate  the values  both between  
+the observed depths  and between  the depths  where there is no observation. So, interpolation  
+by the nature, by the name interpolation  it says that it can predict  the value  at any given depth 
+between  the two extreme  conditions .  
+So, in this we are going to use a parameter  called  lambda  which  is smoothness  parameter  so 
+we can vary the smoothness  parameter  to see how, to make the spline  more  flexible  or rigid . 
+So, both this extreme have some  pros and cons, so we are going to use this ea spline  function, 
+so ea stands  for equal  area underscore  spline  function, we are going to use this one profile  
+data which  we have already  downloaded, our variable is carbon  and the depth at which  we 
+want  to, we want  to interpolate  is 0 5 15 30 60 100 and  200 and  our lambda  parameter  is 0.1.  
+So, and let us see the structure  of this. So, ultimately  once  we develop  this thing and then we 
+harmonize  the data at this given depths  you can see that it is being harmonized  and the upper  
+boundary, lower  boundary and all these things  and the value s are being generated . Now, how 
+to plot the output  of an ea spline ? 
+So, we  are going to  use this plot underscore  ea underscore  spline  function. So, we  can use this 
+ea fit outputs  for these given  depth, 6 different  depths  remember , 0 to 5 centimeter , 5 to 15 
+centimeter , 15 to 30 centimeter , 30 to 60, 60 to 100 and 100 to 200. And since our maximum  
+depth is  200 will go up to  200 centimeter  depth.  
+So, let us first develop this and one thing you can see here we are using some  index to 
+generate the plot. So, you can see here level  is carbon density. So, here you can see 3 plots  
+are being produced. So, this is the first spline  fitting  and then this is how interpolations  are 
+made at  different  depths , so these are combined together  to get this type  of values . 
+So, this is step representation , this is the spline  representation , using the spline  you can get 
+the values at any given  depth . So, guys  this is how this spline  function can take.  So, here you can see these are some  missing  values  in the one profile  data. So, here there  are some  missing  
+values  but when  you fit  a spline  it can  produce , it can  predict  the variable at  any given dat a up 
+to 200 centimeter  up to which  it has  result , it has  observation. S o, it is  a continuous  spline  and 
+using this  continuous  spline  you can  predict  the parameter  at any given depth . 
+(Refer  Slide  Time: 25:06 )  
+ 
+Now, the next import ant thing is environmental  covariates . Now, I told you about  this 
+environmental  covariates  for doing any type of digital soil mapping you need  to use these 
+environmental  covariates  like either  rainfall  data or terrain  parameters  or different  types  of 
+remot e sensing data.  
+So, I am going to show  you why we go for this, how we download the data and how we 
+intercept  the data in a single  file so that we can use them  for future  prediction of soil 
+properties . So, here we are going to download the covariates  called  edgeroi  underscore  spline  
+carbon . So, the data we are going to use this edgeroi  underscore  spline  carbon data and the 
+structure  of the edgeroi  spline  carbon  data you can see here it is having the 341 observation 
+of 10 variables . 
+So, it has profile  id, then easting  and northing and of course  it has 0 to 5 centimeter  depth  
+organic  carbon values , 5 to 15 centimeter , 15 to 30 centimeter , 30 to 60 centimeter , 60 to 100 centimeter , 100 to 200 centimeter  and soil depth are also given. Now, how to download these  
+environmental  covariates ? 
+So, here we are down,  we are going to download the 5 environmental  covariates  like 
+elevation , then terrain  wetness  index or twi, gamma  radiometric  potassium  that is potassium  
+on the soil surface measured  to gamma  radiometry  and landsat, band 3, and landsat  7 spectral  
+band 3 and  spectral  band 4 values . 
+So, these 5 variables  or environmental  covariates  we are going to use. For the sake of 
+simplicity  here all these  5 layers  or raster  layers  are having the same coordinate  reference  
+system and dimensions  and resolution which  is ideal  for DSM  remember  the support  size 
+which  you have  talked  about . 
+Now, when  there are variable  coordinate  reference system  dimensions  and resolution you 
+have  to use the project  raster  command . Now, here all these are same  so let us call, let us first 
+download this data this is called  edgeroi  covariate data and then let us call this library  raster  
+so if we see this elevation  let us first go with the elevation . So, here you can see this is the 
+resolution 90 meter  by 90 meter , dimension 400, 400 number  of rows,  577 columns  and 
+230800 number  of cells.   (Refer  Slide  Time: 28:03 )  
+ 
+Similarly , if you go to  terrain  wetness  index, so  then  you can  see here the  same resolution just  
+like so 400, 577, 230800, so 90 meter  by 90 meter  resolution, so for all of these  we are 
+having the same resolution landsat  b3 and also landsat  b4 we are having the same  resolution. 
+So, this  will be , now  how  to overlay  them ? 
+So, the procedure  of plot them  or overlay  them  and then extract  their values  together  in a 
+single  file is known as the intersection . So, let us plot this raster  elevation , let us do this so if 
+we plot this raster  elevation  so you can see here this is the elevation  file which  you have  
+plotted  and the coordinates  are of cours e easting  and northing we  can identify , we can instruct  
+R that you should understand this  x and  y are the  coordinates . (Refer  Slide  Time: 29:16 )  
+ 
+Now, if we want  to plot these points  so these points  or sampling  points  are plotted  over this 
+elevatio n raster  layer . Now, remember  that guys  there are 5 different  raster  layers  and we have  to bind them  together  so that we can use them  for future  prediction, for all of these  
+points  from  where these point  data is  available.  
+So, what  happens  sampling points  are there so for the sampling  points  we have  suppose  they 
+have  collected , here you can see 341 observation they have  collected  from  this region and 
+they have  measured  the organic  carbon  say for 0 to 5 centimeter . Now, for this 341 
+observation we need  all these the 5 variable  values  from  these 5 raster  layers . So, how to do 
+that? 
+So, the way to do that is to overlay  and stack  them  together  5 layers  and then intercept  the 
+values  of these 5 variables  for those  all 347 observation. So, we are going to use this stack  
+function and this stacked  and for all these 5 raster  layers  and then we are going to name them  
+as covstack  that is stacked  covariate and let us see how  it looks  like. 
+So, one thing you can see that this covstack  which  is also created  the large  raster  stack  so 
+here you can see the same  dimension 400 number  of rows , 500 number  of columns  and 
+230800 number  of cells. However , here one more  field has been  added  that is 5 layers . So, 
+now we have stacked  all these different , 5 different  covariates . And now we have point  data,  
+we have  extracted  stacked  covariate data, so we want  to combine  them  together  by using the 
+extract  function or in other  words  we have these 5 layers  stacked  together , how to extract  the 
+values  of those  5 variables  from  those  all 341 obse rvations . 
+So, for that we are going  to use this extract  function. So, you can see we are extracting  from  
+the stacked  covariates  and based  on the 341 observation which  are there in the edgero i spline  
+carbon  and our method is simple  extraction . So, we are doing that, so the data has been  
+created , so DSM  underscore  data, it is  also spatial  points  data frame  right  now . 
+But for doing as I have mentioned for doing different  modeling things  we need  to convert  it 
+to the normal  data frame  and so here from  the DSM  data we are converting into the normal  
+data frame so for that the function is as dot data dot frame . So, we are doing that and then we 
+are writing  the table . 
+So, now  you can  see here  DSM  data 341  observation of  15 variables  it is a very, it is  a normal  
+tabul ar format . In this normal  tabular  format  you can see all these first variables  which  are 
+there in the edge roi spline  carbon apart  from  that you can see elevation , twi, radk, landsat  b3, 
+landsat  b4 have  been  combined  so that is the resultant  of these ms , this extraction  and you can 
+write  this whole  file as a txt file by using write  dot table  function.  (Refer  Slide  Time: 33:00 )  
+ 
+And if you go to your working folder  you will see that edge roi soil covariates  underscore  C 
+has been  already  as a text file have  been saved . So, you can use this file for further operation 
+and you can do different  types  of modeling which  we are going to see in our upcoming  
+lectures . 
+(Refer  Slide  Time: 33:21 )  
+ 
+So, these covariates  interception  in order  to carry  out the DSM  in terms  of evaluating  the 
+significance of environmental  variables  in explaining the spatial  variation  of the target  soil 
+variables  under  investigation  we need  to link both the sets of data together  and extract  the 
+values  of the covariates  at the location  of the soil point  data. And the first task of course  is to bring to our working environment  and some  soil point  data 
+and then  you bring the  covariate data, stack  them  together  using the  stacked  function and then  
+from  the stack  layer  you extract  those  values  using the extract  function. And finally  you 
+convert  them  into the normal  data frame  for doing all the operations . So, this is how you 
+prepare a final data set for different  types  of modeling, this will be our starting  point  from  
+different  types  of modeling, I will show  you how to do different  types  of quantitative  
+modeling in  our next  lecture.  
+(Refer  Slide  Time: 34:23 )  
+ 
+This is a reference  and I hope  that guys  you have  learnt  something new in this lecture. We 
+will be sharing you all these  codes  and please perfor m these operations , please run this codes  
+to boost  your confidence  and see how these codes  can be utilized  for different  types  of DSM  
+applications . So, thank you for joining and let us meet  in our next lecture where we will 
+continue  from  here. T hank  you ve ry much.  

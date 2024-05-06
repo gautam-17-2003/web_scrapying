@@ -1,0 +1,276 @@
+Machine Learning for Soil and Crop Management  
+Professor Somsubra Chakraborty 
+Agricultural and Food Engineering Department   
+Indian Institute  of Technology, Kharagpur  
+Lecture 03  
+General Overview of ML and DL Applications in Agriculture 
+Welcome friends to thi s third lecture  of week 1 of this NPTEL online certification course  of 
+Machine L earning for Soil and C rop Management  and in this week, we are discussing  general 
+overview of M achine Learning and Deep Learning applications  in agriculture  and in the first 
+two lectures , we have discussed some important concepts .  
+(Refer Slide Time: 00:50)  
+ 
+We have seen  the big data as well as their  storage , shift in storage concept from analog to 
+digital. We have also covered the  basic overview of machine learning and  then art ificial 
+intelligence and  deep learning. We have discussed the  traditional uses of Machine Learning,  
+also we have seen , the supervised. We have also discussed what  is supervised?  What is 
+unsupervised?  What is semi supervised  learning . We have also discussed  what is the  
+difference between a classification  problem as well as a regression problem ? What are the 
+common metrics for  identification , common metrics for  classification accuracy and what are 
+the common metrics for regression accuracy , we have discussed in detail.   
+Now, , today we are going to start from the  reinforced learning, which is  reinforcement 
+learning which is another  very important type of  machine learning . And w e also use this  in 
+different sectors nowadays  starting from gaming and other  applicat ions also. So,, let me go 
+and start from  the reinforcement learning .  (Refer Slide Time: 02:15)  
+ 
+Now, , reinforcement learning if you see it  deals with how  intelligent  agents can take actions 
+in an  environment in order to maximize the  notion of cumulative  reward  so this is a very 
+important  concept under machine learning, again it here the agent  basically deals with some 
+actions in an  environment  in order to maximize the notion of  cumulative reward to achieve a  
+particular desired goal . And w hat are the, who  uses this reinforced learning ?  
+Reinforcement learning are used by various softwares and machines to find the best possible 
+behavior or path it  should take in a specific situation to  achieve a specific goal . So, it is 
+basically a trial and error  kind of t hing,  so different types of softwares and also gaming 
+consoles and gaming programs  basically use this reinforcement  learning  to determine the best 
+possible path to achieve an objective. L et us see some examples .  (Refer Slide Time: 04:03)  
+ 
+So,, we have an agent and a reward , suppose  there is a game where we have an agent  and a 
+reward with many hurdles in between . So,, this agent is supposed to find the  best possible 
+path to reach  the reward and the following problem you can see this following problem give s 
+a very good example of reinforcement  learning. You can see this is the agent  and there are 
+different ways through which it can reach into the final  target that is this diamond .  
+So, these agent s can take different path to reach , however there  are some hu rdles also  and 
+while taking a suitable path or best  possible path this best possible path is  determined by 
+cumulating the  rewards  which is beneficial or which is  conducive for achieving this final  
+objective . So, it can take different paths to reach  here, but the best possible path will be  
+judged by a trial and error method so that it can have the maximum rewards  awarded to reach 
+this path .  (Refer Slide Time: 05:28)  
+ 
+Similar example  we can see in case of chess  playing. So, in case of computerized chess  
+program  it learns through reinforcement  learning and most of us already know  this game 
+which we  played in our in our childhood this is  Super Mario which is a very famous  video 
+game and in this Super M ario also  Mario learns by reinforcement learning  how to re ach its 
+particular objective  by avoiding these hurdles , which are there in this path. So, these are some 
+very good examples of  reinforcement learning and reinforcement  learning has both positive 
+sides  and negative side we are going to discuss .  
+(Refer Slid e Time: 06:18)  
+ 
+So, what are the basic frameworks  of reinforcement  learning ? If you see the basic framework 
+of reinforcement learning here an agent  takes action in an environment , suppose  this is an environment and in this  environment  this agent takes an action  in an environment , which is 
+interpreted  into a reward and a representation of  the state . So,, here there is an  interpreter who 
+interpret whereas  this agent is action  should be rewarded or not and it gives  an interpretation 
+of the state and  which are feedback into the agent .  
+So, again,  the agent makes an  action , action goes to the environment  and the interpreter 
+determines whether  this should be , this agent should be given and reward or there should be a 
+punishment  and then represent and gives  the representation of the state which  are feedback 
+into the agent and then it  learns . So, this is how this reinforcement  learning basically works .  
+(Refer Slide Time: 07:30)  
+ 
+So,, i n the reinforcement learning what are the inputs ? Inputs are should be initial  state from 
+which the model will start, this is the input . Whereas  what is output , in case of reinforcement  
+learning there  are many possible output as there are  variety of solution to a particular  
+problem . So,, j ust like in a chess  game there are different t ypes of solution to achieve a 
+particular objective , different  pathways through which you can move your king and queen 
+and other pawns and other things  for achieving a particular  objectives there are different 
+ways , but the output in case of reinforcement  learning are various .  
+What is the training in this case ? So,, the training is based upon the input , the model will 
+return a state and the user  will decide whether to reward or punish the model based on the 
+output . So, here the model learns by  determining w hether its action should be given a reward 
+or punish and this reward and punishment is based on how  better this solution is to achieve a  
+particular objective and remember  during this reinforcement learning this  model keeps continues to learn . So, there is a continuous  learning procedure in this case of  learning 
+especially reinforcement  learning .  
+The best  solution is decided based  on the maximum reward, so there could be  number of 
+solutions  for achieving. In case of S uper Mario there could be number of ways  through which 
+we reach our final outcome  but the best solution is based on the  maximum reward . So, as I 
+have told in the description of  the reinforcement learning  the best solution is determined by 
+trial and error  which gathers the maximum reward . So,, t his is a very important point while 
+we discuss the reinforcement learning.  
+(Refer Slide Time: 09:50)  
+  
+Now, , what are the differences between  reinforcement planning and supervised learning ? So, 
+if we see in case of reinforced  learning, reinforced learning  is all about  making decision  
+sequentially . In simple words we can say  that the output depends on the state of  the current 
+input and the next input  depends on the output of the previous  input . So, this is very very 
+input , I am sorry very very important .  
+So, again in simple words we can say that the  output depends on the state of the  current input , 
+so whether we are giving a reward or  punishment is based on the state of the  current input 
+and the next input depends  on the output of the previous input . Howeve r, in case of 
+supervised learning it the decision is made on the  initial input or the input given at the  start .  
+So, in case of reinforcement learning  these inputs are continuously changing and the model is 
+continuously learning, however in case of supervi sed learning  since both the inputs and outputs are  labeled here inputs are fixed , so decision is messed based on the initial  inputs or 
+the initial inputs given at the start of the modeling exercise .  
+Now, , in reinforcement  learning decision is  dependent , so we give labels to the  sequence of 
+dependent decisions . This is  a very important point , again as I  have told you that  the output of 
+the next input in a sequence depends on the output of the previous input , so that  means in 
+case of reinforcement learning  the decision is always dependent , so we  give labels  to the 
+sequence of dependent  decision .  
+However , in case of supervised learning the decisions are independent of each other , so labels  
+are given to each  decision.  Some examples are given in case of super  reinforcement learning 
+as you can see chess game is a very good example of  reinforcement learning , however in case 
+of object data recognition it is an  example of supervised learning.  
+(Refer Slide Time: 12:11)  
+ 
+So, what are the two  types of reinforcement  learning ? There are two  types , one is called the 
+positive reinforcement  learning, another is called negative  reinforcement learning . Now,,  
+what is positive reinforcement  learning ? In case of positive  reinforcement learning when an 
+event  occurs due to a part icular behavior  increases the strength and frequency of  the behavior 
+in other words it has a  positive effect on the behavior  or in other words  when an event occurs 
+due to a particular  behavior  and helpful for  achieving an objective that is called  positive 
+reinforcement learning.  
+What is negative ly reinforcement learning ? Negative reinforcement learning  strengthens  the 
+behavior because a  negative condition is stopped or avoided. So, we know that this is not rewarding , in case of reinforcement learning we kn ow that which one  of our step is rewarding 
+and which one  is not  rewarding .  
+So, the one which is not rewarding we will learn it and that gives us more  strength to avoid or 
+stop that kind of situation in the next  sequence. So, this is called the negative re inforcement 
+learning . Now,,  both positive reinforcement learning as well as negative reinforcement  
+learning has some advantages and  disadvantages also .  
+(Refer Slide Time: 13:41)  
+ 
+So, if we talk about  the positive points , the advantages of the positive  reinforcement learning 
+is, first of all  in case of positive reinforcement  learning it maximizes the performance  
+however in case of negative  reinforcement learning it increases the behavior . And i n case of 
+positive learning, it  sustains  change for a long peri od of time ; however,  in case of negative  
+reinforcement learning provide defiance  to minimum standard of the performance . So, these 
+are the different types of advantages  of positive reinforcement learning and negative 
+reinforcement .  
+However , there are  some  disadvantages also , now too much reinforcement in case of positive  
+learning can lead to overloaded state  which can diminish the result . So, this is  one 
+disadvantage , another disadvantage in case of negative learning is only provides enough to 
+meet up the minimum behavior . So, we only know  how to avoid the minimum standard of 
+performance and we get only the minimum , enough to meet up the , we get only the  required 
+information enough to meet up our minimum behavior . So, these are  the different advantages 
+and disadvantages  of reinforcement learning .  (Refer Slide Time: 15:14)  
+ 
+Now,  what are the different reinforcement  learning application students ? So, there are 
+numerous  reinf orcement learning applications I  already told you in the gaming, in the  chess  
+game as well as in robotics for  industrial automation as you can see in this picture , there are 
+application of  robotics in the industrial application so that learns by reinforcement learning . 
+Machine learning and data processing and also training system that pro vides  the custom 
+instruction and materials  according to the requirement of the  students  are also , they also learn 
+through reinforcement  learning.  
+So, reinforcement learning is a very powerful tool of machine learning and which is  sensitive 
+to the outcome of the  interaction with its surrounding environment and it continuously learns  
+to get the maximum possible output  through the maximum r ewarding pathway. So, this is 
+how this reinforcement learning has got tremendous importance in the contemporary machine  
+learning applications .  (Refer Slide Time: 16:36)  
+ 
+Now,  if we see the basic framework  of a machine learning  as a whole,  the basic overview of  
+machine learning system  these gives you a very good understanding. So, in any machine 
+learning framework  there ar e two phase s. One is called the  testing phase or calibration phase  
+another one is called , I am sorry , one is called the training  phase or calibration phase , another 
+one is called the testing phase or validation  phase .  
+So, first we starts with the training  data and we do some preprocessing and feature  extraction 
+and selection  and both this combined preprocessing and feature selections are known as the 
+feature engineering  and finally we develop a training model  based on the selected features or  
+extracted features . Now,  how to test this training model ? To test this training model again we  
+take some testing samples ?  
+Testing  samples can be drawn from a number of  ways through either randomly or totally  
+independent samples or by randomly dividing the samples or by clustering the samples based 
+on some kind of  similarity . So, once we decide the testing sample these testing samples  are 
+required to to judge  the robustness of the training models . Sometime trading models are very  
+optimistic however , testing fails  misera bly. So, t hat is why we do already  always we do the 
+testing for judging the  model robustness .  
+So, you can see that just like in case of  trading phase also , we also do the feature engineering 
+in the testing phase also . Just like the  training data we also d o you know  preprocessing as 
+well as feature extraction or selection in case of  testing phase . So, t his is the basic  overview 
+of the machine learning system .  (Refer Slide Time: 18:47)  
+ 
+So, f or converting the raw complex data  into a suitable state a prepr ocessing  effort is 
+required . So, I told you that  there are some pre -processing of data is  required , preprocessing 
+could be of  hundred types, either you can clean the  data or you can remove the  inconsistent or 
+missing items or you can do some data integrati on when many data  sources are there, you can 
+do data  transformations such as normalization and discretization , you can do box cox  
+transformation , you can do centering and scaling of the data , there  are lots of ways through 
+which you can do transformation of the data.  
+Either you can take logarithmic for log normal  data you take  logarithm of the data and then 
+log of  data and then you use that data and also you can also do some box cox transformation , 
+also you can do centering and scaling to prepare your data  before  executing the model , also 
+you can do some  data integration data integration means if there are multiple sources we in  
+the later phase of this course you will  know about sensor fusion.  
+Now,  in the  sensor fusion what we do we basically concatenate o r we can combine the data 
+from two or three  different sources together and we make a large data set and  this large input 
+data set is further  used to as an input in subsequent  machine learning applications . So, data 
+integration is another preprocessing also in case of spectral methods which  we are going to 
+discuss  in the later phase of this course you will see that we are doing different  types of 
+spectral preprocessing for  increasing the signal to noise ratio.  
+So, there are different ways and also,  we can  clean the data when there are some 
+inconsistencies , if there are some outlets  we sometime remove the data which will affect the 
+results , so there  are different types of methods which we  use to treat our data  before we go for feature extraction and  model dev elopment . So, these are called  the pre-processing  step, 
+sometime we call  also data pre -treatment step, so this  pretreatment step is very very 
+important  and it is a subset of the whole feature  engineering step .  
+(Refer Slide Time: 21:23)  
+ 
+Now,  let us  see w hat is the extraction and selection  feature step ? So, in the extraction and 
+selection feature step it aims at  creating or identifying the most  informative subset of features  
+in which subsequently the learning model  is going to be implemented throughout  the training 
+phase . Sometime you will see  that after doing the pre -processing of the data , sometime there 
+are multi collinearity .  
+What is  multi collinearity  we will discuss in our subs in our  coming lectures , 
+multicollinearity means  when in the inputs or the  features are highly correlated that creates 
+problem , so overfitting that means over optimistic  performance of your training model is  
+sometime depends on incorporating huge number  of correlated variables or unnecessary  
+redundant variables . So, do we need a ll the thousand variables or inputs  or features while 
+running a specific  model , the answer is no .  
+We want our model to be as simple as  possible so for this we do some kind of extraction or 
+feature selection . In extraction and feature selection  process  it extracts or select only those  
+important features , which are generally non- correlated  and which gives the information or  
+required information or distinct  information for our target analyte and then we use those 
+extracted features in  our subsequent machine l earning model or  deep learning model .  So, this is how we do the feature selection or extraction and  it creates an identify most 
+informative  subset of features , it does not  necessarily will take the whole input features it will 
+only select a subset of the features , which are enough informative  to generate a meaningful 
+and robust  machine learning or deep learning training model specifically in  the training 
+phase . So, this is called the feature extraction and selection , remember both  these 
+preprocessing as we ll as the  feature extraction selection are known as the feature engineering  
+step, which is the  intermediate step between the inputs as well as the training model .  
+(Refer Slide Time: 24:08)  
+ 
+Now,  what is feedback loop you can see  here there is a feedback loop ? Feedback loop gives 
+the adjustment pertaining to the  feature extraction  or selection unit as well as the  
+preprocessing one that further improves the overall  learning model performance . So, once we 
+do once we incorporate the training model  and then we  do the preprocessing feature  
+extraction and then we go for the  training model development and we see  the model 
+performance by using some of  the matrices , which we have already  covered in our last 
+lecture. So, using those matrice s we can see whether our  model is robust or our model is good 
+or bad.  
+Based on that we can further  loop around and we can further see  whether we can do some 
+other type of  feature engineering so that  more informative knowledge or more  informative  
+subset of the total features can be further extracted for improving or  augmenting the model 
+performance. This is a very important step  of that is called feedback loop and testing and 
+validation are , as I have already told you that  unknown samples are imported to the train ing 
+model.  And all those unknown samples a  subset of samples under go through the  same process of 
+feature engineering  as the training samples did and then it determine whether your  training 
+model is perfect or not whether  your training model is good or bad, so which are usua lly 
+represent as a  feature vector , so generally in case of  testing and validation we generally use  
+them as a feature vector and then put in  to incorporate into the model to see  their performance 
+and then finally validate whether our model , machine learning  model is robust or not .  
+(Refer Slide Time: 26:09)  
+ 
+So, deep learning, so we have completed  the machine learning now  we are going to see some 
+definition and some  description of the deep learning. We will be very very brief in this  
+because in the subseque nt weeks we will be discussing them in details . So, deep learning it is 
+a sub field of  machine learning as I  have already told  in our previous lectures . It utilizes an  
+alternative architecture via shifting the process of  converting raw data to features  that is 
+feature engineering .  
+So, in case of deep learning this feature  engineering step is shifted to the  corresponding 
+learning system and so  the feature extraction and selection  unit is absent in case of deep 
+learning  resulting in a fully trainable system  and it starts from the raw input and ends with the 
+desired output . So, this is  also same in case of deep learning  however this feature engineering 
+step is not present in case of deep learning  model , and ultimately results in  fully trainable 
+system . 
+So, guys  I hope that you have learnt  something new in this lecture , you have  learned what is 
+reinforcement  learning and then what are the features  of the reinforcement learning , you have  
+seen the applications of the  reinforcement learning , what are the positive a nd negative reinforcement , what  are the differences between  reinforcement learning and supervised  
+learning  and also  we have seen the basic  machine learning system , what training phase , 
+testing phase then feature engineering which is composed of  both featur e selection as well as  
+data preprocessing and also different  types of data preprocessing in broadly.   
+Also, we have seen what is the calibration and how we can calibrate,  how we can validate the 
+model using the  testing data set and we also have a  basic ove rview of deep learning where  
+this feature engineering step is absent . It has been , it is shifted and  resulting in a fully 
+trainable system , some examples of deep learning methods  are artificial neural network,  
+convolutional neural ne twork, and recurrent  neural netwo rk.  
+We will see  them in details in our subsequent , in our  in our upcoming lectures , but I  hope that 
+you have some basic understanding of  these techniques and let us meet in our  next lecture to 
+discuss them , to start from here and then we will discuss some more about the deep learning 
+and then we will enter into the application  of machine learning in the agriculture  sector and 
+how and what are the  different types of application focusing on crop and soil we will learn in  
+details . Thank you very muc h.  

@@ -1,0 +1,340 @@
+Machine Learning for Soil and Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology Kharagpur  
+Lecture 24  
+Diffuse Reflectance Spectroscopy: Basics and Applications for Crop and Soil (Contd.)  
+(Refer Slide Time:  0:21)  
+ 
+Welcome friends to this fourth lecture of NP TEL of week 5 of NP TEL online certification 
+course of M achine Learning for S oil and C rop Management. And in this week, we are 
+discussing or this is week 5 and in this week we are discussing Diffuse Reflectance 
+Spectroscopy;  its basics and application for crop and soil. So, in our previous 3 lectures, we 
+have discussed some of the important aspects of diffuse reflectance spectroscopy, we have 
+seen the hyperspectral remote sensing , the hyperspectral data cube, and then we have seen 
+that resolution of varying resolution from panchromatic to multispectral to hyperspectral and ultraspectral data.  
+We have seen what is soil spectroscopy, how we can generate the soil spectral library, then  
+we have seen different spectral pre- processing , different spectra of spectroradiometer 
+commercially , available spectroradiometer s, we have also seen several foreoptics like 
+different probes of commercially available soil spectrometer . We have also seen th e spectral 
+resolution sampling interval all these definitions.  
+So, in the last lecture, we have started discussing about spectral pre -processing, which is the 
+first step of the spectral analysis and we have seen how to convert from wavelength from 
+nanomet er to wave number and then spectral trimming is we have seen , we have seen  the moving window average and then standard normal variate , continuum removal , detrending, 
+multiplicative scatter correction. So, all these different types of spectral processing we  have 
+seen and we have seen what are their benefits also . Also we have seen Savitzky -Golay  
+filtering for smoothing the spectrum.  
+However, one of the major pre -processing for contemporary spectroscopic application is 
+derivative spectroscopy. So, today we a re going to discuss the derivative spectroscopy and its 
+application , also the advantages of derivative spectroscopy. Why we go for derivative 
+spectroscopy, we will see what are the reasons and finally, we wi ll see some examples of soil 
+based we will  see so me DRS application for soil property prediction.  
+(Refer Slide Time:  3:20)  
+ 
+So, these are the concepts which  we are going to cover in today’ s lecture in t his lecture, 
+lecture number 24 a nd in this lecture, we are going to first cover the derivative spectr a and 
+then we are going to cover some of the classical application or classical paper or VisNIR 
+DRS s oil applications.  (Refer Slide Time:  3:43)  
+ 
+These are the keywords which we are going to discuss today. W e are going to see the 
+application of Boosted R egression tree, then clay prediction , first derivative spectra , 
+inorganic carbon and also variable indicators.  
+(Refer Slide Time:  4:01)  
+ 
+So, if we see that derivative spectroscopy , now, why we go for the derivative spectroscopy?  
+So, derivative spectroscopy is basically converting the raw reflectance spectra to the first 
+order and second order derivatives with respect to the wavelengt hs. Now, why do we do that, 
+we do that basically to increase the signal to noise ratio or to remove the noise. There are 
+certain other benefits of using the derivative spectroscopy which we are going to discuss. But the basic fundamental assumption behind doing the derivative spectroscopy is to increase the 
+signal to noise ratio.  
+So, also when you go for the derivative spectra , it removes both additive and multiplicative 
+effects on the spectra. So, whe n you go for the first deri vative of reflectance spectra, i t 
+detains  the spectrum. So, first let us discuss why you go for the spectral derivative.  So, 
+generally spectral derivati ve is generally , derivative spectroscopy relies on developing the 
+first and second derivative of the raw reflectance spectra and then question comes why we go 
+for this ?  
+We go for the first the major reason for doing the derivative pre -processing  is to inc rease the 
+signal to noise ratio. So, apart from increasing the signal to noise ratio, the derivative spectra also removes both additive and multiplicative effects on the spectra. So, in case a first 
+derivative , when you go for the first derivative , it detrends the spectrum and we have seen 
+what is the benefit of detrending i n our previous lecture. So, first derivative helps in 
+detrending the spectra.  
+Now, computing the derivatives of a spectrum is usually perform ed unde r trimming or initial 
+smoothing. So, you know what is the initial smooth ing, s o initial smoothing generally we can 
+perform with the  Savitzky- Golay  filter and then we can trim the data from 350 to 490 
+nanometer and then from 2451 to 2500 nanometers. So, we can trim these to  extreme and 
+then we  can go for subsequent machine learning models. S ometimes when you go for the first 
+and se cond derivatives with the Savitzky- Golay  filter itself, then an initial smoothing is not 
+necessary.  
+So, generally we go for the first derivatives of the reflectance spectra then followed by the with the Savitzky -Golay  filter then filtering then then initial smoothing we generally avoid. 
+So, there  are we can either take the first derivative, we can either take the second derivative;  
+from my own experience, I can tell t hat in most of the application first derivative works 
+better.  (Refer Slide Time:  7:39)  
+ 
+Now, the question is how this first  derivative increases the signal to noise ratio. So, you can 
+see this is an original raw reflectance spectra of a soil and this is  the first derivative spectra of 
+the same soil. So, you can easily see that the broad spectral features are almost absent in the 
+in the in this derivative spectra plot and we can se e the signal to noise ratio has increased 
+greatly. So, our idea of behind t his derivative , generating the radiating spectra is to increase 
+the signal to noise ratio .  
+(Refer Slide Time:  8:16)  
+ 
+A similar application you can see in Morgan et al,  2009, who showed that there are different 
+types of spectrum . You can see this is air  drying spectrum, this dashed line, then a ir dried  
+intact spectrum and also field moist intact and feel mo ist intact smeared spectrum , you can see different types of spectrum from the soil, that basic shape is same. However, when you go 
+for the generating the derivatives the first derivative of the reflectance, then we can see this is 
+these are the first derivative of the reflectance.  
+So, you can see the spectral shape has been completely changed and we can see some of the 
+important spectral features which are arising after this first derivative reflectance conversion. 
+So, the idea is increasing the signal to noise ratio.  
+(Refer Slide Time:  9:07)  
+ 
+Now, the question comes what how we can calculate the derivative. So, you can see that here 
+the derivative is b asically the changing in the reflectance over a bandwidth . So, just, s o, 
+increasing the band increase, changing the reflectance over a bandwidth where this 
+bandwidth is denoted by delta lambda , where delta lambda equal to delta j minus delta  i 
+where lambda j is greater than lambda i. Now, this delta lambda could be any value  and so, 
+the nth derivative can be calculated by using this formula given by Tsai and Philipot . So, 
+there are a couple of reasons for which we go for the derivative spectroscopy.  
+First of all, to increase the res olution, second, we want to remove the background and also 
+noise filtration. So, you can see one example here, this is an absorbance peak and from this 
+absorbance peak, you can see this is the first  derivative, this is a second derivative , this is a 
+third derivative and this is a fourth derivative . So, as we are increasing the derivative, the 
+number of peaks are also increasing. So, in that way we are increasing the resolution.  
+So, here you can see this is one only one feature spectral feature, we can see in first 
+derivative, there are 2 features . In case of second  derivative there are 3 features , in case of third derivative 1, 2, 3, 4 features so and so forth. So, as we are increasing the derivative, we 
+are having much more infor mation gathered from the derivative  spectrum.  
+(Refer Slide Time:  11:00)  
+ 
+Now, also you can see here another example , another important aspect of derivative 
+spectroscopy is when you go for the , from the when we change it from the absorbance to 
+derivative then you can see that it separates to analyze with a similar lambda max value. So, 
+you can see here the 2 analyte with the similar , similar lambda max values were actually 
+overlapped, but they are separated when you go for the conversion from absorbance to the 
+derivative .  
+Also you can see suppression of broad bands. So, here you can see the broad band is 
+suppressing these smaller spectral features, but when we go from the absorbance to first 
+derivative  between second  derivative  these smaller features is getting much more resolved. 
+So, we can see these smaller features and then the suppression is also going down in each of these subsequent derivatives. So, this is how it is clear that why we go for the derivative of , 
+why we go for the derivative spectroscopy for pre-processing the spectrum and why it is very 
+helpful.  (Refer Slide Time:  12:32)  
+ 
+So, generally we take the first derivative or different types of other spectral pre -processing as 
+we have discussed. Another one is discrete wavelet transform , wavel et is a small wave  like 
+function. So, these wave  like function generally we move these any these wavelet function 
+can be defined in terms of locational parameter as well as scale parameter and by changing 
+the location and also the scale parameter, we can f it any minute change in the spectral data 
+and we can match the wavelet with any minute  change in the spectral data and then we 
+convert it into a 2 dimensional plot we call it wavelet convers ion plot.  
+And from there also it i s when we go for the wavelet tr ansform, we generally successively 
+decompose the spec trum into a number of scales  and each of these scales that have, are 
+having a number of coefficients using these wavelet coefficients we can selectively remove the noise which is there in the spectra and  we can go for the subsequent machine learning 
+application.  
+So, what are the subsequent chemometric and machine learnin g applications we generally 
+use? W e generally use the stepwise multiple linear regression which is also partial least 
+square regression, this is the most widely accepted method or utilized method to deal with the 
+spectral data, then principal component regression, then penalized spline regression, GAM  
+regression , random (())(
+ 14:15),  support vector machine, artificial neural network then a lso 
+ant colony optimization and so on s o forth. So, there are multiple ways through which you 
+can deal with the spectral data.  (Refer Slide Time:  14:33)  
+ 
+Now, of course, the basic assumption of spectroscopic analysis , so as spectroscopic analysis 
+comes from the fact that in the visible near infrared region , the most of the spectral features 
+that their combination bands and overtones are appearing in the visible to near infrared range. 
+So, let us see what are those spectral features ?  
+Now Vis carra Rossel  and Behrens,  one of their classical paper published in Geodarma in the 
+year 2010, t hey have compiled a table and from different sources, where they have mentioned 
+what are the spectral signatures for different soil components, which can be captured by the visible near infrared spectroscopy.  
+So, we can see here for iron oxides like goethite, hematite, you can see that most of these are 
+can be identified in the visible range like 434, 480, 650, 920 and so on and so forth. So, 
+basically the mod e is electronic  transition and so this, due to this electronic transition, these 
+wavelengths are very much sensitive to these  goethite, hematite .  
+Water, you can see that, the hydroxyl you can get the VisNIR wavelength at 1915 nanometer, 
+then 1455 nanometer and these are the VisNIR mode . So, hydroxyl you can also get at 1400 
+nanometer . In case of kaolin minerals , kaolin doublet you can get 1395, 14 15, 2160, 2208 and 
+so on s o forth . (())(16:30)  you can see the smectite at  2206 and then 2230. I n case of 
+carbonates , you can get it from 2336. So, in case of organics like aromatics , aromatics you 
+can get at 16 50 nanometer and then 1100 nanometer , 825 nanometer .  
+Amine can be found in a 2060, 1500 and then 1000 nanometer , alkyl asymmetric, symmetric 
+doublet you ca n see at 1706 nanometer and then so on s o forth . Carboxylic acid , you can get at that 19 30 nanometer . Amides  you can get at 2 033 nanometer . Aliphatics, you can get at 
+2275 nanometer , methyls  you can get at 2307, phenolics at 1961, polysaccharides at 2137 and 
+carbohydrate s at 2381.  
+So, it is quite clear that it is quite clear that most of the inorganic mineral minerals as well as 
+the organic components in the soil like oxides as well as the clay minera ls and organics are 
+heavy, they a re defined spectral features in the Vi sNIR zone which can be identified by this 
+the VisNIR DRS and mostly in the VisNIR DRS as I have already mentioned, they are not 
+the fundamental vibration, they a re basically the overtones and also the combination bands.  
+(Refer Slide Time:  18:10)  
+ 
+Now, al though there are 1000s and 1000s of application for different soil properties. In this 
+lecture, I will confine myself to discussing some of the important publications and some of the classical papers regarding the VisNIR DRS soil applications. So, one of t hese classical  
+paper appeared in the journal G eoderma in 2006 published by Brown et al  and they have 
+collected around 3768 sample from all 50 US states and 2 tropical territories and an 
+additional 416 samples from 36 different countries in Africa and the A mericas and Europe.  
+So, after collecting the samples, then they have used the Boosted Regression tree model 
+which is a tree base model , you know  what is a tree base model. So, they have used Boosted 
+Regression tree model and also the partial least squares  regression model to model several 
+soil properties and they have seen that the Boosted Regression tree perform better than PLSR in that case, in predicting the soil properties you can see here they have predicted different soil properties like clay  and als o is catenation capacity, soil organic carbon, then inorganic 
+carbon and also the FED they have predicted using the VisNIR DRS.  
+So, the predicted ordinal clay mineralogy levels for montmorillonite and kaolinite with 88 
+percent and 96 percent  accuracy, they have also used they have also got 80 percent, 96 
+percent accuracy for predicting the montmorillonite and kaolinite using the spectral data. So, 
+you can see that prediction accuracy varies from one property to another property for 
+example, in case of clay  we are getting 0.91 R  squared values . In case of CEC, we are getting 
+0.83, in case of organic carbon we are they have got 0.87, in case of inorganic carbon they 
+have got 0.86 and in case of FE D they have got 0.77.  
+Although the accuracy varies from one pr operty to another properties . In general , it can be 
+seen that the VisNIR DRS has satisfactorily predicted most of the tested soil properties. So, it 
+is one of the classical paper and in the field of VisNIR DRS soil application .  
+(Refer Slide Time:  21:06)  
+ 
+Another classical paper was published by Viscarra Rossel et al  in the year 2006. And they 
+have compiled a table showing the application of this diffuse reflectance spectroscopy in predicting many soil properties, you can see here starting from the exchangeable acidity to 
+from biomass to inorganic carbon to carbon then C N ratio, CEC, then calcium , copper , 
+electrical conductivity , iron, potassium, then magnesium , lime requirement and also 
+magnesium , then nitrogen mineralized nitrogen , then potentially minera lizable nitrogen, 
+active nitrogen, organic nitrogen, total nitrogen, organic carbon and then huge organic matter , 
+phosphorous, pH .  So, those the application of DRS, which has started back in 1990s they have compiled all the 
+literature together for which w e tried to predict the soil properties up to 2006 and they have 
+compiled this table and not only they have compiled this table , from this table, we can see 
+which spectral region was utilized because you will see the most of the application focused 
+on VisNI R some applied the NIR, MIR mid  infrared  region and also the spectral range they 
+have utilized is also mentioned then the multivariate method they have used is also mentioned and then calibration validation R squared values are also given here , RMS E values  are given 
+here. So, it shows it gives you a complete picture of the history of diffuse reflectance spectroscopy application in soil from 1992 up to 2006.  
+(Refer Slide Time:
+ 23:21)  
+ 
+So, it was it is one of the classical paper in the VisNIR DRS soil domai n. Also you can see 
+that pH , clay, sand, silt and several other properties , zinc extracted by (())(23:34)  extraction. 
+So, all these they have compiled and they have shown the application of DRS using different 
+spectral region like MIR, VisNIR and they have  shown the multivariate method also. So, w e 
+can have an idea about what are the soil properties which are very much us eful, which are 
+very much sensitive to these spectral methods.  
+ And we can see that clay, sand, silt  and then organic carbon and many othe r soil properties 
+are sensitive to the spectral methods and the spectral method has a widespread application for 
+predicting the major important soil fertility and pedological properties for their rapid and cost 
+effective prediction.  (Refer Slide Time:  24:29)  
+ 
+Also, they have showed these combined absorbance spectra from this visible zone and the 
+near infrared zone,  and mid infrared zone. They have used these visible zone from 400 to 795 
+nanometer , NIR from 810 to 2400 nanometer , MIR  from 2500 to 14,286 n anometer and then 
+the whole VisNIR,  MIR  region they have used from 400 to 14,286 nanometer and they have 
+used it.  
+(Refer Slide Time:  25:13)  
+ 
+So, also not only they have used it they have predicted different soil pr operties using these 
+different z ones. They have used both visible zone  and also the NIR  zone  and mid infrared 
+zone  and also combined visible near infrared and mid infrared zone  and they have shown the , their prediction accuracy also, I mean you can see their range, they have seen they have 
+shown the mean and also standard deviation they are range for all the soil properties.  
+So, these are the statistical description of the observed soil data. So, these are the soil data 
+they have tried to predict us ing these individual visible N IR, MIR and combi ne visible near 
+infrared and mid infrared region and they have predicted and they have compared the 
+prediction accuracy using these 3 to 4 different z ones.  
+(Refer Slide Time:  26:25)  
+ 
+Another great application of VisNIR DRS is for soil was soil clay prediction, which was 
+published by Waiser et al  in 2007 in the S oil Science Society of America J ournal, you can see 
+here they have predicted the soil clay content in different conditions. For example, here you can see this is they predicted for air dried ground condition and this is for air dried in situ 
+condition and then field moist in situ condition and also field moist smeared condition .  
+In all these you can see that combining all these you can conclude that for all the applications 
+VisNIR DRS was able to s atisfactorily predict the clay content. O f course, the highest 
+prediction accuracy in terms of R  square was exhibited in case of these air dried in  situ 
+condition, but at the same time, when in field moist condition also they have shown very 
+good results . Not only that, but also they have identified the wavelengths that contributed to 
+significant regression coefficients which are statistically significant.  
+So, this type of s election of the significant wavelengths are very much helpful for future 
+simplifica tion of the prediction methodology as well as for these will be also helpful if somebody wants to develop a future simplified instrument based on only these selected 
+spectral wavelengths.  
+(Refer Slide Time:  28:21)  
+ 
+So, a Morgan et al also has shown the a pplication of VisNIR DRS for predicting the organic 
+carbon and also the inorganic carbon and you can see their results in dif ferent condition like 
+air dried  ground condition, air dried  intact  condition and then field  moist intact  condition and 
+field moist intact smeared condition and in most  of the condition they have seen that VisNIR 
+DRS was able to predict the soil organic carbon satisfactorily.  
+Similar in case of inorganic carbon also in these 4 condition they have shown the R squared 
+values  ranging from 0.70 to 0.85 which shows the adequate accuracy for predicting the 
+inorganic carbon using the diffuse reflectance spectroscopy.  (Refer Slide Time:  29:12)  
+ 
+Another applications Zhu et al in 2010 which was published in Journal of H ydrology they 
+have show n that VisNIR DRS is able to predict the surface soil moisture condition, surface 
+soil moisture and using different z ones like you can see here 1300 for 52, 1450 nanometer 
+and then 1890 to 1990 nanometer and then 2220 to 2280 nanometer they have predicted the 
+moisture content and in all these conditions they have got very good R square values you can 
+see here starting from 0.93, 0.93, 0.93. So, all these conditions they have got a  R squared 
+values of 0.93 which is quite good.  
+(Refer Slide Time:  30:04)  
+ 
+So, another application which was published by one of my student in 2018. In ther e, in this 
+paper , we have tried to we have used 300 soil samples, we have collected from the three catenas of Transylvanian Plain of Romania, and then we did the first derivative 
+transformation and also to calculate we have calculated . After the first derivative 
+transformation, we have calculated the Pearson correlation coefficient, then b iweight 
+midcorrelation, then mutual information based adjacency and then the variable import ance in 
+the projection.  
+So, all these are and their  also combinations. So, these are known as the variable indicators. 
+So, it shows the correlat ion between different variables . So, these variable indicator suite 
+which is basically R, bicor, AMI, VIP and t heir combination was combined with an order 
+prediction selection method which is called OPS  and then we choose the optimum number of 
+spectral variables. So, the idea behind this research was instead of using all the spectral 
+variables from 350 to 2500 nanometer, can we pinpoint a handful of wavelengths, so, that 
+they can give the comparable prediction accuracy or better prediction accuracy.  
+So, we have used this variable indicator suite which is basically composed of these Pearson 
+correlation coefficient , biweight midcorrelation , mutual information based adjacent  metric 
+adjacency and also variable importance in the projection and the ir combinations also and then 
+we have all we have followed the order ed predictor selection approach and then we have 
+selected the optimum number of spectral variables.  
+So, once we hav e followed this methodology and we tested with the partial least squares 
+regression and support vector regression, and we compared the accuracy. So, o ur results 
+indicated that if we combine these va riable indicated with more based wavelength selection 
+followed by support vector regression model, i t will yield superior prediction relative to the 
+full spectrum PLSR  model for all the soil parameters.  
+So, that shows that using full , using these variable  indicator base wavelengths as well and in 
+combination with support vector regression can outperform the partial least squares 
+regression using all the spectral features. Moreover, both PLSR and SVR optimal model used 
+to use the identical based variable in dicators. So, while AMI appeared as the best indicator 
+for 4 soil attributes here we have used clay , total nitrogen , total carbon and loss on i gnition, 
+organic matter ; bicor  was selected as the best indicator for sand and silt.  
+So, this is how we have ide ntified the best processing method I would say for selecting the 
+important spectral variables followed by the best prediction method or chemometric model to 
+give you the optimum result.  (Refer Slide Time:  33:42)  
+ 
+So, this is the total schematic diagram o f this total experiment. So, we have collected the 
+samples from the area and then after collection, we have scanned them using the PSR 3500 
+spectral evolution and then simultaneously we have used the whole spectral variables and did 
+the full spectrum PLSR  model which is traditional and then simultaneously we have used the 
+variable indicato rs and then we have used these O PS order ed predictor selecti on approach 
+and then after the O PS we have selected the number of important specter variables and then 
+we have used these both partial least square regression as well as support vector regression 
+and then we compare the results .  
+We have seen support v ector results are superior to that partial  least square regression. So, 
+ultimately after selecting the best  approac h, we have utilized the Kriging interpolation to map 
+the soil properties special map , to produce the special map of the soil properties.  (Refer Slide Time:  34:53)   
+ 
+So, that shows that this method, s o, these are the prediction models you can see the pre dicted 
+soil properties versus measured soil properties this for sand,  clay, silt, total nitrogen , total 
+carbon and loss on i gnition you can see for total nitrogen and total carbon , loss on i gnition, 
+we are getting high accuracy and we have also selected th e important spectral variables the 
+optimum spectral variables selected by the based variable indicat or.  
+So, we have compared these based variable indicators for using different types of vari able 
+indicators you can see AMI  was selected for most of the soil  prope rties, but for silt and sand 
+bicor  was selected as the most important variable indicator.  
+(Refer Slide Time:  35:42)  
+ Not only that also, we have produced the you can see here this special map of soil properties 
+this is for sand,  this is sand map , clay map , silt map , total nitrogen , total carbon and loss on 
+ignition and you can see one important thing that these special mapping using the spectral 
+model has identified these zone  in the middle as the content of high total nitrogen also total 
+carbon and also loss on i gnition, organic matter. And so, we can see that this was actually the 
+location of a heap of or  pile of ma nure.  
+So, that shows that as expected this area will be dominated by total nitrogen, total carbon and 
+loss on i gnition, organic matter  or soil organic matter. So, that shows that our approach was 
+useful for predicting the special variability of the soil properties and it is a kind of a ground 
+truth which validated that the accuracy of our approach. So, this is these are a couple of 
+examp les of the classical soil science applications of VisNIR DRS.  
+(Refer Slide Time:  37:09)  
+ 
+And hopefully you have learned something new and these are the references which I have 
+used for this lecture. And if you are interested, you should go ahead,  reading  with this, 
+reading these papers to get more and more information regarding this soil application. And let us wrap up our lecture here.  (Refer Slide Time:  37:34)  
+ 
+And we will  start from here. We will  see some more soil examples and then we will  go with 
+some crop applications also in our next lecture. Thank you. 

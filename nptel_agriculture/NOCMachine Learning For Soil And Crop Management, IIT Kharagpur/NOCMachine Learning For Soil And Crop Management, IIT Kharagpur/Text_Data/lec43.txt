@@ -1,0 +1,293 @@
+Machine Learning for Soil a nd Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology  Kharagpur  
+Lecture 43  
+Hyperspectral Remote Sensing and ML Applications in Agriculture (Continu ed) 
+(Refer Slide Time:  00:24)  
+ 
+Welcome friends to this third lecture of week 9  of NPTEL Online Certification Course of 
+Machine Learning for Soil and Crop M anagement. And in this week 9, we are discussing the 
+Hyperspectral Remote Sensing and Machine Learning Appli cations in A griculture, focusing 
+on basically crop and soil.  
+And in our previous two lectures, we have discussed the basics of hyperspectral remote 
+sensing and how it differs from multispectral remote sensing why hyperspectral remote 
+sensing is better tha n multispectral remote sensing, we have discussed and the second lecture 
+of this week, we have discussed different types of hyperspectral sensors , hyperspectral 
+sensors, both spaceborne as well as the airborne hyperspectral sensors.  
+Now, these spaceborne hyperspectral , among the spaceborne  hyperspectral sensors, we have, 
+we have discussed Hyperion, then HICO  then ECOSTRESS  and among the spaceborne , 
+among the, among the  airborne hyperspectral sensors we have discussed AVIRIS and 
+PRISM,  we have seen the fundamental differences between the spaceborne and airborne 
+sensors, we have discussed in details about AVIRIS  and AVIRIS -NG and how these are 
+helpful for capturing huge amount of information for Earth  features.  We have seen that how AVIRIS -NG has been flown in different countries specifically in 
+India, in the phase 1 they have flown to 57 spots and capture the images and in the phase 2, 
+there are 25 priority points. So, we have seen and we are now in this lecture going to discuss 
+some of the important conside ration some of the important features of hyperspectral remote 
+sensing, what are the sensor configuration what is whisk broom  sensor, what is pushbroom 
+sensor, and also we are going to discuss in details about hyperspectral missions in India.  
+And finally, w e are going to discuss how to get the hyperspectral data and how to handle the 
+hyperspectral data.  
+(Refer Slide Time:  02:47)  
+ 
+So, these are the basic concepts which we are going to discuss hyperspectral . So, first we are 
+going to discuss the hyperspectra l mission in India. Then we are going to discuss the sensor 
+principle and then we are going to discuss hyperspectral remote sensing data sources and 
+processing.  (Refer Slide Time:  03:05)  
+ 
+These are some of the keywords which we are going to discuss HySI , HySIS, whisk broom 
+scanner , pushbroom scanner and atmospheric correction.  
+(Refer Slide Time:  03:17)  
+ 
+So, let us start discussing with the hyperspectral mission in India before we can get some 
+good, before we can we can see some case studies of hyperspectral sensors, it is important to 
+know the the history of or the timeline of hyperspectral remote sensing. So, that is why we are going to briefly cover the hyperspectral missions of India.  
+This hyperspectral , India's hyperspectral remote sensing journey s tarted with the dev elopment 
+and flight testing of A ircraft Imaging Spectrometer we call it AIMS  with 143 bands in visible and near I nfrared spectrum in 1996. So, and subsequently a compact hyperspectral Imager we 
+call it HySI, this compact hyperspectral Im ager or payload was designed  and developed for 
+this Chandra - 1, Chandra - 1, 1 and the same was first flown in Indian min i satellite which is 
+called IMS - 1 in 2008.  
+With minor modification you can see thi s is an illustration of the IMS - 1satellite with the  
+HySI  payload you can see here this is the HySI  payload they have indicated with different 
+other payloads also. So, these payload HySI payload or hyperspectral Imager was basically 
+designed and developed for this Chandrayaan - 1 missi on and it was flown in this IMS -1 
+satellite in 200 8.  
+(Refer Slide Time:  05:04)  
+ 
+So, so, this IMS- 1 instrument provided 64 band spectrum in VisNIR  region with about 505 
+meter spatial resolution and 130 kilometers swath  and it uses different types of components 
+like telecentric  lens, wedge  filter based spectral dispersion, active pixel  area array  sensor, 
+highly miniaturized mechanical structure and different types of electronics . It was a medium 
+resolution spectrometer with over sampling in spectral domain. So, this was one of t he 
+important hyperspectral Imager  of India . Indian hyperspectral remote sensing missions  (Refer Slide Time:  05:53)  
+ 
+And, then come the LiVHySI  the LiVHySI  is the short form of Limb Viewing  Hyper  Spectral 
+Imager and it was an improved version of earlier developed HySI  sent in moon mission 
+Chandrayan-  1. So, and this this LiVHySI  basically recorded the hyperspectral images of 
+nighttime airglow  emission s from terrestrial thermosphere and mesopause  region 
+simultaneously over a wide range of longitude across the globe.  
+So, this is the image of this LiVHySI  instrument. So, these HySI  and LiVHySI  was the 
+important milestones of Indian hyperspectral remote sensing missions.  
+(Refer Slide Time:  06:40)  
+ Now, in 2018, November, the ISRO,  Indian Space Research Organization launched the first 
+Indian hyperspectral imaging satellite, which is known as HySIS  and this satellite is expected 
+to be used for E arth observation, applications related to agriculture, forestry, geology, 
+assessment of coastal zones and environment al studies.  
+So, these HySIS was the design to focus on agricultural operations, forestry operations, 
+geological operations, and coastal zone  explorations and environmental explorations, it was 
+one of the 30 commercial satellite from eight different countr ies lau nched that day by Indian 
+PSLV C 43 vehicle. So, not only t his payload it also this PSLV C 43, C 43 also carried other 
+payloads along with HySIS  on that same day, which were coming from different countries.  
+(Refer Slide Time:  07:51)  
+ 
+So, in this HySIS , there are two payloads. So, these two payloads are basically first one is the 
+visible near I nfrared with spectral range from 0.5, 0.4 to 0.95 micron with 60 contiguous 
+spectral band this is the first payload, the second payload was shortwave Infrared  range with 
+spectral range of 0.85 to 2.4 micron with a 10 nanometer bandwidth and 256 contiguous 
+spectral bands.  
+Spatial resolution and the HySIS  had spatial resolution of 30 meters and a swath of 30 
+kilometer from its 630 kilometers sun- synchronous orbit . So, here you can see that these,  
+there are different types of payloads, one is SWIR  you can see payload another  is VisNIR, 
+VisNIR  payload.  (Refer Slide Time:  08:55)  
+ 
+So, these HySIS  was has been utilized by by ISRO  for exploring different types of 
+applic ation as I have mentioned, for agriculture to forestry to environment and geological 
+applications. Now, once we have covered these hyperspectral missions of India , hyperspectral 
+missions of India.  
+So, let us discuss what are the challenges of hyperspectra l remote sensing as a whole. Now, 
+in the laboratory it is always easy to get the images hyperspectral images because conditions 
+are constant and well controlled. But in case of spaceborne and  airborne hyperspectral 
+remote sensing there are some significan t interferences.  
+First of all the lower signal to noise ratio induced by the short dwell time of data acquisition over a given pixel. Since these airborne sensors and spaceborne sensors are continuously 
+moving. So, the dwell time of data acquisition over a given pixel is very limited and as a 
+result there is always chance of getting higher signal to a  lower signal to noise ratio.  
+So, that it is not desirable to have lower SNR or lower signal to noise ratio in so, that creates 
+problem in case of airborne or spaceborne hyperspectral remote sensing . The second issue is 
+atmospheric attenuation of gases and aerosol particles. So, that is why we need to do the atmospheric correction . What is atmospheric correction ?  
+We are going to learn in our coming slides. So, when the image when the when the 
+electromagnetic radiation passes through atmosphere, it is getting attenuated by gases and additional aerosol particles in the aerosol particles. And as a result, this is one of the as a 
+result the images are highly disto rted or as a result, it creates the interferences .  And, the third important issue is uncontrollable illumination condition of the source and 
+objects which also creates the significant interference for airborne and spaceborne 
+hyperspectral emergency. So, t o to counterbalance these effects, there are different types of 
+disciplines which are involved in dealing with hyperspectral remote sensing li ke atmospheric 
+science, electro -optical engineering, aviation, computer science, statistics and applied 
+mathematic s.  
+So, all they are working in sync , in in a cumulative way or in synchronously, so that they can 
+challenge, they can they can they can offset these challenges of interferences in the airborne 
+or spaceborne hyperspectral remote sensing.  
+(Refer Slide Time : 12:07)  
+ 
+Now, if we see the sensor principal the imaging spectrometers typically uses a two -
+dimensional 2D m atrix array, a CCD array or focal plane array that produces the 3D  data 
+cube, we already know that in case of hyperspectral remote sensing we need  to have a 3D  
+data cube. So, the output is a 3D  data cube.  
+So, this data cube can be develop in a progressive manner by two ways first of all, 
+sequentially recording one full spatial  image after another, each at different wavelengths. So, 
+we can take at each wavelength at a time and then we can take an image with individual 
+wavelength and then cube combine them  together to get a data cube, so  this is one of the way.  
+The second way  is, second way  is sequentially recording one narrow image , one pixel wide 
+and multi pixels long. So, one pixel wide and multi pixel long. So, these narrow image  is 
+taken , so it is called the swath .  So, one swath  after another swath  with the corresponding spectral signature for each pixel in 
+the swath . So, we can take the image s equentially for each individual swath  one after another 
+with the corresponding spectral signature for each pixel in the swath . So, these are the two 
+ways through which we can develop these data cube by these imaging spectrometers.  
+(Refer Slide Time:  13:47)  
+ 
+So, let us discuss, how we can generate these hyperspectra l data c ube? There are two types of 
+scanner, while we talk about the hyperspectral imager, there are two types of scanner . One is 
+whisk  broom scanner another is a push broom scanner. Now, this w hisk broom  scanner, we 
+can see this is a whisk broom configuration.  
+And in this whisk broom configuration is also known as the spotlight or across track  scanners 
+which uses a mirror to reflect the light onto a single detector . So, let us consider these a 
+broom and this broom is moving in this direction and thereby it is moving ahead. So, 
+ultimately by scanning the pixels in this way it is moving in the forward direction. So, this is 
+called , this is called the whisk broom  scanner.  
+So, in this whisk broom scanner it uses a mirror to reflect light onto the single detector and 
+the mirror moves backs and back and forth, to collect the measurement from one pixel in the 
+image at a time, so remember that while the scanner is moving through this  swath, we can see 
+that this is basically taking , this is basically focusing on one pixel at a time.  
+So, again, this whisk broom scanner utilizes a moving mirror, which moves back and forth 
+and this is the field of view and while moving back and forth, it collects a measurem ent from 
+one pixel at a time in the image and then it collects the data. So, this is the whisk broom  scanner and by these motion it takes , it covers the all the pixel in this swath and thereby it 
+moves in the in this direction. So, this is the whisk broom  configuration.  
+(Refer Slide Time:  15:55)  
+ 
+Another configuration is called a push broom configuration. So, in the push broom 
+configuration, also sometimes referred to as the along track  scanner. So, basically it utilizes a 
+line of detectors, so, you can s ee here it is a line of detectors arrange perpendicular to the 
+direction of the flight of the spacecraft.  
+So, suppose, the spacecraft is flying in this direction, it has a line of array,  since a linear array 
+sensor which is perpendicular and as the spacec raft is moving, these broom is continuously 
+moving and collecting the images of the whole area.  
+So, as this broom is moving these images are continuously taken, so, the broom is moving in 
+this direction and the images are taken in this swath and ultimatel y covering the whole 
+region. So, the , as the spacecraft slides forward the image is collected of one line at a time 
+with all the pixel in the line being measured simultaneously. So, this is the difference 
+between whisk broom  scanner and push broom scanner .  
+In case of push  broom scanner, this there is this mirror is not moving and here these linear 
+array sensor is arranged in perpendicularly from the flight path direction and it is capturing the image in lines of pixel and then covering the whole area. Wher eas, in case of his broom 
+images with broom scanner, it rotates the mirror and it capture  the image of one pixel at a 
+time and thereby complete the whole swath of pixel and then it moves. So, this is the 
+difference between pushbroom configuration and whisk broom configuration.  (Refer Slide Time:  17:48)  
+ 
+Now, the next question comes to our mind. What is the sources? What are the sources of 
+hyperspectral remote sensing data? T here are a couple of sources of hyperspectral remote 
+sensing data. As you can see USGS Earth  you can download the data from USGS 
+Earth Explorer as you can see in this image. Also, you can dow nload the data from USGS 
+GloVis, NASA EarthData and Google Earth Engine. So these are a couple of sources from which you can you can  this, you can download the HSRS  data for hyperspectral rem ote 
+sensing data.  
+(Refer Slide Time:
+ 18:21)  
+ 
+Data are also available through NASA distribute d active archive centers, or DAACs . So, data 
+is separated by application areas such as land processes and ocean biology . AVIRIS, HICO  data, CORAL  and other hyperspectral data set can be accessed through these online resources 
+of DAACs.  
+(Refer Slide Time:  18:42)  
+ 
+And, as you can see, AVIRIS  data,  you can also download from this JPL website. You can 
+download the data both, level 1 data, which is the radiance data and level 2 data which is the 
+reflectance data for different areas. So, these are different sources of hyperspectral data.  
+(Refer Slide Time:  19:04)  
+ 
+Now, what are the issues with the hyperspectral remote sensing  data availability? Let us 
+consider if , if you consider the satellite test mission data. Generally, the data access might be 
+limited to specific geographic region. So, this is one of the issue of hyperspectral remote sensing, specifically satellite test mission data. And it is, we require some time in NASA 
+scientists to process the raw data.  
+And also, it is required to make a contact with the mission program scientist to access the pre 
+process data. So these are some of the data availability issue. Getting  the hyperspectral 
+remote sensing data is still an issue, especially for the r esource poor countries. And so, but, 
+but nowadays, more and more data are getting available from different agencies.  
+And in case of airborne , there are some also issues like lim ited to flight paths set by mission 
+objectives, low temporal resolution. So, generally these data are available either seasonal 
+either seasonally or yearly and also campaigns can be limited to just few years or a single test 
+mission. So, we have seen in ca se of India, there are only 57 sites in the which are priority 1 
+and in case of priority 2 there are only 25 sites which have been explored by these airborne 
+AVIRIS  data, AVIRIS -NG data.  
+So, there , of course, there is the availability issues, there are av ailability issues, when we 
+when we talk about the hyperspectral remote sensing data, it is not that available, it is it is not 
+available as like as the multispectral data of course, the COVID has also affected the 
+hyperspectral data availability. So, these  are some of the major issues for hyperspectral data 
+availability both from spaceborne platform any airborne platform.  
+(Refer Slide Time:  21:22)  
+ 
+Now, data as I have showed in couple of slides earlier, that data is available in different 
+processing level s depending on the sensor. For example, in case of AVIRIS  data is available 
+for both level 1  which is radiance data and level 2 , which if we chose the surface reflectance. So, depending on your application, we can you can get either level 1  data level 2  data, 
+remember that the atmospheric correction is must to get the level 2  data, specifically ban d.  
+Also we need to have dimensionality reduction for example, principal component analyses or 
+minimum noise fraction to get process data , process hyperspectral d ata as you can see, this is 
+the multispectral images and these are the hyperspectral images obtained using different bands. So, of course, using different bands, the images which are available is having more 
+and more information than that of multispectral images .  
+(Refer Slide Time:
+ 22:49)  
+ 
+And, what is atmospheric correction? A tmospheric correction that from sun to the Earth  and 
+back to the sensor, these electromagnetic energy passes through atmosphere to twice. One 
+during the incoming radiation and there  is outgoing radiation. Now, irradiance is the down  
+welling radiation from the sun, whereas, radiance is the upwelling radiation from the Earth  to 
+sensor.  
+Now, remember that during this flight of these electromagnetic radiation , there are different 
+types of features different types of interferences for example, absorption, these absorption 
+reduces the intensity with a haziness effect and scattering redirects the electromagnetic energy in the atmosphere causing and adjacent effect, where the neighboring pixels are 
+shared.  
+So, these absorption reduces the intensity and produces the haziness and also scattering is 
+another important aspect, which redirects the electromagnetic energy in the atmosphere 
+causing an adjacent effect where neighboring pixels are also shared. And these two processes are the major processes that affect the quality of an image and these are the major driver of 
+the atmospheric correction. This is why we need atmospheric correction.  
+(Refer Slide Time:  24:15)  
+ 
+And so, atmosphere, so atmos phere impacts these hyperspectral remote sensing and these 
+impacts are complex , dramatically changes the spectral nature of the radiation reaching the 
+remote s ensor and that is why we need to apply these atmospheric correction. So, this 
+atmospheric correct ion is the process of removing the effect of the atmosphere on the 
+reflectance values of the images taken by satellite or image airborne sensors. So, this is why these atmospheric correction is important. If we want to have the noise free images for better  
+analysis of our features.  (Refer Slide Time:  25:01)  
+ 
+So, here you can clearly, clearly see that an example of atmospheric correction of 
+SENTINEL- 2B, of course, this is a multispectral sensor, but you can have an idea. So, here it 
+is a true color compos ite of SENTINEL- 2B image with top of the atmosphere. So, this is the 
+top of the atmosphere reflectance and this is the surface reflectance after atmospheric 
+correction with the land surface reflectance code.  
+So, you can clearly see the difference before and after the atmospheric correction. So, this is 
+why we need to have atmospheric correction with the hyperspectral data to for getting the 
+maximum and an accurate information for subsequent machine learning based 
+characterization.  
+(Refer Slide Time:  25:51)  
+ Now, what are the software's which you can use for hyperspectral data processing remote 
+sensing data processing, you can use ArcGIS , QGIS , ENVI software , Erdas Imagine  
+software , Google Earth Engine you can use R also you can use Python. So, the se are t he some 
+of the softwares  which you can extensively use for processing the hyperspectral remote 
+sensing data.  
+(Refer Slide Time:  26:16)  
+ 
+And remember, remember some of the issues that in case of hyperspectral remote sensing 
+data processing, you have to de al with the large data files, because these data consists of 100 
+to 250 bands. So, these files are really large. So, of course, these files require high storage 
+and processing power.  
+And sometimes we see that since they are captured in so, many bands 100 to , 100 to a couple 
+of couple of 100 bands, we can see some time correlation among the band that means, many bands are highly correlated, and they can take the image or they can they can reflect the 
+similar features over the Earth’s  surface.  
+So, in that c ondition, we need to have some kind of dimensionality reduction approach using 
+principal component analysis or a nother other ways we can deco relate those bands, so, that 
+we can get noise free images and sometime in case of hyperspectral remote sensing, we get 
+high signal to noise ratio. So, here a good picture is given. So, here you can clearly see this 
+noise reduction in hyperspectral imagery.  
+So, this is the hyperspectral imaging the original hyperspectr al image and then this is the 
+denoised image plus noise and ultimately before and classification application. So, you c an see that before and after denoising the accuracy, how the accuracy for classification changes. 
+So, before the de noising the classification accuracy was low. However, after the de noising 
+the classification accuracy is increasing. So, this is the this is the practical benefit of noise reduction in hyperspectral imaging.  
+(Refer Slide Time:
+ 28:42)  
+ 
+ 
+So, guys, let us wrap up this lecture and this is the reference which I have used in this  lecture. 
+This is open source and you can get a you can go ahead and read this paper for more 
+information regarding the noise reduction in case of hyperspectral data processing.  
+So, guys, we have discussed some important concepts. In this lecture we have discussed the 
+hyperspectral missions, remote sensing missions of India, we have discussed the whisk 
+broom scanner , push broom scanners, we have also discussed some of the hyperspec tral data sources some software s which you can utilize for handling the hype rspectral data and also we 
+have discussed that was very correction and how we and some implication of noise reduction 
+in case of hyperspectral data processing.  
+Let us wrap up our lecture here in the next lecture. We wi ll see some case studies for 
+hyperspe ctral remote sensing with machine learning for characterizing both soil as well as 
+crop features. Thank you let us meet in our next lecture.  

@@ -1,0 +1,343 @@
+Machine Learning and Soil and Crop Management  
+Professor. Somsubhra Chakraborty  
+Agricultural and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Lecture 05  
+General O verview of ML and DL Applications  in Agriculture (Contd.)  
+Welcome friends to this fifth lecture  of week 1  and in this week 1 we  are discussing the 
+General Overview  of Machine Learning a nd Deep Learning Application in Agriculture  and in 
+the past 4 lectures ; we have discussed  some basic overview of  machine learning , artificial  
+intelligence  and deep learning methods . We have seen their interrelationship ; we have seen 
+the supervised, unsupervised reinforcement learning , semi supervised  learning .  
+We have also seen some  application of traditional uses of  machine learning and traditional 
+uses of machine learning . We have seen the machine learning structure  and what is the 
+difference in the structure between machine learning and  deep learning. And also we have 
+seen the some application of reinforcement  learning.  
+And how this, there are different components  of machine learning and how they are  
+important ? What is deep learning and what  are the challenges in the modern  agriculture ? 
+What are their consequences ? What is precision agriculture ? What are the major component 
+of the precision agriculture ? And what are the four  pillars of smart farming , we have also  
+discussed .  
+And then, what are the  components of ICT  in agriculture , we have discussed . And then we 
+have seen the contribution of machine learning related studies from different countries  all 
+over the world. Also some of the  most widely used machine learning  application in the crop 
+field and also  their application . And also we have seen  the best  the features , most  important 
+features , which you use for  machine learning application.  
+And when you started, and also we  have started discussing about the  machine learning 
+application for yield prediction and I  have showed you, how scientists are using fully connect 
+different hierarchically connected  different layers  for predicting the crop yi eld. And they  
+have used different deep learning networks , hierarchically connecting them together , to 
+predict the tomato yield .  (Refer Slide Time: 2:38)  
+ 
+Now, let us start from here and  we also can see another example, where scientists have  used 
+the deep convolutional neural network and long short -term memory model , for both end of  
+season and in season soybean yield prediction. So, this is the  structure of  this deep learning 
+algorithm , where you can see the CNN features  extraction followed by LSTM  foreca sting . 
+And ultimately , we are getting and this  research was done by Sun e t. al. in 2019 and it was 
+published in the journal  sensors .  
+(Refer Slide Time: 3:27)  
+ 
+And ultimately , they predicted the yield of  for 4-5 consecutive  years , starting from 2011, 
+2012, 2013, 2014 and 15. And, you can see the scatter plot of end of the season predicted versus  observed yield. And so, this is for  2011, this for 2012, this 2013, then 2014 and 15. S o, 
+this is how using some advanced deep learning network, we can  predict the  yield of the crop.  
+(Refer Slide Time: 4:0 5) 
+ 
+So, another  important area,  where machine learning is being utilized is , in case of crop  
+management is a disease detection . This is a very important aspect , because crop disease is a 
+major threat for  agricult ural production system . Because, when there is a disease in a crop , 
+that deteriorates the quality of the crop of  the produce and also quantity of the  production is 
+also reduced and also  storage and transportation of the crop  is also getting affected , adver sely 
+affected .  
+So, it ultimately pose a significant risk to  food security. And as a result , timely  identification 
+of disease pest  is very  very important . Historically , disease detection was  conducted by 
+expert agronomist , by performing the field scouting, which is  very much time consuming and 
+solely  based on visual interpretation, inspection. S o, it is kind of qualitative  in nature .  
+So, nowadays , by the adaption of  modern tools in agriculture , like sensors  and machine 
+learnings and deep learning applicati ons, it is now , pros possible to  detect the disease, either 
+by some  sensory features or by using the image  processing and subsequent machine  learning.  (Refer Slide Time: 5:30)  
+ 
+We can see one example from disease, potato disease detection . So, an optimu m algorithm , 
+so you can see here , an optimum algorithm,  you know , was proposed by Korchagin e t. al. in 
+2021, published in the journal A gronomy, for detecting  the damage and disease potato tubers , 
+moving along a conveyor belt using computer vision systems .  
+So, you can see here there are different types of crop potato diseases , starting from the late  
+blight , which is one of the major diseases for  potato and then there , this is the skins spot and 
+then you can see this is a gangrene of potato. Then, it is the  dry rot of potato and  then 
+powdery mildew of the potato, sorry , powdery scab of  potato.  
+Then, tobacco necrosis  virus , infection in potato. And also, you can see , this is a common 
+scab and  then silver scurf and potato virus ‘Y’, which is another viral dise ase. S o, you can see 
+different types of fungal and bacterial viral diseases of potato and  when these potatoes are 
+moving in a  conveyor belt , using the machine vision and machine learning, can we detect 
+these type of diseases ?  (Refer Slide Time: 7:07)  
+ 
+So, this was the  challenging task and utilizing the machine learning  methods , they have 
+identified the disease  detection , you can see , identification of  the potato tubers by the V iola-
+Jones method, we  will see this application in  later part of our course in details , but here you 
+can see that it is  perfectly possible to identify the crop  disease,  using the machine vision, 
+followed by and also utilizing the  machine learning applications .  
+(Refer Slide Time: 7:35)  
+ 
+So, another application of disease  detection , you can see , published by Sun et. al. in 2021, in 
+the journal  Applied Sciences  and you can see here, they have used the stochastic gradient  
+descent momentum optimizer and a  discount momentum deep learning  optimizer for plant disease identification . So, they have collected image from planned village  data set , which is a  
+large data set repository .  
+(Refer Slide Time: 8:07)  
+ 
+And data  repository from there , they have  collected the images and then they have  tuned 
+some of the parameters , as you can see, like al pha like  lambda,  like mu and lambda , these are 
+the some of  the tuning,  these hyper parameters were tuned . Remember , in any type of 
+machine learning  or deep learning model , you need to apply;  you need to first tune the 
+parameters , so that you can get the de sired results .  
+(Refer Slide Time: 8:40)  
+ 
+So, this tuning of the parameters were done , followed by the  classification and they have used 
+two different types of neural  networks, one is called the ResN et50, which has 50 layer of  deep  convolutional neural ne twork with skip connection for image classification , and also 
+they have used D enseN et121, which  is having 121 layer deep neural , convolutional  neural 
+networks  with dense connection.  
+And using these  two methods , they have classified,  you know , they have cl assified the 
+disease or, that they have classifies the disease of the plant  leaves based on the plant leave 
+images . And these are some of the results train ; they have shown the training accuracy and 
+training laws testing accuracy and  so on. So, that shows that how  using the machine vision as 
+well as the  machine learning, deep learning can efficiently predict or classify  the disease and 
+also they can predict  the crop yield .  
+(Refer Slide Time: 9:57)  
+ 
+Another major aspect of crop management is weed detection . Application of machine 
+learning  has been found  in case of  weed detection , so remember , why weed is  important ? 
+Because as a result of their  prolific seed production and longevity, weeds usually grow and 
+spread invasively, over large part of the field very fast, and competing with the crops for the   
+resources , including space , sunlight , nutrients and water availability .  (Refer Slide Time: 10:31)  
+ 
+And weed losses are expected to reach  around 11 billion USD per year in India , ranging from 
+13.8 percent in transplanted ric e to 76 percent in  soybean, in which,  weeds contribute the  
+highest protein potential loss , accounting for 34 percent of all biotic  stressors.  And it follows 
+by the insects of 18 percent , diseases  16 percent . So, weed is  known for the maximum  loss in 
+the crop .  
+(Refer Slide Time: 11:00)  
+ 
+So, besides , weeds frequently arise sooner  than crops , without having to face  natural enemies , 
+a fact that adversely  affects crop growth . So that is why, weed  control is utmost necessary for  
+better growth of the crop . Without weed contr ol, it is very very difficult to get the  desired 
+crop output .  (Refer Slide Time: 11:26)  
+ 
+So, there are different types of control . One is mechanical control , as you can see here;  this 
+mechanical control is not that  effective. It is ineffective in nature . A chemical control can be 
+done with herbicides , but herbicides are costly and  environmentally very hazardous . So, 
+nowadays for environmental  sustainability and environmental  protection or agriculture 
+sustainability , it is reco mmended that you should lower down your  chemical application or 
+synthetic chemical  application .  
+So, nowadays , we cannot rely more on applying more  herbicides . And also  long term 
+herbicides , when we go for the  long- term herbicides application that  also creates the crop 
+resistance. So, in near future , those herbicides will not be  useful again , useful enough, for 
+those  type of weeds . So, you can see that  mechanical control and chemical control  are not so 
+much  recommended nowadays with the advent of  modern agr iculture .  (Refer Slide Time: 12:29)  
+ 
+So, that is why the  application of different types of tools, sensors and machine learning have  
+evolved. So, in case of smart farming , we know that  there are remote sensing and  there are 
+unmanned aerial vehicle and al so unmanned ground vehicles . So, this UAV based data  
+collection and  classification is somewhat difficult.  
+However , machine learning and imaging technologies and non- imaging  spectroscopy helps in 
+real time  differentiation and localization of the  targeted w eeds, enabling precise  application  
+of herbicides to specific zones , instead  of spraying the  entire field. So, we can use  UAV  for 
+spraying the herbicides .  
+Also, you can use the machine learning and imaging technologies for  weed detection . And 
+then you can direct  your operation to that particular area  of the field also . So that you can 
+utilize , you can save some resources .  (Refer Slide Time: 13:32)  
+ 
+So, we can see here,  one example here,  Mohide m et.al, who has  published in the journal 
+Agriculture in  2021, he showed some of the UAV  system for weed  detection . You can see 
+here mikrokopt er JR11x, which is attached  to a multi- spectral MCA 6  camera. Then Inspire 
+DJI. Inspire DJI is a very widely used UAV system , which is attached to the M ica sense  
+multispectral, which is another  very widely used multispectral camera.  
+And also DJI  phantom 4 , which is attached  with an RGB  camera. You can see here, Fixed 
+wing. Fixed wing UAV,  which is  attached with RGB  multi spectral camera . Then Matrice  
+600 model , from the DJI,  which is attached to the hyper spectral P ika L camera. Hyperspectral 
+camera are more higher resolution, we  will discuss it later on .  
+And then, Yuneec H 20 hexacopter , which is attached with  the thermal sensor . And also 
+spray er, you can see , these are for use  for weed detection . And also they are using the sprayer 
+drone and also U nidrone . So, you can see here that shows the  application  of these UAV 
+systems for weed  detection . And for making for the proper  application  of proper detection of 
+the UAV. Proper dete ction of the weeds , using the  UAV system , is dependent on application 
+of machine learning algorithms .  (Refer Slide Time: 15:08)  
+ 
+Also you can see here how  another research by  Pan et. al., which was published in the journal 
+Sensor s, they have used UAV systems for disease detection . You can  see here, they have 
+used the image detection for identification of the bare -soil as well as the healthy -wheat and  
+also strip e-rust disease of the w heats, and  followed by the classification .  
+And this confusion matrix sh ows the classification accuracy for  using different types of  
+machin e learning approaches. We have already discussed the  confusion matrix and remember 
+that the diagonal values  are showing the accurately classified samples .  
+(Refer Slide Time: 16:1 0) 
+ 
+So that shows that how we can  use this type of sensing approaches and machine learning 
+approach es for  identification of the weeds . Also UGV’ s, you know , unmanned ground vehicles  like mobile robots platform , are also being used for weed detection . One of this 
+example  was shown by this Cutulle  and Maj a, in the year 2021, which is  published in I talian 
+Journal of A gronomy, where they are using this mobile robot platform  for weed detection .  
+(Refer Slide Time: 16:41)  
+ 
+Crop recognition is another important  aspect , which helps in the automatic  recognition of 
+crops , you know , which  has gained a considerable attention  in several scientific fields , such 
+as plant taxonomy, botanical garden and new  species discovery . And plant species can  be 
+recognized and classified  via analysis of various organs including leaves , stems , fruit, 
+flowers , and also by the seeds .  
+(Refer Slide Time: 17:11)  
+ So, leaf -based plant  recognition seems to be the most common approach by examining 
+specific leaf ’s characteristics like color , their shap e and texture . With the broader use of  
+satellites and aerial vehicles and their  images  as a mean of sensing crop properties , crop 
+classification through remote sensing has become a particularly very much popular . And the 
+advancement of the computer softwar e in image processing device with machine  learning has 
+led to the automatic  recognition and classification of the  crops .  
+(Refer Slide Time: 17:43)  
+ 
+Also another important aspect is crop  quality identification . So, it is very  important for 
+market and high quality  produce can generate higher earning to the farmers , which is one of 
+the objective of modern agriculture . So, developing decision support system can aid the 
+farmers for taking appropriate  management decision to increase the quality of their produce .  
+So, machine learning application can help in selective harvesting is  a management  practice 
+that may considerably increase the quality . And also machine- learning  application can 
+identify the weeds and remove them , and also , so, this type of operation hel p in improving 
+the crop quality.  (Refer Slide Time: 18:23)  
+ 
+Now, let us  talk about the soil testing . Now, soil testing , traditional soil testing , is very much 
+time consuming affair , you need to collect the soil samples , you need to process the soil 
+samp les, and then you need to analyze the soil samples using  the traditional wet chemistry 
+method, for determining different types of soil  parameters .  
+However , so this is a  traditional soil testing labs , and these  are the routine  soil testing  
+parameters like ph, electrical  conductivity, then organic C arbon, available Nitrogen, available 
+Phosphorus , available Potassium , available Sulphur , available Zinc, Boron, Iron, Manganese,  
+Copper . These are some of the  very common routine soil test parameters , which we gen erally 
+use for testing the  soil fertility .  
+(Refer Slide Time: 19:1 3) 
+ So but , the problem is , most of the  soil testing facilities in our  countries are not available to 
+our farmers , so as a result , what happens, the farmers generally do not go . Because th ey are 
+not aware of soil  testing process es, and also they do not  have access to soil testing . So, and 
+also they  apply the fertilizer indiscriminately  without any soil testing .  
+And as  a result what happened, loss of inputs and loss of natural soil  fertility and also human 
+health hazards. Because,  these are chemical products , when  they are mixed with the  
+environment , that also for long term , that also creates some problem . So, these are some ill 
+consequences.  
+So, to stop this kind of behavior , nowadays , scientists are using different  types of sensors , 
+portable sensors like you can see here , smartphones NIX  pro color sensor and portable  
+microfluidic sensors and also portable  extra fluorescent sensors to judge or to test the soil as a  
+rapid screening tool so t hat farmers can  have at least an idea about their soil  quality and they 
+can apply the  fertilizer in such a manner to reduce the environmental hazard and to increase  
+their profitability .  
+Because, ultimately , this type of sensor application with machine learning will help in the  
+onsite rapid testing . These are very much  cost effective also , and also they  require minimum 
+soil processing. Ultimately , they will be helping to achieve the higher nutrient use  efficiency 
+and higher crop productivity and higher prof it.  
+(Refer Slide Time: 21:04 ) 
+ 
+So, these are some of the impetus, which drives this application of the sensor for better for a 
+machine learning for better soil management. As you can see here,  this is another , this is a  specialized sensor called portable extra photo since  we will discuss these  details in our 
+upcoming lectures . You can  see, we can use this sensor directly in the field as scientists are 
+using directly in the field . You can also use  them in the lab condition also .  
+So, you can use them both in situ and out ex situ, for determining rapid determination of  soil 
+properties  in a minute , using some  calibration algorithms . And we will talk  about , we will 
+talk more about this  instrument and their application, but remember this type of sensor using 
+machine -learning algorithms , nowadays , it is possible to detect soil properties on site .  
+(Refer Slide Time: 21:58)  
+ 
+Some examples are given here, you know , one of our previous research, where we applied 
+this tool, along with the machine learning, for soil  type classification . So, we have used this 
+tool for classifying the  agricultural soil converted land, also the forestland  with higher 
+accuracy .  
+So, using the elemental report from this  type of portable sensor , proximal sensor , we can 
+classify the soil typ es. Because  the soil types are dependent on these  elemental values . We 
+will go to discuss them in details in  our upcoming lectures , but here just to show one example 
+of classification using  the elemental data, which we gather from  the portable XRF.  (Refe r Slide Time: 22:5 3) 
+ 
+So, among other  application , there is another method, which is widely used in the soil science  
+discipline called diffuse reflectance spectroscopy.  This diffuse reflectance  spectroscopy is a 
+very fast method. This is also a portable cost effective method . It requires minimum or no 
+sample  pretreatment . It is high throughput and non-invasive , you are not destroying the  soil 
+samples , and you can measure a multitude of soil  properties using this sensor .  
+(Refer Slide Time: 23:2 3) 
+ 
+Now it is  this sensor is very much useful and you can use this diffuse , scientists have  used 
+this diffuse reflectance spectroscopy and feature engineering  like spectral preprocessing also 
+in combination with different types  of machine learning  algorithms like you  can see here , 
+partial squares regression , cubist  regression , then random forest regression, extreme learning machine, all these are advanced machine learning approaches and  deep learning approaches . 
+They have used to predict the soil organic matter  content .  
+(Refer Slide Time: 23:56)  
+ 
+Also, this sensor has been used for predicting the surface soil moisture . So, you can see  here,  
+this grass shows the changes of  the relative reflectance with the increasing moisture content , 
+and then using this  DRS  spectra, scientists Zhu e t. al., in 2010, they have predicted the 
+surface soil  moisture in  three condition, in the wave band.  
+This is in the wave  bands of 1350 to 1450 nanometer . They are using here the 1890 to 1990 
+nanometer and here another zone  that is 2 2 2 0 to  2 2 8 0 nanometer of the spectral region of  
+the diffuse reflectance spectroscopy  to predict the soil moisture content, and this paper was 
+published in J ournal of  Hydrology.  (Refer Slide Time: 24:53)  
+ 
+Nowadays, we are using new -new technologies for im age processing and  subsequent 
+prediction of soil properties  also. You can see here, it is a very  handy tool that is USB  
+microscope for soil . USB  microscope , you can just,  you can plug it in your  laptop and you 
+can take the images of  the soil with high reso lution .  
+And you can feed these images directly  into the convolutional neural network to predict 
+certain soil properties . So, this is one of the very you know good example of image  
+processing plus deep learning based soil  property identification.  
+(Refer S lide Time: 25:3 6) 
+ 
+Also, nowadays , using the smartphone  images and deep learning and machine  learning 
+algorithms , nowadays , it is possible to predict different soil  properties . In an example of Swetha et. al., which is published in their 2020 in the  journal Geoderma , where they have 
+used this smartphone setup for predicting the soil texture .  
+(Refer Slide Time: 26:0 2) 
+ 
+They have also used the  convolutional neural network to predict  the soil  clay , silt and sand , 
+as you can see in both this condition, they are getting very good ‘ r’ square values, for clay, 
+silt and sand. So, that shows the  use of  these advanced  tools of  deep learning as well as the  
+smartphone images for better management  of soil properties .  
+(Refer Slide Time: 26:34)  
+ 
+Also now it you know  a recent paper from our group G otheatol  (())(26 -36), which was 
+published in Bio system  Engineering in 2021, it has been proved that when we use the image 
+processing and subsequent deep learning and machine  learning method, it is possible to predict the s oil organic carbon in the field using smartphone . So that gives  more support 
+towards the application of  machine learning and deep learning for  rapid management of soil 
+properties  rapid prediction of soil properties .  
+(Refer Slide Time: 27:07)  
+ 
+Digital soil mapping is another  new area where the people have used  different types of 
+prediction models , so both deep learning model as well as  machine learning model , where the  
+training data has been  you know training data , trading data , legacy soil data were combi ned 
+with covariate data, easily available digital covariate data,  and then  developing a predictive 
+model using machine learning or deep learning algorithm , to develop a high resolution soil 
+maps , for different depth.   
+So, for different depth of the soil st arting  from 0 to 5 centimeter and it goes up to two meter s. 
+So, the digital soil mapping is  a very you  know  booming area of  soil science, and it has got a 
+tremendous  application of machine learning application, in for producing the high- resolution 
+soil map s.   (Refer Slide Time: 28:06)  
+ 
+Also people have used different  types of satellite  data here you can see Mashaba 
+Munghemezulu et. al., in 2021, they have used the Sentinel -2 data and which is a  satellite and 
+preprocess the data , resample the data and the n combine with different types of  vegetation 
+indices and soil indices and also climate data and then  digital elevation model as an auxiliary 
+input .  
+And then they have identified some spectral  indices and then they have run three  different 
+model like random forest model , gradient boosting regression and also exhibits regression 
+and they have done a  70 30 training testing with the field  data and then evaluated the model 
+and then finally they produce the nitrogen content map .  
+(Refer Slide Time: 29:02)  
+ You can see these are the nitrogen  content map in the small holder base  form . So, not only 
+machine learning helps  you and tools like satellite images and also  sensor data can help you 
+to predict the  soil properties , but also you can produce  the high- resolutio n maps using those  
+algorithms .  
+(Refer Slide Time: 29:24)  
+ 
+ 
+So, what is the conclusion?  Conclusion of  this whole chapter , these four first  of all machine 
+learning and agriculture  it is become an ever increasing  topic worldwide and it requires for  
+better crop and soil management when  we move towards modernization of  agriculture 
+especially in developing countries like India .  
+And also development of new machine learning tools are enabling the smart agriculture and 
+of course  for a resource -poor countries, this combination of sensors and machine  learning , appears as a boon , where the farmers do not have access to the  traditional soil testing and 
+crop testing . So, that makes the end of this  first week of lectures . I hope that you have got 
+some  knowledge , new kn owledge  in this lecture .  
+And these are the  references . Most of the references are coming from some published 
+research papers . And if you have any  doubts you can let me know and I will be more than 
+happy to answer your queries . And let us meet in our next week , where we  will be discussing,  
+dealing , how to deal with the multivariate data .  
+Because how to deal with the multivariate data , it requires some type of data processing  and 
+this data processing will be  learning in our second week of lectures . So, guys  thank you for 
+joining in this  lecture. Let us meet in our second week  of lectures to discuss these  in details . 
+Thank you.  

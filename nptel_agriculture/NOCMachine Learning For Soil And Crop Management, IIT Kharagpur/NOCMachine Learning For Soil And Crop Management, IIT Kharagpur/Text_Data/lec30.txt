@@ -1,0 +1,260 @@
+Machine Learning for Soil and Crop Management  
+Professor. Somsubhra Chakraborty  
+Agriculture and Food Engineering Department  
+Indian Institute of Technology , Kharagpur  
+Lecture 30  
+Use of ML for Portable Proximal Soil and Crop Sensors (Contd.)  
+(Refer Slide Time : 00:21)  
+ 
+Welcome friends to this thirtie th lecture of this online NPTEL online certification course of 
+Machine Learning for Soil and Crop Management . And this is the last lecture of week 6. And 
+in this week,  we are talking about use of machine learning a lgorithms for portable proximal 
+soil and crop sensors.  
+In our first four lectures, we have discussed the details about the proximal sensors their 
+classification, and then we have discussed about the portable XRF , portable x-ray 
+fluorescence spectrometer th eir application for soil , crop. And also, we have seen the sensor 
+fusion where we are combining more than one sensor together or sensor data together using 
+different approaches simple merging. 
+And also, sometime model leveraging , model fusion for predicting, for better prediction of 
+several soil properties. In our last lecture, we have started discussing about Nix colour  sensor. 
+And in this week, we  will start from there and discuss more about Nix . (Refer Slide Time: 01:38)  
+ 
+So, the these are the concepts  which we are going to cover in this week. First of all, we  will 
+be talking about evolution of Nix  for soil characterization, then we  will also see one example 
+where Nix is used for plant characterization. Third is portable acoustic sensor and machine 
+learning for soil moisture prediction we are going to see . And then the portable crop sensor 
+plus machine learning application we are also going to discuss . 
+(Refer Slide Time: 02:12)  
+ 
+So, if you see the keywords which we are going to discuss . So, these are th e important 
+keywords for this lecture, Nix,  Munsell  soil colour  chart, then sensor fusion, RGB and crop 
+sensor.  (Refer Slide Time: 02:30)  
+ 
+So, I have already discussed that the Nix  sensor which is actually available in the in the 
+market initially for col our, purity of the colour , for checking the purity of the colour . It was 
+first exploited by a group of scientists , as you can see, they started applying it for different 
+types of soil colour  determination and subsequent prediction of soil properties. 
+You know that soil colour  is a very important property which gives us the indication or 
+variation of several elements , soil organic matter and also gives us the indication of different 
+paedogenic  processes. Now, so far,  the soil colour  description was based on the Munsell  soil 
+colour  chart. Now, this soil colour  chart has three variables they have different types of chips . 
+And in these chips, there are three variables hue, value and c hroma. So, using this hue , value 
+and chroma we can qualitatively describe the s oil colour  in the field or in the lab. However, 
+this qualitative description of soil colour  is subjective due to environmental condition and 
+human error . Sometime we have seen that although some experienced petrology start 
+defining the soil colour , they do not agree while describing the soil colour  qualitatively.  
+So, it was important to use certain portable tools which can offset this disagreement of 
+qualitative colour  description. So, that is why the application of Nix  started in the soil science 
+domain. S o, the first application was seen in Stiglitz et al.  in the year 2016. Where sensor 
+measurement were compared to the soil colour  chart by converting the Nix  values to Munsell  
+soil colour  codes using Babel color  conversion software.  
+So, they collected soil s amples and then they scan the soil using this Nix sensor . And the Nix 
+extracted colour  values were converted to Munsell soil  colour  codes using Babel color  conversion software.  And also, the Munsell colour  codes were converted into another colour  
+model call ed cyan, magenta, yellow and black or CMYK colour  model.  
+And the Nix  sensor scan results were tested again pre -determined Munsell colour  value s and 
+colorimeter  CMYK colour  values using correlation analysis for all treatment. They have tried 
+the scanning both in dry soil as well as moist soil . So, they scan the soil both using Munsell  
+soil colour  and also using a standard colorimeter . So, they compared the results of Nix  with 
+the standard Munsell soil colour  chart as well as the colori metric  results.  
+(Refer Slide Time: 06:03)  
+ 
+And they have showed that this Nix colour sensor  has sufficient potential for qualitatively for 
+quantitatively describing the soil colour . And these graphs are showing the relationship 
+between the different indices, different colour  model parameters, like you can see here, M,  
+then mean M , Nix P ro mean M percent , Nix P ro mean M percent for sets.  
+So, and also you can see here for moist soil samples, and they have tried it for dry soil 
+samples and moist soil samples, they have tried for ma genta, they  have  tried for yellow, they 
+tried for black also for both dry soil samples and moist soil samples . And they tried to 
+compare the results between the between the moist soil samples and dry soil samples results. 
+So, we can see that they have util ized this sensor variable. And they have utilized and they 
+have established the potential of Nix  colour  sensor for prediction of soil colour . (Refer Slide Time: 07:33)  
+ 
+Not only that, in his subsequent research, they have developed a n Android app a nd the y have 
+used it for real time soil colour  description. So, they have converted these scan results into 
+using an  app to the Munsell soil colour  values. And not only that, they also using these app, 
+they have also uploaded scanned and uploaded the database i nto the cloud and downloaded 
+the results to view in the time and GPS temperature so that they can create this real time soil 
+colour -based  map . 
+(Refer Slide Time: 08:26)  
+ 
+It does subsequent research in 2017 they have used this Nix colour  sensor for predict ion of 
+soil organic carbon and that was a very important paradigm shift as far as the Nix based soil 
+property predictions are concerned. So, they scan the soil samples in both dry condition as well as the moist condition. And then they tried to predict the  soil organic carbon using, as 
+you can see here, they try to predict the soil organic carbon in both this condition, this is for 
+dry soil  and this for moist soils . 
+And they have proved the sufficient utility of this  Munsell soil colour , for this Nix  soil colour  
+parameters for predicting the soil organic carbon. However, in these cases, they have also 
+used depth as soil data as an auxiliary parameter for predicting the soil organic  carbon. So,  
+that was the first application , one of the first application wher e these Nix  was used to predict 
+the soil organic carbon through a prediction model. 
+(Refer Slide Time: 09:59)  
+ 
+Subsequently in Brazil, Mancini et al.  in 2020 they have showed the potential of Nix  for 
+classifying the Munsell  soil colour chart . So, this is the Munsell  soil colour chart  as you can 
+see, they are consisting of several colour  chips and qualitatively generally a soil is matched 
+with these colour  chips and the best match colour  chips and their rotation is basically 
+designated as the colour  of the soil.  
+So, these scientists group tried to replace the use of this Munsell soil colour  chart by using 
+this Nix  and they have showed that yes, it is  possible to predict or classify the Munsell  soil 
+colour chart  notations using this Nix  colour  sensor . They ha ve used different models, 
+different machine learning models for classifying the Munsell  data and they have established 
+the utility of Nix . So, you can see that the use of the simple , how the use of simple statistical model to higher  
+machine learning model has helped the establishment of Nix  based soil colour  and soil 
+property characterization.  
+(Refer Slide Time: 11:43)  
+ 
+In a latest study, one of my PhD student has again developed a sensor fusion technology 
+where she has showed that , she has showed that the  combination of Nix  colour  values and 
+DRS can produce better prediction accuracy for soil organic carbon. So, in this research we divided we collected 200 soil samples and we divided them into 140 calibration samples and 
+60 validation samples and then we s can them using Nix  colour s scanner . 
+And you can see this is how these Nix  scan results will be appearing. So, they produce the 
+results in RGB , CMYK, and then Hex colour  codes , and XYZ and so on so forth. So, using 
+these codes, we first fit the generalized additive model to predict the organic carbon where the inputs are only L and A  parameters, because previously Stiglitz  has produce d the 
+evidence that these two colour  parameters are more related to organic carbon.  
+So, we used only these two and fitted this  generalized additive model . And subsequently 
+using the diffuse reflectance spectroscopy, we also predicted the organic carbon. So, in both 
+these cases, we got the results using the calibration values , predicted calibration values in 
+both these cases. And then we combined we use them as a predictor to and have them 
+combine these two sets of predictors using the multiple linear regression model to predict the 
+organic carbon.  So, these sensor fusion shows that when we combine this Nix and DRS together that 
+produces better results. So, here you can see some examples  where we are using the Nix  data 
+alone  that produced somewhat around 60 percent  prediction accuracy. And when we use the 
+DRS spectra alone that shows around 80 percent  accuracy, but when we combine t his Nix 
+and DRS  by following this scheme, then we got these 95 percent  accuracy. So , that shows 
+that not only D RS plus PXRF  but also Nix  plus DRS has also the potential for producing 
+better prediction results for several soil properties.  
+(Refer Slide Time:  14:35)  
+ 
+So, in another research, we tried to relate the Nix colour  with the Munsell soil colour . And 
+then we also tried model fusion by combining the Munsell soil colour  values with the Nix 
+values. So, here what we did , we collected the samples after col lecting the samples  we first 
+visually describe the soil colour  using the Nix,  we using the Munsell soil colour  chart . And 
+also, simultaneously we scan them using the Nix  sensor.  
+And once we defined the colour  based on our visual description based on this M unsell soil  
+colour  chart, the same chips were again scanned using this Nix  sensor. So, the resulted values 
+of Nix were called the standard Nix  values. And these non- standard  Nix values are basically 
+those Nix  values which you have collected without compari ng the Munsell soil  colour chart . 
+So, the results from both non- standard  Nix and also the standard Nix  values and also the 
+RGB values which are extracted from these Munsell soil  colour  were combined in different 
+combination and then we tried to predict the  organic carbon. We have seen that when we 
+combine the non- standard  Nix values with the Munsell soil colour  chart extracted colour  
+parameters, we are getting the highest r  square validation r  square.  So, that shows that there is a benefit of combining the Munsell soil colour  extracted colour  
+parameters, quantitative colour  parameters. As well as the normal Nix  can stand Nix results, 
+and when we combine them together, they produce better prediction accuracy for organic 
+carbon . 
+(Refer Slide Time: 16:51)  
+ 
+Not only that, when we combine these Munsell soil colour  values with the non- standard  
+values and Munsell soil standard values and standard values and we try to classify soil 
+samples coming from different agroclimatic z ones showing different colour  properties . We 
+can see here, when we combine these Munsell  soil colour , with the nonstandard Nix , we can 
+get better classification, we can clearly see the classification boundaries or clusters of these samples coming from three different agroclimatic region . 
+And here  also, but where we are using the standard Ni x values and Munsell cell colour  
+values, we also got good clustering, but there are some Nix  things. So that shows the relative 
+superiority of using these non- standard  values of Nix  and also the Munsell  soil colour chart. 
+So, there are two different types of soil samples, one were collected from coastal saline zone 
+of West Bengal, another is red and laterite soils , another one is alluvial soil. And these are the 
+colour  parameters which were most influential in th is clustering.  
+And also, we can see that these AL  soil was influenced by these K  from CMYK which was 
+expected because these alluvial soils are dark in colour . And this K  basically shows the black 
+or darkness of the soil colour . And RL was influenced by,  red and laterite soil was influenced 
+by red and yellow, which is also expected because these red and laterite soils are dominated 
+by oxides mineral which are imparting the red and yellow colour  of the soil. So, realistically, we have seen that combination of  these sensors can produce better results that using the 
+individual sensor alone.  
+(Refer Slide Time: 19:06)  
+ 
+Now, in another research De Faria et al.  in 2022, this year they have produced or proved the 
+evidence that when we combine the Nix  and PXRF together they produce better prediction 
+accuracy for soil organic matter when we combine the depth of the soil that sometimes 
+increases the prediction accuracy. So, they have tried three different model stepwise multiple 
+linear regression model, support vector m achine and also random forest. 
+And you can see here this  is for the dry soil , this is for moist soil. These are the models for  
+only PXRF . These are the models using Nix  plus PXRF was  dry soil . And here , Nix plus 
+PXRF  for moist soil. So, for all these condi tions they have combined, they have produced the 
+sensor fusion. And specifically , here these are the sensor fusion results and they compare the 
+results with a single sensor -based  model and they found that among all these . 
+And also, they have combined this soil horizon depth as an auxiliary variable . And this is the 
+random forest variable importance plot , from this plot it is evident that this horizon and also 
+this calcium are to PXRF  measured calcium and the horizon depth are two major influencing 
+factor fo r producing the better prediction accuracy. So, that shows that a combination of Nix  
+and PXRF  along with the auxiliary predictors like depth of the soil can help in better 
+prediction of soil organic carbon.  (Refer Slide Time: 21:1 3) 
+ 
+So, they have also s howed here the r square values , RMEC values , and RPD values . And they 
+have compared the results between the fused model as well as the individual sensor -based  
+model. 
+(Refer Slide Time: 21:27)  
+ 
+In a r ecent exercise and research, one of my students has also  combined the three different 
+sensor together and using the machine learning model. So, here you can see Nix, PXRF  and 
+DRS were combined together and ultimately different , 13 different combinations  like using 
+PXRF  alone , the Nix data alone, DRS  spectra alo ne, only clay content, then PXRF  measure 
+rubidium content as a proxy for clay, the clay plus Nix , then PXRF -RB plus Nix, then soil texture that is sand plus silt p lus clay, then texture plus Nix , the next plus PXRF,  Nix plus 
+DRS , Nix PXRF  DRS , and Nix PXRF  DRS plus texture.  
+So, all these 13 combinations  were tried to predict these pH , EC and OC and we combine the 
+data from this PX RF soil texture results, Nix  as well as DRS . And then we compare the 
+model accuracy and select the best set of predictors.  
+(Refer  Slide Time: 22:41)  
+ 
+ 
+So, the result shows that when we combine the results for using this Nix PXRF  DRS . For 
+organic carbon prediction, we can get the best results when we are combining the Nix  with 
+the, we can get the best results when  we combined the next plus texture where we are getting 
+the r square  values , in addition r  square  values of 0.181. So, basically, we see that 
+combination of Nix  colour  parameters and texture showed the best prediction for soil OC . And we can see the synergistic effect obser ved with sensor fusion. However, for other 
+parameters, we have seen the combination of Nix PXRF  DRS produce the best model 
+prediction. So that shows the importance of model fusion or sensor fusion for prediction of 
+best results . And these are all random fo rest model. So, that shows the importance of machine 
+learning also for predicting these different parameters or establishing the benefit of model a sensor fusion.  
+(Refer Slide Time: 23:58)  
+ 
+So, so far, we have seen the application of Nix  for soil characte rization . Recently in our 
+research, in collaboration with Professor Bruno Ribeiro  of Brazil, we have seen that if we can  
+use this Nix  to extract the colour  of the leaves for different plants, we can predict the 
+chlorophyll Spad index. Now, chlorophyll SPAD  index indicate the nutrition, status of the 
+crop.  
+And if we extract these RGB, or CI ELab  model colour  space model and then combine them 
+together using the multiple linear regression, we can produce better prediction for this 
+chlorophyll SPAD index. W hich may help in real time  monitoring of crop health status. So, 
+we have compared different types of model, multiple linear regression model , elastic 
+regression model and the  Lasso  model. 
+And we have found that yes, it is possible to produce better results when combining these Nix  
+with different types of prediction model for real time monitoring of crop health status. So, 
+that shows the expansion of Nix  application from soil to crop and further research is 
+necessary for enhancing its application for other crop properties also.  (Refer Slide Time: 25:43)  
+ 
+We have also seen the use of machine learning for portable soil moisture sensor, the soil 
+moisture sensor has been developed by one of my students, which is based on the acoustic 
+velocity and this is the sensor, this is the real sensor . And in this real sensor, there is an 
+acoustic source,  there is a speaker and in other side there is a detector and the soil is packed 
+inside the speaker at detector . 
+And the time of flight from the speaker to the detector of sound is basically utilized to 
+produce or predict the soil moisture content and for establishing the utility of the sensor we have also used extensively the machine learning model like linear mixed effect models. So, 
+not only for soil fertility parameters or crop parameters, these machine learning models can 
+be also combined with different other portable sensor for soil moisture measurement also , 
+real time measure measurement also.  (Refer Slide Time: 27:11)  
+ 
+So, this is another application we have seen where po rtable crop sensor was used in 
+combination with machine learning for precision nitrogen measurement, management in  the 
+crop. So, these Wang e t al. this scientists  group in 2021 they have examined  the potential 
+improvement of , insisted prediction of corn ni trogen nutrition index, they call it NNI and 
+grain yield by combining soil data as well as weather data , management data along with the 
+active sensor data, green seeker.  
+So, these active sensor data with random forest regression which is a machine learning tool, 
+as compared with the Lasso  linear regression and using similar data and simple linear 
+regression models for . So, basically,  they have combined this management data , soil data , 
+weather data, sensor data using random forest and they compared with the Lasso  linear 
+regression using similar data and simple linear regression model using only the crop sensor 
+data.  
+So, they predicted the results , they utilize , they established the use of these portable crop 
+sensor data and machine learning data together for better precision nitrogen measurement.  (Refer Slide Time: 28:44)  
+ 
+So, there is a here we wrap up this lecture. And this week, of course, I have tried to show you 
+these advancements in crop and soil sensors and their application for prediction of different 
+soil and crop properties. In combination with different machine learning models. Of course, 
+these are producing some overviews, but I have mentioned these references so that you can 
+go back and consult these papers for better under standing of what is act ually going on. So, 
+you feel more and more confident of using this type of machine learning algorithms with your crop and soil data for better soil and crop management strategies.  
+So, let us wrap up our week 6 here, and in our next week, we  will be talking about a very, 
+very important aspect of machine learning based soil and crop management that is image and image -based , image processing and their subsequent use with machine learning for soil and 
+crop management. So, thank you guys for joining and let us m eet in our week 7 lectures.  

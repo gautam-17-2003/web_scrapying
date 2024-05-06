@@ -1,0 +1,296 @@
+Machine Learning for Soil and Crop Management  
+Professor Somsubra Chakraborty 
+Agricultural and Food Engineering Department   
+Indian Institute  of Technology Kharagpur  
+Lecture 04  
+General Overview of ML and DL Applications in Agriculture (Continued)  
+Welcome fri ends to this fourt h lecture of week one of this NP TEL online certification course 
+of machine learning for soil and crop management. And in this week, we are having a general 
+overview of machine learning and deep learning applications in agriculture. In our  past three 
+lectures, we have discussed broadly some important concepts, we started with the machine learning and what is big data and then what are the different types of challenges we have in 
+the big data storage.  
+(Refer Slide Time: 01:01)  
+ 
+Also, we ha ve seen the application, the basic overview of machine learning and then artificial 
+intelligence and deep learning and their interrelationship, what is the difference between a 
+basic computer program and machine learning program we have seen, we have also seen the supervised learning as well as unsupervised learning, then semi -supervised learning and 
+reinforcement learning, we have seen some good examples of reinforcement learning and 
+also we have started discussing about the deep learning.  
+So, today we ar e going to start from there, we have already covered this thing. So, let us go to 
+the deep learning, and we will go from there wh ere we left in our last lecture.  (Refer Slide Time: 01:52)  
+ 
+  
+So, we have also discussed the basic structure of machine le arning, why it require some pre -
+processing stage why it require  some features selection or extraction step and what is the 
+feedback loop, this type of discussion we have made in our last lecture. So, we have started 
+with a deep learning. Remember, this dee p learning is a subfield of machine learning as I 
+have already told you and in thi s machine learning architecture  the deep learning generally do 
+not consider this feature engineering step.  
+And it  presents a fully trainable system. And it starts from a raw  input and ends with the 
+desired output. So, just an example of deep learning, as I ha ve told you, that convolutional 
+neural network , this is an example of deep learning, it is a very common deep learning 
+method. And suppose, there are some  images and from  these images, it learn the feature 
+levels in scenes and then utilize this in the subsequent model development .  
+We will discuss their architecture and their application in our subsequent lectures, but at  this 
+point, just remember that  they basically learn  the feature levels in the scenes and then they 
+utilize these for subsequent prediction or classification problems.  (Refer Slide Time: 03:34)  
+ 
+Now, let us see why we are talking about machine learning applications in agriculture. So, if 
+we see some of t he contemporary challenges of modern agriculture , these are some of the 
+contemporary challenges of modern agriculture . First of all increasing food demand, so 
+increasing food demand is a very important challenge of modern agriculture and  at the same 
+time there is global population explosion.  
+So, to meet the increasing food demand, which is proportionate to the global population 
+increase rate, we need to increase the productivity of the crop and to improve the crop 
+productivity, st ill maintaining the profit  of the farmers, we require  to add up some modern 
+tools in agriculture otherwise, using the traditional methods it is getting difficult each and every day.  
+Simultaneously, there are some other challenges also like climate changes, climate changes has created some obstacles in performing some of the previous steps tra dditional pract ices 
+which you are used to adapt for example, burning of the stubble, this is a very important issue nowadays, specifically in Indian subcontinent, where farmers are burning thei r rice stubble 
+after after harvesting their crop , wheat stubble after harvesting their crop and that creates a 
+huge environmental impact.  
+So, this climate change effects are also very important which instructs the agriculture to add 
+up new modern technologies. Also, natural resource depletion is another important thing as the time progresses natural resources  are continuously depleting and as a result, there are 
+exertions  of the water resources.  
+So, we need to use some judicious management practices and t hese judicious management 
+practices can only be done when you use some decision support system and these decision  
+support systems are generally used in the modern agricultural practices. Alteration of the 
+dietary choices another important issue .  
+Due to gl obalization, the human dietary choices are getting also changes and that i s why 
+modern agriculture should cope up with these changes in their dietary choices using some 
+advanced tools. And also finally, there are some safety and health concerns . Earlier th ere 
+were  least health concerns , but nowadays, due to the safety and health concerns, the applicate 
+the modern agriculture is is a is undergoing some drastic changes.  
+(Refer Slide Time: 06:52)  
+ 
+  
+So, what are the consequences of these challenges ? The challenges results in huge pres sure in 
+the agricultural sector,  and also as a result of this pressure in the agricultural sector, there is a 
+need for optimization of the agricultural practices without putting extra environmental 
+burden, we cannot , we have to reduce these challenges .  
+But at the same time without putting any extra burden in the environment , because the 
+environment is already stays by default anthropogenic activities and to reduce the 
+environmental impact while maintaining or improving the crop productivity and profitability 
+of the farmers is always a very -very challenging task.  
+So, that is why the concept of precision agriculture came. So precision agriculture is the 
+management practice or it is a concept or philosophy that identifies , that add resses these 
+challenges to improve the agricultural practices without putting any extra environmental burden. S o, what is the definition of the precision agriculture ?  
+The International Society of P recision Agriculture defines that precision agriculture is  a 
+management strategy that gathers processes and analyzes temporal spatial  and individual data 
+and combine it with other information to support management decisions, according to estimated variability for improved resource use efficiency, productivity, quality, profitability 
+and sustainability of agricultural production.  
+So, very important definition, and it covers a wide variety of sectors and aspects. First of all, 
+it says about it analyzes temporal data, so not only the spatial  data;  it also encompasses the 
+temporal data, spatial  and individual data from different sensors and combine it with other information of support management decision. So, there are other infor mation also not only 
+the sensor  information or sensor generated values, but also some aux iliary information 
+suppose we want to develop a soil map or using digital soil mapping.  
+So, in case of digital soil mapping, we are not only using the legacy soil data, but also we are 
+incorporating some correlated or auxiliary data from different sources  like rainfall data, 
+climatic data, also the topographic data. So these are the other sources, which we are incorporating and ultimately we are producing a high resolution sitemap through DSM 
+practices or DSM methodology.  
+So it ultimately helps us for tak ing the management decision according to the estimated 
+variability for impro ved resource use efficiency.  Our objective would be to improve our 
+resource use efficiency;  we want to minimize the wastage of resources, at the same time we 
+want to increase the p roductivity. So, when we improve the resource use efficiency and 
+minimize the wastage that will increase our profitability and also the quality of the products 
+and finally, sustainability of the agriculture production.  So, you can see that in this definit ion, it covers all the major objectives of precision 
+agriculture and machine learning helps in achieving these objectives in the precision 
+agriculture using artificial intelligence. So, machine learning is a small subset of precision 
+agriculture, which is it uses to achieve these different types of goals.  
+(Refer Slide Time: 11:03)  
+ So, this gives a very  broad structural overview of precision agriculture, you can see precision 
+agriculture has their irrigation system, also it gathers the data from its weather station, it 
+gathers data from soil moisture sensors  station , also evapotranspiration sensors on drone, it 
+uses the data and then process the data through a decision support system and ultimately, it 
+sends the data into a smartphone and farmers can get the results of the required inputs in their 
+hand in the form of irrigation a nd also some time nutrients .  
+So, this is the precision agriculture , once you have proper  information of the spatial 
+variability and temporal variability of the soil properties or properties, you can manage your 
+resources in a better way and that is the ultimate goal of precision agriculture.  
+(Refer Slide Time: 12:14)  
+ 
+Now, if you see the cycle of precision agriculture, the cycle of precision agriculture has 
+different components a s we have, I have I mentioned in the slide you can see here, GIS and 
+crop yield maps are there. And then fertilizer , irrigation , pesticide recommendations are their 
+algorithms for biotic and abiotic stress and abioti c stress detection  are there,  variable 
+technology or VRT is there,  vegetation is another important part.  
+So, all these are important components of precision agriculture, and the objectives the major objectives of precision agriculture is to increase the production of the crop and then reduce 
+the labour time and finally, effective management of the fertilizer and irrigation. So, these 
+three are very important objectives of precision agriculture.  And as you can see, that this fertilizer recommendation, identification of the biotic and 
+abiotic str ess, VRT, GIS and cropping maps all these are having the application of machine 
+learning and deep learning approaches.  
+(Refer Slide Time: 13:35)  
+ 
+So what are the benefits of agricultural modernization?  If you see the benefits of the 
+agricultural moderniz ation, as I have pointed out that there are three major benefits , one is 
+environmental sustainability, so that we do not degrade the environment or we cannot put 
+extra burden on the environment.  
+And then at the same time, we do the maximum productivity and to maximize the 
+productivity and sustainability, because until the farmers are getting the profit from 
+agriculture modernization, it will  be difficult for them to add up these new new technologies 
+in their field, because the agriculture sector is run thr ough profit making.  
+So if there is no profit, then there will be problem of a doption of new technologies. So 
+sustainability, maximum pr oductivity and safe environment  these are the three benefits of 
+agricultural modernization.  (Refer Slide Time: 14:37)  
+ 
+ 
+Now, what are the four p yield ars of smart farming? If we see the smart farming there are four 
+major p yield ars. One is optimum natural resource management, and secondly is the 
+conservation of the ecosystem ; thirdly, adequate service development and four thly, use of 
+modern technologies.  
+So optimum natural  resource management means when w e are optimally using the natural 
+resource , we are not over exploiting the natural resource , when we are irrigating, if we are 
+irrigating based on the sensor records, sensor records and also some model output.  
+So, in that case we are doing the irrigation management and that is optimum natural resource 
+management , we are reducing the wastage of the irrigation water , then we are conserving the ecosystem , then we are doing t he adequate service deployment and finally, we are using 
+modern technologies for achieving these goals.  
+So, these are the four p yield ars of smart farming and if we consider the information and 
+communication technology or ICT, which is a very common word n owadays, they are 
+especially in the agriculture sector;  this ICT application  in agriculture has diff erent 
+components.  For example, farm management information s ystem is an important component , then 
+humidity and soil sensors are very important component and then accelerometers, then 
+wireless sensor networks . then cameras for taking the images, then drones also for taking the 
+images, the low cost satellites, online services and automated guided vehicles all these are part of the information and communication technology.  
+Nowadays, automated guided vehicles have been used with machine vision for performing 
+different types of field operation like weeding, like harvesting also, online services are there 
+to provide the required  information to the farmers doorstep, also there are some local service 
+satellites, drones are being utilized for spraying and other operations and also to take the 
+images for better image processing and management decisions .  
+Cameras are being used for for taking the images and developing t he image based algorithms, 
+wireless sensor networks are being used for IoT or internet of things. So you can see that a 
+multitude of elements are there in the ICT especially when we talk about agriculture.  
+(Refer Slide Time: 17:37 ) 
+ So, if we move ahead we will see that what are the major sectors under agriculture where 
+machine learning has got their application?  First of all the crop management , so machine 
+learning has a huge application in the crop management and this category involves studies 
+concernin g with the yield  prediction,  then disease detection, then we detection, crop 
+recognition and crop quality.  
+So, you can see that all these four to five categories are important and show s the application 
+of the machine learning in the crop management sector . And then the second is the water 
+management, water management this category is associated with the optimal use of natural 
+resources or water resources.  
+Then soil management this category is related to soil protection and soil management aspects. And finally in the livestock management and this category involves the management 
+pertaining to the animal welfare and livestock production. Now a mong all these all these four 
+in this course, we are going to focus on crop management and soil management.  
+So, we a re going to focus the application on crop management specifically focusing on yield  
+prediction, disease detection, we ed detection, crop recognition and crop quality and in case of 
+soil management, we are going to discuss the application of machine learning for soil 
+property prediction and rapid clustering of soil features for better management decisions. So 
+we are going to discuss all these .  
+(Refer Slide Time: 19:50)  
+ 
+  
+So there has been a review. There is a review done by Benos et al  in 2021 to see the 
+emergence of machine learning application in agricultural sector and they have found that , 
+they have  around 300 to 400 research papers, they have consulted and they have seen, this is 
+the geographical distribution of the contribution of each country to the  research field focusing 
+on machine learning in agriculture.  
+And you can see here the maximum contribution of machine learning in agriculture is coming 
+from China and also from United States. India is also contributing, India and Australia is also 
+contributing a considerable number of studies in the field in the domain of machine learning 
+application in agriculture. And secondly, we can see here machine learning models giving the 
+best output .  
+If you see that artificial neural network is giving which is a deep learning method is giving 
+best results in most of the crop related or agricultural sector related machine learning 
+application papers followed by Ensemble Learning, Support Vector Machine, D ecision Trees 
+then R egression and then Instant based model then Dimensionality reduction, Bayesian 
+model  and clustering.  
+So, we can see and also the in which which area they are doing also are given here like you 
+can see here these green indicates the yield  prediction and then this  blue indicates that disease  
+detection and then this is w eed detection, then crop recognition, and then crop quality. 
+Finally, this is the water management and yellow is the soil management, then animal welfare 
+and finally, livestock production.  So, you can see in most of the cases artifi cial neural network, which is an important and 
+widely used deep learning method is giving the best result .  
+(Refer Slide Time: 22:18)  
+ 
+If you see the 10 most investigated crops using machine learning models will see that mai ze 
+has been extensively studied by application of machine learning, you can see here yield  
+prediction, then disease detection and crop recognition and small amount of crop quality 
+studies have been done and also followed by wheat, rice, soy bean, tomato, grape, canola or 
+rapeseed cotton , potatoes and barley.  
+So, maximum machine learning application related papers pertaining to the maize. So, the part of the reason is these maize is universally cultivated in all the countries specifically in 
+the United States, in Europe and also in India  and also in China, where we use this machine 
+learning application for better crop management and decision support system.  
+Also, if we see the most useful features, which the users use from different types of machine 
+learning application. So, in case of y ield production, w e can see the remote sensing is th e 
+most important feature for yield  prediction in the machine learning model followed by 
+weather  and then soil parameters , in situ measurements, topographic variables, and also 
+irrigation and fertilization .  
+So, these are the some of the important most useful features, while we use machine learning 
+for yield prediction. When you go for the disease detection, RGB images, which you take 
+using the RGB cameras are very much useful, followed by spectral measurem ents and others, when you go further weed  detection in situ RGB images followed by UAV RGB images , in 
+situ multispectral images , UAV multispectral images, then unmanned ground vehicles, 
+satellite sp ectral data and others are very  very important.  
+When you talk about crop recognition the satellites are very important ; the in situ  manual 
+measurem ents are also very important , then laboratory measurements, RGB images, 
+hyperspectral images,  these are important consideration, these are important features for crop  
+recognition using machine learning.  
+When you talk about the crop quality RGB images, X ray images and then quality parameters 
+and then spectral data from the spect ro radiometer and satellites data are very very important . 
+When you talk about the soil management, the soil properties , weather data, remote sensing 
+data, topography data, proximal sensing data, soil moisture content data, the crop properties , 
+these are all important features.  
+And in case of water management we can see whether influences most in case of water 
+management followed by remote sensing then soil water content then stem  water potential 
+and then in situ measurements soil data and others .  
+In case of livestock measurement, motion capture sensors are the most important sources for 
+and followed by up to acoustic data, physical and growth characteristics weather data, these 
+are the most useful features or  variable which gives the desired outputs or in other  way we 
+can say that these are the most important features or variables which are necessary for developing a calibration model for trading model for yield prediction, disease detection , weed  
+detection, crop recognition, crop quality identification, soil management, water management and livestock management.  (Refer Slide Time: 26:30)  
+ 
+ 
+So, if we focus on the crop management, you can see that it involves versatile aspects that 
+originate  from the combination of farming techniques in the direction of managing the 
+biological, chemical and physical crop environment with the aim of reaching both 
+quantitative and qualitative goals.  
+So, if we see using advanced advanced approaches to manage crops, what are the sectors , as I 
+have already told you yield prediction is an important sector followed by disease detection, 
+weed  detection, crop recogniti on and crop quality detection;  all these are very  very important  
+approaches to manage the crops using machine learning.  So, first we will see that yield prediction. Yield prediction is one of the most challenging 
+topic in agriculture , because an accurate model ; we need an accurate model t o help the farm 
+owners to take, inform management decisions on what crop to grow towards matching the 
+crop to the existing market ’s demand.  
+But this is a very very difficult task, because crop growth is a phenomenon  which  depends on 
+several interconnected factors and it is not a simple model can do that. S o, that is why we can 
+say that it is a very important challenging topic in agriculture. So, it is  basically determined 
+because, why it is challenging, again it is determined by several factors , such as environment 
+management practices, crop genotype and phenotype characteristics and their interactions .  
+And it requires , and to predict the crop it requires  a comprehensive data and also powerful 
+machine learning models. So, unless you have a comprehensive data set and also very 
+powerful machine learning models, you cannot do the yield  prediction.  
+(Refer Slide Time: 28:40)  
+ 
+Now, some examples  let us see some very good examples. So, here in this study Gong e t al, 
+which was published in sensors in the year 2021, you can see that they have used a novel 
+neural network based methodology, novel deep neural network based methodology. They 
+have proposed to predict the future crop will based on the historical yield and gre enhouse 
+environmental parameter.   
+What are those environmental parameters ? You can see here, the carbon dioxide 
+concentration is an important greenhouse environmental parameter then tempera ture, humidity, radiation etc. these are important  parameters. You can see here they are doing the 
+data nor malization.  
+And once they a re doing the data normalization, they are incorporating the data in the LST M 
+which is the long short term memory and RNN , recurrent neural network and the n they are 
+concatenating the LS TM outputs and fin ally they are incorporating in t he TCM part and then 
+finally they are getting the predicted .  
+So they a re fully connected layer part and finally, they are getting the predicted yield. So, if 
+we see these research, there are the proposed method is based on the hierarchical integration . 
+As you can see, these are hierarchical integration starting from the no rmalization part, then 
+this LSTM which is long short term memory and then RNN which is the recurrent neural 
+network and temporal convolutional network neural network .  
+You can see here TCN part and which  are the other state of art, DNN  architecture for 
+temporal sequence processing. So, ultimately, we are getting the , we are predicting the yield .  
+(Refer Slide Time: 30:45)  
+  
+ 
+So, four major parts one is  normalization part and other is recurrent neural network part, 
+which we can see here, then temporal convolutional network part and finally, the fully 
+conne cted layer part we can see here.  Ultimately, when all these four parts are connected 
+together, they are giving the predicted yield.  
+And you can see for three different data set s these are the accumulated tomato fruit yield  with 
+the passing of the days, so temporal changes in the  fruit yield for three different dataset. Also 
+we can see that ground truth tomato fruit yield values and predicted ones for testing the 
+datasets we can see here directly.  
+So, days of year 2018 for three different datasets you can see that how the predicted values 
+are matching with the actual values using the machine learning models. So this shows some of the good applications for machine learning in agriculture for yield prediction. Let us wrap 
+up our lecture here, and in the next lecture we will start from here and we will see some more 
+applications of machine learning algorithm s for crop and soil management. Thank you.   

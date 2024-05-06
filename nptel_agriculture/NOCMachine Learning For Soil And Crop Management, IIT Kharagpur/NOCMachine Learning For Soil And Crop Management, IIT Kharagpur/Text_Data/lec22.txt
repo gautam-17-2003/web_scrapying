@@ -1,0 +1,335 @@
+Machine Learning for Soil and Crop Management  
+Professor Somsubhra Chakraborty 
+Agricultural and Food Engineering Department  
+Indian Institute of Technology Kharagpur  
+Lecture 22  
+Diffuse Reflectance Spectroscopy: Basics and Applications for Crop and Soil (Contd.)  
+Welcome friends to the second lecture of week 5 of NPT EL an online certification course of 
+machine learning for soil and crop management.  
+(Refer Slide Time:  0:32)  
+ 
+And in this week, our topic is D iffused Reflectance Spectroscopy:  Basics and Applica tions 
+for Crop and S oil. So, this is our second lecture and overall it is lecture number 22. So, in this 
+lecture, we are going to discuss some of the important topics of diffuse reflectance 
+spectroscopy and soil spectroscopy. In our previous lecture, we ha ve covered some of the 
+important aspects of what is panchromatic image, what is multispectral remote sensing, what 
+is hyperspectral remote sensing, what is ultra -spectral spectra and then, what are the 
+differences between their resolution and also we have focused on hyperspectral data cube and then we have started discussing the point spectroradiometers .  
+We have seen the difference between point spectroradiometers and imaging spectrometers , 
+imaging spectrometers and imaging radiometers . We have seen some examples and then we 
+have started discussing of the different aspects of soil spectroscopy we have defined what is 
+called soil spectrosco py, we have seen the different zones like mid infrared spectra, then 
+visible to near  infrared spectroscopy, why mid  infrared spectroscopy contains more 
+information we have discussed because it contains the fundamental bands or  fundamental spectral features, which are arising from different soil minerals as well as from soil organic 
+matter.  
+However, the ir overtones and combination bands are appearing in the visible to nearly 
+infrared  range. And that is why we required specialized spectral preprocessing as well as 
+chemometric algorithms for resolving that complex pattern from the VisNIR -DRS  spectrum. 
+So, we have discuss ed all this.  
+(Refer Slide Time:  2:48)  
+ 
+Now, in this lecture, we are going to start with the discussion of soil spectral . And then 
+spectral library and then we are going to discuss some the important specification of the 
+commercially available spectroradiometer  and also we are going to discuss spectral 
+resolution. S pectral resolution very important concept and why it is important we are going to 
+discuss , what are the spectral resolution of spectroradiometers which we are also going to 
+discuss.  (Refer Slide Tim e: 3:15)  
+ 
+So, these are the some of the important keywords  for this lecture, soil spectra,  spectral 
+liability , spectral resolution, FWH M or full width half maximum and then sampling interval. 
+So, these terms will be discussed in this lecture.  
+(Refer Slid e Time:  3:35)  
+ 
+So, let us start with the building a spectral library. Now, it is when we talk about soil 
+spectroscopy, it is very much important for to build a spectral library focusing on a study 
+focusing on some soi l properties  focusing on some area region  for building the future models 
+as well as we can also utilize the legacy soil samples which have already collected before by different types of sampling procedures. So, that those are called the legacy soil samples.  So, which you have already measured in the lab and the properties have been already 
+digitized and listed. So, these are known as the legacy soil samples. So, these legacy soil 
+samples also can be used for developing of spectral library it is very much important for now, 
+nowadays that you should build a spectral library for focusing on different types of soil 
+covering a wide variation of soil properties. So, that you can develop the spectral algorithms 
+for eac h individual  region specific calibration model because there is there are certain 
+problems while developing an universal model.  
+So, it has been recommended by several scientists that you should develop a region specific 
+calibration model , spectral calibration model and for that you need to develop a spectral 
+library. So, this spectral li brary can be also used for future matching of any soil spectra. 
+Suppose, we have a large spectral library , we can capture, the  when once you create this large 
+spectral liability, which will be combining both the spectral information as well as the soil 
+properties.  
+So, this spectral library can be in near future if we have developed a large spectral library combining both different soil properties as well as the spectral information then, you can use 
+this library for a matching of a spectral matching for fr om an unknown soil samples which 
+you can collect from any area of the world. So, the question comes how  to build this spectral 
+library?  So, let us see the step by step which and this flowchart was given by the Viscarra 
+Rossel and McBratney  in the year 2008, which shows the step by step method of 
+development of spectral library.  
+So, if we can start with the, there are 2 different part , one is building the spectral library, and 
+then using the spectral library. S o, when you concerned about the buil ding the spectral 
+libraries, we wi ll start with the legacy soil samples, what are the legacy? So, we start with the 
+legacy soil samples which have been already collected before. So, we scan the soil samples and then we go for the outlier analysis . Is there any outlie r spectra or not?  So, if there is an 
+outlier, then if there is an outlier, then we should rescan the sample and then again check whether that is outlier or not.  
+If it is, if after the scanning if you see that there  is no, that was a mistake and it was not  
+actually an outlier then of course, we can go with the multivariate calibration using  
+chemometric algorithm. However, if after rescanning, we still find that this is an outlier, then 
+we should go with the new targeted soil sampling, because that may repre sent a new type of soil and we should do the sampling of the same type of soil for bui lding or augmenting the 
+spectral library. Now, this is one of the  way.  
+Also we can define a study area and then we can define a sampling design for collecting the 
+sample s from the study area. Once we define the study area define the sampling design, we 
+can collect the soil samples. A fter collecting the soil samples, we can scan the soil samples , 
+after scanning the soil samples, we can do the outlier analysis just like we have done in case 
+of legacy soil data. So, if it is no if there is no outlier of course, we can select the sub sample 
+for laboratory analysis and then we can develop the multivariate calibration as we have done 
+in case of legacy soil samples.  
+However, if t here is an outlier, then we should rescan the soil and then if there is of course, if 
+the outlier  was detected by mistake, then we can go back to this pathway. However, if it is 
+still outlier , then we should go for the laboratory analysis and measure labor atory accuracy 
+that will be an important issue. So, our laboratory analysis may be defective. So, we can 
+check the laboratory analysis either way, or we can go with the new targeted soil sampling 
+just we have done in case of legacy data.  
+So, this is about  how to build a spectral library. However, how to use the specter library, once 
+we develop this multivariate calibration model using chemometric algorithms that we can 
+utilize for predicting the soil properties from unknown samples. So, we can collect the soil 
+samples, we can scan the soil samples, and after scanning the soil samples, we wi ll see does it 
+fit in the spectral domain of the library or not by spectral matching. So, we can see whether 
+that scan about the soil does fit in this spectral domain of the library or not.  
+So, if it is yes, then we predict the soil properties based on this multivariate calibration. If it is 
+the answer is no , then we go for the laboratory analysis . So, this is how we generate and use 
+the spectral library  is very precisely  given in this publication. So, those who are interested, I 
+would request it, I would request you to go and see this publication for more important information. (Refer Slide Time:  10:06)  
+ 
+So, this plot shows the soil spectra, typical soil spectra of seve ral soil samples, hundreds of 
+soil samples and you can clearly see that the spectral features which are arising at 1450 
+nanometer and then 1900 around 1900 nanometer , 1910 nanometer and then the spectral 
+features which are arising at around 2200 nanometer and so on so forth.  
+These are the broad spectra of the broad reflectance spectrum. However, this should be 
+coupled with the spectral preprocessing to get more high signal to noise ratio. So, we wi ll see 
+that spectral preprocessing in our coming lectures.  
+(Refer Slide Time:  11:13)  
+  
+So, these are soil spectra, s o, if we define the soil spectra  so if you divide that soil spectra, 
+which we have seen in our last slide into low clay content and high clay content, you can see 
+the clear difference that low clay content soil sand clay, a high clay content soil in the 
+spectral differences can be easily visible. O f course, because of high clay content, the 
+concentration ; high clay concentration, the soil will be much more darker and the reflection 
+will be comparat ively less than those which, for those soil which are having low clay content.  
+So, it is quite expected that the low clay content soil will have higher reflectance values than 
+that of high clay content soil because of color difference. So, one thing you s hould 
+understand that there is absorption features which are detected by the spectroradiometer should be are generally very narrow which are less than 20 nanometer. So, narrow band 
+width s are necessary. So, we should select the spectroradiometer in such a fashion that each 
+should capture these narrow spectral features.  
+So, that is why multispectral remote sens ing or multispectral sensor cannot detect these minor 
+spectral features w hich are less than 20 nanometer . So, that is why we require  these 
+hyperspect ral point spectroradiometers  which can which are having the  narrow bandwidth 
+and this narrow bandwidth is it is capable of capturing these capable of capturing these small 
+spectral features. So, many important bandwidths are also fairly shallow. So, high r adiometric 
+resolution and SNR is also necessary.  
+So, not only the low bandwidth, but also high radiometric resolution and also signal to noise ratio is also necessary . Signal to noise ratio, high signal to noise ratio is important because we  
+want to remove that noise and we want to keep the signal so, that or remove or reduce the signal noise , so, that the signal to noise ratio can be maximized. S o, that we can capture the 
+targeted analyte more easily from the spectrum instead of a spectral curve which is having 
+low SNR. So, low SNR is not preferable , high SNR is always preferable for prediction of a 
+target analyte.  
+(Refer Slide Time:  14:00) 
+ 
+So, the next question comes why we use spectroradiometer . So, generally, we use the 
+spectroradiometer as far as th e soil spectroscopy is concerned we generally use for ground 
+based remote sensing for ground truthing whatever we can see from the satellite or airborne 
+sensors, whether that reflects actually the surface features or not for that we need some 
+ground truthi ng and for these ground truthing we use this point spectroradiometers. So,  
+basically this spectrophotometer helps us for understanding the basics of the target and electromagnetic radiation interaction between this target and this radiation .  
+And also it helps in as I have told you it is a point spectrophotometer it helps in the point and 
+singles pixel based study and then spectral ground truth of satellite remote sensing it is used for spectral ground truth of the satellite remote sensing we require and al so we also require as 
+a reference for upscale to satellite airborne. I f we can develop any spectral algorithm using 
+this point spectral radiometer, we can upscale it into the satellite and airborne sensor it is 
+possible.  
+So, that in future by taking the hyperspectral image from the satellite platform or airborne 
+platform, we can quantitatively measure the components within the image. So, this is why we 
+use the spectroradiometer as far as the soil use is concerned . And in for in case of crop, we generally u se a spectrophotometer for detecting the stress of the crop which I will discuss in 
+our upcoming lectures also, so, for example, salinity stress and also we can generate some 
+kind of spectral features or spectral index and we can calculate the spectral ind ex also using 
+the spectral features .  
+And also some time we use the spectral features or spectroradiometer for the, for capturing 
+the environmental quality by seeing the phenotype, by seeing the spectral feature changes in 
+the crop, which I am going to als o discuss in our coming lectures. So, these are some of the 
+basic requirements for using the spectrophotometer.  
+(Refer Slide Time:  16:31)  
+ 
+So, let us see the basics of VisNIR -DRS  or visible near infrared diffuse reflectance 
+spectroscopy. So, this visible  and near infrared diffuse reflectance spectroscopy is a 
+technology that uses a contact probe or mug light. So, this is called a contact probe, which is 
+generally connected through the original spectroradiometer , it has its own light source and 
+also it has  a detector.  
+So, these produce when this light is coming from this window and reflects from any surface 
+let us consider it is a  soil, the soil will reflect some amount of radiation and this is reflected 
+radiation will be captured from 350 nanometer to 2500 nanometer using the detector which is present inside this.  
+So, this is called the contact probe, there is are some similar type of fore -optics or similar 
+types of fore -optics are there and attachments are there which we are also going to discuss. 
+So, this is how these and once it captures this reflected energy, it transferred this reflected energy directly to the spectroradiometer  through fiber optic cable. So, this is how this works 
+and it is field portable, it is v ery simple to you handle and also the reflectance pattern can be 
+correlated to a number of soil properties which we are going to discuss. So, this VisNIR -DRS  
+basically captures the visible to near infrared range, which generally varies from the around 
+350 to 2500 nanometer region.  
+(Refer Slid e Time:  18:19)  
+ 
+So, we know that when there is a white light is coming and interacting with the soil material, 
+some amount will be detected. So, these VisNIR -DRS  there is basically captures this 350 to 
+2500 nanometer wavelength range in by their detector and measured the reflectance values or 
+any other values like absorbance values using these detectors in the range of 350 to 2500 
+nanometer that means, it captures . Both 350 to 700 nanometers that is visible range and 700 
+nanometer to 2500 nanometers that i s the near infrared region. So, visible to near infrared 
+range, it can totally capture and then it can measure using this we know detected reflectance 
+it predict soil properties.  (Refer Slide Time:  19:10)  
+ 
+So, you know that one can measure the light ene rgy at various wavelengths which is known 
+as the spectrum and this is the typical soil spectrum with these are different 4 different types 
+of soil silt loam, loam, sandy loam, loamy sand, and we can see that different types of 
+spectral features are arising . So, the maxima and minima of the spectral reflectance curves , 
+minima are caused by absorption. So, these are the minima. So, these are caused by the 
+absorption.  
+And we call them the absorption features or absorption bands and the difference in absorption 
+and scattering for different wavelengths can be used to identify the compounds. So, of course, 
+the higher concentration of these compounds will result in higher absorption and lower 
+concentration will result in lower absorption. So, we can, using the chemometric algorithm, if 
+we capture this spectral variation through a quantitative way, we can predict the variation of 
+certain soil parameters. So, this is how these VisNIR -DRS  works.  (Refer Slide Time:  20:20)  
+ 
+So, these are the specification of the spectroradiometers you can see there are I have 
+compared t wo most widely used spectroradiometers , one is PSR  3500 and then FieldS pec 
+spectroradiometer . So, you can see both of them are having the spectral range of 350 to 2500 
+nanometer and the spectral resolut ion generally varies from one region to another region. So, 
+you can see  2.8 nanometer at 700 nanometer, 8 nanometer 1500 nanometers , 6 nanometer at 
+2100 nanometer in case of PSR  3500. In case of FieldSpec, it is  3 nanometer  8 resolution at 
+1400; 2100 nanom eter it is 8 nanometer.  
+So, in case of the in the VNIR  range, which is a , which is they called it is the given this  
+specific name is given by the manufacturer which from the 350 to 1000 nanometer range , the 
+detector is mainly 512 element  silicon photodiod e array which we are going to discuss . So, 
+and also from the 970 to 1910 nanometer there  are indium , gallium, arsenide detectors and 
+also the 1900 nanometer to 2500 nanometer t his is also indium , gallium, arsenide detector.  
+So, then there are other options like what are the field of views like 4 degree, 8 degree, 14 
+degree lens, 25 degree fiber optic diffuser integrating spear . So, these are different types of 
+FOV  options are there , what are the FOV s we are going to discuss also. So, here you can also 
+see in the VNIR  range which is 350 to 1000 nanometer they have 512 element NIR -enhanced 
+silicon  silicon array, and then SWIR 1 they are calling it SWIR 1 from 1000 shortwave 
+infrared 1000 to 1800 nanometer detector they have the again indium , gallium, arsenide 
+detector and then SWIR 2  from 1800 nanometers to 2500 nanometer .  There also the indium , gallium, arsenide detector. So, you can see that different types of 
+spectral features and their specifications are given. So, different types of FOV  options fiber 
+mount options are given we are going to discuss all these , wavelength accuracy is also given. 
+So, you can see  here in case a PSR 3500 wavelength  accuracy is plus minus 0.5 bandwidth 
+0.5 of bandwidth and in case of FieldSpec, the 0.5 nanometer average, s o, we can see that 
+plus minus 1 nanometer for any line so, you can see 0.5 nanometer average error of 
+wavelength calibration fi t.  
+So, this is how you compare the minimum scanning time you can see here 100 milliseconds 
+and here it is given 200 millisecond, but i t is a scanning time. So, this is how , you can 
+compare the different commercially available spectroradiometers  and what are the meaning 
+of these we are going to discuss what is spectral resolution, what is full width half maximum, 
+we are going to discuss b ut depending on your objective , depending on your purpose, you can 
+select which one serve your purpose best.  
+(Refer Slide Time:  24:14)  
+ 
+So, if you see the spectroradiometer  specs, the spectroradiometer  is basically composed of 
+these 4 or 5 components , one is a light source and then a dispersive unit or monochromator 
+and then a detector and then there are fibers and then absorbance or reflectance standard. So, 
+using these 5 components, we can measure the spectroradiometer  generally captures the 
+spectral in formation.  (Refer Slide Time:  24:41)  
+ 
+So, if we consider this modular concept, there are 3 z ones, this is actually given by the AS D 
+FieldSpec. So, you can see they are naming it the 350 to 1000 nanom eter they are naming it 
+UV-VNIR and then 1000 to 1800 nanometer SWIR 1  and then 1800 to 2500 nanometer they 
+are calling SWIR 2 . So, as I  have told you that in these UV -VNIR range  they are using 512 
+silicon photodiode array detector. SWIR 1 they are using the indium , gallium, arsenide 
+detector and in the SWIR 2 also they are using the indium , gallium, arsenide detector .  
+So, basically once the capture the common there is common bundle carriers of these a fiber 
+optic cable, so, which capture the reflected energy and then it distributes the energy into 3 of 
+these spectrometer, one is UV- VNIR, then SWIR 1, SWIR 2  and then they capture 
+individually this  individual region and then combine the results combined reflectance values.  (Refer Slide Time:  25:55)  
+ 
+So, if you se e the working mechanism, the VN IR, which is ha ving the 512 silicon photodiode 
+array, which is a which covers the spectral range of 350 to 1000 nanometer , here  this is the 
+fixed array and also here you can see these are undis bursed white light and fixed VNIR  
+grating, so, undisbursed white light is divi ded into dispersed and then they go through this 
+fixed array . So, grating splits the wavelength every 1.4 nanometer and these wavelengths 
+heats individual elements of the silicon photodiode array.  
+When we consider the indium , gallium, arsenide detector of  SWIR 1  and SWIR 2 range these  
+they capture the spectral range of 1000 to 1800 nanometer and then 1000 to 2500 nanometer , 
+it should be 1800 to 2500 nanometers please correct it , sorry for this so, 1800 to 2500 
+nanometer. So, these grating is basically mounted on a motor which scans continuously and 
+wavelengths.  
+So, here the undispersed light and then the scanning SWIR 1  grating which is movable which 
+is mounted on a motor and then there is a fixed SWIR 1  detector. So, individual dispersed lies 
+will go thro ugh the SWIR 1 detector and get detected. So, this is how this is working 
+mechanism of different detectors .  (Refer Slide Time:  27:37)  
+ 
+We need for any spectr al measurement we need a white r eference  panel we call them spectral 
+on panel. Generally , we ass ume that it has 99 percent  reflectance. I t is used for optimizing the 
+spectrophotometer . Also, it requires for white reference for simplifying the reflectance . It 
+helps in the removal of ambient temperature effect and also it removes the humidity effect 
+and optimize that and when we change the probe, there are different types of probe .  
+When we change the probe also in between that also to standardize the instrument we require 
+this white r eference panel which is  generally made up of some PTFE  or poly tetra fluoro 
+ethane, which is and also it is all it almost pure white and w e assume that this panel has 99 
+percent  reflectance.  
+So, we , this panel should be taken should be maintained very, very carefully, so, that there is 
+no scratch or no soil of this white r eference panels because this is the one which will be used 
+for optimizing the spectroradiometer .  (Refer Slide Time:  29:02)  
+ 
+So, let us disc uss what is spectral resolution? So, before we discuss the spectral resolution, let 
+us discuss the what is spectra l interval or spectral sampling interval also. So, if you see this is 
+a spectral response from a monochromatic source and you can see here this is an absorption , 
+absorbance spectra. So, sampling interval, so, if you consider the difference between these 2  
+points , the sampling interval is the spacing between sample points in the spectra. So, these are 
+the sample points. So, the spacing is known as the sampling interval.  
+So, remember that the sampling is independent of the resolution in case of as far as the  ASD 
+spectroradiometers it is between 2 to 5 times  per FWHM, what FWHM? FWHM  means if 
+full width half maximum. So, this is the maximum height and full width half of maximum. 
+So, this is the 50 percent  of the peak height. So, this is t he peak height and thi s is the 50 
+percent  of the peak height. So, this  region is known as the full width at this half of maximum 
+height or peak height. So, this is known as also the spectral resolution.  
+So, this is the sampling and sampling interval is generally is between 2 to 5 times per 
+FWHM. So, within one FWHM  there are 2 to 5 sampling interval. So, the sampling interval 
+here is 1.4 nanometer for the region of 300 in case of A SD and also in case of PSR we can 
+see the sampling interval is around 1.4 to 2  nanometer in the re gion between 350 to 1000 
+nanometer and 2 nanometer for the region of 1000 to 2500 nanometer. So, the spectral 
+resolution so, sampling interval we can see here, what is spectral resolution? T he spectral 
+resolution is this full width half maximum. So, spectr al resolution is defined as the full width half maximum of the instrument response 
+to a monochromatic source. This is a  monochromatic source instrument response at full width 
+half maximum. So, these spectral resolution values have been measured by calculat ing the 
+full width half maximum of a near monochromatic peak in a spectrum accurate when viewing 
+the output of a monochromator with the FieldSpec spectroradiometer.  So, higher the spectral 
+resolution that means, more narrow this full width half maximum. So , narrower this full 
+width half maximum means higher the spectral resolution.  
+(Refer Slide Time:  31:58)  
+ 
+So, spectral sampling generally or spectral sampling spectral interval generally refers to the interval at which the data numbers are collected or sampled along the response curve. So, 
+there is initially th is spectroradiometer  captures the data number and then they convert it to 
+the reflectance and absorbance. So, this spectral sampling refers to the interval at which the 
+data numbers or the DN s, DNs  are collected or sample along the response curve. And this 
+FWHM refers to the detected response derived from the exposure to a calibrated 
+monochromatic source and to be detected feature must be larger than the FWHM  
+spectroradiometer .  
+So, that is why this  resolution of the spectroradiometer should be , the spectral  resolution of 
+the spectroradiometer  should be less than that of the spectral features which are in cas e of soil 
+generally less than 2 0 nanometers.  (Refer Slide Time:  33:10)  
+ 
+So, let us discuss t his pre -dispersive and post -dispersive spectrometer in our next lecture, but 
+I hope that in this lecture, you have gathered enough information regarding the specs of the 
+spectroradiometer  the spec, I hope that the important features of the spectroradiomete r and 
+spectral resolution , sampling interval we have already covered . And you now have an idea of 
+how this  diffuse reflectance spectrophotometer generally works.  
+So, in the next lecture, we are going to discuss some of the other important feat ures and 
+specification like pre -dispersive and post -dispersive spectrometers. We are also going to 
+discuss the field of view and also we are going to discuss the different spectral processing. So, thank you guys.  
+(Refer Slide Time:
+ 34:09)  
+  These are the references which I have used in these lectures, these Viscarra Rossel  and 
+McBratney . And also I would recommend you to go through these books written by Wadoux, 
+Malone,  Minasny, Fajardo, McBratney, this is a one of the r ecent and most comprehensive 
+books, where you w ill learn how to deal with the spectral data using R. So, R is a very good 
+free software and you should know you should utilize this software for doing a lot of different 
+types of spectral modeling or spectr o transfer modeling.  
+And you can do a lot of sta tistical analysis using R which is an open source. So, you should 
+use this R for doing all the spectral transfer functions. And you can go with, you can see this 
+book I a m highly recommending this book that is S oil Spectral Inference with R  Analyzing 
+Digital Soil Spectra using R  Programming Environment written by these authors who are 
+known as the  topmost scientist in the world  as far as the soil spectroscopy is concerned.  
+So, you can gather more knowledge from this book if you are interested. So, thank you guys, let us meet in our next lecture, where we will discuss a different types of spectral specs of the 
+spectroradiometers  and also we are also going to discuss the spectral preprocessing. Thank 
+you.
+ 
