@@ -1,0 +1,340 @@
+Instrumentation and Process Control in Food Industry  
+Professor Ashis Kumar Datta  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology Kharagpur  
+Lecture 1  
+Introduction to Process Control  
+Hello everybody! We are going to start the new online course “Instrumentation and Process 
+Control in Food Industry”. This is an eight -week course, so about 20 hours of lecture. Today, 
+we start with module one, lecture 1, which is an introduction to process  control. I am A. K 
+Datta, I work in the Agricultural and Food Engineering Department at IIT Kharagpur.  
+(Refer Slide Time: 00:55)  
+ 
+Now, in this session, we are going to cover these concepts:  
+• Purpose of instruments: we use instruments, but sometimes we ar e not very sure what is 
+the exact objective of the instruments’ use. So, we will look into the different uses of 
+instruments for scientific purposes.  
+• Then we have functional elements of an instrument: how does an instrument actually 
+measure or indicate the  variable exactly as we want them to.  
+• There are some examples that will be covered here, like pasteurizer control, temperature 
+control for dryer, and water tank temperature control. The title of the course is 
+instrumentation and process control in the food  industry. So, these examples are from the 
+food industry. So, we will see how these cases actually fit into our scheme of things.  
+• And then lastly, we will go to operational amplifiers, which are basically the building 
+blocks of any control process. So, we will look into that also.  
+(Refer Slide Time: 02:08)  
+ 
+So, the purpose of instruments, as I was saying that we are not always sure about the purpose 
+or objective of the instruments. Here we have given three areas: monitor, control and analyse. 
+To “Monitor”  the processes and operations means that loosely when we use instruments, we 
+generally mean that we are going to measure something. So, that “measure something” is an 
+indicator of how the process or operation is going.  
+Say if I have a reactor, what is the  temperature of the reactor in a steady -state condition. If we 
+measure that, then we can tell that this is the steady -state temperature of the reactor. Then once 
+the monitoring part is over, we want feedback. The monitor variable will be given to the 
+contr oller. So, if there is a large deviation in the set value and the controller output, then the 
+error signal between the measured variable and the set value will decide how the process and 
+operation should be altered to control the process.  
+And lastly, we a nalyse the processes and experiments. To “Analyse” a process and experiments 
+means that we are not very sure about what kind of experiment result we are going to get, we 
+try to measure certain variables, and from that, we judge how the process of the exper iment is 
+going. So, analysis of processes and experiments is the third dimension of instruments’ use; 
+monitoring is the first objective. Loosely when we say we are going to use instruments, we 
+mean that we want to monitor processes and operations.  
+Second is we feedback that monitored variable to the controller, and then the controller varies 
+the process and operation parameters. And finally, the analysis part is mainly for processing 
+and experiments where we do not know much; it may be a groundbreaking are a or research 
+objective, something like that. We analyse the process from the major variable.  
+So, the processes operations are: typical thermometers, barometers, anemometers. They 
+monitor the environment. A thermometer is for temperature, a barometer is for pressure, an 
+anemometer is for air velocity; these we are familiar with. So, these are the best example of 
+simple instruments. Then water, diesel, and electric metres measure the quantity consumed. 
+Whenever we want to measure the flow rate  of water, diesel or petrol for that matter, electric 
+metres, energy metres, kilowatt -hour metres, these measure the quantity consumed.  
+(Refer Slide Time: 05:09)  
+ 
+So, the second objective of the instruments is the control of processes and operations, let us 
+look at this block diagram and sort of get an idea of how the controlling of process operations 
+are carried out. Here we have input energy or material ; how much energy w e are putting or 
+how much material we are taking in that is the input of the system . Then we have  the process 
+here. The process does something . Say input energy : if I am putting something like , say one 
+kilowatt -hour energy, then how much heating action I c an get, the process will decide  that, 
+depending on what instrument or what equipment we are using.  
+So, after the input energy and material enters the process, what comes out is the output of the 
+process. So, that is the control variable. So, this control variable goes to the instrument, i.e., 
+feedback  or start up the feedback process. The c ontrol variable is measured by the instrument , 
+and the instrument gives a measured variable to the controller , and the controller gives a 
+manipulated variable . We will e xplain what is measured variable , what is manipulated variable  
+in the next slide.  
+So, the measured variable goes to the controller , and the controller gives manipulated variable, 
+which is some alteration of the variable say, if I am a measuring temperatur e, I may convert it 
+to millivolt signal or milliampere signal. So, that is the manipulated variable . If the temperature 
+is high, I may get up to a maximum of 20 milliampere current, so that will be the manipulated 
+variable.  
+Then the 20 milliampere current  will go to the final control element . The final control element 
+will probably increase the heat input to the system . How? Because there will be some resistance 
+capacitance with electric circuit there, which will operate under the value of the manipulated 
+variable. So, the final control element will give the variable  feedback to the process and error 
+in the system , 
+𝜀=𝐼−𝐹 
+ 𝐼 is the input energy or material , and the variable  feedback is 𝐹.  
+So, I minus F is the error. Now, if the process is running exactly as we want it to , 𝐼−𝐹 will be 
+0, there will be no error, but that does not happen . There is always variability in the process. 
+So, actually , what would we gain from the feedback is the error signal , and the error signal will 
+have to be co ntrolled in such a way that it reduces the error for the next step.  
+(Refer Slide Time: 08:16)   
+So, the third objective of the instruments is engineering analysis . Engineering analysis require s 
+theoretical and experimental solutions to engineering problems . The proportion of theory to 
+experiment depends on the nature of the problem . Frontier areas or research efforts depend 
+more on experimentations based on instrumental interpretation.  
+So, rese arch and frontier areas are the domain s where experimentation and instrumental 
+interpretation is very important because we do not know exactly what we are going to find out . 
+We have to measure different variables ; we have to use instrument s to measure /indicate 
+different variables and then infer from that how the process is going.  
+(Refer Slide Time: 09:08)  
+ 
+So, here are the functional elements of an instrument.  As I was saying , the manipulated variable 
+and the actual measuring variable are different ; these  are examples . A particular example is, 
+say, I have a medium ; medium means it could be air, it could be water, it could be some fruit 
+juice or something like tha t. I want to measure some parameter . Say I want to measure pressure ; 
+the example here is given for pressure.  
+So, if I want to measure the pressure, then the primary sensing element is generally a strain 
+gauge . Pressure is measured by something like a diaphragm , a very thin, typically thin 
+aluminium diaphragm on which a resistance element or strain gauge is mounted. Now , as the 
+pressure increases, there is bending of the diaphragm . Since the diaphragm is thin, it will bend , 
+and as it bends, it will change the length of the strain gauge , and as length changes, the 
+resistance of the strain gauge  will also change.  
+So, if I have a voltage supply, DC volt supply across that strain gauge , that voltage will vary. 
+Generally , it is not that simple ; we cannot just have a strain gauge and measure the voltage 
+varying . Strain gauges are always part of Whea tstone bridge , and I am not sure if you are 
+familiar with that Wheatstone bridge ; it is basically a forearm bridge, where three arms are 
+fixed and one arm is your measuring resistance.  
+So, once the resistance changes, because of pressure applied on the di aphragm, then the bridge 
+will be imbalanced and it will give an output,  a positive output voltage. So, primary sensing 
+element for measuring pressure is strain gauge and the variable which we are altering is 
+resistance , not necessarily the volume or the fo rce. It is resistance which will give us the 
+approximate value of the pressure.  
+Then we go to variable conversion element . Conversion means, we are getting  voltage or 
+current out of the resistance. So, voltage changes means current will also change . Then we go 
+to variable  manipulation element . Manipulation means, we want to amplify the signal . For 
+example,  2 millivolt , 5 millivolt, 10 millivolt, 20 milliamperes are very small signal s and if 
+your range is large, if your scale is large, then these are not enough to indicate small changes.  
+So, we amplify ; 2 millivolt will be amplified to something like 5 volt, 10 milli ampere will be 
+amplified to something like 2 ampere. So, the manipul ated variable will give the amplified 
+signal which will go to the data transmission element . Here,  we are talking about instrument in 
+food industry, but you have to keep in mind the same instrument is used in Space Science also . 
+We are talking about food i ndustry measurement, but the same strain gauge pressure measurement is going on Mars surface or moon surface , and it is controlled from here on the 
+earth.  
+So, amplified signal goes to the data transmission element where we rely on digital signal 
+transmiss ion because if you try to transmit analogue signal over a long distance , it gets 
+distorted . The analogue signal is not reliable to maintain its sanctity . For example,  WiFi, i.e., 
+wireless fidelity,  which  basically means that the signal is not altered, the original signal remains 
+as such.  
+So, that is why digital transmission is always relied upon, because once you convert it to binary 
+0 and 1 , there is no question of any decay or any kind of loss . But if you try to transmit 2 
+millivolt,  this 2 millivolt wil l become 1.8 milli volt or maybe 2.3 million or something like 
+that. So that is why binary transmission or digital transmission is relied upon . 
+Then you have data storage playback element. Data storage means you have to store it 
+someplace , either in a computer or in a desk , and this will play back. So, finally we have data 
+conversion element and that will give  the observer the pressure . Data conversion means it is 
+being converted back from the digital signal to the stored data and the stored data will show 
+you the pressure based on calibration. See, I have five 5 bar pressure and that gives me 
+something like say 10 millivolt signal.  
+So, 10 millivolt signal goes to digital, then di gital form 100110 something like that, that will 
+go to the data storage and the storage will convert back based on the calibration, so that you 
+get to see not the 5 millivolt ; you get to see that 5 bar pressure . That is the observer ’s interest, 
+he does not  really want what the millivolt or milliampere signal is there. He is studying the 
+pressure of the system.  
+(Refer Slide Time: 14:52)   
+So, let us move on temperature control for dryer. This needs a little bit explanation, you see 
+here I have a dryer and a heater . The h eater is actually carrying current to heat the air , which is 
+coming in from the left side into the dryer . The heater is having an electrical heater, that will 
+receive current and will heat up  the air.  Typically the dryer heaters are 30 kilowa tt, 20 kilowatt, 
+50 kilowatt, something like that.  
+So, the dry  air comes in, the heater heats it, then th is dry air enters the dryer where it is in a 
+counter current system , which means that the air is going from left to right and the grain is 
+coming from  the bottom and going from right to left. So, the most wet  grain which is entering 
+the dryer meets the air which is almost exhausted , and then it is going out from the left side 
+where dry grain it is meeting the hottest air.  
+Moisture  is more difficult to remove  when the material is dry. So, that is why the dry grain is 
+in contact with the hottest hot air and the wet grain is in contact with the coolest hot air. Coolest 
+means they are b oth hot, but the relatively the left hand side is hotter than the right hand side.  
+So, the air is moving left to right and the grain is moving right to left. So, moisture goes out ; 
+that moisture is recycle d back to the heater , just to make sure that we do  not waste too much 
+heat, because heater here is giving you dry hot air that hot air is picking up moisture and 
+cooling. So part of it if you recycle, then we reduce that demand on the heater, the heater will 
+not have to heat up as frequently if I did not do that.  
+So, w et grain  is coming in, dry grain is going out . Here we have moisture metre . Moisture 
+metres are based on resistance capacitance ; resistance and capacitance not together , but  
+separately . Some moisture metres work on resistance of the grain, s ome moisture metre works 
+on the principle of capacitance of the grain.  
+So, that moisture metre signal will be amplified here and it will go to comparator . Comparator 
+means it is a transistor base d device where a set point is given . I want the final grain moisture 
+to be something like say 10  or 11 percent. Now, if the dryer is not doing the job properly 11 
+percent moisture will go up to something like 12 or 13 percent , that is still very  good . But if it 
+is 15 percent , we have to tackle that also. So,  if wet  grain comes out, the moisture metre will 
+measure the moisture of this wet grain and resistance /capacitance of the washer of the grain 
+will be part of a circuit where voltage or ampere will come out.  
+So, that will amplify and it will go to the comparator,  comparator set point is positive and the 
+measured signal is negative. So, if everything is working fine your dryer is giving moisture 
+content of 11 percent as you wanted , heated temperature the dry air temperature is exactly 70 
+or 65 degree as you want ed, then these two signals should be equal, comparator minus , set 
+point plus, so no error signal nothing comes here.  
+But suppose there is a difference ; difference means that moisture is not being removed 
+adequately. So, 11 percent has become 13 percent so, i t reduces the capacitance . Capacitance 
+reduction means voltage will increase , say , 2 millivolt . So, 2 millivolts “plus” is when your 
+moisture content has gone from say 11 percent to 13 percent.  
+So, amplified signal will be 2 millivolt converted to somethi ng like say 10 volts  or 5 volts. So, 
+that goes to the comparator and the set point is giving you a different value. For example,  
+amplified signal is 5 volt , and  set point is something like 3 volts negative signal. So, 2 volt 
+negative signal is here. So, th at error signal will go  through here to the heater , and the negative 
+signal will make the heat and moisture is high.  
+That means your heating capacity should be increased. So, this heating capacity will increase 
+based on the heater you have, it will change  its kilowatt, which means there will be a circuit or 
+additional circuit, where, this error signal will change the resistance of the circuit giving more 
+𝐼2𝑅 loss for the heater. So, that extra energy is transmitted to the dryer and the dryer gives it to 
+the grain and the grain will lose the extra moisture.  
+So, that is how it is operates; here you have the control, the actual control of the heater going 
+up or down depending on either it is a plus 2 millivolt signal or it is a minus . This is just an example , plus 2 millivolt is not sacrosanct, it could be plus 5 millivolts it could be minus 10 
+millivolt anything like that. So, those values will operate along thi s side to control the heated 
+kilowatt.  (Refer Slide Time: 21:04)  
+ 
+So, the next example we take is pasteurizer control . Pasteurizer is a very crucial treatment in 
+milk channel. See , early morning we get our pouches in our home or get it from the market, 
+those pouches have gone through very advanced process involving pasteurizer, because you 
+will see on the pouch it is written that homogenised pasteurised milk. So, homogenization is 
+basically an attempt to distribute the fat particles in the milk uniformly .  
+That is done mainly to make sure that everybody gets that desired fat percentage in the milk 
+and pasteurisation is to raise the temperature to a level where disease producing organisms are 
+destroyed. So, pasteurisation is a very crucial treatment . If milk is not properly pasteurised, it 
+will cause outbreak of disease , and it has happened many times and not just in poor countries 
+like India or Mexico, Venezuela ; it has happened in Japan , it has happened in USA , it has 
+happened in Europe , every place . Milk was not properly pasteurised , some fault in the system, 
+the desired temperature was not reached. So, th at milk actually instead of giving nutrition to 
+people who consumed it, g ave toxin which cause d death, 83 -85 people died from an infection 
+in 1982 in Ja pan. So, these kind of things are very unfortunate. So, that is why pasteurisation 
+is a very crucial step in processing of milk. So, let us look at it how we can make sure that 
+pasteurisation has taken place properly.  
+So, milk comes in from here, and then it is going this way. This is a three way valve . So, total 
+three  three -way valve s are there. M ilk normally will come this way , go here and then go to the 
+pasteurisation test, see this is after the milk has been raised to the desired temperature.  So, I 
+am not showing the temperature device here. Here,  the milk  is coming from the pasteurizer 
+going through these two valves and then going through phosphoric acid ester . Phosphoric acid 
+ester is a chemical which turns the mi lk colour to blue if it has not reached the pasteurisation 
+temperature , and if the milk has reached pasteurisation temperature it remains white. So, 
+phosphoric acid ester is an indicator, which gives you an idea whether the milk has been 
+pasteurised or not .  
+So, milk comes here and here you have a pair of glass slide which will trap the milk in a very 
+thin layer . You have light source. Now if the milk has been properly pasteurised , this thin layer 
+of milk will actually transmit the light , which means it wil l be white light. So, it s luminance is 
+large . But if it has not been pasteurised properly, the phosphoric acid ester will leave the milk 
+blue. So, then it will be blue light. So, the photovoltaic cell will register the blue light which 
+has less luminous th an the white light  and t hen milk goes out . Photovoltaic means it is 
+converting the light to voltage. So the  data from photovoltaic cell goes to the amplifier , again 
+for example  at +2 millivolt or −2 millivolts, then  gets amplifie d to 10 millivolt or 20 mil li volts , 
+something like that . Then it goes to the comparator , which is  the negative terminal . There is 
+also the positive terminal which is a set point . So, if there is a difference between the two 
+terminals, that gives the error signal and depending on the error signal, if the milk has turned 
+blue, this will send the signal to this point. So, what will happen is milk will not go to this way,  
+it will return through this and go back here. So, that is how the pas teurisation is made sure that 
+it is doing to job desired level.  (Refer Slide Time: 25:53)  
+ 
+The last example of this control is water tank temperature control . This is the continuous ly 
+stirred water tank, and the heater coil is in the tank . This heater c oil is heating the water and 
+the water is coming from this point , 𝐹 is the flow rate and 𝑇𝑖 is the temperature.  
+Now, we are not doing anything to the flow, what we are doing is changing temperature . Say, 
+normally water  is coming  in at 30 degrees Celsius into the tank and it is coming out from here 
+at 40 degrees Celsius. So, heater coil gives additional 10 degree . That is the heat, additional 10 
+degree here. So, the heater coil is controlled by the relay, the relay is controlled by the controller 
+and the comparator.  
+So, first feedback occurs at the water tank , which means that the temperature is sensed by an 
+instrum ent; generally some resistance thermometer or thermistor  or thermocouple. They sense  
+the temperature, send the signal . Again there is voltage  in order of  millivolt that is amplified . 
+This amplified signal  goes to the negative terminal of the comparator where the positive 
+terminal is the set point . In our example, I said that it is coming in at 30  °C and g oing out at 40  
+°C. So, that means  the set temperature 𝑇𝑠 is at 40  °C. Let’s say the temperature of water reahces  
+37, 38, 34 something like that , or it could be 42 , 43 °C  also if there  is more heat. So, there is a 
+net difference between the positive and the negative values.  
+So, the difference will go to the controller . If everything is working fine , water is  coming in at 
+30 °C, the heater coil is operating  and water  is going out at 40  °C, then  there will be no 
+difference between these two positive and negative. So, they will all be same. And generally 
+the control action is not needed when these two values are same . Only when they deviate from 
+the set value, then we have to have the control action.  
+So, the comparator here will send the signal to the controller and the controller will send a 
+signal to the relay . The operation of relay needs a little  careful observation . There is the heater 
+coil inside the tank and this coil has an additional resistance here , and the relay here will actuate 
+in such a way that this contact is made either here or here or here. I am showing three possible 
+locations but but it is a ctually a  continuous contact process.  
+The heating coil here is touched at either the middle or at the top or at the bottom . Where it is 
+touching at the top, the rest of  this thing is taken out of the circuit. So, top means your electrical 
+connection will be only t hrough this heating coil. So, this total circuit resistance is now less.  
+So here, 𝑇<𝑇𝑠, which gives  +2 millivolt signal. So the resistance goes down, because you 
+have taken out this resistance from the circuit. So, once you have taken this resistance o ut of 
+the circuit, you go to the current which is increasing , and increase current means the relay goes 
+up and the relay takes the resistance out of the system.  
+Other side 𝑇>𝑇𝑠, which gives  −2 millivolt signal. So, the resistance is high. So, the relay  will 
+come down and include this resistance in the circuit. So, now you have two resistance in the 
+circuit. So, resistance is high and your coil resistance here remains same, but it receives 
+different amount of voltage. So, different amount of voltage and different amount of current.  
+So, the relay comes down and the current comes down and you get 𝑇>𝑇𝑠 which means  that 
+the heating coil will not heat as much ; it will be a cooler coil, cooler system. So, that is how 
+this system works and these are some of the examples which are very  fundamental. But all over 
+the process industry, the variations of these things are used  regularly to make sure that the 
+process wo rks to the desired objective.  (Refer Slide Time: 31:08)  
+ 
+We will close this section with operational amplifiers. See, electronic gadgets now are abound 
+everywhere. So, operational amplifiers we have summing amplifier say at three  voltage s V1, 
+V2, and V3, going through resistance R1, R2 , and  R3. This is a transistor operational amplifier 
+or a transistor . The operational amplifier is positive terminal and negative terminal here.  
+So, the three voltages are basically added : 
+𝑉𝑜𝑢𝑡=−𝑅𝑓[𝑉1
+𝑅1+𝑉2
+𝑅2+𝑉3
+𝑅3] 
+𝑅𝑓 is the feedback resistance.  
+If      𝑅𝑓=𝑅1+𝑅2+𝑅3 
+Then      𝑉𝑜𝑢𝑡=−𝑅𝑓[𝑉1+𝑉2+𝑉3] 
+So, this is an adder summing amplifier . We are doing basic mathematical operation ; 
+electronically it is possible.  
+(Refer Slide Time: 32:14)  
+ 
+Then you have differential amplifiers . V2 and V1  are the two voltage . This is the common 
+ground. So, this is going to the positive terminal, this is going to the negative terminal. So , 
+𝑉𝑜𝑢𝑡=(𝑅𝑓
+𝑅𝑖𝑛)[𝑉2−𝑉1] 
+If       𝑅𝐹=𝑅𝑖𝑛 
+Then       𝑉𝑜𝑢𝑡=𝑉2−𝑉1 
+So, that is differentiator a differential amplifier.  
+(Refer Slide Time: 32:45)  
+ 
+Then we go to differentiator amplifier . We have 𝑉𝑖𝑛 and 𝑉𝑜𝑢𝑡. So, there is a capacitance here , 
+and feedback resistance  is 𝑅𝑓. 
+𝑉𝑜𝑢𝑡=−𝑅𝑓𝐶[𝑑𝑉𝑖𝑛
+𝑑𝑡] 
+𝑑𝑉𝑖𝑛
+𝑑𝑡=the slope of the voltage curve . 
+The voltage changing with time gives the slope of the voltage curve.  
+(Refer Slide Time: 33:16)  
+ 
+Then we go to integrating amplifier, here we have 𝑉𝑖𝑛, 𝑅𝑖𝑛, capacitance , and  𝑉𝑜𝑢𝑡. 
+𝑉𝑜𝑢𝑡=−1
+𝑅𝑖𝑛𝐶∫𝑉𝑖𝑛𝑑𝑡𝑡
+0 
+ ∫𝑉𝑖𝑛𝑑𝑡𝑡
+0 means the area under the curve . 
+Typical ly, 𝑉𝑖𝑛 is going like a sawtooth wave box type of arrangement  from −1 volt to 0 volt, 
+then 𝑉𝑜𝑢𝑡 will be starting from 0 voltage will go to high value , then come back to 0, high value 
+come back to 0 and high value come back to 0 ; because this is going integration of the 𝑉𝑖𝑛𝑑𝑡 
+over time ; it is integrating the voltage. So, from 0 it is coming ther e, going to be high value, so 
+−1 to 0. So, that is starting from 0 going to 1 and then it is coming back to 0 that again 1.50. 
+So, this is the integrator.  
+(Refer Slide Time: 34:14)  
+ 
+So, reference you can use K. Ogata modern control engineering, second edition, prentice hall 
+of India private limited, New Dehli.  
+(Refer Slide Time: 34:25)  
+ 
+And conclusion is - instrumentation and process control will be based on transform calculus to 
+offer real time solutions to ordinary differential equations relating process variables. Thank 
+you. 
+ 

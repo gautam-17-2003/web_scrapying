@@ -1,0 +1,238 @@
+Instrumentation and Process Control in Food Industry  
+Professor Ashis Kumar Datta  
+Department of Agriculture and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture - 2  
+Laplace Transform Review - 1 
+This is lecture two of module one; in module 1, we are discussing the fundamentals of process 
+control. And lectu re two covers Laplace transform review. Now, those of you who have taken 
+transform calculus should not feel at all bothered by this topic, but t hose who have not taken 
+transform calculus should be paying some more attention than others and should refer to a 
+textbook or reference book to brush up on the Laplace transform part of the calculus.  
+(Refer Slide Time: 1:04)  
+ 
+So, now, we are covering con cepts starting from the ordinary differential equation, then decay 
+function, ramp function, step function, delayed function, and unit pulse function, which is a list 
+of Laplace transform for common functions that are encountered in signal processing or 
+control.  
+(Refer Slide Time: 1:30)  
+ 
+So, we start with the ordinary differential equation that is dy/dx. This is  
+𝑑𝑦
+𝑑𝑥+𝑃𝑦=𝑄 
+Here, P and Q are constants . The ordinary differential equation, which is not having a constant 
+coefficient , cannot be solved by the Laplace transform. So, the Laplace transform is strictly 
+applicable to the ordinary differential equation or ODE with constant coefficients . That is 
+impo rtant; you should remember that.  If P and Q are functions of x and y , then the Laplace 
+transform will not work. So, here is the integrating factor 𝐼=𝑒∫𝑃𝑑𝑥. Or, in other words , 𝑒𝑃𝑥. 
+Now, if we multiply all terms by 𝑒𝑃𝑥, we get this equation 𝑒𝑃𝑥 here, 𝑒𝑃𝑥 here, 𝑒𝑃𝑥 here. Once 
+we do that, then this left -hand side becomes much easier to handle , which is 𝑑
+𝑑𝑥(𝑦𝑒𝑃𝑥). And 
+the right -hand side is 𝑄𝑒𝑃𝑥. So, now, we integrate . 
+∫𝑑(𝑦𝑒𝑃𝑥)=𝑄∫𝑒𝑃𝑥𝑑𝑥 
+So, if I am integrating this , only this term will remain ; so, 
+𝑦𝑒𝑃𝑥=𝑄
+𝑃𝑒𝑃𝑥+𝐶 
+C is the constant of integration. So,  
+𝑦=𝑄
+𝑃+𝐶𝑒−𝑃𝑥 
+(Refer Slide Time: 3:12)  
+ 
+So, using Laplace transform , we do the same thing to get the solution ; 𝑦=𝑄
+𝑃(1−𝑒−𝑃𝑥) we 
+got from the ordinary differential equation solution. Now, we put the Laplace transform to use, 
+𝑑𝑦
+𝑑𝑥+𝑃𝑦=𝑄. So, the Laplace transform  of a derivative comes as 𝑠𝑓(𝑠). So, 𝑠𝑓(𝑠) is the 
+Laplace transform of the function  𝑓(𝑡). 𝑓(𝑡) is the general function . So, when I take Laplace , 
+I write it as 𝑓̅(𝑠), that is , the Laplace transform.  
+So, here 𝑠𝑓(𝑠), the bar has not come . If you put the bar there , so 𝑠𝑓(𝑠) Laplace transform times 
+𝑠 𝑃 times Laplace transform, Laplace transform . My function is 𝑦. So, 𝑦 is a function of 𝑥. Say 
+𝑦=𝑎𝑥 and Laplace transform of 𝑦 will be a Laplace transform of 𝑥. So, that is the Laplace 
+transform of the function. The r ight side is 𝑄. If it is a number , say,  5, 10, 15 , you have to take 
+Laplace transform that will be 5/𝑠, 10/𝑠, 15/𝑠 depending on what the value of 𝑄 is. These 
+things you will learn from the ready reckoner or the table that I will give you.  
+(𝑠+𝑃)𝑓(𝑠)=𝑄
+𝑠 
+So, 𝑓(𝑠)=𝑄
+𝑠(𝑠+𝑃) 
+This is known as partial fractio n. So, that is 𝐴
+𝑠−𝐵
+𝑠+𝑃. See , whenever you have the denominator 
+𝑠 coming in as two  separate expression s, they can be separated by using a partial fraction. So, 
+this is the partial fractions 𝐴
+𝑠−𝐵
+𝑠+𝑃.  
+So, now, how would we find out A and B? What we do is we multiply 𝐴 by (𝑠+𝑃) and 𝐵 by 
+𝑠; 𝐴𝑠+𝐴𝑃−𝐵𝑠 in the numerator and that we know is equal to 𝑄. So, 𝑄 is outside ; so 
+(𝐴−𝐵)𝑠+𝐴𝑃. So, if I take 𝑠1, it has a coefficient (𝐴−𝐵), and in this thing , I know that the 
+coefficient of 𝑠 is 0. So, that mean s 𝐴=𝐵, that I get from here. And the last step 𝐴𝑃 is here 
+that is equal to 𝑄; 𝑄 is outside. So, 𝐴𝑃=1.  
+So, if 𝐴=𝐵 and 𝐴−𝐵=0, 𝐴𝑃 is 1, so 𝑨=𝟏𝑷⁄, and B also becomes 𝟏𝑷⁄. So, 
+(𝑨−𝑩)𝒔+𝑨𝑷
+𝒔(𝒔+𝑷)=𝑸
+𝑷[𝟏
+𝒔−𝟏
+𝒔+𝑷] 
+So, 𝒚=𝑸
+𝑷(𝟏−𝒆−𝑷𝒙) 
+This e take s inverse Laplace transform. This  thing comes from the inverse Laplace transform. 
+So, we will explain these things in tables. For now, you take my word for granted that if you 
+take the inverse Laplace transform  of  𝟏𝒔⁄, it becomes 1 , and you take inverse Laplace 
+transform  of 𝟏
+𝒔+𝑷 it becom es 𝒆−𝑷𝒙.  
+So, 𝒚=𝑸
+𝑷(𝟏−𝒆−𝑷𝒙), and that is the same thing that we got by solving the ordinary differential 
+equation by the classical method. So, Laplace transform gives you the same solution, but the 
+trouble is much simpler depending on the nature of the differential equation. If the differential 
+equation is complicated , Laplace transform will really help you reach the solution much 
+quicker.  
+(Refer Slide Time: 7:46)   
+So, let us go to the definition ; Laplace transform is a solution technique by which linear 
+ordinary differential equations with constant coefficients can be solved. L, Laplace transform 
+is which say 𝑳[𝒇(𝒕)]=𝒇̅(𝒔)=∫𝒆−𝒔𝒕𝒇(𝒕)𝒅𝒕∞
+𝟎. Defi nition of Laplace transform is that. A 
+function is 𝒇(𝒕); you multiply it by 𝒆−𝒔𝒕 and then integrate over the element 𝑑𝑡 from 0 to 
+infinity. 𝑠 is a complex variable ; this is 𝒂+𝒋𝒃, 𝑠 is a complex variable having real and 
+imaginary parts, 𝑎 is the real part, 𝑏 is the imaginary part.  
+So, if I take  a decaying function , 𝒇(𝒕)=𝒆−𝒂𝒕. Then Laplace transform 𝒆−𝒂𝒕 is ∫𝒆−(𝒔+𝒂)𝒕𝒅𝒕∞
+𝟎, 
+because 𝒆−𝒔𝒕 is in the definition of  Laplace transform. So, when I multiply 𝒆−𝒂𝒕 and 𝒆−𝒔𝒕, it 
+become s 𝒆−(𝒔+𝒂)𝒕. −𝟏
+𝒔+𝒂. Then I integrate ; the integration of this comes from 𝒆−𝒂𝒙𝒅𝒙 if you 
+integrate that is  1
+𝑎𝒆−𝒂𝒙. So, here 𝒆−(𝒔+𝒂)𝒕is integrat ed. So, 𝒔+𝒂 comes in the denominator with 
+a minus sign , and that is 0 to infinity. So, infinity , if I take 𝑡=∞, then the first term is 1
+𝑒∞, so 
+that is 0. The second term , when t is 0, this term is 0. So, th is term 0 means this quantity 
+becomes 1. So, I am left with −𝟏
+𝒔+𝒂. This becomes minus , the other minus is coming because 
+you are taking in the second term, fir st term and the second term, the second term will be minus. 
+So, this minus and the second term minus will cancel out ; it will be 𝟏
+𝒔+𝒂. So, Laplace 𝒆𝒂𝒕=𝟏
+𝒔−𝒂. 
+Minus 𝒂𝒕 is 𝟏
+𝒔+𝒂, plus  𝒂𝒕 is  𝟏
+𝒔−𝒂. So, this is a formula to remember. It is a very handy formula 
+you should remember it. That e to the power exponential function always appears as 𝑠 plus or 
+minus 𝑎 in the denominator. This is a function . The nature of the function is a decaying 
+function, it is coming from some finite value and reaching 0.  
+(Refer Slide Time: 10:40)  
+ 
+So, let us move . Ramp function 𝒇(𝒕)=𝒂𝒕. We are taking the Laplace transform of the function 
+𝒂𝒕; this is called the ramp function. Ramp because you know it goes from 0 to some value w ith 
+a slope, the slope is 𝑎, so that is like a ramp, so that is why it is called Ramp function. Laplace 
+transf orm of  𝑎𝑡 is ∫𝒂𝒕𝒆−𝒔𝒕𝒅𝒕∞
+𝟎. That is our definition of Laplace transform you should 
+multiply the function by 𝒆−𝒔𝒕, and then integrate over the element 𝑑𝑡 from limit 0 to infinity. 
+So, that is how we get the first one here.  
+Now, 𝑎 we can take out ; it is a constant , so it does not have to be integrated . That gives us the 
+second expression 𝒕𝒆−𝒔𝒕𝒅𝒕. Now, here, we apply integration by parts . Now, that is , this thing 
+is 𝒖=𝒕, I have 𝑡 here; I call it 𝑢 and the rest of 𝒆−𝒔𝒕𝒅𝒕 I call 𝑑𝑣. So, the integration by parts 
+means that if you have 𝑢𝑣, the product of two variable s, they can be separated as 𝑢𝑑𝑣 +𝑣𝑑𝑢. 
+So, this expression here I call ∫𝑢𝑑𝑣. So, ∫𝑢𝑑𝑣 =−𝑢𝑣−𝑣𝑑𝑢. So, 𝑢𝑣 declared  as 𝑡 and 𝑣 as 
+this 𝑑𝑣 is this 𝒆−𝒔𝒕𝒅𝒕. So, 𝒗=−𝒆−𝒔𝒕
+𝒔. So, 𝒕𝒆−𝒔𝒕 is your 𝑢𝑣 from 0 to infinity and 𝑣𝑑𝑢 is v is 
+this term 𝑄 is 𝑡, so, t his term 𝑑𝑡.  
+So, now, the integration has become very simple ; I was having trouble figuring out how to 
+separate this. Once I separate this , it becomes very easy. So, first term 𝒕𝒆−𝒔𝒕
+𝒔 with a negative 
+sign, if you take the first uppe r limit, infinity, then 𝒆−∞ becomes 0. So, the first term is 0 , and 
+if I take 𝑡=0, the second term is also 0. So, this term drops out because the here is a 𝑡. So, t 
+will be 0. So, that drops out.  
+Then the second term h ere is 𝒆−𝒔𝒕
+𝒔𝒅𝒕 0 to infinity. I integrate second time; first-time integration 
+was here 𝒕𝒆−𝒔𝒕𝒅𝒕 that gave me 𝒕𝒆−𝒔𝒕
+𝒔 with a negative sign. Now, 𝒆−𝒔𝒕
+𝒔𝟐 after a second in tegration 
+goes from 0 to infinity.  
+So, if I put the value 0 to infinity, the first infinity , if I take 𝒆−∞ that is going to be 0 and the 
+second term becomes if I put 0, 𝟏
+𝒔𝟐. So, this whole thing works out as 𝒂
+𝒔𝟐 that is the Laplace 
+transform of the ramp function , which is 𝑎𝑡. Now, you see the sequence, if I take Laplace 
+transform of 1, it becomes, I will come to that see the sequence here to follow.  
+(Refer Slide Time: 14:02)  
+ 
+So, this is a step function ; the function comes like this , then goes up and then goes like this. 
+Now, can you think of some physical process where this function is commonly encountered ? 
+That is the lighting of a switch . When it comes to a room , and we turn the fan or  turn the light 
+on, what we are doing is sending the voltage from 0 to 250 volts ; here in India it is 250. In 
+other place s, it is 110 volt also is there.  
+So, 0 to 250 for just a very short time which is we can ignore that duration because it is probably 
+millise cond, microsecond, nanosecond , something like that. So, we say that instantaneously it 
+goes from 𝑎𝑡=0 it goes instantaneously from 0 value to 250 volt. So, that is a switch, lighting 
+of a switch, lighting a fan is a step function.  
+So, here the  function is given as : 0 at 𝒕<𝟎 and the value is 𝐴 at 𝒕≥𝟎. So, 𝑳[𝒇(𝒕)]=𝑳[𝑨]. 
+So, ∫𝑨𝒆−𝒔𝒕𝒅𝒕∞
+𝟎. So, it is −𝑨𝒆−𝒔𝒕
+𝒔|
+𝟎∞
+. So, i t is 𝑨
+𝒔.  
+So, now, you see the sequence if I have a constant Laplace transform that is 𝑨
+𝒔. This is what I 
+was telling you in the ordinary differential equation solution that Q  I was having on the right -
+hand side , and 𝑄/𝑠 is the Laplace transfor m of that set. Any constant figure, if you take Laplace 
+transform, it is just that constant figure divided by 𝑠.  
+(Refer Slide Time: 15:47)  
+ 
+So, now, delayed function, the delayed function is 𝒇(𝒕−𝒕𝟎), 𝑳[𝒇(𝒕−𝒕𝟎)]=∫𝒇(𝒕−∞
+𝟎
+𝒕𝟎)𝒆−𝒔𝒕𝒅𝒕. That is the definition. So, here is what we do . We multiplied by 𝒆−𝒔𝒕𝟎. So, if I 
+multiply by 𝒆−𝒔𝒕𝟎 I have to multiply it by 𝒆𝒔𝒕𝟎 to keep it the same. So, that plus 𝒔𝒕𝟎 come s here 
+minus 𝒔𝒕𝟎.  
+So, this I can convert from 𝑑𝑡 to 𝒅(𝒕−𝒕𝟎); that is my domain, variable domain. So, 𝒇(𝒕−
+𝒕𝟎)𝒆−𝒔(𝒕−𝒕𝟎)𝒅(𝒕−𝒕𝟎) that if I shorten, I can substitute 𝝉 for it. So, i t becomes 𝒇(𝝉)𝒆−𝒔𝝉𝒅𝝉 and 
+𝝉 goes from −𝒕𝟎 to infinity . So, that can be minus t, the function does not exist at −𝒕𝟎.  
+So, 0 to infinity , I can substitute for −𝒕𝟎 to infinity. So, 𝒆−𝒔𝒕𝟎∫𝒇(𝝉)𝒆−𝒔𝝉𝒅𝝉∞
+𝟎. So, 𝒆−𝒔𝒕𝟎𝒇̅(𝒔). 
+So, that is the Laplace transform of a delayed function. So, what is the difference? If 𝒇̅(𝒔) is 
+the Laplace transform of function 𝑓(𝑡), then I multiply  by 𝒆−𝒔𝒕𝟎 and that becomes the Laplace 
+transform of the delayed function.  
+Now, if it is an advanced function , this one is an advanced function here. 𝒕 = −𝒕𝟎, the function 
+has gone back and started there. So, this is advanced, this is de layed. So, the delayed function 
+this will be 𝒆−𝒔𝒕𝟎, advanced function is it is going forward then it is the delayed function this t 
+is equal to 𝑡0 it is starting. So, that is your −𝒔𝒕𝟎 and this is t minus  𝒕𝟎 it is starting , which  means 
+it is advanced then it will be +𝒔𝒕𝟎.  
+(Refer Slide Time: 17:57)  
+ 
+ 
+Unit pulse function is a box type of arrangement. 𝐴 is the width , and 𝟏𝑨⁄ is the height. So, 
+𝐴×𝟏𝑨⁄ is 1, unit area . That is what is called unit , and pulse , it is like a pulse. I was telling you 
+about the lighting on the switch, lighting the switch at nine o’clock in the morning when he 
+come s to the class. So, here you assume that at nine o’clock I turn the switch on and then at 
+nine five I turn it off bec ause I may want the dark room to present my slides or something like 
+that. So, this width is nine to nine five, nine o’clock five minutes. This is the weight , and it was 
+250 volts here. So, that is the height. So, this whole thing , I am taking it as uni ty. That is my 
+unit, 250 volt s into five minutes , that will be the unit.  
+So, here you see 𝒇(𝒕)=𝟏𝑨⁄ when 𝟎≤𝒕≤𝑨 and 𝒇(𝒕)=𝟎 when 𝒕>𝑨. So, 𝟏𝑨⁄ is the height 
+ordinate o f the function height. And that value exists between 0 and A. Below 0 and above A , 
+this is 0. So, here what we do is we can take 𝒇(𝒕) comprised of two parts 𝒇𝟏(𝒕) and 𝒇𝟐(𝒕) 
+where  
+𝒇𝟏(𝒕)={𝟎          𝒕<𝟎
+𝟏𝑨⁄     𝒕≥𝟎 
+That is your this portion . And 
+𝒇𝟐(𝒕)={𝟎          𝒕<𝑨
+𝟏𝑨⁄     𝒕≥𝑨 
+So, 𝒇𝟐(𝒕) and 𝒇𝟏(𝒕) are related. You see this is 0 to 𝟏𝑨⁄, these are the limits ; he has 0 to 𝟏𝑨⁄, 
+A is the limit. So, I call it 𝒇𝟏(𝒕−𝑨). So, 𝜹(𝒕)=𝒇𝟏(𝒕)−𝒇𝟐(𝒕)    =𝒇𝟏(𝒕)−𝒇𝟏(𝒕−𝑨). Same 
+function it is going like this coming up , and here it is inverting going like this. So, 𝒇𝟏(𝒕)−
+𝒇𝟏(𝒕−𝑨) that is 𝒇𝟏(𝒕) is this function, then the reverse function is 𝒇𝟏(𝒕−𝑨) with a minus 
+sign.  
+So, the 𝜹(𝒕), unit pulse function can be written as 𝒇𝟏(𝒕)−𝒇𝟏(𝒕−𝑨). So, 𝑳[𝜹(𝒕)]=
+𝑳[𝒇𝟏(𝒕)]−𝑳[𝒇𝟏(𝒕−𝑨)]. And we just learned that dela yed function will have 𝒆−𝒔𝒕𝟎 as a factor. 
+So, 𝒇𝟏̅̅̅(𝒔)−𝒇𝟏̅̅̅(𝒔)𝒆−𝒔𝑨; −𝒔𝑨 because it is A here, so it is 𝒆−𝒔𝑨 coming.  
+So, this works out as  (𝟏−𝒆−𝒔𝑨)𝒇𝟏̅̅̅(𝒔) and the 𝑠𝐴 come s here . 𝑓1 is the step function  of step  𝑠, 
+let this go to this 1. This is 𝐴/𝑠. So, if it is 1/𝐴 then it will be 𝑠𝐴. 𝑠𝐴 here that thing comes in 
+the denominator. 𝟏−𝒆−𝒔𝑨 and 𝑓1 works out as 𝑠𝐴. There 𝐴 was the height, h ere A is 1/𝐴, so 
+that is why A is in the denominator.  (Refer Slide Time: 21:37)  
+ 
+So, this is the reference : D. R. Coughanowr, process systems analysis and control McGraw -
+Hill, international editions, chemical engineering series, second division, Singapor e.  
+(Refer Slide Time: 21:50)  
+ 
+The Laplace transform is a handy tool for the solution of  ordinary differential equations with 
+constant coefficients. Real -time variables are transformed into the complex plane to obtain 
+algebraic relationships. There is a conclusion. Thank you.   
+ 
+ 

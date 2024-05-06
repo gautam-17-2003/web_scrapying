@@ -1,0 +1,274 @@
+Instrumentation and Process Control  in Food Industry  
+Professor Ashis Kumar Dutta  
+Department of Agricultural and Food Engineering  
+Indian Institute of Technology, Kharagpur  
+Lecture – 05 
+First Order Instruments  
+Hello, we a re going to continue our discussion with first order instruments, this is module two, 
+lecture five. So, instrumentation, we have started covering the first order instrument, the liquid in 
+glass thermometer. And we have seen how it behaves when you have step input . We have discusse d 
+that times constant should be small for liquid in glass thermometer,  then it can follow the 
+disturbance very closely , without much deviation.  
+Now, we wi ll see for the ramp input, when the temperature is going up continuously , can the 
+thermometer track t his temperature change accurately?   
+(Refer Slide Time: 01:13)  
+ 
+So, this is a Laplace equation .  
+(Refer Slide Time: 01:17)  
+ 
+ 
+We come from here , ramp input 𝝉𝒅𝒙𝟎
+𝒅𝒕+𝒙𝟎=𝑲𝑻̇𝒊 =𝑲𝑻̇𝒊𝒔𝒕. Here 𝑲𝑻̇𝒊 is 𝑲𝑻̇𝒊𝒔𝒕. That is , 𝑻̇𝒊𝒔 is dot is 
+the slope of the ramp. So, taking Laplace transform , we get 𝝉𝒔𝒙𝟎̅̅̅+𝒙𝟎̅̅̅=𝑲𝑻̇𝒊𝒔
+𝒔𝟐. So, simplifying 
+(𝝉𝒔+𝟏) 𝒙𝟎̅̅̅=𝑲𝑻̇𝒊𝒔
+𝒔𝟐. So,  𝒙𝟎̅̅̅ we can rearrange and it becomes  𝑲𝑻̇𝒊𝒔(𝑨
+𝒔𝟐+𝑩
+𝒔+𝑪
+𝒔+𝟏𝝉⁄). Generally, 
+whatever is the denominator th at can b e split into each function of 𝑠. See, we have the denominator 
+on the left hand side , 𝒔𝟐 multiplied by 𝒔+𝟏𝝉⁄. So, that has been split as 𝑨
+𝒔𝟐+𝑩
+𝒔+𝑪
+𝒔+𝟏𝝉⁄. So, 𝐴,𝐵,𝐶 
+have to be determined. So, 𝑨
+𝒔𝟐+𝑩
+𝒔+𝑪
+𝒔+𝟏𝝉⁄ can be written as in the right hand side . 
+𝑨(𝒔+𝟏𝝉⁄)+𝑩𝒔(𝒔+𝟏𝝉⁄)+𝑪𝒔𝟐
+𝒔𝟐(𝒔+𝟏𝝉⁄). Then this is equal to  𝟏𝝉⁄, because the whole numera tor, you go back and 
+see, the whole  numerator is just having  𝟏𝝉⁄, i.e.,  𝑲𝑻̇𝒊𝒔𝝉⁄. So, 𝑲𝑻̇𝒊𝒔 if I keep outside , that is the 
+forcing function then  𝟏𝝉⁄ is the nu merator. So, that is what is equated here . 𝑨(𝒔+𝟏𝝉⁄)+
+𝑩𝒔(𝒔+𝟏𝝉⁄)+𝑪𝒔𝟐 is 𝟏𝝉⁄. So, equating 𝒔𝟐 term, we do  not have anything there. So, 𝑩+𝑪=𝟎, 
+then 𝑨+𝑩𝝉⁄=𝟎 and 𝑨𝝉⁄=𝟏𝝉⁄. Only the 𝒔𝟎 term remains. So, that is why 𝑨𝝉⁄=𝟏𝝉⁄. So,  𝑪 
+becomes  +𝝉, 𝑩 becomes −𝝉 and A becomes 1 . So,  𝒙𝟎̅̅̅=𝑲𝑻̇𝒊𝒔(𝟏
+𝒔𝟐−𝝉
+𝒔+𝝉
+𝒔+𝟏𝝉⁄). Taking inverse 
+Laplace transform 𝒙𝟎=𝑲𝑻̇𝒊𝒔(𝒕−𝝉+𝝉𝒆−𝒕𝝉⁄).  
+This inverse Laplace transform we have to get used to by h andling the  ready reckoner  or the 
+Laplace transform table . The Laplace transform table will give you quick reference how to get the 
+inverse Laplace transform to get the function , real time function. So, the last line on this slide is 
+the real time function . And the line before that is the Laplace transfor m of that. So, we are getting 
+𝑲𝑻̇𝒊𝒔(𝒕−𝝉+𝝉𝒆−𝒕𝝉⁄).  (Refer Slide Time: 04:29)  
+ 
+Measurement error 𝒆𝒎=𝑻𝒊−𝒙𝟎
+𝑲. Here, 𝑻𝒊 is the tank temperature and 𝒙𝟎
+𝑲 is the temperature 
+indicated by the liquid in g lass thermometer. So, we write , 𝑻𝒊 is  𝑻̇𝒊𝒔𝒕 and 𝒙𝟎
+𝑲 is 𝑻̇𝒊𝒔(𝒕−𝝉+𝝉𝒆−𝒕𝝉⁄). 
+So, 𝑻̇𝒊𝒔𝒕 cance l out, positive and negative. I am left with 𝑻̇𝒊𝒔𝝉−𝝉𝑻̇𝒊𝒔𝒆−𝒕𝝉⁄. So, this is equal to 
+𝑻̇𝒊𝒔𝝉−𝝉𝑻̇𝒊𝒔𝒆−𝒕𝝉⁄. The first term is steady state error , 𝒆𝒎,𝒔𝒔 and the seco nd term  is transient error 
+𝒆𝒎,𝒕. Transient error means , it is going to change . As t becomes larg e 𝒆−𝒕𝝉⁄ term becomes very 
+small. So, that can be taken out of the system. So, st eady st ate error is only the first term 𝑻̇𝒊𝒔𝝉.  
+So, 𝒆𝒎𝒆𝒂𝒔𝒖𝒓𝒆𝒎𝒆𝒏𝒕  or 𝒆𝒎, i.e., the measurement error is 𝒆𝒎,𝒔𝒔−𝒆𝒎,𝒕, where  𝒆𝒎,𝒔𝒔 is your steady 
+state error and 𝒆𝒎,𝒕 is transient. So, 𝒆𝒎
+𝒆𝒎,𝒔𝒔= 𝟏−𝒆𝒎,𝒕
+𝒆𝒎,𝒔𝒔, which is 𝟏−𝒆−𝒕𝝉⁄. So, 𝝉 must be small to 
+keep 𝒆𝒎
+𝒆𝒎,𝒔𝒔 unity at a short time .  
+(Refer Slide Time: 06:05)  
+ 
+Sinusoidal input , let us see how it behaves . 𝑻𝒊=𝑻𝒊𝒔𝐬𝐢𝐧𝝎𝒕. 
+𝝉𝒅𝒙𝟎
+𝒅𝒕+𝒙𝟎=𝑲𝑻𝒊𝒔𝐬𝐢𝐧𝝎𝒕  
+Taking Laplace transform, we get 𝝉𝒔𝒙𝟎̅̅̅(𝒔)+𝒙𝟎̅̅̅(𝒔)=𝑲𝑻̇𝒊𝒔𝝎
+𝒔𝟐+𝝎𝟐. And (𝝉𝒔+𝟏)𝒙𝟎̅̅̅(𝒔)=
+𝑲𝑻̇𝒊𝒔𝝎
+𝒔𝟐+𝝎𝟐. Here 𝑻̇𝒊𝒔 is depicted here ; this is the input function, which is 𝑻̇𝒊𝒔 is the peak and then 
+𝐬𝐢𝐧𝝎𝒕 is the  oscillation. So, 𝒙𝟎̅̅̅(𝒔)=𝑲𝑻̇𝒊𝒔𝝎
+𝒔𝟐+𝝎𝟐 𝟏
+(𝝉𝒔+𝟏)=𝑲𝑻̇𝒊𝒔𝝎/𝝉
+(𝒔+𝒋𝝎)(𝒔−𝒋𝝎) 𝟏
+(𝒔+𝟏/𝝉). Here 𝒔𝟐+
+𝝎𝟐 can be broken down into (𝒔+𝒋𝝎)(𝒔−𝒋𝝎), because 𝒔 is nothing but 𝑨+𝒋𝑩. So, it is a 
+complex plane , where the variable s is having real and imaginary portion. So, multiplied by  𝟏
+(𝒔+𝟏/𝝉).  
+So, partial fr actions, what we have learned so  far? That partial fraction means in denominator 
+whatever factors are there, each can be taken separately with a constant in the numerator. So, we 
+have 𝒙𝟎̅̅̅(𝒔)=𝑲𝑻̇𝒊𝒔(𝑨
+(𝒔+𝒋𝝎)+𝑩
+(𝒔−𝒋𝝎)+𝑪
+(𝒔+𝟏/𝝉)).  
+(Refer Slide Time: 07:52)  
+ 
+So, simplifying  𝝎/𝝉
+(𝒔+𝒋𝝎)(𝒔−𝒋𝝎)(𝒔+𝟏/𝝉) =𝑨
+(𝒔+𝒋𝝎)+𝑩
+(𝒔−𝒋𝝎)+𝑪
+(𝒔+𝟏/𝝉). Multiplying both sides by  (𝒔+
+𝒋𝝎), I am  setting 𝒔=−𝒋𝝎. That is  𝒔+𝒋𝝎=𝟎, then 𝒔=−𝒋𝝎. So, 𝑨=𝝎/𝝉
+−𝟐𝒋𝝎 (𝟏
+𝝉−𝒋𝝎). Other term s 
+vanish , because 𝐵 I am multiplying by 𝒔+𝒋𝝎 and 𝒔=−𝒋𝝎 so, that is 0. C is also 0. Here A  
+remains b ecause A is the denominator 𝒔+𝒋𝝎 and I a m mul tiplying also by 𝒔+𝒋𝝎, so, A remains . 
+So, 𝑨=𝝎/𝝉
+−𝟐𝒋𝝎 (𝟏
+𝝉−𝒋𝝎).  
+So, 𝟏
+𝟐(𝒋+𝝎𝝉)=(𝒋−𝝎𝝉)
+𝟐(𝒋+𝝎𝝉)(𝒋−𝝎𝝉). Whenever there is 𝒋 term in the denominator , we want to get rid of it 
+from the denominator, because 𝒋 in the numerator can be handled as complex , as imaginary  
+variable. So, this thing goes to the numerator (𝒋−𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐). So, 𝒋 is there , we can separate it out as 
+𝒋
+𝟐(𝟏+𝝎𝟐𝝉𝟐)−𝝎𝝉
+𝟐(𝟏+𝝎𝟐𝝉𝟐). That is  𝒋 coefficient is imaginary and  the 𝝎𝝉 term is real. So, multiply both 
+sides by 𝒔−𝒋𝝎 and set 𝒔=𝒋𝝎. So, 𝑩=𝝎/𝝉
+𝟐𝒋𝝎(𝟏
+𝝉+𝒋𝝎). Simplifying again, we get  −𝟏
+𝟐(𝒋−𝝎𝝉). So, 
+(𝒋+𝝎𝝉)
+𝟐(𝒋+𝝎𝝉)(𝒋−𝝎𝝉)=−(𝒋+𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐)   . So, here j i s the imaginary axis, so, there  the coefficient is  −𝟏
+𝟐(𝟏+𝝎𝟐𝝉𝟐). 
+So, that is your imaginary variable . And the real variable is 𝝎𝝉
+𝟐(𝟏+𝝎𝟐𝝉𝟐). Lastly, we have multiplied  
+both sides by (𝒔+𝟏/𝝉). And we set 𝒔=−𝟏/𝝉. So, this was solved as  𝑪=𝝎/𝝉
+(𝒋𝝎−𝟏/𝝉)(𝒋𝝎+𝟏/𝝉)=
+𝝎/𝝉
+(𝝎𝟐+𝟏/𝝉𝟐)=𝝎𝝉
+(𝝎𝟐𝝉𝟐+𝟏).  
+(Refer Slide Time: 10:51)  
+ 
+So, we subst itute the values of the three coefficients, and we get:  
+ 𝒙𝟎̅̅̅(𝒔)=𝑲𝑻̇𝒊𝒔((𝒋−𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐)
+(𝒔+𝒋𝝎)−(𝒋+𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐)
+(𝒔−𝒋𝝎)+𝝎𝝉
+(𝝎𝟐𝝉𝟐+𝟏)
+(𝒔+𝟏/𝝉))   
+So, taking inverse Laplace transform , go to your table and see, if (𝒔+𝒂) is in the denomin ator, 
+what is the inverse Laplace transform ? It is  𝒆−𝒂𝒕. So, here also we have the numerator remaining 
+as it is , (𝒋−𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐). And (𝒔+𝒋𝝎) shows up as inverse  𝒆−𝒋𝝎𝒕. Second term , same thing , 
+(𝒋+𝝎𝝉)
+𝟐(𝟏+𝝎𝟐𝝉𝟐)𝒆𝒋𝝎𝒕. And last term, 𝝎𝝉
+(𝝎𝟐𝝉𝟐+𝟏)𝒆−𝒕/𝝉. So, this we rearrange and we finally get  
+𝑲𝑻̇𝒊𝒔(−𝒋
+𝟐(𝟏+𝝎𝟐𝝉𝟐)(𝒆𝒋𝝎𝒕−𝒆−𝒋𝝎𝒕)−𝝎𝝉
+𝟐(𝟏+𝝎𝟐𝝉𝟐)(𝒆𝒋𝝎𝒕+𝒆−𝒋𝝎𝒕)+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉). That is 𝒋 is minus 
+because you are having 𝒆−𝒋𝝎𝒕 as the fir st term. So, we take it to the second term and the minus 
+sign comes before . And  last term is 𝝎𝝉
+𝟐(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉. So, next line 𝑲𝑻̇𝒊𝒔(𝟏
+(𝟏+𝝎𝟐𝝉𝟐)sin𝝎𝒕−
+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)cos𝝎𝒕+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉). This (𝒆𝒋𝝎𝒕−𝒆−𝒋𝝎𝒕)
+𝟐𝒋 is the definition  of 𝐬𝐢𝐧𝝎𝒕 and (𝒆𝒋𝝎𝒕+𝒆−𝒋𝝎𝒕)
+𝟐 is the 
+definition of  𝐜𝐨𝐬 𝝎𝒕, i.e.,  𝐬𝐢𝐧𝝎𝒕 is (𝒆𝒋𝝎𝒕−𝒆−𝒋𝝎𝒕)
+𝟐𝒋. And 𝐜𝐨𝐬 𝝎𝒕 t is (𝒆𝒋𝝎𝒕+𝒆−𝒋𝝎𝒕)
+𝟐. The last term is 
+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉. So, that is equal to  𝑲𝑻𝒊𝒔
+(𝟏+𝝎𝟐𝝉𝟐)(sin𝝎𝒕−𝝎𝝉cos𝝎𝒕+𝝎𝝉𝒆−𝒕/𝝉). 
+ 
+(Refer Slide Time: 13:29)  
+ 
+ 
+So, here i s a little substitution that will ease our calculation from now on . Let 𝒓𝐬𝐢𝐧𝜽=𝒑 ,   and 
+𝒓𝐜𝐨𝐬 𝜽=𝒒. So, r  is then √𝒑𝟐+𝒒𝟐 and 𝜽=𝐭𝐚𝐧−𝟏𝒑
+𝒒. So, using this we can say 𝒓𝐬𝐢𝐧(𝜽+𝑨)=
+𝒓𝐬𝐢𝐧𝜽𝐜𝐨𝐬 𝑨+𝒓𝐜𝐨𝐬 𝜽𝐬𝐢𝐧𝑨=𝒔𝒊𝒏 𝝎𝒕−𝝎𝝉𝒄𝒐𝒔 𝝎𝒕. So, 𝒓𝐜𝐨𝐬 𝑨=𝟏 and 𝒓𝒔𝒊𝒏 𝑨=−𝝎𝝉. 
+Because you  go back to the equation that we had , that is  𝐬𝐢𝐧𝝎𝒕−𝝎𝝉𝐜𝐨𝐬 𝝎𝒕+𝝎𝝉𝒆−𝒕/𝝉. So, here 
+𝒓𝐬𝐢𝐧(𝜽+𝑨)=𝒓𝐬𝐢𝐧𝜽𝐜𝐨𝐬 𝑨+𝒓𝐜𝐨𝐬 𝜽𝐬𝐢𝐧𝑨. Since my equation is 𝐬𝐢𝐧𝝎𝒕−𝝎𝝉𝐜𝐨𝐬 𝝎𝒕, so, this is 
+𝒓𝐜𝐨𝐬 𝜽 is equal to  1 and 𝒓𝐬𝐢𝐧𝜽 is equal to −𝝎𝝉. So, 𝒓=√𝟏+𝝎𝟐𝝉𝟐 and 𝑨=𝐭𝐚𝐧−𝟏(−𝝎𝝉). So, 
+this becomes 𝒓𝐬𝐢𝐧(𝝎𝒕+𝐭𝐚𝐧−𝟏(−𝝎𝝉))=√𝟏+𝝎𝟐𝝉𝟐𝐬𝐢𝐧(𝝎𝒕+𝝋). Here, 𝝋=𝐭𝐚𝐧−𝟏(−𝝎𝝉) 
+and 𝒙𝟎(𝒕)=𝑲𝑻𝒊𝒔(𝟏
+√𝟏+𝝎𝟐𝝉𝟐𝐬𝐢𝐧(𝝎𝒕+𝝋)+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉). 
+So, this is −𝝎, this term was missing here , −𝝎𝝉. So, 𝐬𝐢𝐧𝝎𝒕−𝝎𝝉𝐜𝐨𝐬 𝝎𝒕, that goes to 
+𝒓𝐬𝐢𝐧(𝜽+𝑨)=𝒓𝐬𝐢𝐧𝜽𝐜𝐨𝐬 𝑨+𝒓𝐜𝐨𝐬 𝜽𝐬𝐢𝐧𝑨. So, 𝐬𝐢𝐧𝝎𝒕−𝝎𝝉𝐜𝐨𝐬 𝝎𝒕 is actually  𝒓𝐬𝐢𝐧(𝝎𝒕+
+𝒑𝒉𝒂𝒔𝒆  𝒂𝒏𝒈𝒍𝒆 ). So, the phase angle is 𝐭𝐚𝐧−𝟏(−𝝎𝝉) and it comes as √𝟏+𝝎𝟐𝝉𝟐𝐬𝐢𝐧(𝝎𝒕+𝝋).  
+So, 𝒙𝟎(𝒕)=𝑲𝑻𝒊𝒔(𝟏
+√𝟏+𝝎𝟐𝝉𝟐sin(𝝎𝒕+𝝋)+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉). That is because this thing here 𝜽 is 
+𝐭𝐚𝐧−𝟏𝒑
+𝒒. So, 𝐭𝐚𝐧−𝟏𝒑
+𝒒 means , since 𝒓𝐜𝐨𝐬 𝑨=𝟏 and 𝒓𝒔𝒊𝒏 𝑨=−𝝎𝝉. So, that is 𝐭𝐚𝐧−𝟏(−𝝎𝝉).  (Refer Slide Time: 16:30)  
+ 
+Now, we give  an example to show us that how this instrument liquid in glass thermometer behaves 
+when we put it to test for a sinusoidal input . A mercury thermometer having a time constant of 0.1 
+minute is placed in a temperature bath at 50 °C is allowed to come to equilibrium with the bath . 
+At time t is equal to 0 the temperature of th e bath begins to vary sinusoidally about 50 degrees 
+Celsius with an amplitude of plus or minus  2 degrees Celsius.  If the frequency of oscillation is 
+10/π cycles/min , plot the ul timate response of thermometer reading as a function of time , what is 
+the phase lag?  
+So, 𝝉=𝟎.𝟏 minute is given, 𝑻𝒊𝒔 is given a s 2 °C. The am plitude of the oscillation is 2  degree , 2 
+degree positive 2 degree negative . So, 50 plus  2 is 52 and 50 minus  2 is 48 . 𝟐𝝅𝒇 =𝟐𝝅𝟏𝟎
+𝝅=
+𝟐𝟎 𝒓𝒂𝒅  𝒎𝒊𝒏−𝟏. And 𝑲=𝟏𝟎−𝟑𝒎𝑲−𝟏. Amplitude of response at steady state is  
+𝑲𝑻𝒊𝒔
+√𝟏+𝝎𝟐𝝉𝟐=𝟏𝟎−𝟑×𝟐
+√𝟏+𝟒𝟎𝟎 ×𝟎.𝟎𝟏=𝟎.𝟖𝟗𝟒 ×𝟏𝟎−𝟑𝒎.  
+So, you can take it as millimeter which means, 1 millimeter is per degree Celsius if that is th e 
+sensitivity, then it is 0. 894 degree that is the maximum amplitude of the thermometer reading  when 
+the input is actually plus or minus  2 degree.  
+ So, 𝝋=𝐭𝐚𝐧−𝟏(−𝝎𝝉)=𝐭𝐚𝐧−𝟏(−𝟐𝟎×𝟎.𝟏)=𝐭𝐚𝐧−𝟏(−𝟐)=−𝟔𝟑.𝟒 °. So, that is your phase lag , =
+−𝟔𝟑.𝟒 °. The respo nse of  the thermometer is 𝟎.𝟖𝟗𝟒 ×𝟏𝟎−𝟑𝐬𝐢𝐧(𝟐𝟎𝒕 −𝟔𝟑.𝟒°). Response of the 
+thermometer in °C is 𝟎.𝟖𝟗𝟒 (𝟐𝟎𝒕 −𝟔𝟑.𝟒°)=𝟎.𝟖𝟗𝟒 (𝟐𝟎𝒕 −𝟏.𝟏𝟎𝟔𝟓 )𝐫𝐚𝐝   = 𝟎.𝟖𝟗𝟒 (𝟎.𝟑𝟑𝟑𝒕 −
+𝟏.𝟏𝟎𝟔𝟓 ). This we are doing in second, in the 20𝑡, it was radian per minute . Now, we are doing 
+it radian per second. So, that is 0.333 t minus 1.1065 in second , 0.1065 radian  that is 63.4 degree 
+𝟏𝟎
+𝝅 cycle is  1 minute so,  1 cycle is 𝝅
+𝟏𝟎×𝟔𝟎 seconds is 18.85 seconds. So, phase lag in second is 
+63.4
+360×18.85, that is 3.32 seconds. So, 18.85 second is the time period of oscillation and 3.32 
+second is the phase lag.  
+(Refer Slide Time: 19:41)  
+ 
+ 
+Now, we calculate using the formula . The form ula which you have used is this thing  𝒙𝟎(𝒕)=
+𝑲𝑻𝒊𝒔(𝟏
+√𝟏+𝝎𝟐𝝉𝟐sin(𝝎𝒕+𝝋)+𝝎𝝉
+(𝟏+𝝎𝟐𝝉𝟐)𝒆−𝒕/𝝉). And 𝝋=𝐭𝐚𝐧−𝟏(−𝝎𝝉). So, using this we get 
+these values . We calculate for t, this is t ; here t goes from 0 ,1.5, 3, 4.5, 6, 9, 12, 15, 18, 21, 24, 27, 
+30, 33, 36, 39, 42, 4 5, 48, 51, 54, 57, 60. And then 𝒕/𝝉 for 𝝉=𝟎.𝟏 minute. So, 0.1  minute mean 
+six seconds . So, 1.5 is one fourth, 3 is half , 4.5 is  3 quarter and six is  1, 1 𝝉. So, 𝒕/𝝉 we get , then 
+𝟎.𝟖𝒆−𝒕/𝝉  is the error that , transient error term . If you go back t wo slides, you will get this is the 
+transi ent. This is your transient error , this thing is the transient error term because it has 𝒆−𝒕/𝝉. And 
+𝒆−𝒕/𝝉 term we have seen in the, this step function that if 𝒕/𝝉 is 𝝋, this thing becomes negligible.  
+So, we have , you see that 𝟎.𝟖𝒆−𝒕/𝝉, this is going smaller smaller smaller and here it is completely 
+negligible. Then you have total 𝟎.𝟖𝟗𝟒  𝑺𝒊𝒏(𝟎.𝟑𝟑𝒕 −𝟏.𝟏𝟏). Where those values are calculated , 
+they are here . And totally add this and this , this is 0 then this is positive . Everything is positive 
+until here then negative , negative , negative , positive an d rounded ; 0.107 is rounded to 0.1, 0. 378 
+is rounded to 0.4 ; 0.705 is to 0. 7.   
+(Refer Slide Time: 22:14)  
+ 
+So, that way we go and we see this result if we plot this is how it looks. So, you see  the orange 
+line is your 𝑻𝒊, input function , and the 𝑻𝒕𝒍 is your response of the thermometer . See this input is  up 
+to 2 degree , 2 degree temperature is amplitude, but this is coming not more than 1.4 or 1.5, let us 
+say. So, that means it cannot cover 0.5 degree here and this is your phase lag.  
+See this shifting , this is shifting like this phase lag , phase lag , phase lag , phase lag something like 
+that. So, thermometer is a good instrument for step function it can duplicate the step function 
+disturbance very closel y if the time constant is small. B ut even if the time cons tant is small, the 
+thermometer is not an ideal instrument to replicate a sinusoidal input function . It will miss it by 
+0.5 out of  2 which means about  25 percent ; 25 percent  will be the error .  (Refer Slide Time: 23:29)  
+ 
+Another example , a mercury thermometer having a time constant of five seconds placed in a 
+temperature bath at 50 degrees Celsius is allowed to come to equilibrium with the bath . At time t 
+is equal to 0 the temperature of the bath begins to vary sinusoidally about 50 degre es Celsius with 
+an amplitude of plus or minus  3 degrees Celsius. If the frequency of oscillation is  12/π cycles per 
+minute, plot the ultimat e response of the thermometer reading  as a function of time , what is the 
+phase lag ?  
+(Refer Slide Time: 24:00)  
+ 
+Same problem with different numbers. So , we calculate similar way .  
+(Refer Slide Time: 24:04)  
+ 
+And then we plot , see here the thing to notice that it is coming from a t time t is equal to 0 it is 
+having a negative value . And then it came , picks up and the n it follows the oscillation.  
+(Refer Slide Time: 24:19)  
+ 
+So, references , we have E.O. Doeblin  in measurement systems application and design fourth 
+edition McGraw Hill publishing company Singapore . And Samson I.E.  2018 principles of 
+industrial process inst rumentation , Lambert academic publishing Latvia European Union.  
+(Refer Slide Time: 24:37)  
+ 
+Conclusi on: liquid in glass thermometer need s tep disturbance to indicate accurate temperature ; it 
+is not sui table for ram p or sinusoidal disturbance. Thank you .  
+ 
+ 

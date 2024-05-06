@@ -1,0 +1,245 @@
+Instrumentation and Process Control in Food Industry  
+Professor Ashis Kumar Datta  
+Agricultural and Food Engineering Department  
+Indian Institute of Technology, Kharagpur  
+Module 01: Fundamentals  
+Lecture 03: Laplace Transform Review -II 
+We will start lecture three , Laplace transform review under the fundamentals . So we are still 
+in module one ; we are covering Laplace transform review . We came up to unit pulse function. 
+Now we will start with unit impu lse function.  
+(Refer Slide Time: 0:43)  
+ 
+We are covering concepts Unit impulse function, Sinusoidal function, Transform of 
+derivatives, Transforms of integrals, Box function and Ready reckoner, which is a list of 
+Laplac e transform for common functions that are encountered in signal processing or control.  
+(Refer Slide Time: 1:05)  
+ 
+So, unit impulse function is basically this box function which was unit pulse, if its width 
+becomes 0 an d height become infinite, then we call it impulse. What is the common example 
+of impulse function in electrical circuit? The switch I was talking about that, we came at 9 
+o'clock turn on the switch and then turn it off at 9’o’5 that is your box function or  unit pulse 
+function. Impulse function means the width is 0 and the height is infinite ; that is known as a 
+spike.  
+Now, electrical circuit spike is a very important operation because if something is spiking, you 
+have to make sure that it does not damage your  equipment. So, voltage stabilizers are used just 
+to avoid spikes in the computer. So, spike is : it is going straight to infinity, like this ; width is 0 
+and height is in finite.  
+So Laplace transform of unit impulse function  
+𝑳[𝜹𝟎(𝒕)]=𝑳𝒕
+𝑨→𝟎𝟏−𝒆−𝒔𝑨
+𝒔𝑨 
+ That is the Laplace transform we found out for pulse function. Now, 𝑨→𝟎. So, we apply L 
+hospitals rule ; this is a basic rule in calculus differential calculus L Hospital's Rule, that means, 
+whenever we have limit of something going to 0, and this is sort of indeterminate, we apply a 
+differentiation. Differentiation in the numerator, we apply differentiation in the numerator, and 
+we apply differentiation in the denominator  with respect to  A, the variable  which is going to 0 . 
+So, here with respect to A if you do you get 𝒔𝒆−𝒔𝑨 and minus minus cancel, and the 
+denominator A goes to 0, so, it is 𝒅
+𝒅𝑨(𝒔𝑨). So, you are differentiating with respect to  A, set is 
+s, so, s, s cancel, and A goes to 0. So, this thing is 1.  
+So, this is the Laplace transform of unit impulse function if the function is having 0 width then 
+going to infinite then it has a Laplace transform of 1.  
+(Refer Slide Time: 3:17)  
+ 
+Now, Sinusoidal function – Sinusoidal function is 𝐬𝐢𝐧𝝎𝒕, we know that 𝐬𝐢𝐧𝝎𝒕 is defined as 
+𝒆𝒋𝝎𝒕−𝒆−𝒋𝝎𝒕
+𝟐𝒋. So, this is the nature of sin curve , sin function. So , 
+𝑳[𝐬𝐢𝐧𝝎𝒕]=𝟏
+𝟐𝒋∫(𝒆𝒋𝝎𝒕−𝒆−𝒋𝝎𝒕)𝒆−𝒔𝒕𝒅𝒕∞
+𝟎=𝟏
+𝟐𝒋∫(𝒆−(𝒔−𝒋𝝎)𝒕−𝒆−(𝒔+𝒋𝝎)𝒕)𝒅𝒕∞
+𝟎 
+So, I am just taking s and j omega together for two cases ; this is plus 𝒆𝒋𝝎𝒕 this is minus 𝒆𝒋𝝎𝒕. 
+Then we go the integration will be this thing here divided by the factor ; this is also integration 
+here divided by the factor that goes from 0 to infinity. So, this is algebra you can do at your 
+home no problem, 𝟏
+𝟐𝒋(𝟏
+(𝒔−𝒋𝝎)−𝟏
+(𝒔+𝒋𝝎)).  
+So, that if I expand it , in the numerator (𝒔+𝒋𝝎)−𝒔+𝒋𝝎. So, 𝑳[𝐬𝐢𝐧𝝎𝒕]=𝝎
+𝒔𝟐+𝝎𝟐. So, 
+𝑳[𝐜𝐨𝐬 𝝎𝒕]=𝒔
+𝒔𝟐+𝝎𝟐. 𝐬𝐢𝐧𝝎𝒕: 𝝎in the numerator ; 𝐜𝐨𝐬 𝝎𝒕: 𝒔 in the numerator . That is the 
+difference ; otherwise the denominators are same.  
+(Refer Slide Time: 4:50)  
+ 
+Transforms or derivati ves – This is very important because if the function is differentiated then 
+what is the transform? So  𝑳[𝒅𝒇(𝒕)
+𝒅𝒕]=∫𝒅𝒇(𝒕)
+𝒅𝒕𝒆−𝒔𝒕𝒅𝒕∞
+𝟎=∫𝒅𝒇(𝒕)𝒆−𝒔𝒕∞
+𝟎. So, ∫𝒅𝒇(𝒕)𝒆−𝒔𝒕∞
+𝟎 is 
+equal to , see this thing here ∫𝒅𝒇(𝒕)
+𝒅𝒕𝒆−𝒔𝒕𝒅𝒕∞
+𝟎, 𝒅𝒕 𝒅𝒕 got cancelled.  
+So, I have ∫𝒅𝒇(𝒕)𝒆−𝒔𝒕∞
+𝟎. Taking the integration by parts 𝒖=𝒆−𝒔𝒕, 𝒅𝒖
+𝒅𝒕 the different iation of that 
+=−𝒔𝒆−𝒔𝒕 and 𝒅𝒗, rest of the thing is 𝒅𝒗, which is 𝒅𝒇(𝒕). So, 𝒗 is equal to  𝒇(𝒕). So, 𝒖𝒗 now 
+becomes this into 𝒇(𝒕). So, that is what you get here, 𝒖𝒗 𝒇(𝒕)𝒆−𝒔𝒕and this is your 𝒗𝒅𝒖 , minus 
+sign, two minus cancel  out 𝒇(𝒕)𝒔𝒆−𝒔𝒕𝒅𝒕.  
+So, here minus 𝒇(𝟎) is function at time 𝒕=𝟎, if the function has any value at time 𝑡=0 it will 
+come otherwise, most functions will be 0. So, this term will disappear then 𝒔∫𝒇(𝒕)𝒆−𝒔𝒕𝒅𝒕∞
+𝟎. 
+So, this is your 𝑠 times ; 𝑠 is coming from here. So, this thing is your 𝒇̅(𝒔), this whole thing is 
+here 𝒇̅(𝒔). So, that I write −𝒇(𝟎)+𝒔𝒇̅(𝒔). So, transform of derivative , first derivative is 
+−𝒇(𝟎)+𝒔𝒇̅(𝒔). Second derivative si milarly, you can do this exercise at home, if you derive it 
+another time it would be 𝒔𝟐𝒇̅(𝒔)−𝒔𝒇(𝟎)−𝒇′(𝟎), which means the derivative of the function 
+at time 𝒕=𝟎. Go to higher order 𝒅𝒏𝒇(𝒕)
+𝒅𝒕𝒏 and 𝒔𝒏𝒇̅(𝒔)−𝒔𝒏−𝟏𝒇(𝟎)−𝒔𝒏−𝟐𝒇′(𝟎)……−
+𝒔𝒇𝒏−𝟐(𝟎)−𝒇𝒏−𝟏(𝟎).  
+(Refer Slide Time: 6:57)  
+ 
+Transforms of integrals, transform of integrals means, we are taking the integration of 𝒇(𝒕)𝒅𝒕 
+from 0 to t . There it is 0 to infinity ; here it is 0 to t. So, again we go to that integration by parts 
+∫𝒇(𝒕)𝒅𝒕𝒕
+𝟎 that is u ; would define this quantity  as as 𝒖 and this is my 𝒅𝒗. So, 𝒖𝒅𝒗 if I take it is 
+v u v will come v is this quantity u is this quantity. So, this is  𝒆−𝒔𝒕
+𝒔∫𝒇(𝒕)𝒅𝒕𝒕
+𝟎 and this is 
+𝟏
+𝒔∫𝒆−𝒔𝒕𝒇(𝒕)𝒅𝒕∞
+𝟎 that is 𝑣 𝑑 𝑢, v is this and u is this.  
+So, this thing if I apply the limits it comes out as 𝟏
+𝒔𝒇(𝟎)+𝟏
+𝒔𝒇̅(𝒔). So, 𝟏
+𝒔𝒇̅(𝒔). So, this is an 
+important derivation ; you see the pattern if you go with derivative you get 𝒔𝒇̅(𝒔); derivative is 
+𝒔𝒇̅(𝒔) and integration is 𝟏
+𝒔𝒇̅(𝒔) because it is just a n opposite operation. The derivation means 
+you are taking slope of the line or slope of the function and integration means you are taking 
+area under the curve. So, integration Laplace transform will generate an 𝑠 in denominator 
+derivative will generate s i n the numerator .  
+(Refer Slide Time: 8:27)  
+ 
+So, here is a Box function, Box function means it is ramp ; first goes like this , it goes up , holds 
+and then it comes down . The distance is same A here, A hear, A here. So, 𝒇̅(𝒔)=∫𝒆−𝒔𝒕𝒕𝒅𝒕𝑨
+𝟎, 
+𝒆−𝒔𝒕𝒕𝒅𝒕 because this is ramp function , here the function is t, A this way A this way. So, slope 
+is 1 so, ∫𝒆−𝒔𝒕𝒕𝒅𝒕𝑨
+𝟎−∫ 𝒆−𝒔𝒕𝒕𝒅𝒕𝟑𝑨
+𝟐𝑨. Going d own. For this note that it is important the limit says 
+0 to 𝑨 and 𝟐𝑨 to 𝟑𝑨, nothing here because the function has gone up and then hold steady.  
+So, nothing comes here then this thing comes here 𝟐𝑨 to 𝟑𝑨 limits will decide that how long 
+this conti nued you held the function for 𝟏𝑨, so 𝑨 to 2𝑨. So, now, it is your integration rules 
+−𝒆−𝒔𝒕𝒕
+𝒔|
+𝟎𝑨
++𝟏
+𝒔∫𝒆−𝒔𝒕𝒅𝒕𝑨
+𝟎+𝒆−𝒔𝒕𝒕
+𝒔|
+𝟐𝑨𝟑𝑨
+−𝟏
+𝒔∫𝒆−𝒔𝒕𝒅𝒕𝟑𝑨
+𝟐𝑨.  
+Then it is just algebra you go like  
+−𝒆−𝒔𝑨𝑨
+𝒔−𝒆−𝒔𝒕
+𝒔𝟐|
+𝟎𝑨
++𝒆−𝟑𝒔𝑨𝟑𝑨
+𝒔−𝒆−𝟐𝒔𝑨𝟐𝑨
+𝒔+(𝒆−𝒔𝒕
+𝒔𝟐)
+𝟐𝑨𝟑𝑨
+ 
+So, this goes like this here, this you have to work it out at home and see that these values are 
+matching  Fnal expression is this  
+=𝑨𝒆−𝒔𝑨
+𝒔[𝟑𝒆−𝟐𝒔𝑨−𝟐𝒆−𝒔𝑨−𝟏]+𝟏
+𝒔𝟐(𝟏−𝒆−𝒔𝑨−𝒆−𝟐𝒔𝑨+𝒆−𝟑𝒔𝑨) 
+(Refer Slide Time: 10:33)  
+ 
+Now, this is Triangular function. Triangular function is no holding ; the box is not there, so, I 
+have got this going to ram p up, up to a ramp down up to 2 A. So, here the same thing, but the 
+limits are different 𝑨 to 2𝑨; that was 2𝑨 to 3𝑨 this is 𝑨 to 2𝑨. So, again same thing goes on 
+you have to follow this by doing otherwise you will not be able to do it  if it is given in  the 
+exam. So, (𝟏−𝒆−𝒔𝑨
+𝒔)(𝟏−𝒆−𝒔𝑨
+𝒔−𝟐𝑨𝒆−𝒔𝑨). So (𝟏−𝒆−𝒔𝑨)[𝟏
+𝒔𝟐−𝒆−𝒔𝑨
+𝒔(𝟏
+𝒔+𝟐𝑨)].  
+(Refer Slide Time: 11:15)  
+ 
+So, review of Laplace transform ; and here is a table that gives Laplace transform of almost all 
+relevant functions. This is by no means an exhaustive table. It is average table ; basically it is 
+an average table from bigger table available  in mathematical handbook . So, we start with 𝜹𝑨(𝒕), 
+which is unit pulse function, this is unit pulse function. So, Laplace unit pulse function means 
+that the function has a box type of arrangement, the width is 𝑨 and the height is 1/𝑨. So, if you 
+multiply width times heigh t, the area will be unit 1. So, that is why it is called unit pulse 
+function and this pulse because it goes up stays there and then comes back. Laplace transform 
+of that is 𝟏−𝒆−𝒔𝑨
+𝒔𝑨. s is your complex variable that is part of  the Laplace transform, all Laplace 
+transforms are Laplace of any function time bound function is given as 𝒆−𝒔𝒕𝒇(𝒕)𝒅𝒕 integrated 
+from 0 to infinity.  
+So, this is the definition of Laplace transform. So, once we apply that to the pulse function, we 
+get this as a result 𝟏−𝒆−𝒔𝑨
+𝒔𝑨. Then you have 𝜹𝟎(𝒕) which is unit impulse function, which is the 
+same pulse function which has a width  A has become 0 and infinity has become the height. So, 
+that is the unit impulse function, impulse function is very nearly described by a spike, in 
+electrical circuit when you have a spike that is your unit impulse which means it the width 
+approaches 0 and the height approaches infinite. Laplace transform such is one, unity, if you 
+take this thing and you apply L'Hospitals rule where a goes to 0 you will get this thing.  
+So, that is the Laplace transform unit impulse function. Then you have step function, step 
+function means the function remains 0 and then at one in stant it reaches some value five, ten, 
+twenty, one Anything. So, step function if I take a unit this is this height we take as one unit. 
+Then Laplace transform is 𝟏𝒔⁄ if this one unit is five unit, then it will be 𝟓𝒔⁄. So, Laplace 
+transform step f unction is 𝟏𝒔⁄.  
+Then √𝒕. It is a bit cumbersome to find out the Laplace transform of √𝒕, but it can be done with 
+a little bit of mastery over calculus, integral calculus. So, the Laplace transform is √𝝅
+𝟐 𝟏
+𝒔√𝒔. Then 
+you have ramp function, this is ramp function 𝑡; it has a slope of 1, it can also have a slope of 
+𝐴. The ramp function Laplace transform will be 𝟏
+𝒔𝟐⁄. If slope is A then it will be 𝑨
+𝒔𝟐⁄. So, 
+that is the ramp function Laplac e transform  
+(Refer Slide Time: 14:35)   
+Then you go to 𝒕𝟐. If it is square of t , curve looks like this ; it goes to very high value after a 
+while. So, 𝒕𝟐 Laplace transform is 𝟐!
+𝒔𝟑. Then 𝒕𝒏, that is much further rise much steeper rise to 
+the power n ; so Laplace transform of that is 𝒏!
+𝒔𝒏+𝟏. 𝒆−𝒂𝒕 is 𝟏
+𝒔+𝒂, it is a decaying function if 𝒆−𝒂𝒕 
+means the function is decaying and Laplace transform that is 𝟏
+𝒔+𝒂. 
+Now, you combine 𝒕𝒏 and 𝒆−𝒂𝒕 here, then you get a combination of this and this , 𝒏! in numerator 
+and (𝒔+𝒂)𝒏+𝟏 in the denomina tor. So, the function will look like this it will rise first and then 
+it will decay down which means 𝒆−𝒂𝒕 prevails after some time and before it is too larger time 
+period the 𝒕𝒏 prevails. So, it goes up. So, it is like a b ell shaped curve . 𝐬𝐢𝐧𝝎𝒕 is 𝝎
+𝒔𝟐+𝝎𝟐, 
+sinusoidal function starting from 0.  
+(Refer Slide Time: 15:55)  
+ 
+Then you have 𝐜𝐨𝐬 𝝎𝒕, 𝒔
+𝒔𝟐+𝝎𝟐. 𝐜𝐨𝐬 𝝎𝒕 is same sinusoidal function but it starts from one. At 
+time 𝑡=0 it has a value of 1 whereas, for 𝐬𝐢𝐧𝝎𝒕 function , time 𝑡=0  it has a value 0. Then 
+hyperbole function : 𝐬𝐢𝐧𝒉𝒂𝒕 which is 𝒆𝒂𝒕−𝒆−𝒂𝒕
+𝟐. 𝐬𝐢𝐧𝒉𝒂𝒕 Laplace transform is 𝒂
+𝒔𝟐−𝒂𝟐 and this is 
+the function 𝐬𝐢𝐧𝒉𝒂𝒕, is steeply rising, 𝐜𝐨𝐬 𝒉𝒂𝒕 the same thing steeply rising but it starts from 
+1 whereas here it starts from 0. So, 𝐜𝐨𝐬 𝒉𝒂𝒕 is 𝒆𝒂𝒕+𝒆−𝒂𝒕
+𝟐. So, 𝐜𝐨𝐬 𝒉𝒂𝒕 is 𝒔
+𝒔𝟐−𝒂𝟐. 
+𝒆−𝒂𝒕𝐬𝐢𝐧𝝎𝒕. So, 𝝎
+(𝒔+𝒂)𝟐+𝝎𝟐. 𝒆−𝒂𝒕𝐜𝐨𝐬 𝝎𝒕 is 𝒔+𝒂
+(𝒔+𝒂)𝟐+𝝎𝟐. Both are decaying , see, because of 𝒆−𝒂𝒕 
+factor both are decaying after a while it will decay down, now no problem of instability  here.  
+(Refer Slide Time: 17:10)  
+ 
+𝒆𝒃𝒕𝐬𝐢𝐧𝒉𝒂𝒕 is 𝒂
+(𝒔−𝒃)𝟐−𝒂𝟐. 𝒆𝒃𝒕𝐜𝐨𝐬 𝒉𝒂𝒕 is 𝒔−𝒃
+(𝒔−𝒃)𝟐−𝒂𝟐. 
+(Refer Slide Time: 17:2 3) 
+ 
+So, reference again is the same book ; D.R. Coughanowr Process Systems Analysis and Control. 
+McGraw -Hill international Editions, Chemical Engineering Series, Second Edition, Singapore.  
+(Refer Slide Time: 17:35)  
+ 
+So, Laplace transform is a handy tool for the solution of ordinary differential equations with 
+constant coefficients. Real Time variables are transformed into complex plane to obtain 
+algebraic relationships. Thank you.  
+ 
