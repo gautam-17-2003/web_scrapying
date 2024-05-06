@@ -1,0 +1,438 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Department of Chemical Engineering
+Indian Institute of Technology, Guwahati
+Lecture 10 – Shelf Life Studies
+Good afternoon all! So, today we are going to see about the shelf life studies. Till here now
+what we all have seen is the basic food microbiology and what are all the thermal food
+processing can be applied on the food to extend the shelf life. And also we have seen the
+quality consideration and optimum process conditions. So now we are into shelf life studies.
+(Refer Slide Time: 1:06)
+So today before going into the topic of shelf life studies, so we would like to solve the
+examples two and three whatever we have told yesterday. So the examples two goes like this:
+A food liquid is given a thermal treatment consisting of three consecutive stages. So the one
+is heating stage, holding stage and cooling stage and the heating is done in heat exchanger,
+the temperature increases linearly from 30 to 120 degree Centigrade in 90 seconds. In holding
+it is a constant temperature process it is at 120 degree Centigrade for about 70 seconds.
+The third stage is cooling in a heat exchanger, again the temperature drops linearly from 120
+degree Centigrade to 10 degree Centigrade in 90 seconds. So we supposed to calculate the f
+naught of each stage of the entire process. Right, so here the, word linearly is important
+because the temperature changes from 30 degree to 120 degree linearly and the same way in
+the cooling it decreases from 120 to 10 degree Centigrade. So first we need to calculate f
+naught for each process then combine them together and calculate the total f naught needed
+for the process.(Refer Slide Time: 2:28)
+So the first one is we are going to do it in the heating stage. The f naught formula we are now
+familiar with 0 to t, 10 to the power of t minus t reference upon z, right. So there is no
+information about the reference temperature and dz, so our default reference of 121 degree
+Centigrade and z value of 10 degree centigrade we will take. So this is for clustered (())
+(03:04), right. So one more thing is so here T is the function of t, so it is told in the problem
+that it is heated from 30 to 120 linearly. So first, we need to construct the temperature
+function so which is nothing but 30 plus 120 minus 30 upon 90 seconds, right. So this is
+interpolation method, so then it is 30 plus this is 90 upon 90 into t, right.
+For 90 second it is 90 degree centigrade means for 1 second what it is? So this is nothing but
+an interpolation that should be added to the 30 which is nothing but initial temperature, right.
+So then what we get is 30 plus t. So for example if you draw a graph between time versustemperature, so your heating stage increases something like linearly. So this linear function is
+nothing but 30 plus t, ok. So I have not drawn into scale for example you may take it as a 30
+degree temperature here, here it is a 0 seconds. So it is a 90 second so this temperature is
+nothing but 120. I have not drawn into scale, right.
+So I know now the temperature as a function of t, then I will substitute here 0 to how many
+seconds? 90 seconds so 10 to the power of t is nothing but 30 plus t minus 120 upon10. So
+this becomes 0 into dt, so here also into dt without that we cannot integrate. So, 90 and 30
+minus 121 is nothing but minus 91 plus t divided by 10 into dt.
+So this becomes 0 to 90, 10 to the power of 0.1 t minus 9.1 into dt. So we suppose to
+integrate that and get the value 10 to the power of 0.1 t minus 9.1 divided by 0.1 because this
+is a function of t, 0.1 into ln 10. So just nothing but 0 to 90. So this becomes 10 to the power
+of minus 0.1, why? Because this is 90 so this becomes 9, 9 minus 9.1 is 10 to the power of
+minus 0.1 divided by 0.23 minus of, then you substitute 0 then you will get 10 to the power of
+minus 9.1 divided by 0.23. So this is this comes around approximately 3.5 seconds.
+So again I am telling when you are doing calculations take number of decimals throughout
+the calculation same. So I would recommend you to take at least four decimal place after the
+point so that there will not be drastic change between what I calculate and what you calculate,
+ok.
+So the heating stage we have calculated, then holding stage it is very much simpler because it
+is a constant temperature process. So this is f naught at heating, so holding stage it is very
+much simpler because my 10 to the power of what is the temperature? It is holding at 120
+degree. So 120 minus 121 upon 10, so into 0 to 70 into dt, so this becomes 10 to the power of
+minus 1 upon 10 into 70, so which is around 55.6 seconds.(Refer Slide Time: 7:17)
+So the next one is cooling stage, cooling stage also f naught is 0 to t, 10 to the power of t
+minus t reference upon z into dt, so cooling stage it is about 90 second heating but it cools
+from 120 to 10 degree Centigrade. So 0 to 90 degree, so 10 to the power of we need t as a
+function of t minus 121 upon10. So how to calculate t as a function of t, so which is nothing
+but 120 minus because it is a cooling curve, so it goes here.
+And it is holding at holding stage for about this is 90 second, right. So this is holding at 120,
+so this is 70 seconds, right. 90 plus 120, so it is around 120 seconds; if you put it in seconds,
+then it starts cooling right to the 120 to 10 degree Centigrade. So this time consumption is 90
+seconds I get, right.So here 120 minus, 120 minus 10 degree, so number of seconds required is 90 into t. So 120
+minus 110 upon 90, so which is nothing but 1.22 t. So now I got temperature as a function of
+t, so which nothing but 120 minus 1.22 into t. So now I suppose to substitute there 0 to 90, 10
+to the power of 120 minus 1.22 t minus 121 upon 10 into dt. So which becomes 0 to 90, 10 to
+the power of minus 0.122 t minus 0.1, so which becomes 10 to the power of minus 0.122 t
+minus 0.1 divided by minus 0.122 into ln 10, 0 to 90.
+So if you calculate this integral then you will get around 2.83 seconds, right, so f naught for
+cooling is approximately 3 seconds, right. So now we calculate the total f naught, total f
+naught is f naught at heating, then f naught at holding plus f naught at cooling. So how much?
+3.5 seconds plus 55.6 plus 3, so this is 6.5, 61.5 so 62.1 around approximately seconds for
+total f naught, total f naught of this process, ok.
+Anyway when we will be seeing the aseptic processing, so there when calculating the total
+lethality also we will be doing the same kind of problem. So this is an introduction how to
+calculate the f naught value for different thermal treatments.
+(Refer Slide Time: 11:16)
+The next one is this example, here we suppose to calculate the equivalent f naught process to
+maintain the same condition, right. The liquid food is continuously heated in a heat exchanger
+from 70 degree to 130 degree in 60 seconds. It is assumed that the temperature increase is
+linear with time, the same thing what we have done in earlier problem. The purpose of the
+process is to inactivate certain target microorganisms, right. If the food contained originally
+10 to the power of five living cells, that is nothing but my initial spore level of the target
+microorganism per gram.  What will be the number of surviving cells per gram at the end ofthe process? So we suppose to calculate at the end of the process how much would be the
+living cells.
+So  the  temperature  treatment  is  given  and  the  data  is  the  heating  time  at  a  constant
+temperature of 110. So as mentioned in the previous problem so here it is need not be always
+120 degree centigrade and 10 degree z value. So it depends upon the temperature, right. So
+here the reference condition is given as 120 degree for a 12 log reduction of the target
+microorganism is nothing but 21 minute, right and z value for corresponding data is 9 degree
+Centigrade. So with that we suppose to calculate what should be my n at the end of the
+process.
+So for this first thing what we would need to do is we have to calculate the equivalent f
+naught process. So from there we suppose to calculate, compare both the reference as well as
+our actual situation, then from there we will calculate the n value.
+(Refer Slide Time: 13:05)
+So first one is first we suppose to calculate f naught value, so already it is told temperature is
+varying linearly with time. So, the same one what we have done previous problem, 130 minus
+70, so number of seconds is 60 into t. So this is nothing but 70 plus t, so f naught is but
+integral 0 to 60, 70 plus t minus 110.
+Remember the reference temperature is given as 110, this is 10 to the power of 70 plus t
+minus 110 divided by z value is given as 9. So what you get is 0 to 60 into dt 10 to the power
+of minus 4.44 plus 0.11 t into dt. So this becomes 10 to the power of 0.11 t minus 4.44
+divided by 0.11 into ln 10, 0 to 60. So what happens is 144.64 into 10 to the power of 3 into
+10 to the power of minus 5 upon 0.25, so which is coming around 578 seconds or which is
+approximately 9.52 minute.
+So for the given reference process of 12 log reduction at 110 degree, 21 minute with the z
+value of 90 degree. So the equivalent process value what we have calculated here is 9.52
+minute. So if you do it at 110 degree it is coming around 21 minute but if you increase the
+temperature linearly from 70 to 130 for about 60 seconds, so your equal f naught is 9.52
+minute. So we suppose to calculate both the ratios, log of n upon n naught is nothing but our
+actual process what we have calculated is 9.52, so this is 21.
+Right, so for the 21 they have given already the value, so which becomes, so I do not know
+what is my log of n by n naught, so already for that they have given, so the initial is
+something around 10 to the power of 12. So, my final is something 10 to the power of 0, so
+this is 9.52 and this is 21 and also we know here, right. So this is around….so it is given in
+the problem 10 to the power of 5.(Refer Slide Time: 16:30)
+Right, so this is log of n upon 10 to the power of 5, so divided by so this is 1 upon 12, so this
+becomes minus 12 which is equal to 9.52 divided by 21 minute, here 9.52 minute, here it is
+21 minute. So this becomes log of n upon 10 to the power of 5 which is equivalent to about
+minus 5.44. So then n is almost 0.3 cells per gram, right.
+For the reference condition what they have given is 110 degree centigrade, if you maintain 21
+minute, so you can reduce 12 log reduction. So that means if my initial spores are 10 to the
+power of 12 you can reduce to one spore. So this is the process as a reference, so what we
+have done is we have done the linear heating, so that is from 70 to 130 degree centigrade of
+about 9.52 minute, so how much we got? So the initial spores are 10 to the power of 5 cells
+per gram. So, we could reduce to 0.3 cells per gram. So this this is answer what they asked
+for it, ok.(Refer Slide Time: 18:14)
+So now we will move onto today's lecture, so here what we are going to see is first is the
+basics and whatever the processing conditions, whatever the thermal process what we have
+studied till now all are extend the shelf life. So whether the shelf life has been extended or not
+how to check that is the study which is called as shelf life studies. And especially the aim is to
+have a high food quality and the expectations of quality of food during the period between the
+purchase and consumer.
+So, after the process, the thermal processes have been applied on the food products then it has
+to be transported to the market places. From that market places consumers will buy and they
+try to consume within the certain period of time. Right. And this is what we called it as shelf
+life period of the particular food. Though it is mentioned on the label that use by date so it
+includes from the manufacturing industries to the market and market to the consumer and
+consumer  till  they  consume.  Actually,  so  the  high  quality  food  is  expected  and  also
+expectation extended the quality of food during the period between the purchase and the
+consumer. So till when the consumer is consuming the product that also have a primary
+concern in the shelf life period.
+The time during which the food will remain safe, the time during which is nothing but the
+shelf life period, so in this period the food should be remain safe and to be at desired sensory,
+chemical, physical and microbiological characteristics. So this we have already seen in many
+examples in past 10 or 12 lectures that it should not give any odd taste and the color should
+not change. And the physical characteristics comes under the color and the taste comes under
+the sensory properties and chemical it should not produce any unwanted enzyme whichchanges the quality of the food and microbiological characteristics we have already seen, it
+should be at the proper microbial count.
+We have already seen that we cannot have 100 percentage  killing of any bacteria,  any
+bacterial or the pathogenic microorganisms but it should be in the acceptable microbiological
+characteristics. And also you should comply with the label declaration of nutritional data, so
+this we have seen one of the examples in the past lectures. So for that in the label there is a
+declaration of nutritional data, so to have that data during the shelf life period at what
+temperature we must store the product that we have seen in one of the example.
+And also the more important thing is that should be acceptable by the consumer. Because it
+will not be appealing, for example I have some food and the water and the solid content of
+the food is in different layers. By seeing that itself consumer will not feel like buying it. So it
+should also be acceptable to the consumer.
+(Refer Slide Time: 21:50)
+And so having to satisfy all these qualities the check is being done. The evaluator who is
+checking the shelf life studies they should be aware of what are all the food process that is
+being applied on the food and the food process analysis and the packaging considerations and
+statistical  techniques  whatever  used  on  the  product  they  should  be  aware  of  all  these
+techniques. And the shelf life studies should be done after it is processed, packed and stored
+and ready for purchase and consumption. So at this stage only the shelf life studies should be
+applied.
+So  determination  of  shelf  life  studies  based  on  these  guidelines,  one  is  relevant  food
+legislation and guidance given by the enforced authorities or agencies, this we have discussedmany times what are all the GMPs and what are all the different food processing or food
+regulation agencies have been, what are all the different criteria have been suggested by the
+different food processing agencies. This we have discussed in vast in pasteurization as well as
+sterilization processing. And guides provided by the independent professional bodies such as
+IFT, so this also we have seen in our previous lectures. And the good industrial best practice
+that is what I told as a good manufacturing practices that is GMP and self-imposed end-point
+assessment this is done by the manufacturing industries itself and market information, market
+information in sense so this particular product is consumed in till what date, right.
+And certain products we have a requirement for daily basis. For example, milk. So the
+consumers would buy milk every day basis and there are certain products, pastries, cakes and
+those were consumed in particular intervals, right. So this kind of market information also
+would help me to determine the shelf life period.
+(Refer Slide Time: 24:06)
+And what are all the factors affecting the shelf life? The first one is the product quality. So
+based on the product quality there are three varieties of food, one is highly perishable, second
+one is semi-perishable and third one is highly stable food. So perishable food comes, the
+milk, fresh meat, fresh fruits and vegetables all comes under the category of highly perishable
+food and I mean here the factors are they are called short shelf life products as I told. So
+maximum  of  one  day  or  three  day  within  which  it  has  to  be  consumed  subject  to
+microbiological and enzymatic deterioration. This we have seen in the pasteurization thermal
+processing itself, so they cannot be stored in normal ambient conditions. And measurements
+have to be taken every day to check for shelf life test.The second one semi-perishable food; pasteurized milk, smoked meats, cheeses and some
+bakery products all come under the category of semi-perishable foods. And they have a life
+span of short to medium shelf life products. And may contain natural inhibitors or have
+received minimal preservative treatment. So to increase the shelf life products they may have
+some natural inhibitors or they have some preservatives so that extend the shelf life of the
+products and measurements had to be taken every week. The shelf life may be maximum
+three weeks, so the measurements have to be taken every week.
+Because since they have natural inhibitors or preservatives, so we need not check the quality
+then and there. And highly stable foods, they are dried foods, canned food and frozen food.
+So, what makes them different from other two categories are because they have a thermal
+process received a high thermal process or maintained in the specific conditions, right. So this
+after sterilization even the particular sterilized milk we have seen UHT milk under, so that
+can stay up to six months even in the ambient conditions. So they are medium to long shelf
+life  products  and  they  have  received  the  proper  thermal  or  maintained  in  the  specific
+conditions. The measurements had to be taken every week or sometimes monthly basis as
+well.
+(Refer Slide Time: 26:45)
+So what are all the factors affecting food quality is food compositions, I mean which food
+liquid or solid or semi-solid those food composition and which the food contains whether is
+acid or certain enzymes, so all comes under the category of food composition. Then water
+activity, this water activity we have discussed enough, and I mean what are all the favorable
+conditions for the microorganisms to grow. The same with pH value, there are particular pHand particular water activity only. The bacteria see but leaves, so that also we have seen and
+total acidity of the product and acid and redox potential, available oxygen content, nutrients
+content, natural microflora and surviving microbiological counts, everything matters.
+And natural biochemistry of the product formulation, so what are all the unwanted enzymes
+forming  and  whether  any  chemical  reactions  happens  during  the  storage.  And  use  of
+preservatives in the product formulation, sometimes we use natural preservatives like salt,
+sugar, so what is their effect on the product and concentration of the reactant inhibitor and
+catalyst,  how  they  affect  the  product  quality?  So  this  all  comes  under  the  category  of
+compositional factors.
+(Refer Slide Time: 28:11)
+There are environmental factors so which comes under time and temperature profile during
+processing and this we have already seen based on the kinetics of the reaction, this time
+temperature profile is decided. Based on that any thermal heat treatment is given to the
+product to extend the shelf life. So that also important environmental factor which affects the
+product quality and pressure in the headspace this, this we have discussed enough in our
+previous classes. And temperature control during the storage and distribution. For example,
+this has to be stored at refrigerator condition and the correct refrigerator temperature has to be
+maintained.
+And the relative humidity during the processing, storage and distribution, so based on these
+we have a certain conditions for example frozen condition, so the frozen is minus 18 degree
+Centigrade. So this is something, 100 percentage relative humidity and the second one we
+call it as a chilled condition, the storage condition the chilled, chilled comes under like 0 to 5degree or sometimes 8 degree as well. So the relative humidity is also very high and then the
+other condition goes like normal temporal condition, so that is 35 degree Centigrade, 75
+percentage relative humidity. The other condition is tropical, so which is around 38 degree
+Centigrade and 90 percentage humidity, high humidity condition and high temperature. So
+relative humidity and temperature during storage and distribution also affects the product
+quality.
+And exposure to the light during processing, storage and distribution this also we have seen
+and there are certain food packaging considerations which takes care of this IR permeability,
+UV  permeability  whether  my  product  deteriorates  during  that  conditions  or  not.  And
+environmental microbial counts during processing, storage and distribution. Though we have
+given enough thermal  treatment then after the treatment how the product is distributed,
+stored. Based on that there may be some contamination, so that also affects the product
+quality and atmospheric composition within the packaging, so this I have already told the
+packaging material also matters.
+Because whether it is water permeability it has a water, high water permeability or oxygen
+permeability  and  how  it  reacts  to  the  UV,  IR  rays  everything  is  being  taken  into
+consideration. And subsequent heat treatment and distributer, retailer and consumer handling.
+For example, one of the lecture also I told like when it goes to market places and during the
+marketing in the shop how it is being circulated also.
+For example, every day they receive the product and that has to be properly shuffled, right.
+Whatever comes as a new should go below and the old product should come above for the
+consumer pickup, easy pickup. So that kind of sometimes these old stocks would be retained
+under the shops itself, so this all have to be taken care. And this is how you storage, for
+example that product has to be stored under refrigerated conditions, it has to be strictly stored
+under the refrigerated conditions. For example, three days they might forget that and after
+three  days  they  put  it  in  the  refrigerator  condition.  Within  that  three  days  of  normal
+atmospheric temperature storage conditions we do not know how the product would be
+spoiled. So that also very much important.(Refer Slide Time: 32:23)
+And the critical quality and guidelines, so who gives these guidelines? One is government
+law, so this the critical quality is mainly for microbial safety and consumer standard this may
+be higher than the government standard, means by just seeing that itself consumer will not
+feel appealing, so they will not buy. For example, I told the product may not be deteriorated
+but separation of liquid and solid part itself by seeing that itself consumer thinks that the
+product might have deteriorated, right.
+And the competitors, for the same product two competitors may have different regulations,
+right.  So  the  consumers  obviously  will  go  for  higher  quality  which  is  given  by  the
+manufacturer, right. So critical quality can also be related to the competitor’s product and
+consumers they provide the best judgment on the critical quality of each food, right. Because
+they pay and get the product, so obviously they would require or they would obviously get
+the product which is of high quality. And biochemical, physiochemical reactions are required
+to insightfully understand and identify the mechanisms responsible for spoilage or loss of
+desirable characteristics, this also we have discussed.
+And there are certain biochemical or physiochemical reactions which happens that leads to
+the  spoilage,  so those  reactions  have to  be studied. And several  reactions  involve  food
+deterioration such as microbial spoilage, chemical or enzymatic activity including rancidity
+and browning reactions or moisture and other vapor migration also has to be considered when
+determining the critical quality of the food products.(Refer Slide Time: 34:18)
+So based on that there are three varieties of shelf life test, one is static test, another is
+accelerated and third one is use, abuse. The static tests are very easy one, the product stored
+under given set of environmental conditions. So they determine what should be the relative
+humidity and temperature and requires a long time to observe changes and obviously they are
+expensive and no information on the effects of stress because these are static stress and they
+will not take into consideration when the product is being transported. How the stress affects
+the product quality or packaging it will not be considered in the static test. And it is closest to
+distribution conditions.
+The accelerated test in which the product stored under the range of environmental conditions
+usually temperature or relative humidity. And conditions are selected in such a way that to
+cover the entire range and remember as we discussed earlier the shelf life test is only to be
+conducted after the food is packaged and ready for the distribution, right. So this range of
+temperature we have already seen in our previous slide.(Refer Slide Time: 35:44)
+So, these are all the normal conditions; frozen, chilled, and temporal and tropical.
+(Refer Slide Time: 35:51)
+So this test will contain all the ranges. For example, minus 18 to 38 degree and relative
+humidity of 60 to 100 percentage. And conditions are selected to cover the entire range which
+is encountered by the product and can be achieved relatively shorter period of time. For
+example, it is transported three days at different conditions, that will not be taken care but it is
+relatively shorter period of time and also it provides the kinetic data since it is accelerated test
+and also time is taken into consideration.
+This condition should not alter the normal anticipated path of the path which affects the shelf
+life. And the results must be interpreted with the care because the kinetic part is involved
+here.And use or abuse test and product cycle through environmental variable, any environmental
+variable because it has to see how many cycles it can go through at the particular temperature
+or relative humidity. This test is used to access the product and package as a unit. So as I said
+earlier so this is often used to determine the effects of the transport, so it obviously includes
+the product as well as packaging. This test use cycles of variables that are equal to or beyond
+the  expected,  under  actual  conditions  because  it  says  abuse  test  also.  We create  worst
+conditions and we check, so normally any product has to be checked for its shelf life under
+normal conditions and worst conditions and also optimal conditions. So it takes care of all the
+conditions, that is why use-abuse test.
+(Refer Slide Time: 37:41)
+And design of shelf life test, how we design? The evaluator should concern about the method
+of measurement whether it is a standard or also it should be a standard and appropriate test.
+And the cost of testing also matters. And homogeneity of the sample because when we are
+taking sample, for example we have a solid plus liquid food. For example, in yoghurt you
+have added some of the nuts, right. So when the product is taken for when the sampling is
+done, it should contain both, both the yoghurt and nuts, right. So the homogeneity of the
+sample also to be taken care. And the sample should not be tested for other qualities prior to
+microbiological testing results, this is very much important.
+For example, we go for sensory analysis and before microbiological testing that may hamper,
+right like if the product is processed for certain microbiological conditions or microorganism
+count then that has to checked first and ensured it is under the limit, then only we can go for
+sensory analysis. For frozen product it is noticed that biochemical changes in the food canoccur during frozen storage only and the temperature differences can vary from 5 to 10
+degree Centigrade and extremely high storage temperatures should be avoided.
+Actually if we go for temperature difference it should be the del t should be 5 to 10 degree
+Centigrade and extreme storage temperature beyond 38 should be avoided. And we have
+already seen because that is the temperature, our thermophilic bacterias can survive. And the
+sample during storage test should include around six to eight points of sampling time. Right,
+the statistical count should be taken care. And the quality change of the product should be 30
+to 50 percentage of the original to represent an accurate trend of the deterioration. Actually
+when we go for shelf life test we need to ensure at least 30 to 50 percentage of the real life
+conditions has been taken into account during shelf life test.
+(Refer Slide Time: 40:05)
+And based on the design sampling there are three; one is basic design sampling. There are
+three types; one is basic design sampling; second one is reverse design sampling; the third
+one is semi-reversed design sampling. The sample will be collected for product quality
+assessment following the sample plan in the design sampling. So the sample plan we make
+and the sample will be collected based on the sampling plan. Normally, it is a once in a week
+till the shelf life analysis. But this design, basic design sampling is bit expensive because the
+sample would be tested for sensory panels and especially trained panels the cost of this
+design will be high due to repeated training of the panels before each test.
+So once in a week I will take a sample and do the all the analysis, so each week the persons to
+be  trained  for sensory  analysis,  in  that  way the  cost  of this  sampling  is  high  and  one
+advantage  what  we  get  is  the  frequencies  of  the  sample  can  be  increased,  decreasedappropriately. For example, earlier as per the sampling plan I have decided one week, so in
+between if I want to do it by three days once then I can do it, that flexibility is with me. But
+each time all the tests has to be carried out, so for that the test is because of the test is very
+much costlier.
+And reverse design sampling, the sample will be maintained under controlled conditions and
+as per the sampling plan this also goes as per the sampling plan. The controlled condition
+ensures that the sampling quality is quite stable such as freezing or refrigeration. Because it is
+a controlled condition the condition is maintained and the sample will be accessed after the
+completion of all samplings at the same time.
+So we take samples at the different intervals but when the test is being carried out or we
+access all samples at the same time, advantage of this design is lower cost for sensory testing
+because only one time I will do all the sampling. However, problem arises if the sampling
+changes faster or later than expected, then we will have a problem because we already know
+that at this particular storage conditions it will not be spoiled or it behaves what I expected. If
+it  changes  faster  then  we  may  face  the  problem.  The  third  one  is  semi-reverse  design
+sampling. The semi-reverse, reverse design sampling by the name itself we can know, both
+basic design as well as reverse design will be applied at the same time.
+So, testing after two or three rounds of for example, we go for once in a week to till shelf life
+analysis. So first I will have first two to three rounds of samples or in the middle of the
+sampling  plan  to  ensure  the  product  quality  changes  within  the  expected  range  of
+deterioration. So I will use both the techniques, for example once in a week I will go till the
+shelf life analysis but in between three weeks once I will do my sampling analysis, right. But
+in case of basic design it has to be done in every week but in the case of reverse design I will
+do it at the end all the sample at the same time.
+But here I have the flexibility, if I want to do after three weeks or after four weeks that I have
+I mix both basic as well as reverse design based on the product quality. So how will I
+determine the shelf life of the any product? First, we will go from the reaction order.(Refer Slide Time: 43:55)
+We will do one example, then we will also determine the shelf life of the product with second
+example, so if you remember our kinetics of the reactions lecture, so we have talked about the
+kinetics of any reaction.
+(Refer Slide Time: 44:10)
+So the reaction rate is defined as the concentration in change in the A with respect to time if A
+gives the product, so this also can be written as K into C A so where K is rate of rate constant.
+C A is concentration of the reactant, so this is the reactant. So normally reactant depletes, so
+that is why minus r A is there. So normally we combine both, d C A dt which is equal to K
+into C A power n. So this n we call it as a reaction order or order of the reaction, so we
+already told this can be zeroth order, first order, second order and so on.So if it is a zeroth order what we have is minus d C A is equal to, so K C A power zero is
+zero, so dt so if we do it initial concentration C A naught to final concentration and 0 to t we
+end up in C A naught minus C A which is equal to K into t. So if you see t is nothing but C A
+naught minus C A upon K. So, this is what we call it as a shelf life period and this is the
+quality attribute, right. So if we go for, this is for zeroth order reaction. So, this is zeroth order
+reaction, the first order reaction so you will have minus d C A upon dt which is equivalent to
+K C A power 1.  So, minus the C A upon C A which is equal to K t. So this is ln C A which is
+C A naught to C A, so I will bring minus here K t.
+So ln C A upon C A naught which is equal to minus K t or ln C A is equal to ln C A naught
+minus K t or from this if you take then t is nothing but minus of ln C A upon C A naught
+divided by K or if you put plus here so then it becomes C A naught upon C A, ok. So this is
+another t. So now we know how to calculate the shelf life time t.
+(Refer Slide Time: 47:15)
+So now we come to our first problem which says find the reaction order of the ascorbic acid
+loss on multivitamin storage, the concentration of ascorbic acid A at different times when
+stored at 40 degree Centigrade are presented in the table. So they are storing a multivitamin at
+40  degree  centigrade  and  they  have  given  the  time  versus  ascorbic  acid,  so  they  have
+measured in milligrams per ml. So, after ten days of storage 271 milligrams per ml is lost and
+after twenty days of storage 109, after thirty days 58, after forty days 30 and fifty it is 18 and
+sixty it is 10.
+So this is losses initiated from the initial concentration, so this is the final concentration of
+ascorbic acid. So they asked us to find out which reaction order it follows, right. So if youremember what we have seen is C A naught minus C A equal to K t. So if you see whatever
+we derived for the zeroth order reaction, so if you remember our C A naught upon C A which
+is equal to K t, right. And the second order reaction, so 1 upon C A naught minus 1 upon C A
+which is equal to K t.
+So if you derive in that way what I have done in the previous slide, so what I am going to do
+is I am going to take time in days and for zeroth order reaction so I would require the
+concentration as such. So for to check for the first order reactions, so I might be requiring the
+ln C A; for the second order I would be requiring 1 upon C that is nothing but 1 upon C A.
+Because the initial concentration is constant, for example here if you take C A equal to C A
+naught minus K t, so if you draw this is C, so this is mx plus C. So, if m is minus K it is a
+negative slope, is not it? So this is nothing but the intercept, this is slope and this is y versus
+x, so if I draw a graph between t versus C A then I will be getting the negative slope. This
+slope is K which nothing but minus K, so then I will find out this is but my C A naught which
+is a intercept.
+So this for zeroth order reaction, for first order reaction the same, so what you get is ln C A is
+nothing but ln C A naught minus K t. So the same way 1 upon C A is nothing but 1 upon C A
+naught minus K t. So for that I would be requiring for zeroth order the same concentration,
+for first order it is ln C, for second order it is 1 upon C.
+(Refer Slide Time: 50:38)
+So now I am going to plot it, so it is t in days, this is normal concentration which is in
+milligrams per ml of ascorbic acid, so the temperature is constant everywhere 40 degree
+Centigrade. So I have taken the points which are our concentration points at different days 10days, 20 days, 30 days, 40 days, 50 days and I have fitted this equation. So, what I got is y
+equal to mx plus C, so what is this m? So, minus 45.8866 plus 243.27. The r square is 0.7519
+and after that I will come to this m and x but now we are going to check which reaction order
+it follows or which reaction rate mechanism it obeys, right.
+The second one is time and again time and days and this is the concentration obviously it is a
+ln C, ok the concentration is in milligrams per ml. So the ln C it gives me this y equal to m x
+plus c as well as the r square, r square is 0.9916, so this is again my x axis is time and days
+and my y axis is 1 upon C A. So this is nothing but 1 upon milligrams per ml, so this is unit,
+so I have plotted again, so it gives me r square of 0.8758. So, obviously from the second one
+so you must be understanding that it gives me good fit.
+So the deterioration of or loss of my ascorbic acid in multivitamin storage follows the first
+order, right, first order reaction mechanism.
+So we come to the conclusion that whatever the given problem it is of first order, ok. Thank
+you. Remaining we will discuss in the next class.

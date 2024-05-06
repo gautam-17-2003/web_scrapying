@@ -1,0 +1,384 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology, Guwahati
+Lecture No. 7
+ Kinetics of Reactions
+Good morning all, today we are going to see the topic of kinetics of reaction.
+(Refer Slide Time: 0:40)
+In this topic, today we are going to cover kinetic expressions, order of reactions, determination of
+order, rate constant and rate of reaction, inactivation kinetics, D and z values.(Refer Slide Time: 0:53)
+So the first one we are going to talk about kinetic expressions. So normally any reaction, for
+example, if A gives B, so this A is nothing but a reactant and B is nothing but a product. So how
+do I represent the concentration of reacting species with respect to time, so that is nothing but
+kinetic expressions.
+Here which is nothing but dc upon dt so this c is nothing but concentration of the reacting
+species. So this minus sign is for, when the reaction happens the reactant A is getting depleted
+over the time. So which is equivalent to kn and c power n. So what is this k, this k is nothing but
+a rate constant and this n is nothing but a order of reaction. So in general so this n is nothing but
+the order of reaction. 
+So this c is nothing but the concentration of the reactant to the power n. n is nothing but a order
+of reaction. So the course what we are dealing with here is the thermal processing of food. So in
+the thermal processing the one of the main process is nothing but sterilization which is nothing
+but a cleaning of microorganisms using a temperature. So this c talks about concentration of
+microbial count for example, initially I have particular microbial count so over the time at
+particular temperature how the microbial count is getting reduced. 
+And sometimes it may be the enzyme activity. So enzyme activity is also related to the food
+processing. So when I am going to kill about the particular cell concentration at particular time atparticular temperature. So how my enzyme activity of the food is getting changed, so the same
+may be enzyme activity as well and sometime it talks about the nutrient retention. So when I am
+going to heat the food for a particular time to kill microorganisms so how much of nutrient is
+retented in particular time at particular temperature that that concentration also I would be
+interested. And sometimes it is colour, sometimes it is texture, flavor, etc. So this t is nothing but
+a time and kn is nothing but rate constant where n is the order of reaction.
+(Refer Slide Time: 3:34)
+So we have already told about the kinetic expressions which is nothing but minus dc upon dt
+equal kn c power n. So based on the n, whether it is 0 or 1 or 2, the reactions are categorized into
+zeroth order reaction, first order reaction, second order reactions sometimes fractional orders of
+reaction also exist, for example n equal to 0.3, n equal to 0.2 1.2, etc. So how are we going to
+derive such a kinetic expression for different orders of reaction that we are going to see in next
+slides. (Refer Slide Time: 4:13)
+So my general kinetic expression goes like minus dc dt which is equal to kn c power n. So this n
+is nothing but order of reaction. So if I know order of the reaction priori so for example my n is
+equal to 0. So that means it is zeroth order reaction. So how do I write kinetic expression dc upon
+dt which is nothing but k naught c power 0, so which is nothing but k naught. 
+So now I integrate over initial concentration c naught and final concentration c over the time
+zeroth minute to t th minute. So this is nothing but 1 so this is k naught so here dc dt is nothing
+but minus k naught so which implies dc is nothing but minus k naught 0 to t dt, the same way my
+concentration goes from initial concentration c naught tofinal concentration c. So this becomes c
+minus c naught which is nothing but minus k naught into t. 
+So c is nothing but c naught minus k naught into t. So at any particular time I will be able to
+calculate my concentration when order of reaction is nothing but a zeroth order. I would require t
+time and rate constant k naught, k naught here is rate constant, so this is nothing but my initial
+concentration of the microorganism or nutrient or enzyme activity anything. So I would be able
+to tell what is my c at time equal to t if my order is zeroth order. (Refer Slide Time: 6:25)
+So if my order is a first order, my n equal to 1 that is nothing but a first order, first order reaction.
+So here I would be able to write dc upon dt which is nothing but k1 c power 1 which is nothing
+but c. So dc upon c which is nothing but minus k1 dt, so I will integrate over initial concentration
+to final concentration, initial minute to time t th minute. So, which is nothing but lon c upon c
+naught which is nothing but minus k1 t. So if you want to calculate the concentration at any point
+of time c naught e power minus k1 t. 
+So if I want to calculate at particular time t, what is my concentration so from the initial
+concentration and from first order rate constant so this is nothing but first order rate constant. So
+this is my initial concentration. The same thing for n equal to 2, n equal to 2, it is nothing but a
+second order reaction, so c naught to c, so dc upon c square which is nothing but minus k2 0 to t
+dt, so which is nothing but integral c naught to c c power minus 2 dc. So here I am assuming
+some of you are from science background as well. 
+So I am going into detail so if you are from engineering background you have already taken the
+course of the some chemical reaction engineering this would be simple. So this is nothing but 1
+upon minus c. 1 upon minus c naught which is nothing but minus k2 t so this is nothing but
+minus 2 plus 1 minus 2 plus 1, this will become a minus. So you would be having 1 upon c isnothing but 1 upon c is nothing but 1 upon c naught minus k2 t. So this is second order rate
+constant so at particular time t so I will be able to tell what it is my concentration. 
+So this is what here we have done for example, this is plus so this is 1 minus c goes there and
+this 1 upon c so this will come here it must be plus. 1 upon c is nothing but 1 upon c naught plus
+k2 t. So this is where here given at zeroth order reaction your c is nothing but c naught minus k
+naught t. So we have derived here c equal to c naught minus k naught t and for first order
+reaction so it is nothing but c equals to c naught e power minus k1 t and for second order reaction
+it is nothing but 1 upon c, 1 upon c naught plus k2 t. So that is what we derived here.
+So what are all the examples for zeroth order reaction. This is caramelization of sugar and
+vitamin C destruction in meats. So these follow zeroth order reaction so most of the microbial
+destruction  and enzyme inactivation.  So this  is  important  because we are going to discuss
+extensively about this in this course. So for microbial destruction, so what are all the kinetic
+expression, so these both follows first order reaction. 
+So we would be talking extensively about c equal to c naught e power minus k1 t and second
+order reaction it is nothing but 1 upon c 1 upon c naught plus k2 t. This is thiamin destruction in
+milk. So when we will be talking about milk pasteurization. So this is important. And fractional
+orders also would be possible. So we are not going to go in detail about that. So now what we
+have done here is if I known my order of reaction a priori, so I will be able to calculate my
+concentration at any point of time t but if I don’t know order of reaction a priori, so how would I
+be calculating that.  (Refer Slide Time: 11:19)
+The general expression what we have is minus dc upon dt which is nothing but kn c power n. So
+what are we going to do is we are going to take log in both the side which is nothing but log kn
+plus n log c. So now it becomes a form, y equal to mx plus c. So in the laboratory what I would
+be doing is I will be taking at each minute so what is my concentration of the reacting species,
+the concentration for example, molds per liter. So if I take a simple example of A gives B, A is
+nothing but a reactant, B is nothing but a product. So I would be knowing mechanism from the
+chemistry. 
+So how would I be able to determine the concentration at various time. There may be a titration
+technique for example, some reaction so from that I would be able to determine at particular time
+what  is  the  concentration  remaining,  concentration  of  A is  remaining  in  the  reaction  or
+sometimes what may so happen is how much of B is produced at particular time of reaction.
+Since we have talked about the reacting species so I am saying like how much reactant is
+depleted at particular time. 
+So here I will be taking for zeroth so my concentration is c naught then at 1 minute my
+concentration is c c1 and second minute my concentration is c2 This is the way I will record. And
+what I would be requiring is my log of minus dc dt. So I would be needing I would be need of dcdt. So log of dc dt so first I should be determining what is dc dt, then after that I will be taking
+log and also I would require log of c, log of c. So log of c is straight forward you will be doing it.
+So dc dt how do you calculate? So what is a if I take what is dc, dc is nothing but c1 minus c
+naught upon t1 minus t naught. So this also I can write t not equal to 0, t1 equal to 1 minute, t2
+equal to 2 minute, so remember we are talking about how much reactant is getting depleted. So
+when the reaction proceeds, the reactant will be consumed so c1 is nothing but low compared to
+c naught so that is where this minus comes, so I will be writing like so minus of if I take minus
+out, so then the c naught will be coming here.
+So this is nothing but minus of c naught and plus c naught. So I will be having c naught minus c1
+by t1 minus t naught. So one minus sign is here, so that is the way I will write minus dc dt. So if
+I take a log, then I will have this value. So from taking just a log of concentration column then I
+will be having log c. So now I am going to plot it. Plot it versus so m sorry it is not c it is mx. So
+x is nothing but log c. So in x axis log c and in y axis it is log minus dc dt. So I will be having,
+the linear line so which talks about the intercept.
+So intercept is nothing but log kn so from this I will be able to calculate my rate constant at n th
+order reaction. So why we are doing this? I do not know priory what is my order of reaction, so
+this is nothing but f intercept. So this is what we call it as a c. So this slope is nothing but n
+which is nothing but order of reaction. So we are familiar with now how to calculate the order of
+reaction and how to calculate the rate constant at particular order. so this is what discussed here
+principle behind determining kn and n.(Refer Slide Time: 16:03)
+So whatever we discussed it is given in the slide, get you familiarize with the technique, or how
+to determine kn as well as n which is nothing but a order of reaction when you do not know
+really. So now we are slowly moving what is a analogy between what I learnt the kinetic
+expressions and how I am going to use in thermal processing of food. So one such situation I
+have already discussed is is sterilization where I would be employing temperature to kill the
+microorganisms. So this killing of microorganisms can be done is many ways. For example, they
+might be using bactericidal compound, or they may be using the physical reaction which is
+nothing but temperature, pressure and sometimes it is a electric field. 
+And the moment I talk about microorganism, it (inclu) it includes bacterias, yeasts as well as
+viruses. As you all know if you know little bit of micro biology, these bacterias are nothing but a
+prokaryotic,  and yeasts are nothing  but a eukaryotic  cells, and viruses  are nothing but the
+parasites. So we collectively talk about, in terms of microorganisms and the actions would be
+either it may be a bactericidal compound, or it may be a temperature or it may be a pressure or it
+may be any electric field, right but since the course is concentrating on thermal processing most
+of the time I will be talking about the physical action which is nothing but a temperature. (Refer Slide Time: 17:44)
+So in general these are all the properties, these are all the factors which affect the growth of
+microorganisms. So one is nothing but nutrient concentration, so here when I am talking about
+these factors so what I meant is this should be in particular range, particular range in the sense so
+till certain range it will be affecting the growth of microorganisms, but beyond certain range it
+will be affecting the growth of microorganisms. 
+So if you know the micro biology when you are preparing the culture medium, so you will be
+including the nutrient at particular concentration for example, if particular component beyond
+certain concentration that itself will be a inhibiter for the growth of microorganisms. So the
+second  main  important  thing  is  nothing  but  a  temperature.  So  this  is  what  we  will  be
+concentrating whole course, how I will be processing thermally processing the food  
+So any metabolic reaction which happens in the cells are catalyzed by the enzymes. So what
+happens if the temperature goes beyond certain level, these enzymes getting denatured. So when
+enzymes getting (ne) denatured at high temperature, so they will not be able to catalyze any
+metabolic reactions. That is how the death of microorganism starts. and pH, pH is also another
+important parameter certain food require, certain pH or certain growth of microorganisms in it
+certain pH. So this may be acidic pH, or alkalic neutral pH so that based on the microorganisms at which
+range of pH the microorganisms grow and at which range of pH the inactivation starts. Another
+important parameter is nothing but oxygen. So we already know there are three major categories,
+aerobic which requires oxygen, anaerobic which does not and facultative anaerobic it survives in
+both the condition whether oxygen is available or unavailable. 
+The fifth parameter is nothing but a water activity. So this cells live in the determined range of
+osmotic pressure. Each cells require certain osmotic pressure to be live or for the growth of
+microorganisms  certain  osmotic  pressure  is  required  but  this  is  indirectly  related  to  water
+activity. This is nothing but a vapor pressure of water to the saturation pressure of water at
+particular temperature. Apart from that, there are lethal components or inhibitory components so
+based  on  that  there  are  three  categories-  one  is  minimal  inhibitory  concentration  and
+bacteriostatic and the MBC is nothing but minimal bactericidal concentration. 
+(Refer Slide Time: 20:32)
+So if you go little bit, so growth of microorganisms, so normal growth curve is something like
+this. So we call it as a cell concentration. So what time, so there is something called lag phase, so
+it acclimatized to the environmental condition and there is a exponential growth. So this is
+nothing but a exponential growth phase and this is nothing but a stationary phase. So this is
+nothing but a death phase.So this is growth of microorganisms but we are not going into detail there should not be any
+discontinuity. So here we are talking about inactivation. So I already told inactivation can be
+done in many ways so for example, this is my cell concentration so this is over the time so if I
+am applying some bactericidal compound so how does it behave, sometimes what happens is to
+the bactericidal component, so they learnt how to survive with any bactericidal compound as
+well as sometimes physical actions.
+So this we call it as a bacteriostatic, so this we call it as a MIC this is so minimum inhibitory
+concentration. So when I apply some bactericidal component so there is minimum concentration
+is required to inactivate the microorganisms. So then after that the microorganisms the cell
+concentration  starts  decreasing  so  this  we  call  it  as  a  MIB.  So  minimal  inhibitory, MBC
+minimum bactericidal concentration. So this in general about the bactericidal component. But in
+this course we are going to talk about what is the effect when I apply temperature as my
+inhibitory compound.
+It  is  not  inhibitory  compound.  I  am  using  temperature  as  a  physical  action  to  kill  the
+microorganisms.  So  this  looks  like  when  I  time  versus  this  is  cell  concentration,  cell
+concentration so this is nothing but temperature. So that is my physical action. So first it is
+something like that. As I told temperature certain ranges required for the growth. Then after
+certain temperature, it is starts decreasing. So this is what we are going to talk about as a
+inactivation kinetics. But this is true for any of other physical action.
+For example, if I am applying the electric field, so certain organisms know how to resist them,
+how to resist certain electrical field and they starts still surviving. Certain organisms will get
+killed upon particular physical action. So sometimes what happens is the death microorganisms
+also acting as a shield and which protects  rest of the microorganisms  that is the way this
+bacteriostatic phase happens. But anyway we are not going to go into detail about that.(Refer Slide Time: 24:41)
+So now we learnt what is the inactivation kinetics. How it is going to happen in terms of
+temperature. So we already told most of the inactivation kinetics of the microorganisms follows
+first order reaction. So we will go little bit detail. So for example, here dN upon dt so there we
+have talked about the concentration. Here N means cell population. So which is nothing but k, so
+this rate constant I am putting as inc, so that it will be something different. So into k inc and N. N
+is nothing but a population. So if you are getting so this is nothing but log of N naught upon N which is nothing but minus k
+inc minus because this minus I have taken here so this is t. So what is this, this is nothing but y
+equal to mx. So this is my t time. So this is log N naught upon sorry this is nothing but N upon N
+naught . So when you are this remains same dN upon dt which is nothing but k in inc into N
+which becomes dN upon N which is equal to minus k inc t so if I am N naught  to N so this
+happens 0 to t so N upon N naught  minus k inc t. 
+So now I am doing it time versus N upon N naught , so N naught  is, N is what the cell
+population at that particular time. So N naught is nothing but initial cell population so I will get
+because it is a the negative slope so then this slope is nothing but k k inc. So this is the way I will
+relate here the N equal to N naught 10 to the power of minus t upon dt is nothing but here we
+have taken in log 10 so one can define in this way also. So this k inc so how do I relate, this K
+inc is related to some value called D value. So this we call it as decimal reduction time, so what
+is called decimal reduction time that we will see.
+So here if you see N equal to N naught 10 to the power of minus t upon DT because we have told
+log of N upon N naught into k minus is equals to minus k dt so this is also equivalent to log N
+upon N naught which is nothing but minus k inc t so this k inc I am writing as log 10 N upon N
+naught which is nothing but minus t upon DT. So this T is nothing but a reference temperature
+when we discuss in detail then we will get to know.
+So this N naught is nothing but initial microbial count, CFU colony forming unit per ml. N is
+nothing but final microbial count so I should be telling at particular time what is my final
+microbial count and t is time which may be in seconds or minutes. So DT is nothing but decimal
+reduction time which is also in terms of seconds or minutes. If you represent this as a minute and
+this also minute and it goes like that.(Refer Slide Time: 29:06)
+So we talked about already, so how do I relate my slope into decimal reduction time. So the D
+value goes like this decimal reduction time. Time in minutes at a given temperature so that is
+what I told T represents the at a given temperature that results in a 1 log reduction in a microbial
+count, 1 order of magnitude. So now we will be seeing in this in detail here so for example, so
+this is my time in seconds so this is my log of N upon N naught so this I have the slope. So what
+is says about so instead of this I will be putting in numbers. So that you will understand it better,
+so this is my 1.1 is nothing but my initial concentration N naught, so this is where it starts so that is 1. So then
+this is 0.1, the next one is 0.01, the next one is 0.001, so then next one is 0.0001, so then next one
+is 0.00001. So it says about 1 log reduction, 1 log reduction in the sense so 90 percentage of
+microorganisms get killed. 1 log reduction remaining I will be having only 10 percentage of the
+microorganisms. so if I have to put log of N upon N naught, So what did I say 90 percentage of
+the microorganisms get killed at 1 log reduction. 
+So this will be nothing but so log 10 so how much would be the initial concentration would be
+having so only I will be having N by N naught by 10th. 1 by 10th of will be having. So or
+otherwise 10 percentage of the microorganisms would be survived so that is nothing but 0.1 of N
+naught. So this is N naught. So this will be nothing but log of 10 0.1 so this is minus 1 so we
+have already told this is equivalent to so log of N upon N naught is nothing but minus k inc into
+t. So this is minus 1 which is nothing but minus t upon D so minus minus so t equal to D.
+So to get 1 log reduction, so 1 log reduction in the sense here, so what should be my value, so
+this is nothing but my D value. So for example, I need to get it killed 99 percentage. Here I told
+90 percentage if it is 99 percentage what you would be having is 1. So 1 is nothing but 0.01. So it
+will be like minus 2 so this is nothing but t equal to 2D. So if I want to kill the 99.99 percentage
+of the microorganism then what I would be having so here I will be having 0.01 percentage so
+which is nothing but 0.0001 so which is nothing but minus 4. So your D would be 4 log
+reduction, for 4 log reduction.
+So how much is the time requirement, so that is way D value is getting calculated. So now I hope
+you will be able to calculate and understand that D value. So this T represents at particular
+temperature. So this is N is nothing but here I talked about in terms of what is it log scale. So
+here it is represented as N so N is nothing but number of microorganisms so that is nothing but a
+cell population and N naught is nothing but a initial concentration. So 10 to the power of minus 1
+upon DT we already told that this is nothing but minus k inactivation which is nothing but a
+decimal reduction time Dt. And this is something important, so what is organisms with high D
+value or more resistant to heat and exhibit a flatter slope than organisms with lower D. 
+So if you are able to see what I have drawn. So for example, if I have this flatter slope, so what I
+would be having for 1 log reduction so maybe I will put something like till here. So if I extend it,so what happens so instead of this I will be having for 1 log reduction itself, so this D value so
+that means what at particular temperature if my D value is high those organisms are bit heat
+resistant. So if I will be able to survive at that particular temperature more long time so that
+means  I am able  to  resist that  particular  amount  of heat  which  is  given  at  that  particular
+temperature. So that is why you get flatter slope.
+(Refer Slide Time: 34:47)
+Here I will be explaining you. So which organisms is more heat resistant. So here if you see your
+slope is nothing but minus 1 upon D1so here if you calculate for example, your slope so any
+particular value if you calculate your slope so for particular Dy you will get more Dx. So the
+slope of minus 1 upon D1 is higher slope. In terms of slope this is higher when compared to 1
+upon D2 so thus, D1 is less than D2. So that means what the microorganisms having D value of
+D2 is more resistant, more heat resistant. What is D2 values, so this one is more heat resistant
+that is why you get maximum D value. (Refer Slide Time: 35:43)
+So another one important concept here is the z value. The z value is nothing but temperature
+change required for a 1 log change in the D value of an any organism. So for example, here what
+we talk about is earlier if you see the equation is nothing but 10 to the power of minus t upon DT,
+this T I told at reference temperature or reference temperature you can take. 
+For example, if I get at D1 I am getting at particular temperature T1, if I get D2 at particular
+temperature T2., so here I have put T1 as a reference temperature and T2 was normal T. So what
+I would be having, I would be having log 10 D1 minus D2 is nothing but T1 minus T2 upon z.
+So this z value is nothing but a slope. This is nothing but minus 1 upon z. So this is D value at
+seconds or I will be putting something like this.
+So if I have a temperature T1 if I have a temperature T2. So this is my, this thing so this is my D
+value so for T1 I will be having D1 value at T2 I will be having D2. So this is nothing but my z
+value. 1 log reduction from D1 to D2 it is a 1 log reduction. So what is a temperature range it
+will be having. The same what we discussed already the organisms with high z value are more
+resistant and exhibit a flatter slope. So if you compare both of the concepts, so it is a different
+temperature what would be my D value and from that how I am calculating the slope. (Refer Slide Time: 37:43)
+So maybe I will explain, so this is the conclusive remarks on D and z values. The equation is N
+equal to N naught 10 to the power of minus 1 upon DT. So this DT is nothing but decimal
+reduction time. The z value is I will be calculating at particular temperature particular D value.
+So when I plot it temperature versus D value. So if you remember bit of your chemical reaction
+engineering so any kinetic expression for example, we discussed when we start the class minus
+dc upon dt is nothing but kcA, kn power cn. So this k is nothing but a rate constant which is again the function of temperature e upon RT. So
+this z value is more related to the kinetic expressions. Kinetic expressions in the sense so here it
+is also referred to kinetic expressions but here how my microorganism is getting deactivated at
+particular  temperature  with  time.  So  it  talks  about  how  long  does  it  require  at  particular
+temperature to kill microorganisms from initial count to final count. So here it talks about more
+of temperature dependency. It is related to the kinetic model which is nothing but we call it as a
+Arrhenius model.
+So this is nothing but (each) each temperature what is my D value so I will plot it so this also
+follow linear expression. The slope is nothing but minus 1 upon z. So now I will be just giving
+one example. For example, any D value so for particular microorganism, so it takes D values of
+30 minute at say 40 degree so and it takes 1 log reduction. 1 log reduction is nothing but
+something 90 percentage. So I will be putting 3 minute then at 50 degree centigrade. So what is
+my z value? I already told 1 log reduction in D value.
+So this is nothing but a 10 degree centigrade. So it is not only about the microorganisms.
+Sometimes I need to do trade off, trade off in the sense the initial of the when we start the lecture
+itself I have told you that c talks about not only the microbial count its sometimes talk about
+enzyme activities, sometimes talks about nutrient content everything. So if I say some of my
+food components, some my food products, have the similar D values for example, it has some 25
+minute at 40 degree so it has some 20 minute at 50 degree.
+So how this things look like? For example,  if I have microorganisms  this thing so this is
+something at when I will get greater slope so this is at 55. Based on my experience what we
+discussed earlier so this will happen at 40, when I increase the temperature the inactivation
+would be faster. So if I take 1 log reduction 0.1 so what happens is sorry this is 50 degree. 1 log
+reduction is something 0.1 so if I sorry so I have D value so this is nothing but I am talking about
+D value. So this may be a cell count as well as some food component. Food component in the
+sense what I meant here is may be some nutrient content, some vitamin or something.
+If I have this extended here so that is nothing but a 30 minute. That is what I have mentioned
+here. So this is nothing but 3 minute. If I fix something like 6 log reduction, 6 log reduction in
+the sense my micro biologist says “for that particular food processing I would require 6 logreduction of any microorganism.” So how does it does that if it is 30 minute so it becomes 180
+minute. So then if it is 3 minute so this becomes 18 minute. So it require 180 minute to process at
+40 degree, and 18 minute to process at 50 degree. So similarly so this is nothing but for any food
+components or maybe you can put food nutrient instead of saying component. 
+So this is food nutrient so this D value is 25 minute so if I get 180 upon 25, so this is something
+about 7.2 log 10. So if I have 18 upon 20 so this becomes around 0.9 log 10. so this is at 40
+degree, so this is at 50 degree. So if you understand the things clearly, ao I would require 18
+minute which is less time at 50 degree centigrade. So also I am getting 0.9 log reduction only in
+terms of food nutrient because my aim is to kill the micro organism not to reduce any food
+nutrient. 
+So in that case I will be choosing my 50 degree centigrade as a higher temperature as my target.
+So that I will get minimum reduction in the food nutrient and maximum reduction because it is
+not maximum reduction because I have fixed my microorganism reduction as a 6 log reduction.
+So 6 log reduction I would be requiring only 18 minute at 50 degree. So I am also getting less
+log reduction in the food nutrient. So this is the way I do the trade of using D value and z value.
+So it is extensively used in designing the sterilization process. 
+(Refer Slide Time: 44:41)
+So here it is given for various microorganisms for example, if this is mainly important in the
+milk sterilization C. botulinum, type A and B so which requires D of 0.1 to 0.2 minutes at 250
+degree Fahrenheit and which which is having a z values of 14 to 18. So these are all listed out
+different microorganisms and their D and z values.
+(Refer Slide Time: 45:13)
+And quality attributes are given for various enzymes as well. So peroxide from black radish,
+peroxidase from green beans, and catalase from spinach and thiamin in carrot puree which is at
+pH 5.9 so what should be the if I give 121 which is nothing but the sterilization temperature, the
+D value is about 158, so z value is nothing but 25. So this is the way I combined D and Z values
+and get my quality attributes for the particular thermal processing. (Refer Slide Time: 45:48)
+So and also here when we talk about the kinetic expressions I have already told there were few
+factors affecting the growth of microorganisms. So based on these factors affecting there were
+many models for example, temperature and pH only if they talk about they call it as a secondary
+model. And when they talk about activity also they call it as a tertiary model. There were many
+models available but still we have taken here the Arrhenius model. Arrhenius model and my
+microorganism inactivation is following the first order reaction. So here I talk about the growthphase as well. So when I am talking about the inactivation, what I told is it is following linear
+line, so that does not happen in sometime.
+Sometimes the inactivation happens something of this kind so there is something like stationary
+phase and there is something like decrease phase. Then we call it as this as shoulder. And this is
+actual inactivation. And sometimes here this becomes a tail. The shoulder is nothing but if the
+organism is heat resistant it will not immediately decrease. So you will not get immediate
+reduction in the number of viable cells. 
+So there will be constant period which will be called as shoulder that after that inactivation
+happens. It may not be a linear and there is a tail. Tail in the sense here microorganism learnt
+how to resist the heat. So these are all also possible but what we have discussed in this course is
+only about the linear inactivation of microorganisms. 
+So that one should keep in mind and there are many model based on your process and based on
+your microorganism and based on your food component, you will be able to choose which is
+your best model to be studied or which is the best model from the experiments one will be able
+to tell which model microorganisms inactivation is following. So these are all tables this you will
+get in the references itself. 
+(Refer Slide Time: 48:02)
+So what we have discussed today is one is most of reactions can be described by minus dc upon
+dt which is equivalent to kn c power n. So this we call as kinetic expression or where e kn is
+nothing but a rate constant which follows Arrhenius model which is nothing but k naught e
+power minus e by rt that is where my temperature is comes into play. We call it as a thermal
+processing of food or in sterilization process I am killing microorganisms by using physical
+action which is nothing but a temperature. And also we have studied kinetics  of microbial
+destruction and enzyme (in in) inactivation and quality changes.
+Quality changes in the sense for example, we were able to compare D and z value for one
+particular process which has microorganisms to deactivate at the same time my food nutrient
+should not get deactivate more or my enzyme activity should not be reduced more and for that
+which is the temperature I should choose, one example we have seen. And this can be described
+by D z model or Arrhenius model. So the Arrhenius model is nothing but what I told. So your z
+value is function of temperature which is following minus e upon rt. So we will be doing some of
+the problems based on whatever we learnt today so that we would be seeing probably in next few
+classes.
+(Refer Slide Time: 49:26)
+So  this  is  references  and  additional  resources  which  you  would  like  to  refer  for  further
+clarifications. Thank you.

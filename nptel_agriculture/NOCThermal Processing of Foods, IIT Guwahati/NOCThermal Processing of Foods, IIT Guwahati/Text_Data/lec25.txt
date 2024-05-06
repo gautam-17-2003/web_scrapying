@@ -1,0 +1,601 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Department of Chemical Engineering
+Indian Institute of Technology, Guwahati
+Lecture No. 25
+Food Biosensors
+Good morning everyone! Today we are going to see about food biosensor. Last two classes
+we have seen about various heat exchangers used in the food industry and then various dryers
+used  in  the  food  industry.  And  last  class  especially  we  have  seen  about  the  extrusion
+technology, that is the special lecture because the extrusion technology also involves thermal
+processing.  Then  next  lecture  is  about  the  recent  measurement  techniques  in  the  food
+processing.
+Food processing industries used to measure particular toxic components. So in that direction
+first thing is so I should be able to measure how much toxin is there. So based on that only
+any further processing can be done. So to measure the particular concentration of the food
+spoilage enzymes and various proteins and organophosphate components, toxins. So these
+biosensors are used. So in this lecture we are going to see about the working principle and
+what is biosensors and some of the applications in the food processing industry.
+Otherwise  the  techniques  used  are  based  on  for  example,  potentiometric  mechanism,
+colorimetric mechanism. So that we are not going to discuss about. So here we are only going
+to talk about the biosensing technique not for the mechanism in which it is built. So if you are
+interested in knowing that in depth, so I request you to refer the proper electrochemistry book
+to get to know the exact mechanism. So we are going to discuss only biosensors.(Refer Slide Time: 2:24)
+So the introduction is safety of food and environment is a concern of food technologists and
+health scientists. So that is why we are here, because the course is about thermal processing
+still we are discussing about the biosensors because it also leads to safety of food and
+environment. The strong need for rapid, sensitive detection of different components of foods
+and  beverages  along  with  the  food  borne  and  water  borne  pathogens,  toxins,  pesticide
+residues with high specificity. So the thermal processing is employed in the food just to
+handle with the food borne as well as water borne pathogens as well as toxins present in the
+food material.
+So to do that first of all I will be able to detect them like how much quantity or how much
+concentration it is available in the food. So the rapid and sensitive detection, this is very
+much important because already we have analytical techniques to measure them. So what we
+wanted is as the research is progressing so we want everything in handy. So handy as well as
+rapid. So the rapid and sensitive detection of different components, foods and beverages as
+well as the food borne water borne pathogens, toxins, pesticide residues with high specificity.
+So that means so we are very much specific about particular component.
+So the sensor what I am using should not show me the other components which are present in
+the particular food. So it needs high specificity towards the component measured. So example
+is optical based sensing system that measure luminescence, so luminescence in the sense
+when  not  heated  it  emits  light.  So  based  on  which  based  on  some  chemical  reactions
+happened in the analyte. Due to chemical reactions or atomic motions or stress on the crystalsit emits light. But there is no need for to heat. So that is nothing but luminescence and
+fluorescence.
+Fluorescence, you all might know. So fluorescence is emit light which emits light under
+adsorption of electromagnetic radiation, electromagnetic radiation, radiation. So we can call
+them as for example, UV light. When adsorbing UV light, it emits the light. So luminescence
+also I can tell as category of fluorescence but when not heated due to chemical reactions or
+the atomic motions or stress on crystals it emits the light. And reflectance you know the light
+is  reflected.  And  absorbance  you  know  it  gets  adsorbed,  etcetera,  are  some  areas  of
+applications  of  optical  immunosensor,  optical  immunosensor.  So  when  immunological
+reactions happen, so it emits light, so that is measured and after that it is getting converted
+into digital signal. So in that way it senses how much analyte concentration is there in the
+food particle. So this is one of the example for biosensors.
+(Refer Slide Time: 6:30)
+Then immunological methods rely on specific bind of an antibody to an antigen. So this is
+another example. So as I said here so we are telling optical based sensing system. So which it
+senses, it senses the how much light is emitted that is converted finally into electrical signal.
+So when the light is emitted, we told that there is some chemical reactions. But in biosensor
+there may be some biochemical reactions. So that is what told here immunological methods
+rely on specific binding of an antibody. So what is antibody? It is a protein in the blood or
+maybe other body fluids also, other body fluids of maybe we can put it vertebrates.
+So these are all protein which is present in the blood or we can call it as other body fluids of
+vertebrates. So what it does? It does the recognition part of it, recognition in the sense it
+recognizes the unique part of the foreign target called antigen. So it unique , unique part of
+the foreign target. So what is this unique part of d foreign target, that is nothing but your
+antigen. So this is the protein so which recognizes only unique part. Unique part in the sense
+specific antibody recognizes only the specific antigen. So that is what it is said, unique part of
+the foreign target.
+So what is antigen? So this may be any harmful substance, any harmful substance which
+enters the body and maybe it also causes the body to produce antibodies. So antibody is
+nothing but a protein which recognize unique part of the foreign target. The foreign target is
+nothing but antigen. So what is antigen? Antigen is any harmful substance which enters into
+the body, it signals the or it causes the body to produce antibodies. So this antigen gets
+binded  into  antibody.  So these  immunological  methods  basically  rely  on  this  particular
+mechanism.So this antibody may be monoclonal, polyclonal or engineered also. So based on the antigen
+we  can  create  a  antibody.  That  is  what  the  engineered  antibody  or  engineered  protein.
+Antibodies are basically a protein. So detection of specific microorganisms and microbial
+toxins requires immobilization of specific antibodies onto a given transducer that can produce
+signal upon attachment of a typical microbe or microbial toxins.
+So another detection method is the specific microorganisms and microbial toxins, so for
+example, I wanted to detect microorganism X or the toxin produced by microorganism X
+which requires this immobilization of specific antibodies, so that means the proteins onto the
+given transducer. Transducer is an element which converts one particular signal into another
+signal. For example, whatever physicochemical signal is given to the transducer it converts
+the physicochemical signal into electrical signals, then further it is converted into digital
+signals.
+So what it is told? So if I want to specifically identify the organism or quantitatively identify
+the microorganism X or the toxin produced by the microorganism X which requires the
+immobilization of specific antibodies onto the given transducer, that can produce signal upon
+attachment of typical microbe or microbial toxins. So here microbe or microbial toxins are
+the antigens. So these antigens where it gets bind, so that is nothing but antibody.
+So that particular specific antibody is attached into transducer. So when the antigen goes and
+binds with the antibody, so definitely a physicochemical signal is produced given to the
+transducer. So this transducer further converts the physicochemical signal into electrical
+signal. Inherent features of immunosensors such as specificity as I told, particular antigen
+will bind into particular antibody. Sensitivity, sensitivity is nothing but how sensitive it is. So
+like how quickly it can measure the physicochemical signal.
+And speed, ease and on-site analysis. For example, I told there are conventional methods also
+available. There are conventional methods which are available but conventional method are
+lab bound. We can carry within hand. So if I want to measure the glucose level while
+travelling in the train, then I will be able to do by using biosensor but that not I cannot carry
+with me ease. So that is another important.
+So ease and on-site analysis can be made used for various applications. So that is also
+advantage of biosensors. Biosensors present attractive, efficient alternative techniques by
+providing quick reliable performance. So that is where the biosensors are very much wantedin the food industry. So we have also discussed in one of the lectures TTI, time-temperature-
+integrators. In that also we have discussed about the using amylase how the microorganism
+detection can be done. So that is also one kind of biosensor.
+(Refer Slide Time: 13:34)
+So food preservation maintains food at a desired level of properties and or nature for their
+maximum benefits, so it should not be spoiled. So the properties should be maintained should
+not be spoiled due to microorganism  or enzyme reaction.  So that is desired level  also,
+maintaining the desired level of properties very much important. Each steps of handling,
+processing, storage, distribution affects the characteristics of the food.
+So what we have mostly seen in previous lecture is handling and processing. But storage and
+distribution also there may be a chance for the contamination, so which may be desirable or
+undesirable. Sometimes it may be a desirable change, sometimes it may be a undesirable
+change. Understanding the effects of each preservation method and handling procedure of
+foods is critical in food processing which lead to the safe food.
+So monitoring of safety and nutritional quality of food are very essential. So then and there
+during processing, during handling, during storage, during distribution every point of contact,
+so  we  need  to  monitor  the  safety  and  nutritional  quality.  The  conventional  analytical
+techniques which are used to check this quality and safety are tedious, time-consuming,
+require trained personal. Quick, sensitive, reliable techniques for quick monitoring of food
+quality and safety is very much essential. That is why we are here to discuss biosensors.(Refer Slide Time: 15:13)
+So now what is biosensor? Their specificity, biosensor specificity from biological binding
+reaction, so one I told is antigen, antibody. Antibody, antigen so that is example which is
+derived from a range of interactions that include antigen, antibody. So by now you know
+what is antibody, what is antigen. Enzyme substrate cofactor, so that means so substrate in
+the presence of enzyme it is converted into product. Cofactor is nothing but ions which
+increase the activity of the catalyst.
+Catalyst here is nothing but enzyme. It is said that it is a biological binding reaction. It may
+be due to antigen or antibody relation or enzyme substrate cofactor. That relation or receptor
+ligand. So the ligand comes and attaches into the receptor, same like antibody antigen. So this
+has specific sites. The receptor has specific sites where ligand comes and binds with it. Or
+chemical  interactions  and  nucleic  acid  hybridization  in  combination  with  a  range  of
+transducer.
+So in any biosensor so you will be able to find one bio-receptor. So what is this bio-receptor?
+Bio-receptor  if  you  see  this  combination  antibody  is  the  bio-receptor.  If  you  see  this
+combination the enzyme is the receptor where substrate comes and binds and gets converted
+into product and product moves out. So if you see ligand and receptor, so your receptor is a
+receptor where ligand comes and binds.
+Or chemical reactions and nucleic acid hybridization is also there. So this is nothing but a
+bio-receptor component, so which we call it as a recognition. So then it is given to whatever
+physicochemical signal produced from the bio-receptor is sent to the transducer, so whichproduces electrical signal. So this is nothing but a recognition compound. So then the next
+one is this is nothing but a transduction.
+So then I need to process this signal processing, electrical signal I will be able to process the
+signal, signal processing. So then after that it is converted into digital signal what we get to
+see in the digital display, digital signal. This is what overall happening. So this bio-receptor
+so in combination with a range of transducer. So this transducer can take any type of signal.
+So I told here physicochemical signal, so it may be a optical signal, it may be colorimetric
+signal, it may be electrochemical signal or it may be a physio electric signal, any signal.
+Range of transducers will be used here in the transduction component. So a biosensor can be
+defined as a quantitative or semi-quantitative analytical instrumental technique containing a
+sensing  element  of  biological  origin,  that  is  nothing  but  a  bio-receptor  which  is  either
+integrated within or is in intimate contact with the physicochemical transducer. So this is
+separately attached. So that is what integrated within or is in intimate contact.
+So this bio-receptor can go inside the transducer as well. So either integrated within or is in
+intimate contact with the physicochemical transducer. So this is what whole mechanism
+biosensor, I need to have one bio-receptor which recognizes the analyte, then it produces
+physicochemical,  sorry  physicochemical  that  is,  physicochemical.  So  it  produces  the
+physicochemical  signal  so  which  is  given  to  the  transducer  which  converts  this
+physicochemical signal into the electrical signal.
+So this electrical signal is further processed using signal processing technique and which
+gives the digital signal, that is we get to see in the display. So now we are going to see
+because the transducer signal processing is not our hand, so we are going to take care of this
+bio-receptor component. So that means so I need to identify which is the antigen, which is the
+antibody, which is the receptor, which is the ligand, which is the substrate or which is the
+enzyme. So based if I could find out that combination then easily I can put it into the bio-
+receptor module which creates further either optical or physio electrical or colorimetric or
+potentiometric signal. That will be given to the transducer and further process goes on.(Refer Slide Time: 20:52)
+So a chemical sensor transforms chemical information ranging from the concentration of the
+specific sample component to a total composition analysis into an analytically useful signal.
+So the biosensor is derived from the chemical sensor. What chemical sensor does? Chemical
+sensor transforms the chemical information ranging from the concentration of the specific
+sample component to a total composition analysis into an analytically useful signal. So this
+chemical sensor also usually contain one is chemical recognition. So there it is a molecular
+recognition system which is called as a receptor and physicochemical transducer.
+So based on the chemical sensor only the biosensors are derived. So in the biosensor it
+usually contains the biochemical mechanism. Here it is a chemical recognition. So here it is a
+biochemical  mechanism  interfacing  the  optoelectronic  system.  Optoelectronic  system  is
+nothing but a transducer and further processing. A device that uses the specific biochemical
+reactions mediated by isolated enzymes, immunosystems, tissues, organelles or whole cells to
+detect the chemical compounds usually by electrical, thermal or optical signals.
+A device that uses the specific biochemical reactions, so those biochemical reactions were
+mediated by isolated enzyme, this is what we have told in the enzyme-substrate cofactor
+system.  Immunosystem  is  nothing  but  antibody  antigen.  Sometimes  it  is  not  only  this
+enzymes or antibody antigen system, it may be a whole microbial, we call it as a microbial
+biosensor. So there we will get to see either tissues or whole cells to detect the chemical
+components usually by electrical, thermal or optical signals. So these were given to the
+transducer.(Refer Slide Time: 22:59)
+So what are all the prerequisites for biosensor? As I said earlier, selectivity, so high selective
+for the target analyte. Target analyte, it is nothing but what we are going to measure. And
+show minimum or no cross reactivity with moieties having similar chemical structure. So as I
+said when antibody is a protein, so which antigen is a toxic compound or maybe our target
+analyte which goes and binds in the antibody.
+So if there are any similar chemical structure of moieties present in my food particle, so the
+antibody should not get confused to find out which is the target or which is the moiety which
+has the similar chemical structure with the target analyte. So that is very much important.
+And sensitivity, the biosensor device should be able to measure in the range of interest for a
+given  target  analyte  with  minimum  additional  steps  such  as  pre  cleaning  and  pre
+concentration of the sample without doing any preprocessing.
+So my biosensor should be able to measure in the range of interest for a given target analyte.
+For  example,  this  particular  concentration  to  this  particular  concentration  without  any
+additional steps. Then linearity of response. The linear response range of the system should
+cover the concentration range over which the target analyte is to be measured. So that means
+if I am measuring with respect to electrode potential, so the potential versus concentration
+should be in linear.
+So that is what linear response range of the system should cover the concentration. For
+example, which concentration, minimum concentration to maximum concentration it shouldgive  me  linear  relationship,  linear  response  range  of  the  system  should  cover  the
+concentration range over which the target analyte is to be measured.
+(Refer Slide Time: 25:01)
+The next one is reproducibility of signal process. So reproducibility already you know. So
+how many hour times I measure it should give me same response. So that is nothing but
+reproducibility. The next one is quick response time and recovery time. So this is another
+reason why we go for biosensor. The biosensor device response should be quick enough so
+that the real time monitoring of the target analyte can be done efficiently.
+The recovery time should be small for reusability of the biosensor system. Because how
+many  uses  it  go  that  is  also  depend  upon  the  quick  response  time  and  recovery  time.
+Recovery time in the sense, so after measuring one particular target analyte how quick it
+comes back to the original position. So that depends upon the, recovery time should be small
+for reusability of the biosensor system. So that means so for example, one particular food I
+am measuring the low concentration of the target analyte.
+Another food material I am going to measure the target analyte concentration in one sample
+and another sample is different. So first sample if I am measuring so it should recover to the
+original position so that it can be measured in the second sample. If the recovery time is high,
+then I need to wait because or it may interfere the concentration of the target analyte in the
+second sample as well.
+So the response time  and recovery  time  should be very much  small. The  stability  and
+operating  life:  As  much  most  of  the  biological  compounds  are  unstable  in  differentbiochemical and environmental conditions. Mostly biological compounds are very unstable.
+The biological element used should be interfaced such that the activity is retained for a long
+time so as to make the device marketable and practically useful in the field. So that is
+important. So we told that bio-receptor recognition.
+Before recognition so your biological compounds should not go to other state because we
+have seen that most of the biological compounds are unstable so that this unstable state
+should be high enough to give the room for the biosensor to recognize or sense the biological
+compounds. So that is also important, stability. Or the device should be able to measure the
+particular biological compounds within their unstable state. So that is also important.
+(Refer Slide Time: 27:44)
+So the key component of a biosensor is the transducer which makes use of a physical change
+accompanying the reaction. So what are all physical change? If heat output or absorbed, heat
+input or output by a reaction, so that is nothing but a colorimetric biosensor. So as I told here,
+I have a bio-receptor. So here I have a transducer. So based on which kind of signals I am
+giving to transducer, so that is where here if heat output by the reaction, that is nothing but a
+colorimetric signal I will give. Signal will be of colorimetric.
+If there is changes in the electrical or electronic output that is nothing but a electrochemical
+signal I will be giving into transducer. If there is any redox reaction so what we give is
+amperometric.  So  that  is  called  amperometric  biosensors.  And  light  output  or  light
+absorbance difference between the reactants and products are given, that is called optical
+biosensor. So I may be giving optical signal as well.Based on mass of the reactants and products we call it as a piezoelectric biosensor. So in that
+case I would I will be giving piezoelectric signal to the transducer. The working principle is
+based on which signal or which physicochemical signal I am giving into transducer. It may be
+colorimetric, it may be electrochemical, it may be amperometric, it may be optical or it may
+be piezoelectric. So as I said earlier, we are not going into detail about each working principle
+because it is just introduction of food biosensor but we will see as much as possible.
+(Refer Slide Time: 29:49)
+The electrical signal from the transducer is often weak with heavy noise. So to increase the
+signal to noise ratio a reference baseline signal derived from a similar transducer without any
+bio catalytic membrane from the sample signal should be used.(Refer Slide Time: 30:10)
+So  if  you  remember  here  we  have  seen  about  the  recognition,  transduction  and  signal
+processing. So we will see here.
+(Refer Slide Time: 30:17)
+So what we told is bio-receptor component or we can say this as something like this. So this
+is my reaction site or reaction pad we call it. So here you have a substrate. So your enzyme is
+attached, this substrate converts into product. So this is one particular example I have taken.
+So what happens, then after that it creates  any one of this reaction or this biochemical
+reaction is converted into any one of the signal.If  you  use  optical  biosensor, it  is  optical.  So if it  is, if you are  using  electrochemical
+biosensor, it is a electrochemical signal. So if you are using colorimetric, it is a colorimetric
+signal. Or if you are using potentiometric it is a potentiometric signal. So all these signals are
+fed into transducer. So after the transducer it goes to amplifier, that is what they are saying.
+So this is amplifier. So when it is given to amplifier, it is supposed to give me the, it supposed
+to go to processor. From the processor it will give the digital display.
+So when it converts the optical or electrochemical or colorimetric or potentiometric signal, so
+this transducer produce the electrical signal. So this electrical signal will be of weak and
+heavy noise. So electrical signal will be weak with heavy noise. So to avoid that we are
+introducing a reference signal. To increase the signal to noise ratio your reference baseline
+signal derived from a similar transducer without any biocatalytic membrane from the sample
+signal should be used. So this is without any biocatalytic membrane.
+So this reference signal is used in the amplifier. So this is nothing but amplifier. So with this
+particular weak heavy noise signal is compared with the reference signal. So that is the way
+signal to noise ratio is increased in the amplifier. So this is further go to processor, processor
+is signal processing. So it creates the electrical output, that electrical output is amplified then
+given to the signal processing unit. From the signal processing unit what we get is a digital
+display.
+So now understood, working principle is, so for example, I have reaction pad. Here I have
+taken the enzyme substrate cofactor biochemical reaction. The substrate the enzyme is kept in
+the reaction pad, so substrate comes and binds with the enzyme and converts into product. So
+this particular biochemical reaction is produced as a electrochemical optical or colorimetric
+or potentiometric signal, so which is further fed into transducer. So this transducer produces
+the electrical signal. So that particular electrical signal is weak as well as heavy noisy. To
+avoid that or to increase the signal to noise ratio so we are using a reference electrical signal,
+so which is produced from the transducer without any biocatalytic membrane.
+So then the produced electrical signal from the transducer is compared with the reference
+signal. This is processed in the amplifier and fed into the processor which process the signal
+and gives the digital display. This is what working principle. The difference between the
+signals is very weak and amplified as a readable output in amplifier. The above process
+removes the unwanted noise from the signal, that is what happened in the amplifier. The
+analog signal produced by amplifier is usually converted into digital signal and passed to amicroprocessor. So the data is processed, converted into a concentration units and output to
+display device or data is stored. So this is a digital signal. And digital display includes digital
+signal  prediction  and  passed  to  the  microprocessor.  From  the  microprocessor  the  data
+produced  is  converted  into  concentration  units.  Concentration  units  in  the  sense  the
+concentration of target analyte. And output is displayed in your display device or it is stored
+for further data analysis.
+(Refer Slide Time: 35:39)
+So we told there are two components. One is biological recognition component, another one
+is a physical transducer. So what are all the kinds of various kinds of biological recognition
+element? So one is enzyme based, another one is whole cell based, another one is affinity
+biomolecule based. The enzyme based are, what are all the example? Catalytic transformation
+of specific substrates. So in the presence of catalyst how the specific substrate which is
+nothing but analyte gets transformed? So for example, phenol detection using tyrosinase. So
+this tyrosinase is nothing but a we call it as a polyphenol oxidase.
+So this is the enzyme which is nothing but a tyrosinase. So what happens is you have a
+catechol, first phenol is converted into catechol. So in presence of tyrosinase so this catechol
+is converted into ortho-quinone. So this particular reaction is measured by the enzyme based
+biological recognition element. So catechol is nothing but 2 OH, so which converted into
+tyrosinase in the presence of tyrosinase, so which is nothing but giving the oxygen, so which
+is a oxidase. So then which gives 2, so which we call it as a ortho-quinone. So what comes is
+2 H2O, so this is what the reaction is.So if the phenol component is there in presence of tyrosinase, so as I told here so this is the
+reaction pad. So tyrosinase is kept in the reaction pad, so substrate which is nothing but a
+phenol which comes and gets converted into ortho-quinone. So I will be able to measure this
+particular product. So how much this product is there, that is proportional to the how much
+phenol is there in the particular food material. So that is the way the phenol detection using
+tyrosinase is done. So this is nothing but enzyme based recognition.
+So enzyme based recognition is this enzyme is kept in the electrode. For example, if you want
+this use the electrochemical transducer, so for potentiometric electrode in one electrode this
+particular enzyme is kept. So when the electrode seize the target analyte which is nothing but
+a phenol, so phenol comes and attaches in the tyrosinase. So then it converts into ortho-
+quinone. So this conversion is detected as any one of the signal. For example, here it is
+detected as a electrochemical signal. Then that is further fed into transducer, then electrical
+signal then further processing is done.
+And another example is specific inhibition of enzyme activity by the target analyte. It is not
+only  the  target  analyte  comes  and  binds  with  the  enzyme  and  produces  the  product,
+sometimes it is a specific inhibition also. For example, acetylcholine esterase inhibition by
+organophosphates.  Acetylcholine  esterase  inhibition  by  organophosphates.  So  these
+organophosphates are present toxins which is present in the insecticides.
+So this organophosphates, so this acetylcholine esterase is the enzyme which converts the or
+which degrade the acetylcholine. So acetylcholine esterase degrades the or it takes for the
+degradation reaction of acetylcholine. So what happens is organophosphates present in the
+insecticides goes and inhibit the activity acetylcholine esterase. So that is the reason the
+degradation of acetylcholine stops. So the biological recognition element can be of specific
+inhibition of enzyme activity as well.
+So the next one is effect of enzyme activity by the target analyte which acts a modulator of
+cofactor enzyme. So here we talked about the phenol is or catechol is converted into ortho-
+quinone in the presence of tyrosinase. This tyrosinase can be activated by using certain ions,
+it is not tyrosinase here exactly, so I am telling this kind of enzymes can be activated by
+further modulator of cofactor enzyme.
+So this mostly they are ions. So your enzyme based recognition can be done in three ways.
+One is catalytic transformation of specific substrate and another one is specific inhibition ofenzyme activity by a target analyte. And another way it can be done is effect of enzyme
+activity by the target analyte which acts as a modulator for co-enzyme activity. So how much
+target analyte is there? I will be able to measure by increase in activity of the particular
+enzyme because the target analyte increases the activity of the particular enzyme.
+If the activity of the enzyme is increased, obviously the substrate to produce conversion is
+going to be increased. The second recognition component is whole cell based. So the general
+inhibition of cellular respiration that is disturbed, so in that way we will be able to measure
+the target analyte. And another one is the analyte acting as a inducer or specific catalytic
+protein. If you are having a whole cell attached into the, for example here if you are using the
+potentiometric electrochemical transducer, this whole cell is attached into the electrode.
+So the analyte which is going to be measured acting as a inducer of specific catalytic protein.
+So based on the measurement of specific catalytic protein I can measure the analyte. Then the
+third  one  affinity  biomolecule  based.  So  this  is  antibody  antigen,  ligand-receptor  or
+sometimes  nucleic  acids. So the  hybridization  of nucleic  acid.  So based  on these three
+varieties of biological recognition component so biosensors were made.
+And  physical  transducer  wise  we  already  discussed  electrochemical,  potentiometric,
+amperometric,  colorimetric.  Amperometric  is  based  on  redox  or  oxidation  reaction.
+Potentiometric is based on potential difference. Colorimetric is based on the temperature
+difference. And optical optoelectronic sensors, light based potentiometric sensors, surface
+Plasmon resonance, so this is based on the refractive index. And UV visible absorbance, so
+you are all very well know based on the absorbance of the UV light. And luminescence and
+fluorescence we have already told. The total internal reflection, so TAR, based on that as well
+the optical biosensors are made.
+The next one is piezoelectric, so it is based on quartz crystal which converts the signal, quartz
+crystal microbalance. The next one is surface acoustic wave sensor, so that is also comes
+under the category of piezoelectric transducer. The last category is thermal sensors. So this is
+isothermal  titration  calorimetry,  so  it  comes  also  under  the  category  of  colorimetric
+electrochemical transducer. The next one is heat sensitive change in the polymer film color.
+So this also can be used as a sensing element in the physical transducer.
+So the broad category is either electrochemical signal is given to the transducer or optical
+signal is given to the transducer or piezoelectric signal is given to the transducer or thermalsignal  is  given  to  the  transducer.  So  this  transducer  further  converts  these  signals  into
+electrical signals. So electrical signals are given to the amplifier that is further amplified and
+given to the signal processing unit. From the signal processing unit it goes to the digital
+processing unit so where it is sent to the microprocessor. So from there we will get the digital
+display.
+(Refer Slide Time: 44:57)
+So now next one is the electrochemical  biosensor, so the electrochemical  sensor where
+electrochemical  signals  are generated  during biochemical  reactions  and monitored  using
+suitable potentiometric amperometric or conductometric system of analyses. So all comes
+under as we discussed here. So all comes under the category of electrochemical transducer;
+potentiometric, amperometric, as well as colorimetric. So the electrochemical transducer is
+the one where electrochemical signals are generated during biochemical reactions and are
+monitored.  So  these  electrochemical  signals  are  monitored  using  suitable  potentiometric
+amperometric or conductometric systems of analysis.
+So  it  is  considered  as  a  chemically  modified  electrode  since  electronic  conducting
+semiconducting or ionic conducting material is coated with the biochemical film. So that is
+what I told. For example, in terms of whole cell. So the whole cell is kept in the electrode. So
+that is what it is told, it is considered as a chemically modified electrode. It is not a normal
+electrode; it is a chemically modified electrode. Since electronic conducting semiconducting
+or ionic conducting material is coated with the biochemical film. Many enzyme reactions
+such as those of urease and many biological membrane receptors may be monitored by ion
+conductometric or imperometric devices using interdigitated microelectrodes.As the sensitivity of the measurement is hindered by a parallel conductance of the sample
+solution, so you are aware of that. So in any biochemical reactions I take as a reference. So
+here also as the sensitivity of d measurement is hindered by parallel conductance of the
+sample solution, usually a differential measurement is preferred. But when a sensor with the
+enzyme and an identical one without enzyme, so sensor with enzyme is it is coated with the
+biochemical film.
+The one without enzyme is without any biochemical film. So the comparative measurement is
+taken. It is not comparative measurement in the sense differential measurement. Analytes like
+urea,  charged  species  and  oligonucleotides  are  detected  using  this  principle.  So  mostly
+biochemical reactions we need to have a reference as well as the sample with the analyte
+solution.
+(Refer Slide Time: 47:37)
+So colorimetric biosensors measure the change in temperature of the solution containing the
+analyte following enzyme action and interpret it in terms of the analyte concentration in the
+solution.  When  the  enzymatic  reaction  happens,  most  of  the  enzymatic  reactions  are
+exothermic. So the heat is liberated, so the system are colorimetric biosensor measure the
+change in temperature of the solution which contains  the analyte  following the enzyme
+reaction.  Once  the  enzyme  catalytic  reaction  is  happened,  so  there  will  be  exothermic
+reaction.
+So this exothermic reaction increases the heat. So the heat generated by the reaction is used to
+determine the analyte. So that temperature change is measured and interpreted in terms ofanalyte  concentration.  So  this  much  analyte  is  present  in  the  solution,  so  this  much
+temperature increment will be there. So colorimetric biosensor are extensively used for the
+detection of pesticides and other enzymatic reactions.
+(Refer Slide Time: 48:42)
+The next one is potentiometric, so potentiometric we have indicator electrode and a reference
+electrode. A transducer may be an ion-selective electrode which is an electrochemical sensor
+based on the thin films or selective membranes  as recognition elements. So usually the
+potentiometric biosensor is something, so we have a reference electrode so which is of Ag or
+AgCl. So this is nothing but a reference electrode.
+Then this is filled with the internal aqueous solution. So that is filled and here you have a salt
+bridge or membrane. So this is nothing but a membrane. So this is nothing but porous
+membrane.  A transducer  may be an ion-selective  electrode  which is an electrochemical
+sensor based on the thin films or selective membranes as recognition elements. So this is
+nothing but recognition element so which has a membrane in it, attached to it.
+So the reference electrode is nothing but Ag or AgCl. The most common potentiometric
+devices  are pH electrodes.  Several other ion, ion in the sense fluorine, iodine, cyanide,
+potassium, sodium, and calcium, NH4, these are all ions, or gas CO2 or NH3 selective
+electrodes are available. The most common potentiometric devices are pH electrodes. So
+several other gas or selective electrodes are also available.
+The potential difference between these indicator and the reference electrodes are proportional
+to the logarithmic of ion activity or gas concentration as described by the Nernst-Donnanequation. So then Nernst equation is something like E cell which is equal to E naught cell
+minus RT, ZF log of Qr. So this is nothing but the cell potential and cell potential at standard
+conditions. R is gas constant, temperature, Z is nothing but number of electron transfer, F is
+Faraday’s constant. So Qr is nothing but a quotient, nothing but reaction quotient.
+So this Nernst-Donnan equation uses this in equilibrium condition. So Donnan contributed in
+the equilibrium concentration. So this particular thing is not necessary here. Here it is a
+mechanism is told, so the potential difference between this indicator and, so this is the
+indicator and this is the reference electrode. The potential difference is between them, are
+proportional  to  the  logarithmic  of  ionic  activity.  So  that  is  what  I  just  told.  So  the
+proportionality constant is here nothing but a standard E cell potential.
+So or gas concentration, if you are using the ionic electrode it is ionic activity. If you are
+using the gas then it is a gas concentration as described by the Nernst-Donnan equation. So
+this is Nernst equation. This modified form is Nernst-Donnan equation. So I just wanted to
+tell you that it is a proportional to the logarithm of ionic activity. So this we call it as a
+reaction quotient. This Q is nothing but a reaction quotient.
+(Refer Slide Time: 52:51)
+So then is amperometric biosensor. So this is the first commercial biosensor designed by
+Leyland and Clark. So this was done to monitor the glucose. The amperometry is based on
+the  measurement  of  current  resulting  from  electrochemical  oxidation  or  reduction  of
+electroactive species. It is usually performed by maintaining a constant potential at platinumor Au or carbon based working electrode  or an array of electrodes  with respect to the
+reference electrode which may be also function as a axillary electrode if currents are low.
+So you have one working electrode and one is reference electrode. So if the current are low,
+for example, 10 to 9 or 10 to 6 ampere, then axillary electrode is also used. So this is nothing
+but your working electrode and one more is reference electrode. The resulting current is
+directly interrelated to the bulk concentration of the electroactive species or its production or
+consumption rate within the adjacent biocatalytic layer. So this working electrode senses this
+bulk concentration of the electroactive species. So then the resulting current between two
+electrodes is given as amperometric signal. So that is further converted into electrical signal
+using transducer.
+(Refer Slide Time: 54:20)
+A  biocatalytic  reaction  rates  are  mostly  first  order  dependent  on  the  bulk  analyte
+concentration. This we have seen, all enzymatic reactions also of first order reaction. So such
+steady currents are usually proportional to the bulk analyte concentration. So these are first
+order based on the bulk analyte concentration. So whatever the steady current produced are
+usually proportional to the bulk analyte concentration. So amperometric biosensor used in
+measuring sugars, alcohols, phenols, then oligonucleotides and oxygen, these are all can be
+measured using amperometric biosensor. So it is a single enzyme based also. There multi
+enzyme based also there. So single enzyme based the example is acetylcholine esterase what
+we have discussed. And there are butyryl cholinesterase also there.So  if  you  remember  acetylcholine  esterase  we  have  discussed  here  in  terms  of  the
+organophosphates.  So  as  a  single  enzyme  as  a  biological  component  and  thiocholine
+production is monitored amperometrically or acid production is monitored potentiometrically.
+So the product based on that you can have any measurement. So the thiocholine production
+also  you  can  monitor  using  amperometrically  or  acid  production  is  monitored  using
+potentiometrically.
+So this is like using a single enzyme based biosensor, either how much substrate is consumed
+that also can be measured or how much product is produced that also can be measured. Multi
+enzyme based biosensor system is also available which uses the cholinesterase in conjunction
+with the choline oxidase, both the enzymes are there and measure the hydrogen peroxide
+production or oxygen consumption. So if oxygen consumption is there, there may be a
+hydrogen peroxide. That is what we call it as oxidation reaction. So either it can be measured
+as a production of hydrogen peroxide or consumption of oxygen. So this uses the multi
+enzyme. So one is cholinesterase, another one is choline oxidase, both.
+(Refer Slide Time: 56:43)
+Then  optical  biosensor  which  are  called  optodes  instead  of  electrodes,  so  they  are
+resemblance with the electrodes, this include determining changes in the light absorption
+between the reactants and the products of the reaction, measuring the light output by a
+luminescent  process.  So  luminescent  process  already  I  told  you.  The  optical  biosensor
+integrate optical technique with the biological element to identify chemical or biological
+species.Many optical sensors were developed based on the surface plasmon resonance, spectroscopy,
+UV spectroscopy, we are very much known to that then evanescent waves. It monitors,
+optical  biosensor  is  used  to  monitor  pesticides,  vitamins,  carcinogens,  toxins  based  on
+chemiluminescence or fluorescence technique. So optical biosensor similar to electrode but
+here it uses the light absorption between the reactants and products to measure the analyte
+concentration using a luminescent process. So it can be measured using spectroscopic or
+evanescent  waves  or  surface  plasmon  resonance.  So  it  monitors  pesticides,  vitamins,
+carcinogens, and toxins based on chemiluminescence or fluorescence technique.
+(Refer Slide Time: 58:05)
+Then there comes a microbial biosensor. So as I told earlier in previous slides in an analytical
+device  which  combines  the  microorganisms  with  the  transducer  to  facilitate  the  rapid,
+accurate, sensitive detection of target. So as I told in the reaction pad I kept the enzyme. The
+substrate comes and binds and goes a product. So instead of the particular enzyme there can
+be  microbial  cells  which  also  can  be  attached.  So  that  is  what  it  says,  combines  the
+microorganisms with the transducer to facilitate rapid, accurate, and sensitive detection of
+target.
+So conventional microbial biosensor used the respiratory and metabolic functions of the
+microorganisms to detect the substance that is either a substrate or inhibitor of the process.
+For example, as I told if substrate gets converted using particular enzyme, so that particular
+enzyme is produced by these microorganisms which is attached to the transducer. So it uses,
+how it detects? It uses either respiratory or metabolic functions. Metabolic functions in thesense microorganisms produces the enzyme, that is the enzyme which converts the substrate
+into product.
+So this can be measured in this way or just by respiration activities of the microorganisms
+and whether that is inhibited or activated by the analyte concentration, that way also the
+analyte concentration can be measured. Microbial biosensors are more advantageous than
+enzyme biosensor, why? Because the construction of enzyme sensors are complex and costly,
+because we need to be very much specific about that particular enzyme. Some of the main
+types of microbial biosensor, it can operate in amperometric way, potentiometric way or
+conductometric way. So that means it can be analyzed based on oxidation and redox reaction
+or it may be analyzed based on the potential differences or it may be analyzed based on the
+conductivity of the material differences.
+(Refer Slide Time: 60:11)
+Amperometric microbial biosensor operates at a fixed potential with respect to a reference
+electrode and involves the detection of current generated by the oxidation or reduction of the
+species at the surface of the electrode. This I told, amperometric microbial biosensor are
+extensively used for detection of biological oxygen demand, BOD in industrial waste water
+and also used for detection of ethanol, total sugars, organophosphates, cyanide, phenols and
+phenolic compounds. Generally potentiometric microbial sensor consists of an ion-selective
+electrode, that we have seen somewhere here, so this one or a gas sensing electrode coated
+with an immobilized microbe layer. So it is a microbial biosensor, so it is coated with the
+immobilized microbial layer. Due to microbial metabolism the uptake or release of analyte
+generates a change in potential resulting from an ion accumulation or depletion.(Refer Slide Time: 61:17)
+The  potentiometric  transducers  measure  the  potential  difference  between  the  working
+electrode and reference electrode. The signal is correlated with the concentration of analyte.
+So that is common everywhere. The signals are expressed in the logarithmic relationship
+between  the  potential  generated  and  analyte  concentration.  So  wide  detection  range  is
+possible.  The  potentiometric  microbial  sensors  are  used  for  the  detection  of
+organophosphates, penicillin, tryptophan, urea, trichloroethylene, ethanol, sucrose.
+Whole cell biosensor immobilization of pseudomonas alcaligenes MTCC 5264 having the
+capability to degrade caffeine were used for the development of caffeine biosensor. In the
+caffeine biosensor pseudomonas alcaligenes this is used as a microbial film. So what we are
+doing here, we are immobilizing the microbial layer in the electrodes. So the immobilization
+of pseudomonas alcaligenes, so this is done in the electrode to check the degradation of
+caffeine in the development of caffeine biosensor. The biosensor system was able to detect
+caffeine in the solution over the concentration range of 0.1 to 1 milligrams per ml. So this is
+the example for potentiometric microbial biosensors.(Refer Slide Time: 62:48)
+So immunosensors we will see, this is the example. The immunosensors are affinity ligand
+based biosensor. So this I told, you have to have a receptor and ligand. Biosensor devices in
+which the immunochemical reaction is coupled to a transducer, they are solid state devices.
+So this immunosensors are solid state devices. The fundamental basis of all immunosensors is
+the specificity of the molecular recognition of antigens by antibody to form a stable complex
+which is similar to the immunoassay methodology, what we use in biochemical detection.
+So  the  immunosensors  can  be  classified  based  on  the  detection  principle,  again  the
+electrochemical  optical  or microgravimetric,  so based on that  we have seen  already.  In
+contrast to immunoassay modern transducer technology enables the label-free detection and
+quantification  of  the  immune  complex.  So  how  we  are  going  to  see?  How  it  can  be
+measured? Immunobiosensor based on chemiluminescence for detection of vitamin B12, so
+that we are going to see. So this is as example. So how the modern transducer technology
+enables the label-free detection? Quantification of the immune complex, so the example what
+we are going to see is vitamin B12 detection.(Refer Slide Time: 64:16)
+So here is even dipstick spotted with the antibody. So this we call it as a dipstick. So this
+particular thing is a dipstick. So here in the end we have antibody. So this end looks like this.
+So  you  have  antibody,  so  Y  shaped  protein,  antibody  coated  on  a  NC  membrane.  So
+nitrocellulose membrane. So this upon washing after washing that this is dipped into vitamin
+B12 solution. So this antibody binding with the vitamin B12. So this all red marked.
+So this red mark is nothing but a vitamin B12. So vitamin B12 is binding with the antibodies,
+then  upon  further  washing  then  this  is  dipped  into  ALP,  alkaline  phosphate  conjugate
+solution. So this is dipped into vitamin B12 ALP conjugate solution. So then binding of
+vitamin B12 ALP conjugate with antibody. So this star is, blue star is nothing but vitamin
+B12 ALP conjugate.
+So then further it is dipped into cuvette containing substrate CDP star. So this substrate is
+nothing but a luminescence property material. So this substrate CDP star so once it is dipped
+into this particular cuvette so it emission of CL due to reaction of ALP conjugate with the
+CDP star, so ALP conjugate with the CDP star, so it emits the light, chemiluminescence. So
+CL  is  nothing  but  chemiluminescence  emission.  So  this  particular  star  is  nothing  but
+chemiluminescence  emission.  So  this  is  Y  is  antibody.  So  once  it  emits  the
+chemiluminescence, that is detected by the luminometer, then it further go to data analyzer.
+So what we are seeing here, so first the dipstick with antibody is kept in vitamin B12
+solution. So the vitamin B12 is getting attached with the antibody. So then further it is dipped
+into vitamin B12 ALP conjugate solution. So then ALP conjugate sits in the vitamin B12 andantibody combination. Then further it is dipped into the substrate CDP star. So then it emits
+the chemiluminescence due to the reaction between the ALP and CDP star.
+So how much chemiluminescence is there, that much ALP is there. How much ALP is there,
+that many B12 is there. So that is the way the concentration of B12 is measured using
+luminescence technology. So this is the CDP star, so upon ALP so it forms the unstable
+intermediate. So this unstable intermediate further gives one particular component, another
+component  which  emits  the  light.  So this  is  the  way the  vitamin  B12 concentration  is
+measured using chemiluminescence emission. So here I stop.
+(Refer Slide Time: 67:24)
+So these are references and additional resources for this particular lecture. So you must be
+wondering. So each lecture got some extra resources as references. Actually these 10 lectures
+are about recent topics in food processing. So I try to include recent research developments
+also in this lecture. So that is why I am mentioning where I have taken the recent research
+developments in particular lecture. So these three and most of the points were taken from this
+particular review article. So I would also request you to check these extra references to get to
+know more about that particular topics. Thank you.

@@ -1,0 +1,342 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Department of Chemical Engineering
+Indian Institute of Technology Guwahati
+Lecture 31
+Special Lecture Membrane Separation
+(Refer Slide Time: 00:30)
+So, we supposed to see some of the fundamental concepts and few maybe two problems to
+get it clear with how do I calculate the osmotic pressure for the particular membrane process
+as well as the permeate flux. So, if we remember in our this particular module membrane
+separation process, so in the first lecture so we have told few formulas; one is the trans
+membrane pressure difference which is nothing but P1 plus P2 upon 2 minus P3, the P1, P2
+are feed and retentate pressure that is nothing but inlet and outlet of the membrane module
+and P3 is nothing but permeate pressure. So, that the average of inlet and outlet minus P3
+which is nothing but a permeate flux that is nothing but TMPD.
+Also we told that permeate flux can be calculated using this formula where LP is nothing but
+hydraulic permeability and Del PTM is nothing but trans membrane pressure difference, so
+this is based on Darcy's law. So, this Darcy's law is applicable when we consider this as a
+porous model, so that means so I have a capillaries of radius R or diameter, so from this I will
+calculate as radius and thickness is Z. 
+So, the radius R and thickness is Z. So, they are stacked in parallel. So, I will consider the
+membrane as a stacked capillaries which is having a radius of R and thickness is Z. And fromthat I will calculate the hydraulic permeability, so which is nothing but Epsilon R square
+divided by 8 Mu Z, so that means the Epsilon is nothing but here the porosity and R is as I
+said  the capillary  radius, Mu is  the viscosity  of the  liquid  which  is  flowing inside  the
+membrane and Z is the membrane thickness. So, from this LP, so I will be able to calculate
+my permeate flux and del PTM is nothing but trans membrane pressure difference. 
+(Refer Slide Time: 02:58)
+So,  this  is  supposed  to  remember  and  also  the  sieving  coefficient  we  said  that  as  a
+concentration of permeate divided by concentration of retentate.
+(Refer Slide Time: 03:05) 
+And the rejection percentage is nothing but 1 minus S into 100, so S is here nothing but
+sieving  coefficient.  So,  these  two  formula  we  supposed  to  remember  and  also  while
+discussing the concentration and gel polarisation so we discussed two formulas, so the water
+flux  increases  with  an  increased  in  applied  pressure,  so  increased  permeability  of  the
+membrane and lower solute concentration in the fluid stream. 
+So, here when we discuss this point, so we also discuss the J which is nothing but permeate
+flux so which is equivalent to KA Del P Del Pi so this Del P is nothing but applied pressure
+here and Del Pi is nothing but osmotic pressure and K is mass transfer coefficient so which is
+given in the unit of Kg meter square hour Pascal and permeate flux is in Kg per hour here.
+And from that we told that the Pi which is nothing but osmotic pressure which is equivalent
+to MRT, so here M is nothing but molar concentration and R is gas constant, T is in Kelvin, T
+is the temperature which is in the unit of Kelvin. So, this particular formula uses the Van't
+hoff's model. So, these are all the few formulas we supposed to remember before going to
+solve the problem.(Refer Slide Time: 04:38)
+So, today we are going to solve two problems to make few concepts clear and also in during
+our online interaction, so some of you also explained that unit conversion you are facing
+some problem, so here I will try my level best to spend some time on the unit conversion as
+well. So, like ultrafiltration, microfiltration, reverse osmosis, all are pressure driven processes
+where the driving force for the transport is the trans membrane pressure difference. 
+In RO specially, the pressure difference must overcome the difference in osmotic pressure
+Del Pi, so this we discussed in the classes itself, the first or second lecture. So, this osmotic
+pressure  between  the  retentate  and  the  permeate,  in  addition  to  the  resistance  of  the
+membrane to the transfer. 
+In addition to the resistance of the membrane to the transfer we are also supposed to consider
+osmotic pressure which is nothing but Del Pi between the retentate and permeate in the RO
+process. So now the problem is, the problem given here is what is the maximum theoretical
+concentration, what is the maximum theoretical concentration of orange juice attainable by
+reverse osmosis concentration at a TMPD, TMPD is nothing but trans membrane pressure
+difference of 5000 kilopascals. 
+Assume  that  the juice  behaves  osmotically  as  a solution  of glucose, so that  means  the
+maximum solutes are the soluble sugars in the fruit juices  are glucose which is having
+molecular weight of 180. So, when you mention the molecular weight, so you supposed to
+mention in the unit of grams per gram mole or kg per kilo mole and that solute rejection is
+total.Assume that juice behaves osmotically as a solution of glucose so that means most of the
+soluble sugars in the fruit juice is glucose which is having molecular weight of 180 gram per
+gram mole or Kg per kilo mole and that solute rejection is total that means 100 percentage
+rejection. So, here we supposed to calculate the maximum theoretical concentration of the
+orange juice. So, the maximum theoretical concentration, so if you remember the formula
+what we have seen for osmotic pressure because we said that the juice behaves osmotically as
+a solution of glucose, so this is nothing but Phi CM RT, so as per the Van't hoff's model, so
+Van't hoff's model for ideal solution.
+So, what is this Phi here? This Phi here is a dimensionless constant. So, this is actually
+depends upon depends on dissociation of solute but here the natural sugar what is nothing but
+glucose, so for this these are non-ionic solutes or we can call them as natural sugars. So, for
+this we can take Phi as 1. 
+So, whatever the natural sugar present in the juice we can take this, dissociation of solute we
+need not take into account so we can consider Phi as 1. So, in that case so my osmotic
+pressure turns out to be CMRT so where CM is the molar concentration.
+(Refer Slide Time: 09:58)
+So, CM is nothing but molar concentration, so which is in the unit kilo mole per meter cube
+or you can take it as mass concentration in Kg per meter cube divided by molecular weight.
+So, this molecular weight is in kilograms per kilo mole, we just have seen, so the Kg Kg gets
+cancelled so what you get is kilo mole per meter cube. So, molar concentration is equivalent
+to mass concentration divided by molecular weight. 
+So, R is nothing but gas constant so which is available in various units, I request you to refer
+some standard books to get to know various values in various units, so here we are going to
+use in terms of pressure in Pascal and volume in meter cube and N is in kilo mole, N is
+nothing but number of moles and T is in Kelvin.
+So, if you use your gas constant is nothing but 8314 kilopascal meter cube per kilo mole
+Kelvin, sorry this is if you are using 8314 Pascal meter cube per kilo mole. So, if you are
+using 8.314, so this is nothing but kilopascal meter cube per kilo mole kelvin. So, that means
+R is nothing but 8.314 kilopascal meter cube per kilo mole Kelvin. So, R is done and T you
+are supposed to use it in Kelvin. 
+So,  now  it  is  told  that  what  is  the  maximum  theoretical  concentration  of  orange  juice
+attainable by RO concentration at TMPD of 5000 kilopascal. So, the maximum theoretical
+concentration  when  it  can  be  reached  is  when  my TMPD  is  equivalent  to  the  osmotic
+pressure. So, that means I can take here, so instead of Phi I can take here as TMPD, so which
+is equivalent to CM RT. My Phi is given which is nothing but 5000 kPa that means kilopascal
+and CM I am supposed to calculate.I do not know what is C that is what they are asking the concentration of, the maximum
+theoretical concentration of orange juice that I do not know. And it is also told that the orange
+juice contains most of the solute as glucose, so that means the CM is nothing but mass
+concentration divided by molecular weight, so molecular weight here is 180 Kg per kilo mole
+I take because all I have taken in Kg only, if you see here all kilo mole, kilopascal so I will
+take Kg per kilo mole so I supposed to get my concentration in Kg per meter cube, so this is
+done. 
+So, my R is in 8.314 kilopascal meter cube per kilo mole Kelvin into temperature is given,
+what is the maximum RO concentration, we can take the temperature of the process is 20
+degree centigrade.
+So, 20 plus 273, remember here the temperature is in Kelvin, so that whatever we have told is
+degree centigrade so you are supposed to take it in Kelvin. So, if my concentration is Kg per
+meter cube, so I have here kilopascal pressure so the kilopascal gets cancelled and here you
+have kilo mole, kilo mole gets cancelled so your Kelvin this also in Kelvin gets cancelled, so
+what you have is here the Kg per meter cube and Kg per meter cube gets cancelled. So,
+whatever you get as a concentration so that will be nothing but 5000 into 180 divided by
+8.314 into 293, so which turns out to be around 369.4 kilogram per meter cube. So, you can
+report the concentration in terms of this unit.
+(Refer Slide Time: 14:23)
+Or if you want to go bit, we have seen one particular unit called brix. So, brix is nothing but
+percentage of weight upon weight. So, we try to convert in percentage of weight by weight.So, for that what I need is in molar concentration, so this is coming out to be 369.4 Kg per
+meter cube, my molecular weight is 180 Kg per kilo mole so Kg Kg gets cancelled, so
+whatever you get is in so 369.4 divided by 180 is nothing but 2.05 kilo mole upon meter
+cube. 
+So, this I am trying to convert in terms of moles per litre, so this is nothing but 2.05 10 to the
+power of 3 mole which is nothing but kilo mole. So, if I convert meter cube into litre so that
+is nothing but 1000 litre is 1 meter cube. So, this is 1000, this is 1000, it gets cancelled so
+what you get is 2.05 mole per litre. And you will be having a chart where your concentration
+versus density for glucose, so the charts are available in various books.
+(Refer Slide Time: 15:59)
+So, I have taken here this particular chart from engineering toolbox because some of you
+request the web source that is why I have put here the web source, so I also request you to
+check with some standard books the particular graph. So, here the graph is given between the
+concentration  which  is  in moles  per  litre  versus  density  which  is  given  as  a  gram  per
+centimetre cube. 
+So, here if you see so this is a, I am assuming this as a D-glucose. D-glucose is given, D-
+fructose is given, D-lactose is given so the chirality and all I am not taking into account, so I
+am just giving you how to calculate the density for the particular concentration. So, numerical
+value how to take the numerical value I am telling here, but this exact value I am requesting
+you to check some standard books to get the correct value.So, here I am assuming that D-glucose is a glucose and trying to get the data which is nothing
+but concentration versus density. So, our concentration is nothing but 2.05 mole per litre so
+that is what we have calculated here. So, here if you see this is the glucose, so around 2.1 so
+how much you get is around 1.17. 
+(Refer Slide Time: 17:19)
+So, from the concentration versus density, so I got 1.17 gram per centimetre cube, so this is
+further we are going to convert. So, 1.17 gram per centi is nothing but minus 2 power 3 into
+meter cube. So, that means so what you get is 1.17 gram per 10 to the power of minus 6
+meter cube so this gram I wanted to convert into Kg so then this can be done using 10 to the
+power of 3 above and below you are supposed to multiply and divide into 10 to the power of
+minus 6 meter cube.So, this further can be written as 1.17 Kg per 10 to the power of minus 6, 10 to the power of
+3, so what you get is 10 to the power of minus 3 meter cube, so this can be written as 1170
+Kg per meter cube, so this is nothing but density of glucose. So, from the molar concentration
+I got at this particular concentration what is the density of glucose. So, already I have
+calculated my concentration as 369.4 Kg per meter cube. 
+So,  at  this  particular  concentration  what  is  my  density  is?  My  density  is  this  is  mass
+concentration so this is density 1170 Kg per meter cube. So, if I need to express in terms of
+percentage weight by weight, percentage weight by weight so I will be telling 369.4 divided
+by 1170. So, this stands out to be around 0.315 Kg upon Kg or I can tell them at 31.5
+percentage weight by weight of solids, so this also can be told as Brix.
+So, this is what the maximum concentration of the maximum theoretical concentration of
+orange juice attainable by reverse osmosis concentration at a TMPD of 5000 kilopascal, so
+which is nothing but 31.5 percentage weight by weight. 
+(Refer Slide Time: 19:54)
+So, here I have told you many unit conversions, so please check this particular thing or we
+will discuss if you have further doubts in the online forum. So, here you need to be careful
+about like what unit of gas constant you used, because here we are dealing with kilopascal in
+osmotic pressure or TMPD and also we deal with the kilo mole in terms of molecular weight
+and volume in terms of meter cube and temperature in terms of Kelvin, so I have taken R as
+8.314 kilopascal meter cube per kilo mole Kelvin so this is very much important. And alsoanother important thing is how to take T, T should be in the Kelvin so then you will get from
+the concentration. 
+(Refer Slide Time: 20:43)
+So, from the concentration what you got? You convert into molar concentration so at that
+particular molar concentration what is your density? So, this mass concentration divided by
+density will give you weight by weight percentage of the solids, the solids are which is
+nothing but here the glucose, so this is nothing but the Brix unit Bx brix which is nothing but
+percentage weight by weight.
+(Refer Slide Time: 21:10)
+And this is I have taken from engineering toolbox, I also request you to check some standard
+textbooks to get the graph of glucose which is between concentration and density.
+(Refer Slide Time: 21:22) 
+So, the second problem here is the hydraulic permeability is given for RO membrane, so if
+you remember which is nothing but LP. So, hydraulic permeability is given as 8 litre per
+meter square over atmosphere at 20 degree. So, we were asked to convert the hydraulic
+permeability to SI unit specially after many of you asked the unit conversion it is bit difficult
+so I put this, how to convert the unit into different SI units, CGS units so that we are going to
+see. Then after that after converting that then we are also going to see what is the permeate
+flux at 20 degree centigrade. 
+So, permeate flux if you remember J is nothing but KW Del P minus Del Pi, so mostly this
+will be in kilopascals. So, KW based on different units for example, if you are using the KW
+which is nothing but mass transfer coefficient in terms of meter per kilopascal second so this
+will be kilopascal, so what you get your permeate flux in terms of meter per second. 
+Another formula is also there, so if a permeate flux in terms of the mass flow rate which is
+nothing but Kg per hour. So, here your mass transfer coefficient is KA into Del P minus Del
+Pi. So, here your K would be in terms of kilograms per hour per meter square per pressure
+difference KPa, so this will be in KPa; KPa, KPa get cancelled and you will have A, A for
+that meter square.
+A will be in meter square, so meter square meter square get cancelled so you will get both the
+sides Kg per hour. So, this is meter square per second. So, if you remember the density whichis nothing but mass by volume, so if you have mass flow rate divided by volumetric flow
+rate, so the mass flow rate, wherever the rate is coming so you are supposed to divide it by
+time, it is a time-dependent, so this is nothing but Kg per hour divided by meter cube per
+hour. So, I am putting the time units in terms of hour, so that is why you get so if you remove
+the time unit you will get density as Kg per meter cube, so the density is nothing but Kg per
+meter cube.
+So, from this you can also write your volumetric flow rate as area into velocity area into
+velocity, so that means meter square into meter per second. Instead of mass flow rate here so
+you are considering here volumetric flow rate and also you consider per unit area, so that is
+why your flux here is meter per second, so your mass transfer coefficient is according to that
+unit  meter  per  kilopascal  second  and  your  TMPD  as  well  as  trans  membrane  pressure
+difference as well as the osmotic pressure difference is in KPa. So, here we are using mass
+flow rate that is why your K is nothing but mass transfer coefficient which has the unit of Kg
+per hour meter square KPa. So, these two formulas we will be using.
+So, instead of KW here so they have mentioned here that as hydraulic permeability. So, first
+we will do the conversion in SI units, then we will see whether it has got same unit of meter
+per KPa second or not. So, here SI units the L equivalent, so this is the litre which is given in
+litre we supposed to convert into meter cube and your pressure is given in atmosphere but we
+are working with KPa because your TMPD is given in terms of kilopascal and also we are
+going to convert your hour into seconds. 
+So, now we start converting it, so LP here is nothing but 8, I am going to convert it into meter
+cube so 1 meter cube is 1000 litre so if I have to multiply with 1000, 1000 litre, I also have to
+multiply denominator as well with 1000, so then you are having meter square so I am keeping
+it  in  same  SI  units  then  hour,  1  hour  is  nothing  but  3600  seconds  so  then  you  have
+atmosphere. So, if you remember 1 atmosphere is nothing but 1.03125 into 10 to the power of
+5 Pascals, so we are going to do that so 103125 Pascal. 
+So, this I can convert directly so this is 1000 litre, 1000 litre is nothing but meter cube, so 8
+then divided by 1000 into 3600 into 103125, so 1000 litre I can write it as meter cube so
+divided by meter square and second and Pascal, so this get cancelled so what you get is
+meter, so meter Pascal second. So, then if you do this so what you get is 22.1 into 10 to the
+power of minus 12.(Refer Slide Time: 27:26) 
+So, the LP what you get is 22.1 into 10 to the power of minus 12 meter per Pascal second. So,
+if I want to convert this in terms of kilopascal so 22.1 into 10 to the power of minus 12
+divided by 10 to the power of 3, if I multiply numerator and denominator so this becomes
+Pascal second. So, I can write it 22.1 into 10 to the power of minus 9 so this 10 to the power
+of 3 Pascal is kilopascal, so this is nothing but meter per kilopascal seconds. So, if you see
+the previous slide, where J is equal to KW Del P minus Del Pi, so the KW is given in terms
+of meter kilopascal second.
+So, I can write my J that is nothing but permeate flux is LP Del P TM minus Del Pi as well.
+So, now I calculated my Del P is in terms of meter kilopascal second and also my TMPD is
+given which is nothing but 5000 kilopascal, so I am supposed to calculate now Del Pi whichis nothing but osmotic pressure. Now, you know how to calculate, so which is nothing but
+CRT divided by M, so M is nothing but molecular weight and C what you calculate will
+come in terms of kilograms per meter cube, R you know what value to take it.
+So, now we are going to see how to calculate the permeate flux for TMPD of 5000 kilopascal
+is applied. Remember, the retentate is 1.5 percentage weight per volume of sucrose solution,
+so the retentate is 1.5 percentage weight per volume sucrose solution in the following cases.
+The first case says, the rejection of sucrose is 100 percentage, the second case says rejection
+of sucrose is 90 percentage. When you get the rejection for sucrose is 100 percentage you can
+take your osmotic pressure as a full sucrose solution retentate so in that case I would consider
+1.5 percentage of weight per volume itself as a concentration.
+But if you see, if you remember the concentration what I need in terms of Kg per meter cube
+and my molecular weight. So, if you go and check it is 342 for sucrose, so 342 kilograms per
+kilo mole. So, then I will get in terms of the molar concentration directly. Or if I use this 342
+kilojoules  per  kilo  mole  here  as  a  molecular  weight,  I  supposed  to  substitute  my
+concentration in terms of Kg per meter cube but what it is given is 1.5 percentage weight per
+volume. 
+So, how to convert this? So, 1.5 percentage weight per volume means 1.5 grams per 100 ml,
+so ml is not a SI unit, we suppose to convert that into meter cube, so that is what we are going
+to do because we want concentration in terms of Kg per meter cube. So, what you are going
+to do is 1.5 into 10 to the power of 3 grams then I multiplied with 10 to the power of 3, I also
+divide by 10 to the power of 3 into 100 into milli is nothing but 10 to the power of minus 3
+into litre. 
+So, this I can write it here as 1.5 Kg because 10 to the power of 3 is kilo so that I have
+written. And if you remember 1000 litre is nothing but your meter cube, so I am taking this
+1000 and this litre as meter cube, so what you get is 100 divided by 1000 so this 10 to the
+power of minus 3 is I have written as divided by 1000, so 100 divided by 1000 meter cube, so
+this is nothing but 0.1.
+So, what you get finally is 15 because this is nothing but 10 to the power of minus 1 into 10
+so that is nothing but 15 Kg per meter cube. So, you got your concentration, you converted
+your 1.5 percentage weight per volume as a concentration which is nothing but 15 Kg permeter cube. So, now we go back and substitute the concentration. So Del Pi, so concentration
+I got in terms of Kg per meter cube which is nothing but 15 Kg per meter cube into 8.314. 
+So, if you go back where you have done your kilopascal meter cube per kilo mole Kelvin and
+it is told that 293 Kelvin because it is 20 degree centigrade plus 273, it is 293, so this is CRT
+divided by the molecular weight is 342 here. So if you see, this is kilograms per kilo mole, so
+kilo mole kilo mole get cancelled, Kg Kg get cancelled, then meter cube meter cube get
+cancelled, Kelvin Kelvin get cancelled, so what you get is 106.8 kilopascal.
+So, since you have rejection of sucrose is 100 percentage so your osmotic pressure is from
+sucrose solution only, so you got your Del Pi so from this I can calculate the permeate flux
+JW which is nothing but the LP whatever we have calculated into Del P minus Del Pi so
+which is nothing but 22.1 into 10 to the power of minus 9 so which is nothing but in meter
+per kilopascal second into 5000 kilopascal, it is given as TMPD and 106.8 kilopascal Del Pi
+we have measured. 
+So, if you convert this then what you get finally is 0.107 into 10 to the power of minus 3
+meter per second. So, you calculated your permeate flux considering it is 100 percentage
+rejection. So, this is nothing but your A part, so this is nothing but your B in that one, first
+one.
+(Refer Slide Time: 35:08)
+So, now we are going to see if I have to consider the rejection as 90 percentage so what is
+going to happen? How do I calculate the concentration? Because I already know, my J is
+nothing but LP TMPD minus Del Pi. So, what I supposed to calculate is Del Pi so Del Pi also
+I am comfortable with now CRT divided by M where I need concentration in Kg per meter
+cube. So, it was told 1.5 percentage sucrose solution as a retentate but here the thing is the
+rejection for sucrose is only 90 percent.
+So, I supposed to calculate first permeate concentration, so then only I can use it here in Del
+Pi because it is not 100 percent rejection, it is 90 percentage rejection so I supposed to
+calculate for example, if rejection is 90 percentage and concentration of the retentate is 1.5
+percentage then the concentration of permeate is R is nothing but 1 minus C permeate divided
+by C retentate, so this is what we have seen as a rejection coefficient. So, then 1 minus I do not know what is the permeate concentration but I know what is
+retentate concentration, so that is nothing but 1.5 percentage. So, rejection ratio is given
+which is nothing but 90 percentage, so which is nothing but 0.9. So, R is equal to 0.9 which is
+equivalent to 1 minus C permeation divided by C retention which is nothing but 1.5. So, from
+this C permeation is nothing but 0.15 percentage.
+So, since you are using 1.5 percentage weight by volume so your permeate concentration also
+would be in 0.15 weight by volume. So, that means so you know now how to calculate so I
+will just do it 0.15, weight is nothing but in grams so you have 100 ml. So, if you convert into
+10 to the power of 3 into 10 to the power of 3 so milli this will go so you are supposed to
+convert this as 1000 litre. 
+So, 1000 litre is nothing but 1 meter cube, so this is nothing but 0.15 Kg into 1000 divided by
+100 1000 litre so I will convert this as meter cube, so this goes so you have only 10 so which
+is nothing but 1.5 kilograms per meter cube. So, you got your permeate concentration in
+terms of Kg per meter cube, so now come back and substitute. So, here it is not a full
+concentration of sucrose, so you supposed to minus here permeate concentration, so which is
+nothing but 15, 15 is what we have calculated here as total concentration.
+So, 15 minus what we calculated is 1.5, so 15 minus 1.5 into 8.314 into 293 divided by
+molecular weight is 342 so what you get as Del Pi is nothing but 92.16 kilopascal. So, from
+this I will be able to calculate my JW which is nothing but LP which is nothing but hydraulic
+permeability. So, LP into TMPD minus Del Pi. So, your LP is nothing but 22.1 into 10 to the
+power of minus 9 so let us check, yes 22.1 into 10 to the power of minus 9 into your TMPD
+is 5000 minus 92.16. 
+So, this turns out to be 109 150 into 10 to the power of minus 9 so which is equivalent to
+0.109  into  10  to  the  power  of  minus  3  meter  per  second.  So,  now  we  calculated  JW
+considering 90 percentage of the reduction. So, it was asked that only, rejection for sucrose is
+100 percentage and rejection of sucrose is 90 percentage. So, first we calculated the hydraulic
+permeability which is nothing but 22.1 10 to the power of minus 12 meter per kilopascal
+second. 
+Then after that meter per kilopascal second here, so 10 to the power minus 2 is nothing but
+meter per Pascal second, so 22.1 into 10 to the power of minus 9 meter per kilopascal second.
+So, when I consider 100 percentage rejection, so my osmotic pressure will be calculatedbased on the full sucrose solution concentration so which we have calculated as 15 kilograms
+per meter cube then from there we calculated the permeate flux which is nothing  0.107 into
+10 to the power minus 3 meter per second.
+So, then after that we considered 90 percentage rejection for sucrose, so from there we
+calculated the permeate concentration. So, from the permeate concentration we convert that
+into in terms of Kg per meter cube. So, when we came back and substituted the difference in
+concentration, from the given rejection percentage we calculated the concentration of the
+permeate so which is nothing but 0.15 percentage then we converted it into Kg per meter
+cube which is nothing but the unit I wanted. 
+So, then I went back and calculated the difference in concentration because it is only 90
+percentage rejection so sucrose at 100 percentage which is nothing but 15 minus 1.5 so that is
+a remaining concentration and into this RT divided by molecular weight. So, from there I
+calculated the Del Pi so this Del Pi is substituted in the permeate flux so what I got is 0.109
+into 10 to the power of minus 3 meter per second. Now, I think you are bit clear about how to
+calculate the permeate flux and how to convert various units, so here I would like to stop.
+(Refer Slide Time: 42:31)
+So, these two are the books from which the problems and most of the discussions whatever
+we had in past 3 classes is taken and also I would like to request you to check the particular
+concentration versus density diagram what I have taken for glucose from standard books,
+thank you.

@@ -1,0 +1,371 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology, Guwahati
+Lecture No. 13
+Aseptic Equipment Design
+Good morning everyone. Today we are going to see the topic aseptic equipment design. So
+before going into the today’s lecture I would like to remind you what are all we have discussed in
+the previous lectures which is nothing but the fundamentals of aseptic processing. So these three
+lectures  are interlinked  to each other because  without knowing the fundamental  concepts  I
+cannot design a process. So without a process requirement I cannot design the equipment. So
+whenever we discuss the equipment design there may be a process parameters to be calculated.
+And the process designs ultimately lead to the equipment design.
+(Refer Slide Time: 1:26)
+So before going into this today’s lecture we just recap what we have discussed yesterday. So we
+started with definition of aseptic processing and what are all the main components involved in
+the aseptic processing. So then we define the temperature and this is the main process and so
+which has a raw product supply tank, positive displacement pump, deaerator and all these are
+heat exchanger, pre-cooler and final cooler. And we have a static mixer here, today we are going
+to see what is the usage of that and after that we have a aseptic surge tank as well so then after
+that it goes for aseptic filling and packaging section.
+(Refer Slide Time: 2:10)
+So after that we also seen the conditions for UHT, Ultra High Temperature processing so that is
+nothing but 140 degree centigrade for 4 seconds. The shelf life is 1 to 2 years and what is the
+code of federal regulations for aseptic or UHT processing. And also I told you or I have given
+you some home tasks to check after UHT processing so what are all the nutrient values and
+before the UHT processing in the raw milk what are all the nutrient content values. So either we
+have compromised anything or not.
+(Refer Slide Time: 2:48)
+And also we have discussed advantages and disadvantages of aseptic processing and what are all
+the aseptic processed products and what is the difference between conventional and aseptic
+processing and what are all the source of heating medium used for latest methods of sterilization.(Refer Slide Time: 3:16)
+So in this itself, I have started discussing the equipment design. So what we have discussed
+yesterday is, two equipment we have discussed yesterday. One is pumps, the pumps section so
+we have discussed for \ low pressure drop what should be used for high pressure drop what
+should be used.
+And we mainly told aseptic processing is for only the pumpable fluids or the liquids which
+contains particulate solids, pumpable fluids either it maybe of homogenous liquid or the liquid
+may be containing some particulate matter, liquid particulates. So when the liquid particulates
+are contained so then viscosity comes into play that is a parameter we need to look into. So based
+on that also low to medium viscosity, so what kind of pump I would be using. So all these three
+categories we have seen, which pumps to be used.
+Then we also have seen about the heat exchanges, though we have discussed the UHT processing
+earlier itself maybe second lecture itself we have not got into detail about each heat exchanger
+types and pump type and all. So hereafter we would be seeing each equipment what are all the
+constraints and how do I design that. But I think plate type heat exchanger we have designed,
+designed in the sense how many number of plates required in each section we have done one
+problem in pasteurization probably.
+So in the heat exchanger wise we have seen three categories, one is of tubular or shell and tube.
+Another one is plate type heat exchanger, so the other category is SSHE, scrapped surface heatexchanger, so this is used for particulate solids because it has the rotor tube and in this the blades
+are attached. These blades are used to rotate and also it takes care of the good mixing in the
+product side. 
+So when liquids containing particulate solids then this is the most wanted one, so other two
+normally homogenous products or we have also told if it is 1 by 8th inch of particulate products
+are there in the liquid products then that case also that situation also this may be used but very
+very your particulates of should be very very small size when you have to use a either tubular or
+plate type heat exchanger.
+And also here we have seen disadvantages disadvantages and advantages, so sometimes not only
+the product we may look into some of other features as well so that it might help you. And these
+are all indirect type so then if you go for a direct type then there is a two system. One is steam
+injection and steam infusion. So these were direct heat exchanger either steam is injected into the
+product or product is infused into the steam. So based on that for here also pros and cons we
+have seen.
+(Refer Slide Time: 7:24)
+The next major item in the equipment design is your holding tube. So the holding tube is
+designed to accomplish the lethality for the product. So holding tube normally holds the product
+for certain here it is to at hold temperature and residence time combination for certain time and
+temperature  to  achieve  the  product  lethality.  So  the  product  sterility  is  assured  at  hold
+temperature this temperature and the residence time and one of the lectures also I mentioned you
+in the safety concerns this is very much important because it is a sloped upwards at least 0.25
+inch per foot to eliminate air pockets and ensure self-draining. Because if there are any milk
+packets stays in the holding tube, so that also lead to further contamination so it should be sloped
+up as per the GMP good manufacturing practices.
+And smooth interior without protrusions because there should not be any protrusions because if
+you have a pit kind of thing then here also your milk packets stays and if not taken care in the
+cleaning or if the same is used for the next batch then there may be a chance of contamination.
+So contamination happens through these protrusions. And easily disassembled for inspection so
+if  we  want  to  inspect  then  it  should  be  easily  disassembled  and fail  to  safety  system  for
+reassembly so that holding tube is not shortened or changed in diameter. For example, when you
+are reassembling so you need to make sure that there is no change or shortening of the hold tube,
+so for that there may be a mechanism for example kind of lock mechanism.
+So if I have a six part, so the first part only can fit into second part, second part only can fit into
+third part, or third part can only fit into fourth part, so that is a fail to safety system, so if youleave anything then you will not be able reassemble it properly. So that kind of mechanism
+should be there in the holding tube and this would change the minimum residence time because
+if the length is changed then there may be a problem in the residence time. Residence time is
+nothing but the particle, how much time the particle spends inside the tube. So that is nothing but
+minimum residence time. Any shortening length in the holding tube will reduce the minimum
+residence time then you would not get the product sterility correctly.
+And condensate drip or draft of cold air which could affect the product temperature in the tube,
+so in the tube there should not be any condensate drip or draft of cold air. The pressure in the
+hold tube must be maintained sufficiently above the vapor pressure because if it is below then
+there may be a flashing or boiling which happens in the holding tube. So if that sensible heat of
+the product is used for flashing or boiling then the product temperature automatically reduces
+within the holding tube. So your product sterility will not be achieved the temperature less than
+that of the commercial sterility temperature.
+The temperature of the product should be monitored because from the holding tube it goes to
+cooling section. So holding tube it comes from the heating section, so the both places the
+temperature should be monitored both when it enters into the holding tube and leaves the holding
+tube. And temperature recorder controller is used, what is the purpose of this is for example here
+I measure the temperature I collect it to the controller. If the temperature is less than that of the
+sterilized temperature it will send back the product to the heating section itself.
+This we have discussed in the HTST processing. So there it is done by the FDV flow diversion
+valve so here it will be monitored by the recorder and controller. The product temperature
+measured at the exit of the holding tube is used to determine the adequacy of the process for
+commercial sterilization measured at the end of the holding tube,. So this tells us whether the
+particular commercial sterilization is achieved or not.(Refer Slide Time: 11:57)
+The next important equipment which we have seen for the aseptic processing is the deaerator. So
+what is the function and need of deaerator? The air is removed to prevent undesirable oxidative
+reactions which occur as the product temperature is increased during the process. So here in the
+aseptic processing whatever we have seen the deaerator kept in between the pre-heater and the
+final heater. However, the placing of deaerator comes from the product characteristics, based on
+the product characteristics I can keep wherever I want because why we will discuss here.
+Here it is done to remove the oxygen because at high temperature which is nothing but a
+sterilization temperature, oxidative reactions happen so that it will lead to some off flavours in
+the product. So due to that reason deaerator is kept. The deaerator is a vessel in which the
+product is exposed to a vacuum on a continuous flow, so this you might be knowing. The
+location of the deaerator is dictated by the product, why because at high temperature the non-
+condensable gases are less soluble but the flavour constituents are also more volatile.
+So high temperature if I do deaeration then it will take care of the non-condensable gases
+because they are less soluble but at the same time the flavour constituents whatever we have
+vitamins and other flavour constituents, so those were highly volatile at high temperatures so this
+is the optimization. So like I need to do it in high temperature that high temperature should not
+be  of volatile  temperature  for  the  flavour  constituents,  so  more  economical  to  operate  the
+deaerator at  high temperature if the product will tolerate it so it is based on the product.So if I am able to manage my flavour constituents at that temperature then I will be doing it at
+high temperature maybe only after the final heater as well. The residual oxygen in the product
+becomes an even more important since many of the packaging materials exhibit an oxygen
+permeability even though small and not affecting asepsis can lead to product quality deterioration
+over the storage time.
+So one argument would be like I am also packing it with oxygen permeable packaging only. So
+anyway that allows the oxygen so what is the big deal in doing it in the aseptic processing line
+itself  but  however  small  we  could  reduce  that  would  greatly  improve  my  product  quality
+deterioration so that is the reason the deaerator is kept in the aseptic process line.
+(Refer Slide Time: 14:45)
+So then  the next  one is  aseptic  surge tank, so the  aseptic  surge  tanks  are used in  aseptic
+processing systems to allow the accumulation of sterile product prior to packaging. So normally
+when it comes out of the holding tube so everyday maybe I will be processing some 25,000 or
+15,000 litre per hour. So whether I will be able to package all the volume it is produce or not is
+based upon the number of surge tanks or storage tanks would be designed. So it is nothing but to
+between the product line after the final cooler, after the holding tube there is a cooing section
+here so after the cooling section so it is introduced into the surge tank. So her whether I will be
+able to pack all the volume produced here or not based on the number of surge tanks would be
+designed.So the ranging in capacity from about 100 gallons to several 1000 gallons, the tanks provide
+flexibility especially for the system in which flow rate of the sterile product is not compatible
+with the packaging capacity, this is what I told. So I am reducing 1,000 litre per hour but only I
+will be able to handle less than that then maybe of this size I will design the surge tank and keep
+the product because the whole system is aseptic environment only so I can store the sterilized
+product after the cooling section.
+So valving that  connects  the storage tank between  the  end of the  cooling  section  and the
+packaging system allows the processor to carry out the processing and packaging functions more
+or less independently. So this what we told, so I need not pack everything what is produced so if
+this surge tank helps me to store it and according to my packaging capacity in the packaging
+lines I would be using my sterilized product which is stored in the surge tanks. The product is
+pumped into the surge tank and thus removed by maintaining a positive pressure in the tank with
+the sterile air or other sterile gas, that is the reason here the N2 or air. 
+So this already in the sterile environment. So this is used for this purpose to maintain a positive
+pressure. So the positive pressure must be monitored and controlled to protect the tank from
+contamination. Usually the back pressure valve mechanism would be helpful in this situation. So
+the positive pressure must be monitored and controlled to protect the tank from contamination,
+there should not be any contamination. So that will be taken care by the back pressure valve.
+ (Refer Slide Time: 17:39)
+So these are all the major equipments. Now we know how to design and what are all the design
+criteria I need to look into while designing a aseptic equipment system. So the major ones are
+pumps, heat exchangers either direct or indirect type. Then there comes a holding tube and there
+is the surge tank and we have also seen static mixture that will be used to just mix the product
+why I will be telling in maybe few slides after so what is the need and why is the static mixture is
+kept. And also all are maintained in the sterile environment.
+So now we are going to see how the product characteristics during thermal processes affects it
+equipment design. So why we are discussing here more specifically on product characteristics I
+already told. Here in the aseptic processing so this is done in the continuous flow and continuous
+flow it is done for liquids and liquid contents, particles, particulates. So it has all the phenomena
+one is fluid flow phenomena and as well as heat transfer. In the heat transfer all the things would
+be coming conduction and convection are major so that is the reason.
+So each product characteristics will affect the process. The process (()) (19:15) obviously affects
+the sizing of the equipment. So liquid or liquid plus particulates and size of the particulates,
+yesterday we have told so in the liquid my particulates are there so when I heat it the heat has to
+penetrate through the wall by conduction then it has to be convected to the liquid, from the liquid
+it is again convected to the solid particle. And within this solid particle it is again the conduction.
+So the  geometric  center  of the  solid particulate  product in  the liquid  to  be at sterilization
+temperature that is not our aim is. So in between these many resistances heat has to face before
+reaching the geometric center of the particle and also we told the liquid particles may be of
+various sizes so in that case the bigger particle because the bigger particle resistance would be
+more, in the bigger particle geometric center your sterilization temperature could be maintained.
+And product viscosity obviously one is the liquid itself is viscous or the number of particles what
+you add also increase the viscosity of the total product.
+And  thermal  sensitivity  of  the  product,  color  and  flavour  this  is  also  important  product
+characteristics. And quality changes include nutrient loss that is nothing but enzyme destruction,
+flavour and color change and coagulation of proteins. So these also to be taken care during
+thermal processing. So this many a times we have discussed so my aim is not only killing the
+pathogenic or food spoilage microorganism, my aim is also to maintain the nutrient quality andnutrient color. And here one more is added is nothing but coagulation of proteins. So if it
+coagulates then it automatically increases the viscosity of the product.
+And components can be aseptically added after cooling of the product prior to packaging. So if
+you find it like okay 139 for 4 second is needed for for UHT and at that particular sterilizing
+temperature if my product loses any nutrient, so that components can be added aseptically after
+cooling the product to compensate the any losses during the thermal process. So this is also one
+of the way to maintain the nutrient content in the final UHT processed product.
+(Refer Slide Time: 21:40)
+So the next one is the temperature requirement for sterilization of low acid foods must exceed
+121.1 degree whereas the acid or acidified products fruit juices and drinks could be sterilized at
+temperatures below 100. So this we have already seen in the pasteurization so I would not be, I
+just look for 5D or 6D log reduction as well as my the temperature for processing is below 100
+only and for the low acid food these are prone to Clostridium botulinum, so there I need to
+maintain 121.1 degree centigrade strictly.
+And also while designing the equipment we told about one of the options for low acid food when
+you have a particulates in the liquids so one way it can be handled is because the low acid foods
+are more prone to contamination, so while the processing in the aseptic processing line, so here
+the solid particles are sterilized separately and the liquid particles are sterilized separately andthen these both are mixed and then the further operations are seen. So that is the way low acid
+food can be taken care in the aseptic processing line, so the low acid food this is the strict
+temperature regulation we need to follow.
+And the major thing is the pH, pH also affects the time temperature combination quite heavily.
+So this comes under low acid food, so this goes to acid food category. So if you see acid food 90
+degree centigrade and 40 second is enough but if it is a low acid food this needs 140 degrees for
+the same 40 seconds. The same thing for 20 minutes it requires only 75 degree but at the same
+time my low acid food requires 115 degree for 20 minute. So then from acid to low acid the
+temperature requirement is increasing for the same time of the processing.
+(Refer Slide Time: 23:53)
+And thermal conditions needed to produce commercial sterility in the product depend on nature
+of the food which is nothing but the pH and water activity, so this we have already told greater
+than 4.6 and greater than 0.85 for low acid food. And storage conditions following the thermal
+process whether you want to store it in refrigeration or in the room temperature itself and heat
+resistance of the vegetative microorganisms or spores, so this a log reduction. And heat transfer
+to the food it comes from the heat penetration test and initial loading of the microorganisms this
+also we have seen that n nought is very much important.
+So if it is, normally it is practiced 12D process value but if initial spores would be high then we
+need to be worry about for that 12D process commercial sterilization. In SSHE that is nothingbut the scrapped surface heat exchanger, the tube is lined with specific material to minimize the
+corrosion of the tube because the tube is directly exposed to the product, the product material
+sometimes foul the tubing so that can be taken care by using specific material coating in the
+surface of the tube. 
+The material is usually specific for a given food group since it is a food material and already our
+aim is to minimize the contamination which kind of coating material you use throughout the tube
+we need to be very much careful about and also it should be consistent with the food material
+and sometimes what happens is this corrosion problem can be well taken care by the product
+itself because certain products at certain temperature only will have the corrosion property.
+For example, at high temperature my corrosion would be very low so in that case then corrosion
+maybe of or may not be a problem in the heat exchanger, that maybe a problem in the cooling
+section or holding tube. So for that reason also we need to study the product characteristics at
+what temperature corrosion rate is high. So example is cheese sauce, milk, egg protein, so these
+foods causes the corrosion but it is also a function of temperature.
+(Refer Slide Time: 26:02)
+So we are going to do one problem as a design example, so here we were told to design a holding
+tube, holding tube of a UHT aseptic sterilizer for a homogenized milk at 135 degree. The
+homogenous milk is heated to 100 degree through the regeneration so now you are very familiar
+with the terminologies. And heating section of the heat exchanger, so the regeneration andheating section heats at 100 degree, the milk is further heated by a steam injection this is a direct
+heat exchanging system to 135 and it is maintained at the sterilization temperature for the
+required time after which it is flashed to remove off-flavours and then cooled in the regeneration
+and cooling section. This is whole UHT process they have explained.
+So we are supposed to design here the holding tube for UHT aseptic sterilizer of a homogenized
+milk at 135 degree centigrade. So the main equipment what we have seen is pumps, heat
+exchangers, holding tube and aseptic surge tank. So in that the heat exchanger design we have
+already seen in the pasteurization, so how to calculate number of plates in the plate type heat
+exchanger and here we are going to design a UHT holding tube. Also, calculate heat losses in the
+holding tube, the datas were given, the density of the milk is given, viscosity of the milk is given,
+mean velocity in the holding tube is given, wall thickness of the pipe is given 7 mm, heat transfer
+coefficient is given, ambient temperature and F value at 121 degree centigrade and z value is
+given. 
+And here wall thickness is given and actually the mass flow rate should have been given so so I
+am giving here you can note it down, mass flow rate is nothing but 1800 kg per hour because
+either one of the things should have given.  So either the diameter or mass flow rate. So if it is
+1800 kg per hour then it is 1800 divided by 3600 to convert into seconds this maybe of 0.5 kg
+per second, so the mass flow rate this is also given date so you note it down. 
+(Refer Slide Time: 28:39)
+So we are going to do this problem. So the mass flow rate is given we all know mass flow rate is
+nothing but this dot is nothing but rate, it represents the rate. It is a density, velocity into area,
+density, velocity so this is area. What we have to know is the area because I was given mass flow
+rate, I was given rho and I was also given pi suppose, yes mean velocity of the holding tube is
+given. The mass flow rate I just now calculated 0.5 divided by density of the milk is given, I
+think it is so much watery milk because the water density itself is given 1000, so 1000 into 0.5 so
+it is nothing but 10 to the power of minus 3. So from this pi d square upon 4 is nothing but 10 to
+the power of minus 3, from this I will calculate d as 0.035 meter.
+So remember as I already told so when I use the numericals, these kind of adjustments I will do
+in the formulae itself. So there maybe difference in the numerical values. For example, you
+would be getting 0.04 or 0.036, but remember the procedure but not the numerical value so you
+do it on your own way and while doing assignments and question paper so for that final exam
+then I will take care of how any decimals you supposed to look for answer or one way is do it
+and check for the nearby answer.
+For example, the options are given as 0.035 or 3.5 so then you are getting around 0.043, so there
+may be a problem because you have done one go or you have done 1000 into 0.5 and get the
+value, then 0.5 divided by that value so these kind of adjustments may increase or decrease the
+final value what I have done. So then look for the nearest answer. So that you please keep in
+mind, so do not look for the numerical values whether it is exact or not.And the next one what we supposed to calculate is because what it was asked is the length of the
+holding tube, length of the holding tube is nothing but FT into Umax, so this is nothing but the
+maximum velocity. So this FT is nothing but residence time, the time required for holding tube
+that is nothing but a process value here. So the normal formula is nothing but the FT is in
+minutes so the L is the length of the tube so this is in minutes and Umax is in nothing but meter
+per minute, so you will get length in meters.
+So this is nothing but a process value and Umax. Umax I do not know as of now but I know only
+average velocity. The formula which connects the average velocity and maximum velocity is
+based on the flow characteristics whether it is a laminar flow or turbulent flow. So if it is a
+laminar flow then your V average would be Vmax by 2, so if it is a turbulent flow then you will
+have the Vmax is nothing but 1.25 of average velocity or you can write like average Vmax is
+equal to 2 into Vaverage. So then we supposed to select here whether my flow is laminar or
+turbulent, the criteria is Reynold’s number so then only I will be able to calculate my Vmax from
+the Vaverage given.
+Then after that I will substitute in the FT value to calculate L which is nothing but the holding
+tube length. So Reynold’s number here is D Rho V upon mu so D I have just calculated so which
+is nothing but 0.035 into 1000 into 0.5 divided by 0.3 into 10 to the power of minus 3, so which
+comes around for me 60,000 so obviously this is a turbulent flow. So the Re is the measure so
+less than 2100 we call it as a laminar, 4100 above we call it as turbulent. So this number maybe
+of changing, so this is approximately I am telling so in between this there is a transition layer,
+transition region which happens from laminar to turbulent.
+So since it is 60,000 so obviously turbulent, so I can calculate my maximum velocity by just
+multiplying 1.25. So this I can use it as a U only so that you would not get confused. Uaverage
+Umax, Umax and Uaverage.  So now my Umax is nothing but 1.25 into 0.5 which is nothing but
+average velocity so which is nothing but 0.625. So then I supposed to calculate FT value but FT
+value 121.1 is given which is nothing but 4.5 minute and z is also given.
+So yesterday we have done one problem the basic formula goes like this lon of F upon F nought
+which is equivalent to T nought minus T upon z. So then F is nothing but F nought into 10 to the
+power of T nought minus T upon z. So for me what (()) (35:35) is given as 121.1 is given whichis nothing but F nought 10 to the power of T nought minus 121 point just let wait 121 only, 121
+is given divided by z value is given so this is given. So what I supposed to get is 135 our
+temperature is 135, so I supposed to get it 135 degree so which is nothing but F nought into 10 to
+the power of T nought minus 135 divided by 10. So if you take it F then 135 is nothing but F121
+into 10 to the power of 121 because this goes as the minus 135 upon 10. So which comes around
+4.5, so your F121 value and this particular value comes around 0.04 which is nothing but 0.18
+minute.
+So or otherwise I can say F at 135 is nothing but 10.7 seconds, so I have calculated my FT, I
+have calculated my Umax so the length of the holding tube is nothing but FT into U max so
+which is nothing but 10.7 into 0.625 which comes around 6.7 meters. So then anything else is
+asked, yes, also calculate the heat losses in the holding tube. So heat losses in the sense so I have
+a holding tube here in the aseptic processing so this is exposed to the aseptic environment so that
+means air. So there would be a convection losses. So due to losses how much temperature
+reduction is there in the holding tube that we supposed to find it out.
+(Refer Slide Time: 37:40)
+And certain assumptions we need to make here so assumptions in the sense so whatever the
+product temperature so that is the outside temperature. So the I mean outer wall temperature,
+outer wall temperature of the holding tube is also 135 degree centigrade. And one more thing is
+there is no fouling resistance because I am not going to calculate the overall heat transfercoefficient, fouling resistance in the sense so when the heat is conducted from the product to tube
+wall of the heat exchanger there is no fouling factor so because of which there is no heat
+resistance. So that is why we told the product is at the outer wall the temperature is nothing but
+135 degree itself. 
+And one more thing is I need to calculate outer dia, I am given the thickness so I calculated 0.
+what is the inner dai, yeah 0.35 plus 2 into 7 into 10 to the power of minus 3. So it comes around
+0.05 meter so then I supposed to find out what is the area, so area is nothing but pi DL so pi into
+D is given, D we found out outer dia into L we just have found out that is 6.7 so approximately it
+is coming around 1 meter square. So I know area then I can calculate heat loss due to convection,
+so which is nothing but q is equal to h A delT, so h is given 9.8, A we found out 1 and delT is
+nothing but the ambient temperature is given, yes its ambient temperature is given as 20 so the
+product temperature is given as 135 so 135 minus 20 it is nothing but 115 which comes around
+1127 watt.
+So another heat loss due to convection only then we have assumed there is no radiation loss, loss
+is negligible. But it is also very low temperature 135 you would not get any, the assumption is
+valid assumption only. So I have calculated the heat loss so from the heat loss I will be able find
+out what is the delT required, m Cp delT. The specific heat of the product is given no, you can
+take it. So it is a homogenized milk if you remember the pasteurization so we have taken I think
+3.8 kilo joules per kg kelvin. 
+So substitute here the mass flow rate is q we found out, so from this delT is nothing but q upon m
+dot Cp so q is nothing but 1127, mass flow rate is 0.5 and Cp is nothing but 3800 because it is in
+watt,  watt  is  nothing  but  joules  per  second.  So  you  would  be  getting  around  0.6  degrees
+centigrade. So what happens you are having a holding tube so the product is at 135 degree
+centigrade and length of the holding tube we just found out as 6.7 meter and it is in the sterile air
+environment which is nothing but a 20 degree, though the insulation is proper there may be a
+heat  losses due to convection.  Due to that then it  is  losing almost  0.6 degree  temperature
+decrement in the product.
+So one way we could avoid it is so when it comes out of the final heater itself so instead of the
+requirement of the 135 I will be heating it to 135.6 degree centigrade. So that the product isalways maintained at 135 degree because the 0.6 degree delT difference is there in the holding
+tube as per the data given and also we have assured there is no fouling resistance and then there
+is no radiation loss is how much ever negligible. 
+So this is the way I designed the holding tube as well as I adjust the product formulation
+according to the needs. So this everything comes from the fluid flow and heat transfer because I
+need to understand here what should be my flow characteristics, based on the flow characteristics
+only can fix my maximum velocity of the product here.
+And one more thing here also directly the h is given otherwise for the turbulent heat transfer
+there is the correlation which comes as a function of delT and D so for this the h should be 1.42
+because it is the turbulent flow heat transfer delT upon d power 0.25. This d is nothing but the
+outer diameter of the pi. So delT is nothing but temperature difference between that is nothing
+but 135 minus 20 and this is based on the turbulent flow characteristics and specific for the range
+of non-dimensional parameters. So these kinds of correlations I would use and calculate the heat
+transfer coefficient and substitute here.
+So everything comes from the fluid flow characteristics and product characteristics as well as
+heat transfer characteristics of the product. So this I have shown you as the example problem
+how to design a holding tube and we have already discussed how to calculate the number of
+plates in the plate type heat exchanger. So I will end this lecture with this then we will see about
+the aseptic process design in next lecture. Thank you.

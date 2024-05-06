@@ -1,0 +1,380 @@
+Thermal Processing of Food
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology Guwahati
+Aseptic Process Design
+Good morning every one. Today continuation of Aseptic Equipment Design class. Today we
+are going to see Aseptic Process Design. So and we also will do few problems to understand
+the product characteristics and how it effects the equipment design and as I mention due in
+the last lecture itself this 3 lectures are interrelated to each. 
+So, without knowing process design you cannot design a equipment and equipment design
+needs process parameters, so all are interlinked and when you are going through the lectures,
+so please try to connect this 3 lectures very carefully because some of the information I
+would take it from the previous lecture and from here some of the information you would
+require for the pervious lecture of Aseptic Equipment Design.
+So, when you read you read about all 3 lectures together as I mentioned earlier. It is unlike
+like previous lectures, previous lecture are on specific topic but this 3 lectures are on same
+topic which should require information from all 3 lectures for better understanding.
+(Refer Slide Time: 01:55)
+So, will we start with thermal process calculation. So this we have discussed already D, Z and
+F value so I am going to tell here only the critical points I am not going discuss how to
+calculate the value or Z value or F value once again. So the process given to you the food
+material is quantified in terms of multiples of D value at a reference temperature, so whether
+it is a 6D process or 12D process. So we already have seen in many of the lectures 121 is nothing but around 0.23 minute so
+based  on  that  6D  process  which  requires  the  pasteurization  session  which  is  the  mild
+treatment applicable for acid food and the sometimes I follow 12D process which is nothing
+but a sterilization, which is nothing but for the sterilization process, so which is also referred
+as a F value at a reference condition, right, which is nothing but a F naught.
+So, the accepted reference temperature for sterilization is 121 and that of the pasteurization is
+83 around, so here are the examples given, if it is a ultra pasteurization the storage should be
+of refrigerator storage, so the heat and hold is 138 per 2 seconds, the equivalent F value is
+nothing but 1.5 minute and this a is why it is given? It is a minimum value.
+So your save process requires more than this value and minimum to destroy clostridium
+botulinum spores, nonrefrigerated, so 138 degree for 4 second, the equivalent F naught 3
+minute and commercial sterility nonrefrigerated 138 degree centigrade for about 8 seconds
+the equivalent F Naught is 6 minute and European UHT, so I might have referred in the
+previous lectures so say UK standard and US standard, so this is 135 degree for 3 second and
+140 for 3 second.
+So, I already told in UK standards most of the time they also taken the nutrient value, so
+based on which instead of going for high temperature and longtime process they go for low
+temperature and hold it for particular time right, the equivalent F Naught is 1.22 and 3.87
+minute.
+(Refer Slide Time: 04:22)
+And lower D and z values for vegetative cells implied that they can be destroyed faster than
+spores. So you have a vegetative cells as well as the spores, spores mostly be removed in the
+sterilization  process,  resistive  cells  pasteurization  temperature  is  high  enough,  so
+pasteurization that D and z value are low so that means they are destroyed faster compare to
+spores.
+Enzyme destruction takes more time then the destruction of micro organization because if the
+two are done at same temperature at same time then we will not be able to maintain satin
+enzyme which are essential for the food quality and quality factor and nutrients are relatively
+stable under high temperature short time thermal process, HTST, that is what we most of the
+time follow this HTST and the target for sterilizing value or F Naught is set based on the
+product type and its intended use. 
+So, intended use is whether it is refrigerated storage or normal ambient conditions, so based
+on that my F Naught value vary and also product time, whether it is a liquid or liquid with
+particulate so based on that also F not value because this you know liquid is nothing but a
+convection only but liquid with particulates, so I need to take a conduction, convection so just
+we have in few more lectures back we have also discussed heat penetration testing this
+concepts.
+And the target for setting up of thermal process could be based on microbial kinetic or
+enzyme. Sometimes my interest would be of retiring deactivation of enzyme so that is done at
+the pasteurization, so that also one of the target for setting up the thermal process. In case of
+fruit juices and several high acid beverages the target is in enzyme inactivation only just I
+told pasteurization, so this are all high acid beverages so they my main aim is enzyme
+inactivation only instead of microbial kill, so there I used the 6D log only not for 12D log
+reduction.(Refer Slide Time: 06:29)
+And flow characteristics of the product also effects the thermal process design, so what are all
+they fluid viscosity, density and velocity for the previous lecture we have seen the equipment
+design, so based on Re only I can fix my, the velocity of the product which was nothing but U
+max. So, to calculate Reynolds number so I would require all this information velocity
+density as well as fluid viscosity size and shape of the pipe, so here also D, came D rho u
+upon  mu  and  surface  roughness  of  the  equipment  also  matters  because  the  roughness
+increases the heat transfer and also it goes to turbulent because of roughness in the equipment
+surface.
+So this is Re definition so this we have used in the last lecture itself to do the problem and
+this is the normal laminar velocity profile because you are stream lines are parallel so the it is
+like the sheet like kind like flow, so this is the u is equal to 0 at the wall there is no slip
+boundary condition that layer will not move and you will get the parabolic velocity profile
+and for the turbulent region then you will get mixing of stream lines.
+So this kind of profile and you will get more flatter profile, also remember if there is a
+cooling and heating so this is maintained it isothermal condition you would get this kind of
+profile but if it is a heated or cold wall then heated wall make the flow profile flatter by
+causing more wall slippage the wall slippage would be more so that you will get more flatter
+profile,  what  is  the  cooling?  Then the much fastest centre  velocity  then  the  isothermal
+condition faster centre velocity in the sense centre element is nothing but U max so this will
+be much faster than the rest of the particles.(Refer Slide Time: 08:35)
+And in the flow characteristics these we have done in the last class problem itself, so there
+Reynolds number is 2300 I told there may 2100, 2100 to 300 so different books follow
+different numbers and definitely greater than 4000 it is a turbulent region so in between it is a
+transition. So, this t minimum is nothing but a resident time how much time the particles
+spent inside the tube, so this is nothing but L, L is length of the tube, V max is nothing but
+maximum velocity. 
+So if it is a lamina so your V max is Q into v average and if it is a turbulent then it is 1.22
+times faster than the average velocity, then your V max is nothing but 1.22 into V average and
+one more property what have seen is the viscosity, the viscosity and shear stress relation is
+nothing but tau is equal to mu dv upon dy, so this we called it is a shear rate from the velocity
+profile and this is nothing but a viscosity and this is nothing but shear stress.
+So, this we call it as a Newton law of viscosity, the fluids which follow this particular which
+is nothing but tau is proportional to shear stress proportional to share rate, so those fluid are
+called Newtonian fluids but most of the food products are non-Newtonian fluid. So they
+follow this formula which is nothing tau is equal to K gamma this nothing but a shear rate so
+power n, so this power n come from the power law model or otherwise it is called as flow
+behaviour index and K is nothing but a flow consistency index.
+If the value of n is less than 1 then the fluid has a pseudoplastic or shear rate thinning
+behaviour, if n is equal to 1 it is Newtonian so here I told and if it is n is more than 1 then it is
+a dilatant. The values of K and n are temperature dependent, so when you increase the
+temperature for the liquids, the viscosity decreases, when you increase the temperature the asper the kinetic theory of gases, then for liquid it decreases for gases it will increases and here
+we used the most of the food products and either in liquids or liquid with particulate solid
+forms so obviously when you increase the temperature the viscosity should decrease.
+But it is not true for all the food materials because there may be a coagulation or there may be
+gelation, so in that case even if you increase the temperature your viscosity would increase.
+So that is the reason we need to study the rheological  behaviour of the products, food
+products by experimental data and here we told K and n a function of temperature and mostly
+K is very much sensitive to the temperature.
+It is very important to have experimental data on rheological behaviour of the products to be
+processed aseptically because soft this region, it is always not true when you increase the
+temperature  your  viscosity  would  get  decrease  there  may  be  a  gelation  or  coagulation
+property or  (())(12:34) temperature because of which even if you increase the temperature
+there may be a increase in viscosity.
+(Refer Slide Time: 12:40)
+And the next important characteristic is residence time distribution, this is the how much time
+my fluid particles spent inside the tube. Why it is important here in the sense so in pervious
+thermal processing we have not discussed it but here it is a pumpable fluid it is in the
+continuous flow and also it is a liquid food product or liquid with particulates. So, here as per
+the FDA or CFR or the GMP it says that so the each point, each, for example, if you are
+pasteurizing  them  milk  each  food  particle  of  the  milk  should  be  at  the  pasteurization
+temperature or sterilization temperature.So, it is very much important to know each and every particles spent the required time and
+required temperature, so because of which the pumpable fluids, the RTD calculation are very
+much important to get to know either there is a change in the residence time distribution of
+the particles or not. So, the experimental determination of residence time distribution is
+carried out by measuring the response of the inert tracer injected into the product stream so
+called stimulus response technique.
+So, how do I understand, I cannot directly do anything in the product, so I will introduce the
+tracer system and trace the tracer system and get to know how much time it spent inside the
+tube or inside the heating tube, so this system is called stimulus response. The tracers are
+usually soluble dye, salt and acid that can be detected at the exit of the test zone.
+The detection of changes at the output stream of a test zone based on known changes in the
+input stream. So, either it may be of step input or pulse input or sinusoidal input. so for the
+known input what should we my output stream response. In the step input in which the input
+concentration of a tracer or other measureable component is changed from one study level to
+another.
+So, for example this is my step input so immediately it raise to some other level and pulse
+input in which relatively small amount of tracer is injected into feed stream at the shortest
+possible  time.  So  this  is  like  this,  so  this  is  pulse  input  and  sinusoidal  is  nothing  but
+something  of  this  kind.  So,  this  two  are  very  much  easy  to  carry  out  experimental
+determination of RTD.
+But sinusoidal input is a bit difficult to carry out, so here the variation is changed and thus
+generating the frequency response diagram is needed to analysis the output characteristics of
+the tracer particle. (Refer Slide Time: 15:32)
+The quantification of RTD provides information on minimum and maximum times spent by
+the food element in the system, so this we have seen for example this is my pipe so my
+particles comes, so this is we call it as a plug flow, so that mean so each and every particle
+spents same time because the velocity is plug profile, so each and every particle for example I
+consider 3 particle so this spent same time and it exits.
+So, it also provide insight into channeling or dead space, so, for example, if I am not finding
+the second particle or it comes bit late so at t equal to 1 second I am finding 1 and 3 then 2
+seconds then this comes  so that means  there may be a delay due to some of the false
+diagnostics, it shows me false diagnostics something is happening inside the system and also
+if there is any channeling or dead space then there will not be any flow at this point, for
+example, it is a dead space then there will not be any flow so this also can be diagnostic using
+RTD studies. 
+Experimental determination of RTD is required by the US FDA during the commissioning
+trails  itself.  So,  while  commissioning  trail  we  supposed  to  submit  the  experimental
+determination of RTD. In laminar flow using coiled tubes instead of straight tubes has been
+suggested as a means to achieve radial mixing of the fluids due to Dean’s effect which occurs
+as a result of imbalanced centrifugal force of the flow in the curved tube. So. in laminar flow
+which is nothing but a thin sheets your product is flowing in the stream line, stream line
+weight without mixing between the stream lines.
+So, here what is suggested is to have a coiled tubes, so what is Dean effect is? Dean effect is
+nothing, but, for example, if I have a concerted tube so then my we have just a seen write somy profile would be of this shape, so I am not doing it correctly so this is nothing but
+parabolic shape velocity profile you would get, but what Dean effect says is if you have a
+coiled tubes then there went be a secondary vertices so that means so your flow will be a this
+kind, so this increases the mixing.
+If you remember I already told in the I think previous lecture there is a reason for static
+mixture to be used there it was used to increase the mixing in the continuous flow line but if
+you take care of instead of straight tubes coiled tube this secondary flow itself will take care
+of the mixing part because it generates the secondary wet raise instead of normal what we see
+in normal tube, normal straight tube, straight tube you will get parabolic velocity profile only.
+So this is what discuss here in laminar flow using coiled tube instead of straight tubes has
+been suggested as a means to achieved radial mixing of the fluids due to Dean effect this is
+nothing but a Dean effect which occurs as a result of imbalance centrifugal force of the flow
+in the curved tube, so it is mainly due to centripetal force. 
+And the  secondary  flow  pattern  can  be described  as  a double vortex  circulation  in the
+perpendicular plane to the main flow this is the main flow this is the perpendicular plane and
+supper imposed on the velocity profile in the axial direction. And the existence of Dean effect
+helps enhance the heat transfer in tube flow as well so as we have se so definitely it increases
+the mixing if you increase the mixing obviously the heat transfer is enhanced.
+(Refer Slide Time: 19:48)
+So here are we are going to do some of the example problem how to design a lethality of the
+process, I think this two examples are done in last two lecture itself so this is nothing but acalculating the 12D process I guess, so the D value is nothing but log of 10 to the power of 12
+force into 10 to power of 0 so which come around 12 and I have a D value reference D value
+given which is nothing but 0.37 minute so this is the D value into so this is nothing but 12
+into 0.37 so this is coming around 4.44 minute. 
+And this is nothing but pectinesterase enzyme in orange juice pulp is a heat resistant enzyme
+and it is inactivated in the aseptic processing of orange juice with pulp. Its D and z value are
+available from the literature at 90 degree, D 90 is given which is in minute as well as in
+second and z is also given so we suppose to calculate it 100.
+So yesterday one of the problem we have used the formula which is nothing but log D upon
+D Naught which is equivalent to T minus T Naught  upon z so which given me D equal to D
+Naught 10 to the power of T minus, sorry this is T Naught minus T upon z, so T Naught
+minus T upon z, so I suppose to calculated 90 so D Naught 10 to the power of T Naught
+minus 90 upon z, so then D at 100 is nothing but D Naught 10 to the power of D Naught
+minus 100 upon z.
+So I what I wanted is I wanted at 100 so that is nothing but D90 so this will go and same
+reference value will go so this is nothing but 10 to the power of D100 upon D90 is nothing
+but 90 minus 100 divided by 6.5 because your z value is given, so D90 value is nothing but
+0.53 second or 31.8 second into this 10 to the power of 90 minus 100 upon 6.5 is nothing but
+0.03, so I write D at 100 is around 0.92 seconds, I have used in seconds so you will get. 
+So remember here your z value is given as a 6.5 so for example if I calculate D at 96.5 so
+how it will became 31.8 second and 10 to the power of 90 minus 96.5 upon 6.5, so it would
+give me 3.18 second. So this is what the definition goes so to kill the 1 log, so here I got 31.8
+second so here I got 31.8 second, so 1 z value give me 1 log reduction in the D value, just to
+make you understand that concept.(Refer Slide Time: 23:45)
+So here are the main problem. The fluid milk processing plant is designed to sterilize the milk
+for aseptic processing. The various unit operation involved and the temperature is profile is
+shown. I am sorry for this particular slide but I wanted to show you all three in one particular
+slide itself shown using the thermal processing calculations, calculate the total lethality which
+is nothing but a F Naught value for this process. For simplicity, use the following assumption
+1 is uniform product temperature in each section as well as the logarithmic bacteria kill over
+the process temperature.
+We suppose  to  assume  and  the  sections  are  given  preheater, homogenizer, regenerative
+heating, holding and stream heater and holding tube and regenerative cooling so this is the
+diagram so 0 to1 which is nothing but a pre heater the temperature is varying from 50 to 71
+and the second is not specified or I might of forget to mention and here, then the next one is
+homogenizer are 1 to 2, 1 to 2 is nothing but 71 to 74 it is time is 2.5 seconds and 2 to 3
+which is nothing but a regenerative heating here it is heated 74 to 95 degree centigrade about
+4.5 second and the 3 to 4 is holding so it is a constant temperature which is nothing but 95
+degree centigrade about 2 second.
+Then steam heater it goes to so there 95 to 139 and it is it spent 17.5 seconds, remember the
+temperature versus T relation is given because it is not a one go 95 to 39, so it follows this
+time and temperature follows this particular equation. Which is nothing but T is equal to
+142.3 into 1 minus 0.3324 e power minus 0.1524t and holding tube again 139 degree, so
+which spent 2.4 seconds then it is cooling section 130 to 50 and the spending time is 21.6
+second and T is nothing but 139 minus 4.12 t.
+It follows the time and temperature relation so to decrease the temperature from 139 to 50
+degree for about 21.6 second. So we are going to do the problem, the first one is I need to see
+what is my total lethality, the total lethality happens one is in lethality rate which happens in
+the heat exchanger section, so which is nothing but a heating section. Then what is happing at
+the holding tube HT and same lethality right happens at cooling section, so I will just to put
+HT because He is nothing but heat exchanger.
+So, here remember here it is a constant temperature process, so cooling and heating has T as
+the function of t, if you remember the lethality rate formula is nothing but 10 to the power of
+T minus T reference upon z, so remember this is for if it is a constant temperature process and
+if it is a if I suppose to calculate here in the heating section then I suppose to be calculating 0to t and 10 to the power of T of t minus T reference divided by z into dt, so this is nothing but
+LR.
+So if it is a constant temperature process it is nothing but LR into del t, if it is a constant
+temperature process, so based on which we are going to calculate first in the heating section
+HT, so if you remember the temperature relation is given which is nothing but T equal to
+142.3 into 1 minus 0.3324 e power minus 0.1524 into t. So, based on which we are going to
+calculate time versus temperature, so temperature in degree centigrade time in seconds.
+So I am taking 0, 2.92 and 5.84, 8.76, 11.68, 14.6 and 17.5 so using this formula so we are
+going to calculate the temperatures which is nothing but 95, so how did I applying this 95, so
+I will substitute in the T formula which is nothing but 142.3 into 1 minus 0.3324 e power
+minus 0.1524 into t here is time is 0, so from this I will get 95.
+So for 2.92 I will substitute 2.92 then I will get what is the required temperature here and
+5.84  I  will  substitute  here  and  what  is  the  correct  temperature  here,  so  if  you  do  the
+calculation then you would be getting 123, 130, 134, 137 and then 139, so I got time versus
+temperature relation using the equation given for the HT section. 
+So, then I suppose to calculate LR, so LR I have a formula which is nothing but so we are not
+going to do integration here I will tell you how to do that, so we are just simply calculating 10
+to the power of so LR rate is here, for example, 0.0025 for this particular 0 and 95 time
+temperature combination.
+So, how did I calculate? So it is nothing but 10 to the power of t, t is given 95, my reference
+temperature is 121 divided by my reference z value is 10, so I have assume the assumption
+here is T is equal to 121 and z is equal to 10, sorry T reference. So from this I calculated the
+LR value so the t it will be substituting 95, 112, 123 and 130 so then you calculate this
+particular column so which is nothing but 0.126 and 1.548, 7.762, 120, 21.5, 41.58, 63.31. So
+before calculating the area under the curve why I am suppose to calculate the area under the
+curve.
+I will come here so this is the LR versus time, so this is nothing but a time x axis, so what I
+have done here is? I just plotted whatever I calculated here the time versus LR, so the curve
+looks like this so I will calculate what is the area under the curve so that is nothing but this
+particular value, which particular value? Here, so here this I have calculated this is LR into dt 0 to t the total time is 17.5 and its starts
+from for 0, so if I calculate lethality rate in each time so I will just draw a curve, then area
+under the curve just you have to count the boxes, so then you will directly get what is the
+time requirement for this particular lethality rate or otherwise if you want to do numerically
+then what you suppose to do I am telling.
+So, here what we suppose to calculate is LR at HT so which is nothing but 0 to 17.5 so LR
+we have already calculated which is nothing but a T as a function of time minus T reference
+upon z into dt, so this I have already calculated because I have already calculated my time
+and temperature from the relation given which is nothing but t as a f of t. Then I have now 0
+to 17.5 LR which is in y axis and dt which is dx, so integral ydx I should be calculating or
+numerically I can just to calculate so yi dxi when i equal to 1 to n, so I need 1 particular y
+value and dx is nothing but the difference between the time range. 
+For example, here 0 to 5 seconds what is a y and 5 to 10 seconds what is a y. So, for that what
+I suppose to do if I want to calculate numerically I need to take the average between this two
+and take the D axis 2.92 minus 0 the first column I would be just putting 0 only, the second
+column how do I calculate is 0.0025 plus 0.126 upon 2 so this would give me only 1 y the x
+is nothing but 2.92 minus 0, so which is coming around 0.19, so the next value coming
+around 2.43 the next value is 13.46 the next value is 42.60 the next value is 92.10 then
+152.01.
+The first value which is nothing but 0 time 95 degree centigrade LR of 0.025 I have just kept
+it 0 because I cannot calculate because I suppose to have two values to make average and dx
+value I need to value to subtract two values to get the dx, so I have kept first value is 0, the
+second value is 2.92 and 112 degree centigrade of the lethality rate of 0.126 it tell me 0.19.
+The third one how do you calculate 0.126 plus 1.548 divide by 2 which would give me one
+particular average way value into 5.84 minus 2.92 so which would give me 2.43. So, like this
+you can calculate.
+Then finally if you see here it is a submission, so if you sum it up you are ending up getting
+302.87 second or which is approximately equal to 5 minutes, you can do either this way
+numerical calculation which ends at 302.8 second. So, or you can do graphically as well so
+you draw a graph between time versus lethality rate and draw the curve and get the area
+under the curve directly.The second one is very much easy because as I told earlier LR at holding tube, so which is
+nothing but a constant process, constant temperature process. So, LR into dt is nothing but
+LR into integral dt which comes LR into del t so LR is nothing but 10, the temperature is 139
+the reference temperature is 121 the z value is 10 into del t is nothing but 2.4 second that is
+the holding time, so you are getting 2.46 minute approximately.
+So, the next one what we suppose to calculate is LR in cooling section, so the cooling section
+also it is bit easy compared to heating section but here also we have a temperature relation
+but seemingly easy compared to heating section, so how we going to do LR is nothing but 0
+to 21.6 second and this is a minimum maximum time limit 10 to the power of they have given
+time temperature relation which is nothing but 139 minus 4.12t minus reference temperature
+is 121 this is t time. 
+So this is 10 z value into dt, so this constants I will take it out 10 to the power of 139 minus
+121 upon 10 so I have taken it out 0 to 21.6 into 10 to the power of 4.12 upon 10 so which is
+nothing but minus 4.12 t. So this is 61.25 then when you integrate it, it is nothing but minus
+0.412t upon minus 0.412, it has to be upper and lower limit to be substituted, so if you
+calculate then it come around 150 seconds or around 2.5 minute. 
+So, now we have calculated lethality rate in all 3 sections, so the total lethality rate is 5
+minute plus 2.5 plus 2.5, so I just round the data, so totally it is coming around 10 minute.
+And remember your heating section as well as cooling section it is around 7.5 minutes it
+spends in just a heating and cooling and 2.5 minute it is spending in holding tube, so this is
+the way you suppose to calculate any lethality rate of the process.(Refer Slide Time: 39:10)
+And we will also see based on the product characteristics how to design a process or how the
+product  characteristics  effect  the  process  and  product qualities.  So, here  it  is  given the
+processor uses the same equipment to process products flowing at a rate of 39.4 litre per
+minute with a different viscosities. The flow rate is same but viscosity is different, how will
+the flow profile change with the change viscosity of the product and if processor changed the
+pipe diameter how will the flow profile change.
+So the flow profile means we have only one formula D row u upon mu so this is average
+velocity, so what it is told us if I increase or decrease the viscosity what happens or if I
+increase or decrease the pipe diameter what happens write how the flow profile changes, flow
+profile in the sense so either it is a laminar or a turbulent or transition, so how does it change?
+So, I am going to take it 2 examples 1 is 2 centimetre pipe with 10 cp, so I am going to
+calculate what is my Reynolds number and the same 10 cp viscosity I will take but it is a 5
+cm pipe and for the 5 centimeter dia pipe then I will also use 2 cp, viscosity I will decrease,
+then I will observe what is the change in Reynolds number. The first one we are going to do
+Re, my diameter is 0.05 and my density I am just taking 1000 kg per meter cube and the flow
+rate given us 39.4 litre per minute.
+So, I am going to change it by metre cube per minute but what I need is average velocity,
+average velocity is nothing but the volumetric flow rate 39.4 into 10 to the power of minus 3,
+10 to the power of minus 3 so which is converting litre into metre cube then you have your
+minute I am converting into seconds so 1 minute is nothing but 60 seconds so what you get is
+0.0006 meter cube meter cube per seconds. So, I have converted just 39.4 litre per minuteinto metre cube per second, so I got my I am still keeping a it set as a volumetric flow rate
+only.
+So,  when  I  calculate  Reynolds  number  then  I  will  substitute  volumetric  flow  rate  us
+volumetric flow rate because my diameter is changing, so I am going to keep it the same like
+that only so here my cp is 10 cp, so 10 into 10 to the power of minus 3 cp is nothing but
+centipoise so which is nothing but 10 to the power of minus 3 kg per meter second.
+So, then I suppose to divided by area to get velocity. Velocity is nothing but volumetric flow
+rate upon area, which is nothing but meter cube per second upon meter square, so which is
+meter per second, so I suppose to calculate the area as well 0.05 whole square into 4. So the
+Reynolds number what I get is around 1528, so 1528 which is in laminar region. The same
+way if I calculate Reynolds number for 0.05 into 1000 into 0.0006 into 4 divide by 2, 2 is in
+the sense I just changed the cp from 10 cp to 2 cp and into pi into 0.05 whole square so which
+is approximately 7643 so which is turbulent 7643 which is turbulent.
+The same way if you calculate here by substituting 10 cp and 2 centimetre and you would be
+ending up around 3821so which might be of some transition. So, keeping diameter constant,
+if you decrease the viscosity, so your flow changes from laminar to turbulent. So, by keeping
+viscosity same and increment in the diameter 2 to 5 makes the flow from transition to
+laminar. So, this is the answer for this question.
+(Refer Slide Time: 44:11)
+And the this is about orange juice flows through a straight pipe the internal diameter is given
+and length of the pipe is given flow rate of a orange juice is given what is the mean residencetime of the orange juice in the pipe. So we know main residence time so in the last lecture
+itself we have seen or this lecture also we have seen formulas so which is nothing but a
+volume upon volumetric flow rate.
+So, I suppose to calculate volume, so volume is nothing but pi DL, so pi is 3.14 and 5
+centimeter dia is given 10 to the power of minus 2 into 6.5 so which is coming around 0.127
+meter cube and volumetric flow rate is already given 0.0127 divided by 0.01 so it is comes
+around 1.27 minute. So mean residence time is each particle spends 1.27 minute on an
+average.
+So, with that I would end this lecture and also then I have just discussed here the mean
+residence time, so when we were discussing the residence time distribution we already told
+how to calculate the residence time distribution for each particle and that is for each process
+and that is a very much needed regulation when you go for the commercialization of the
+process,  so  I  would  request  you  to  follow  may  be  Levenspiel  of  chemical  reaction
+engineering to get to know about in depth about RTD studies for various input traces.
+(Refer Slide Time: 46:11)
+Otherwise these are all references and additional resources which I used in this particular
+lecture and all 3 lectures in fact thank you.   

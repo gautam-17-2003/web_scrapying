@@ -1,0 +1,402 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology, Guwahati
+Lecture No. 8
+F Value and Process Requirements
+Good afternoon all, today we are going to say about F value and process requirement.
+So previous classes we have seen certain kinetic expression so how do I relate my
+deactivation of microorganisms in any thermal processes, may be the example, should
+be  pasteurization  and  sterilization,  in  those  processes  how  the  deactivation  of
+microorganisms occurs and how it can be related with the kinetic expressions what we
+have seen earlier.
+For first order reaction, second order reaction, zeroth order reaction we have derived
+and also we told that the deactivation of microorganism in most of the cases occurs as
+per the first order kinetic. So today we are going to say about the F value and
+processes requirements. So before going into that, what is outline todays presentation.
+(Refer Slide Time: 01:34)
+The determination of D, z and Q10 values with certain examples and F and F naught
+values and determination of F values with examples. So today we are going to do
+extensively certain problems so how to determine D value, z value and Q10 value. So
+the Q10 value is something new so that we will doing problems we will also deriveand discuss about what is Q10 value and after that we are going to discuss about F
+and F naught values then how to determine F values with examples.
+(Refer Slide Time: 02:12)
+So the first example is determination of D value. How to determine D value the
+problem goes like this, a suspension of bacterial spores containing 160,000 spores per
+ml, is heated at 110 degree centigrade. The number of survivors is determined in
+samples withdrawn every 10 minutes. So the results are, results are in the sense, so
+here you have initially  160,000 spores per ml, so the temperature is 110 degree
+centigrade, so every 10 minutes, so this in seconds, so every 10 minutes they are
+taking out the samples and checking how much survivors per ml are existing.So this is 160,000 at initial, then 25,000 then it become 8000 that it becomes 1600 and
+200. So how to determine D value for this process. So if you remember in our
+previous class, so dN upon dt is nothing but a kinetic expression so which is nothing
+but inc into N. So the first order kinetics it follows the deactivation of microorganism
+so from this we learned that minus dN upon N is nothing but Kinc into t, so this
+becomes dN upon N which is  Kinc t minus so this is integrated between initial spores
+N naught to final spore N, so this is 0 to t. So this if you can write it in terms of lon so
+this is N naught which is nothing but minus Kinc t, so if you write, N is nothing but N
+naught e power minus Kinc t.
+So this we told that normally we write Kinc as 1 upon Dt, so this is at particular
+temperature, what is my D value. And normally the conventional follow is the log
+scale. So in the log scale so if you follow the same convention, dN upon N which is
+nothing but Kinc dt so this is N naught to N, 0 to t, so if it is log, so this implies which
+is nothing but minus Kinc t so N is nothing but N naught 10 to the power of minus
+Kinc I am just substituting 1 upon Dt. Or if you take the similar case so it will be (lon)
+log N is nothing but log of N naught minus 1 upon Dt into t.
+So what I suppose to do? I suppose to draw a t and log N then my intercept would be
+is nothing but log of N naught and my slope whatever I am getting is nothing but
+minus 1 upon Dt. So here I have given heating time, so the heating time is in X axis
+so just nothing but time in seconds. So now is what I suppose to do? I suppose to
+calculate log of N. N is given at each heating time of 10 seconds interval. So time
+whatever the units it has been given, supposed to do it in X axis and Y axis so I
+suppose to calculate log of N then it follows the linear line so I have already done it
+and given you,
+And this I have done in the excel so then if you click on any point and add the trend
+line it will give you the equation which is nothing but Y equal to Mx plus C. So first
+we will see how to calculate. So t this I am going to put it in X axis so then I am going
+to calculate log N, so for 0 so log N if you calculate so that is nothing but 5.204 so if
+you calculate at 10 so this is nothing but 4.398, so if you calculate at (10) 20 so that
+becomes 3.903 so if you calculate at this thing so 3.204, at 40 it becomes 2.310. So we calculated, so it become a straight line so it gave me minus 0.07x plus 5.20,
+5.202 is nothing but log N naught, so this is what we got. So then slope is nothing but
+minus 1 upon Dt is nothing but minus 0.07 so if you calculate D it is coming around
+14.2 minute or second so whatever the unit you have taken here. So this, this will be
+in minute. So how much it is coming, it is coming as 14.2 minutes.
+Or another way would be doing this you get the log N so then you see for 1 log
+reduction so how much is for example, so this is for 1 log reduction so that way also
+you can do it. What is this here and what is this here, so this is nothing but D value.
+So anyway one can calculate, right. So this is clear.
+(Refer Slide Time: 09:03) 11:17
+So we will go to our second example. So here it says that determination of activation
+energy and Q10 value. The activation energy if you remember in previous class what
+we  have  done  is  the  microorganism  deactivation  process  or  inactivation  process
+similar to the first order kinetics. So if you remember the order of reaction and rate
+constant what we talked about, we talked about we are going to follow the Arrhenius
+model, Arrhenius model is nothing but the k, rate constant is nothing but this is we
+call it as a frequency factor so this E is nothing but a activation energy, so this R is gas
+constant so 8.314 kilo Joules per kilo mol, the units are important.
+So the T since it is Kelvin so I need to substitute in terms of K, the activation energy
+is nothing but kilo Joules per kilo mol. So what it was asked is, it been reported that
+the rate of certain enzymatic reaction, certain enzymatic reaction is increased by a
+factor of 3.2 if the reaction is carried out at 45 degree instead of 37 degree, so if you
+remember the z value, what we talked about the D value, we already mentioned that
+as at particular temperature what should be my D value.
+So I will get for each temperature, for example T1 I will get D1 temperature T2, sorry
+not temperature D1 D1 value so which is again minutes or seconds, so this is again
+minutes or seconds so D2, so then we told from this I will be able to determine when I
+plot T versus D, this is again in log scale then I am getting again the linear curve, the
+slope is nothing but minus 1 upon is z we told, so that is what z value we have already
+told. So for that I need to know what is the relation between the temperature and the rate.
+So that is what here they said if I instead of doing it in 37 degree if I do it in 45 degree
+my rate constant value increases the fold of 3.2. So now I should be able to write what
+is k1 so this is at T1 so what is k2, k2 is nothing but k naught e power minus E upon
+RT2. So if I consider k1 upon k2 which just nothing but k naught  k naught will get
+cancelled,  e power minus  E upon R  1 upon T1 minus  1 upon T2, because this
+becomes plus.
+So if I had to take natural logarithm which is nothing but k1 upon k2, which is equal
+to minus e upon or 1 upon T1 minus 1 upon T2 so this becomes lon of k2 upon k1
+minus I have taken this side so E upon R, 1 upon or you can take T2 minus T1 upon
+T2 T1. So now I know how my rate is increased. So k2 upon k1 that is what they have
+mentioned so this increases by 3.2 and now what is my T1, what is my T2. So when I
+consider T1 as 310 Kelvin so my T2 is nothing but 318 Kelvin, right. So when I
+consider 318 it becomes 3.2, so I have to substitute here and get the this done
+So lon of k2 upon k1 is nothing but E by R, T2 is 318 minus 310 divided by 318 into
+310, so E is supposed to be calculated, lon of 3.2 is nothing but E upon we already
+told this is 314 kilo Joules per kilo mol, so this is 8 upon 318 into 310. So if you
+calculate your E is nothing but 119 into 163.94 kilo Joules per kilo mol. So you have
+calculated your activation energy. So what else is asked to calculate, Q10 value. So
+this Q10 value is nothing but again the k2 upon k1, so this value because I know what
+is my E so what is the Q10 value instead of calculate the activation energy and the
+Q10 value. So the Q10 value, how do you calculate?
+So actually from the problem what it was told, so they have fixed the temperature 37
+at T1 and 45, this got increased by 3.2, so what is Q10 value is nothing but so this is
+also similar to lon of k2 k1, it is not similar, so this ratio only they talk about. The
+Q10 is nothing but k2 upon k1 but when delT is 10 degree. The activation energy of
+the reaction it is not going to be changed but here what we have calculated is when
+temperature is increased from 37 degree to 45. So the my factor is nothing but 3.2, so
+what is my factor, factor is nothing but k2 upon k1 and delT is 10 degree.
+So now what we have seen is lon k2 upon k1 is nothing but E upon R T2 minus T1
+upon T1 T2. So this becomes Q10 1 when my detT is nothing but 10, so T1 into T1plus 10, my T2 is nothing but T1 plus 10, and sometimes how people write is yeah
+this 10 E, E is nothing but already a high value, so even if you add, it is not T10, it is
+10, so this is already high value so when you add even 10 degree that will not make
+much difference so normally 10E upon R T1 square, the Q10 value, the formula is
+this, so when my delT is 10, so what is the ratio between k2 with k1, that is nothing
+but the quotient value they say Q10. So now we are going to calculate as per the
+normal formula Q10, so I have already calculated my energy 163.94 so my R is the
+3.14 so what is my T1, T1 is nothing but 310 into 320, so this value turns out to be
+4.24.
+So they have calculated the quotient at 8-degree temperature difference. 318 and 310,
+so that turns out to be 3.2 now it turns out to be 4.24. So now we know for particular
+reaction how to calculate quotient when temperature difference is 10 degree and also
+how  to  calculate  activation  energy. Now  we  are  going  to  relate  this  to  thermal
+processing of food, thermal processing of the food in the sense, so when I process any
+food with temperature then how this going to be useful for me, I know how to
+calculate activation energy, how to calculate Q10 so how I am going to use it in my
+food processing. 
+(Refer Slide Time: 18:11)
+So  the  third  example  is  nothing  but  determination  of  maximum  temperature  of
+storage. So here it is said that pasteurized, I have already told. The thermal processing
+most of the time what we use is for pasteurization or for sterilization. So it says that
+pasteurized grapefruit juice is aseptically packaged in multilayer container so you
+must have seen all the tetra pack juices so that is almost 7 layer.
+So that is what they meant multilayer containers and stored under refrigeration. So it
+was also advised once you open then you should be consuming within 2 days in time.
+So that is printed in your label. So the ascorbic acid content, so at the juice, at the time
+of packaging is 55 milligrams per 100 gram. The nutritional information on the label
+specifies an ascorbic acid content of 40 milligrams per 100 gram.
+What should be the maximum temperature of the storage if the product has to comply
+with the specification on the label after 180 days of storage. So when they were
+packing the content is 55 milligrams per 100 gram but they said that they printed in
+the label saying that 40 milligrams per 100 grams.
+So  now  what  should  be  the  maximum  temperature  so  I  have  to  consume  that
+particular juice after 180 days of storage so if I get to use that product after 180 days
+of storage I am seeing 40 milligrams per 100 gram, 40 milligrams of ascorbic acid per
+100 grams. So then what is the rate constant at what rate it got reduced from 55 to 40
+at 180 days, also ascorbic acid loss in grapefruit juice follows first order kinetics so
+we are comfortable with the rate constant of 0.006 day power minus 1 at 20 degree.So they given when, T1 equal to 20 so my k1 is nothing but 0.006 day power minus 1.
+So now I do not know what is my T2, but the T is given which is nothing but 180 days
+and also the information given would be the first order kinetic. So now I suppose to
+find out what is k2 here. So if I know by using first order kinetics if I could find out
+what is k2 then I have k2 here, same unit, then I will be finding out T2 easily because
+I know lon K2, that formula I know.
+So that is what we are going to do we already learnt lon of C upon C naught, which is
+nothing but minus kt because it follows first order kinetic. So this is the first order
+kinetics because I have given concentration, the C is right now 40 milligrams per 100
+gram, C naught  is nothing but 55 milligrams per 100 grams. So T is given is180 days,
+so which is nothing but lon of 55 upon 40, which is nothing but k into 180, so the k
+turns out to be 0.00177 day power minus 1. So this I referred as the k2.
+So now I know what is T1, T1 is nothing but 20 degree, remember it should be
+mentioned in the Kelvin, so because my E R everything is specified in Kelvin so 273
+this becomes 293 Kelvin. So I do not know what is my T2, but here I know what is k1
+which is nothing but 0.06 day power minus 1 so for this k2 I found out which is
+nothing but 0.00177. So if I store it for 180 days, so if my concentration has to reduce
+the level of 40 milligrams per 100 gram then my k2 should be this so we know
+already formula, lon k2 upon k1 which is nothing but E by Rof T2 minus T1 divided
+by T2 T1. So K2 is nothing but 0.00177 upon 0.006.
+So now I require E, so E is also given it is nothing but 70,000. So 70,000 upon 8.314,
+so I do not know what is T2 but I know T1 is 293 divided by 293 T2. So if you solve
+this then you get T2 as 281 Kelvin so which is nothing but T2 8 degree centigrade. So
+I need to store it at 8 degree centigrade to get my 55 milligrams per 100 grams of
+ascorbic acid to reduce to 40 milligrams per 100 grams, if I have it use at 180 days of
+storage. So then this will be complied. So if I get to know how to calculate the
+activation energy then from this and first order kinetics and I will be able to tell at
+what  temperature  it  is  to  be  stored  to  keep  the  nutrient  value  at  that  particular
+specified value.(Refer Slide Time: 25:11)
+So the fourth one is determination of D, z and Q10 value. So this is you are familiar
+with now, this is also you are familiar with, so this is also we have seen as a theory, I
+have already told the D value what we are calculating is a specifically for a particular
+temperature. So if my temperature changes, my D value also changes, so when I plot
+temperature versus D value the slope is nothing but minus 1 upon z that is the way it
+talks about the relation between D value and temperature.
+So D value talks about how with time my microbial inactivation happens, so this is
+related. So in a laboratory experiment it was found that the heating a suspension of
+spores at 120 degree centigrade is 100 seconds result in a 9 log killing of the spores.This 9 log killing is we have already discussed. 1 log, 2 log, 3 log, 9 log kelvin of
+spores. To achieve the same reduction at 120 so it require 27.5 minute needed.
+So calculate the decimal reduction time that is nothing but D, at D two temperatures,
+the z value and the energy of activation and the Q10 value of the thermal inactivation
+process at these temperatures. There were two things given, one is at D110 so it is
+nothing but 27.5 into 60 because it is given as minutes and the reduction is 9 log
+reduction so this is turning out to be 11.1 second and the second one is 120, so 120 it
+happens within100 seconds so again 9 log, sorry this is nothing but 183.3 seconds so
+this is nothing but 11.1 seconds.
+So this is 110 degree, this is 120 degree. So now calculate the D value, D value, how
+to calculate we learnt. So this is they are telling that for minute, for 9 log so 1 log
+reduction only we talk about. So D value is nothing but when 1 log reduction so what
+is the time requirement. So 9 log it is 27.5 minutes means for 1 log it is 183.3 seconds
+and D 120 it is nothing but 11.1 seconds, so we have calculated D and z value.
+So this z value so we have to go this thing so what we have done is k2 upon k1 is
+nothing but not log that is lon, it is nothing but e upon R T2 minus T1 divided by
+T2T1. So if I have to do it in 2.3 log, so this is log of k2 upon k1, which is nothing but
+E upon 2.3 naught 3 R T2 minus T1 divided by T2 T1. 
+So if I had to calculate the slope of this line, the slope of this line in the sense if I had
+temperature  versus  log  of  k2  upon  k1.  So then  this  becomes  the  log,  the  slope
+becomes k2 minus log k1 upon T2 minus T1 is nothing but E upon 2.3 naught 3 R T2
+T1. So this becomes my slope.
+So now this similar, we already told my microbial inactivation process is has followed
+the Arrhenius model. We also told there may be a secondary model, tertiary model
+based on particular process but mostly we use status of first order kinetics and also it
+is a Arrhenius model. And I also discussed the last class itself there is no comply that
+it should follow the first order kinetics that means that linear log relationship it may
+not, but we say that most of the process follows that.
+So if I have to do the then I can do this D2 minus log D1 upon T2 minus T1 because
+we already told this rate is nothing but my D value in microbial inactivation process.So this we have told already, the slope of this line is nothing but 1 upon z, minus 1
+upon z. So now I wanted to compare these two so in that case so I will write because
+if you remember the last class this is temperature so this is nothing but the log scale,
+the D value, the slope is nothing but minus 1 upon z. 
+So this becomes log D1 upon D2 which is T2 T1 T2 minus T1 which is nothing but 1
+upon z. So if you compare these two you can also see my E upon 2.3 naught 3 R T1
+T2 is equivalent to 1 upon z or I can say my z is nothing but 2.3 naught 3 R T1 T2
+upon E, so this is another relation by which I can find out z. From the activation, if
+your activation energy is given then you can find out otherwise you are given D1 D2
+so that is what I require, two temperatures are there from that I can directly find out
+my z.
+So now I know what is my D10, D at 110 is nothing but 183.3 second, D at 120 is
+nothing but 11.1 second, so now I have taken this is D1, this is D2. So we will use the
+formula, log of D1 upon D2 which is nothing but T2 minus T1 upon z, so this is, this
+becomes log of 183.3 divided by 11.1, so this becomes 120 minus 110, here I am not
+using the Kelvin so because this is nothing but delt, so upon z, so if you calculate your
+z becomes 8.21 degree centigrade.  
+So if you know somewhere activation energy is given then you find out that as well.
+So then now other way would be doing it this is how I will calculate my activation
+energy from the z value given. So from this what is my E, E is nothing but 2.3 naught
+3 R T1 T2 divided by z. So 2.3 naught 3 R is nothing but 8.314 kilo joules per kilo
+mol kelvin into T1, remember this you need to substitute in terms of kelvin, 273 into
+120 plus 273 divided by 8.21.
+So your E becomes 3.51 into 10 to the power of 5 kilo joules per kilo mol kelvin and
+Q10 value you already know, so what is the formula? Formula is 10 E upon R T1 then
+T1 plus 10. So 10, your E is given 3.51 into 10 to the power of 5 upon R is 8.314 so
+this is 110 plus 273 so this is 120 plus 273. So this becomes Q point 8.
+So when you conduct at 120 and when you conduct at 120 the rate constant increases
+by 2.84. So that is all. So we know for 9 log killing if my D values are given at
+different temperatures I can find out what is a D value at two temperatures and what ismy z value, what is my energy of activation and what is my Q10 of the thermal
+activation process. 
+(Refer Slide Time: 34:40)
+So now we are here to determine F value, so what is F value. So now I understand
+what is D value, what is z value better after doing some of the examples. So now what
+is a F value. The same lethality, lethality in the sense the number of microorganisms
+reduction so that we do it by temperature, that is nothing but a physical action, can be
+achieved under different time temperature combination.
+So, that is what we have learnt. For example, here if you see I am maintaining 110
+degree  then  my  value  is  nothing  but  183.3  seconds.  If  I  am  maintaining  mytemperature as 120 then my D value is coming around 11.1 second. So under different
+time temperature combinations I can kill the same, same log of microorganism, for 9
+log killing f I maintain two different temperatures what would be my D value.
+So  that  can  be  done  at  different  time  temperature  combinations.  But  how  do  I
+compare particular process whether it is economical or not. So based on different
+temperatures and different time. So there comes, how do I compare. I compare using
+F value. So this F value is nothing but duration, again duration in minutes, minutes
+means minutes or seconds required to achieve a given reduction ratio in the number of
+organism at a given constant temperature.
+So  F  value  is  nothing  but  to  achieve  a  given  reduction  ratio  the  number  of
+microorganism at a constant temperature. So this is D and this is log of N naught upon
+N, for example, if I need this log reduction as 12 then I will call it as a F equal to 12 D
+process, if I put this 12 as a number it is because that is the convention followed,. 
+Convention follow in the sense, for safer, any safer process most of the industries
+follow 12 D process it is but again it is the convention that is no proof for it and also
+we have also already seen we have also discussed the moment I say 1 log this much
+microorganisms get killed so I am maintaining same temperature and time but still
+there are some survivors. 
+So that means the population how much microorganisms are getting killed so it is
+based on the population theory. Population theory in the sense, it is I should say it is a
+kind of plot. So there are some survivors still available at that particular temperature
+and particular time. So the 12 D process seems to be safer than most of the industries
+follow also and also one more thing is this time temperature relation it is not constant
+for all the process.
+So we come to here, so that is nothing but FR z, so before that if the food contains
+originally  10  to  the  power  3  spore  of  target  microorganism  of  the  target
+microorganism per gram it will contain 10 to the power of minus 9 spore per gram
+after processing, after processing means if it is a 12D process so you will get my 10.
+How do I relate, that 10 to the power of minus 9 spores.So that means if I take a 500 gram then I should say 1 pack in 2 millions will have 1
+spore, so that is how we can relate 12 D process to number of spores available. So but
+normally we have told already, so here we do it at constant temperature but normally
+it does not happen at a constant temperature. If you see any process the time versus
+temperature is not constant. So my temperature it is a function of time.
+So in such case how do I compare processes. So calculate the duration in time, so this
+is the where FR z, so what is R, R is nothing but the reference temperature. So z is
+nothing but z value at particular, z value at reference z value I have to say. Calculate
+the duration in times often equivalent process at a given constant temperature that
+would result in same reduction ratio. 
+So here we told to achieve a given reduction ration, how much time is required in
+minutes  or  seconds  at  constant  temperature  but  in  most  of  the  process  your
+temperature is not a constant temperature it is a function of time so my real process is
+happening for my real process my temperature is a function of time but I am creating
+equivalent process so which has constant temperature.  So that is what the duration in
+minutes of an equivalent process at a given constant temperature that is nothing but a
+reference temperature that would result the same reduction ratio what we mentioned
+here.
+So this we call it as a FR z. So most of this value is called F naught, F naught is
+nothing but a reference value. So the F naught value of any thermal sterilization
+process we already we told, either we talk about the sterilization or pasteurization, is
+the number of minutes of heating at 121 degree centigrade required to achieve the
+same thermal destruction ration of as specified target organisms.
+So this reference temperature I will keep it as 121 degree and also the z value or
+sometimes they put it as a 250 degree Fahrenheit, and z is nothing but 10 degree, so
+this is equivalent to 18 degree Fahrenheit. So any F process if you F naught , F naught
+is nothing but F naught value is nothing but FR z, so this becomes F121 so this is 10
+so this is equivalent to F naught. So instead of writing,  we can write F naught. 
+So how this F value is helping me to compare thermal processes with different time
+temperature profiles and also to specify recommended thermal processing conditions
+for commercial products. So last class itself we have seen, we have compared twoprocesses, so my cooking value I have calculated at two different temperatures I have
+also calculated D value at two different temperatures and I will so to get this same log
+reduction so my cooking value should not go beyond certain value. 
+So that is the way I will choose the process, my cooking value also should not
+degrade more and my microorganism should get killed more. So that is the best
+process condition. So to recommend such thermal processing conditions, so this is
+helpful. And there are two methods used, one is I will calculate experimentally F
+value or I can calculate based on the heat transfer theory. Heat transfer theory in the
+sense, for example if you go here, so this R is nothing but a reference value, so this T
+is nothing but the function of time.
+So if you remember heat transfer process of any, the simple process would by any 1 D
+heat conduction process, this is nothing but rho T upon rho t of t this is nothing but
+rho square T rho x square. rho x is nothing but this direction. So this will give me how
+the conduction happens as a function of time. So any temperature as the function of
+time I would substitute here and calculate this integral so that is any heat transfer
+theory.
+Here, calculated according to heat transfer theory so if I could solve the equation and
+get T of t, then that will also solve my purpose or I actually how we calculate a
+number of spore at different time so that way also I can calculate temperature at
+different time and I can calculate the value so this is called general method but this
+microbial inactivation kinetics and heat penetration as equations and combining these
+equations to calculate T.
+So  this  is  this  method  is  called  Ball  method.  So  this  also  extensively  used.  So
+microbial deactivation kinetics is nothing but N equal to N naught E power, sorry 10
+to the power of minus E upon Dt so this one and heat penetration studies in the sense,
+this itself is taken as a equations. So which has heat penetration normally has alpha,
+this is nothing but thermal diffusivity. So combine these two equations, heat transfer
+equation with the microbial inactivation kinetics, and combine these equations to
+calculate this F value so that is nothing but a Ball method in subsequent classes we
+will see.(Refer Slide Time: 44:27)
+But here we are going to calculate the F naught value, so by example, so how do I
+calculate F naught value of the sterilization of milk. So we know how to calculate the
+F naught value, the F naught value is nothing but F 121 and 10, which is equivalent to
+0 to t, 10 to the power of T minus R upon z into dt. So this is my formula so they told
+that it took thermal treatment, took 131 degree centigrade it as 2 s, so what it should
+be its F naught value.
+This integral becomes t into 10 to the power of T minus R upon z, this is dt is nothing,
+how we will do it, this is T minus z and sorry T minus R upon z into dt 0 to t,
+remember this T we have taken constant, so that is why I have taken it out. If it a
+function of T this integral is not that easy, that we will see in subsequent classes. 
+So then now I have given t, I have given my reference temperature so t is noting but 2
+into 10 to the power of 131 minus reference temperature is 121 upon z. So this z is the
+I have already told you z is taken, reference value of z is 10, so this is 10 so this
+becomes 20 seconds. If my F naught, F 121 F 10 this is nothing but F naught so this
+becomes 20s. So if this process is being followed so I need to sterilize my milk for if I
+maintain 131 then it would be coming as (2) 2s.(Refer Slide Time: 46:42)
+This is another example to calculate the cooking value as well as pasteurization. This
+is what I told. Pasteurization value as well as cooking value already told pasteurizing
+we are doing it to reduce the microbial count. The cooking value is at the same time
+your nutrient content also getting cooked. We already told in any of the nutrient
+content  becomes  in  the  enzymes  becomes  deactivate  when  you  increase  the
+temperature.
+So  I  should  be  keeping  my  temperature  at  particular  range  where  my  more
+microorganisms  getting  killed  and  minimal  destruction  happens  in  the  nutrient
+content. So for evaluation of pasteurization processes, it is recommended to utilize the
+F value based on a reference temperature is (7 hun) 70 degree centigrade and the z
+value of 7 degree.
+So what I told 121 and 10 degree is nothing but the F naught value, that is standard,
+but here the reference temperature they told us to take 70 degree and 7 degree for the
+evaluation of cooking processes and other chemical changes that occuring during
+thermal processing, for example is, destruction of vitamins or any other nutrient, the
+recommended  reference  temperature  is  100 degree and 30 degree  centigrade.  So
+calculate  the  pasteurization  value  and  cooking  value  of  the  following  constant
+temperature process.So this is nothing but we have already known, know the F value so if you have to
+calculate for your recommended to utilize F value pasteurization the thing is 70 and 7.
+So this is nothing but t into 10 to the power of T minus this is 70 divided by 7. If I
+have to calculate process A, this is nothing but for process A F 70 7 which is nothing
+but T is nothing but 15 into 10 the temperature is 74, this temperature is 70 and your z
+value is 7 so this becomes 55.9 second. So if you calculate the same for B so that
+becomes 833 seconds.
+If you calculate for C so that becomes 29 seconds. So if you calculate for D so that
+becomes 22 into 10 to the power 6 seconds. So this is for pasteurization, for cooking
+value they told us to take some other reference so that becomes F 100 and your z is
+nothing but 30, reference value so then how do you T, T is nothing but 15 for process
+A into 10 to the power of 74 minus 100 so divided by z, that z is nothing but 30, so
+you calculate 0.6
+So like this you calculate for different processes A, B, C, D, then compare from the
+microbial destruction that is nothing but pasteurization and cooking value. So which
+process to be adopted, which process to be adopted, the all four processes differ in, if
+I had to 74 degree I had to do it for 15 seconds, for example higher is 105 then I have
+to do it for 220 seconds I am doing. So which process is best process based on
+pasteurization value and cooking value we will be able to decide from here. So more
+on we will discuss in the subsequent classes.
+(Refer Slide Time: 50:33)
+The reference is Food Process Engineering and Technology, all the problems were
+taken. Thank you.

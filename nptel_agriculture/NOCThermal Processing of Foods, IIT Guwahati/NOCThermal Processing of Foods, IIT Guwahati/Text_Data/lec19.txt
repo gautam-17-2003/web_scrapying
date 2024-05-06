@@ -1,0 +1,458 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology Guwahati
+Lecture 19 
+High pressure dialysis, ultrafiltration and reverse osmosis
+(Refer Slide Time: 0:54) 
+Good morning everyone. So, today we are going to continue yesterday’s class so yesterday
+we have discuss about fundamentals of membrane processes. So, we ended up saying that,
+there were four major categories of the membrane processes we are going to discuss in next
+two  classes.  So  they  were  ultrafiltration,  microfiltration,  reverse  osmosis  as  well  as
+nanofiltration techniques, and also we are going to discuss about the electrodialysis as well.(Refer Slide Time: 1:05) 
+So, if you remember a short recap, so we discuss about the membranes so which is mostly of
+polymeric mostly but there were ceramic membrane also we were seen. And also the another
+term is selective permeability. So that means, so that means the membranes having selective
+permeations. So that means it can allow only selected components, selective permeability or
+membranes allow selective components. 
+So, another important  thing we talked about is  transmembrane  pressure, transmembrane
+pressure in that, if it is a pressure driven membrane process, so this is very much important.
+Another one thing is we talked about tangential flow so that means, your feed is this is your
+membrane so, your feed is flowing parallel to the membrane surface and the permeate is,
+permeating through a membrane so that means it is cross-flow and the retentate will be
+collected here. 
+So, this is a feed flow so that is parallel to the membrane surface. So, these were few
+important terms we have discussed and also whatever we are going to discuss, what is that?
+Ultrafiltration, microfiltration and nanofiltration and reverse osmosis. So, all of them are
+pressure driven membrane process and also we are going to discuss about electrodialysis. So
+that is electrical field driven that means driving forces electrical over there. 
+Other  than  that  pervaporation  also  there  but  we  are  not  going  to  discuss  it  in  depth.
+Pervaporation,  what  happens  is?  The  vaporization  through  the  membrane  is  a  selective
+process. So the vaporization of molecules through membrane surfaces nothing but a selectivepermeability, so other than that there are biological membranes, so which were used to do
+retain cells and tissues. So this is the short recap.
+(Refer Slide Time: 4:53) 
+So, now we are going to discuss about pressure driven membrane processes which includes
+all of microfiltration, ultrafiltration, and nanofiltration as well as reverse osmosis. In micro
+and  ultrafiltration  the  particle  size  is  a  practically  the  sole  criterion  for  permeation  or
+rejection. So based on the particle size only your permeate will permit through the membrane
+or retentate is rejected on the membrane surface. 
+RO a membrane separate particles at molecular level, so reverse osmosis membrane separate
+particles at molecular level also their selectivity is based on the chemical nature of the
+particle. For other microfiltration, ultrafiltration particle size is sole criterion but here the
+molecular level as well as the chemical nature of the particle is important in the reverse
+osmosis membrane. 
+So, nano-filtration in sense membrane process similar to RO, but it has also the overlap with
+the  ultra  and  microfiltration,  so  here  your  operating  pressure  ranges.  Normally,  in
+microfiltration it is 0.1 to 0.3 mega-Pascal, mega-Pascal nothing but 10 to the power of 6
+Pascal. Ultrafiltration is 0.2 to 1, nanofiltration is 1 to 4, reverse osmosis is 3 to 10. And in
+terms of particle size limit particle size in the sense, so that is the particle size beyond that it
+cannot allow. So, limit particle size which is in nanometers as well as molecular weight is also given. So
+microfiltration is 100 to 10,000 nanometer the particle range, which it can retain and ultra-
+filtration is 1 to 100, if in terms of molecular weight it is a 10 to the power 2 to 10 to the
+power 6 Dalton and nanofiltration 0.5 to 5 nanometer and in terms of molecular weight 10 to
+the power 2 to 10 to the power of 3 Dalton, and reverse osmosis 10 to the power of 1 to 10 to
+the power of 2 Dalton, but here it is solely depend upon the molecular weight of the particle.
+(Refer slide Time: 7:24)
+So, here it is a clear picture, so where you can see clearly the particle size based on that how
+your micro, ultra, Nano and reverse osmosis membrane processes is categorize. So, if you see
+the micro filtration which removes the cells and debris but it allows the protein, so if you see
+the protein, protein has this overlap, it is not clear cut definition, clear cut in the sense you
+cannot say all protein can permeate and also you cannot say all permeate can be retained in
+the membrane surface.
+But cells and debris normally be removed then if you go to ultrafiltration proteins and viruses
+and it allows the sugars, but anyway there is no clear cut particle size range. Some of the
+protein particles go into permeate and some of the viruses are also pass through that means
+permeate through. And nanofiltration mostly sugars and also it can contribute to calcium ions
+but if you go to reverse osmosis all are ionic levels, na plus cl minus, so this is mostly salt
+that is why use extensively in desalination of water over reverse osmosis. 
+So, microfiltration which comes 0.1 to 10 the micrometer ultrafiltration 0.01 to 0.1 nano
+0.001  to  0.01 micrometer  then  less  than  0.001  micrometer  is  nothing  but  your reverseosmosis. So here is the tangential flow membrane process, so you have a feed here, so this is
+the membrane surface, so this is the membrane surface and your permeate is permeating
+through the membrane surface, this is the membrane, through the membrane surface your
+permeate is permeating and retentate will be inside the membrane that is three times, so that
+is collected later. 
+So if you see the feed is flowing parallel with the membrane and your permeate flows in the
+cross-flow that is perpendicular to the membrane surface. And another important thing is that
+this transmembrane pressure difference, so transmembrane pressure difference. So this is the
+main  driving  force because  these  are all  pressure driven membranes.  So that  TMPD  is
+nothing but a feed pressure is P1 and outlet when it gets collected so that is P2. So, the
+average of this two is P1 plus P2 divided by 2. And P3 is nothing but a permeate pressure, so
+that is minus P3. 
+So, this is nothing but a transmembrane pressure difference, which is nothing but average
+between inlet and outlet pressure minus the permeate pressure. And also remember what
+happens is, when the feed is introduced into the membrane, so it contains solids plus, for
+example, if we take the water with salts, so slat water if we take, so the water gets permeated
+through the membrane. So, what happens, the salt concentration will be increasing towards
+the end, so this side salt concentration started increasing. 
+So, what happens is, after some time the flow rate of the suspension, it may not be high
+enough to drive the flow, so in that case what happens? The salts get deposited, so it cannot
+flow further through the membrane to get it separated. And to avoid that sometimes normal
+process can be changed; the retentate is given back to the feed, to increase the suspension
+flow rate through the membrane. So that is another criteria one may follow to increase the
+suspension flow rate when it passes through the membrane to avoid the salt concentration
+which is not carried over by the normal suspension flow. 
+So, here is the formula forever the permeate flux, J is here nothing but permeate flux, so this
+Lp is nothing but hydraulic permeability and del PM is nothing but your transmembrane
+pressure difference. So, this is the simple modal so here what we uses? The Darcy law, Darcy
+law in the sense you might have heard smoothing like porous media flow, so porous media
+flow is nothing but I have channel, so in which the solid particles are there, so normalvelocity normally if you see the pipe where your fluid is flowing, so there is flow resistance
+to it when it sees the sloid particles so the flow will be somewhat reduced. 
+The velocity of the flow will be reduced, so it sees the resistance over that so the flow
+through this solid particle is nothing but the porous media flow or sometimes, the solid
+particle itself will have pores in it. For example, so this is my solid particles so it is porous so
+that also contributes the extra resistance, so these kinds of flows are called porous media
+flow. So, further the governing law is nothing but a Darcy’s law, so here also what we
+consider here is so here we consider them as capillaries. 
+The membrane materials or parallel to each other so their radius is nothing but r, and it has
+the porosity of epsilon, so from there the hydraulic permeability is derived us as epsilon r
+square 8 mu z. So, r is nothing but the radius of the capillary epsilon is porosity and mu is a
+viscosity. So, this has unit of J has the unit of meter per second and Lp has unit of meter per
+second Pascal so your del Pm has one Pascal. 
+So both the side unit is cancelled. So the permeate fluxes in meter per second, so this Lp is
+the hydraulic permeability depends upon the many factors that we will see but also here
+remember this is a modal, Darcy Law modal we assumed but there may be a restrictions to
+use this modal on certain assumptions, so here we are assuming that is Darcy law modal and
+deriving this, there are certain restriction to use this modal that one should remember.
+(Refer Slide Time: 14:38)
+Then the terms called Sieving coefficient as well as rejection, so sieving coefficient is nothing
+but concentration of the solute in the permeate Cperm, and in the concentration of the solute
+in the retentate that is nothing but Cretentate. So, S here is sieving coefficient. So for particle
+considerably larger than the widest pore, widest pore larger than that is rejection is total so
+that means S equal to 0. So, if the particles considerably smaller than the smallest pore or not
+retained so in that case the sieving coefficient is one. 
+But for solute with particle size closed to the pore size than the sieving coefficient may vary.
+So, that means if I have widest pore my particles get in or if I have very smallest pores my all
+particles will be retained. So here it is 0 here it is one so in between normal real operations
+will have sieving coefficients between 0 to 1. 
+(Refer Slide Time: 15:47) 
+So, then rejection coefficient: So rejection coefficient is nothing but one minus S into 100
+that is very much obvious. The microfiltration membranes are specified by thier average pore
+diameter so that is nothing but around 0.5 micrometer. But ultrafiltration membranes are
+characterized by their cut-out molecular weight that is COMW. 
+So, COMW is the molecular weight of the smallest molecule retained by the particular
+membrane. So, for this purpose the definition is, how do I define the smallest molecule
+retained  by the membrane, so that is nothing but retention coefficient  of 95 percentage
+usually accepted as total rejection. So, it will be said for example that cut-out molecular
+weight of the certain membrane is nothing but 100 thousand Dalton.(Refer Slide Time: 16:38) 
+So, then the next important terminology we need to be taken into account in the membrane
+separation processes, concentration polarization as well as gel polarization. So, if we take the,
+consider, for example,  ultra-filtration  of a solution  of protein,  so here assume  the  total
+rejection of the protein by the membrane and unrestricted permeation of the solvent. So this is
+ideal scenario. 
+So, at the membrane surface protein is separated from the solvent. The protein concentration
+gradient normal to the membrane surface is created, so due to which only the solvent is
+permeating. So, the protein concentration gradient normal to the membrane surface so, for
+example, here my protein as well as solvent is flowing so the protein gets retained in the
+membrane surface and your solvent is passing though permitting through, so if you see the
+bulk concentration in the feed and the concentration on the protein in the membrane surface
+so I will put it as Cp. 
+So,  between  Cp  and  Cb  so  there  is  concentration  gradient  is  developing.  The  protein
+concertation near the membrane is higher in the bulk of the solution is higher than in the bulk
+of the solution, so that means when the feed is flowing along with the membrane surface, the
+concertation of the retented from the bulk solution is moving towards the membrane surface.
+So over the time what happen is, the protein concentration near the membrane Cp is higher
+than the Cb.So,  the  distance  away  from  the  membrane,  so  this  situation  is  called  concentration
+polarization. So, Cb is having lower concentration than the Cp, Cp is near to the membrane
+surface. Cb is away from the membrane surface. So, due to this concentration gradient there
+is one point where Cp becomes higher than the Cb, so this is nothing but a concentration
+polarization.
+(Refer Slide Time: 18:56) 
+And  the  high  concertation  at  the  upstream  face  of  the  membrane  causes  the  osmotic
+backpressure, so if you remember the last class we told, so the solvent moves through the
+membrane from the higher concentration to lower concentration. So, what happen, so you are
+in  the  membrane  surface,  so  your  concentration  of  proteins  started  developing,  the
+concentration gradient started developing, so what happens? 
+The solvent is permeating back from the permeate side to retentate side, so that is the osmotic
+backpressure resulting in a back flow of permeate toward the retentate. So, this effect is not
+particularly  significant  in ultrafiltration  as  well  as  microfiltration  where the  retentate  or
+suspensions of solid particles or solution of substances with relatively high molecular weight
+hence low osmotic pressure. 
+Actually, so this concentration polarization is very much dangerous in RO, so because we
+told  that  there  retented  mostly  is  salt, the salts  has  high osmotic  pressure, so when to
+overcome that osmotic pressure when the backflow happens then that becomes issue, but herethe this effect is not particularly significant because retentate in this micro or ultrafiltration is
+suspension of solid particles or solutions of the substance with relatively high molecular
+weight solid. 
+So we need only less osmatic pressure only but that is not the case with the reverse osmosis
+where  salts  are  having  high  osmatic  pressure  compare  to  the  solid  particles  are  high
+molecular  weight  components.  The  concentrated  and  hence  highly  viscous  layer  at  the
+membrane interface constitutes and additional resistance to the flow toward the membrane. 
+So,  once  the  concentration  gradient  is  developing  in  the  membrane  surface  near  the
+membrane surface so it forms highly viscous layer because it is protein concentrate so at the
+membrane interface which constitute are additional resistance to flow, so it is stops the or it
+creates the resistance for the permeate through the membrane surface.
+(Refer Slide Time: 21:12) 
+So,  the  transport  of  solute  at  the  upstream  side  of  the  membrane  is  composed  of  two
+components in counter current to each other. The first one is solute transport from the bulk,
+bulk fluid toward the membrane surface, so that means Cb which is the bulk concentration;
+Cp is nothing but near the membrane surface. So the solute should transport from the bulk
+phase to near the membrane by virtue of flow of solvent enter the effect of transmembrane
+pressure difference. 
+Then the solute transport from the membrane interface towards the bulk under the effect of
+concentration gradient, so that is nothing but due to the concentration gradient there may be
+back-diffusion. So, if you see here this is so from what they were telling so from bulk
+concentration  to  near  the  membrane  surface  follows  the  convection  mode  so  solute  is
+transport from bulk concentration near the wall membrane where it is here it is told us Cw. 
+And then the second one is, the solute transport from the membrane interface toward the bulk
+under the effect of concentration gradient, so this is due to the solute transport from Cb bulk
+concentration away from the membrane surface to near the membrane surface is due to
+TMPD that is nothing but trans membrane pressure difference. The back diffusion of the
+solute  near  the  membrane  surface  to  the  bulk  is  due  to  diffusion.  So,  that  is  due  to
+concentration gradient. 
+This is what probably in last lecture we told, so the pressure gradient concentration gradient
+both affects the separation process here. So, at steady state at the local concentration does not
+change with time, so if the one steady state is reached, hence, the two effects must be inequilibrium. So, the back diffusion as well as the convection of solute form the bulk to
+membrane surface, so both are in membrane surface, so both are in equilibrium. 
+Assuming fix law further back diffusion the steady state condition can be written as follows
+so this equation. So, the fix law diffusion nothing but flux is minus D AB dC dx so this is
+nothing but diffusion coefficient. So, this is a concentration gradient and so here it is J into C,
+so J into C is nothing but a here this is convection process so flux into concentration, so
+fluxes in meter per second. 
+So your concentration is in KgF protein per meter cube of solvent, KgF protein per meter of
+solvent, so that means Kg per meter cube, so what you get is Kg per second per meter square.
+So that means so Kg per second is mass flow rate, per meter square is nothing but flux so this
+is mass flux. This is due to convection. The other side we told that, both are in equilibrium
+the other side it is minus D dC dx, because the diffusion process is govern here by fix law of
+diffusion minus D dC dx, so the C comes here so that D goes there because the flux divided
+by d 0 to delta, delta here is nothing but a boundary layer, boundary layer for diffusion. 
+So, dx equals to CW CB, CW is the concentration near the membrane, CB is the bulk
+concentration, dC upon C so if you integrate what you get is J is nothing but D upon delta.
+This is nothing but log C, CW CB. So this is J so this 0 to delta. So what you get is D upon
+delta so what you get is J equal to D upon delta log CW by CB. So this is D upon delta
+according to film theory, so what you get is here as mass transfer coefficient. 
+So, this is K, D is in meter square per second, so this is meter so this also comes as meter per
+seconds. So C get cancelled so J also meter per second so the unit is cancelled. So this is what
+the theory behind the concentration polarization and how to calculate the flux. Solvent flux or
+permeate flux. Permeate flux from the concentration of the retented near the membrane of
+surface and the bulk. (Refer Slide Time: 26:25) 
+So the next one is the gel Polarization, so what happens in the jel Polarization we will see. If
+the flux is increased that means the flux has to increase, then I can do it by transmembrane
+pressure difference. So CW increases accordingly resulting in increased resistance to solvent
+flow toward the membrane, so what happen here? the further I will increase the TMPD, so
+then it increases the flux then that is why CW, CW is nothing but concentration of protein
+near the membrane surface that increases and resulting in increased resistance to solvent flow
+toward the membrane. 
+So because of this getting, the layer is getting thickened and thickened, your solvent float
+through the membrane  is  getting decreased  and this explaines  at least the partially, the
+deviation of membrane filtration rate from the linearity. So, Normally what we have is with
+respect to TMPD, so I have the flux this is a J flux so the line is linear, so when you increase
+TMPD, the J also gets increase linearly so even gel polarization so that means the CW
+increases near the membrane it also effect linearity here. 
+Linearity between J and TMPD the concentration of the protein in the liquid layer adjacent to
+the membrane cannot grow above the limit of CG, so this is nothing but a gel concentration,
+at which layer becomes gel from this point on, the flux J cannot grow further and remains
+constant, independently often increase in pressure. 
+So, what we told? When we increase the transmembrane pressure difference, the J also
+increases linearly with TMPD, but there is a point where the concentration of protein near themembrane surface reaches CG. How much ever I increase my transmembrane pressure, my J
+nothing  but  a  permeate  flux  will  not  increase,  so  this  phenomenon  is  called  as  gel
+polarization.  The  gel  concentration  CG  depends  on  the  protein  and  also  the  operation
+condition and strength as well as temperature. 
+(Refer Slide Time: 28:47) 
+So, here I have taken the example of protein concentration but that may be true for other
+filtration as well as other materials as well. So this is nothing but a jel polarization, so this is
+what happens, so this is the gelation layer. So convection diffusion already you know CB, so
+this is near that it is nothing but CW, but now the CW increases the critical value of CG. So,
+there your permeate flux become constant is become constant, and then further increases in
+TMPD you will not see any increase, so this is nothing but linear line. Linear region so this is
+a transition and then after that your J becomes constant.(Refer Slide Time: 29:40) 
+So, the shape of the curved describing the variation of flux as a function of TMPD can be
+explained in the light of three modals the first one is linear modal where I told Darcy law, so
+this is what I probably told here, so this modal only applicable when you are having a linear
+line, so linear line in the sense J versus TMPD follows the linear line so there only you can
+apply the Darcy Law modal that is what the restriction I told there. 
+And intermediate flux segment which is nothing but deviation from the linearity due to
+gradual buildup of resistance as result of concentration polarization the high fluxes nothing
+but a saturation so this is an intermediate range, intermediate flux. So, the third one is the
+high flux where it is getting saturated, so the gelation, jel polarization is the reason for that sopractically constant flux, what it is? Independent of TMPD, even if you increase the pressure
+nothing happens to the flux. 
+For a given set of material properties KL, KL is nothing but the mass transfer coefficient
+whatever we have seen, that depends upon the tangential velocity so hence on the overflow
+rate through the module, so it depends upon the tangential velocity and the flow conditions
+which  is  nothing but tangential  velocity, turbulence  and the  system  property shape and
+dimensions of the flow channel and material properties which is nothing but a viscosity,
+density everything KL depends upon everything.
+(Refer Slide Time: 31:21) 
+So, these were few things we get to know before going to see different membrane process, so
+todays lecture we probably cover two, which is nothing but micro as well as ultrafiltration.
+So, here are the driving force for different membrane processes so based on the pressure we
+will have all four varieties, what we are concentrated on, particularly in food processing. 
+So pervaporation and gas evaporation separation also comes under pressure driven category.
+The concentration driven is membrane extraction as well as dialysis, and temperature driven
+membrane distillation process, electro potential electrodialysis, electro osmosis probably we
+are going to see little bit about electrodialysis as well.(Refer Slide Time: 32:11) 
+So, this gives you the overall picture, so the microfiltration, ultrafiltration, reverse osmosis,
+dialysis, electrodialysis, where it is used, what are all the membrane type, whether it is a
+symmetric membrane or what is porous nature, and what is the pore radius, pore radius
+already we have seen and the driving force so everywhere the hydrostatic pressure and
+dialysis it is a concentration, electrodialysis it is the electrical potential gradient. 
+And  method  of  separation  sieving  mechanism  due  to  pore  radius  and  absorption,
+microfiltration we already told because the protein concentration the sieving mechanism in
+ultra and reverse osmosis solution diffusion mechanism, and dialysis diffusion in convention
+free layer and electric charge of the particle and size in the case of electrodialysis. And
+microfiltration is used for sterile filtration and clarification. 
+So,  sterile  filtration,  the  separation  of  micro  molecular  solution  that  is  nothing  but
+ultrafiltration, separation of salt and micro solute from solution that is reverse osmosis, and
+separation  of  salt  and  micro  solutes  from  micro  molecular  solution  that  is  dialysis.
+Desalination of ionic solution is using electric field that is electrodialysis. Separation of gas
+mixture comes under the category of gas separation, but anyway we are going to concentrate
+only the first to five.(Refer Slide Time: 33:43)
+So, this is another in terms of the application which industry, if your product is dairy which
+one you choose and if your product is juice which to be choose, and gelation and corn
+sweetener, sugar this also very minimal product only I have taken. You can further refer the
+reference and additional source I am going to give you at the end of lecture. The application
+is milk concentration, whey concentration, whey fractionation these we are going see today. 
+And lactose concentration milk pasteurization desalinization everything  comes under the
+dairy processing. The milk whey and whey concentration and fractionation, we used RO and
+ultrafiltration, the lactose concentration also RO, but milk pasteurization microfiltration will
+be used nanofiltration will be used desalination as well. 
+So here, whatever we have seen the different modules like spiral or tubular or hollow fiber or
+one  more  is  platen  frame  we  have  seen  but  that  is  not  being  used  here,  most  of  the
+applications  spiral  membranes  were used. And membrane  here are the cellulose  acetate
+membrane,  which  type  of  membrane  we  used  cellulose  acetate  membrane,  and  TFC  is
+nothing but thin film composites.
+So, lot of research is also going on in the suitable membranes for the various applications, so
+this composite is now picking up the area, composite is nothing but instead of one single
+membrane, so we will have one membrane advantages as well as disadvantages. So to make
+this  disadvantages  into  advantages,  the  another  membrane  is  also  sandwiched  with  this
+membrane to give the premium quality, so that kind of thing is this thin film composite. So then polysulfone this is polyester, PE is nothing but polyester PVDF is nothing but, so
+polyvinylidene diester, then ceramic membrane you know that is all. So, here gives the,
+which product and which application and which range of filtration technique with which
+module and membrane material I will be using it. So this we are going to see mostly today
+the milk concertation as well whey concentration. 
+(Refer Slide Time: 23:38) 
+So, now microfiltration, so the microfiltration is alternative for dead-end filtration as well as
+centrifugation, so here you need to use lot of energy, but that is avoided when we use
+microfiltration  technique.  In  food  industry  microfiltration  is  extensively  used  for  the
+clarification of cloudy fluids so that means clarification of juices is the best example. So, the
+membranes with nominal pore sizes on the order of 0.1 to 0.5 micrometer or less produce
+permeates that are practically free of microorganism cells. 
+This is what we are told the cells and debris are retained in the microfiltration operation.
+Microfiltration is being increasingly used for purification of drinking water, and of water for
+the production of soft beverages, so here we need the ultra-pure water so there microfiltration
+technique is used. Food fluids clarified by microfiltration include clear fruit juices, wine,
+vinegar, beer and sugar syrups. So, the clarification operation can be done in fruit juices,
+wine, vinegar, beer and sugar syrups as well. (Refer Slide Time: 38:09) 
+Microfiltration frequently serves for the pre-treatment of fluids before ultra and RO. So here
+see the membrane process is nothing but a filtration process, so instead of directly going to
+ultra or RO here the pore size used is 0.1 to 0.5 micrometer. So, more than that, whatever the
+bigger size molecule gets retained in the microfiltration techniques so that is what it serves us
+the pre-treatment for the fluid before ultrafiltration and reverse osmosis. 
+So, for example, so instead of directly going for ultrafiltration, so if I do microfiltration and
+go for microfiltration my cells and debris get eliminated in the microfiltration itself. So, it is a
+pre-treatment for ultra and RO and removal of suspended particles and colloidal material by
+microfiltration is essential for reducing the rate fouling in subsequent ultrafiltration or reverse
+osmosis system. 
+So, as I told just now when you do this microfiltration operation unnecessary this large size
+molecule get eliminated here, but if it is goes directly to ultrafiltration, unnecessary fouling or
+it gets clogged in the membrane surface. So, that can be avoided if we used microfiltration
+before ultrafiltration or reverse osmosis. Oil droplets and particles of fat that is example is
+whey are also removed by microfiltration. 
+The  membranes  made  up of hydrophobic  polymers  such as  polyvinylidene  fluoride  are
+particularly suitable for that application, which application, oil droplets and particulates of
+fats. So, when we wanted to remove this so we suppose to used hydrophobic polymers, sowhich  is  nothing  but  polyvinylidene  fluoride,  so  that  as  membrane  we  can  use  in  the
+microfiltration technique. 
+And brines used in the manufacture of cheese and fish processing containing suspended
+solids and fats which must be removed before recycling or disposal of the fluid. So, this is not
+only used for the direct food processing but these techniques are used for the waste material
+which comes out of the food industry, because they have high biological oxygen BOD so the
+waste disposal it also contribute so that is the one example here. 
+Brines used in the manufacture of cheese and in fish processing contain suspended solids and
+fats which must be removed before recycling or disposal of the fluid, so before going for
+disposal so that should be removed, what is that, that brines. The suspended solids in the
+brines which is used for manufacture of cheese and fish processing. Other waste what is
+generated in food processing industry often require pre-filtration before further treatment as
+well as the disposal, there also microfiltration is used.
+(Refer Slide Time: 41:13) 
+The  next is  ultrafiltration,  so ultrafiltration  mostly in  the dairy  applications,  so UF  has
+become a major separation process in the dairy industry so this is very much important, so if
+you see here also so the ultrafiltration, whey fractionation so this also whey concentration
+also we used ultrafiltration membrane. So, most of the application goes to dairy industry. 
+The two largest areas of application are the pre-concentration of milk for cheese manufacture
+as well as the protection of protein concentrate from whey, so this is a major two applications
+we are going to see for the ultrafiltration. The both applications are related to cheese making
+processes  only. So, if we see raw caw  milk, I think we have discussed this  in aseptic
+processing as well I guess, the 3.5 percentage protein and 4 percentage fat and 5 percentage
+lactose, 0.7 percentage inorganic salts and remaining 87 percentage is water, the raw caw
+milk composition. (Refer Slide Time: 42:26) 
+And in the traditional  cheese making  process, what happens is? The milk  usually  after
+adjustment of the fat content if any adjustment needed and after pasteurize, it is coagulated
+through combination of lactic acid fermentation or enzyme reaction. So, any one of the
+technique it is coagulated. After cutting and temperature adjustment the coagulated mass
+separates into solid particles which is called curd and suspended liquid which is called whey.
+So, the curd contains major milk protein-casein and most of the fat the curd, the curd part
+contains the protein-casein as well as the fat part. 
+The whey is essentially a dilute aqueous solution lactose minerals salts and non-casein milk
+portions that is nothing but lactalbumins and lactoglobuins, so these are milk proteins in the
+whey. And the curd is subjected to various methods of treatment like cutting resulting in the
+vast variety of different cheeses. And the whey whatever is left out that is mostly used for the
+further processing or most of the time process a west that is where I told but the treatment
+process would be little bit expensive because it has high biological oxygen demand. 
+So, this is the traditional cheese making, after the pasteurization of milk we will coagulate
+using any of the lactic acid fermentation technique or enzymatic reaction then two things are
+separated curd and whey. Curd is containing milk protein-casein and fat and whey contains
+aqueous solution of lactose minerals salts and non-casein milk proteins so the curd is further
+process cheeses and whey is thrown out or sometimes used for further treatment as well. (Refer Slide Time: 44:24)
+But in ultrafiltration, how we do this? Ultrafiltration milk retains the fat globules and the
+proteins in the inorganic salts and the lactose along with some of the water but partially
+removed as permeate. So the same as that of traditional cheese making process. But the
+difference is, the resulting retentate is partially concentrated milk with reduced lactose and
+mineral content and also the concentration ratio is often three to fivefold. 
+So, that is the advantage. So further reduction of lactose or mineral contain is desired then the
+retentate  is  diluted  with  water  again  and  ultrfiltrate  once  again.  So  this  we  call  it  as
+diafiltration. And the pre-concentrated milk is mainly used in the manufacture of many types
+of cheeses, so the concentrated milk whatever we got here so that is used in the cheese
+making process. (Refer Slide Time: 45:45) 
+So, the advantage with respect to traditional making is the increasing yield probably because
+of the inclusion some of the noncasein proteins in the curd, so here we told in the traditional
+cheese making non-casein milk proteins goes into whey. But when we use the ultrafiltration,
+so this also gets with the curd part itself and low energy consumption compared to normal
+cheese making process and reduced volume of whey that is what I told. So here almost 90
+percentage goes as a waste in the traditional cheese making process, but that volume gets
+decrease when we use the ultrafiltration.  
+(Refer Slide Time: 46:10) 
+The fractionation whey, this is another application which is done using ultrafiltration. The
+whey contains the major part of the noncasein proteins, so the curd is taken and it goes for
+further cheese making process. The removed way further we used fractionation and technique
+using  ultrafiltration  membrane.  So  whey  contains  the  major  part  of  noncasein  proteins
+together with low molecular solute which include lactose as well as mineral salts. 
+So, ultrafiltration of whey produces the valuable whey protein concentrate as the retentate
+and protein free permeate containing mainly lactose as well as minerals. The retentate is
+usually concentrated further by evaporation or sprayed. And the whey proteins find extensive
+used in the manufacturing of cheese and a considerable array of food products in a health
+food specialist. So that means the whey protein further fractionating the whey using UF so we
+will get whey proteins. So that is further used for manufacturing of cheese as well.
+(Refer Slide Time: 47:16)
+So, this is the flow chart where your microfiltration is first used here pretreated as well as
+pasteurize whey it is fed into the microfiltration, so which gives you fat curd residues and the
+whey further goes to ultrafiltration, so we use diafiltration water here if it needed second time
+it is ultrafilter. So, here what we get is ultrafilter permeate to lactose recovery it goes further
+purification  concentration  as  well  as  spray-drying.  So,  whatever  we  get  out  of  the
+ultrafiltration is nothing but whey protein concentrate.(Refer Slide Time: 47:55) 
+The other application of ultrafiltration includes clarification of clear or micro filtered fruit
+juices and also if appropriate membranes are used so this ultrfiltrate juices are practically free
+of microorganisms. So this is very much important this we call is as cold pasteurization or
+cold sterilization so based on the microbial load we can reduced cold pasteurized juices. So
+this is especially, juices are, actually this is best alternative to thermal processing, but thermal
+processing your nutrients also get damaged, but here your nutrient values is retained that is
+advantage. 
+So,  if  appropriate  membranes  are  used  then  we  can  cold  pasteurized  as  well  using
+ultrafiltration. The uses of ultrafiltration for the concentration as well as fractionation of plant
+protein extracts are also suggested. So, that is nothing but a plant protein concentration as
+well as fractionation. Ultrafiltration potentially useful in the process of isolated soybean
+protein production, so this is another important application of ultrafiltration and this process
+defatted  soy flour  is  extracted  with the water at high pH. The aqueous  extract  is  then
+concentrated by the ultrafiltration.(Refer Slide Time: 49:23) 
+The flowsheet is here, so we have defatted soy flour with water and alkali, so that is pumped
+into decanter, based on the density it removes the concentrated part, so that is nothing but
+high density part, then it further pumped to the microfiltration, then further ultrafiltration, so
+here we get the permeate  as  a waste. And the further  processed with the  ultrafiltration
+membrane using diafiltration water, so here we get the soy protein extract to precipitation and
+the permeate goes as a waste. So this is the soy protein extract for further precipitation. 
+(Refer Slide Time: 50:04) 
+And also the other application also includes sugars and other low molecular weight solutes,
+maybe also partially removed by repeated steps of dilution and diafiltration which producespurified as well as the soy protein extracts for further processing. And ultrafiltration also used
+commercially as an alternative to evaporative concentration in the production of gelatin, so
+this are also included in the ultrafiltration applications.
+(Refer Slide Time: 50:49)
+So, here I will stop today’s lecture. Then we will discuss about two techniques which is
+nothing but Nanofiltration and reverse osmosis in next class. And these are all resources and
+additional references what I have used in this lecture. Thank you. 

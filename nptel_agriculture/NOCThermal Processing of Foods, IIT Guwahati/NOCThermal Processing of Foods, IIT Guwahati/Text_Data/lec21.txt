@@ -1,0 +1,412 @@
+Thermal Processing of Food
+Professor R. Anandalakshmi
+Department of Chemical Engineering
+Indian Institute of Technology Guwahati
+Lecture 21
+Various Types of Heat Exchanger for Food Process Engineering
+Good morning all. So, today we are going to discuss about various types of heat exchangers
+which are used in the food process engineering or food process industries. So we go a little
+introduction about the heat exchangers and what how to design a heat exchanger? And what
+are all the applications of heat exchangers in food process industries? And main type of for
+heat exchangers we are going to see in this particular lecture.
+(Refer slide Time: 1:01)
+So the heat exchangers are devices for the exchange of heat between two fluids separated by
+a heat conducting partition. So this is nothing but a wall, right? Two fluids we have a hot
+fluid as well as cold fluid. So mostly cold fluid is here is you are a liquid flow food particle,
+sometimes  with the particulate solids. Heat exchangers are extensively used in the food
+industry for heating, which is nothing but pasturizers, and cooling chilled water generators
+and heat induced phase change, so which is nothing but a freezing and evaporation. 
+So this evaporation we have seen in the membrane separation as well to concentrate the food
+material, right? So then each one of the fluids may be confined or unconfined stagnant or
+flowing. So, depends upon the heat exchanger we use, so each one of the two fluids may beconfined or unconfined, stagnant or flowing. The partition is a heat conducting solid wall
+usually made of metal to give high thermal conductivity. 
+The design of a heat exchanger usually involves two main domains namely thermal analysis
+and hydraulic calculations because the heat exchanger, the food is liquid food right? So, if
+you  remember  in  our  aseptic  processing  calculations  I  told  the  same  thing  because  in
+continuous thermal processing. So, we need to take care of the hydraulic calculations as well
+as the thermal analysis heat transfer as well as fluid flow. 
+(Refer slide Time: 2:37)
+So, here is one example so this is a solid wall these two are solid walls right the heat is given
+here in the solid wall. So, the temperature here TA in the outside of the wall and TB in the
+other side of the wall, and the wall temperature is T1 and this side it is T2 and the h1 is
+nothing but a heat transfer coefficient h2 is a heat transfer coefficient in the other side, right?
+So, this is the ambient maybe we can consider, so this is also ambient or you can consider
+here maybe another fluid there, right? 
+So, now if we want to write q the heat balance q is nothing but A, TA minus TB, so flux
+which is nothing but a Q upon A, Q upon A is nothing but heat transfer rate upon area. So
+heat transfer rate is nothing but in watts and area is in meter square, so this watt is nothing but
+joules per second. So, that means heat transfer rate per meter square which is nothing but a
+heat flux. Heat flux can be written as a thermal gradient because in heat transfer it is a
+thermal gradient, any flux can be written as a gradient upon resistance okay? So, in heat transfer it is a thermal gradient, the R we are going to write, so R if you see, so
+this is the h1, h1 is nothing but heat transfer coefficient, convective heat transfer coefficient,
+and this is nothing but a solid-solid material.  For example, this is the wall of the heat
+exchanger, so this is the wall of the heat exchanger, this side one fluid resides, the other side
+of the wall another fluid reside, so instead of ambient you can take an example of heat
+exchanger itself.
+So, this is the heat exchanger wall, so one fluid resides this side, another fluid resides that
+side. So, the h1 is the heat transfer coefficient of this particular fluid A and h2 is the heat
+transfer coefficient of fluid B and the temperature T1 is at the wall, near the fluid A side, T2
+is the temperature in the wall near the fluid B side, right? So, TB is a temperature of the fluid
+B and TA is the temperature of fluid A. So, I have basically three resistance, one on the fluid
+A side another on the wall and another on the fluid B side, right?
+So, I can combine them one upon h1, because there h is nothing but a heat transfer coefficient
+resistance is one upon conductance, so then your conductive resistance is nothing but X upon
+K, X is nothing but a thickness of the wall, okay? So, that I am taking as a X, so X upon K
+plus 1 upon h2, right, so this is the resistance, right. So, here the T is in Kelvin, right, so the 1
+upon h is watt per meter square Kelvin, so your X is meter, K is watt per meter Kelvin. So,
+this is 1 upon watt per meter square Kelvin, so which is nothing but K upon 1 upon if the
+meter comes here it is 1 upon meter.
+So, this also 1 upon watt per meter square, 1 upon watt per meter square Kelvin, so this goes
+above so which is nothing but K K get cancelled so this also will become watt per meter
+square watt per meter square unit is cancelled. So, I can write my Q as A TB minus T, TA
+minus TB, divided by one upon U so this one upon U is nothing but 1 upon h1 plus X upon
+K. So this is a conductive resistance this is convective resistance plus 1 upon h2 this is also
+convective resistance. 
+So if you write q is equal to UA, TA minus TB is nothing but del T, so U is nothing but
+overall heat transfer coefficient AC area, del T is nothing but temperature difference between
+the fluids TA TB and Q is nothing but heat transfer rate. So, if you remember we have done in
+the pasteurization plate a type heat exchanger problem, we have also calculated number of
+plates required for the heating. So, if you remember we have taken the U, the milk side heat transfer coefficient in heating
+cooling as well as the regeneration there we have taken around approximately thousand watt
+per meter squared Kelvin. So, if your fluid A is liquid and fluid B is liquid in the plate heat
+exchanger type you are used around thousand to three thousand watt per meter squared
+Kelvin. 
+So, that is what it is given, so based on the fluid, for example, if it is a gas gas in tubular heat
+exchanger, so your heat transfer coefficient 5 to 50 watt per meter squared Kelvin. So, if you
+remember the same pasteurization lecture, I also told in the pasturizer or sterilizer, you should
+not keep the air packets because air is a very low conductive medium. So, you can see from
+here the liquid if you have a fluid A as a liquid, fluid B as a liquid you are overall heat
+transfer coefficient is thousand around thousand watt per meter square. 
+So, if you have a gaseous heat exchanger so your overall coefficient is 5 to50 watt per meter
+squared Kelvin. So, if you have air packets inside the sterilizer or the pasteurizing unit, so
+that will lead to high temperature difference between the food material, so that leads to
+contamination. So this is the reason we need to avoid air in sterilizing operation, okay? 
+(Refer slide Time: 9:01)
+So, in introduction in continuous heat exchangers both the fluids are in movement, right? So
+mostly the heat exchanger we use for continuous flow. In continuous a heat exchanger both
+fluids are in moment. There are three main types of flow patterns, one is parallel counter
+current and cross flow. So, one example would be this one, so this is a counter current,counter current, your hot fluid is coming in and going this side and your cold fluid is coming
+here so and leaving this side of the heat exchanger.
+So, this is the counter current. Co-current means your fluid, hot fluid as well as cold fluid hot
+fluid hot out hot in, so you are cold in and cold out, right? Cross flow is nothing but so you
+are hot fluid and hot fluid out. So, this is inside the tube, through your cold fluid will be
+perpendicular to a hard fluid direction. So, this is nothing but your cross flow, okay? So this
+is counter current flow, this is co-current flow. Parallel and counter flow are most common in
+liquid liquid as well as liquid to condensing vapour heat exchange. 
+So, this condensing vapour is nothing but you use the phase change heat to heat the liquid.
+For example, if you take heating the food material most of the time we have seen heating
+medium as a steam, right? So this is cold in cold the fluid in and a cold fluid out, so if you see
+in the latent heat exchange. So, there will not be any temperature difference so this is a steam
+temperature hot in and hot out, so there will not be any temperature difference in the steam. 
+So, it is a parallel as well as counter current flow or most common and liquid liquid or liquid
+to condensing vapour heat exchange, right? And cross flow exchange is particularly common
+for heating or cooling the air, so that is gas gas heat exchanger we have seen, right? So, there
+cross flow is mainly used. As a result of flow the temperature of each fluid and therefore, the
+temperature drop for heat transfer may change from one point to other point in the exchanger.
+(Refer Slide Time: 11:56)
+So, this is where the concept of log means temperature difference has come so LMTD. So if
+you remember in all the calculations we have used q is equal to UA Del Tm, all right? So this
+is nothing but log mean temperature difference, so what does it mean? So, it means so I am
+putting this as a wall. So, here is your hot fluid in, so here is your hot fluid out, so cold fluid
+in, I am taking co-current flow and a cold flow it out, okay? 
+So, if you make it in terms of X versus, distance versus temperature so that Thi Thout. So this
+is in, so the this is TC in and TC out, okay? So, if I take a particular area, so this would give
+me Th in and Th out so the same way for this particular area, TC in and TC out okay? So this
+Th in minus TC in we call it as a del Ti, so this we call it as a del Tem okay?
+So, then finally the derivation of LMTD I am not going to do because that is not in the
+syllabus of this particular course. But I would like to tell you that if you really wanted to
+know in depth of why we need to calculate logarithmic mean temperature difference, how to
+derive that, you may refer some of the books given in the reference okay. So, the final the del
+Tm, how do we write this which is nothing but del Ti minus del te. 
+So, this is Inlet, this is exit. I divided by lon of del Ti divided by Del Te. So, why we are
+taking mean temperature difference? Because the throughout that distance my delta T is
+varying. So, I cannot take one particular delta T. So, if you see here so this is the delta T here,
+so it is there delta T here, okay. So, it is varying along the length of the heat exchanger that is
+the way we take mean temperature difference, logarithmic mean temperature difference.
+And also remember here I have taken U is constant along the length because though my
+temperature is varying, my overall heat transfer coefficient is constant. So, from this I will
+calculate the log mean temperature difference, then substitute in the q formula which is
+nothing but UA del T. Here you can substitute your U and Q you will be able to know, Q is
+nothing but for hot fluid, mass flow rate of hot fluid, CP of hot fluid and del T del T in the
+sense Th in minus Th out okay.
+So, if you write for cold fluid it is a mass flow rate of cold fluid CP of cold fluid, this is TC in
+minus TC out, okay. So, remember one hot fluid loses heat losses heat and cold fluid gains
+the heat. So, this is the way we calculate and design the heat exchanger right. So, if I want to
+know how much heat transfer area is needed to heat my fluid the food or liquid food. So, I
+will get to know from Q by U del Tm.So the Delta if I know Inlet outlet temperature if I know flow configuration whether it is a
+counter flow or cross flow or co-current flow, then I will be able to calculate my del Ti, del Te
+and from there I will calculate the log mean temperature and from the log mean temperature.
+I will be able to calculate the area provided U is given, and q I will be able to calculate from
+mass rate of the hot fluid, this is mass rate which is nothing but in kg per second or hour so
+this is kilo joules per kg Kelvin so this is in Kelvin.
+So, this Kelvin Kelvin gets cancelled, kilo joules per hour, so you if you convert into joules
+kilo joules per second so that is nothing but kilo, so what I told you is here, this is also in
+watts, right? So, unit, you can calculate the Q and substitute in the formula so that is the way
+you design the heat transfer area for liquid to food to be heated in the heat exchanger.
+(Refer Slide Time: 18:20)
+So, then intro about the heat exchanger, why we need to study? An improvement in quality is
+one of the main driving forces behind the development of continuous heat processes. So the
+liquid, semi-liquid products such as milk juices and sauces suffered from over processing in
+traditional  low-temperature  long  time  of  an  in  container  or  batch  processing.  Batch
+processing in one of the lectures also we have discussed an enormously so I just to put it and
+forget it. For example, if you see the temperature for the pasteurization 63 degree centigrade
+about 30 minutes. 
+So, this causes the lower processing, so due to which the continuous process came into
+existence. So caramelized two flavours poor colour retention and a lack of a reproducibleproduct where all the problems associated with the products processed by batch method. So,
+to  overcome  these  disadvantages  then  to  keep  product  safety  in  mind  the  continuous
+processing approaches were developed. 
+(Refer Slide Time 19:27)
+The achievement of safe products by a thermal processing is based upon the theory behind
+the destruction of microorganisms. So why we are thermal processing it the, for the reason
+for destruction of microorganisms. The products must be heated to a set temperature for a set
+time in order to achieve a commercially sterile product, in continuous heat processing also
+called continuous flow processing, the product is thermally processed before being placed
+into an appropriate container on a continuous basis through a heat exchanging plant. 
+So, the main part of the continuous thermal processing is nothing but a heat exchanger, okay.
+So, the heat exchanger apparatus will be used to for both heating as well as cooling, cooling
+phase of the process, this we discussed in our earlier lectures itself, so heating as well as
+cooling  and  if  you  see  in  the  aseptic  process,  regeneration  also  in  between  heating
+regeneration and cooling. (Refer Slide Time 20:39)
+In continuous system the foods under consideration are liquid or Semi-liquid products which
+may be pumped through a system heated and cooled while continuously flowing down the
+process line a wide range of products are processed by this method that means the continuous
+flow process, either the main process to achieve a safe product. 
+The main process itself a heat exchanging process which is nothing but ultra-heat treated or
+ultra-high temperature are a step with enough further processing the heat exchanger may be
+used as an intermediate step to heat. The fluid or the main process itself a heat exchanging
+process which is happening in the ultra-high temperature or even aseptic processing. 
+The  three  main  types  of process  are suitable  for continuous  flow  processing or aseptic
+systems, which is high and low acid foot and hot fill systems, pasteurization process so
+everything comes under this continuous flow process category. Aseptically packed products
+or process two temperatures that will render the product commercially sterile, so aseptic
+processing we have already seen in maybe three lectures I guess.(Refer Slide Time 21:54) 
+So then heating applications so this also we have discussed if it is a high acid products such
+as juice can be processed at pasteurization temperature to destroy the microorganism that can
+cost the spoilage of the product. There are then rapidly cool to reduce the loss of volatiles
+within the product also to reduce the contamination of thermophilic bacterias, right, because
+when you slowly cooling there may be a chance for the recontamination. So the cooling is
+done very rapidly and filled into a presterilized pack under sterile conditions. 
+So hot acid products we do pasteurization and a packet under sterile conditions in a sterilized
+packaging the low acid products which undergo same principle. However, the temperature
+employed is much higher to and should no survival of the pathogenic bacteria. So that is why
+we go for a sterilization the temperature applied here at 125 to 145 degree so allowing for
+much shorter holding times and promoting a higher quality product. The continuous flow
+processing system can also be used in a hot fill processes for high acid products again hot fill
+processes for high acid products that would otherwise lose product quality through slow
+cooling methods. (Refer Slide Time: 23:14) 
+And high acid choices again high acid food comes under pasteurization category. They are
+filling directly into suitable containers using the heat of the product to decontaminate the
+packaging. So sometimes this also tried so this method is this method allows a much quicker
+throughput than a typical batch process would offer the high acid certain high acid foots
+pasteurized and filled in the normal containers not in a sterile containers. 
+So the product heat itself further decontaminate the packaging so this also another heating
+applications.  Where  heat  exchanging  systems  are  used  and  pasteurization  of  low  acid
+products that will then be cooled and held under chill the conditions so this is where we do
+not so we need to refrigerate them, even low acid products, so pasteurized milk juices soups
+everything comes under this category. 
+(Refer Slide Time 23:17) 
+This processing step extends the shelf life and ensures the safe product the product must be
+chilled to maintain its safety and quality throughout the shelf life shelve lives up to ten days
+can be achieved for some products. So these are all some of the heating up applications
+furnace high acid products which are pasteurized and part-owner sterilized to packaging
+under sterile condition low acid products which are to be sterilized to kill the pathogenic
+bacteria and hot fill processes. Where high acid products are processed and these high acid
+products are processed and filled in the packaging.So  that  temperature  of the  products  itself  will  take  care  of the  decontamination  of  the
+packaging system then further pasteurization of low acid products. Here we did sterilization
+so if you do pasteurization that has to be chilled to extend the further shelf life, okay. So,
+although heating vessels are cooking kettles by definition heat exchanges, so whatever we use
+in day-to-day life those also called as a heat changer. Because the heat exchanger is one
+which  exchanges  the  heat  right  through  a  solid  one  they  themselves  cooking  kettles
+themselves as a heat exchanger.  
+Even one of the lectures I mentioned whatever we do in normal day-to-day process which is
+nothing but a pasteurization of milk. So, whenever we are heating the milk we are doing
+pasteurization but that is not the case with the industry they have to handle the large volume
+and  they  have  supposed  to  store  and  distribute  for  further  use.  So  in  that  case  GMP
+regulations were to be followed right good manufacturing practices to be followed. 
+Here also the heat exchangers, cooking kettles also by definition heat exchangers but the only
+continuous inflow heat exchangers which are used in the food processing industry which we
+will be discussed in this lecture. Because of strict sanitary requirements, right, so only a few
+of the many heat exchanger types utilized in the process industry are suitable for food
+applications. 
+So the same thing I will be telling in the dryers as well so we are also going to have a lectures
+on dryers various dryers used in the food processing industry there. There are lot of dryers are
+there and even normal chemical industry also uses various dryersm but these dryers which are
+used in food industry should be hygienic, right. 
+The dehydration plant should be contamination free for the dryers to be used in the food
+industry the same thing here. Even though there are lot many varieties of heat exchangers are
+available  in  the  processing  industries.  But  food  processing  industry  strictly  follows  the
+sanitary requirements so because of which very few types of heat exchangers are used. (Refer Slide Time: 27:06)
+The first one is tubular heat exchanger the simplest representative of this group consists of a
+pair of concentrating tubes for ease of cleaning the food product usually flows in the inner
+tube and the heating or cooling medium in the outer annular space. The variation of this type
+is the triple tube right, so which has three tubes as a concentric tube, in the middle tube your
+product would be flowing the other two inner and outer tube your heating and cooling
+medium. 
+If it is a heating process it is a heating medium, if it is a cooling process it is a cooling
+medium the product is fed into the middle tube and the heating or cooling medium to the
+inner and outer tube which provides the heat transfer areas on both side of the middle tube.
+So, if you have a tube in concentric double pipe heat exchanger, so you will have the hot fluid
+flowing in here, so if you have one more tube. 
+So probably we will see in the here, what is tube in tube, as well as tube in tube in tube heat
+exchanger. First, we will see the theory. So, the product is fed to the middle tube and that
+heating and cooling medium to the inner and outer tube thus providing heat transfer areas on
+both side of the middle tube. The calculation of overall heat transfer coefficient for this type
+of equipment is more complex.
+So, whatever I told here so here fluid is flowing other side of the wall one heat exchanger
+wall is there one fluid is flowing this side another fluid is flowing this side. So that is the way
+we calculated the overall heat transfer coefficient but if you have a three tubes. Then youneed to further calculate the heat transfer coefficient that is not that easy or straightforward
+method to calculate the overall heat transfer coefficient for the triple tube heat exchanger than
+the double tube heat exchanger. 
+(Refer Slide Time 28:59)
+So the next one is shell and tube the tubular heat exchanger consists of a bundles of parallel
+tubes inside a larger cylindrical jacket. Again the product is fed into the tube side, so in a type
+of tubular exchanger known as a Joule effect heater. The tube wall is electrically heated, so it
+is not to be necessarily the cold fluid will be heated through the hot fluid, so here in the
+certain type of tubular exchanger which is called as a Joule effect heater. 
+The tube wall is founded with the electrical coils, they can be heated electrically as well the
+tubular heat exchangers are particularly so trouble for heating or cooling highly viscous
+products. Where relatively high pressures must be applied or therefore, heat realized foreign
+bulk inflow sterilization of the products containing solid particles and for the heat treatment
+of cooling of tomato paste prior to aseptic processing. 
+So, these are used to for bulk inflow sterilization of the products which has certain solid
+particles  as  well  or  for  the  heat  treatment  of  cooling  of  tomato  paste  prior  to  aseptic
+processing. So that means high viscous, high viscous liquid food or so they can also be used
+with the liquid food with the solid particles, food with solid particles. So, the tubular heat
+exchangers are also the heat transfer component in tubular evaporators. (Refer Slide Time 30:47)
+So, here is what your double pipe heat exchanger so which is nothing but a tubular heat
+exchanger. So your hot fluid goes in here or you can say your liquid food material is inside
+the tube liquid food. So, your heat medium or heating medium in terms of heating or cooling
+medium in terms of cooling flows this side, heating or cooling medium, okay. 
+So, this is the shell and tube, shall and tube, this is the shell and tube heat exchanger where
+number of tubes. So, if you see number of tubes are put together in a bundle, so then the shell
+side your normal heating or cooling medium will be flowing. So this is heating or cooling
+medium, heating or cooling medium, so this is heating or cooling medium, so inside the tube
+your food material is flowing. 
+So, this is where in the industry where tubular heat exchanger looks like, right. And one more
+thing what we have seen the triple pipe is, right. So triple pipe is something like this, right?
+So we told so the inner pipe as well as the outer pipe, right? So in the both places your
+heating or cooling medium is flowing in the middle of the pipe, in the middle pipe so your
+liquid food is flowing. 
+So, this is tube in tube in tube heat exchanger. So, this is shell-and-tube, this is tubular
+exchanger, which has two concentric tubes. So, this is scraped surface so we will see about
+the theory and come back. So, this is a clear, right, like shell and tube as well as tubular
+exchanger. This is the basic types, so in the tube your liquid food material is going, so other
+tubes you are, or tube or shell side you are heating or cooling medium is flowing. So, it is not necessary I need to heat or cold my liquid food with the hot fluid or cold fluid.
+So, there may be electrically wounded tubular exchanger also there, so in that case it is called
+as Joule effect heater. And these shell and tube heat exchangers are used or tubular heat
+exchangers are used to for liquid food which contain solid particles as well as the high
+viscous liquid food also can be handled in the tubular heat exchangers. 
+(Refer Slide Time: 34:06)
+So, the scrap the surface heat exchangers, so which has a, they consist of a jacketed cylinder
+equipped with the central dasher with scrapping blades, so that is right here. Here, so this is
+your jacket so in the middle you have a rotor right so the rotor has blades. So this is the sideview, so this is blades, so this is a rotor, so at this place your liquid food with the high amount
+of solid particles stays there okay. 
+So  they  consist  of  a  jacketed  cylinder  equipped  with  the  central  rotating  dasher  with
+scrapping blades. So they can be horizontal or vertical the product is fed into the cylinder
+they rapidly rotating the rotating speed is about 600 to 700 rpm and they spread scraps and
+moves the product as a film over the wall the heating or cooling medium is fed into the
+jacket. So here you have your heating or cooling medium. 
+So, these rotors helping the products because it has high amount of solids  because the
+scrapped surface heat exchanger is mainly used to for high viscous fluids or liquid food
+contains  a large amount of solid particulates. So, for this application only the scrapped
+surface heat exchangers are used so in that case. So, these blades are helping the solids liquid
+food with the high amount of solids to form a film layer near the jacketed one in the other
+side of the jacketed one you are heating or cooling medium is flowing. 
+So, the scrap surface heat exchangers are used to for heating cooling highly viscous fluids
+and for slush freezing the continuous ice cream freezes  and slush freezes  or essentially
+scrapped surface heat exchanges with the refrigerant evaporating in the jacket. So one thing is
+as I said earlier, it need not be always hard fluid or cold fluid here the refrigerant is also used
+as a heating or cooling medium because it gets evaporated the less temperature okay. 
+So the scrapped exchanger is an expensive piece of equipment both in price as well as in
+operating cost because it has got many moving parts. So the exchanges are expensive. (Refer Slide Time 36:45)
+So the next one is very important heat exchangers in the food industry so it is almost came
+into existence in 1923. And in most of the pasteurizing or a aseptic processing the plate type
+heat exchangers are used. So the plate type heat exchangers are well established method for
+processing homogeneous products of low viscosity making them ideal for use within dairies,
+mostly in the pasteurization or aseptic processing of milk. The plate heat exchangers consist
+of a series of plates connected on a frame. The product and heating or cooling media flow in
+alternate channels in thin layers to provide good heat transfer conditions.
+So, I have a plates one side my hot fluid is flowing other side cold fluid, other side hot fluid
+other side cold fluid. So this is the way the alternative channels are arranged. The plates are
+sealed by elastic sealing gasket cemented into a perforated groove, right? So generally the
+plates are of polished stainless steel which is of about 0.5 to 1.25 mm in thickness separated
+by 3 to 6 mm right.
+So, these plates are of stainless steel, the thickness of them is 0.5 to 1.25 mm they are
+separated by the distance 3 to 6 mm, okay. So, these plates are separated by 3 to 6 mm and
+they are sealed by elastic sealing gasket cemented into a perforated groove, so this we will
+see in picture. So, the surface of the plates is usually corrugated in order to increase the area
+available for heat transfer as well as enhance the turbulence present in the system resulting in
+a high thermal efficiency. So, these are corrugated to promote mainly the turbulence and also
+sometimes it also gives the strength to the plates which are stacked together okay. (Refer Slide Time 39:01)
+So, the thermal regeneration can in the plate type exchanges as we have seen in many of our
+lectures. The thermal regeneration is possible which can lower the energy cost substantially,
+then narrow gaps mean that the units are best suited for low viscosity homogeneous products
+because the gaps between the plates are very-very narrow. 
+So, we cannot handle the liquid food with the large amount of particulate solids because it
+gets in between the plates and further fouling can occur. So attempts to process particulate
+products, which is example is nothing but the fruit juices with the pulp, right. That cell may
+result in blocked channels and eventually blown plates due to the pressure imbalance between
+the product and the media sides of the plates. 
+So, for this reason only products with less than 10 percentage particulate content or normally
+recommended, when processing with plate type heat exchanger, so this has to be kept in
+mind, so we cannot process the liquid foot with more than 10 percentage of the particulate
+content. And the regeneration is possible in plate type heat exchangers which lowers the
+energy cost. 
+And there are many variations of the plate type heat exchanger. So, how to take care of each
+and every plate? And which type of groove should be there and based on the product we can
+select them, so which way we want the plate type heat exchanger to be designed. (Refer Slide Time 40:35)
+So, here we see, so this is the plate type heat exchangers looks like. So this is your upper bar
+so, this is your head plate, head plate in the sense header and this is the follower, right? So in
+between the header and follower your plates were arranged. So, as I said so here your hot
+fluid is flowing and here your hot fluid is flowing, here your hot fluid is flowing, so there is a
+mechanism which transfers this hard fluid to here and so here your cold fluid is flowing,
+right. 
+So that means so this flows through the plate, okay, so this is the lower bar this is upper bar.
+So, in which there are two mechanism one is the plates you can remove via bars or it can be
+hanged in the bar, so if it is hanged in the bar it can be easily taken out because one of the
+advantage for this plate type heat exchanger is this is a module type, right, so in future if I
+want to increase the protection, so I can just add one more module in the plate type heat
+exchanger. 
+So, in that way the module can be easily added or removed based on the need of the process
+industry, so that  is  the  way we have seen number  of plates  requirement,  right?  So for
+regeneration section how many number of plates or heating section how many number of
+plates, or cooling section how many number of plates, so we have estimated as a number of
+plates in the each section. 
+So, in that way the plates can be hanged or the plates can be welded in the bar so that it can
+be removed in the later stage, but hanging would give me advantage if I want to remove oradd the plates. And so this is the plate package and this bolts so this will come here, so to
+stack the plates, right? To keep them intact between the header and follower, so these are
+various categories of plate configuration.
+(Refer Slide Time 42:30)
+So, this configuration is washboard, so this is zigzag and this is chevron or herringbone, the
+(c) type, the (d) type is protrusions and depressions and (e) type is washboard with secondary
+corrugations and (f) is oblique washboard. There are different varieties, right. So, that is what
+I told, so when the fluid is passing through, so it is designed in such a way to increase the
+heat transfer and to give further turbulence to the, turbulence to the fluid, okay. So, that is the
+way it increases the heat transfer. (Refer Slide Time 43:21)
+And if you compare your shell-and-tube module and plate module this is the way it looks like
+so in that way it is very compact compared to shell and tube heat exchanger. 
+(Refer Slide Time 43:33)
+So, the advantage wise the capacity can be increased or decreased by adding or removing
+plates, this I already discussed, so that flexibility I have in the plate type heat exchanger, the
+sanitation by opening the stack both sides of the entire exchange area are made accessible for
+cleaning and inspection. So, it is just the plate, in the plate the fluid is flowing, so I can
+remove the plate very easily and clean them and inspect them when needed right. So, the sanitation wise it is very much advantageous and high heat transfer coefficient, due to
+increased turbulence in the narrow flow channel. That is the way the corrugations were made
+and a compact heat exchange surface to volume ratio is very high. So, that is the way it is
+compact. On the other hand, disadvantage sight, it is a narrow size of the flow channels
+results in high pressure drop and limits is used to only low viscosity fluids, which does not
+contain large suspended particulates. This is the disadvantage and also their need for gaskets. 
+(Refer Slide Time 44:43)
+Gaskets in the sense, so here if you see in this, so this is nothing but an gaskets okay. So,
+which prevents the further leaking of the fluid, right? So the need for gaskets is very much
+disadvantageous one. As I discussed there are many improvements made in these kind of heat
+exchanges. For example, there is something called double plate security system. So that
+means the both the plates where welded and formed as a channel then after that these formed
+channels were further made together in the module by gaskets, right. 
+So, if there is any leakage between the plates then obviously it is known, because it is kept as
+a channel, so in that way the security system can be improved to avoid the leakage of the
+liquid foot product when it is heated. So, there are many improvements and also I said earlier
+so all to be performed in the contamination free area. So, that one has to ensure while using
+any of the heat exchange equipment in the food processing industry. (Refer Slide Time 45:53)
+So, that is all for heat exchanges. So, these are the references and additional resources what I
+have used in this particular lecture. Thank you.

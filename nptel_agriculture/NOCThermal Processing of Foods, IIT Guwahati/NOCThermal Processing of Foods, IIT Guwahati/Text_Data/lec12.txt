@@ -1,0 +1,439 @@
+Thermal Processing of Foods
+                                              Professor R. Anandalakshmi
+Chemical Engineering Department, 
+Indian Institute of Technology, Guwahati.
+Lecture No. 12
+Fundamentals of Aseptic Processing
+Good  morning  everyone,  today  we  are  going  to  discuss  about  fundamentals  of  aseptic
+processing. So if we go for little recap what we have done till now is basic food microbiology
+and basic introduction of blanching, pasteurization UHT as well as hot fill, and separately
+milk pasteurization and canning operations and thermal processing equipments and also we
+have done thermal process calculation which is nothing but how to calculate DT value, z
+value and F value for cumulative processing and also yesterday we have seen about the
+validation of thermal processes.
+So, next three lectures will be on aseptic processing. So here we are going to see big detail
+about the equipments involved in aseptic processing and what are all the critical conditions
+and measures we need to ensure to have aseptic conditions in the plant and how to design a
+process as well as the equipment for aseptic processing.   
+(Refer Slide Time: 1:47)
+So, first we will start with the comparison of normal canning operations and the aseptic
+process. So, if you take any normal canning or sterilization operation the general flow chart
+goes like this, we will have a product and I have a packaging, so the product is filled and thepackaging is done then it goes for sealing operation, so then it goes for retorting then it is
+cooled  cooling  operation  then  it  goes  for  storage  and  distribution.  So,  this  is  normal
+sterilization operation, the aseptic processing means, so I have a product here and I have a
+packaging system or most probably container, pouches so we have discussed detail (())(2:48)
+in our previous lectures.
+So, this is sterilized so the processing would be HTST. So then it is cooled so the same way
+packaging is also sterilized, so then it comes so then the filling the filling happens then it is
+sealing then cooling then go for storage and distribution. So, remember so this all done at
+aseptic environment, so this is very much important here. So, this is a basic difference
+between the normal sterilization operation and the aseptic processing. So here the main
+challenges is to maintain the aseptic environment and we are doing two way sterilization, one
+is separately for product and one separately for packaging system.
+And one more thing is when it started early actually in 1920 the Olin Ball, we are now
+familiar with his name because thermal processing calculation instead of general method
+there is another method called Ball method, which calculates the time temperature relation
+from the basic energy balance equations. So, he introduced that method to calculate the
+process value F which request T as function of T. So, the same Olin Ball he came up with this
+idea my product as well as my packaging can be sterilized separately and it will be filled and
+sealed and cooled in the aseptic environment, then it goes for storage and distribution. So,
+this can be done here at ambient condition itself.
+(Refer Slide Time: 5:13)
+So when after he came up with the idea the first thing was done in the juices, so in the juices
+this concept of aseptic processing was applied at first. So what they have done at first is so
+without this cooling, first they have taken the product which is nothing but the juice then they
+sterilized and the packaging is done then they sterilized separately and then they filled and
+then went for the cooling operation for here there is no cooling.
+So, after sealing it directly goes to the storage so then this cooling was applied here when it
+started when the aseptic process was started in early 1920s. So, then they realized that, so the
+moment I fill my product at the hot condition, so what happens is it takes a longer time to
+cool and especially if you take the viscous product, so it takes more longer time to get cool.
+Then after that it will be filled and seal and go for storage and distribution.
+So, to remove that long time cooling so the product is cooled here itself then it is filled in
+under aseptic environment in the sterilized package. So, then nowadays this general flow
+chart is being followed for aseptic processing. So, this is small introduction about and one
+more thing here we need to consider is the HTST processing, most of the product here is
+liquid or liquid with particulates.
+So, that means we are going to handle only fluids and here the important thing is we need to
+better understand fluid characteristics as well as the heat transfer phenomena along with fluid
+flow to design a proper system for aseptic processing. So, that is why it is the process is
+HTST process here. So it is applicable for pumpable fluids, so that means the flow of fluids is
+involved along with heat transfer so fluid flow and heat transfer is very much important here.
+So we need to understand the product characteristics and the flow distribution along with heattransfer. So, without which we cannot design a proper F value which is to be based on which
+the process is designed. So, we need to be bit careful about the fluid flow characteristics and
+heat transfer.
+(Refer Slide Time: 7:45)
+So, the definition goes like this, aseptic processing means a continuous thermal in which the
+product thermal process a continuous thermal process in which the product and the container
+are  sterilized  separately  and  brought  together  in  the  sterile  environment,  so  that  main
+components  are  pump,  deaerator,  heat  exchanger,  holding  tube  and  cooling  unit,  back
+pressure device, flow diversion valve, fillers and surge tank. 
+So, most of the devices are components you are already familiar with during almost 10, 15
+lectures, so the flow diversion valve, back pressure device, fillers, surge tank everything we
+have  discussed  in  the  milk  pasteurization  HTST  processing  itself  and  the  temperature
+employed is 125 to 140 degree centigrade. The most of the time they say 138 centigrade.  
+So, this results in the product which is shelf stable at ambient conditions so that we know
+already we need not store it in the refrigeration condition but remember once you open the
+pack then you need to store it in the refrigeration condition with minimal time so that you can
+use it for better, for example you are buying a UHT milk of 500 liter you cannot drink at one
+go. So, once you open the package so it needs to be stored at refrigeration conditions for
+further use that to limited period, you cannot use it for 6 months keep it in refrigerated and
+consume once the pack is opened. (Refer Slide Time: 9:20)
+So this is the basic flow diagram for aseptic processing, so this is the raw product supply
+tank, so this is PD pump positive displacement pump, so this is pre heater and this is a
+deaerator, pre heater is also a heat exchanger and this is deaerator and this is again positive
+displacement pump, this is a final heater and this is a static mixing unit and this is a holding
+tube. 
+Here what, your commercial sterility is been taken care and this is a pre-cooler and this is a
+final cooler, these both are also heat exchangers and here what again one more static mixture
+and  the  product  comes  here,  so  here  you  are  maintaining  the  N2  or  air  it  is  a  sterile
+environment. So, you have a packaging system here then it goes to filling section, so from
+here  you will  have  the  sterile  packaging  system,  so in  which  it  is  filled  under  aseptic
+environment. So this is a surge tank from which your product is being feed into sterile
+packaging system. 
+So, if you refer my earlier lecture there is a one lecture on blanching sterilization UHT and
+hot fill, there also I have discussed about the flow diagram so the main part is heat exchanger
+as well as holding tube and surge tanks and filler as well as the pumps. So, we are going to
+see each and every equipment here after as just told, here after we are going to concentrate on
+what are all the equipments and which equipments I need to choose because till now almost
+10 lectures you were introduced to what are all the various process and components involved.
+So here after what we are going to do is mostly on the process design for every process unless
+otherwise it is a introduction of fundamental concept and here in the aseptic processing as Ijust told the fluid flow characteristic and as well as the heat transfer is very much important
+to design a better system and to design a process value F to achieve the commercial sterility.
+So, we are going to do mostly problems to try to understand the characteristic better to further
+design the process as well as the components how do I choose, for example in the heat
+exchanger  I  have  three  types  of  heat  exchanger,  what  are  all  the  advantages  and
+disadvantages of each heat exchanger and which heat exchanger is best for what condition.
+(Refer Slide Time: 12:20) 
+So that we are going to see separately, so that is what the characteristic of specific elements.
+The first one comes is, the flow control according to FDA regulations the a metering pump
+shall be located upstream from the holding tube and shall be operator to maintained therequired rate of product flow a means of preventing unauthorized speed changes shall be
+provided, so this is the way FDA regulations defines the metering pump.
+So, this is very much important so in one of the lectures also I have mentioned you, so here
+we use positive displacement pump because positive displacement pump why because it is
+less sensitive to the pressure change to pressure change that is what I wanted because it is
+told that preventing unauthorized speed changes shall be provided. So, that means it can
+operate in via two mechanisms one is variable speed or fixed rate. So when you are choosing
+variable speed pump then we need to provide the measures to prevent unauthorized speed
+changes. So that is very much important so that is why we used positive displacement pump.
+So, centrifugal pumps are not used yes, it is used when is centrifugal pumps at the initial
+stages because once the plant is established so instead of product we need to check with the
+water flow whether all the systems are working properly, so at the time centrifugal pump may
+be used by replacing positive displacement and one more thing is CIP process, CIP is this is
+clean in place, so at the time also centrifugal pumps are used. So when the pressure drop in
+the system is less than 150 psig so in the positive displacement pumps also there are various
+categories so when do I choose what, so when the pressure drop in the system is less than 150
+psig and the product is homogenous or contains small particles, small particles I the sense 1
+by 8 inches so around that approximately.
+A rotary positive displacement pump is usually most economical choice when the pressure
+drop is less than 150 psig or we have homogenous liquid or the liquid contains small particles
+and the variable speed or fixed rate, so this I have already mentioned either you can choose
+one  of  the  category  reciprocating  piston  type  for low  to medium  viscosity  products  or
+interlocking  lobe  type,  inter  locking  lobe  type  is  this  one,  so  this  is  the  interlocking
+mechanism, so kind of piston type pump is used when low to medium viscosity products are
+used.
+And a high pressure drop over 2350 psig with homogeneous products, a high pressure piston
+type pump would be required. So this is the only available pump for this category because
+high viscosity products are very much usual but to handle that it is very much unusual, so at
+high pressure drop which is over 2350 psig with homogenous product where there is no
+particulates a high pressure piston pumps would be required. The reciprocating piston typeparticulates solids in liquid so this may be of around 3 inch particle, so this is (())(16:01)
+about the which pump to be used where.
+So, if it a pressure drop less than 150 psig I would go for rotary positive displacement or if it
+is a reciprocating piston type that would be used for low to medium viscosity products with
+interlocking type and at high pressure drop as well as homogenous products are there then I
+would be using piston type pump. The reciprocating piston type pump for particulates solid in
+liquid, so this particulate will be of around approximately 3 inches size 
+(Refer Slide Time: 16:33)
+And, next one is heating system, heating system in this is there are two types one is direct
+heating  and  the  indirect  heating,  so  this  system  is  direct  heating  so  this  also  we  have
+discussed very briefly in one of the lectures, this is steam injection system, so this is steam
+infusion system. So, direct heating in the sense your product as well as heating medium is
+seeing each other directly so in the steam injection system, so this is your steam in and this is
+a steam flow based on the actuator based on the flow rate and here you have a steam diffuser.
+So from which the steam is fed into the normal pipe where your liquid is flowing. So, this
+means the steam is introduced into the product or injected into the products and there is
+another system which is steam infusion system. So normally in the pipe your steam is there,
+so your process flow that is nothing but your product is infused into the steam flow, this is a
+steam flow so this is entering into the normal pipe, so here you are introducing your product,
+so this is infused into the steam.(Refer Slide Time: 18:01)
+So, this is a thumb rule it is not a proper regulation or something the problem in the direct
+heating system is when you are infusing or injecting steam into the product so when it
+condenses, the product volume increases due to the addition of water. So, one pound of steam
+will condense for every 10 pounds of products heated at 100 degree Fahrenheit, so thus the
+dilution rate of the product is 10 percentage, so when you are creating the product or when
+the product is there the water amount should be adjusted in accordingly the 10 percentage of
+dilution always will be there when you are heating it directly.
+So this added water must be accounted for in product formulation or it must be removed
+either I need to remove the access water before it goes for storage and distribution or I need
+to take care for example the concentration of the particulates in the product, I will be taking
+care over there with 10 percentage less dilution rate so that when the steam is added in the
+heating system that will be taken care, the product formulation will be taken care. Usually the
+water is removed by flash cooling, so we already told that either it will be there in the product
+formulation or it must be removed, so the water is removed by flash cooling of the product.
+The hot product is dispersed into a vacuum vessel operating at pressure such that amount of
+water that was added during steam heating will flash evaporate. So this also we have seen in
+one of the lectures, there is a vacuum vessel in which the extra water is flashed over at that
+particular pressure. And product temperature leaving the flash cooler should be equal to the
+product temperature entering the steam infusion heater to avoid dilution of the product by the
+infused steam, so this is also kind of thumb rule. So, I have a steam infusion or steaminjection system here then after that I have a vacuum tank, so in which the water is flashed, so
+then I have a product.
+So  the  approximately  the  product  in  here  before  the  heating  system  product  in  so this
+temperature and this temperature should be of same temperature, so that there is no addition
+of water in the system and also here what happens is the sensible heat of the product is used
+by the water to flash evaporate, so in that way the product temperature would be less than that
+of  the  temperature  in  by  the  in  to  the  flash  tank  or  vacuum  vessel.   So,  the  desired
+temperature is achieved by maintaining a vacuum in the flash cooler we have already told
+where the absolute pressure on the product would give a product boiling point at the desired
+exit temperature, so this is what we have just discussed the product sensible heat is used by
+the water to flash evaporate.
+(Refer Slide Time: 21:11) 
+The advantages of the direct heating system is listed out here relatively low initial cost, more
+rapid  method  of  heating  and  cooling  because  nearly  instantaneous  because  if  you  take
+indirect system, so for example I am taking concentrated type so here your product is going,
+here your steam is employed, so your product in the indirect system so it has more resistance
+it has to first come through the valve of the heat exchanger then it has to come to the product,
+so this kind of resistance are avoided when it sees the heating medium directly.
+So in that way more rapid method of heating and cooling and minimum burn-on or fouling
+and minimum floor space is required and no moving parts and deaeration of the products
+upon flash cooling. So, when you are doing flash cooling deareation is also done along withthat and no moving parts are required in the heating system. Disadvantages wise, water from
+the condensate dilutes the products this I already told either it should be taken care in the
+product formulation or it has to be removed, culinary steam free of non-condensable this also
+I have told I one of the lecture when you are using the direct heating in the aseptic process
+you  need  to  ensure  the  steam  is  produced  from  the  drinkable  water  or  free  from  any
+contamination this is very important point.
+So normal boiler steam you cannot use with the non-condensable gases. The product may be
+destabilized  due  to  high  shear  during  steam  condensation  and  flashing  so  the  product
+destabilization occurs due to two process we are doing one is steam condensation as well as
+the flashing and controls are required to ensure no boilers chemicals carryover, this I already
+told the steam should be of high quality, so that means it should not have any contamination.
+Volatile components may be stripped from the product resulting in the flavor changes, so
+when you are using directly steam with the product so there may be a volatile components
+that will also get vaporized, so because of which the flavor changes will happen. So all these
+flavors were of volatile, so when you are using steam directly to the product so that may be
+getting volatile and the flavor changes occur in the product. It may be difficult to control final
+temperature and solid content in the product because it is involving a direct heat system. 
+(Refer Slide Time: 23:42)
+The next one is indirect heating system, indirect heating system now also you are aware of by
+now indirect system, plate heat exchanger we have done the problem as well. The pressure on
+the sterilized products side is at least 1 psig greater than the pressure on the non-sterilizedproduct were it is in regeneration section, so we have already discussed the plate type heat
+exchanger the advantages here the plate type heat exchanger is nothing but it is a stalk up
+placed, so one side my heating medium is passing so another side my product is fed. So, this
+is in counter current flow, so here we can one way is directly you send the product and
+directly send the heating medium here and get it heat exchanged.
+Another  way  is  we  already  discussed  the  regeneration,  regeneration  is  nothing  but  the
+sterilized product is used to preheat the raw product in. So at that time this is very important
+criteria because it avoids the mixing of two products which is nothing but a raw product as
+well as the sterilized product. So, the pressure drop is at least 1 psig greater than the pressure
+on the non-sterilized product side, and there must be an accurate differential pressure recorder
+controller installed on the regenerator, this is very much important otherwise the product gets
+mixed with the sterilized product.
+And, one pressure sensor must be installed at the sterilized product outlet and the other at the
+non-sterilized product inlet, so this particular thing we need to take care, otherwise plate type
+heat exchanger are used to sterilize the homogenous liquid foods if there are particulates then
+it must be very difficult to handle in this system, so it is good for liquid product with
+homogenous particles sizes of very small size. So, if it particulate size of 3 inch or more then
+it will be very difficult to handle in this system. 
+So  it is only best for liquid products and there are three sections one is the heating and
+cooling also the same exchanger can be used and in the heating it can be used for the
+regeneration as well as the proper heating as well. So, in the regeneration section if you are
+using the plate type heat exchanger you need to ensure these three main criterias and heating
+and cooling there would not be any problem because you just counter current fashion you
+send the product as well as the heating medium it gets heated, but in regeneration section
+your sterilized medium is involved so there should not be any mix between the product as
+well as sterilized product.(Refer Slide Time: 26:34)
+And the advantages wise, low initial cost at high efficiency because of regeneration and small
+hold  up  volume  in  the  heat  exchanger  and  usually  easy  inspection  of  the  unit  by
+disassembling, actually what happens here is I can remove the plates and I can reassemble
+them while reassemble them for example we have done one problem how many plates are
+required in the heating section or regeneration section or cooling section the same heat
+exchanger, after sometime I wanted to I using one heat exchanger at heating section then I
+wanted to shift it to cooling section.
+So I just have to remove number of plates based on the number of plates I have to just
+remove or add plates and assemble them again, so this is the advantage. And flexibility of the
+system since it can be readily expanded or contracted to perform the multiple duties, so based
+on multiple  duties  I can add or remove  the  plates  so that  is  the main  advantage.  And
+disadvantages wise, it is limited to low viscosity products, I already told it is best when you
+are having a liquid product or if there are any particulates there should be of very very very
+smaller size. And re-gasketing costs can be high because we already told the plates are
+assembled and data is constructed so regasketing cost are high. And fouling tendencies exist
+for some products.(Refer Slide Time: 28:05)
+And, this is normal heat exchanger you must be aware, so this is nothing but a shell and tube
+the steam is fed in the shell side and tube side your product is going. So this is a coolant in
+and coolant out the steam is fed in to the shell side and the condensate is leaving in this side
+the coolant is nothing but here the product if it is a cooling section. So, remember the same
+heat exchangers can be used in the heating section, regeneration section as well as the cooling
+section.
+So based on the requirement you can choose any one of the heat exchanger to perform the
+duty of heating, regeneration or cooling. So, the coolant in here is your product and your
+steam is fed, if you are using this for heating, the product in and product out through the tubes
+and steam is been fed in the shell side, and this is a double pipe heat exchanger, double pipe
+heat exchanger is nothing but concentric tube, so through which your product is fed and your
+steam is employed in the concentric outer tube.(Refer Slide Time: 29:19)
+So, advantages wise there are few gaskets, gaskets problem, whatever the disadvantages in
+plate type heat type exchanger that are all advantages for this. The units are compact, there
+are no moving parts. And, excessive pressure drops because you have more and more tubes
+inability to open and inspect the surface so there we have the that flexibility that I can remove
+or add plates and easy to inspect but here that we lose that and maximum regeneration of 70
+to 75 percentage which is lower than that of the plate heat exchanger. When I was discussing
+also I told for regeneration purpose plate type heat exchanger are best one.
+The regeneration capacity what we get in the shell and tube heat exchanger is very much low.
+Fouling tendencies because of low shear and restriction of products by viscosity and particle
+size here also the particle size and viscosity of the product is of major concern, so viscosity is
+two way, one is the liquid itself having high viscosity are the particulates suspended in the
+liquid particle itself increases the viscosity. So, both of the exchangers one is double pipe or
+shell and tube or plate type heat exchanger all three of them will be best suitable for pure
+liquid products or the particulate which are having minimum sizes or minimum number of
+particles that situation only these three exchanges are best suitable.(Refer Slide Time: 30:43)
+And the next one is scraped surface heat exchanger, so if you see this is a front view, so you
+have a one tube, so this is nothing but a rotor and your scraped blades are fixed in the rotor
+tube. So, this rotor tube rotates so when it rotates this blades scraped the particulates which
+are there in the liquid, and also here if you see there are two types one is the holding tube is
+here the solid, so there may be a situation inside the holding tube itself your product is
+product or heating medium is filled and outside the rotor part you can have the product either
+product or steam.
+And in the rotor itself there may be a product or steam flow, so that way also it can be done,
+so as of now here it is a solid part so it is just a rotor with the scraped plates and your product
+is in here and your product will be out and the outside of it there may be a steam flow or any
+heating medium flow. And, the second design is this rotor itself a hallow tube with which
+your product or steam is flowing and outside should be the product because the blade is used
+to scrap the product. Scrap in the sense, it rotates so that the product is move quickly so that
+the better heat transfer coefficient will be obtained for the particular heating medium used.
+So, here one thing is important so here if that is the case in the rotor tube you will have only
+the steel because the blades are attached in the rotor tube, so the blades are used to move the
+product with particulates. So, either it will be a holding tube will be a solid or it will be a
+hallow tube inside which the steam is being fed. So, here one more thing is remember, if it is
+a solid rotor tube the heat has to passed through this wall through the conduction and it sees
+the liquid product so there may be a convection between the walls and product.And if it is there is a particulates in the liquid the particulate to liquid, for example this is my
+liquid product so in which the particulates are there so from the heating medium to product
+side there is one thing here it is a conduction.  So then to the liquid product it is a convection
+and the liquid product to the particulate it is again convection and remember within the
+product the conduction happens so we had to do heat penetration test and this is the curtail
+heat transfer process from the liquid product to solid particle how the heat is transferring.
+(Refer Slide Time: 33:51)
+The advantages wise the ability to process any pumpable product because which has the
+particulate of higher sizes as well so including those containing particulate matter flexibility
+to expand the system by adding the surface area, surface area in the sense, the plates and the
+low pressure drop and ability to process at very high temperature without burn-on, without
+fouling because the scraping blades scraps the product continuously and high cost per unit
+area, per unit area high operating cost, larger floor surface is required compared to other shell
+and tube are double pipe heat exchanger or plate type heat exchanger, disintegration of fragile
+particles, what happens is when the rotator tube is rotating the scraper always rotates and
+sometimes there may be a chance to disintegrate the fragile particles so that is disadvantages
+in this.(Refer Slide Time: 34:51)
+And if the particulates are present, they must be relatively small and resistant to shear so this
+is very much important criteria and there are two separates systems are used one is for acid
+foods and another for low acid foods and acid foods such as fruits are subjected to steam
+heating in a continuous steamer the operating system consist of a device to evenly feed the
+product, it is a feeding system to a chamber  maintained  slightly about the atmospheric
+pressure by steam injection.
+How, the product is being fed? The product is evenly fed into the chamber the chamber is
+maintained above the atmospheric pressure so that the flow rate happens and the product is
+gently conveyed in contact with the steam heated surface in hot compatible juices, so this
+may be any heating medium or if you go to regeneration section it is a hard liquid process
+itself and the product is held for required time and this discharge through an aseptic pressure
+lock mechanism to the cooling vessel.
+So, this we have seen in one of the lectures, so how the pressure lock mechanism helps the
+transfer of product from the hot side to cold side and the cooling vessel is pressurized with
+sterile nitrogen we have already told it should be done in proper sterile environment and the
+product is cooled with the sterile cooling media such as syrup, water, juice, or brine so if it is
+a regeneration section it may be the cooling media cold syrup or water or juice as well so it
+will heat the cooling media and it will cool the sterile product.(Refer Slide Time: 36:30)
+For low acid food, it is consisted of a batch type unit for heating and cooling the particulates
+and the coupled to a continuous system for processing the sauce, water or other liquids, so for
+the low acid food what best suits is the particulates are processed separately and a liquid are
+processed separately because the low acid food are very much prone to contamination, so the
+processing steps also bit difficult. In one the system it is discussed that in one of the way it
+can be done separately, means the liquid product are process separately and the solids are
+processed in the batch unit. 
+Then the sterilized liquid is pumped into the vessel with sterilized particles and from there the
+mixture is transferred to the filling machine. So process separately the particulates as well as
+the liquid then it is mixed and it is going for further filling operation. The major advantages
+for this system is ability to process large particulates and to heat and cool the particulates, so
+the temperature and process time what I choose is it should be match for both liquid as well
+as the solid particles.
+Solid particles if you see as I have just mentioned the heat penetration test should be of very
+much important because it is happening by the conduction and the slowest heating zone also
+should reach the particular temperature. So, in that way what I am doing is, I am doing a
+thermal processing operations for solid particles separately and liquid particles separately and
+mixing them, so in that way I will handle the particulates of larger size as well as I will
+eliminate the over processing of a liquid, because the time temperature combination what I
+choose is based on the coolest cold point in the solid.That may be a over cooking temperature for the liquid so that particular disadvantage will be
+avoided, in this particular processing and major disadvantage include that is a batch system
+that is very expensive and also you are doing it separately and that also to be in the aseptic
+environment and you need to transfer the liquid into the particulate system, so that also cost
+bit a higher due to aseptic conditions maintained.
+(Refer Slide Time: 38:50)
+So UHT, UHT is also aseptic and all pathogenic and spoilage microorganism would be killed,
+and thermophilic organisms may survive and commercial sterile products and 284 degree
+Fahrenheit or 140 degree centigrade for 4 seconds, the shelf life is 1 to 2 years. UHT or
+aseptic process covered under this is CFR code of federal regulations, so if you have time you
+can check this CFR regulations, what is a temperature and time to be maintained and what is
+the commercial sterility value everything is mentioned.(Refer Slide Time: 39:30)
+And,  this  is  just  for  one  example  I  have  taken  this  from  the  Amul  gold  the  product
+specification, so if you see composition this is a standardized milk vitamin A and D and
+vitamin A is mentioned as 75 and vitamin D is around 0.5 after the sterilization and it says not
+a significant source of dietary fiber, vitamin C and iron and 180 days when stored in a cool
+and dry place, storage condition is ambient and if you see the protein content here it is 3.5
+and this is also taken from another source.
+So, it says the cow milk contains 8.12 grams, so here it is 3.5 so this is for 250 ml I think
+amount per 100 ml is given and protein is then 3.57 and around 8.12,  so that nutrition value
+is also taken care. And it is not iron but normal cow milk you will have iron of 0.08
+milligrams. So, this is just to compare what is a raw cow milk and after sterilization what
+should be your nutrition value. So all the values are not given but I would suggest you to go
+and refer the product specifications in the UHT milk as well as in the normal raw milk.(Refer Slide Time: 40:52) 
+So, aseptic processing the rapid heat treatment, product quality is improved and long shelf
+life product, no need for refrigeration, flexible package type, already told for the canning
+process you have a canning dimensions based on the sterilizer and there is a volume of
+product constraint also there but here you do not have that one and less overall energy
+requirement, easy adoptability to automation and fewer operations are needed, unlimited
+packaging size and slower fillers speed, so that is very much important and high initial cost
+due to aseptic conditions maintained, need for better control of raw ingredients and better
+trained  personal and control of process variables and stringent validation protocol because of
+aseptic environment. These are all disadvantages and this is advantage(Refer Slide Time: 41:47)
+And, what are all the aseptically processed products fruit juices, milks, coffee creamers,
+purees, puddings, soups, baby foods, cheese sauce, these are all few of the example and also
+the aseptic packaging of non-sterile products to avoid infection by microorganisms it is not
+like always I will use sterile product in the sterile packaging and there may be a products
+which are non-sterilized but packaging system will be of aseptic conditions to avoid further
+infection of microorganism.
+ (Refer Slide Time: 42:17)
+And this is conventional operations, so this we have discussed in our starting itself.(Refer Slide Time: 42:24)
+So, this is aseptic process again. The product is filled and the product filling is also sterilized
+and the containers are sterilized and the process is sterilized and total system during operation
+is also under sterile environment.
+(Refer Slide Time: 42:39) 
+So, the latest method of the sterilization includes either one of the heating medium anyway
+we have one lecture on all these either by microwave or electrical resistance heating or high
+voltage discharge or ultra-high pressure or sterilization of air by incineration, so these are all
+other methods and the moist heat is 121 to 129 and the dry heat if you are using dry heat, thesterilization is 176 to 232, so this is sterilization. So, ultra-high temperature or aseptic process
+goes around 138 degrees centigrade
+And sometimes chemical radiation and ultraviolet rays also used as a sterilizing media, the
+chemical  hydrogen  peroxide  with  concentration  with  30  to  35  percentage  and  gamma
+radiation with 1.5 mega radians that is also used to sterilize the product and ultraviolet light
+has been used to decontaminate food contact surfaces, so this also one of the sterilization
+media.
+(Refer Slide Time: 43:43)
+So we will do just quickly just two examples, Clostridium botulinum spores suspended in
+phosphate buffer had D 121 is 0.37 how long would it take to reduce the population of C.bot
+spores in to from 10 to 12 to 10 to 0, so this we know already the F value is DT into log of N
+nought up on N so N nought up on N is around 12 log, so you have to just multiply 0.37 into
+12 so which comes around 4.4 minute. 
+So, the second one is Pectinase enzyme in orange juice pulp is heat resistance enzyme, so
+yesterday we have seen amylase also alpha amylase from certain strains are also heat resistant
+enzyme and its inactivation in the aseptic processing of orange juice with pulp, so when you
+are doing aseptic processing so this gets inactivated and its D value and z value is given for
+90 degree that is 0.53 minute or 31.8 second and the z is 6.5 calculate at 100. So, that means
+the D100 I need but I am given at D90 degree centigrade, so this is very much simple because
+the basic formula would be the F is nothing but DT, DT of log N nought by N. So, that is one formula we are frequently using, the other one is the lethality rate which is
+nothing but the 10 10 to the power of T minus T reference upon z, so this is the formula we
+are going to use here so D at 10 is nothing but D at 90 degree into the 10 to the power of, so
+you have T minus T reference but both for 90 as well as 100 this formula is same so I can
+directly substitute, so 90 minus 100 upon the z value is 6.5 so this is same for 90 degree as
+well as 100 degree.
+So, what you suppose to do is this divided by this, the reference temperature will go so only
+this T minus T so that is nothing but 90 minus 100, the z value is same for both temperature
+that is nothing but 6.5, so then you substitute D as 0.53 into this value 10 to the power of 90
+minus 100 upon 6.5 so this comes around 0.92 seconds.
+(Refer Slide Time: 46:29)
+So, these are reference and additional resources and you may would like to refer and we will
+see to tomorrow aseptic processes. Thank you.

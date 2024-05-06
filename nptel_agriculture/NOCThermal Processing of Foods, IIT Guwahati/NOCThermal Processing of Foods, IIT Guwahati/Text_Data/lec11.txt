@@ -1,0 +1,521 @@
+Thermal Processing of Foods
+Professor R. Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology, Guwahati
+Lecture No. 11
+Validation of Heat Processes
+Good morning all, today we are going to see validation of heat processes.
+(Refer Slide Time: 00.38)
+So  the  outline  goes  like  this  so  the  target  microorganisms  and  target  process  value  and
+temperature  distribution  test,  heat  penetration  test,  microbiological  spore  methods  and
+biochemical systems. So till now what we have seen in this course is basic food microbiology
+and basic thermal processing available for the food.
+And we also have seen a bit detail about milk pasteurization, canning operations and what are all
+the thermal processing equipments available for those methods and also we have seen the F
+value requirements and how to calculate kinetic parameters and how to optimize them and shelf
+life studies. So here to see today validation of heat processes, so it combines all of them as well.(Refer Slide Time: 1:42)
+And so normally what are all the procedure to do any validation of thermal processes. The first
+one is we need to identify the target microorganism, the target microorganism here means the
+most heat resistant microorganism, a microorganism of public health significance. So for past 8
+or 9 lectures what we understood is C.bot this is nothing but Clostridium botulinum so which is
+the most heat resisting microorganism for both in pasteurization as well as in the sterilization
+process but pasteurization we do not go for the 12 log reduction we mostly go for 5 log reduction
+and why it is because we further go for a preservation method.
+But here in the sterilization most of the time it is a shelf stable food so we we need to go for 12
+log reduction and identification of most heat resistant microorganism in the sense it may have
+two or more microorganisms. For example, we can take one particular food which is precooked
+already, cooked and baked and pasteurized, pasteurized and packaged. For these kind of food
+material, the first it is canned and pasteurized and with the packaging only it is pasteurized.
+So the microorganisms of concern here is either it may be a C.bot or maybe a Listeria species as
+well. But we need to differentiate them for example C.bot is nothing but a anaerobic, Listeria
+species is facultative so the moment you talk about the packaging so we need to check whether it
+is a oxygen permeable or oxygen impermeable. So if it is a oxygen permeable then we have most
+heat resistant is Listeria species. And oxygen permeability how we calculate is I guess I am not
+sure that correct value, yeah it is 10000 centimeter cube per meter square of per 24 hours at 24degree centigrade. So if this value less than that then we can say it has a impermeable and for the
+permeability so this condition to be satisfies.
+So the oxygen permeable packaging also we may have impermeable because if we have shallow
+or deep containers then your oxygen permeability may be low and sometimes if your food is kept
+in  the  oil  then  there  also  you  will  not  have  much  of  oxygen  permeation.  So  the  oxygen
+impermeable  may be of several  category, reduced  atmosphere  and  a controlled  atmosphere
+etcetera. So this packaging if it is oxygen permeable then you will have a chance for Listeria
+species or if it is oxygen impermeable then the C.bot which is nothing but a anaerobic so that
+maybe the target organism.
+Not  only  that  one,  so  after  pasteurization  it  may  go  for  refrigeration  condition.  In  the
+refrigeration condition the C.bot forms spores but Listeria species cannot form so it is only
+available in vegetative cells so it is non spore forming. So you will not have much problem
+wherever the sporulation conditions are favorable. And also the C.bot have many varieties, one is
+proteolytic  and  non-proteolytic.  So  the  proteolytic  microorganism  may  not  survive  at  the
+refrigeration condition but non-proteolytic microorganisms are much favorable for that it can
+grow in the refrigeration condition as well.
+So for example, after this pasteurization if it is stored in the refrigeration condition, so the
+favorable  are most heat resistant target  organisms are C.bot which has the  non proteolytic
+organism so that can grow in the refrigeration condition. At the same time the Listeria species
+which can also grow in the refrigeration condition but compared to the C.bot so this less heat
+resistant So we can choose C.bot as a target organism. So like this it is not only the food, the
+packaging, the thermal process supplied, everything had to be taken care while selecting the
+target organism which is nothing but a most heat resistant microorganism. The second one is how
+to reduce the target organism target microorganism level during particular thermal processing.(Refer Slide Time: 7:40)
+So we might have seen in previous lectures, which is nothing but a F value sow which is 0 to t
+and LR into dt. So LR is nothing but 0 to t 10 to the power of T minus T reference upon z into dt.
+So this is the temperature and you will have time temperature combination and this is the
+reference temperature this z value which is nothing but temperature units so which is specific for
+the specific microorganisms. So to establish this F value for any process we need to reduce the
+microbial content to the particular final level.
+So for that the formula is DT into log of N nought upon N, so N nought is initial count and N is
+the final count. So DT is nothing but a thermal destruction time. So this is also F so if this DT is
+used as a 121.1 degree centigrade which is nothing but a sterilization temperature then this is
+called as F nought value. And most of the time in sterilization we use 12 log reduction so this F
+nought value for D 121.1 degree centigrade for C.bot what we have just seen is nothing but 0.2
+minute. So with that most heat resistant microorganism with for to reduce the 12 log so your F
+nought value would be around 3 minutes.
+So this is the way we calculate how to reduce the particular microbial contamination in the food
+during the thermal processing. So accordingly your F value is established. The third important
+thing is to conduct the validate, validate the target microorganism reduction. So I have found out
+what is the target microorganism for my process based on the on the characteristics of the food,based  on  the  characteristics  of  the  microorganism.  Then  the  second  point  is  to  reduce  to
+particular log level then I have designed my F value for the process to be established then I
+suppose to check the particular time temperature combination what I applied and the equivalent
+F value what is established is correct or not.
+So  this  is  done  in two  using two  tests  that  is  nothing  but  a temperature  distribution  test,
+temperature distribution test so we normally call it as TD test and another one is heat penetration
+test so we call it as a HP. So this is where we are now validate the target microorganism
+reduction. So what are all the sensors used to calculate the temperature distribution and heat
+penetration. So the temperature distribution is nothing but which is happening in the container
+thermal processing container so it says about how the temperature is distributed throughout the
+container but heat penetration test is nothing for the food products. The rate of heat transfer from
+the can wall to the food product so that is nothing but the heat penetration test.
+So by using these two tests I will be able to whether the particular time temperature combination
+from which the F value calculated and the process is established is correct or not. To validate so
+whether I need to employ for example F nought value is 3 minute as per the calculation. So most
+of the time industry go for the safety limits so they normally employ F value of 6 minutes so
+considering all the worst conditions worst conditions in the sense even though the plant is
+operating at the normal conditions I myself create a worst condition so for that worst conditions
+F value is calculated when it is employed in the normal plant then it will take care of the
+reduction level.
+For example, to have a 3 minute F value the my log is 12 log, for example 6 minute it may be 18
+log reduction so that my process is safe. I need not all the time validate my process whether it is
+employing a correct time temperature combination or not. The final thing is implement HACCP
+critical and control limits. So this HACCP is nothing but Hazard Analysis and Critical Critical
+and Control point. So these critical limits are chosen based on the worst case conditions. So this
+is what the overall process. So first I will identify the target microorganism then second one is to
+reduce it to the particular level log reduction. The third one is validate the target microorganism
+log reduction then implement the critical and control limits so my process is all the time safe
+when it goes for normal production condition.  So where we are now, we are going to see
+validate the target microorganism reduction(Refer Slide Time: 13:47)
+The introduction goes like this, the techniques for measuring thermal process because I need to
+do two tests one is nothing but a temperature distribution test and heat penetration test to check
+the validity  of my target microorganism  log level  so there are two varieties  of techniques
+available. One is direct temperature sensors of various type maybe thermocouple or data logger
+system or sometimes RTD which is nothing but a resistance temperature detector.
+So many varieties are there so either I use temperature sensor or log reduction methods that can
+be either microbiological or biochemical. So I can use biochemical sensor to check the log
+reduction level or microbiological level to check the log reduction level. And process calculation
+methods used to establish safe times and temperatures, which allow the process conditions to be
+calculated from the temperature measurements and analysis of deviations to be carried out. So
+one thing is what we are doing here is we employ the temperature sensor and calculate the time
+temperature combination. So this time temperature combination can be substituted in process
+calculation methods.
+So there are two techniques we already discussed but I would like to remind you here. One is
+general method so the, whatever the time temperature combination you calculate directly go into
+lethality rate calculation which is nothing but (T of) 10 to the power of T minus T reference upon
+z. SO this T is nothing but a function of time so that you calculate directly using the temperature
+sensor and substitute and calculate the lethality rate from this your F value is established. Thesecond one is the Ball method, the Ball method what it does is it does not require any sensor. It is
+a purely formula method so there you solve the heat conduction or heat convection or basically
+the energy balance equation, from that you calculate the temperature as the function of time so
+then it is substituted here and calculate the lethality rate and final process value F nought is being
+calculated.
+And the third one is, the methodology for temperature distribution and heat penetration testing
+are time consuming and difficult to carry out so calculation methods are established. So instead
+of going for experimentally measure time temperature combination. So this will saves my time
+and also if you remember  what we discussed in the previous  lectures. So it gives  me  the
+flexibility, flexibility in the sense I can change my product temperature I can change my the type
+of food and type of food in the sense I can change in terms of parameters. So viscosity, density
+those parameters I can change and I can come up with the wide variety of temperature time
+combinations.
+And temperature measurement systems are usually the first choice of validation method used by
+most companies. Why it is so? Because in the numerical method it is solved by finite difference
+method so always we have the error prone numerical calculations are normally error prone so the
+order of error also matters. So the companies most of the time they prefer the experimental
+method to calculate the time temperature combinations. And also log reductions are suitable for
+continuous inline process for foods containing particulates.
+So here the log reduction methods are suitable in the continuous in-line process, why it is
+because  here  the  temperature  measurement  is  done  using  the  thermocouple  so  you  cannot
+employ the thermocouple in the continuous process because it may hinder the process. The
+continuous process is most of the times it is a convection so when you have a pure liquid or
+liquid with the particulate materials it is a convection, so when you insert the thermocouple it
+may hinder the heat rate or heat transfer coefficient. So because of that reason we do not use
+thermocouples  or  direct  temperature  measurements  in  the  in-line  process,  so  there  my  log
+reduction method should be favorable.(Refer Slide Time: 17:59)
+First one is the setting the target process value, so for that first one is as we have just seen the
+first one is to select the target organism. The for the low acid, ambient stable products the spores
+of mesophilic Clostridium botulinum strains are the target. So for this strain I will be calculating
+what is my initial spore count and final spore count and DT of the particular microorganism,
+from that the F value is calculated. So for example, if we have 100 spores the 100 spores is
+maximum level, so either you will get from the pure product or your process is very much poorly
+designed.
+Then only you will have this initial count of 100 spores. So that is reduced to 10 to the power of
+minus 12. So this is the guidelines document by the UK food industry, so you will have 12 log
+reduction so then you will be having around 2.3 minute because your DT value for Clostridium
+botulinum is 0.21 minutes. So if you round it off then you will have 3 minutes.(Refer Slide Time: 19:17)
+So as I told you earlier, so directly we do not apply 3 minutes so for the safety targets we will
+apply almost 6 and 12 at the end of the heating. Pasteurization process apply normally 5 or 6 log
+reduction,  I already  told  the  reason because  here  the  target  organism is  not a Clostridium
+botulinum as it is also done for one more reason. The other reason is the preservation. After
+pasteurization I am going to preserve it in the refrigerator. So I do not need to bother about the
+more log reduction because it is preserved after the thermal treatment.
+The caution is needed here because some chilled food target Listeria, Salmonella, Escherichia
+coli or psychrotropic C.botulinum spores. So though I say I can preserve it in the refrigeration
+condition we have already seen there is another heat-resistant microorganism which is nothing
+but Listeria monocytogenes so which can grow at the refrigeration conditions and this is also
+facultative microorganism so it can survive in both aerobic and as well as anaerobic conditions.
+So the caution is needed though we preserve it in the refrigerated condition.(Refer Slide Time: 20:26)
+And having calculated the target process value which is nothing but a F value, according the
+thermal process achieved in the food containers is measured using a temperature sensor or log
+reduction. So after the F value is established in the plant then we can check the process value
+whether that particular process value is achievable in the particular time measures  for that
+particular thermal processing. We can do either by temperature sensor or log reduction the data
+are then used to calculate the achieved process value for the conditions evaluated.
+So from the time temperature combination, temperature is a function of T then I will calculate F
+then I will check already for the F value where process is established, I check both so it should
+be matching or the processes established F value should be higher than the calculated F value. So
+the further calculations are carried out at worst case conditions. So this is where little bit of
+experience is needed as I told in the food microbiology section itself. So as a chemical engineer I
+know thermal processing better but food microbiology we do not have that deep knowledge, only
+we have basic knowledge. 
+So the proper experienced personnel should be employed to establish this F value because it
+needs the food microbiologist as well as the thermal processing engineers both of them together
+come up with this process. And also while selecting worst conditions the care should be taken
+because one worst condition I can say is for example for pasteurization I am employing my food
+product at normal atmospheric temperature of 35 and it is heated to till 63 for 30 minute.But if I employ my product at 30 degree or less than the normally employed inlet temperature
+then your F value may be higher because this T also taken care while processing that. So when
+your holding time is higher automatically you will get better F value so for which the targeted
+log  reduction  will  be  happening.  So  for  worst conditions  to  be  selected,  then  we  need  to
+understand the food wise, the food properties as well as the container as well as the process
+establishment.
+So these enable the CCP, CCP is in the sense Critical control points  to be set for regular
+monitoring of the process. So these worst conditions enable the CCPs to be set for the regular
+monitoring of the process. For example, it is need not always be the temperature, for example I
+can reduce the log level by using the salt concentration or water activity, such cases then the
+particular water activity to be checked or particular salt concentration to be checked for worst
+conditions. 
+(Refer Slide Time: 23:34)
+So how to select the worst conditions so to validate the microbial process safety under worst
+conditions, by default the process is safe under normal production conditions. So for worst
+conditions I get the F for 6 minutes but the normal F what we calculated is 3 minute. So by
+default the process is safe if I employ 6 minute process value but the problem is one more thing
+we need to be bit careful about is so if we select all the critical conditions limits, for example Iwill reduce the temperature and I will increase the viscosity for the heat to penetrate for long
+time.
+So all these combinations at that critical limit if I employ then it may be over processed and the
+food may be overcooked so that is also the limit. So we need to always be careful how to balance
+the normal conditions as well as the worst case conditions. And it should not be possible for a
+normal production batch to heat more slowly than the combination of factors evaluated at worst
+conditions that is why I told, so if we go for everything in the normal production at worst
+conditions at worst case limits then there may be a problem because the larger process value also
+it is sometimes dangerous because the food gets overcooked.
+(Refer Slide Time: 25:02)
+So for the products how do I check the worst case conditions, one is the formulation changes
+because they including the weight variation in the ingredients that lead to increased viscosity I
+already told. So if you increase an automatically viscosity then because your alpha value, alpha
+value is nothing but K by Rho CP. So if you want to reduce the thermal diffusivity then you can
+reduce or you can increase Rho CP. So by this way you can increase or decrease the heat
+penetration for which the F value would be in the safer limit. And fill weight and in particular the
+percentage overfill of the key components. 
+So for the particular can size there is a particular amount to be filled so if you overfill that also
+give one of the worst case condition and initial temperature and the effects of delay in gettinginstrumented containers into the retort. So this I have discussed, initial temperature and effects of
+delay in getting the instrumented containers into the retort so we have seen in the horizontal or
+vertical retort there is a belt mechanism with which the containers are getting into the retort. So
+there may be a delay, which also one of the worst case condition. And consistency or viscosity of
+the liquid components both before and after processing.
+So that I have already told you, so and the size, shape and weight of the solid components be
+both before and after the processing to determine the critical particle. Actually for example if I
+have a liquid food so in that my particulates is there. So normally the heat penetration test should
+be done for the higher diameter, higher dia particle, so if it is a higher dia particle then the
+geometric center would be the slowest heating point. So this takes more time for the heat to
+penetrate than the smaller dia particle. So this is also to create such shapes also one of the worst
+conditions. So that it increases the heat penetration so that my F value also be safe.
+(Refer Slide Time: 27:09)
+And the  products  again  then  potential  matting  and  clumping  of the  solids.  So  this  during
+blanching I have discussed, so some of the leafy vegetables when you blanch it so they form a
+mat and the heat transfer rate would be decreased. So normally we consider in the ideal case
+situation so it is going through a blancher, very smooth manner but that will not be the case. It
+may form a large clumps and the preparation method blanching that can affect the particle
+density.So this we have seen when you apply the blanching then normally it softens the vegetable so
+automatically your density would be varying. And rehydration of dried components so if you use
+dried rice that will heat more slowly compared to the hydrated form. So this is also one of the
+worst conditions and heating mode for the selection of probe position in the container whether
+the product heats by conduction, convection and mixed or broken heating. So this also we have
+discussed already.
+So for example, if it is a conduction food and so then my geometric center of the can would be
+the, my slowest heating so but if I have a convection then I have told probably 1 by tenth of the
+height from bottom because what happens in the convection is when you heat it so your hard
+fluid will go up due to less density and the cold particle will come down so what happens in the
+convection is so this kind of circulation happens. So the slowest heating point would be the
+center  vertical  center  at  the bottom.  So for the  conduction  pure conduction  you will  have
+geometric center of the can. So you can create worst case conditions for this heating mode of
+selection as well.
+(Refer Slide Time: 29:03)
+And as far the container is concerned type of the material including which cans, metal cans or
+glass jars or plastic pouches or semi rigid containers etcetera. And nesting possibilities, nesting
+possibilities in the sense when you stack the can inside the thermal processing container so there
+may be a closed nesting possibility so because of which air is getting trapped in between thecans. So air is not a good conductor. So the heat transfer rate would be decreased in between the
+containers. And vacuum and headspace that affect the heat transfer through the top surface so
+this  we discussed enough because there  is  a process  called  exhausting. So the  purpose of
+exhausting is this so we always remove the headspace here for many reasons. 
+So that is also one of the worst case condition, there also you can create one of the worst case
+condition. And orientation of the containers that loaded in the retort because symmetry of the
+rotation. So because we have seen the best on the heat transfer phenomena so there may be a
+change in the slowest heating zone.  So orientation of the containers also matters. So how do you
+rotate, whether it is an end to end rotation or axial rotation so based on that also your heat
+penetration will differ.
+(Refer Slide Time: 30:26)
+And the mode of the heating we just have seen whether it is a condition or convection and what
+are the heating mediums used whether it is a steam, steam air or water immersion and venting
+scheduled if the steam is used as a medium and overpressure profile this also we have seen, over
+raining pressure compressed air is used to balance the pressure immediately after the heating in
+any of the thermal process to compensate the pressure outside the can which is inside the
+container. And actually the volume of gas inside the flexible package we have also discussed this
+because if you have a trapped gas, there may be a blown out situation for the flexible packaging
+so that can also be checked as one of the worst case condition.And retort come-up time, so most of the cases we calculate the F value keeping the come-up
+period as short as possible so there also we can create worst-case condition and racking dividing
+system that enable the containers to be supported but reduce the voidage for media to pass
+through. So this I have discussed here, cans nesting possibilities. so if you have a can very
+closely then there may be air trapped and also if you are using the thermocouple when you keep
+the thermocouple in between two cans that may open up flow channels so that also one of the
+worst conditions.
+And rotating conditions, so in one of the lectures I have also discussed the heat penetration
+parameters so in that parameters I asked many of the certain parameters so those parameters gets
+affected by the rotation condition, you may refer further. So we have checked what are all the
+conditions, worst conditions I can employ in the normal production so that my F value is getting
+calculated as a safer value. So we have discussed for the container, for the product as well as for
+the medium heating medium to be used but the problem here is, you cannot employ all the
+conditions together with their critical limits. As I told earlier the safer value to be calculated that
+also should be in the critical limit if it goes beyond certain level then your products get too
+overcooked.
+(Refer Slide Time: 32:52)
+The temperature measurements, there are two tests one is TD. TD takes care of the temperature
+distribution within the container or retort. The heat penetration test measure the temperatureresponse at the cold point. So these are our two examples one is the heating in the steam so in
+heating steam the cold spot is the close to the center of the container but if we use the heating
+medium as a water shower, hot water shower. So then when it reaches here it may be temperature
+less than that of the top. So your cold spot happens to be in the near the bottom of the basket.
+(Refer Slide Time: 33:28)
+So the TD test or temperature distribution test, the position the probes within the batch of food
+containers requires thermocouple wires to be trailed between the containers. So this can open the
+flow channels this just we have seen when you insert the thermocouple wire in between the
+containers that may open up the flow channels. And due to that reason so instead of using the
+invasive type temperature measurements, there is another type which is nothing but a remote
+logging system. But remote logging system the disadvantage is unless your loggers are removed
+you cannot see the temperature values, so that is the one of the disadvantage.
+So further complication in TD testing is that a uniform TD throughout the resort does not
+necessarily imply the heat transfer to the containers also uniform. So I checked the temperature
+distribution throughout the container but whether that particular heat is just a transferred to the
+cans further or not we cannot check because we have already discussed. So in between the cans
+if  the  air  is  trapped  then  that  it  decreases  the  heat  transfer  coefficient  so  the  temperature
+distribution what you are seeing in the container may not be transferred to the cans. Then an
+additional heat distribution study is advisable if there are concerns about the air entrapment orheat  transfer  coefficient  reduction  throughout  the  container  load.  So  this  is  what  we  have
+discussed.
+(Refer Slide Time: 34:55)
+And in rotary retorts air will collect at the crate center, this occurs as the consequence of
+centrifugal effects of heating media, for example I am using a, I am employing a rotor here so
+your steam is employed as a steamer or hot water is employed as a heating medium. So what
+happens when the rotor rotates, so it has a centrifugal action so it it throws the heating medium
+near the walls of the container. So what happens is near the crates right what we have, so in the
+crates we have the air entrapment. So already we told the air entrapment is there then you would
+not get the necessary heat transfer. So that also affects in the temperature distribution test.
+So the containers should be filled with the consistent material that heats at the same rate to the
+product. When you do the temperature distribution test you also have to fill your container with
+the same food material for which the process value is designed, otherwise then you may not end
+up with the correct F value. The TD test retort should be tested on its installation so the TD test
+should be tested on its installation and also the rechecking to be done once in a 6 months. And
+apart from that if there is any of these conditions are prevailed then also we need to do TD test
+one more time. One is relocation of the retort, modification of the steam, water or air supply, replacement of the
+key components, any pumps, walls are replaced. Then also we need to do TD, and repair or
+modification to the water circulation or stem injection system. And if there is any doubt about the
+performance of the retorts then there also we need to do temperature distribution test. 
+(Refer Slide Time: 36:49)
+So this is the definition given by the GMP, good manufacturing practices so in a steady state
+operation  the  temperature  spread  across  the  sterilizing  vessel  should  ideally  be  1  degree
+centigrade or less. In some of the lectures I would have told you 0.5 degree, when this degree of
+control is not achievable due to design or characteristics of the equipment. Any deviation from
+the limit should be allowed in the schedule process which is safe. So most of the time only 1
+degree  is  available  1 degree is allowable  for the TD test. So throughout the container  the
+temperature should be evenly or equally distributed.(Refer Slide Time: 37:33)
+And heat penetration test it is to determine the heating and cooling behavior of the specific
+product in order to establish the safe thermal process regime to provide data to analyze the
+process deviation. So the design of study must ensure all the critical factors are considered to
+deliver the thermal process. So these critical factors, if you check our earlier lectures you will get
+to know and the guideline for recommendation is heat penetration test is conducted then after
+that  the  F  value  is  calculated  and  you  go  for  process  establishment.  Even  at  the  process
+establishment stage so we supposed to check 3 samples in 3 runs. So this is the widely followed
+and nowadays they follow 2 runs in the 10 samples. So in 10 samples you do it for 2 replicate
+runs to check whether the F value what you established is correct or not based on the heat
+penetration test.(Refer Slide Time: 38:35)
+HP study should be carried out prior to commencing production of a new product or change in
+process or the packaging. So once the process is established it also requires 3 months, once we
+supposed to do heat penetration test and especially when commencing the new product or change
+in the process or packaging you must do the heat penetration test. And normally in the food
+industries they do not do it because we always ensure the F value is safer because we are
+calculating it by employing the worst case conditions but it is very much important to record it. 
+So that means the conditions determine the study referred as the scheduled heat process which is
+nothing but a process established for a particular F value. So that must be followed for every
+production batch and appropriate records taken to confirm that this was followed. So every batch
+we need to ensure the particular process value is established so that we need to have a record and
+still certain industries still do it at least 1 # can during the processing but they it may not be
+recorded because you would not get anything significance because the process established is for
+safer level because instead of 3 minute you are employing 6 minute.
+So most of the time your all the target organisms would be killed so even though you check, that
+is a good check but even though you check that may not be of any useful because already the
+process is in safe conditions. But if there is any problem in the processing then that time it is
+useful for that only we always have a record, record of the particular F value is checked in the
+particular process. And HP test is usually subdivided into 2 further stages, one is locate the coldpoint and second to establish the process conditions. So we have already told that LR is nothing
+but 10 to the power of T minus T reference. So this T is calculated at the, so this T we take care
+of the coldest point in the container. 
+(Refer Slide Time: 40:44)
+So these are all the examples so this is nothing but a conduction, conduction food, the conduction
+you will have get it geometric center. This is particulate food, you will have both liquid and solid
+so it happens to be this is the conduction where the geometric center is there. So this is the
+vertical line so your coldest point happens to be at between the 1 by tenth of the container from
+the bottom and the geometric center.
+So it lies in between so if it is a pure liquid, so as I told earlier if it is a convection process then it
+happens to be at the bottom that is nothing but 1 by tenth of the height of the container right. So
+the temperature is measured at these points and substituted here here and the process value is
+calculated further either DT upon log N nought, so this is using log reduction method and this is
+using their temperature sensor method.(Refer Slide Time: 41:47)
+So the temperature measurement system wise so this is one example where your thermocouples
+are connected to the data logger. So this is having 16 channels so it can be kept in the process or
+process container or the product and from that the temperature is recorded. And nowadays T type
+thermocouple is mostly used and now we got PT 100. So this was based on the electrical
+resistance, electrical resistance from which your temperature is measured. And another technique
+is RTD so resistance time detector so all these can be used as a temperature sensor.(Refer Slide Time: 42:34)
+Log reduction method happens to be in two way, one is microorganism of known heat resistance
+usually in spore from in which the initial number and final number are counted and used to
+calculate F value, so this we have just seen. And biochemical systems what we do is the enzyme,
+so  what  is  the  concentration  of  the  enzyme  before  applying  a  thermal  process,  after  the
+application of thermal process and what is the concentration of my enzyme so from which the F
+value is calculated.
+So this is nothing but DT log of the concentration at the initial enzyme concentration and
+concentration at the final. So this D value is nothing but for the 1 log reduction of enzyme
+activity, the time versus enzyme activity, time versus enzyme activity for 1 log reduction how
+long it takes so that is nothing but DT here and initial concentration of the enzyme and the final
+concentration of the enzyme.(Refer Slide Time: 43:40)
+So 2 methods, one is microbiological spore method, so in that the log reduction is taken into
+account and converting this to process value of the target pathogen and non pathogenic organism
+with the high D value is used because you need to conduct the test in the laboratory or in the
+industry. So in the industry it is not advisable to have a toxic microorganism so we need to find
+out the microorganism which is having the same z value or the reference temperature level which
+has the higher D value than the target organism so with which the tests are being conducted. 
+Because why we need to have high D value is already I have established a safer process so
+instead of F value of 3 minutes I already established as a 6 minutes. So in this 6 minute no
+Clostridium botulinum species would be surviving. So I need to have a higher D value of the
+similar organism which is nothing but a surrogate organism we call it. So we need to find out
+higher D value but z should be as same as C.bot, our reference temperature also should be same
+with which I will be conducting the microbiological spore test so which is soft non-pathogenic
+organism.
+An alternative way is to use gas producing organism and eliminate the severity of the process by
+the number of cans blown away. So this also can be checked and microbiological method can be
+conducted using organisms distributed evenly throughout the food product or encapsulated in
+cell. So this happens in 2 way, for example if it is a solid food the initial spores should be mixedproperly and the number of spores should be distributed uniformly in the product and if it is a
+liquid product we use the encapsulated spores so encapsulation material here is alginate beads.
+(Refer Slide Time: 45:47)
+So the inoculation test measures the average thermal process in a container. If the product is a
+liquid, it is relatively easy to introduce these spores as a encapsulated material. The for solid
+product it is necessary to first mix these spores into the one of the ingredients and to ensure that
+they are disposed evenly throughout the container so this is important. Otherwise one particular
+region the contamination would be higher, thus spore forming organism C.bot the reference
+temperature is 121.1 and the D value is 0.1 to 0.3 and the z value is 8 to 11.
+So if you see the sporogenus as well as Bacillus species and Bacillus subtilis, so all are having
+the same temperature, reference temperature range and the exact value is almost within the range
+but they have higher DT values. So that means so they still survive after the thermal processing
+so by which you can determine the log reduction value which is equivalent to the most heat
+resistant pathogenic bacteria C.botulinum. (Refer Slide Time: 46:53)
+So this is one small example so what they have given us in inoculation test uses 1 gram of spores
+of C.sporogenus supplied by the microbiology laboratory with a measured D value of 1.2 minute
+at a concentration of 5 into 10 to the power of 7 per gram. The can of food for process
+measurement has a mass of 400. The question is what is the maximum process value that can be
+measured? 
+The process value is nothing but DT over log of N nought upon N. So N nought is given which is
+nothing but 5 into 10 to the power of 7 per gram but here your used food is 400. So it is coming
+around some 1.2 into 10 to the power of 5. Please check this value so if you substitute here the
+DT value is given which is nothing but 1.2 and log of if the final count is not given so maybe I
+will take it as a 1. So then it comes around 6, the F is 6.(Refer Slide Time: 48:03)
+So biochemical assays you can use only in the pasteurization process because most of the
+enzymes are not heat resistant, so you can use it for only the pasteurization. But some of the
+organism which is nothing but Pyrococcus furiosus, so this produces amylase which is heat-
+resistant from the TTI encapsulation method. TTI is nothing but time temperature integrators so
+that encapsulation method uses the silicone tubing of 2.5 mm bore with the liquid TTI sealed in
+by silicon end plugs.
+So the liquid TTI is nothing but here the amylase. Amylase is kept in the tubing which is having
+a diameter of 2.5 mm and it is also sealed with the silicon end plugs. So from that we use the
+syringe and take the amylose solution in between to check for its activity. So these amylase
+solutions are one of the few biochemical system with the appropriate kinetics, normally for the
+log reduction we follow the first order kinetics so you may refer the kinetic parameters lecture.
+So for the amylase we follow the first order kinetics so the amylase also follows the first order
+kinetics which most of the microorganisms follow and D value to be large enough for the
+residual activity to remain after the process. So this we have already seen for the D value should
+be higher when compared to the target microorganisms, for the nonpathogenic microorganisms. 
+Same thing here for the amylose also the D value should be larger enough so that it can still
+withstand the temperature applied in the thermal processing. So we told here the TTI, the TTI is
+nothing but Time Temperature Integrators so it both comes under the same category. One ismicrobiological spore method as well as the biochemical system but biochemical system it is
+most appropriate.
+(Refer Slide Time: 50:04)
+Because  it  is  a  small  measuring  device  that  shows  a  time  temperature  dependent  easily,
+accurately, precisely measurable irreversible change that mimics the change of the target attribute
+undergoing  the  same  variable  temperature  exposure.  The  target  attribute  may  be  your  log
+reduction or sometimes water activity level which prevents the microbial growth or sometimes it
+is a salt phase level salt in water phase level etcetera.
+So it need not be always the microorganism reduction level so I can do it by any method. So this
+we are applying heat and checking the log reduction so it can be done in lowering the heat water
+activity or it can be done in lowering the pH so those also comes under this target attribute. So
+which goes the same variable temperature exposure but we need to always remember that the D
+value should be higher than that so it can withstand in the temperature.(Refer Slide Time: 51:10)
+So whatever the TTI we developed that should be of inexpensive easily prepared and easily to
+recover and give accurate and user friendly read-out. Should be incorporated in the food without
+affecting  the  heat  transfer  within  the  food  and  should  experience  the  same  t-T  profile  as
+parameter under investigation. So for example one example is in the carrot the sodium alginate
+beads which is having the non-pathogenic spores is impregnated. So when you make such
+alginate beads this should be of same food quality. For example, all the properties which is for
+the food also to be the properties for the alginate beads so that means 90 percentage of the food
+quality this alginate bead should have.
+So in that inside you keep the spores and keep it inside the food material to calculate the log
+reduction for the heat penetration test. So in such cases it should be of same food quality and also
+it  should  experience  the  same  t-T  profile  then  only  the  investigation  of  time  temperature
+combinations would be correct. And dependency of the rate constants of the TTI and target
+attribute should be described by the same law, so this we have just seen. So my microorganism
+death rate also follows the Arrhenius model and the same way my amylose inactivation also
+follows the same Arrhenius model so that my kinetic parameters would be same for both the TTI
+as well as the target microorganisms.(Refer Slide Time: 52:48)
+And time temperature integrators the cost is low, the accuracy is depends upon the robustness of
+kinetics and non-invasive nature yeah because I can impregnate into the food and batch and
+continuous system microbial contamination not a concern because when you use directly instead
+of biochemical assay if we use the microbial spore method there may be a problem there may be
+a chance for contamination. But here in the biochemical TTI you would not be having the
+microbial contamination. And limits of uses if properly designed implantable system and specific
+F value process to ensure the residual activity. So as I told it it should have same kinetic
+parameters of the target organism so that is very much important. (Refer Slide Time: 53:41)
+So then is biochemical system the z- value should be 8 to 11, as we already told the reference
+temperature as well as the z-value should be same and the D value should be higher to withstand
+that particular temperature. The key attributes of Bacillus amyloliquefaciens for alpha amylase
+TTI is, the operating principal is reduction in amylase activity response to the time temperature.
+Amylase assay to measure the absorbent rate using the spectrophotometer so I already told it in
+the silicone tube the amylase is put and implanted in the testing zone and I will use the syringe
+and take the amylase in different times and so then I will go and check for the amylase activity
+using the spectrophotometer at the particular absorbents.
+And active temperature range is 60 to 100 degree the z-value is 9.7 plus or minus 0.3. So again
+10 whatever we used for Clostridium botulinum. And decimal reduction time D at 80.7 is 18.7
+minutes  so which is higher than the target organism, process value is pasteurization value,
+sample size is 0.02 ml. Why pasteurization value we cannot use it for sterilization because it
+inactivates at that high temperature.
+So  to  sum  up  there  are  2  methods  with  which  we  can  calculate  the  time  temperature
+combinations.  So  these  time  temperature  combinations  can  be  substituted  in  the  F  value
+calculation and the process is established then it has to be validated whether the particular F
+value is safe for the products to be produced. The 2 major categories are one is the temperaturesensor itself the second one is log reduction. In the log reduction there are again 2 categories one
+is using the microbial spore methods and one is using the biochemical system.
+So these both are called time temperature integrators or you can directly measure using the
+sensor as well but sensor you cannot keep it in a continuous process and always we need to
+remember the worst case condition is created in the normal production for that the safer F value
+is designed and while selecting the worst case conditions we need to be careful because there
+should always be a balance between the worst case conditions and normal production conditions
+if we are going for F value which is critically safer then we might end up in overcooking the
+product. 
+(Refer Slide Time: 56:26)
+So these are all the measures we need to take care while doing the validation process so these are
+the some of the references and additional sources you would like to refer for further clarification.
+Thank you.

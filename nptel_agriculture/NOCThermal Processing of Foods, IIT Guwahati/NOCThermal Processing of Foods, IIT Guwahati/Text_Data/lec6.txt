@@ -1,0 +1,459 @@
+Thermal Process of Foods
+Professor R.Anandalakshmi
+Chemical Engineering Department
+Indian Institute of Technology Guwahati
+Lecture No. 6
+Temperature Distribution and Heat Penetration 
+Good morning all, today we all are going to see temperature distribution and heat penetration 
+studies for thermal processing of food. So before going in to that we will just see what is a 
+motivation for us to do the temperature distribution and heat penetration test.
+(Refer slide time: 0:52)
+The goal of any thermal processing is to ensure that the slowest heating point which is 
+nothing but a cold spot within a product container which receives adequate thermal treatment,
+right. So till now what we have seen is, we have seen the basic thermal processing which are 
+going to applied for the food and also we have seen one lecture on food microbiology, right. 
+So after doing so the end goal is to go for a processes establishment.
+To go for a processes establishment, I would require the time temperature combination, so for
+such time temperature combinations, I after determining the time temperature combination 
+we supposed to do these two test which nothing but a temperature distribution test and heat 
+penetration test to establish the process in industrial scale, right. So before going into that I 
+would like to remind you certain thing whatever we have done in earlier classes. So if you 
+remember we told that,(Refer slide time: 2:03)
+Either microorganisms or enzymes or any nutrient, the inactivation kinetics follows first 
+order right. So if we remember what we have written is minus dN, dt ,so this is nothing but 
+the depletion of N, so N is for here the microorganism if it is enzymes or nutrient it is a 
+concentration which is nothing  but C so which follows KT  into N, right. So when we do the 
+further integral calculas, so this is N 0 initial concentration to final concentration N and 
+which is nothing but KT  0th time to time t into dt, so which further gives me ln of N0 upon 
+N, so which is nothing but KT  into t, right. 
+So remember here minus sign is there so I have written ln N0  upon N. So or if you want to 
+write, you can write in same way minus ln N upon N0  which is equal to KT  into t or N upon
+N0  is nothing but e power minus KT  into t, right. But we also learn the dt value which is 
+nothing but a thermal death time or decimal reduction time. So which is nothing but time and 
+minutes or seconds on x-axis, so on the y-axis it is in the log scale so 1, 10, 100, 1000 so 
+which is nothing but the log scale.
+So we told that it follows the log linear relationship and for one log reduction what is the 
+time, so that is nothing but my dt, right. So, since we are using in the log scale here it would 
+be convenient for me to convert this ln scale into log scale so ln into log what you get is 2 
+point 303 into log of N0  upon N and KT into t, so if you want to do it in log N0  upon N 
+which is nothing but KT upon 2 point 303 into t.
+So this K can be related to dt as 1 upon DT, right. So then we can do it 2 point 303 into DT, 
+so if you want to write DT here, so this can be written as 2 point 303 upon K. So if you want to represent in terms of log N0  upon N, the same relationship goes like this so log N upon 
+N0 is nothing but it is in the tenth scale, so log tenth scale so it is KT into t.
+So the K and DT relation is KT is nothing but 1 upon DT, right. The DT can be found out 
+from here or otherwise, for example, if you do, if you write the same equation in this form of 
+v equals to mx plus c log N minus log N0 which is nothing but log10 will get cancelled 
+minus KT into t so it is nothing but log N which is equivalent to log N0 so minus KT is 
+nothing but 1 upon DT so this is t right. 
+So I can get my slope if you draw a line so this log N versus time so this is x-axis so whatever
+you get here intercept as a log N0 and your slope is minus 1 upon DT. So that way you can 
+also find out DT, right. So this we have already seen so how to find out DT and remember we
+have told it follows the first order kinetics, the rate constant K is nothing but function of 
+temperature here.
+So whatever we are doing it here is for constant temperature, right. For example, if you are 
+applying any thermal processing my temperature has to rise from the initial product 
+temperature to the processing temperature. So in that case I will have temperature variation 
+depends upon the time, right. so in that case, I would require such DT values at different 
+temperatures. So that is why the concept of Z value come.
+(Refer Slide Time 7:27) 
+So the Z value is nothing but same concept but is at x-axis so you have a temperature which 
+is in degree centigrade. So in y-axis you have log DT values. So the same linear log linear 
+relationship, so the slope is nothing but minus 1 upon Z right. So from this I can find out my Z value which is which will be in degree centigrade. In the previous graph so what you get 
+here is DT which is in time unit either minute or second, okay.
+So I will collect certain DT value of different temperatures then I will plot temperature versus
+log DT so the slope is nothing but minus 1 upon Z. So from there I can calculate Z value. The
+another important value is nothing but F value by which only I am going for this is equivalent
+process value so with which I am going for the process establishment, right. So this F value is
+when you refer so it is nothing but F of T reference and Z, right.
+What is my T reference temperature and what is my Z value. So which is equivalent to zero 
+to T lethality rate into dt. So what is this lethality rate, so this lethality rate is nothing but 10 
+to the power of T minus T reference upon Z right. So Z is the reference Z value, this is 
+reference temperature, so this is the temperature, most of the time it is a function of time, the 
+temperature is the function of time that is why you are integrating to 0 to T.
+So then your F value which is nothing but F of T reference at Z is equivalent to 0 to T 10 to 
+the power of T minus T reference upon Z into dt, right. So this is my F value. So here 
+remember there are certain process which are constant temperature process. So by now we 
+know the sterilization process, right or pasteurization.
+So we were talking about in the earlier lectures the holding, right. So heating up to the 
+particular temperature and holding it for certain time, right. So for example, in the 
+pasteurization if you see 63 centigrade for 30 minutes. So it means that first from initial 
+product temperature to 63 degree it is getting heated and it is hold at for 30 minute. So in that 
+case it is a constant temperature holding, so if my temperature is constant here then there is 
+no need.
+So what I would be doing in that cases it is nothing but 10, 10 to the power of T minus T 
+reference upon Z so 0 to T dt so which is nothing but T into 10 to the power of T minus T 
+reference upon Z ,right. So this the way I calculate the F value. So if my reference 
+temperature is nothing but 121 degree centigrade or if Z value is 10 degree so which is 
+mostly applicable for Clostridium botulinum. So then my F value is called F0 value. so this 
+also and one more thing is we are talking about here about the microorganism.
+So if I talk about in terms of nutrient quality that I called as C value. So here I told lethality 
+rate, lethality rate is nothing but into the power of T minus T reference upon Z but if my 
+cooking value if I need to find out for the nutrient it is nothing but 0 to T 10 to the power of Tminus T reference remember this is a temperature of the product where you wanted to 
+calculate the nutrient deactivation or nutrient deterioration.
+So this nothing but Z C so the corresponding Z is for vitamin or any nutrient, right. So that is 
+Z C, right and also this F can also be related with your D value which is nothing but D 
+reference into log of N upon N0, N0 is nothing but initial microbial concentration and N is 
+nothing but the final microbial load right.
+So this are all the basics before going to temperature distribution or heat penetration test I 
+should be knowing, right. So what are all those, the DT value thermal death time value and 
+the Z value so which is a function of temperature. So then my F value, right. So now we will 
+go back and check here, so the goal in thermal processing is to ensure that the slowest heating
+point within a product container receives adequate thermal processing.
+So the moment I say for example any pasteurization or pasteurization which goes by 
+conventionally 6D process or sterilization which goes by 12D process, so for that example we
+have just seen right 63 degree, 30 minutes means so my cold spot or the slowest heating point
+should receive 63 degree for about 30 minutes. Sothat is what the goal of thermal processing 
+is.
+So for in-container sterilization process there are two stages of thermal process establishment 
+in-container in the sense batch, so one is temperature distribution test so that is what we are 
+going to discuss in the whole class and to identify this slowest heating zone. The second one 
+is heat penetration test to determine the temperature history of the cold spot in pre-packaged 
+food. For example, canning or the retorting, right, the pre-packaged food is in the cans so 
+what we are doing is retorting.                                                                                              
+But why we specified specially in-container sterilization for the inline sterilization, you may 
+not require the temperature distribution test because it is directly the heat is given to the 
+product so you would like to have their heat penetration test only. So this may not be required
+but it is a in addition, in addition to the heat penetration you may would like to have but that 
+is not necessary.
+ (Refer Slide time: 14:12)
+So the temperature distribution test is nothing but to see which is the coldest point in the 
+container itself or whether my container receives the process temperature uniformly, right. So
+that is what we wanted to do temperature distribution test so my container everywhere the 
+temperature is distributed uniformly or not. So that is what we are meant by temperature 
+distribution test.
+The first step in conducting the test is the selection of test retort. First we need to select the 
+retort with test retort then the survey of the processing room should be done to select the test 
+retort. So where I am going to keep my retort, the survey include the examination of the 
+following factors, one is if they are applying the steam the steam quality, temperature etc.
+Then the air because we have already learn that so to have the pressure balance between 
+inside the can and outside so we will also use compressed air. Then water supply to the retort 
+for the cooling period and the type of retort and size of the each retort in the retort room there
+are certain sterilizes one of the we would be seeing hydrostatic sterilizes so that operates 
+based on the hydrostatic pressure so I need to have hydrostatic pressure so I need to operate 
+that particular sterilizer and the certain height.
+So that may not be the sterilizer may not fit into that particular room the processing room so 
+in such case so where should I keep so in that case the size of the each retort also comes into 
+play when I do the survey and purging and drainaging whether proper system is employed 
+and retort loading conditions. The container information which type of product we are going 
+to heat and maximum number of container retort.So this also we have seen. So there are certain regulations are being employed, the container 
+size as well as the retort size. So based on the size of the container we can fix the number of 
+container in the each retort, there are standard size which is nothing but good manufacturing 
+practices you may would like to refer for that.
+(Refer slide time: 16:25)
+So to conduct the TD test, the situation resulting in worst case conditions for commercial 
+operation should be selected. So this worst case condition is nothing but whenever I select the
+F value, F value is nothing but from here, right, from which I will calculate the F value so this
+F value we go for say for F value say for example, if my F value is nothing but 2 point 4-
+minute, right. So which is for 12D reduction of Clostridium botulinum. So I may would like 
+to go for 4 times or 5 times of that, right. So that means I am ensuring my process is safer, 
+right.
+So if for such cases I would like to create a worst case condition, worst case condition in the 
+sense, for example, one example we can see, So we can create this by losing the initial 
+temperature of the product. So though my initial temperature of the product is at  atmospheric
+condition for say 30 degree centigrade, so I would like to start this with 25 degrees centigrade
+so I will take 5 degree less than actual temperature of the product so that the heat treatment 
+what I am employing ensuring the 5 degree.
+For example, instead of 30 degree if I am able to heat from the 25 degree, so I am applying 
+extra heat right for the particular thermal processing this is nothing but one example for worstcase condition, right, so that I am keeping my thermal process safe to kill all the 
+microorganisms in that particular thermal processing.
+So in that way I create worst case conditions and container may be filled with water for
+convection heating product. So while doing test if it is a convection heating product so
+instead of liquid food product I would use water. If it is a conduction heating process most of
+the time direct food product itself would be use or starch solution. So which gives me a very
+thick solution, right.
+So that also can be used during the conduction heating product, and temperature measuring
+devices  in sufficient  quantity  should be used to monitor  the temperature  of the heating
+medium within the retort. So why we are doing this temperature distribution test, when my
+steam is on inside the retort so whether the steam the heating medium or steam, what I am
+using would be able to heat the retort uniformly, right.
+So for that I need to employ temperature measuring devices in sufficient quantity so that each
+and every almost all the places I am checking my temperature whether it is equivalent to the
+heating medium temperature. The most common TMDs are, temperature measuring devices
+are  duplex  type  thermocouple  which  is  nothing  but  copper  constantan  with  an  Teflon
+insulation.
+(Refer slide Time: 19:16)  
+And also you need to remember the earlier classes. So we also told right, so the retort will have flow
+meters, then temperature detectors then pressure then for steam the bleeders, vents etc. So I also need
+to ensure the pressure indicating devices should be used to monitor the pressure in the retort shell andalso the flow meters should be used to measure the flow rate of the process water during come up and
+heating time and also test should be conducted at the maximum retort temperature used during the
+process, right.
+So while doing the test then we need to ensure it is a maximum retort temperature for say 121 degree,
+right. So these are also to be ensured while doing the temperature distribution test and the critical
+parameters which should be recorded during temperature distribution test includes the temperature
+controller set point.
+So this is the processing temperature set point and another one is initial temperature of the product
+then the time when steam is turned on the heating medium and the temperature of the heating medium
+and I am turning on the heating medium and flow rate of the heating medium time and the reference
+TMD achieves the process set point, for example, my initial product temperature is at 30 so I am
+switching on the steam on 121 degree centigrade. So then I also need to record the time when the
+reference TMD achieves the process set point, which is nothing but 121 degree centigrade. 
+And also this is the come up time which we call it as a cut is the time required by the retort to attain a
+minimum required process temperature with uniform temperature distribution in the retort. So if I
+want to fix the retort temperature as a 121 degree centigrade. So from switching on the heating
+medium to evenly distribute the retort to 121 degree centigrade, what is a time taken which is nothing
+but the come up time. So these all critical parameters should be recorded during TD test.
+(Refer slide time: 21:39)
+So the second one is heat penetration test. As we said earlier that the temperature distribution test is
+done  in the  retort  or  in the  container  to  ensure  the temperature  is uniformly distributed  in the
+container. This heat penetration test is done on the product side whether the coldest point of theproduct is achieved the thermal processing temperature or not, right. So to determine the heating and
+cooling behavior not only heating then after the thermal processing we also cool the product to the
+normal atmospheric temperature, so that also taken to account.
+So to determine the heating and cooling behavior of a specific product package combination in a
+specific retort system for establishment of a safe thermal processing. So our aim is to make even cold
+spot to achieve the correct thermal processing temperature. The HP study is conducted before starting
+production of a new product using a new process. So mostly the test is conducted when we start the
+new product in the new process and also there is a guideline 6 months once you need to also test to on
+whenever you change something for example valves or pumps if such cases are changed then also you
+need to do this TD as well as the HP test in the in container thermal processing if it is a in line thermal
+processing then you can go for heat penetration test. 
+The test involves locating the cold spot in the food within the package and establishing the scheduled
+process time and temperature. The conduction heating product in a cylindrical can, the cold spot is at
+the geometric center of the can. So this I think probably we have discussed already also so this is my
+can so if it is a solid food particle then my geometric center of the can would be the coldest point
+because what we are employing the heat is at the valve so when it penetrates so based on the thermal
+conductivity of the solid particle, so the coldest point lies in the geometric center of the container.
+If it is a convection heating in the cylindrical can, the coldest part is between the geometric center and
+the base of the container. So in between somewhere so mostly they say 1 by 10th of the height of the
+container and also for example, if I have a solid particle in the liquid, then it may be between the
+bottom, so this height to the geometric center of the container. So in between somewhere it lies.
+(Refer slide Time: 24:19)
+So in heat penetration test a study should be conducted to determine the location of the cold spot for a
+specific product package process combination. So this is like if I know the cylindrical can and if I
+know the products of fully solid particle then I can come up saying the geometric center would be the
+cold spot but however so we need to insert the thermocouple and we also ensure that is the cold spot
+of the product package process combination.
+And the cold spot is usually determined by conducting series of HP test employing several container
+with the thermocouples inserted at different location. So it is not like one container I will just keep
+and thermocouples I will place it at 10 different places and conduct the HP test it should be done with
+several containers and also several thermocouples inserted at different locations. 
+The design of a HP test should consider all the critical factors to deliver adequate thermal treatment to
+the slowest heating point with in the product. So it also has to be taken into account all critical factors
+what we have seen for temperature distribution test. So we are going to see what are all the critical
+factors and HP test should include at least 10 working thermocouples from each test and HP test
+should also be replicated to account for product, package and process.
+So we need to repeat it most of the times two replication would be done if any of the two replications
+are quite different then we may go for third one as well. So the essences we need to do it for number
+of containers and we need to do it with number of thermocouples inserted at different places and the
+replications also should be done based on the product, package as well as the process.
+(Refer slide Time: 26:12)
+So in terms of containers what are all the critical factors. So one is type, metal cans, glass jars or
+pouches or semi-rigid containers which one. The second one is size and dimension of the container
+then whether the vacuum is created inside the container or not and the headspace involved andcontainer orientation whether we are keeping it vertical or horizontal. Then fill method used during
+the packaging then symmetry of rotation, symmetry of rotation whether end to end. End to end in the
+sense, so you do it like this so the axial rotation is also there so it is in this way, right. So the
+symmetry of rotation also to be taken into account. 
+(Refer Slide Time: 27:00)
+And the second one is the product also. The product formulations, the product fill weight and the
+viscosity of the product and the solid components present in the product and preparation method how
+did we prepare the product and any rehydration is there when I am processing the dried components
+and heating mode whether it is conduction, convection or which mode I am using and pH of the
+product and water activity of the product, density. So all are critical factors when we do the heat
+penetration  test,  because  it  obviously  effects  my  temperature  distribution  from  the  wall  of  the
+container to the food products.(Refer slide time: 27:37)
+Then the filling and sealing factors, fill temperature, seal integrity and retort factors and type of
+heating medium used whether it is a steam, air or steam-air combination or water immersion or water
+spray technique, which type of heating medium I am using then the come up time so how long does it
+take to reach the exact heating medium temperature, then racking dividing system. Racking dividing
+system in the sense I have a retort and here I have a crate so in this my containers are stacked so this
+also the gap between the two containers when I insert the thermocouple. 
+So everything have to be taken into account while doing heat penetration test. Once the cold spot and
+all the critical factors are determined two full replications of each test to be conducted this is what I
+told once I determine what is my cold spot and other critical factors and I need to do at least 2
+replication so if both are bit different then I may go for third one as well. And, so how are we going to
+put it in a curve, right, the heat penetration curve.(Refer slide time: 28:50)
+ So the heat penetration data are evaluated by plotting a heat penetration curve. So the data are plotted
+in such way that there is a linear relationship between the product, temperature and the heating time.
+So right, for example, if I am telling the 63 degrees centigrade for 30 minutes so first I need to heat
+my  product  temperature  to  30  to  63  degrees  centigrade  so  this  involves  the  time  temperature
+combination, right.
+So then after that I will hold it for 63 degree for 30 minute, right. So this talks about how my product
+temperature varies with the heating time. And then plot of log Tr minus Tp, Tr is nothing but a retort
+temperature and Tp is nothing but a product temperature versus time known as the temperature deficit
+plot. So is linear where Tr is the retort temperature first I would be doing heating time versus Tp then
+log of Tr minus Tp versus time which is nothing but a temperature deficit plot.
+Heat penetration curves, which are linear throughout the heating time are referred to as simple heating
+curves, right. So if you are following only one particular mode of heat transfer but if there are any
+changes between the conduction to convection for example I have a container in which my liquid and
+the solid particle are there. First my heat whatever I employed through the retort has to conduct
+through the walls and from walls to this liquid medium it is a convection.
+So this convection heat currant then see the solid wall of the particle which is the solid particle then
+there is a conduction happens then from the wall of the solid food particle it has to penetrate through
+the inside. So there is a convection to conduction changeover is there so in such cases what you would
+get is broken heating curve. Heat penetration curve for a broken heating profile has two linear portion
+due to change in the heating mode from conduction to convection or vice versa. The heat penetration
+data can also be plotted as an inverted scale plot with Tp.(Refer slide time: 31:14)
+So we will just see how my heat penetration curve look like so this is my time so this is log of Tr
+which is retort temperature minus Tp this is nothing but a product temperature. So this must be 1, 10,
+100 I am not drawing into scale just to doing it. So this, this is the way my heating curve looks like
+and also we told, for example, I can plot it directly with the Tp also which is nothing but a product
+temperature which is degree centigrade which is also in degree centigrade if I had to that this is
+nothing but Tr minus Tp equal to 1 when Tp is nothing but Tr minus 1 may be this is Tr minus 10 so
+this is Tr minus 100 and this is Tr minus 1000, right.
+Which includes the come up time so here because of this come up time you will not get straight linear
+curve. So I will extent this to straight linear curve so this point I will call it as a log of Tr minus Tp ih
+which is nothing but pseudo initial temperature, pseudo initial product temperature, right. And also
+there is a factor called Fh, right. So how it is being determined is, so it is nothing but 1 log reduction
+for example 100 to 10. So, so this is nothing but the slope which is nothing but Fh. So if you see from
+the mathematical point of view so I can write y equal to mx plus c so y is nothing but here log of Tr
+minus Tp, right.
+So and my x is nothing but t here and my slope is nothing but minus 1 upon Fh, so m into x plus c, c
+is nothing but the intercept here. So which is nothing but log of Tr minus Tp ih, right. So from this I
+can also introduce one another factor which is nothing but jh, jh is nothing but Tr minus Tih upon Tr
+minus so this is Tp right so this is Tr minus Ti which is nothing but a initial product temperature.
+Because just to tell initial product temperature, so the pseudo initial product temperature is determined
+using just the extra plotting the heating curve. So from this I can calculate this one so which is nothing
+but Tr minus Tpih is nothing but jh into Tr minus Ti.So if you substitute here so this becomes log of Tr minus Tp which is equivalent to minus t upon Fh
+plus log of jh into Tr minus Ti right. So this factor we call it as g right and if my t  equal to B at the
+end of the process at the end of the at the end of thermal process then my B is nothing but so Fh into
+so this goes here this comes there so it becomes minus so then I can write log of jh into Tr minus Ti
+upon g into Fh. So this is nothing but total process time, right.
+So this formula is called Ball’s formula right. So from the heat penetration curve which is plotted as
+time versus log of Tr minus Tp so I can calculate two factors one is Fh and Jh. So from this I am
+calculating the process timing at the end of any thermal process which uses Fh into log of jh Tr minus
+Ti, Tr is nothing but retort temperature, I is nothing but your initial product temperature and jh Fh
+comes from the heat penetration curve if I know g then I will be able to calculate what is the time
+required at the end of the thermal process and also you have to calculate the equal and F value for
+thermal process establishment.
+ That can be done using F of reference into at Z which is nothing but 0 to t, 10 to the power of T
+minus T reference upon Z into dt which is nothing but minus D reference log of N upon N0  okay. So
+this we have discussed this is what I just explained you so the plot of log of Tr minus Tp versus time
+so that we have drawn and from that we also told about the simple heating curve what we have drawn
+and broken heating curve if there is any change in conduction to convection and inverted scale plot
+with Tp also I have shown here using the Tr, so this is Tp versus time.
+(Refer slide Time: 37:33)
+So heat penetration test there are two important parameters that define the simple heat penetration
+curve. One is negative inverse of the slope known as the heat rate factors. So whatever we have
+shown as Fh which is nothing but a heating rate factor which is defined as the time required for the
+heat penetration curve to traverse one log cycles, right. So here you might have seen the one log cycleso what is the time taken which is nothing but a fh and a lower fh value indicate a faster heating time.
+So that is obvious because if you get the time less then, that means you are getting a faster heating
+right.
+The subscript h indicates the F value is for heating process so similarly you can find out fc as well
+which is nothing but for cooling process because any thermal process after the thermal processing is
+done then you suppose to cool the product to the atmospheric temperature. The second factor what we
+have seen is nothing but the intercept of the heat penetration curve. The intercept is obtained by linear
+extrapolation of the curve back to 0 time. So the intercept is nothing but Tr minus Tih where Tih is
+pseudo initial product temperature, I might have shown you as Tpih which is I also have included the
+p term which is nothing but pseudo initial product temperature determined by linearizing the entire
+heat penetration curve right. So this we have seen.
+(Refer slide Time: 39:09)
+And this method involves graphical or numerical integration when the temperature distribution is
+known either from the heat penetration data or heat transfer equations. So this can be done in two
+ways one is either you get by graphically or you can do also numerical integration because you have
+seen here right F reference is at 0 to t 10 to the power of T minus T reference upon Z into dt. So this T
+is nothing but a function of time this can be done either directly from the heat transfer equations or
+you can insert the thermocouple and get the product time temperature history.
+The time temperature draft is converted into lethal rate versus time graph. So the area under the curve
+is nothing but the F value of the process. So once I do heat penetration test, and I come up with the T
+as a function of time, temperature is the function of time then I will be able to calculate lethality rate,
+which is nothing but 10 to the power of T minus T reference upon Z right. So from this I will be able
+to calculate F is equal to 0 to t by LR into dt. So this integration can be performed using numericalintegration either Simpson’s rule or trapezoidal rule or you can simply plot time versus LR so your
+curve looks something like this so then if you calculate the area under the curves so that is nothing but
+your F value. So this way also one can do.
+ Anyway we will do the problem one the particular problem in the subsequent class to make you
+understand  this  how  to  calculate  the  F  value  so  there  is  a  devoted  lecture  for   that  F  value
+determination, there we are going to see, here we are going to see only theory behind it how to do
+temperature distribution test to ensure my retort temperature is uniformly distributed throughout the
+retort and the heat penetration test where your cold point of the food particle receives the temperature
+which confirms the killing of microorganisms or lethality that is what it is told. 
+So it can be done in any numerical method also this integration or you can directly draw LR versus
+time and find out the area under the curves. The thermal process developed by the general method is
+depend on product package process parameters used in the test remember. So this is what the general
+method. So here I am not using any of the formula. So here I can directly get the temperature also
+function of time then using that I will calculate the lethality rate then I use the any numerical
+integration technique or simple graph to find the area under the curve and find out F value.
+(Refer slide Time: 41:58)
+ The thermal process is established only for the actual condition tested because I am just doing it for
+the particular retort temperature and initial temperature, therefore this general method is not useful to
+determine the F value for different retort temperatures and initial temperature of the product. so thus
+the general method does not allow the assessment of the process deviations, right. So the heat
+penetration test can be done in three ways, one is general method, the second one is formula method
+what we have seen right. So how do I relate my B with the perimeters what I am getting from the heat
+penetration curves, so the third one is numerical method. The first what here we are discussing here is the general method in the general method, so I will just
+get the temperature as the function of time then from there I will calculate the lethality rate  from there
+I will calculate F. So this is the restriction here is or limitation here in this general method is I am
+using the actual condition. So which is nothing but the retort temperature and the initial temperature is
+fixed.  So  if I want  to  calculate,  if  I  want  to  change,  for  example,  timing  so  I am  getting  the
+temperature versus time plot for 2 minutes once. If want to calculate what happens at 1 minute 1, I
+cannot change.
+ Because whatever the conditions I have given is for fixed condition. The general method relies on
+time temperature history at the cold point. So thus it can be used for both in-container as well as in-
+flow sterilization. So you can it for both the thermal processing whether it is a batch or continuous for
+a fluid product in an flow sterilization process. The process time for given F value and process
+temperature can be calculated. The required process time must be achieved for the fastest moving
+portion of the fluid particle. So this is very much important. This also we will study in the validation
+of the thermal processor processing.
+ Here what they would like to mention is, for example in the pipe, if my fluid particle is going. So it
+follows always the parabolic velocity distribution for laminar flow. So the product here at the center
+of the pipe is the one which comes out at the earliest. So that means, so these particles here in this
+region stays more compared to this particular particle which is in the center, right. So based on this
+particle  only  the  time  temperature  combination whatever  we  decide to be  done  for  the  process
+establishment. For example, the length of of the holding tube is nothing but Umax into t, t is nothing
+but whatever the time temperature combination that time here it is. 
+So this Umax is nothing but 2 into average velocity, if you consider in the laminar flow. Laminar flow
+is nothing but you consider the fluid as a sheets. And the same Umax is nothing but 1 point 2 into U
+bar, U bar is here is average velocity, if you are taking turbulent flow. Turbulent flow is nothing but
+where  your  eddies  are  forming.  And  also  there  is  another  discrimination  here  whether  it  is  a
+Newtonian fluid or non-Newtonian fluid. Newtonian fluid in the sense which follows the Newtonian’s
+law of viscosity. So that means your viscosity and shear rate follows the linear relationship. And non-
+Newtonian fluids are most of the foods are non-Newtonian. Newtonian example is nothing but a
+water.
+ Non-Newtonian you can consider any juice or for example the thick soups. So those follows as a non-
+Newtonian. So if it is a non-Newtonian then again your Umax will be something as the function of N
+as well as U. N is nothing but the flow behavior index. So like this the length of the holding tube
+which have the Umax. So this Umax depend upon many factors. So these are also to be taken into
+account when you do the heat penetration test. (Refer slide time: 46:03)
+ So the formula method the Ball introduced that I already have derived here, so the B from the heat
+penetration test. General method just to take T as a function and substitute in the lethality rate from
+there it calculate the F value. But here in the formula method the Ball derived formula, just to avoid
+this process because it has a limitation I cannot apply generally. So that is what he come up with the
+formula method.
+So in the formula method what happens is to overcome the limitations of the general method. So Ball
+he is a scientist so related the value of g, g is nothing but the log of Tr minus Tp at the end of the
+process is nothing but g. So he came up with the g to the dimensionless ratio. So he introduced fh
+upon F or Tr. So Tr is a retort temperature for various Z values and cooling lag factor jc. If F value at
+Tr is U then the equation for the DT curve is done. 
+So that means what he did is so log of U so instead of g what we have seen over there so he
+introduced so log of F250 Z minus Tr minus 250 upon Z, okay. So he introduce the factors U here
+instead of g. Then Ball define the reference TD curve. So when he defines this particular equation so
+this equation and the formula what we have used earlier both have same slope, right. So he came up
+with a reference TDT curve so for that he used this particular equation and he taken that F as a 1 F250
+as a 1. 
+So then this equation becomes log of Fi which is equivalent to minus Tr minus 250 reference
+temperature upon Z right, Fi which is the function of Z value and Tr can be found in the literature so
+this literature I have given you. So this Ball, after he defined this Stumbo in 1973 so he has introduced
+that Fi as a function of Z and Tr. So then he defined here log Fi so from this U can be calculated. How,
+so the log Fi is given here as a this one so log U is nothing but log of F250 Z minus log Fi right, so
+minus of minus plus so if I do it.So this is U into Fi F250 Z. So from this U can be calculated right. Thus U can be calculated if the
+value of F250 is known right. So if I know F250 at various Z value then U can be calculated once U is
+determined, the g value, g right, what he did, the g is replaced by U value so then if I know U value
+then g value can be determine from fh upon U and g correlations, right. So he calculates fh upon U
+and g already know from these correlations I will be able to find out my g value. Once g is determined
+then we can calculate B using the same formula, okay.
+(Refer slide time: 49:44)
+So the calculated process time is applicable to processes where product comes in contact with the
+steam at retort temperature without any lag so this is calculated without any cut so if you want to
+account for your come up time then your process time is nothing but B minus poin 42 of cut. 42
+percentage of the contribution to be given to the total processing time. So in batch retort there is a
+time lag in getting the retort temperature so that is nothing but 42 percentage Ball method contributes
+and also he has taken the jc as 1 point 41 and also the another assumption is fc fh so these were relax
+when the Stumb.(Refer slide time: 50:32)
+And one more reference I have given here one is this Stumbo and another one Hayakawa. So they
+both worked on it and they removed the or removed or relaxed, these assumptions made by the Ball
+and they accounted how to increase the accuracy of the formula method.
+(Refer slide time: 50:53)
+And the Ball method often underestimates the F value for conduction heating products and for product
+packed in thin pouches the Ball method can overestimate the F value as the jc value is substantially
+less  than  the  assumed  value  of  1  point  41.  1  point  41  the  assumption  so  because  of  that  it
+overestimates the F value. The major limitation of the Ball method is in its inability to handle the
+variable process temperature so we cannot handle the variable process temperature. Apart from that
+there are numerical methods, one is nothing but numerical. So what it does is it uses the find adifference method to calculate the heat penetration curve. So it does both the things one is analyze and
+another one is calculate.
+So analyze in the sense, it calculates the using FDM approach it calculates the heat penetration test
+and get the parameters from over there and calculate the F value for the process establishment. There
+are other numerical packages as well, so I would like to request you to check few reference book
+given in this lecture so you will get to know what are all other methods. So in short, so we have done
+how to  do  temperature distribution  test and heat  penetration test and what  are all the  methods
+available so in the subsequent classes we will be doing some of the problems, there you get clear how
+to calculate. 
+(Refer Slide Time: 52:20)
+So these are all your references and additional resources whatever I used in this lecture. Thank you.  
